@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4684">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04582838</url>
+  </required_header>
+  <id_info>
+    <org_study_id>18751</org_study_id>
+    <secondary_id>Dyspnoea - SpO2 curve study</secondary_id>
+    <nct_id>NCT04582838</nct_id>
+  </id_info>
+  <brief_title>Photoplethysmographic Scaling of Dyspnoea</brief_title>
+  <acronym>DYSPO</acronym>
+  <official_title>Photoplethysmographic Signal Analysis as a Proxy for Excessive Effort and Impending Respiratory Failure</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Institutul de Urgenţă pentru Boli Cardiovasculare Prof.Dr. C.C. Iliescu</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Institutul de Urgenţă pentru Boli Cardiovasculare Prof.Dr. C.C. Iliescu</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Timely prediction of impending respiratory failure is vital, yet relies on subjective&#xD;
+      clinical assessment of the patient's respiratory status. Pulse oximetry plethysmographic&#xD;
+      signal analysis is indicative of the effort to breathe and may provide an objective&#xD;
+      measurement of respiratory loading.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Initiating invasive mechanical ventilation is a vital and delay-critical decision. Precise&#xD;
+      and timely prediction of impending respiratory failure would be highly consequential.&#xD;
+      Subjective evaluation of respiratory loading conditions is inconsistent, imprecise and may&#xD;
+      result in erroneous management. Photoplethysmographic (POP) waveform analysis provides a&#xD;
+      non-invasive, readily available tool to estimate breathing effort in a semiquantitative&#xD;
+      fashion.&#xD;
+&#xD;
+      It is the aim of this study to examine:&#xD;
+&#xD;
+        1. if the degree of dyspnoea, when clinically assessed by means of the respiratory rate and&#xD;
+           SpO2 values, correlates with the SpO2 wave variations (ΔPOP) in ICU spontaneously&#xD;
+           breathing COVID-19 and non-COVID-19 patients.&#xD;
+&#xD;
+        2. if a ΔPOP threshold could be identified to adequately predict further need of&#xD;
+           orotracheal intubation and invasive mechanical ventilation.&#xD;
+&#xD;
+      This study consists of three main steps:&#xD;
+&#xD;
+        1. Clinical evaluation of dyspnoea based on:&#xD;
+&#xD;
+           1.1. Respiratory rate&#xD;
+&#xD;
+           1.2. Oxygen saturation (SpO2)&#xD;
+&#xD;
+        2. Storage of SpO2 curve for ΔPOP computation according to a proprietary algorithm after&#xD;
+           offline POP analysis .&#xD;
+&#xD;
+        3. Within a time frame of 10 days from when the first two steps are met, monitor for need&#xD;
+           of invasive ventilatory support.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 1, 2020</start_date>
+  <completion_date type="Anticipated">July 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 30, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Rate of failure of spontaneous breathing</measure>
+    <time_frame>Day 10</time_frame>
+    <description>Number of patients who fail spontaneous breathing (SB). Failure of SB is defined as death or need of invasive mechanical ventilation whereas SB includes any form of non-invasive ventilatory support</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Respiratory rate</measure>
+    <time_frame>Day 0</time_frame>
+    <description>Patient's respiratory rate during non-invasive respiratory support as derived from an ECG signal</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SpO2 under non-invasive respiratory support</measure>
+    <time_frame>Day 0</time_frame>
+    <description>Peripheral oxygen saturation (SpO2) as measured with a pulse oximeter during any form of non-invasive ventilatory support</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ΔPOP</measure>
+    <time_frame>day 0</time_frame>
+    <description>Photoplethysmographic variation index following offline computation of the SpO2 curve stored at day 0 according to a proprietary algorithm</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Respiratory Failure</condition>
+  <arm_group>
+    <arm_group_label>Spontaneous breathing ICU non-COVID</arm_group_label>
+    <description>Spontaneously breathing non-COVID-19 critically ill patients with sinus rhythm.&#xD;
+Inclusion and exclusion criterion are listed elsewhere.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Spontaneous breathing ICU COVID</arm_group_label>
+    <description>Spontaneously breathing COVID-19 critically ill patients with sinus rhythm.&#xD;
+Inclusion and exclusion criterion are listed elsewhere.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Pulse oximeter</intervention_name>
+    <description>In both groups, pulse oximeters provide continuous monitoring of oxygen saturation (SpO2).&#xD;
+Also, SpO2 curve can be recorded for off-line analysis.</description>
+    <arm_group_label>Spontaneous breathing ICU COVID</arm_group_label>
+    <arm_group_label>Spontaneous breathing ICU non-COVID</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>ECG</intervention_name>
+    <description>ECG signal is used to monitor respiratory rate (RR).</description>
+    <arm_group_label>Spontaneous breathing ICU COVID</arm_group_label>
+    <arm_group_label>Spontaneous breathing ICU non-COVID</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Spontaneously breathing ICU (COVID and non-COVID-19) adult patients with sinus rhythm,&#xD;
+        under any form of non-invasive respiratory support.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Informed consent from patient or next-of-kin according to local administrative&#xD;
+             decision&#xD;
+&#xD;
+          -  Spontaneous breathing, including during prone position&#xD;
+&#xD;
+          -  Sinus rhythm&#xD;
+&#xD;
+          -  Minimum standards for ICU monitoring: ECG, blood pressure (invasive or non-invasive),&#xD;
+             respiratory rate (by ECG signal), SpO2 and temperature&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Suspected pregnancy&#xD;
+&#xD;
+          -  Weight &gt; 120 Kg or &lt; 60 kg&#xD;
+&#xD;
+          -  Emergency or urgency&#xD;
+&#xD;
+          -  Intubated ( and mechanically ventilated) patient&#xD;
+&#xD;
+          -  Non- sinus rhythm&#xD;
+&#xD;
+          -  Left ventricular ejection fraction (LVEF) ≤ 30%&#xD;
+&#xD;
+          -  Right ventricular (RV) dysfunction ( RVEF ≤ 30% at transthoracic echocardiography&#xD;
+             (TTE))&#xD;
+&#xD;
+          -  Significant pulmonary hypertension (PHT) (TTE: mean pulmonary arterial pressure (mPAP)&#xD;
+             ≥ 35 mm.Hg)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Serban I Bubenek Turconi, Professor</last_name>
+    <role>Study Chair</role>
+    <affiliation>Emergency Institute for Cardiovascular Diseases Prof Dr CC Iliescu</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Balan Cosmin, Consultant</last_name>
+    <phone>+40722751501</phone>
+    <email>cosmin13mara@yahoo.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Clinical Emergency Hospital Bucharest</name>
+      <address>
+        <city>Bucharest</city>
+        <zip>014461</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Cristian Cobilinschi, Consultant</last_name>
+      <phone>+40765018776</phone>
+      <email>cob_rodion@yahoo.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Hospital of Infectious and Tropical Diseases &quot;Dr. Victor Babes&quot;</name>
+      <address>
+        <city>Bucharest</city>
+        <zip>030303</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Balan Cosmin, Consultant</last_name>
+      <phone>+40722751501</phone>
+      <email>cosmin13mara@yahoo.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Romania</country>
+  </location_countries>
+  <reference>
+    <citation>Addison PS. Respiratory effort from the photoplethysmogram. Med Eng Phys. 2017 Mar;41:9-18. doi: 10.1016/j.medengphy.2016.12.010. Epub 2017 Jan 23.</citation>
+    <PMID>28126420</PMID>
+  </reference>
+  <reference>
+    <citation>Perel A. Excessive variations in the plethysmographic waveform during spontaneous ventilation: an important sign of upper airway obstruction. Anesth Analg. 2014 Dec;119(6):1288-92. doi: 10.1213/ANE.0000000000000378.</citation>
+    <PMID>25405690</PMID>
+  </reference>
+  <reference>
+    <citation>Khandoker AH, Karmakar CK, Penzel T, Glos M, Schoebel C, Palaniswami M. Estimating relative respiratory effort from features of Photo-Plethysmography signal. Annu Int Conf IEEE Eng Med Biol Soc. 2013;2013:6575-8. doi: 10.1109/EMBC.2013.6611062.</citation>
+    <PMID>24111249</PMID>
+  </reference>
+  <reference>
+    <citation>Addison PS. Respiratory modulations in the photoplethysmogram (DPOP) as a measure of respiratory effort. J Clin Monit Comput. 2016 Oct;30(5):595-602. doi: 10.1007/s10877-015-9763-y. Epub 2015 Sep 16.</citation>
+    <PMID>26377021</PMID>
+  </reference>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>October 4, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 4, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 12, 2020</study_first_posted>
+  <last_update_submitted>October 9, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 9, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 14, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Institutul de Urgenţă pentru Boli Cardiovasculare Prof.Dr. C.C. Iliescu</investigator_affiliation>
+    <investigator_full_name>Balan Ion Cosmin</investigator_full_name>
+    <investigator_title>Consultant in Anaesthesia and ICM</investigator_title>
+  </responsible_party>
+  <keyword>breathing</keyword>
+  <keyword>effort</keyword>
+  <keyword>plethysmography</keyword>
+  <keyword>pulse oximetry</keyword>
+  <keyword>dyspnoea</keyword>
+  <keyword>mechanical ventilation</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Insufficiency</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

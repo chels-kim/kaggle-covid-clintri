@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2916">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04336748</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HCQ prophylaxis for COVID19</org_study_id>
+    <nct_id>NCT04336748</nct_id>
+  </id_info>
+  <brief_title>HCQ for Primary Prophylaxis Against COVID19 in Health-care Workers</brief_title>
+  <official_title>Low-dose Hydroxychloroquine for Primary Prophylaxis Against SARS-CoV-2 in Health-care Workers - a Randomized, Double-blind, Controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Medical University of Vienna</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Medical University of Vienna</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Background:&#xD;
+&#xD;
+      Aim: To demonstrate the efficacy of low-dose hydroxychloroquine as primary prevention in&#xD;
+      healthcare workers Design, participants and interventions: Prospective, randomized, parallel&#xD;
+      group, double-blinded, placebo controlled, study.&#xD;
+&#xD;
+      including 440 participants who will be randomised to 2 treatment arms: hydroxychloroquine or&#xD;
+      placebo.&#xD;
+&#xD;
+      Outcome variables: symptomatic or asymptomatic SARS-CoV-2 infection confirmed by PCR, viral&#xD;
+      load during SARS-CoV-2 infection, seroconversion during the study period, incidence of any&#xD;
+      acute respiratory infection, days of sick leave.&#xD;
+&#xD;
+      Statistical considerations: No trials have been published investigating the efficacy of HCQ&#xD;
+      as primary prophylaxis of SARS-CoV-2 infection in health care workers. Thus, sample size&#xD;
+      calculations in the proposed trial are based on the investigators' best estimates for several&#xD;
+      parameters.&#xD;
+&#xD;
+      In accordance to the effect of oseltamivir against symptomatic influenza, we assumed an&#xD;
+      approximate effectiveness of approximately 60% (HR of 0.4)&#xD;
+      (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6464969/) as realistic. As a prophylactic&#xD;
+      intervention with HCQ, which may have side effects and for which supply shortage can be&#xD;
+      expected, was judged justifiable only if its effectiveness is high, we based our sample size&#xD;
+      consideration on a HR of 0.3. To estimate the probability of an event in both the&#xD;
+      experimental and the control group, very little data is available. In a Dutch&#xD;
+      point-prevalence study 0-10% of health-care workers were infected depending on the healthcare&#xD;
+      institution, depending on the hospital. This point-prevalence study was performed between 6&#xD;
+      and 9 March, when the reported number of cases in the Netherlands was 33 and 77,&#xD;
+      respectively, according to the RIVM&#xD;
+      (https://www.rivm.nl/nieuws/resultaat-steekproef-4-ziekenhuismedewerkers-heeft-coronavirus).&#xD;
+      Additionally, in an a report published in the Lancet, 20% of responding healthcare workers in&#xD;
+      Italy were found to be infected with SARS-CoV2 within less than one month&#xD;
+      (https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30627-9/fulltext).&#xD;
+      Several media reports indicate that this proportion is similar across various healthcare&#xD;
+      institutions and countries&#xD;
+      (https://www.nytimes.com/2020/03/24/world/europe/coronavirus-europe-covid-19.html) and&#xD;
+      (https://www.aljazeera.com/news/2020/03/spain-tightens-restrictions-week-lockdown-begins-2003&#xD;
+      30191539568.html).&#xD;
+&#xD;
+      As the proposed study will be performed in a high-risk setting, we assumed an event (i.e. PCR&#xD;
+      positivity) probability of 10% in the control group and 3% in the experimental arm after the&#xD;
+      maximum study period. In summary, a sample size of 210 participants per arm is necessary to&#xD;
+      detect a HR of 0.3 with a power of 80.3% with an alpha-error of 0.05. To account for&#xD;
+      drop-outs and asymptomatic, undetected infection at inclusion or past infection with existing&#xD;
+      immunity, an additional 10 participants will randomized per treatment arm. The overall study&#xD;
+      population is therefore 440 participants.&#xD;
+&#xD;
+      Statistical analysis will be based on two populations: A Modified Intention to Treat&#xD;
+      population excluding those who withdrew consent after randomization and those with a positive&#xD;
+      serology at baseline. And a per protocol population including all randomized subjects who&#xD;
+      completed at least 3 out of 4 follow-up visits and took at least 80% of all doses of study&#xD;
+      medication.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 2020</start_date>
+  <completion_date type="Anticipated">August 2020</completion_date>
+  <primary_completion_date type="Anticipated">July 2020</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Symptomatic or asymptomatic SARS-CoV-2 infection confirmed by PCR</measure>
+    <time_frame>4 weeks</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Viral load during SARS-CoV-2 infection</measure>
+    <time_frame>4 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Seroconversion during the study period</measure>
+    <time_frame>4 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of any acute respiratory infection</measure>
+    <time_frame>4 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days of sick leave</measure>
+    <time_frame>4 weeks</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">440</enrollment>
+  <condition>Sars-CoV2</condition>
+  <condition>Infection Viral</condition>
+  <condition>Healthcare Worker</condition>
+  <condition>Prophylaxis</condition>
+  <arm_group>
+    <arm_group_label>Hydroxychloroquine</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>200mg once daily</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Hydroxychloroquine</intervention_name>
+    <description>low dose (200mg) Hydroxychloroquine once daily for 4 weeks</description>
+    <arm_group_label>Hydroxychloroquine</arm_group_label>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Health-care worker with frequent contact with confirmed COVID-19 patients&#xD;
+&#xD;
+          -  No active or past infection with SARS-CoV-2&#xD;
+&#xD;
+          -  18 years of age or older&#xD;
+&#xD;
+          -  No allergy or contraindication to hydroxychloroquine&#xD;
+&#xD;
+          -  written informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Age of less than 18 years&#xD;
+&#xD;
+          -  Pregnancy or lactation&#xD;
+&#xD;
+          -  unwillingness to use effective contraception during the participation in the trial&#xD;
+&#xD;
+          -  Use of concomitant medication that prolongs the QT interval&#xD;
+&#xD;
+          -  Allergy or contraindication to hydroxychloroquine&#xD;
+&#xD;
+          -  Retinopathy or maculopathy&#xD;
+&#xD;
+          -  Neuromuscular diseases (i.e Myasthenia gravis, Parkinson's disease)&#xD;
+&#xD;
+          -  G6PD Deficiency&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <verification_date>April 2020</verification_date>
+  <study_first_submitted>April 4, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 4, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 7, 2020</study_first_posted>
+  <last_update_submitted>April 4, 2020</last_update_submitted>
+  <last_update_submitted_qc>April 4, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 7, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Medical University of Vienna</investigator_affiliation>
+    <investigator_full_name>Matthias Vossen</investigator_full_name>
+    <investigator_title>Priv. Doz. Dr.</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Virus Diseases</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hydroxychloroquine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1893">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04608214</url>
+  </required_header>
+  <id_info>
+    <org_study_id>APHP200552</org_study_id>
+    <secondary_id>2020-002295-13</secondary_id>
+    <nct_id>NCT04608214</nct_id>
+  </id_info>
+  <brief_title>Evaluation of Alisporivir for the Treatment of Hospitalised Patients With Infections Due to SARS-CoV-2 (COVID-19)</brief_title>
+  <acronym>CYCLOVID</acronym>
+  <official_title>Evaluation of the Efficacy, Safety and Tolerability of Alisporivir for the Treatment of Hospitalised Patients With Infections Due to SARS-CoV-2 (COVID-19). A Randomised, Open-label, Proof of Concept, Phase 2 Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Assistance Publique - Hôpitaux de Paris</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Debiopharm International SA</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Assistance Publique - Hôpitaux de Paris</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      COVID-19 is a viral respiratory and systemic disease that has been rapidly spreading globally&#xD;
+      since the first cases were reported in December 2019 and has now become pandemic. The&#xD;
+      causative agent of COVID-19 was identified as a novel coronavirus named severe acute&#xD;
+      respiratory syndrome coronavirus 2 (SARS-CoV-2, first designated as 2019-nCoV).&#xD;
+&#xD;
+      The disease manifestations of COVID-19 can range from mild, self-resolving respiratory&#xD;
+      disease to severe pneumonia, ARDS, multiorgan failure, and ultimately death. In early&#xD;
+      reports, the mortality rate among patients admitted to hospital and with confirmed SARS-CoV-2&#xD;
+      infection was reported to be between 4 and 15%. Although the disease can afflict all age&#xD;
+      groups, elderly patients and patients with underlying comorbidities such as high body mass&#xD;
+      index, hypertension, diabetes, cardiovascular disease, or cerebrovascular disease are at risk&#xD;
+      of developing severe disease and dying.&#xD;
+&#xD;
+      There are currently no etiologic treatments for COVID-19, and efforts are underway to&#xD;
+      identify therapeutics that could be effective in controlling this disease.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Cyclophilins are cellular (host) peptidyl-prolyl cis/trans isomerases (molecular chaperones)&#xD;
+      involved in protein folding, maturation, and trafficking. Cyclophilins have been shown to&#xD;
+      play a key role in the lifecycle of many coronaviruses, including human coronaviruses 229E&#xD;
+      (HCoV-229E) and NL-63 (HCoV-NL63), feline infectious peritonitis coronavirus (FPIV), SARS-CoV&#xD;
+      and Middle-East-Respiratory-Syndrome coronavirus (MERS-CoV). Cyclosporin A (CsA), a potent&#xD;
+      cyclophilin inhibitor, blocks the replication of various coronaviruses in vitro, including&#xD;
+      HCoV-229E, HCoV-NL63, FPIV, mouse hepatitis virus (MHV), avian infectious bronchitis virus,&#xD;
+      and SARS-CoV.&#xD;
+&#xD;
+      Alisporivir is a non-immunosuppressive analogue of CsA with potent cyclophilin inhibition&#xD;
+      properties. In vitro, alisporivir inhibits the replication of HCoV-229E, HCoV-NL63, MHV,&#xD;
+      SARS-CoV and MERS-CoV at low micromolar concentrations without cytotoxic effect. Although&#xD;
+      alisporivir has not demonstrated activity against coronaviruses in in vivo models to date,&#xD;
+      recent experiments showed that alisporivir bears concentration-dependent properties against&#xD;
+      CoV-2 in vitro.&#xD;
+&#xD;
+      Preclinical pharmacology data indicate that, after oral administration, alisporivir is widely&#xD;
+      distributed in the whole body, including the lungs. Furthermore, the EC90 of alisporivir&#xD;
+      against SARS-CoV-2 in VeroE6 cells appears to be clinically achievable in patients. In&#xD;
+      addition, because alisporivir inhibits all cellular cyclophilins, it also blocks&#xD;
+      mitochondrial cyclophilin-D, a key regulator of mitochondrial permeability transition pore&#xD;
+      (mPTP) opening, a mechanism involved in triggering cell death.&#xD;
+&#xD;
+      Therefore, besides its antiviral properties, alisporivir may also be effective in preventing&#xD;
+      lung tissue damage.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 1, 2020</start_date>
+  <completion_date type="Anticipated">August 4, 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 6, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>This is a randomised, open-label, proof of-concept, Phase 2 study to evaluate the efficacy, safety and tolerability of alisporivir plus SOC as compared to SOC for the treatment of hospitalised patients with infections due to SARS-CoV-2</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in SARS-CoV-2 viral load in nasopharyngeal swabs</measure>
+    <time_frame>at Day 1 and Day 7</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Viral Load Response Rate (VLRR)</measure>
+    <time_frame>at Day 1 and Day 7</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of patients reporting each severity rating on an 8-point ordinal scale.</measure>
+    <time_frame>at Day 1, Day 7, Day 11, Day 14 and Day 90</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in National Early Warning Score scale</measure>
+    <time_frame>at Day 1, Day 7, Day 11, Day 14 and Day 90</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in thoracic CT scan</measure>
+    <time_frame>at Day 1, Day 14 and Day 90</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of patients admitted to Intensive Care Unit (ICU)</measure>
+    <time_frame>at Day 1 to Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to admission to Intensive Care Unit (ICU)</measure>
+    <time_frame>at Day 1 to Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of patients admitted to Intensive Care Unit (ICU)</measure>
+    <time_frame>at Day 90</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to admission to Intensive Care Unit (ICU)</measure>
+    <time_frame>at Day 90</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of patients requiring mechanical ventilation</measure>
+    <time_frame>at Day 1 to Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of patients requiring mechanical ventilation</measure>
+    <time_frame>at Day 90</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentages of patients negative for SARS CoV 2 RNA in nasopharyngeal swabs</measure>
+    <time_frame>at Day 14, Day 21 and Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to negative viral load</measure>
+    <time_frame>at Day 1 to Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to resolution of symptoms</measure>
+    <time_frame>at Day 1 to Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to resolution of symptoms</measure>
+    <time_frame>at Day 90</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of need for supplemental oxygen</measure>
+    <time_frame>at Day 1 to Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of need for supplemental oxygen</measure>
+    <time_frame>at Day 90</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of hospitalisation</measure>
+    <time_frame>at Day 1 to Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of hospitalisation</measure>
+    <time_frame>at Day 90</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of new non-invasive ventilation or high flow oxygen use</measure>
+    <time_frame>at Day 1 to Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of new non-invasive ventilation or high flow oxygen use</measure>
+    <time_frame>at Day 90</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of new oxygen use</measure>
+    <time_frame>at Day 1 to Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of new oxygen use</measure>
+    <time_frame>at Day 90</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of new ventilator or ECMO use</measure>
+    <time_frame>at Day 1 to Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of new ventilator or ECMO use</measure>
+    <time_frame>at Day 90</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of non-invasive ventilation/high flow oxygen free days</measure>
+    <time_frame>at Day 1 to Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of non-invasive ventilation/high flow oxygen free days</measure>
+    <time_frame>at Day 90</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of oxygenation free days</measure>
+    <time_frame>at Day 1 to Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of oxygenation free days</measure>
+    <time_frame>at Day 90</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient all-cause mortality</measure>
+    <time_frame>at Day 14, Day 28 and Day 90</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cumulative incidence of any AE</measure>
+    <time_frame>at Day 1 to Day 90</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cumulative incidence of Grade 3 and 4 AEs</measure>
+    <time_frame>at Day 1 to Day 90</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cumulative incidence of SAEs</measure>
+    <time_frame>at Day 1 to Day 90</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>SARS-CoV-2</condition>
+  <arm_group>
+    <arm_group_label>Alisporivir</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Administration of alisporivir and standard of care (SOC)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard of care (SOC)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Locally accepted regimen protocols for patient care</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Alisporivir</intervention_name>
+    <description>Administration of alisporivir at the dose of 600 mg p.o. BID from D1 to D14 to patients and standard of care (SOC).</description>
+    <arm_group_label>Alisporivir</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Standard of care (SOC)</intervention_name>
+    <description>Locally accepted regimen protocols for patient care and select agents based on the underlying diagnosis and the severity of COVID 19 (excepting e.g. azithromycin and other antibiotics listed as prohibited medications)</description>
+    <arm_group_label>Standard of care (SOC)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Adult males and females ≥18 years and ≤80 years of age at the time of screening.&#xD;
+&#xD;
+          2. Are hospitalised during the screening period with duration of hospitalisation prior to&#xD;
+             randomisation ≤48 hours.&#xD;
+&#xD;
+          3. Have a diagnosis of COVID-19 based on symptoms onset and positive SARS-CoV-2 RT-PCR&#xD;
+             test from nasopharyngeal swab.&#xD;
+&#xD;
+          4. Viral load ≤ 30 Ct&#xD;
+&#xD;
+          5. Have at least one (1) of the following:&#xD;
+&#xD;
+               1. Radiographic pulmonary infiltrates (CT scan), AND/OR&#xD;
+&#xD;
+               2. Clinical assessment (evidence of rales/crackles on exam) AND SpO2 ≤94% on room&#xD;
+                  air, AND/OR&#xD;
+&#xD;
+               3. Requirement for supplemental oxygen.&#xD;
+&#xD;
+          6. If female, of non-childbearing potential or if of childbearing potential, be willing&#xD;
+             to commit to either sexual abstinence or use of at least 2 medically accepted,&#xD;
+             effective methods of birth control from screening through 2 months after last&#xD;
+             alisporivir dose.&#xD;
+&#xD;
+          7. If male, a willingness to refrain from donating sperm and, if engaging in sexual&#xD;
+             intercourse with a female partner who could become pregnant, a willingness to use a&#xD;
+             condom in addition to having the female partner use a highly effective method of birth&#xD;
+             control from screening through 4 months after last alisporivir dose.&#xD;
+&#xD;
+          8. Willing and able to provide written informed consent.&#xD;
+&#xD;
+          9. Willing to comply with all study assessments and adhere to the protocol schedule.&#xD;
+&#xD;
+         10. Has an affiliation with a social security system.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Patients with ARDS or patients requiring mechanical ventilation at screening or&#xD;
+             randomisation.&#xD;
+&#xD;
+          2. In the opinion of the investigator, the patient is unlikely to survive the following 7&#xD;
+             days after randomisation due to a rapidly progressive or terminal illness with a high&#xD;
+             risk of mortality due to any cause, including acute hepatic failure, respiratory&#xD;
+             failure or severe septic shock.&#xD;
+&#xD;
+          3. Patients who are unconscious or considered by the investigator unable to consent.&#xD;
+&#xD;
+          4. Other severe co-morbidity with life expectancy ≤3 months according to the&#xD;
+             investigator's assessment.&#xD;
+&#xD;
+          5. Critically ill patients who have an APACHE II score ≥30.&#xD;
+&#xD;
+          6. Concomitant severe bacterial infection including blood stream infections,&#xD;
+             endocarditis, osteomyelitis, retroperitoneal abscess, septic arthritis, or meningitis&#xD;
+             diagnosed within 7 days prior to randomisation (bacterial pulmonary infection that may&#xD;
+             complicate COVID-19 is not an exclusion criterion).&#xD;
+&#xD;
+          7. Any of the following signs of severe sepsis:&#xD;
+&#xD;
+               1. Shock or profound hypotension defined as systolic blood pressure ≤90 mm Hg or a&#xD;
+                  decrease of ≥40 mm Hg from the value obtained during screening that is not&#xD;
+                  responsive to fluid challenge.&#xD;
+&#xD;
+               2. Hypothermia (core temperature ≤ 35.6°C).&#xD;
+&#xD;
+               3. Disseminated intravascular coagulation (DIC) as evidenced by PT, PTT 2 × upper&#xD;
+                  limit of normal (ULN), or platelets ≤ 50% of the lower limit of normal (LLN).&#xD;
+&#xD;
+          8. History of positive test for human immunodeficiency virus (HIV) including all patients&#xD;
+             currently on highly active antiretroviral therapy (HAART) regardless of the CD4+ cell&#xD;
+             count.&#xD;
+&#xD;
+          9. Presence of immunodeficiency or an immunocompromised condition including neutropenia,&#xD;
+             haematologic malignancy, history of haematopoietic stem cell transplant, history of&#xD;
+             solid organ transplant, receiving immunosuppressive therapy and long term use of&#xD;
+             systemic corticosteroids.&#xD;
+&#xD;
+         10. Severe hepatic impairment at screening, as evidenced by alanine aminotransferase (ALT)&#xD;
+             or aspartate aminotransferase (AST) ≥3 × ULN or total bilirubin ≥2 × ULN (except in&#xD;
+             case of known Gilbert syndrome), or clinical signs of cirrhosis or end-stage hepatic&#xD;
+             disease (e.g., ascites, hepatic encephalopathy).&#xD;
+&#xD;
+         11. Acute hepatitis, cirrhosis (any Child-Pugh class), acute hepatic failure or acute&#xD;
+             decompensation of chronic hepatic failure.&#xD;
+&#xD;
+         12. Alkaline phosphatase ≥3.0 × ULN. Patients with values ≥3.0 × ULN and ≤5.0 × ULN are&#xD;
+             eligible if this value is documented to be acute and directly related to the&#xD;
+             infectious process being treated.&#xD;
+&#xD;
+         13. Severe renal impairment (creatinine-clearance ≤30 mL/min) or end-stage renal disease&#xD;
+             (ESRD) requiring haemodialysis or peritoneal dialysis, according to Cockcroft-Gault.&#xD;
+&#xD;
+         14. Uncontrolled hypertension.&#xD;
+&#xD;
+         15. Uncontrolled thyroid function.&#xD;
+&#xD;
+         16. History of known or suspected Clostridium difficile infection.&#xD;
+&#xD;
+         17. History of epilepsy or known seizure disorder (excluding a history of childhood&#xD;
+             febrile seizures).&#xD;
+&#xD;
+         18. Acute co-morbidity within 7 days before inclusion such as myocardial infarction.&#xD;
+&#xD;
+         19. A female who is pregnant or breastfeeding.&#xD;
+&#xD;
+         20. Documented hypersensitivity reaction or anaphylaxis to alisporivir, one of the&#xD;
+             non-active ingredients or any of the SOC medications.&#xD;
+&#xD;
+         21. Receipt of any investigational medication in the 3 months prior to screening.&#xD;
+&#xD;
+         22. Anticipated transfer to another hospital that is not a study site during the first 4&#xD;
+             days of treatment.&#xD;
+&#xD;
+         23. Patients previously treated with antivirals, immunomodulators (mAbs in the 3 months&#xD;
+             prior to screening) and other medicines prohibited in this study in the 14 days prior&#xD;
+             to randomisation.&#xD;
+&#xD;
+         24. Ongoing or recent use of any other medication (including over the counter medication&#xD;
+             and herbal products) within 14 days before randomisation or within 5 drug half-lives&#xD;
+             of that medication (whichever is longer) that are known inhibitors/inducers of&#xD;
+             cytochrome P450 3A or P-glycoprotein (P-gp), or inhibitors of organic anion&#xD;
+             transporting polypeptides (OATPs), multi resistance protein 2 (MRP2) or bile salt&#xD;
+             export pump (BSEP).&#xD;
+&#xD;
+             Known need of concomitant treatment with the following medications during treatment&#xD;
+             with alisporivir and 14 days after the end of treatment:&#xD;
+&#xD;
+               1. Known inhibitors/inducers of cytochrome P450 3A or P-gp, or inhibitors of OATPs,&#xD;
+                  MRP2 or BSEP;&#xD;
+&#xD;
+               2. Drugs with narrow therapeutic index that are known sensitive substrates of&#xD;
+                  cytochrome P450 3A, or substrates of P-gp, OATPs, MRP2 or BSEP.&#xD;
+&#xD;
+         25. Any other condition or prior therapy, which, in the opinion of the investigator, would&#xD;
+             make the patient unsuitable for this study.&#xD;
+&#xD;
+         26. Patients with history of pancreatic disease.&#xD;
+&#xD;
+         27. Patients under legal protection.&#xD;
+&#xD;
+         28. Prisoners.&#xD;
+&#xD;
+         29. Patients participating in another interventional study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jean-Michel PAWLOTSKY, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Assistance Publique Hôpitaux de Paris (AP-HP)</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jean-Michel PAWLOTSKY, MD, PhD</last_name>
+    <phone>(0)1 49 81 28 27</phone>
+    <phone_ext>+33</phone_ext>
+    <email>jean-michel.pawlotsky@aphp.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Raphaël LEPEULE, MD</last_name>
+    <phone>(0)1 45 17 80 03</phone>
+    <phone_ext>+33</phone_ext>
+    <email>raphael.lepeule@aphp.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Assistance Publique Hôpitaux de Paris - CHU Henri Mondor</name>
+      <address>
+        <city>Créteil</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jean-Michel PAWLOTSKY, MD, PhD</last_name>
+      <phone>(0)1 49 81 28 27</phone>
+      <phone_ext>+33</phone_ext>
+      <email>jean-michel.pawlotsky@aphp.fr</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>October 12, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 28, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 29, 2020</study_first_posted>
+  <last_update_submitted>October 28, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 28, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 29, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Alisporivir</keyword>
+  <keyword>Viral Load</keyword>
+  <keyword>efficacy</keyword>
+  <keyword>safety</keyword>
+  <keyword>tolerability</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

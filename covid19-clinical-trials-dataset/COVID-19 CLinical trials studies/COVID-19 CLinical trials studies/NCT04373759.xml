@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1489">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04373759</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020-CHITS-004</org_study_id>
+    <nct_id>NCT04373759</nct_id>
+  </id_info>
+  <brief_title>Cardiac Arrest Incidence and Outcome Among Patients With COVID-19 in French ICUs</brief_title>
+  <acronym>ACICOVID</acronym>
+  <official_title>Cardiac Arrest Incidence and Outcome Among Patient With COVID-19 Pneumonia in French ICUs</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Centre Hospitalier Intercommunal de Toulon La Seyne sur Mer</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Centre Hospitalier Intercommunal de Toulon La Seyne sur Mer</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is responsible for the novel&#xD;
+      coronavirus disease 2019 (COVID-19) pandemic. Among COVID-19 complications, in-hospital&#xD;
+      cardiac arrest (IHCA) was reported with a very poor outcome in a retrospective single-center&#xD;
+      study (0,7% of 30 days survival with good neurological outcome among IHCA patients with a&#xD;
+      resuscitation attempt), related to its natural course and management. The incidence of&#xD;
+      unexpected in-ICU cardiac arrest (ICUCA) due to COVID-19 is still unknown. Additionally,&#xD;
+      outcome of COVID-19 patients admitted in ICU for an out-of-hospital cardiac arrest (OHCA) is&#xD;
+      also undescribed.&#xD;
+&#xD;
+      The objective this study is :&#xD;
+&#xD;
+        -  to report the incidence of ICUCA among patients hospitalized in French ICU for COVID-19.&#xD;
+&#xD;
+        -  to report morbidity and mortality among COVID-19 patients admitted alive in ICU for an&#xD;
+           OHCA or an IHCA.&#xD;
+&#xD;
+      The secondary objective is to assess outcome and identify risk factors of ICUCA occurrence&#xD;
+      among patients admitted for COVID-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Retrospective and prospective multicentric observational registry in French intensive care&#xD;
+      units (ICU) including all consecutive adult patients admitted in ICU with a documented&#xD;
+      SARS-CoV-2 disease :&#xD;
+&#xD;
+        -  For an out-of-hospital or an in-hospital cardiac arrest (OHCA and IHCA respectively)&#xD;
+&#xD;
+        -  Or presenting an unexpected in-ICU cardiac arrest (ICUCA) Patients characteristics,&#xD;
+           cardiac arrest history and patients outcome will be recorded according to Utstein&#xD;
+           recommendations.&#xD;
+&#xD;
+      Patients presenting an expected cardiac arrest in ICU related to withdrawal of life&#xD;
+      sustaining therapies (WLST) will be excluded.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">May 2, 2020</start_date>
+  <completion_date type="Actual">September 30, 2020</completion_date>
+  <primary_completion_date type="Actual">September 30, 2020</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>3 Months</target_duration>
+  <primary_outcome>
+    <measure>Incidence of unexpected cardiac arrest</measure>
+    <time_frame>7 months</time_frame>
+    <description>Percentage of unexpected in-intensive care unit cardiac arrest among COVID-19 patients admitted to intensive care unit</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Charlson score</measure>
+    <time_frame>7 months</time_frame>
+    <description>Diabetes, hypertension, smoking, dyslipidemia, coronary artery disease, chronic respiratory insufficiency, chronic heart failure, chronic renal insufficiency, chronic hepatic insufficiency, chronic neurological disease, cancer, malignant hemopathy. Charlson score's minimum and maximum values are 0 and 40 respectively, the lowest score corresponds to a better outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Organ failure score at ICU admission and/or before unexpected in-ICU cardiac arrest</measure>
+    <time_frame>7 months</time_frame>
+    <description>Respiratory failure, neurological impairment, circulatory failure, hepatic failure, haematological failure, renal failure. Sofa score's minimum and maximum values are 0 and 24, the lowest score corresponds to a better outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Etiology retained to explain cardiac arrest occurrence</measure>
+    <time_frame>7 months</time_frame>
+    <description>Cardiac origin; Respiratory origin; Metabolic origin; unknown origin</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Modified Rankin score (mRS) at ICU discharge, at hospital discharge and at 3 months</measure>
+    <time_frame>3 months</time_frame>
+    <description>0 - no symptoms at all&#xD;
+- no significant disability despite symptoms; able to carry out all usual duties and activities&#xD;
+- Slight disability; unable to carry out all previous activities, but able to look after own affairs without assistance&#xD;
+- Moderate disability; requiring some help, but able to walk without assistance&#xD;
+- Moderately severe disability; unable to walk and attend to bodily needs without assistance&#xD;
+- Severe disability; bedridden, incontinent and requiring constant nursing care and attention&#xD;
+- Dead</description>
+  </secondary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Actual">186</enrollment>
+  <condition>Sars-CoV2</condition>
+  <condition>Covid-19</condition>
+  <arm_group>
+    <arm_group_label>Unexpected in-intensive care unit cardiac arrest patients</arm_group_label>
+    <description>ICUCA Patients admitted in intensive care unit for a confirmed COVID-19 and presenting an unexpected in-intensive care unit cardiac arrest</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>In-hospital cardiac arrest patients</arm_group_label>
+    <description>IHCA Patients admitted in intensive care unit for an in-hospital cardiac arrest with a confirmed Covid-19</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Out-of-hospital cardiac arrest</arm_group_label>
+    <description>OHCA Patients admitted in intensive care unit for an out-hospital cardiac arrest with a confirmed Covid-19</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Cardiopulmonary resuscitation</intervention_name>
+    <description>Cardiopulmonary resuscitation</description>
+    <arm_group_label>Unexpected in-intensive care unit cardiac arrest patients</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Modified Rankin score</intervention_name>
+    <description>0 - no symptoms at all&#xD;
+- no significant disability despite symptoms; able to carry out all usual duties and activities&#xD;
+- Slight disability; unable to carry out all previous activities, but able to look after own affairs without assistance&#xD;
+- Moderate disability; requiring some help, but able to walk without assistance&#xD;
+- Moderately severe disability; unable to walk and attend to bodily needs without assistance&#xD;
+- Severe disability; bedridden, incontinent and requiring constant nursing care and attention&#xD;
+- Dead</description>
+    <arm_group_label>In-hospital cardiac arrest patients</arm_group_label>
+    <arm_group_label>Out-of-hospital cardiac arrest</arm_group_label>
+    <arm_group_label>Unexpected in-intensive care unit cardiac arrest patients</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All consecutive adult patients admitted in intensive care unit with a documented SARS-CoV-2&#xD;
+        disease&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients admitted in intensive care unit with a documented SARS-CoV-2 disease&#xD;
+&#xD;
+          -  For an out-of-hospital or an in-hospital cardiac arrest&#xD;
+&#xD;
+          -  Or an in-hospital cardiac arrest&#xD;
+&#xD;
+          -  Or presenting an unexpected in-intensive care unit cardiac arrest&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Age under 18 y.o&#xD;
+&#xD;
+          -  Expected in-intensive care unit cardiac arrest related to withdrawal of life&#xD;
+             sustaining therapies.&#xD;
+&#xD;
+          -  Withdrawal of patient or next-of-kin informed consent&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jonathan Chelly, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Centre Hospitalier Intercommunal Toulon La Seyne sur Mer</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>CHU Caen</name>
+      <address>
+        <city>Caen</city>
+        <state>Calvados</state>
+        <zip>14000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Privé St Martin</name>
+      <address>
+        <city>Caen</city>
+        <state>Calvados</state>
+        <zip>14000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH Angoulème</name>
+      <address>
+        <city>Angoulême</city>
+        <state>Charente</state>
+        <zip>16959</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH Brive</name>
+      <address>
+        <city>Brive-la-Gaillarde</city>
+        <state>Corrèze</state>
+        <zip>19100</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Dijon</name>
+      <address>
+        <city>Dijon</city>
+        <state>Côte-d'Or</state>
+        <zip>21000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH Etampes</name>
+      <address>
+        <city>Étampes</city>
+        <state>Essonne</state>
+        <zip>91150</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Antoine Béclère AP-HP</name>
+      <address>
+        <city>Clamart</city>
+        <state>Haut-de-Seine</state>
+        <zip>92140</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Ambroise Paré AP-HP</name>
+      <address>
+        <city>Boulogne-Billancourt</city>
+        <state>Hauts-de-Seine</state>
+        <zip>92100</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH Louis Mourier AP-HP</name>
+      <address>
+        <city>Colombes</city>
+        <state>Hauts-de-Seine</state>
+        <zip>92700</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Montpellier</name>
+      <address>
+        <city>Montpellier</city>
+        <state>Hérault</state>
+        <zip>34295</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Lariboisière AP-HP</name>
+      <address>
+        <city>Paris</city>
+        <state>Ile-de-France</state>
+        <zip>75010</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Saint Louis AP-HP</name>
+      <address>
+        <city>Paris</city>
+        <state>Ile-de-France</state>
+        <zip>75010</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU St Antoine</name>
+      <address>
+        <city>Paris</city>
+        <state>Ile-de-France</state>
+        <zip>75012</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Groupe Hospitalier Saint Joseph</name>
+      <address>
+        <city>Paris</city>
+        <state>Ile-de-France</state>
+        <zip>75014</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Necker Enfants Malades</name>
+      <address>
+        <city>Paris</city>
+        <state>Ile-de-France</state>
+        <zip>75015</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Pitié Salpétrière</name>
+      <address>
+        <city>Paris</city>
+        <state>Ile-de-France</state>
+        <zip>75651</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Felix Guyon</name>
+      <address>
+        <city>Saint-Denis</city>
+        <state>La Reunion</state>
+        <zip>97405</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHR Orléans</name>
+      <address>
+        <city>Orléans</city>
+        <state>Loiret</state>
+        <zip>45010</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH Cahors</name>
+      <address>
+        <city>Cahors</city>
+        <state>Lot</state>
+        <zip>46000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHRU Roger Salengro</name>
+      <address>
+        <city>Lille</city>
+        <state>Nord</state>
+        <zip>59037</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH Bethune</name>
+      <address>
+        <city>Beuvry</city>
+        <state>Pas-de-Calais</state>
+        <zip>62660</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH Lens</name>
+      <address>
+        <city>Lens</city>
+        <state>Pas-de-Calais</state>
+        <zip>62300</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Grand Hôpital de l'Est Francilien</name>
+      <address>
+        <city>Jossigny</city>
+        <state>Seine-et-Marne</state>
+        <zip>77600</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Meaux</name>
+      <address>
+        <city>Meaux</city>
+        <state>Seine-et-Marne</state>
+        <zip>77100</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Groupe Hospitalier Sud Ile de France</name>
+      <address>
+        <city>Melun</city>
+        <state>Seine-et-Marne</state>
+        <zip>77000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Rouen</name>
+      <address>
+        <city>Rouen</city>
+        <state>Seine-Maritime</state>
+        <zip>76000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Amiens Picardie</name>
+      <address>
+        <city>Amiens</city>
+        <state>Somme</state>
+        <zip>80000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Nord Franche Comté</name>
+      <address>
+        <city>Trévenans</city>
+        <state>Territoire De Belfort</state>
+        <zip>90400</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH Argenteuil</name>
+      <address>
+        <city>Argenteuil</city>
+        <state>Val-d'Oise</state>
+        <zip>95107</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Henri Mondor AP-HP</name>
+      <address>
+        <city>Créteil</city>
+        <state>Val-de-Marne</state>
+        <zip>94000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Kremlin Bicêtre</name>
+      <address>
+        <city>Le Kremlin-Bicêtre</city>
+        <state>Val-de-Marne</state>
+        <zip>94270</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH de la Dracénie</name>
+      <address>
+        <city>Draguignan</city>
+        <state>Var</state>
+        <zip>83300</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHI Frejus St Raphael</name>
+      <address>
+        <city>Fréjus</city>
+        <state>Var</state>
+        <zip>83608</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Intercommunal Toulon La Seyne sur Mer</name>
+      <address>
+        <city>Toulon</city>
+        <state>Var</state>
+        <zip>83056</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH Versailles</name>
+      <address>
+        <city>Le Chesnay</city>
+        <state>Yvelines</state>
+        <zip>78150</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Martinique - Fort de France</name>
+      <address>
+        <city>Fort-de-France</city>
+        <zip>97200</zip>
+        <country>Martinique</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>France</country>
+    <country>Martinique</country>
+  </location_countries>
+  <reference>
+    <citation>Zhu N, Zhang D, Wang W, Li X, Yang B, Song J, Zhao X, Huang B, Shi W, Lu R, Niu P, Zhan F, Ma X, Wang D, Xu W, Wu G, Gao GF, Tan W; China Novel Coronavirus Investigating and Research Team. A Novel Coronavirus from Patients with Pneumonia in China, 2019. N Engl J Med. 2020 Feb 20;382(8):727-733. doi: 10.1056/NEJMoa2001017. Epub 2020 Jan 24.</citation>
+    <PMID>31978945</PMID>
+  </reference>
+  <reference>
+    <citation>Guan WJ, Ni ZY, Hu Y, Liang WH, Ou CQ, He JX, Liu L, Shan H, Lei CL, Hui DSC, Du B, Li LJ, Zeng G, Yuen KY, Chen RC, Tang CL, Wang T, Chen PY, Xiang J, Li SY, Wang JL, Liang ZJ, Peng YX, Wei L, Liu Y, Hu YH, Peng P, Wang JM, Liu JY, Chen Z, Li G, Zheng ZJ, Qiu SQ, Luo J, Ye CJ, Zhu SY, Zhong NS; China Medical Treatment Expert Group for Covid-19. Clinical Characteristics of Coronavirus Disease 2019 in China. N Engl J Med. 2020 Apr 30;382(18):1708-1720. doi: 10.1056/NEJMoa2002032. Epub 2020 Feb 28.</citation>
+    <PMID>32109013</PMID>
+  </reference>
+  <reference>
+    <citation>Yang X, Yu Y, Xu J, Shu H, Xia J, Liu H, Wu Y, Zhang L, Yu Z, Fang M, Yu T, Wang Y, Pan S, Zou X, Yuan S, Shang Y. Clinical course and outcomes of critically ill patients with SARS-CoV-2 pneumonia in Wuhan, China: a single-centered, retrospective, observational study. Lancet Respir Med. 2020 May;8(5):475-481. doi: 10.1016/S2213-2600(20)30079-5. Epub 2020 Feb 24. Erratum in: Lancet Respir Med. 2020 Apr;8(4):e26.</citation>
+    <PMID>32105632</PMID>
+  </reference>
+  <reference>
+    <citation>Grasselli G, Zangrillo A, Zanella A, Antonelli M, Cabrini L, Castelli A, Cereda D, Coluccello A, Foti G, Fumagalli R, Iotti G, Latronico N, Lorini L, Merler S, Natalini G, Piatti A, Ranieri MV, Scandroglio AM, Storti E, Cecconi M, Pesenti A; COVID-19 Lombardy ICU Network. Baseline Characteristics and Outcomes of 1591 Patients Infected With SARS-CoV-2 Admitted to ICUs of the Lombardy Region, Italy. JAMA. 2020 Apr 28;323(16):1574-1581. doi: 10.1001/jama.2020.5394.</citation>
+    <PMID>32250385</PMID>
+  </reference>
+  <reference>
+    <citation>Leloup M, Briatte I, Langlois A, Cariou A, Lesieur O; ACIR study group. Unexpected cardiac arrests occurring inside the ICU: outcomes of a French prospective multicenter study. Intensive Care Med. 2020 May;46(5):1005-1015. doi: 10.1007/s00134-020-05992-w. Epub 2020 Mar 9.</citation>
+    <PMID>32152653</PMID>
+  </reference>
+  <reference>
+    <citation>Bansal M. Cardiovascular disease and COVID-19. Diabetes Metab Syndr. 2020 May - Jun;14(3):247-250. doi: 10.1016/j.dsx.2020.03.013. Epub 2020 Mar 25. Review.</citation>
+    <PMID>32247212</PMID>
+  </reference>
+  <reference>
+    <citation>Chen C, Zhou Y, Wang DW. SARS-CoV-2: a potential novel etiology of fulminant myocarditis. Herz. 2020 May;45(3):230-232. doi: 10.1007/s00059-020-04909-z.</citation>
+    <PMID>32140732</PMID>
+  </reference>
+  <reference>
+    <citation>Guo T, Fan Y, Chen M, Wu X, Zhang L, He T, Wang H, Wan J, Wang X, Lu Z. Cardiovascular Implications of Fatal Outcomes of Patients With Coronavirus Disease 2019 (COVID-19). JAMA Cardiol. 2020 Jul 1;5(7):811-818. doi: 10.1001/jamacardio.2020.1017. Erratum in: JAMA Cardiol. 2020 Jul 1;5(7):848.</citation>
+    <PMID>32219356</PMID>
+  </reference>
+  <reference>
+    <citation>Madjid M, Safavi-Naeini P, Solomon SD, Vardeny O. Potential Effects of Coronaviruses on the Cardiovascular System: A Review. JAMA Cardiol. 2020 Jul 1;5(7):831-840. doi: 10.1001/jamacardio.2020.1286. Review.</citation>
+    <PMID>32219363</PMID>
+  </reference>
+  <reference>
+    <citation>Wu CI, Postema PG, Arbelo E, Behr ER, Bezzina CR, Napolitano C, Robyns T, Probst V, Schulze-Bahr E, Remme CA, Wilde AAM. SARS-CoV-2, COVID-19, and inherited arrhythmia syndromes. Heart Rhythm. 2020 Sep;17(9):1456-1462. doi: 10.1016/j.hrthm.2020.03.024. Epub 2020 Mar 31. Review.</citation>
+    <PMID>32244059</PMID>
+  </reference>
+  <reference>
+    <citation>Shao F, Xu S, Ma X, Xu Z, Lyu J, Ng M, Cui H, Yu C, Zhang Q, Sun P, Tang Z. In-hospital cardiac arrest outcomes among patients with COVID-19 pneumonia in Wuhan, China. Resuscitation. 2020 Jun;151:18-23. doi: 10.1016/j.resuscitation.2020.04.005. Epub 2020 Apr 10.</citation>
+    <PMID>32283117</PMID>
+  </reference>
+  <reference>
+    <citation>Chan PS, Berg RA, Nadkarni VM. Code Blue During the COVID-19 Pandemic. Circ Cardiovasc Qual Outcomes. 2020 May;13(5):e006779. doi: 10.1161/CIRCOUTCOMES.120.006779. Epub 2020 Apr 7.</citation>
+    <PMID>32255661</PMID>
+  </reference>
+  <reference>
+    <citation>Mahase E, Kmietowicz Z. Covid-19: Doctors are told not to perform CPR on patients in cardiac arrest. BMJ. 2020 Mar 29;368:m1282. doi: 10.1136/bmj.m1282.</citation>
+    <PMID>32224494</PMID>
+  </reference>
+  <reference>
+    <citation>Perkins GD, Jacobs IG, Nadkarni VM, Berg RA, Bhanji F, Biarent D, Bossaert LL, Brett SJ, Chamberlain D, de Caen AR, Deakin CD, Finn JC, Gräsner JT, Hazinski MF, Iwami T, Koster RW, Lim SH, Ma MH, McNally BF, Morley PT, Morrison LJ, Monsieurs KG, Montgomery W, Nichol G, Okada K, Ong ME, Travers AH, Nolan JP; Utstein Collaborators. Cardiac Arrest and Cardiopulmonary Resuscitation Outcome Reports: Update of the Utstein Resuscitation Registry Templates for Out-of-Hospital Cardiac Arrest: A Statement for Healthcare Professionals From a Task Force of the International Liaison Committee on Resuscitation (American Heart Association, European Resuscitation Council, Australian and New Zealand Council on Resuscitation, Heart and Stroke Foundation of Canada, InterAmerican Heart Foundation, Resuscitation Council of Southern Africa, Resuscitation Council of Asia); and the American Heart Association Emergency Cardiovascular Care Committee and the Council on Cardiopulmonary, Critical Care, Perioperative and Resuscitation. Resuscitation. 2015 Nov;96:328-40. doi: 10.1016/j.resuscitation.2014.11.002. Epub 2014 Nov 11.</citation>
+    <PMID>25438254</PMID>
+  </reference>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>April 30, 2020</study_first_submitted>
+  <study_first_submitted_qc>May 1, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 4, 2020</study_first_posted>
+  <last_update_submitted>December 11, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 11, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 14, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>novel coronavirus disease 2019 (COVID-19)</keyword>
+  <keyword>Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)</keyword>
+  <keyword>Out-of-hospital cardiac arrest</keyword>
+  <keyword>In-hospital cardiac arrest</keyword>
+  <keyword>unexpected cardiac arrest</keyword>
+  <keyword>Intensive care unit</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Heart Arrest</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

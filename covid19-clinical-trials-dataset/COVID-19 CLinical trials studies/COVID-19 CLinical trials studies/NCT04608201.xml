@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2658">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04608201</url>
+  </required_header>
+  <id_info>
+    <org_study_id>APHP200529</org_study_id>
+    <secondary_id>2020-003743-28</secondary_id>
+    <nct_id>NCT04608201</nct_id>
+  </id_info>
+  <brief_title>Evaluation of the Efficacy of Nicotine Patches in SARS-CoV2 (COVID-19) Infection in Hospitalized Patients</brief_title>
+  <acronym>NICOVID</acronym>
+  <official_title>Evaluation of the Efficacy of Nicotine Patches in SARS-CoV2 (COVID-19) Infection in Hospitalized Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Assistance Publique - Hôpitaux de Paris</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Assistance Publique - Hôpitaux de Paris</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The coronavirus disease (COVID-19) epidemic represents a major therapeutic challenge. The&#xD;
+      highly contagious severe acute respiratory syndrome coronavirus 2 (SARS-COV-2) and the long&#xD;
+      duration of the disease have led to a massive influx of patients admitted in health services&#xD;
+      and intensive care units. To current knowledge, there is no treatment yet that that can&#xD;
+      prevent infection from SARS-COV-2 virus, nor the disease progression to a severe form.&#xD;
+&#xD;
+      Daily active smokers are rare among outpatients or hospitalized COVID-19 patients.&#xD;
+&#xD;
+      Several arguments suggest that nicotine could be responsible for this protective effect thank&#xD;
+      to the nicotinic acetylcholine receptor (nAChR).&#xD;
+&#xD;
+      Based on epidemiological data and experimental data from scientific literature, we&#xD;
+      hypothesize that nicotine could inhibit the penetration and spread of the virus and improve&#xD;
+      the management of COVID19 , particularly in hospitalized patients to prevent adverse outcomes&#xD;
+      (death, transfer to intensive care unit, care limitation, mechanical ventilation an high flow&#xD;
+      oxygen).&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 9, 2020</start_date>
+  <completion_date type="Anticipated">December 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The unfavorable outcome on Day 14</measure>
+    <time_frame>Day 14</time_frame>
+    <description>Defined by scores higher than 5 on the World Health Organization 10-point Clinical Progression Scale (WHO-CPS) on day 14</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Survival rate</measure>
+    <time_frame>Day 14, Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of transfer to intensive care unit (ICU)</measure>
+    <time_frame>Day 14, Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of indication of transfer to intensive care unit (carried out or not in case of LATA)</measure>
+    <time_frame>Day 14, Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of days living without mechanical ventilation</measure>
+    <time_frame>Day 14, Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of days living without non-invasive ventilation and mechanical ventilation</measure>
+    <time_frame>Day 4, Day 14, Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patient with a score higher than 6 on the World Health Organization 10-point Clinical Progression Scale</measure>
+    <time_frame>Day 14</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of hospitalization</measure>
+    <time_frame>Fom day 1 up to 3 month</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patient in each category of the World Health Organization 10-point Clinical Progression Scale</measure>
+    <time_frame>Day 7, Day 14 and Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patient in each category of the National Early Warning Scale (NEWS) 2</measure>
+    <time_frame>Day 7, Day14 and Day28 (or the day of discharge from hospital)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patient with a SARS-CoV-2 viral load detection</measure>
+    <time_frame>Day 7 or the day of discharge from hospital if before day 7</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean evolution of blood count</measure>
+    <time_frame>At randomization then every 3 days until discharge, or up to 5 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean evolution of platelets</measure>
+    <time_frame>At randomization then every 3 days until discharge, or up to 5 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean evolution of blood ionogram</measure>
+    <time_frame>At randomization then every 3 days until discharge, or up to 5 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean evolution of glycemia</measure>
+    <time_frame>At randomization then every 3 days until discharge, or up to 5 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean evolution of serum creatinine</measure>
+    <time_frame>At randomization then every 3 days until discharge, or up to 5 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean evolution of C reactive protein</measure>
+    <time_frame>At randomization then every 3 days until discharge, or up to 5 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean evolution of Interleukin 6 (IL-6)</measure>
+    <time_frame>At randomization then every 3 days until discharge, or up to 5 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean evolution of oxygen requirements (number of liters / min)</measure>
+    <time_frame>At randomization then every 3 days until discharge, or up to 5 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean evolution of SaO2</measure>
+    <time_frame>At randomization then every 3 days until discharge, or up to 5 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of active smoker or active vapers or taking nicotine substitutes documented by examination</measure>
+    <time_frame>Week 2 after treatment decrease, Week 8 after treatment decrease</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of active smoker or active vapers or taking nicotine substitutes documented by urinary cotinine</measure>
+    <time_frame>Week 8 after treatment decrease</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean score of Desire to smoke defined by French Tobacco Craving questionnaire (FTCQ12 )</measure>
+    <time_frame>Week 2 after treatment decrease, Week 8 after treatment decrease</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean score of Cigarette Withdrawal Scale (CWS)</measure>
+    <time_frame>Week 2 after treatment decrease, Week 8 after treatment decrease</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean score of Hospital anxiety and depression scale (HAD)</measure>
+    <time_frame>Week 2 after treatment decrease, Week 8 after treatment decrease</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean score of Positive and Negative Affect Schedule (PANAS)</measure>
+    <time_frame>Week 2 after treatment decrease, Week 8 after treatment decrease</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean score of Insomnia severity scale (ISI)</measure>
+    <time_frame>Week 2 after treatment decrease, Week 8 after treatment decrease</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>weight evolution</measure>
+    <time_frame>Day 1, Week 2 after treatment decrease, Week 8 after treatment decrease</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">220</enrollment>
+  <condition>SARS-COV2</condition>
+  <arm_group>
+    <arm_group_label>NICOTINE transdermal patch</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>NICOTINE 7 mg / 24h, transdermal patch</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo of NICOTINE transdermal patch</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo of nicotine patch</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Nicotine 7 mg/ 24h Transdermal Patch - 24 Hour</intervention_name>
+    <description>Treatment involves escalating doses to the target dose of 14 mg / day&#xD;
+/ Dose escalation:&#xD;
+Level 1: 3.5 mg/day (1/2 patch) for 2 days (D1 and D2)&#xD;
+Level 2: 7 mg/day (1 patch) for 2 days (D3 and D4)&#xD;
+Level 3: 10.5 mg/day (1.5 patch) for 2 days (D5 and D6)&#xD;
+Level 4: target dose = 14 mg/day (from D7 to discharge from hospital + 1 week or maximum 5 weeks after the start of treatment)&#xD;
+/ Decrease in dose (1 week after exit from hospital or maximum 5 weeks after the start of treatment): Decrease of 3.5 mg (1/2 patch) per week (over 3 weeks maximum)</description>
+    <arm_group_label>NICOTINE transdermal patch</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo of NICOTINE Transdermal patch</intervention_name>
+    <description>Placebo of nicotine patch administered to the same administration schedule as in the experimental arm</description>
+    <arm_group_label>Placebo of NICOTINE transdermal patch</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age ≥ 18 years&#xD;
+&#xD;
+          -  Patients hospitalized for less than 72 hours&#xD;
+&#xD;
+          -  Non-smoking and non-vaping patients (for former smokers or former vapers: abstinent&#xD;
+             for at least 12 months)&#xD;
+&#xD;
+          -  Documented diagnosis of COVID19&#xD;
+&#xD;
+          -  Lung disease suggestive of COVID-19 on chest scanner or need for oxygen therapy&#xD;
+&#xD;
+          -  Obtaining, informed and signed consent&#xD;
+&#xD;
+          -  Affiliated to a social security scheme or beneficiary of such a scheme (except AME)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  WHO 10-point Clinical Progression Scale score &gt; 5 (patient on non-invasive or&#xD;
+             mechanical ventilation, patient in need of high-flow oxygen therapy)&#xD;
+&#xD;
+          -  Indication of transfer to intensive care unit (oxygen therapy&gt; 8 L / min ; out or not&#xD;
+             carried out due to LATA)&#xD;
+&#xD;
+          -  Current treatment with nicotine replacement therapy, bupropion or varenicline in the&#xD;
+             last 30 days&#xD;
+&#xD;
+          -  Known addiction problem to alcohol or other substances&#xD;
+&#xD;
+          -  Contraindication for nicotine patches:&#xD;
+&#xD;
+               -  pregnant or breastfeeding woman&#xD;
+&#xD;
+               -  lack of effective contraception for women of childbearing age&#xD;
+&#xD;
+               -  Generalized skin pathologies that may interfere with the use of a transdermal&#xD;
+                  patch&#xD;
+&#xD;
+               -  stroke or myocardial infarction or acute coronary syndrome for less than 3 months&#xD;
+&#xD;
+               -  allergy to nicotine or to one of the excipients of the transdermal patch&#xD;
+&#xD;
+               -  Uncontrolled high blood pressure&#xD;
+&#xD;
+               -  Unstable or worsening angina&#xD;
+&#xD;
+               -  Severe cardiac arrhythmia (defined by wearing an automatic implantable&#xD;
+                  defibrillator)&#xD;
+&#xD;
+               -  Known obliterating peripheral arterial disease&#xD;
+&#xD;
+               -  Known severe heart failure with an ejection fraction &lt;30%)&#xD;
+&#xD;
+               -  Known severe renal (ClCr &lt;30 ml / min) or hepatic (Child C) impairment&#xD;
+&#xD;
+               -  Known pheochromocytoma&#xD;
+&#xD;
+               -  Known uncontrolled hyperthyroidism&#xD;
+&#xD;
+               -  Esophagitis due to gastroesophageal reflux disease or an active peptic ulcer&#xD;
+&#xD;
+          -  Patient included in another interventional trial evaluating a health product&#xD;
+&#xD;
+          -  Patient under guardianship or curatorship&#xD;
+&#xD;
+          -  Patient deprived of liberty by judicial or administrative decision&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Valérie POURCHER, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Assistance Publique - Hôpitaux de Paris</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Zahir AMOURA, MD, PhD</last_name>
+    <phone>01 42 17 80 01</phone>
+    <email>zahir.amoura@aphp.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Valérie POURCHER, MD, PhD</last_name>
+    <email>valerie.martinez@aphp.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Hospital Pitié-Salpêtrière - AP-HP</name>
+      <address>
+        <city>Paris</city>
+        <zip>75013</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Zahir AMOURA, MD,PhD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>October 23, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 28, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 29, 2020</study_first_posted>
+  <last_update_submitted>December 11, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 11, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 14, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>SARS-COV2</keyword>
+  <keyword>COVID19</keyword>
+  <keyword>NICOTINE</keyword>
+  <keyword>transdermal patch</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Nicotine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

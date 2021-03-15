@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3788">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04610515</url>
+  </required_header>
+  <id_info>
+    <org_study_id>75D30120C08008</org_study_id>
+    <nct_id>NCT04610515</nct_id>
+  </id_info>
+  <brief_title>Innovative Support for Patients With SARS-COV2 Infections (COVID-19) Registry (INSPIRE)</brief_title>
+  <acronym>INSPIRE</acronym>
+  <official_title>Innovative Support for Patients With SARS-COV2 Infections (COVID-19) Registry (INSPIRE)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Rush University Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Yale University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Washington</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Thomas Jefferson University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of California, Los Angeles</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of California, San Francisco</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Texas Southwestern Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>The University of Texas Health Science Center, Houston</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Rush University Medical Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will use a digital platform to longitudinally track comprehensive information&#xD;
+      including patient self-report as well as data that describe the process and outcome of care&#xD;
+      in the electronic medical record (EMR) of a large representative sample of patients under&#xD;
+      investigation for SARSCOV2. The objective is to generate knowledge rapidly using digital&#xD;
+      tools and collaborative sciences to produce real-time data, analysis, and reporting compared&#xD;
+      to more traditional approaches. An additional goal is to promote an open science approach&#xD;
+      whereby scientists, with proper approvals and in line with the permissions granted by the&#xD;
+      participants, have the opportunity to work with data in ways that protects individual privacy&#xD;
+      but promotes rapid dissemination and implementation of knowledge.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 15, 2020</start_date>
+  <completion_date type="Anticipated">November 14, 2022</completion_date>
+  <primary_completion_date type="Anticipated">November 14, 2022</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>18 Months</target_duration>
+  <primary_outcome>
+    <measure>Incident myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS)</measure>
+    <time_frame>18 months post enrollment</time_frame>
+    <description>determine the risk of myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) in those with symptoms of SARSCOV2 infection with vs. without a positive confirmatory test.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Ambulatory care and/or ED visits post enrollment</measure>
+    <time_frame>18 months post enrollment</time_frame>
+    <description>Count of ambulatory care and/or ED visits post enrollment as obtained from the EMR</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospitalizations post enrollment</measure>
+    <time_frame>18 months post enrollment</time_frame>
+    <description>Count of hospitalizations post enrollment as obtained from the EMR</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Death during hospital admission</measure>
+    <time_frame>18 months post enrollment</time_frame>
+    <description>death during hospital admission as determined by data from the EMR</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital-free survival</measure>
+    <time_frame>18 months post enrollment</time_frame>
+    <description>Hospital-free survival as determined by data from the EMR</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ICU-free survival</measure>
+    <time_frame>18 months post enrollment</time_frame>
+    <description>ICU-free survival as determined by data from the EMR</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">4800</enrollment>
+  <condition>Covid19</condition>
+  <condition>ME/CFS</condition>
+  <condition>SARS COV2</condition>
+  <condition>Novel Coronavirus Infection</condition>
+  <condition>Neurocognitive Disorders</condition>
+  <condition>Cardiovascular Diseases</condition>
+  <arm_group>
+    <arm_group_label>Symptomatic Individuals with infection with SARS-COV2 (ie exposed cohort)</arm_group_label>
+    <description>Symptomatic Individuals test positive for SARS-COV2. Participants will be enrolled soon after infection and followed to assess for long term outcomes.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Symptomatic Individuals without infection with SARS-COV2 (ie unexposed cohort)</arm_group_label>
+    <description>Symptomatic Individuals test negative for SARS-COV2. Participants will be enrolled soon after testing and followed to assess for long term outcomes.</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Adults aged&gt;=18, with symptoms consistent with infection with SARS-COV2; test positive vs&#xD;
+        test negative individuals will be enrolled at a rate of 3:1.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        INCLUSION CRITERIA&#xD;
+&#xD;
+          1. Fluent in English or Spanish;&#xD;
+&#xD;
+          2. Age 18 and over;&#xD;
+&#xD;
+          3. Self-reported symptoms suggestive of acute SARSCOV2 infection;&#xD;
+&#xD;
+          4. Under investigation for SARSCOV2 (defined as a patient who has received any screening&#xD;
+             or diagnostic test used to detect the presence of COVID19 including any FDA approved&#xD;
+             or authorized molecular or antigen-based assay) within the last 28 days.&#xD;
+&#xD;
+        EXCLUSION CRITERIA&#xD;
+&#xD;
+          1. Unable to provide informed consent;&#xD;
+&#xD;
+          2. Study team unable to confirm result of diagnostic test for SARSCOV2;&#xD;
+&#xD;
+          3. Does not have access to a hand-held device or computer that would allow for digital&#xD;
+             participation in the study;&#xD;
+&#xD;
+          4. Individuals who are prisoners while participating in the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>Bala Hota, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Rush University Medical Center</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Robert A Weinstein, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Rush University Medical Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jacqueline Brown</last_name>
+    <phone>312-942-3350</phone>
+    <email>Jacqueline_Brown@rush.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Katherine Koo</last_name>
+    <email>Katherine_Koo@rush.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>UCLA</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90024</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Annie Lee, PhD</last_name>
+      <phone>213-221-9392</phone>
+      <email>annielee@mednet.ucla.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Raul Moreno</last_name>
+      <phone>310-794-2268</phone>
+      <email>rjmoreno@mednet.ucla.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Joann Elmore, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Doug Bell, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Lauren Wisk, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>UCSF</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Robin Kemball</last_name>
+      <phone>415-509-9842</phone>
+      <email>robin.kemball@ucsf.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Robert Rodriguez, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Ralph Wang, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Yale</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06510</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jeremy Kinsman</last_name>
+      <email>jeremiah.kinsman@yale.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Arjun Venkatesh, MD, MBA, MHS</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Erica Spatz, MD, MHS</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Harlan Krumholz, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Shu-Xia Li, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Zhenqui Lin, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Rush University Medical Center</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michelle Santangelo</last_name>
+      <email>Michelle_Santangelo@rush.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Michael Gottlieb, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Thomas Jefferson University</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19107</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Grace Amadio</last_name>
+      <phone>267-772-7350</phone>
+      <email>grace.amadio@jefferson.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Nicole Renzi</last_name>
+      <phone>215-684-9391</phone>
+      <email>nicole.renzi@jefferson.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Anna Marie Chang, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Texas Southwestern</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75390</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Paula Arellano-Cruz</last_name>
+      <phone>469-324-7892</phone>
+      <email>paula.arellano-cruz@utsouthwestern.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Ahamed Idris, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Texas Health Science Center at Houston</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Elizabeth Vidales</last_name>
+      <phone>832-860-7669</phone>
+      <email>Elizabeth.Vidales@uth.tmc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Henry Wang, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Washington</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Victoria Lyon</last_name>
+      <phone>505-660-9500</phone>
+      <email>vlyon@uw.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Matthew Thompson, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Kelli O'Loughlin, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Graham Nichol, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Nikki Gentile, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Keith Jerome, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>October 28, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 29, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 30, 2020</study_first_posted>
+  <last_update_submitted>January 13, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 13, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 15, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Rush University Medical Center</investigator_affiliation>
+    <investigator_full_name>Bala Hota</investigator_full_name>
+    <investigator_title>VP, Chief Analytics Officer</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Neurocognitive Disorders</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

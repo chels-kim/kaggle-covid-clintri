@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2719">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04673292</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB00250298</org_study_id>
+    <secondary_id>P30AI094189-09S1</secondary_id>
+    <nct_id>NCT04673292</nct_id>
+  </id_info>
+  <brief_title>Community Collaboration to Combat COVID-19 (C-FORWARD)</brief_title>
+  <official_title>Community Collaboration to Combat COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Johns Hopkins University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Johns Hopkins University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is randomized trial where households will be randomized to identify the optimal&#xD;
+      SARS-CoV-2 (COVID-19) testing modality in a population-representative sample of households in&#xD;
+      Baltimore City, Maryland. 1,386 households in Baltimore City will be randomized 1:1:1 to one&#xD;
+      of three testing modalities: 1) fixed-site standard of care testing; 2) community-based&#xD;
+      mobile van testing; or 3) self-collected home, based testing.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The target population will include English- and Spanish-speaking families residing in&#xD;
+      Baltimore City households (N=238,427). The sample size goal is 1,386 households (0.44% of&#xD;
+      households) or 3,000 individual household members. Households will be sampled using a&#xD;
+      multi-stage approach with 1) selection of 105 of 653 census block groups (CBGs) with&#xD;
+      probabilities proportional to the estimated number of occupied households selected from 9&#xD;
+      strata of CBGs defined by socioeconomic status and race/ethnicity with oversampling of CBGs&#xD;
+      with harder-to-reach populations (e.g., Latinos/x, low-income whites); 2) selection of&#xD;
+      residential addresses within each of the strata via non-linear optimization; and finally, 3)&#xD;
+      screening of individuals selected for eligibility (e.g., household occupied vs. not,&#xD;
+      English/Spanish speaking).&#xD;
+&#xD;
+      After completion of brief surveys, individuals will be asked to enroll other willing&#xD;
+      household members. One adult member of the household will be randomized 1:1:1 using a&#xD;
+      stratified, blocked approach with varying block sizes of 3, to one of three testing&#xD;
+      modalities: 1) fixed site standard of care testing; 2) community-based mobile van testing; or&#xD;
+      3) self-collected home, based testing. Randomization will be stratified by geography (n=12&#xD;
+      zones) and race/ethnicity (non-hispanic white/other, non-hispanic black and hispanic/latinx).&#xD;
+&#xD;
+      Arm 1 includes all three Johns Hopkins (JHMI) ambulatory outdoor testing sites across&#xD;
+      Baltimore City. Each site represents a traditional appointment-based scheduling system.&#xD;
+&#xD;
+      Arm 2 includes a convenient, accessible mobile van option which will be located in the center&#xD;
+      of each of 12 geographic zones.&#xD;
+&#xD;
+      Arm 3 includes a home-based testing kit which will be delivered by courier service.&#xD;
+&#xD;
+      Outcomes related to testing will be measured within 30 days of the initial randomization.&#xD;
+      Participants will be followed with weekly symptom pulses and monthly follow-up visits to&#xD;
+      ascertain subsequent testing need/COVID-19 symptoms. Testing during follow-up will be&#xD;
+      on-demand and participants can use either the fixed site or the home-based testing kits. The&#xD;
+      investigators will measure the impact of the time to receipt of SARS CoV-2 testing results.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 2021</start_date>
+  <completion_date type="Anticipated">August 2021</completion_date>
+  <primary_completion_date type="Anticipated">August 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Each household will be randomized to one of three arms in the study: Fixed site SOC testing (Arm 1), community-based, mobile van testing (Arm 2), or self-collected, home-based testing (Arm 3).</intervention_model_description>
+    <primary_purpose>Screening</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Time to receipt of SARS CoV-2 testing results</measure>
+    <time_frame>Measured in days from randomization up to 30 days after randomization</time_frame>
+    <description>Time (in days) from randomization to the receipt of Coronavirus infection (SARS-CoV-2) testing results by the participant.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Acceptance of SARS CoV-2 viral testing assessed by proportion of participants who complete a survey</measure>
+    <time_frame>Measured from baseline survey completion to enrollment within 30 days of completion of baseline survey</time_frame>
+    <description>Proportion of those who complete a survey who agree to be randomized to a SARS-CoV-2 testing modality.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Uptake of SARS CoV-2 testing as assessed by proportion of participants who complete testing</measure>
+    <time_frame>Measured from randomization to testing completion (within 20 days of randomization)</time_frame>
+    <description>Uptake of SARS CoV-2 testing will be assessed by proportion of participants who are randomized and complete SARS CoV-2 testing.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to completion of SARS CoV-2 testing</measure>
+    <time_frame>Measured from randomization to testing completion (Within 20 days of randomization)</time_frame>
+    <description>Time (In days) to completion of SARS CoV-2 testing from randomization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time from SARS CoV-2 testing to receipt of results</measure>
+    <time_frame>Measured from testing completion to receipt of results (within 10 days of testing)</time_frame>
+    <description>Time (in days) from SARS CoV-2 testing completion to the receipt of results by the participant.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">3000</enrollment>
+  <condition>Coronavirus Infection</condition>
+  <arm_group>
+    <arm_group_label>Fixed site SOC testing</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Fixed site Standard of Care (SOC) testing</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Community-based testing</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Community-based, mobile van testing</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Self-collected testing</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Self-collected, home-based testing</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Fixed site standard of care testing</intervention_name>
+    <description>This arm includes all three Johns Hopkins (JHMI) ambulatory outdoor testing sites across Baltimore City. Each site represents a traditional appointment-based scheduling system. Participants will be given a choice of 1 of 3 outdoor testing locations based on their preferences. Study staff will make an appointment for testing based on testing availability and participant schedule.</description>
+    <arm_group_label>Fixed site SOC testing</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Community-based, mobile van testing</intervention_name>
+    <description>This arm offers the convenience of highly accessible testing and with the flexibility of no fixed appointment time. Each of the 12 geographic strata will have a single, centrally located testing site within the area, providing similar geographic access across households. The testing location will be published on the study website and social media so that participants can visit the location at a time convenient to them.</description>
+    <arm_group_label>Community-based testing</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Self-collected, home-based testing</intervention_name>
+    <description>Individuals will receive a home-based testing kit delivered by a courier service as soon as the randomization of the household is complete. The kit will include provisions for contacting the courier service for pick up. Appropriate biohazard precautions are included. Each of the testing components of this kit will include FDA Emergency Use Authorization approved collection methods. Easy to use instructions with options to view pre-recorded videos and/or virtual 'on demand' coaching sessions with members of the study team via a HIPAA-secure Zoom session will be available.</description>
+    <arm_group_label>Self-collected testing</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria for households&#xD;
+&#xD;
+          1. Selected address within Baltimore City&#xD;
+&#xD;
+          2. At least one member of the household &gt;18 years of age who speaks English and/or&#xD;
+             Spanish&#xD;
+&#xD;
+          3. At least one member of the household provides informed consent&#xD;
+&#xD;
+          4. At least one member of the household psychologically fit to complete survey&#xD;
+&#xD;
+        Inclusion Criteria for Individuals&#xD;
+&#xD;
+          1. Reports primary residence within the sampled household&#xD;
+&#xD;
+          2. Provides informed consent&#xD;
+&#xD;
+          3. For children (12 years of age or older), with child assent.&#xD;
+&#xD;
+        Exclusion Criteria for households:&#xD;
+&#xD;
+          1. Adult member of the household is under the influence of illicit substances, in the&#xD;
+             opinion of the phone interviewer&#xD;
+&#xD;
+          2. Residents of nursing homes, half-ways houses or shelters&#xD;
+&#xD;
+          3. Psychologically unfit to complete the survey&#xD;
+&#xD;
+          4. Not a selected household address&#xD;
+&#xD;
+        Exclusion criteria for individuals&#xD;
+&#xD;
+        1. Person providing informed consent is under the influence of illicit substances&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>5 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jason E Farley, PhD, MPH, NP</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Johns Hopkins University School of Nursing</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Shruti H Mehta, PhD, MPH</last_name>
+    <phone>443-287-3837</phone>
+    <email>smehta@jhu.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Jacky Jennings, PhD, MPH</last_name>
+    <phone>410-550-4132</phone>
+    <email>jennings@jhmi.edu</email>
+  </overall_contact_backup>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>December 16, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 16, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 17, 2020</study_first_posted>
+  <last_update_submitted>January 13, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 13, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 15, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="759">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04689477</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020/579</org_study_id>
+    <nct_id>NCT04689477</nct_id>
+  </id_info>
+  <brief_title>Non-invasive Characterization of Systemic Microvascular Reactivity by Near-infrared Diffuse Optical Spectroscopy in COVID-19 Patients</brief_title>
+  <acronym>HEMOCOVID19</acronym>
+  <official_title>Non-invasive Characterization of Systemic Microvascular Reactivity by Near-infrared Diffuse Optical Spectroscopy in COVID-19 Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Corporacion Parc Tauli</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Institut de Ciències Fotòniques (ICFO)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Centre de Recerca Matemàtica</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Institute of Physics University of Campinas</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Corporacion Parc Tauli</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to characterize microvascular reactivity on the forearm muscle&#xD;
+      using non-invasive near-infrared spectroscopy in critically ill COVID-19 patients, and to&#xD;
+      correlate its alterations with 28-day mortality in ICU COVID-19 patients.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      After giving consent to participate in the study, the subjects included in the study will&#xD;
+      undergo a 15-minute measurement of tissue oxygen saturation (StO2) measured non-invasively on&#xD;
+      the forearm by means of near-infrared spectroscopy (NIRS). Once a baseline stable StO2 value&#xD;
+      is obtained, a provocative test, consisting of a transient vascular occlusion, will be&#xD;
+      performed. The test will allow the obtention of a local metabolic rate, and a StO2 recovery&#xD;
+      rate after the ischemic stimulus. This StO2 recovery rate will be considered as a reflection&#xD;
+      of the endothelial health of the patient.&#xD;
+&#xD;
+      Patients will be studied as soon as possible after admission to the ICU, and followed-up&#xD;
+      until ICU discharge or death.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">May 25, 2020</start_date>
+  <completion_date type="Anticipated">December 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 2021</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>4 Weeks</target_duration>
+  <primary_outcome>
+    <measure>28-day mortality</measure>
+    <time_frame>28 days</time_frame>
+    <description>Mortality at 28 days of patients admitted to the ICU as results of respiratory failure secondary to COVID-19</description>
+  </primary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">612</enrollment>
+  <condition>COVID-19</condition>
+  <condition>Endothelial Function</condition>
+  <arm_group>
+    <arm_group_label>COVID-19</arm_group_label>
+    <description>Hospitalized patients diagnosed with COVID-19, presenting with arterial hypoxemia.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <description>Healthy subjects</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Non-COVID critically ill patients</arm_group_label>
+    <description>Non-COVID critically ill patients admitted to the ICU.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Vascular occlusion test</intervention_name>
+    <description>The ischemic challenge will consist in a standardized Vascular Occlusion Test (VOT), as previously described in the literature. Briefly, a blood pressure cuff will be placed proximal to the forearm, and rapidly inflated at 40 mmHg above systolic pressure, and kept inflated during three minutes. Then the cuff will be rapidly deflated. The resulting deoxygenation (DeO2) and reoxygenation (ReO2) slopes will be reported as change in O2 saturation over time.</description>
+    <arm_group_label>COVID-19</arm_group_label>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_label>Non-COVID critically ill patients</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Critical COVID-19 patients with respiratory impairment admitted to the Intensive Care Unit&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Recent diagnosis of SARS-CoV2 infection&#xD;
+&#xD;
+          -  Arterial hypoxemia and bilateral alveolar infiltrates, not explained by cardiac&#xD;
+             dysfunction or fluid overload.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Severe peripheral vasculopathy&#xD;
+&#xD;
+          -  Raynaud's syndrome&#xD;
+&#xD;
+          -  Skin lesions or trauma in upper limbs interfering the placement of NIRS probe and/or&#xD;
+             the occlusion tourniquet&#xD;
+&#xD;
+          -  Deep venous thrombosis in the upper limbs&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jaume Mesquida, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Corporacion Parc Tauli</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jaume Mesquida, MD, PhD</last_name>
+    <phone>+34 937231010</phone>
+    <phone_ext>21155</phone_ext>
+    <email>jmesquida@tauli.cat</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Hospital de Clinicas da UNICAMP</name>
+      <address>
+        <city>Campinas</city>
+        <state>Sao Paulo</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rodrigo Forti</last_name>
+      <email>rforti@ifi.unicamp.br</email>
+    </contact>
+    <investigator>
+      <last_name>Rickson Coelho Mesquita</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital General de México</name>
+      <address>
+        <city>México</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Argelia Pérez Pacheco</last_name>
+      <phone>27892000</phone>
+      <phone_ext>1853</phone_ext>
+      <email>argeliapp@ciencias.unam.mx</email>
+    </contact>
+    <investigator>
+      <last_name>Diana Pineda Vázquez</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Institut d'Investigació i Innovació Parc Taulí</name>
+      <address>
+        <city>Sabadell</city>
+        <state>Barcelona</state>
+        <zip>08208</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jaume Mesquida</last_name>
+      <phone>+34 937231010</phone>
+      <phone_ext>21155</phone_ext>
+      <email>jmesquida@tauli.cat</email>
+    </contact>
+    <investigator>
+      <last_name>Alba Caballer</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Cristina Espinal</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Sara Nogales</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Guillem Gruartmoner</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clínic i Provincial de Barcelona</name>
+      <address>
+        <city>Barcelona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Pedro Castro, MD</last_name>
+      <email>pcastro@clinic.cat</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Parc Salut Mar</name>
+      <address>
+        <city>Barcelona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Judith Marin Corral</last_name>
+      <email>jmarin@imim.es</email>
+    </contact>
+    <investigator>
+      <last_name>Clara Vila</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Vall d'Hebron</name>
+      <address>
+        <city>Barcelona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ricard Ferrer</last_name>
+      <email>r.ferrer@vhebron.net</email>
+    </contact>
+    <investigator>
+      <last_name>Marina García de Acilu</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+    <country>Mexico</country>
+    <country>Spain</country>
+  </location_countries>
+  <link>
+    <url>http://hemocovid19-project.org</url>
+    <description>Related Info</description>
+  </link>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>December 29, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 29, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 30, 2020</study_first_posted>
+  <last_update_submitted>December 29, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 29, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 30, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Corporacion Parc Tauli</investigator_affiliation>
+    <investigator_full_name>Jaume Mesquida</investigator_full_name>
+    <investigator_title>MD, PhD</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

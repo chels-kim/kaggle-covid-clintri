@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="909">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04646655</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HLS-02COVID19/2020</org_study_id>
+    <nct_id>NCT04646655</nct_id>
+  </id_info>
+  <brief_title>Enoxaparin at Prophylactic or Therapeutic Doses in COVID-19</brief_title>
+  <acronym>EMOS-COVID</acronym>
+  <official_title>Enoxaparin at Prophylactic or Therapeutic Doses With Monitoring of Outcomes in Subjects Infected With COVID-19: a Pilot Study on 300 Cases Enrolled at ASST-FBF-Sacco</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>ASST Fatebenefratelli Sacco</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Massimo Arquati</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Riccardo Colombo</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Umberto Russo</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Manuela Nebuloni</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Spinello Antinori</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>ASST Fatebenefratelli Sacco</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      SINGLE CENTER PHASE III INTERVENTIONAL RANDOMIZED CONTROLLED TRIAL comparing efficacy and&#xD;
+      safety of enoxaparin at prophylactic dose (standard treatment) and enoxaparin at therapeutic&#xD;
+      dose (OFF-LABEL treatment) in 300 COVID-19 infected patients with moderate-severe respiratory&#xD;
+      failure (PaO2/FiO2&lt;250) and/or increased D-dimer levels enrolled in different Units&#xD;
+      (Infectious disease, Internal Medicine, Emergency Medicine, Pneumology) of Azienda Socio&#xD;
+      Sanitaria Territoriale Fatebenefratelli Sacco (ASST-FBF-SACCO).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Patients with COVID-19 are at high risk of developing a venous thromboembolism (VTE) and it&#xD;
+      is essential that effective thromboprophylaxis with parenteral drugs (LMWH, UFH) is&#xD;
+      considered for all patients admitted to hospital especially in case of severe pneumonia.&#xD;
+&#xD;
+      The aim of the study is the evaluation of efficacy and safety of enoxaparin at prophylactic&#xD;
+      dose (standard treatment) as compared to enoxaparin at therapeutic dose (OFF-LABEL treatment)&#xD;
+      in 300 COVID-19 infected patients with moderate-severe respiratory failure (PaO2/FiO2&lt;250)&#xD;
+      and/or increased D-dimer levels.&#xD;
+&#xD;
+      After the admission to different Units (Infectious disease, Internal Medicine, Emergency&#xD;
+      Medicine, Pneumology), enoxaparin at prophylactic dose (standard of care) will be prescribed&#xD;
+      to all patients.&#xD;
+&#xD;
+      The randomization of the single patient will be made when the the inclusion criteria&#xD;
+      (PaO2/FiO2 &lt;250 and/or D-dimer &gt;2000 ng/) will be satisfied. Patients with increased bleeding&#xD;
+      risk will be excluded (exclusion criteria).&#xD;
+&#xD;
+      Patients will be divided into two arms:&#xD;
+&#xD;
+        -  arm A: enoxaparin at prophylactic dose (standard 4.000 IU; 6000 UI if body weight&gt;100&#xD;
+           kg)&#xD;
+&#xD;
+        -  arm B: enoxaparin at therapeutic dose (70 U/Kg b.i.d. every 12 h)&#xD;
+&#xD;
+      In both arms, enoxaparin treatment will be monitored clinically and with first and second&#xD;
+      line laboratory tests Venous compression ultrasound (CUS) will be performed at admission and&#xD;
+      after 7 days in case of a first negative exam and elevated D-Dimer levels, to rule out deep&#xD;
+      vein thrombosis.&#xD;
+&#xD;
+      Enoxaparin at prophylactic dose (4000 IU) will be maintained in all patients for 4 weeks&#xD;
+      after discharge.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 27, 2020</start_date>
+  <completion_date type="Anticipated">July 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 31, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Mortality rate</measure>
+    <time_frame>30 days from enrollment</time_frame>
+    <description>Mortality registered during the time frame</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Progression of respiratory failure</measure>
+    <time_frame>30 days from enrollment</time_frame>
+    <description>Progression of respiratory failure defined as duration of continuous positive pressure ventilation (CPAP)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Progression of respiratory failure</measure>
+    <time_frame>30 days from enrollment</time_frame>
+    <description>Progression of respiratory failure defined as percentage of patients admitted to ICU</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Progression of respiratory failure</measure>
+    <time_frame>30 days from enrollment</time_frame>
+    <description>Progression of respiratory failure defined as percentage of patients undergoing oro-tracheal intubation</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of major bleeding episodes</measure>
+    <time_frame>up to 6 months from randomization</time_frame>
+    <description>Major bleeding (ISTH criteria) and/or clinically relevant non-major bleeding</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Respiratory function improvement</measure>
+    <time_frame>at 72 hours</time_frame>
+    <description>Amelioration of the respiratory function defined as a PaO2/FiO2 increase &gt; 300 and / or respiratory rate (RR) &lt; 20 breaths per min</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Respiratory function improvement</measure>
+    <time_frame>1 week from randomization</time_frame>
+    <description>Amelioration of the respiratory function defined as a PaO2/FiO2 increase &gt; 300 and / or respiratory rate (RR) &lt; 20 breaths per min</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of major cardiovascular events</measure>
+    <time_frame>6 months from randomization</time_frame>
+    <description>numbers of myocardial infarction and stroke within the time frame</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Deep Vein Thrombosis</measure>
+    <time_frame>6 months from randomization</time_frame>
+    <description>Numbers of Deep Vein Thrombosis at CUS examination within the time frame</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">300</enrollment>
+  <condition>Covid19</condition>
+  <condition>Thrombosis</condition>
+  <arm_group>
+    <arm_group_label>Enoxaparin at prophylactic dose</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Enoxaparin at prophylactic dose: standard 4.000 IU QD via subcutaneous injection (6000 IU if body weight&gt;100 kg)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Enoxaparin at therapeutic dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Enoxaparin at therapeutic dose : 70 U/Kg b.i.d. (every 12 h)&#xD;
+In order to easily calculate the correct therapeutic dose of enoxaparin for each patient, a simplified categorization will be applied, as follows:&#xD;
+weight &lt; 65 Kg: 4.000 IU b.i.d. (every 12 h)&#xD;
+weight ≥ 65 Kg: 6.000 IU b.i.d. (every 12 h)&#xD;
+weight ≥ 100 Kg: 8.000 IU b.i.d. (every 12 h) The most appropriate dose will be evaluated in patients with creatinine clearance between 30 and 50 ml/min</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Enoxaparin</intervention_name>
+    <description>subcutaneous injections</description>
+    <arm_group_label>Enoxaparin at prophylactic dose</arm_group_label>
+    <arm_group_label>Enoxaparin at therapeutic dose</arm_group_label>
+    <other_name>Clexane</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  COVID-19 related pneumonia with moderate-severe respiratory failure (PaO2/FiO2&lt;250)&#xD;
+             and/or markedly increased D-dimer level (&gt;2000 ng/mL)&#xD;
+&#xD;
+          -  Signed informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  age &lt; 18 and &gt; 80 yrs&#xD;
+&#xD;
+          -  history of bleeding (peptic ulcer, esophageal varices, cerebral aneurysm, cancer at&#xD;
+             high risk of bleeding, cirrhosis, hemorrhagic stroke &lt; 1 year)&#xD;
+&#xD;
+          -  thrombocytopenia (&lt;100 x109/L)&#xD;
+&#xD;
+          -  anemia (Hb &lt; 8 g/dl)&#xD;
+&#xD;
+          -  coagulation abnormalities (PT e/o aPTT &gt; 1.5; fibrinogen &lt; 150 mg/dl)&#xD;
+&#xD;
+          -  consumption coagulopathy (ISTH criteria) [15, 16]&#xD;
+&#xD;
+          -  deep vein thrombosis or pulmonary embolism&#xD;
+&#xD;
+          -  dual antiplatelet therapy&#xD;
+&#xD;
+          -  ongoing anticoagulant therapy&#xD;
+&#xD;
+          -  allergic reaction to LMWH&#xD;
+&#xD;
+          -  previous heparin-induced thrombocytopenia&#xD;
+&#xD;
+          -  major surgery &lt; 1 month; neurosurgery &lt;3 months; eye surgery &lt;3 months&#xD;
+&#xD;
+          -  pregnancy&#xD;
+&#xD;
+          -  arterial hypertension (SBPS&gt;160 mm Hg; DBP&gt;100 mm Hg)&#xD;
+&#xD;
+          -  renal failure (creatinine clearance 30 ml/min)&#xD;
+&#xD;
+          -  ICU admission or endotracheal intubation&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Maddalena A Wu, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>ASST Fatebenefratelli Sacco</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Maddalena A Wu, M.D.</last_name>
+    <phone>+390239041</phone>
+    <email>maddalena.ale.wu@gmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Massimo Arquati, M.D.</last_name>
+    <phone>+390239041</phone>
+    <email>arquati.massimo@gmail.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>ASST Fatebenefratelli Sacco</name>
+      <address>
+        <city>Milan</city>
+        <zip>20157</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Maddalena A Wu, M.D.</last_name>
+      <phone>+393392883379</phone>
+      <email>maddalena.ale.wu@gmail.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <reference>
+    <citation>Han H, Yang L, Liu R, Liu F, Wu KL, Li J, Liu XH, Zhu CL. Prominent changes in blood coagulation of patients with SARS-CoV-2 infection. Clin Chem Lab Med. 2020 Jun 25;58(7):1116-1120. doi: 10.1515/cclm-2020-0188.</citation>
+    <PMID>32172226</PMID>
+  </reference>
+  <reference>
+    <citation>Tang N, Li D, Wang X, Sun Z. Abnormal coagulation parameters are associated with poor prognosis in patients with novel coronavirus pneumonia. J Thromb Haemost. 2020 Apr;18(4):844-847. doi: 10.1111/jth.14768. Epub 2020 Mar 13.</citation>
+    <PMID>32073213</PMID>
+  </reference>
+  <reference>
+    <citation>Zhou F, Yu T, Du R, Fan G, Liu Y, Liu Z, Xiang J, Wang Y, Song B, Gu X, Guan L, Wei Y, Li H, Wu X, Xu J, Tu S, Zhang Y, Chen H, Cao B. Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study. Lancet. 2020 Mar 28;395(10229):1054-1062. doi: 10.1016/S0140-6736(20)30566-3. Epub 2020 Mar 11. Erratum in: Lancet. 2020 Mar 28;395(10229):1038. Lancet. 2020 Mar 28;395(10229):1038.</citation>
+    <PMID>32171076</PMID>
+  </reference>
+  <reference>
+    <citation>Wu C, Chen X, Cai Y, Xia J, Zhou X, Xu S, Huang H, Zhang L, Zhou X, Du C, Zhang Y, Song J, Wang S, Chao Y, Yang Z, Xu J, Zhou X, Chen D, Xiong W, Xu L, Zhou F, Jiang J, Bai C, Zheng J, Song Y. Risk Factors Associated With Acute Respiratory Distress Syndrome and Death in Patients With Coronavirus Disease 2019 Pneumonia in Wuhan, China. JAMA Intern Med. 2020 Jul 1;180(7):934-943. doi: 10.1001/jamainternmed.2020.0994. Erratum in: JAMA Intern Med. 2020 Jul 1;180(7):1031.</citation>
+    <PMID>32167524</PMID>
+  </reference>
+  <reference>
+    <citation>Chen N, Zhou M, Dong X, Qu J, Gong F, Han Y, Qiu Y, Wang J, Liu Y, Wei Y, Xia J, Yu T, Zhang X, Zhang L. Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet. 2020 Feb 15;395(10223):507-513. doi: 10.1016/S0140-6736(20)30211-7. Epub 2020 Jan 30.</citation>
+    <PMID>32007143</PMID>
+  </reference>
+  <reference>
+    <citation>McGonagle D, Sharif K, O'Regan A, Bridgewood C. The Role of Cytokines including Interleukin-6 in COVID-19 induced Pneumonia and Macrophage Activation Syndrome-Like Disease. Autoimmun Rev. 2020 Jun;19(6):102537. doi: 10.1016/j.autrev.2020.102537. Epub 2020 Apr 3. Review.</citation>
+    <PMID>32251717</PMID>
+  </reference>
+  <reference>
+    <citation>Tang N, Bai H, Chen X, Gong J, Li D, Sun Z. Anticoagulant treatment is associated with decreased mortality in severe coronavirus disease 2019 patients with coagulopathy. J Thromb Haemost. 2020 May;18(5):1094-1099. doi: 10.1111/jth.14817. Epub 2020 Apr 27.</citation>
+    <PMID>32220112</PMID>
+  </reference>
+  <reference>
+    <citation>Iba T, Nisio MD, Levy JH, Kitamura N, Thachil J. New criteria for sepsis-induced coagulopathy (SIC) following the revised sepsis definition: a retrospective analysis of a nationwide survey. BMJ Open. 2017 Sep 27;7(9):e017046. doi: 10.1136/bmjopen-2017-017046.</citation>
+    <PMID>28963294</PMID>
+  </reference>
+  <reference>
+    <citation>Young E. The anti-inflammatory effects of heparin and related compounds. Thromb Res. 2008;122(6):743-52. Epub 2007 Aug 28. Review.</citation>
+    <PMID>17727922</PMID>
+  </reference>
+  <reference>
+    <citation>Poterucha TJ, Libby P, Goldhaber SZ. More than an anticoagulant: Do heparins have direct anti-inflammatory effects? Thromb Haemost. 2017 Feb 28;117(3):437-444. doi: 10.1160/TH16-08-0620. Epub 2016 Dec 15. Review.</citation>
+    <PMID>27975101</PMID>
+  </reference>
+  <reference>
+    <citation>Mousavi S, Moradi M, Khorshidahmad T, Motamedi M. Anti-Inflammatory Effects of Heparin and Its Derivatives: A Systematic Review. Adv Pharmacol Sci. 2015;2015:507151. doi: 10.1155/2015/507151. Epub 2015 May 12. Review.</citation>
+    <PMID>26064103</PMID>
+  </reference>
+  <reference>
+    <citation>Thachil J. The versatile heparin in COVID-19. J Thromb Haemost. 2020 May;18(5):1020-1022. doi: 10.1111/jth.14821. Epub 2020 Apr 27.</citation>
+    <PMID>32239799</PMID>
+  </reference>
+  <reference>
+    <citation>Milewska A, Zarebski M, Nowak P, Stozek K, Potempa J, Pyrc K. Human coronavirus NL63 utilizes heparan sulfate proteoglycans for attachment to target cells. J Virol. 2014 Nov;88(22):13221-30. doi: 10.1128/JVI.02078-14. Epub 2014 Sep 3.</citation>
+    <PMID>25187545</PMID>
+  </reference>
+  <reference>
+    <citation>Barrett CD, Moore HB, Yaffe MB, Moore EE. ISTH interim guidance on recognition and management of coagulopathy in COVID-19: A comment. J Thromb Haemost. 2020 Aug;18(8):2060-2063. doi: 10.1111/jth.14860. Epub 2020 Jun 14.</citation>
+    <PMID>32302462</PMID>
+  </reference>
+  <reference>
+    <citation>Wada H, Thachil J, Di Nisio M, Mathew P, Kurosawa S, Gando S, Kim HK, Nielsen JD, Dempfle CE, Levi M, Toh CH; The Scientific Standardization Committee on DIC of the International Society on Thrombosis Haemostasis. Guidance for diagnosis and treatment of DIC from harmonization of the recommendations from three guidelines. J Thromb Haemost. 2013 Feb 4. doi: 10.1111/jth.12155. [Epub ahead of print]</citation>
+    <PMID>23379279</PMID>
+  </reference>
+  <reference>
+    <citation>Schulman S, Kearon C; Subcommittee on Control of Anticoagulation of the Scientific and Standardization Committee of the International Society on Thrombosis and Haemostasis. Definition of major bleeding in clinical investigations of antihemostatic medicinal products in non-surgical patients. J Thromb Haemost. 2005 Apr;3(4):692-4.</citation>
+    <PMID>15842354</PMID>
+  </reference>
+  <reference>
+    <citation>Ackermann M, Verleden SE, Kuehnel M, Haverich A, Welte T, Laenger F, Vanstapel A, Werlein C, Stark H, Tzankov A, Li WW, Li VW, Mentzer SJ, Jonigk D. Pulmonary Vascular Endothelialitis, Thrombosis, and Angiogenesis in Covid-19. N Engl J Med. 2020 Jul 9;383(2):120-128. doi: 10.1056/NEJMoa2015432. Epub 2020 May 21.</citation>
+    <PMID>32437596</PMID>
+  </reference>
+  <reference>
+    <citation>Helms J, Tacquard C, Severac F, Leonard-Lorant I, Ohana M, Delabranche X, Merdji H, Clere-Jehl R, Schenck M, Fagot Gandet F, Fafi-Kremer S, Castelain V, Schneider F, Grunebaum L, Anglés-Cano E, Sattler L, Mertes PM, Meziani F; CRICS TRIGGERSEP Group (Clinical Research in Intensive Care and Sepsis Trial Group for Global Evaluation and Research in Sepsis). High risk of thrombosis in patients with severe SARS-CoV-2 infection: a multicenter prospective cohort study. Intensive Care Med. 2020 Jun;46(6):1089-1098. doi: 10.1007/s00134-020-06062-x. Epub 2020 May 4.</citation>
+    <PMID>32367170</PMID>
+  </reference>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>November 22, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 25, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 30, 2020</study_first_posted>
+  <last_update_submitted>November 25, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 25, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 30, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>ASST Fatebenefratelli Sacco</investigator_affiliation>
+    <investigator_full_name>Maddalena Alessandra Wu</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>COVID.19</keyword>
+  <keyword>Thrombosis</keyword>
+  <keyword>Enoxaparin</keyword>
+  <keyword>Outcome</keyword>
+  <keyword>Respiratory failure</keyword>
+  <keyword>D-dimer</keyword>
+  <keyword>Venous compression ultrasound</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Thrombosis</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Enoxaparin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

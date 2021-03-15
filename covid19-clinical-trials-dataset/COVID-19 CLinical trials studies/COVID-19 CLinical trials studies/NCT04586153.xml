@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3095">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04586153</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MPZ-II-02</org_study_id>
+    <nct_id>NCT04586153</nct_id>
+  </id_info>
+  <brief_title>Study to Assess the Effect of Meplazumab on COVID-19</brief_title>
+  <official_title>A Multicenter, Seamless, Randomized, Third-Party-Blind, Clinical Trial to Evaluate the Safety and Efficacy of Meplazumab in Addition to Standard of Care for the Treatment of COVID-19 in Hospitalized Adults</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Jiangsu Pacific Meinuoke Bio Pharmaceutical Co Ltd</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Jiangsu Pacific Meinuoke Bio Pharmaceutical Co Ltd</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase2/3 study will be conducted to evaluate the safety and efficacy of Meplazumab in&#xD;
+      addition to Standard of Care for the treatment of Corona Virus Disease(COVID) 19 in&#xD;
+      hospitalized adults&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      1. Rationale:&#xD;
+&#xD;
+           Meplazumab is a humanized anti-CD147 immunoglobulin 2(IgG2) monoclonal antibody which is&#xD;
+           expected to block the binding of the severe acute respiratory syndrome coronavirus 2&#xD;
+           (SARS CoV 2) spike protein to the human host-cell-expressed CD147, thereby blocking&#xD;
+           entry of SARS CoV 2 into human tissue. This expectation is based on in vitro functional&#xD;
+           studies using Vero E6 cells infected with SARS-CoV-2 that demonstrated effective&#xD;
+           meplazumab mediated virus gene copy number inhibition upwards of 90% as evaluated by&#xD;
+           quantitative polymerase chain reaction. Meplazumab may also inhibit COVID-19 associated&#xD;
+           cytokine storm syndrome based on inhibition of the pro inflammatory factor Cyclophilin A&#xD;
+           host-cell CD147 interaction.&#xD;
+&#xD;
+        2. Overall Design:&#xD;
+&#xD;
+           This is a multicenter, seamless, randomized, third-party-blind, study to evaluate the&#xD;
+           safety and efficacy of meplazumab for the treatment of COVID 19 in hospitalized adults&#xD;
+           (≥18 years). Neither the subject nor the investigator shall be aware of the study drug&#xD;
+           identity, as the study drug is dispensed by a third party (eg, a pharmacist or nurse).&#xD;
+&#xD;
+           Enrollment of subjects will be stopped once the total number of planned subjects have&#xD;
+           completed the Stage 1 Day 29 visit procedures. Once the interim analysis of Stage 1&#xD;
+           study data is complete and the Independent Data Monitoring Committee (IDMC) has&#xD;
+           recommended the meplazumab dose that is safe and effective to carry forward into Stage&#xD;
+           2, the study will resume subject enrollment. A summary of the key Stage 1 interim&#xD;
+           analysis results will be sent to the relevant Health Authorities involved, if requested.&#xD;
+&#xD;
+        3. Number of Investigators and Study Centers:&#xD;
+&#xD;
+           There will be 15 to 20 Investigators, at 12 to 20 study centers globally, participating&#xD;
+           in this study.&#xD;
+&#xD;
+        4. Number of Subjects:&#xD;
+&#xD;
+           Subjects will be screened 1 day before randomization. Stage 1: 216 subjects will be&#xD;
+           randomized and allocated 1:1:1:1 (54:54:54:54) to receive meplazumab low dose,&#xD;
+           meplazumab medium dose, meplazumab high dose, or control. An interim analysis will be&#xD;
+           conducted to select the optimal dose of meplazumab compared with the control group based&#xD;
+           on response rates of clinical improvement at Day 29 Stage 2: 240 more subjects will be&#xD;
+           randomized and allocated 2:1 (160:80) to receive either the optimal meplazumab dose&#xD;
+           determined after Stage 1, or control. At interim analysis, primary endpoint, sample size&#xD;
+           calculation for Stage 2 will be re evaluated based on the observed outcomes at Stage 1&#xD;
+           and will be capped at 300 subjects total.&#xD;
+&#xD;
+        5. Treatment Groups and Duration:&#xD;
+&#xD;
+      Study duration for each subject will be 84±7 days from randomization in each stage.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 30, 2020</start_date>
+  <completion_date type="Anticipated">September 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 28, 2021</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Time to sustained clinical improvement</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+    <description>Of at least 2 points (from randomization) on a 6-point ordinal scale, (where sustained improvement is improvement without subsequent worsening), or live discharge from the hospital, whichever comes first.&#xD;
+The time to event endpoints, including time to sustained clinical improvement by Day 29 from treatment start date will be compared between the treatment arms stratifying for age group (age &lt;65 years versus ≥65 years) and baseline severity grade, with death handled as competing risk, and the equivalence of cumulative incidence curve will be tested using the Gray's test at the 2-sided alpha level of 0.05. The unstratified cumulative incidence curve will be plotted for each treatment arm. Additionally, Cox regression model will be used to model the sub-distribution hazard ratio (HR) between treatment arms under the Fine and Gray's competing risk framework, with death handed as competing risk; the HR and its 95% Confidence Interval(CI) will be reported.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Response rate</measure>
+    <time_frame>Day 29</time_frame>
+    <description>As defined by a sustained improvement of 2 points on a 6-point ordinal scale&#xD;
+Analysis of response rate Conduct between the selected dose group and control using Cochran-Mantel-Haenszel (CMH) statistic, stratifying for age group (age &lt;65 years versus ≥65 years), and baseline severity grade, and additional stratification factors if any as determined after evaluation of Stage 1 data.&#xD;
+Sensitivity analyses on the response rate Fit the response variable using logistic regression, including treatment, baseline, baseline and treatment interaction, age group (age &lt;65 years versus ≥65 years), and age group and treatment interaction as fixed effects.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>Day 29</time_frame>
+    <description>Analyze using the same Cochran-Mantel-Haenszel (CMH) test and logistic regression.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Proportion of subjects alive and discharged without supplemental oxygen</measure>
+    <time_frame>Day 29</time_frame>
+    <description>Analyze using the same Cochran-Mantel-Haenszel (CMH) test and logistic regression.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Response rate</measure>
+    <time_frame>Day 2,8 and 15</time_frame>
+    <description>as defined by an improvement of 2 points on a 6-point ordinal scale. Use the same Cochran-Mantel-Haenszel (CMH) test and logistic regression model as in the primary endpoint.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects alive and discharge without supplemental oxygen</measure>
+    <time_frame>Day 15 and 57</time_frame>
+    <description>Use the same Cochran-Mantel-Haenszel (CMH) test and logistic regression model as in the primary endpoint.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Weight in kilogram</measure>
+    <time_frame>Day1 and Day8</time_frame>
+    <description>Weight will be obtained on days when investigator drug is administered</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Blood pressure in mmHg</measure>
+    <time_frame>Day 1 through Day14, Day 15 and 29</time_frame>
+    <description>Blood pressure will be obtained</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>saturation in percentage</measure>
+    <time_frame>Day 1 through Day14, Day 15 and 29</time_frame>
+    <description>finger oxygen saturation will be obtained</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Temperature in ℃</measure>
+    <time_frame>Day 1 through Day14, Day 15 and 29</time_frame>
+    <description>Temperature will be obtained</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>12-lead electrocardiograms (ECGs)</measure>
+    <time_frame>Day 1 and 29</time_frame>
+    <description>Using an ECG machine that automatically calculates the heart rate and measures PR, QRS, QT, and QTc intervals</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Virologic load</measure>
+    <time_frame>Day 1, 3, 5, 8 and 9 or 10, 29 and 57</time_frame>
+    <description>quantitative Polymerase Chain Reaction(PCR) for COVID 19 in nasopharyngeal swab</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Antidrug antibody (ADA) titers</measure>
+    <time_frame>Day 1, 29, 57 and 84</time_frame>
+    <description>Collection of blood samples for immunogenicity assessments # using validation Anti-body testing assay to test the presence of antidrug antibody</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse events (AEs) of special interest</measure>
+    <time_frame>84 days (from first dose to the end of study)</time_frame>
+    <description>disease-related secondary infection complications, hemolysis, Grade 4 (Common Terminology Criteria for Adverse Events V5 [CTCAE]) neutropenia and lymphopenia, and anaphylactic reactions defined by Clinical Criteria for Diagnosing Anaphylaxis(0); 20% decline in SpO2 between start and end of 1-hr study treatment infusion; ALT or AST &gt;3 x ULN AND TBL &gt;2 x ULN; Evidence of red blood cell (RBC) hemolysis as defined by 2 of the following 3 findings:&#xD;
+Anemia that is not due to another obvious cause&#xD;
+Increased reticulocyte count that is not explained by an obvious cause&#xD;
+Signs of RBC destruction, such as increased lactate dehydrogenase (LDH), low haptoglobin ≤25 mg/dL, increased unconjugated bilirubin.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>Day 15 and 57</time_frame>
+    <description>Use the same Cochran-Mantel-Haenszel (CMH) test and logistic regression model as in the primary endpoint.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to sustained recovery</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+    <description>as defined by first day on which 1 of the following 2 categories is achieved using the 6-point ordinal scale：&#xD;
+Not hospitalized&#xD;
+Hospitalized, not requiring supplemental oxygen</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">456</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Meplzaumb</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This arm is combined with 3 groups, low dose, middle dose, and high dose. Low dose group: First dose: 0.12 mg/kg - Day 1; second dose: control - Day 8 Middle dose group: First dose: 0.2 mg/kg - Day 1; second dose: 0.2 mg/kg - Day 8 High dose group: First dose: 0.3 mg/kg - Day 1; second dose: 0.3 mg/kg - Day 8</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>First dose: control - Day 1; second dose: control - Day 8</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Meplazumab for Injection</intervention_name>
+    <description>humanized antibody target CD147</description>
+    <arm_group_label>Meplzaumb</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Sterile normal saline (0.9%)</intervention_name>
+    <description>Sterile normal saline (0.9%)</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adults (≥18 years) with laboratory-confirmed SARS CoV 2 infection as determined by PCR&#xD;
+             or other commercial or public health assay, which is FDA cleared or approved for&#xD;
+             emergency use (test results must be obtained within 72 hours of Day&#xD;
+&#xD;
+          -  A score of Grade 3 (hospitalized, requiring supplemental oxygen) or Grade 4&#xD;
+             (hospitalized, on non-invasive ventilation or high flow oxygen devices) on the 6-point&#xD;
+             ordinal scale.&#xD;
+&#xD;
+          -  Willingness and ability to comply with study-related procedures and assessments.&#xD;
+&#xD;
+          -  Ability to provide informed consent signed by study subject or legally authorized&#xD;
+             representative.&#xD;
+&#xD;
+          -  Male and/or female&#xD;
+&#xD;
+             a)Male subjects:&#xD;
+&#xD;
+          -  A male subject must agree to use contraception as detailed in Appendix 12.3 of this&#xD;
+             protocol during the treatment period and for at least 6 months, corresponding to time&#xD;
+             needed to eliminate study treatment for both genotoxic and teratogenic study&#xD;
+             treatments, after the last dose of study treatment.&#xD;
+&#xD;
+             b)Female subjects:&#xD;
+&#xD;
+          -  A female subject is eligible to participate if she is not pregnant (see Appendix&#xD;
+             12.3), not planning to get pregnant in the next 6 months, not breastfeeding, and at&#xD;
+             least 1 of the following conditions applies:&#xD;
+&#xD;
+             i) Not a woman of childbearing potential (WOCBP) as defined in Appendix 12.3. OR ii) A&#xD;
+             WOCBP who agrees to follow the contraceptive guidance in Appendix 12.3 during the&#xD;
+             treatment period and for at least 130 days, (5 terminal half lives and, for genotoxic&#xD;
+             products, an additional 30 days, corresponding to time needed to eliminate study&#xD;
+             treatment plus 30 days for study treatments with genotoxic potential) after the last&#xD;
+             dose of study treatment.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Any physical examination findings, laboratory abnormality, and/or history of any&#xD;
+             illness, that in the study Investigator's judgment, could jeopardize the safety of the&#xD;
+             subject by their participation in the study.&#xD;
+&#xD;
+          -  Subjects with evidence of critical COVID 19 illness, defined by at least 1 of the&#xD;
+             following: respiratory failure; shock (defined by systolic blood pressure &lt;90 mm Hg,&#xD;
+             or diastolic blood pressure &lt;60 mm Hg, or requiring vasopressors); or multi-organ&#xD;
+             dysfunction/failure.&#xD;
+&#xD;
+          -  Subjects requiring extracorporeal membrane oxygenation (ECMO).&#xD;
+&#xD;
+          -  Stage 4 severe chronic kidney disease or requiring dialysis (ie, estimated glomerular&#xD;
+             filtration rate(eGFR) mL/min/1.73 m2 &lt; 30).&#xD;
+&#xD;
+          -  Pregnant or breast feeding.&#xD;
+&#xD;
+          -  Anticipated transfer to another hospital which is not a study site within 72 hours.&#xD;
+&#xD;
+          -  Allergy to any study medication.&#xD;
+&#xD;
+          -  Use of anticancer, antitransplant rejection, or immunomodulatory biological drug or&#xD;
+             kinase inhibitor (eg, tocilizumab, sarilumab) or Janus kinase inhibitors (within 30&#xD;
+             days of enrollment or 5 times the half-life [whichever is longer]).&#xD;
+&#xD;
+          -  Chronic glucocorticosteroid use equivalent to daily oral prednisone &gt;10 mg per day (10&#xD;
+             mg oral prednisone every other day is allowed).&#xD;
+&#xD;
+          -  Live (live-attenuated) vaccines are not permitted within 2 weeks prior to&#xD;
+             randomization or during the study treatment and safety follow-up periods.&#xD;
+&#xD;
+          -  Subjects participating in another clinical study. There will be a need for washout&#xD;
+             with 5 half lives depending on the study treatment or 30 days since any previous&#xD;
+             study, whichever is longer.&#xD;
+&#xD;
+          -  Total bilirubin (TBL) &gt;2 × upper limit of normal (ULN), or alanine aminotransferase&#xD;
+             (ALT) &gt;5 × ULN, or aspartate aminotransferase (AST) &gt;5 × ULN, or alkaline phosphatase&#xD;
+             &gt;5 × ULN.&#xD;
+&#xD;
+          -  Platelet &lt;50×109/L, or hemoglobin &lt;60g/L.&#xD;
+&#xD;
+          -  Glomerular filtration rate &lt;30 milliliter(mL)/min/1.73 m2, or serum creatinine&#xD;
+             increased by 0.5 mg/dL within 7 days, or oliguria (&lt;400 mL/24 hour), or anuria (&lt;100&#xD;
+             mL/24 hour).&#xD;
+&#xD;
+          -  Any physical examination findings, laboratory abnormality, and/or history of any&#xD;
+             illness, that in the study Investigator's judgment, could jeopardize the safety of the&#xD;
+             subject by their participation in the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Xiaochun Chen</last_name>
+    <phone>86-519-68889888</phone>
+    <email>cxc@pmbp.cn</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Shuangshuang Liu</last_name>
+    <phone>86-519-68889888</phone>
+    <email>lss@pmbp.cn</email>
+  </overall_contact_backup>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>October 12, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 13, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 14, 2020</study_first_posted>
+  <last_update_submitted>November 14, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 14, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 17, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

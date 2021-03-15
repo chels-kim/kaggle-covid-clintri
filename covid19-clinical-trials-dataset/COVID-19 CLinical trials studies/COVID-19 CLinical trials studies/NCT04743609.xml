@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4476">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04743609</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020-A02876-33</org_study_id>
+    <nct_id>NCT04743609</nct_id>
+  </id_info>
+  <brief_title>RSV Burden in Outpatient Settings</brief_title>
+  <acronym>Oursyn</acronym>
+  <official_title>Ambulatory Respiratory Tract Infection Survey, Burden of Respiratory Syncitial Virus in the Era of Covid-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Association Clinique Thérapeutique Infantile du val de Marne</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Association Clinique Thérapeutique Infantile du val de Marne</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Strengthening outpatient low respiratory tract infection surveillance to document the burden&#xD;
+      of Respiratory Syncytial Virus (RSV)&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The study protocol is designed with three key components: 1. Build on existing PARI&#xD;
+      outpatient syndromic surveillance by adding laboratory multiplex testing of LRTI samples&#xD;
+      (RSV, Influenza, SARS-COV-2) 2. Follow all bronchiolitis through the PARI RWE database and&#xD;
+      document &quot;patient journey&quot; for 5 years after first medical visit 3. Review the electronic&#xD;
+      PARI data of three previous seasons in order to document the impact of LRTI attributable to&#xD;
+      RSV in children &lt; 2 years in France prior to enhanced surveillance&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 1, 2021</start_date>
+  <completion_date type="Anticipated">January 11, 2023</completion_date>
+  <primary_completion_date type="Anticipated">July 11, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>RSV proven</measure>
+    <time_frame>day of enrrollement</time_frame>
+    <description>Percentage of children with proven RSV disease (bronchiolitis, AOM or pneumonia)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of Respiratory Tract Infections by RSV Status</measure>
+    <time_frame>day of enrrollement</time_frame>
+    <description>Percentage of children with Respiratory Tract Infections by RSV Status</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of Respiratory Tract Infections with SARS-CoV-2</measure>
+    <time_frame>day of enrrollement</time_frame>
+    <description>Percentage of children with Respiratory Tract Infections with SARS-CoV-2</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of associated complications by RSV status</measure>
+    <time_frame>day of enrrollement, 15 days and 6 months</time_frame>
+    <description>Percentage of children with associated complications by RSV status</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of AOM by RSV status</measure>
+    <time_frame>day of enrrollement</time_frame>
+    <description>Percentage of children with AOM by RSV status</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of pneumonia by RSV status</measure>
+    <time_frame>day of enrrollement</time_frame>
+    <description>Percentage of children with pneumonia by RSV status</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Score of Quality of life</measure>
+    <time_frame>15 days and 6 months</time_frame>
+    <description>Assessed by the quality of life infant scale (from 0-100, so that higher scores indicate better Health-Related Quality of Life)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Caracteristic of tests</measure>
+    <time_frame>day of enrrollement</time_frame>
+    <description>Sensitivity, specificity, positive predictive value, negative predictive value positive and negative likelihood ratio of the SARS-Cov2, influenza A/B and RSV rapid antigenic test compared to the reference test by multiplex RT-PCR</description>
+  </secondary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">1600</enrollment>
+  <condition>RSV Infection</condition>
+  <condition>Children, Only</condition>
+  <condition>Outpatient</condition>
+  <condition>Bronchiolitis</condition>
+  <condition>Otitis Media</condition>
+  <condition>Pneumonia</condition>
+  <arm_group>
+    <arm_group_label>Bronchiolitis</arm_group_label>
+    <description>- children under 24 months of age (≤) with First episode of bronchiolitis</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Acute otitis media</arm_group_label>
+    <description>define with Paradise Criteria) or otorrhea</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Pneumonia</arm_group_label>
+    <description>defined by the presence of opacity of parenchymal condensation and/or pleural effusion on chest X-ray associated with fever</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>nasopharyngeal samples</intervention_name>
+    <description>rapid antigen test for Sars Cov-2, influenza and RSV. RT-PCR for a subgroup of 400 patients</description>
+    <arm_group_label>Acute otitis media</arm_group_label>
+    <arm_group_label>Bronchiolitis</arm_group_label>
+    <arm_group_label>Pneumonia</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Nasopharyngeal samples : rapid antigen test: Sars cov2, influenza and RSV&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        children under 24 months old with first episode of bronchiolitis or acute otitis media or&#xD;
+        pneumonia&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  children under 24 months of age (≤)&#xD;
+&#xD;
+          -  One of the holders of parental authority signed the consent&#xD;
+&#xD;
+          -  Patient affiliated to a social security scheme (Social Security or Universal Medical&#xD;
+             Coverage)&#xD;
+&#xD;
+          -  First episode of bronchiolitis defined by&#xD;
+&#xD;
+          -  Age ≤24 months&#xD;
+&#xD;
+          -  At least one symptom from group A and one symptom from group B Group A (one or more)&#xD;
+&#xD;
+          -  Fever &gt;38 °C&#xD;
+&#xD;
+          -  Cough&#xD;
+&#xD;
+          -  Otalgia&#xD;
+&#xD;
+          -  Nasal congestion&#xD;
+&#xD;
+          -  Rhinorrhea&#xD;
+&#xD;
+          -  Coryza&#xD;
+&#xD;
+          -  Dysphagia Group B (one or more)&#xD;
+&#xD;
+          -  whistling&#xD;
+&#xD;
+          -  Crackles&#xD;
+&#xD;
+          -  Rales&#xD;
+&#xD;
+          -  Decrease in respiratory noise&#xD;
+&#xD;
+          -  Shortness of breath&#xD;
+&#xD;
+          -  Dyspnea&#xD;
+&#xD;
+          -  OR Acute purulent otitis media (Paradise Criteria) or otorrhea.&#xD;
+&#xD;
+          -  OR Pneumonia defined by the presence of opacity of parenchymal condensation and/or&#xD;
+             pleural effusion on chest X-ray associated with fever&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Age &gt;24 months&#xD;
+&#xD;
+          -  Refusal by one of the parents&#xD;
+&#xD;
+          -  Not affiliated to a social security system&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>24 Months</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Corinne Levy, MD</last_name>
+    <phone>0033148850404</phone>
+    <email>corinne.levy@activ-france.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Stéphane Béchet, MsC</last_name>
+    <phone>0033148850404</phone>
+    <email>stephane.bechet@activ-france.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>ACTIV</name>
+      <address>
+        <city>Créteil</city>
+        <zip>94000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>January 20, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 4, 2021</study_first_submitted_qc>
+  <study_first_posted type="Estimate">February 8, 2021</study_first_posted>
+  <last_update_submitted>February 4, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 4, 2021</last_update_submitted_qc>
+  <last_update_posted type="Estimate">February 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>RSV</keyword>
+  <keyword>children</keyword>
+  <keyword>bronchiolitis</keyword>
+  <keyword>otitis</keyword>
+  <keyword>pneumonia</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Respiratory Syncytial Virus Infections</mesh_term>
+    <mesh_term>Pneumonia</mesh_term>
+    <mesh_term>Bronchiolitis</mesh_term>
+    <mesh_term>Otitis</mesh_term>
+    <mesh_term>Otitis Media</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

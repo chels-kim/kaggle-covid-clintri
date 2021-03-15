@@ -1,0 +1,912 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1598">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04327206</url>
+  </required_header>
+  <id_info>
+    <org_study_id>62586</org_study_id>
+    <secondary_id>U1111-1256-4104</secondary_id>
+    <nct_id>NCT04327206</nct_id>
+  </id_info>
+  <brief_title>BCG Vaccination to Protect Healthcare Workers Against COVID-19</brief_title>
+  <acronym>BRACE</acronym>
+  <official_title>BCG Vaccination to Reduce the Impact of COVID-19 in Healthcare Workers (BRACE) Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Murdoch Childrens Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Royal Children's Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Murdoch Childrens Research Institute</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Phase III, two-group multicentre, randomised controlled trial in up to 10 078 healthcare&#xD;
+      workers to determine if BCG vaccination reduces the incidence and severity of COVID-19 during&#xD;
+      the 2020 pandemic.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Healthcare workers are at the frontline of the coronavirus disease (COVID-19) pandemic. They&#xD;
+      will be randomised to receive a single dose of BCG vaccine or 0.9% NaCl placebo. Participants&#xD;
+      will be followed-up for 12 months with notification from a Smartphone application or phone&#xD;
+      calls (up to daily when ill) and surveys to identify and detail COVID-19 infection.&#xD;
+      Additional information on severe disease will be obtained from hospital medical records&#xD;
+      and/or government databases. Blood samples will be collected prior to randomisation and at 3,&#xD;
+      6, 9 and 12 months to determine exposure to severe acute respiratory syndrome coronavirus 2&#xD;
+      (SARS-CoV-2). Where required, swab/blood samples will be taken at illness episodes to assess&#xD;
+      SARS-CoV-2 infection.&#xD;
+&#xD;
+      The trial includes a pre-planned meta-analysis with data from 2834 participants recruited in&#xD;
+      the first phase of this study, where participants were randomised to receive BCG or no BCG&#xD;
+      vaccine at the time of receiving influenza vaccination.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 30, 2020</start_date>
+  <completion_date type="Anticipated">March 30, 2022</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Phase III, two group, multicentre, randomised controlled trial</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Double (Participant, Outcomes Assessor)</masking>
+    <masking_description>The control group will receive a placebo of 0.9% sodium chloride (NaCl). Members of the research team doing the follow-up of participants and analysis will be blinded to the group allocation (by the removal of this variable and all other variables related to BCG from the dataset) until the formal detailed statistical analysis plan is confirmed and signed by all investigators and all data cleaning/preparation is complete.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>COVID-19 disease incidence</measure>
+    <time_frame>Measured over the 6 months following randomisation</time_frame>
+    <description>Number of participants with COVID-19 disease defined as&#xD;
+positive SARS-Cov-2 test (PCR, antigen or serology), plus&#xD;
+fever (using self-reported questionnaire), or&#xD;
+at least one sign or symptom of respiratory disease including cough, shortness of breath, respiratory distress/failure (using self-reported questionnaire)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Severe COVID-19 disease incidence</measure>
+    <time_frame>Measured over the 6 months following randomisation</time_frame>
+    <description>Number of participants with severe COVID-19 disease, defined as: COVID-19 disease with hospitalisation, death, or non-hospitalised severe disease.&#xD;
+Non-hospitalised severe disease is defined as non-ambulant (*) for ≥ 3 consecutive days OR unable to work (**) for ≥ 3 consecutive days.&#xD;
+(*) &quot;pretty much confined to bed (meaning finding it very difficult to do any normal daily activities&quot;.&#xD;
+(**) &quot;I do not feel physically well enough to go to work&quot;</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>COVID-19 incidence by 12 months</measure>
+    <time_frame>Measured over the 12 months following randomisation</time_frame>
+    <description>Number of participants with COVID-19 disease defined as&#xD;
+positive SARS-Cov-2 test (PCR or serology), plus&#xD;
+fever (using self-reported questionnaire), or&#xD;
+at least one sign or symptom of respiratory disease including cough, shortness of breath, respiratory distress/failure (using self-reported questionnaire)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Severe COVID-19 incidence by 12 months</measure>
+    <time_frame>Measured over the 12 months following randomisation</time_frame>
+    <description>Number of participants with severe COVID-19 disease, defined as: COVID-19 disease with hospitalisation, death, or non-hospitalised severe disease.&#xD;
+Non-hospitalised severe disease is defined as non-ambulant(*) for ≥ 3 consecutive days OR unable to work (**) for ≥ 3 consecutive days.&#xD;
+* &quot;pretty much confined to bed (meaning finding it very difficult to do any normal daily activities&quot;&#xD;
+** &quot;I do not feel physically well enough to go to work&quot;</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to first symptom of COVID-19</measure>
+    <time_frame>Measured over the 12 months following randomisation</time_frame>
+    <description>Time to first symptom of COVID-19 in a participant who subsequently meets the case definition:&#xD;
+positive SARS-Cov-2 test (PCR, antigen or serology), plus&#xD;
+fever (using self-reported questionnaire), or&#xD;
+at least one sign or symptom of respiratory disease including cough, shortness of breath, respiratory distress/failure (using self-reported questionnaire)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Episodes of COVID-19</measure>
+    <time_frame>Measured over the 12 months following randomisation</time_frame>
+    <description>Number of episodes of COVID-19 disease defined as&#xD;
+positive SARS-Cov-2 test (PCR, antigen or serology), plus&#xD;
+fever (using self-reported questionnaire), or&#xD;
+at least one sign or symptom of respiratory disease including cough, shortness of breath, respiratory distress/failure (using self-reported questionnaire)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Asymptomatic SARS-CoV-2 infection</measure>
+    <time_frame>Measured over the 12 months following randomisation</time_frame>
+    <description>Number of participants with asymptomatic SARS-CoV-2 infection defined as&#xD;
+Evidence of SARS-CoV-2 infection (by PCR or seroconversion)&#xD;
+Absence of respiratory illness (using self-reported questionnaire)&#xD;
+No evidence of exposure prior to randomisation (inclusion serology negative)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Work absenteeism due to COVID-19</measure>
+    <time_frame>Measured over the 12 months following randomisation</time_frame>
+    <description>Number of days (using self-reported questionnaire) unable to work (excludes quarantine/workplace restrictions) due to COVID-19 disease defined as&#xD;
+positive SARS-Cov-2 test (PCR, antigen or serology), plus&#xD;
+fever (using self-reported questionnaire), or&#xD;
+at least one sign or symptom of respiratory disease including cough, shortness of breath, respiratory distress/failure (using self-reported questionnaire)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Bed confinement due to COVID-19</measure>
+    <time_frame>Measured over the 12 months following randomisation</time_frame>
+    <description>Number of days confined to bed (using self-reported questionnaire) due to COVID-19 disease defined as&#xD;
+positive SARS-Cov-2 test (PCR or serology), plus&#xD;
+fever (using self-reported questionnaire), or&#xD;
+at least one sign or symptom of respiratory disease including cough, shortness of breath, respiratory distress/failure (using self-reported questionnaire)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Symptom duration of COVID-19</measure>
+    <time_frame>Measured over the 12 months following randomisation</time_frame>
+    <description>Number of days with symptoms in any episode of illness that meets the case definition for COVID-19 disease:&#xD;
+positive SARS-Cov-2 test (PCR, antigen or serology), plus&#xD;
+fever (using self-reported questionnaire), or&#xD;
+at least one sign or symptom of respiratory disease including cough, shortness of breath, respiratory distress/failure (using self-reported questionnaire)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV-2 pneumonia</measure>
+    <time_frame>Measured over the 12 months following randomisation</time_frame>
+    <description>Number of pneumonia cases (abnormal chest X-ray) (using self-reported questionnaire and/or medical/hospital records) associated with a positive SARS-CoV-2 test</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Oxygen therapy with SARS-CoV-2</measure>
+    <time_frame>Measured over the 12 months following randomisation</time_frame>
+    <description>Need for oxygen therapy (using self-reported questionnaire and/or medical/hospital records) associated with a positive SARS-CoV-2 test</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Critical care admissions with SARS-CoV-2</measure>
+    <time_frame>Measured over the 12 months following randomisation</time_frame>
+    <description>Number of admission to critical care (using self-reported questionnaire and/or medical/hospital records) associated with a positive SARS-CoV-2 test</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Critical care admission duration with SARS-CoV-2</measure>
+    <time_frame>Measured over the 12 months following randomisation</time_frame>
+    <description>Number of days admitted to critical care (using self-reported questionnaire and/or medical/hospital records) associated with a positive SARS-CoV-2 test</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mechanical ventilation with SARS-CoV-2</measure>
+    <time_frame>Measured over the 12 months following randomisation</time_frame>
+    <description>Number of participants needing mechanical ventilation (using self-reported questionnaire and/or medical/hospital records) and a positive SARS-CoV-2 test</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mechanical ventilation duration with SARS-CoV-2</measure>
+    <time_frame>Measured over the 12 months following randomisation</time_frame>
+    <description>Number of days that participants needed mechanical ventilation (using self-reported questionnaire and/or medical/hospital records) and a positive SARS-CoV-2 test</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospitalisation duration with COVID-19</measure>
+    <time_frame>Measured over the 12 months following randomisation</time_frame>
+    <description>Number of days of hospitalisation due to COVID-19 (using self-reported questionnaire and/or medical/hospital records).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality with SARS-CoV-2</measure>
+    <time_frame>Measured over the 12 months following randomisation</time_frame>
+    <description>Number of deaths (from death registry) associated with a positive SARS-CoV-2 test</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fever or respiratory illness</measure>
+    <time_frame>Measured over the 12 months following randomisation</time_frame>
+    <description>Number of participants with fever or respiratory illness will be defined as:&#xD;
+fever (using self-reported questionnaire), or&#xD;
+at least one sign or symptom of respiratory disease including cough, shortness of breath, respiratory distress/failure, runny/blocked nose (using self-reported questionnaire)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Episodes of fever or respiratory illness</measure>
+    <time_frame>Measured over the 12 months following randomisation</time_frame>
+    <description>Number of episodes of fever or respiratory illness, defined as&#xD;
+fever (using self-reported questionnaire), or&#xD;
+at least one sign or symptom of respiratory disease including cough, shortness of breath, respiratory distress/failure, runny/blocked nose (using self-reported questionnaire)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Work absenteeism due to fever or respiratory illness</measure>
+    <time_frame>Measured over the 12 months following randomisation</time_frame>
+    <description>Number of days (using self-reported questionnaire) unable to work (excludes quarantine/workplace restrictions) due to fever or respiratory illness defined as&#xD;
+fever (using self-reported questionnaire), or&#xD;
+at least one sign or symptom of respiratory disease including cough, shortness of breath, respiratory distress/failure, runny/blocked nose (using self-reported questionnaire)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Bed confinement due to fever or respiratory illness</measure>
+    <time_frame>Measured over the 12 months following randomisation</time_frame>
+    <description>Number of days confined to bed (using self-reported questionnaire) due to fever or respiratory illness defined as&#xD;
+fever (using self-reported questionnaire), or&#xD;
+at least one sign or symptom of respiratory disease including cough, shortness of breath, respiratory distress/failure, runny/blocked nose (using self-reported questionnaire)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Symptom duration of fever or respiratory illness</measure>
+    <time_frame>Measured over the 12 months following randomisation</time_frame>
+    <description>Number of days with symptoms in any episode of illness that meets the case definition for fever or respiratory illness:&#xD;
+fever (using self-reported questionnaire), or&#xD;
+at least one sign or symptom of respiratory disease including cough, shortness of breath, respiratory distress/failure, runny/blocked nose (using self-reported questionnaire)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pneumonia</measure>
+    <time_frame>Measured over the 12 months following randomisation</time_frame>
+    <description>Number of pneumonia cases (abnormal chest X-ray) (using self-reported questionnaire and/or medical/hospital records)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Oxygen therapy</measure>
+    <time_frame>Measured over the 12 months following randomisation</time_frame>
+    <description>Need for oxygen therapy (using self-reported questionnaire and/or medical/hospital records)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Critical care admissions</measure>
+    <time_frame>Measured over the 12 months following randomisation</time_frame>
+    <description>Number of admission to critical care (using self-reported questionnaire and/or medical/hospital records)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mechanical ventilation</measure>
+    <time_frame>Measured over the 12 months following randomisation</time_frame>
+    <description>Number of participants needing mechanical ventilation (using self-reported questionnaire and/or medical/hospital records)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>Measured over the 12 months following randomisation</time_frame>
+    <description>Number of deaths (from death registry)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospitalisation duration with fever or respiratory illness</measure>
+    <time_frame>Measured over the 12 months following randomisation</time_frame>
+    <description>Number of days of hospitalisation due to fever or respiratory illness (using self-reported questionnaire, medical/hospital records and/or government registries)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Unplanned work absenteeism</measure>
+    <time_frame>Measured over the 12 months following randomisation</time_frame>
+    <description>Number of days of unplanned absenteeism for any reason (using self-reported questionnaire)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Local and systemic adverse events to BCG vaccination in healthcare workers</measure>
+    <time_frame>Measured over the 3 months following randomisation</time_frame>
+    <description>Type and severity of local and systemic adverse events will be collected in self-reported questionnaire and graded using toxicity grading scale.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">10078</enrollment>
+  <condition>Coronavirus Disease 2019 (COVID-19)</condition>
+  <condition>Respiratory Illness</condition>
+  <condition>Corona Virus Infection</condition>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>BCG vaccine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive a single dose of BCG vaccine (BCG-Denmark). The adult dose of BCG vaccine is 0.1 mL injected intradermally over the distal insertion of the deltoid muscle onto the humerus (approximately one third down the upper arm).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>0.9% Saline</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants will receive a single 0.1 mL dose of 0.9%NaCl injected intradermally over the distal insertion of the deltoid muscle onto the humerus (approximately one third down the upper arm).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>BCG Vaccine</intervention_name>
+    <description>Freeze-dried powder: Live attenuated strain of Mycobacterium bovis (BCG), Danish strain 1331.&#xD;
+Each 0.1 ml vaccine contains between 200000 to 800000 colony forming units. Adult dose is 0.1 ml given by intradermal injection</description>
+    <arm_group_label>BCG vaccine</arm_group_label>
+    <other_name>Bacille Calmette-Guerin Vaccine</other_name>
+    <other_name>Bacillus Calmette-Guerin Vaccine</other_name>
+    <other_name>Statens Serum Institute BCG vaccine</other_name>
+    <other_name>Mycobacterium bovis BCG (Bacille Calmette Guérin), Danish Strain 1331</other_name>
+    <other_name>BCG Denmark</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>0.9%NaCl</intervention_name>
+    <description>0.9% Sodium Chloride Injection</description>
+    <arm_group_label>0.9% Saline</arm_group_label>
+    <other_name>0.9% Saline</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Over 18 years of age&#xD;
+&#xD;
+          -  Healthcare worker&#xD;
+&#xD;
+               -  This is defined as anyone who works in a healthcare setting or has face to face&#xD;
+                  contact with patients.&#xD;
+&#xD;
+          -  Provide a signed and dated informed consent form&#xD;
+&#xD;
+          -  Australian sites only: If annual influenza vaccination is available, receiving the flu&#xD;
+             vaccine is an eligibility requirement. The flu vaccine will be required a minimum of 3&#xD;
+             days in advance of randomisation in the BRACE trial.&#xD;
+&#xD;
+          -  Pre-randomisation blood collected&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Has any BCG vaccine contraindication&#xD;
+&#xD;
+               -  Fever or generalised skin infection (where feasible, randomisation can be delayed&#xD;
+                  until cleared)&#xD;
+&#xD;
+               -  Weakened resistance toward infections due to a disease in/of the immune system&#xD;
+&#xD;
+               -  Receiving medical treatment that affects the immune response or other&#xD;
+                  immunosuppressive therapy in the last year.&#xD;
+&#xD;
+                    -  These therapies include systemic corticosteroids (≥20 mg for ≥2 weeks),&#xD;
+                       non-biological immunosuppressant (also known as 'DMARDS'), biological agents&#xD;
+                       (such as monoclonal antibodies against tumour necrosis factor (TNF)-alpha).&#xD;
+&#xD;
+               -  People with congenital cellular immunodeficiencies, including specific&#xD;
+                  deficiencies of the interferon-gamma pathway&#xD;
+&#xD;
+               -  People with malignancies involving bone marrow or lymphoid systems&#xD;
+&#xD;
+               -  People with any serious underlying illness (such as malignancy)&#xD;
+&#xD;
+                    -  NB: People with cardiovascular disease, hypertension, diabetes, and/or&#xD;
+                       chronic respiratory disease are eligible if not immunocompromised, and if&#xD;
+                       they meet other eligibility criteria&#xD;
+&#xD;
+               -  Known or suspected HIV infection,even if they are asymptomatic or have normal&#xD;
+                  immune function.&#xD;
+&#xD;
+               -  This is because of the risk of disseminated BCG infection&#xD;
+&#xD;
+               -  People with active skin disease such as eczema, dermatitis or psoriasis at or&#xD;
+                  near the site of vaccination&#xD;
+&#xD;
+               -  A different adjacent site on the upper arm can be chosen if necessary&#xD;
+&#xD;
+               -  Pregnant&#xD;
+&#xD;
+                    -  Although there is no evidence that BCG vaccination is harmful during&#xD;
+                       pregnancy, it is a contra-indication to BCG vaccination. Therefore, we will&#xD;
+                       exclude women who think they could be pregnant or are planning to become&#xD;
+                       pregnant within the next month.&#xD;
+&#xD;
+                    -  UK specific: Although there is no evidence that BCG vaccination is harmful&#xD;
+                       during pregnancy, it is a contra-indication to BCG vaccination. Therefore,&#xD;
+                       we will exclude women of childbearing potential (WOCBP) who think they could&#xD;
+                       be pregnant.&#xD;
+&#xD;
+                    -  Spain specific: If the patient is female, and of childbearing potential, she&#xD;
+                       must have a negative pregnancy test at the time of inclusion and practice a&#xD;
+                       reliable method of birth control for 30 days after receiving the BCG&#xD;
+                       vaccination.&#xD;
+&#xD;
+               -  Another live vaccine administered in the month prior to randomisation&#xD;
+&#xD;
+               -  Require another live vaccine to be administered within the month following BCG&#xD;
+                  randomisation&#xD;
+&#xD;
+                    -  If the other live vaccine can be given on the same day, this exclusion&#xD;
+                       criteria does not apply&#xD;
+&#xD;
+               -  Known anaphylactic reaction to any of the ingredients present in the BCG vaccine&#xD;
+&#xD;
+               -  Previous active TB disease&#xD;
+&#xD;
+               -  Currently receiving long term (more than 1 month) treatment with isoniazid,&#xD;
+                  rifampicin or quinolone as these antibiotics have activity against Mycobacterium&#xD;
+                  bovis&#xD;
+&#xD;
+          -  Previous adverse reaction to BCG vaccine (significant local reaction (abscess) or&#xD;
+             suppurative lymphadenitis)&#xD;
+&#xD;
+          -  BCG vaccine given within the last year&#xD;
+&#xD;
+          -  Have previously had a SARS-CoV-2 positive test result (positive PCR on a respiratory&#xD;
+             sample or a positive SARS-CoV-2 diagnostic antigen test approved by the local&#xD;
+             jurisdiction's public health policy)&#xD;
+&#xD;
+          -  Already part of this trial, recruited at a different site/hospital.&#xD;
+&#xD;
+          -  Participation in another COVID-19 prevention trial&#xD;
+&#xD;
+          -  Have previously received a COVID-19-specific vaccine&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Prof Nigel Curtis</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Murdoch Children's Research Institute</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Prof Nigel Curtis, MBBS PhD</last_name>
+    <phone>+613 93456366</phone>
+    <email>nigel.curtis@rch.org.au</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>St Vincent's Hospital, Sydney</name>
+      <address>
+        <city>Sydney</city>
+        <state>New South Wales</state>
+        <zip>2010</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Prince of Wales Hospital</name>
+      <address>
+        <city>Sydney</city>
+        <state>New South Wales</state>
+        <zip>2031</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sydney Children's Hospital, Randwick</name>
+      <address>
+        <city>Sydney</city>
+        <state>New South Wales</state>
+        <zip>2145</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Children's Hospital at Westmead</name>
+      <address>
+        <city>Sydney</city>
+        <state>New South Wales</state>
+        <zip>2145</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Westmead Hospital</name>
+      <address>
+        <city>Sydney</city>
+        <state>New South Wales</state>
+        <zip>2145</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Adelaide Hospital</name>
+      <address>
+        <city>Adelaide</city>
+        <state>South Australia</state>
+        <zip>5000</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Women's and Children's Hospital</name>
+      <address>
+        <city>North Adelaide</city>
+        <state>South Australia</state>
+        <zip>5006</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Children's Hospital</name>
+      <address>
+        <city>Melbourne</city>
+        <state>Victoria</state>
+        <zip>3052</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Epworth Richmond</name>
+      <address>
+        <city>Melbourne</city>
+        <state>Victoria</state>
+        <zip>3121</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Monash Health- Monash Medical Centre</name>
+      <address>
+        <city>Melbourne</city>
+        <state>Victoria</state>
+        <zip>3168</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Fiona Stanley Hospital</name>
+      <address>
+        <city>Murdoch</city>
+        <state>Western Australia</state>
+        <zip>6150</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Perth Children's Hospital</name>
+      <address>
+        <city>Perth</city>
+        <state>Western Australia</state>
+        <zip>6009</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sir Charles Gairdner Hospital</name>
+      <address>
+        <city>Perth</city>
+        <state>Western Australia</state>
+        <zip>6009</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Fundação de Medicina Tropical Dr Heitor Vieira Dourado (FMT-HVD)</name>
+      <address>
+        <city>Manaus</city>
+        <state>Amazonas</state>
+        <zip>69040-000</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marcus Lacerda, MD PhD</last_name>
+      <phone>55 92 991147633</phone>
+      <email>marcuslacerda.br@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Santa Casa Hospital</name>
+      <address>
+        <city>Campo Grande</city>
+        <state>Mato Grosso Do Sul</state>
+        <zip>79002-230</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Júlio Croda, MD PhD</last_name>
+      <phone>55 67 981229959</phone>
+      <email>julio.croda@fiocruz.br</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CASSEMS Hospital</name>
+      <address>
+        <city>Campo Grande</city>
+        <state>Mato Grosso Do Sul</state>
+        <zip>79002-251</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Júlio Croda, MD PhD</last_name>
+      <phone>55 67 981229959</phone>
+      <email>julio.croda@fiocruz.br</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Federal University of Mato Grosso do Sul</name>
+      <address>
+        <city>Campo Grande</city>
+        <state>Mato Grosso Do Sul</state>
+        <zip>79070-900</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Júlio Croda, MD PhD</last_name>
+      <phone>55 67 981229959</phone>
+      <email>julio.croda@fiocruz.br</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Regional de Mato Grosso do Sul</name>
+      <address>
+        <city>Campo Grande</city>
+        <state>Mato Grosso Do Sul</state>
+        <zip>79084-180</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Júlio Croda, MD PhD</last_name>
+      <phone>55 67 981229959</phone>
+      <email>julio.croda@fiocruz.br</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centro de Estudos da Saúde do Trabalhador e Ecologia Humana</name>
+      <address>
+        <city>Rio de Janeiro</city>
+        <state>RJ</state>
+        <zip>22780-195</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Margareth Dalcolmo, MD PhD</last_name>
+      <phone>55 21 999894904</phone>
+      <email>margarethdalcolmo@ensp.fiocruz.br</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centro de Referência Prof Hélio Fraga</name>
+      <address>
+        <city>Rio de Janeiro</city>
+        <state>RJ</state>
+        <zip>22780-195</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Margareth Dalcolmo, MD PhD</last_name>
+      <phone>55 21 999894904</phone>
+      <email>margarethdalcolmo@ensp.fiocruz.br</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Noord West Ziekenhuis</name>
+      <address>
+        <city>Alkmaar</city>
+        <zip>1815 JD</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Rijnstate Hospital</name>
+      <address>
+        <city>Arnhem</city>
+        <zip>6815 AD</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Amphia Hospital</name>
+      <address>
+        <city>Breda</city>
+        <zip>4818 CK</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>St Antonius Hospital</name>
+      <address>
+        <city>Nieuwegein</city>
+        <zip>3435 CM</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Radboud UMC</name>
+      <address>
+        <city>Nijmegen</city>
+        <zip>6525 GA</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University hospital in Utrecht (UMCU)</name>
+      <address>
+        <city>Utrecht</city>
+        <zip>3584 CX</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital German Trias I Pujol</name>
+      <address>
+        <city>Badalona</city>
+        <state>Barcelona</state>
+        <zip>08916</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Mutua Terrassa Univeristy Hospital</name>
+      <address>
+        <city>Terrassa</city>
+        <state>Barcelona</state>
+        <zip>08221</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Dr Tomás Perez Porcuna, MD PhD</last_name>
+      <phone>+34 644460736</phone>
+      <email>tomasperez@mutuaterrassa.es</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Cruces</name>
+      <address>
+        <city>Barakaldo</city>
+        <state>Bizkaia</state>
+        <zip>48903</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Marqués de Valdecilla University Hospital</name>
+      <address>
+        <city>Santander</city>
+        <zip>39008</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Virgen Macarena</name>
+      <address>
+        <city>Sevilla</city>
+        <zip>41009</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ide Lane Surgery</name>
+      <address>
+        <city>Alphington</city>
+        <state>Exeter</state>
+        <zip>EX2 8UP</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>St Leonard's Practice</name>
+      <address>
+        <city>St Leonards</city>
+        <state>Exeter</state>
+        <zip>EX1 1SB</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Travel Clinic</name>
+      <address>
+        <city>Exeter</city>
+        <zip>EX1 1PR</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+    <country>Brazil</country>
+    <country>Netherlands</country>
+    <country>Spain</country>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>March 25, 2020</study_first_submitted>
+  <study_first_submitted_qc>March 27, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 31, 2020</study_first_posted>
+  <last_update_submitted>February 2, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 2, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 5, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vaccines</mesh_term>
+    <mesh_term>BCG Vaccine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Beginning 6 months following analysis and article publications, the following may be made available long-term for use by future researchers from a recognised research institution whose proposed use of the data has been ethically reviewed and approved by an independent committee and who accept MCRI's conditions, under a collaborator agreement, for accessing:&#xD;
+Individual participant data that underlie the results reported in our articles after de-identification (text, tables, figures and appendices)&#xD;
+Study protocol, Statistical Analysis Plan, Participant Informed Consent Form (PICF)</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_time_frame>Beginning 6 months following analysis and article publications, for long-term use</ipd_time_frame>
+    <ipd_access_criteria>Researchers from a recognised research institution whose proposed use of the data has been ethically reviewed and approved by an independent committee and who accept MCRI's conditions, under a collaborator agreement</ipd_access_criteria>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>December 10, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/06/NCT04327206/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

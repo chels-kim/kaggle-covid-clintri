@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4382">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04661540</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CM4620-205</org_study_id>
+    <nct_id>NCT04661540</nct_id>
+  </id_info>
+  <brief_title>A Study of Auxora in Patients With Critical COVID-19 Pneumonia</brief_title>
+  <official_title>A Single-Blind Dose-Ranging Pharmacodynamic Study of Auxora for the Treatment of Patients With Critical COVID-19 Pneumonia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>CalciMedica, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Northwestern University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>CalciMedica, Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a single-blind study consisting of up to 3 cohorts Patients will be randomized 3:1 to&#xD;
+      Auxora or Placebo. The first 4 patients will be enrolled in Cohort 1. If dose escalation&#xD;
+      occurs, the next 8 patients will be enrolled in Cohort 2 If dose escalation occurs, the next&#xD;
+      8 patients will be enrolled in Cohort 3. The decision to escalate dosing will be made by&#xD;
+      CalciMedica in consultation with the PI and after the review of safety events in Cohorts 1&#xD;
+      and 2.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 2021</start_date>
+  <completion_date type="Anticipated">May 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Participant)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Decrease in interferon-gamma producing T-cells in Broncoalveolar lavage (BAL) fluid</measure>
+    <time_frame>Baseline Assessment up to 120 hours</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of Days in the Hospital after randomization</measure>
+    <time_frame>From randomization until discharge from the hospital assessed up to 30 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Days in the Intensive Care Unit (ICU) after randomization</measure>
+    <time_frame>From randomization until discharge from ICU assessed up to 30 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of Treatment Emergent Adverse Events (TEAEs) and Serious Adverse Events (SAEs)</measure>
+    <time_frame>From randomization up to 30 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intensity and relationship of TEAEs and SAEs</measure>
+    <time_frame>From randomization up to 30 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pre-defined changes in cardiac conduction assessed by ECG</measure>
+    <time_frame>From screening up to 144 hours</time_frame>
+    <description>Changes in cardiac conduction are defined as: QTcF interval of ≥ 500 msec; QTcF prolongation of ≥ 60 msec as compared to baseline; Mobitz Type II second degree atrioventricular (AV) block; Third degree or high grade AV block; or Polymorphic Ventricular Tachycardia</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>Randomization up to 30 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma Levels of CM4620</measure>
+    <time_frame>From end of first infusion of study drug up to 144 hours</time_frame>
+    <description>Concentration of Auxora from blood samples and fluid collected from BAL</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">36</enrollment>
+  <condition>Pneumonia</condition>
+  <arm_group>
+    <arm_group_label>Auxora</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Auxora will be given as a continuous infusion over 4 hours:&#xD;
+Day 1: All 3 cohorts will receive 1.25 mL/kg Day 2: Cohort 1 will receive 1.0 mL/kg; Cohort 2 and 3 will receive 1.25mL/kg Day 3: All 3 cohorts will receive 1.0 mL/kg Day 4: Cohort 2 and 3 will receive 1.0 mL/kg Day 5: Cohort 3 will receive 1.0 mL.kg</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo will be given as a continuous infusion over 4 hours:&#xD;
+Day 1: All 3 cohorts will receive 1.25 mL/kg Day 2: Cohort 1 will receive 1.0 mL/kg; Cohort 2 and 3 will receive 1.25mL/kg Day 3: All 3 cohorts will receive 1.0 mL/kg Day 4: Cohort 2 and 3 will receive 1.0 mL/kg Day 5: Cohort 3 will receive 1.0 mL.kg</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>CM4620-IE (Injectable Emulsion)</intervention_name>
+    <description>Auxora is an injectable emulsion containing 1.6mg/ML of the active pharmaceutical ingredient CM4620. Auxora will be administered intravenously over 4 hours</description>
+    <arm_group_label>Auxora</arm_group_label>
+    <other_name>Auxora</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Matching placebo is an injectable emulsion containing no active pharmaceutical ingredient. Placebo will be administered intravenously over 4 hours</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Has laboratory-confirmed SARS-CoV-2 infection as determined by polymerase chain&#xD;
+             reaction (PCR) or other commercial or public health assay in any specimen;&#xD;
+&#xD;
+          2. Moderate ARDS characterized by the following criteria:&#xD;
+&#xD;
+               -  Invasive mechanical ventilation with a minimum PEEP of 5 cm H2O;&#xD;
+&#xD;
+               -  PaO2/FiO2 ≤200 that may be estimated from pulse oximetry or determined by&#xD;
+                  arterial blood gas;&#xD;
+&#xD;
+               -  No evidence of volume overload or heart failure;&#xD;
+&#xD;
+          3. The patient is ≥18 years of age at the time of consent;&#xD;
+&#xD;
+          4. QTcF interval ≤ 440 milliseconds;&#xD;
+&#xD;
+          5. A female patient of childbearing potential must not attempt to become pregnant for 39&#xD;
+             months, and if sexually active with a male partner, is willing to practice acceptable&#xD;
+             methods of birth control for 39 months after the last dose of study drug;&#xD;
+&#xD;
+          6. A male patient who is sexually active with a female partner of childbearing potential&#xD;
+             is willing to practice acceptable methods of birth control for 39 months after the&#xD;
+             last dose of study drug. A male patient must not donate sperm for 39 months;&#xD;
+&#xD;
+          7. The patient is willing and able to, or has a legal authorized representative (LAR) who&#xD;
+             is willing and able to, provide informed consent to participate, and to cooperate with&#xD;
+             all aspects of the protocol.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Expected survival or time to withdrawal of life-sustaining treatments expected to be&#xD;
+             &lt;7 days.&#xD;
+&#xD;
+          2. ECMO;&#xD;
+&#xD;
+          3. Suspected septic shock;&#xD;
+&#xD;
+          4. The patient has a history of:&#xD;
+&#xD;
+               -  Organ or hematologic transplant;&#xD;
+&#xD;
+               -  HIV;&#xD;
+&#xD;
+               -  Active hepatitis B or hepatitis C infection;&#xD;
+&#xD;
+          5. Current treatment with:&#xD;
+&#xD;
+               -  Chemotherapy;&#xD;
+&#xD;
+               -  Immunosuppressive medications or immunotherapy (see Section 5.3 for list of&#xD;
+                  prohibited immunosuppressive medications and immunotherapy) at the time of&#xD;
+                  consent;&#xD;
+&#xD;
+               -  Hemodialysis or Peritoneal Dialysis;&#xD;
+&#xD;
+          6. The patient is known to be pregnant or is nursing;&#xD;
+&#xD;
+          7. Currently participating in another study of an investigational drug or therapeutic&#xD;
+             medical device at the time of consent;&#xD;
+&#xD;
+          8. Allergy to eggs or any of the excipients in study drug.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Richard Wunderink, MD</last_name>
+    <phone>312-503-1401</phone>
+    <email>r-wunderink@northwestern.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Sudarshan Hebbar</last_name>
+    <phone>816-838-7105</phone>
+    <email>sudarshan@calcimedica.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Northwestern Memorial Hospital</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Helen Donnelly</last_name>
+      <phone>312-503-1097</phone>
+    </contact>
+    <investigator>
+      <last_name>Richard Wunderlink, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>December 4, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 8, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 10, 2020</study_first_posted>
+  <last_update_submitted>January 25, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 25, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 26, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Coronavirus</keyword>
+  <keyword>Pneumonia</keyword>
+  <keyword>Calcium Release-Activated Calcium Channel (CRAC) Inhibitors</keyword>
+  <keyword>CM4620</keyword>
+  <keyword>Auxora</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

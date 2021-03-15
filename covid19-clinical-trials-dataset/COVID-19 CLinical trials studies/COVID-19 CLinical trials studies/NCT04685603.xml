@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="227">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04685603</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CL-COV-P02-ID</org_study_id>
+    <secondary_id>U1111-1263-0568</secondary_id>
+    <nct_id>NCT04685603</nct_id>
+  </id_info>
+  <brief_title>Dendritic Cell Vaccine to Prevent COVID-19</brief_title>
+  <official_title>Adaptive Phase I Clinical Trial of Preventive Vaccine Consisting of Autologous Dendritic Cells Previously Incubated With S-protein From SARS-CoV-2, in Subjects Negative for COVID-19 Infection and Anti-SARS-CoV-2 Antibodies</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Indonesia-MoH</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Aivita Biomedical, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>PT AIVITA Biomedika Indonesia</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institute of Health Research and Development, Ministry of Health Republic of Indonesia</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>RSUP Dr. Kariadi Semarang, indonesia</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Faculty of Medicine University of Diponegoro, Indonesia</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Indonesia-MoH</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is an adaptive Phase I trial of a vaccine consisting of autologous dendritic cells&#xD;
+      previously loaded ex vivo with SARS-CoV-2 spike protein, with or without GM-CSF, to prevent&#xD;
+      COVID-19 in adults.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Subjects eligible for treatment will be those who at baseline, are not actively infected with&#xD;
+      SARS-CoV-2, have no evidence of prior infection with SARSCoV- 2 based on serologic testing,&#xD;
+      and give informed consent for a vaccination with AV-COVID-19. The patient population will&#xD;
+      include the elderly and others at higher risk for poor outcomes after COVID-19 infection. For&#xD;
+      this reason, individuals will not be excluded solely on the basis of age, body mass index,&#xD;
+      history of hypertension, diabetes, cancer, or autoimmune disease.&#xD;
+&#xD;
+      After enrolling for screening, subjects will undergo a nasal swab test to exclude active&#xD;
+      COVID-19 infection and a rapid test for anti-coronavirus antibodies to exclude pre-existing&#xD;
+      anti-SARS-CoV-2 antibodies. 50 mL of blood will be collected, from which peripheral blood&#xD;
+      monocytes will be isolated and differentiated into DC before incubation with SARS-CoV-2&#xD;
+      S-protein, during which time the protein is digested into 9 to 25 amino acid peptide&#xD;
+      sequences presented on the dendrites of DC in conjunction with histocompatibility class I and&#xD;
+      class II molecules. Safety and quality testing will be performed on a small quantity of the&#xD;
+      batch, and the remaining AV-COVID-19 will be cryopreserved for shipping to the treatment&#xD;
+      site.&#xD;
+&#xD;
+      Once the Study Drug is ready, if eligible, the subject will be seen at Study Week-0 for&#xD;
+      treatment. Prior to injection of the Study Drug, a nasal swab test will be collected to&#xD;
+      confirm that they are still negative for COVID-19, and blood will be drawn to determine&#xD;
+      baseline levels of anti-SARS-CoV-2 antibodies. At the treatment site, the product will be&#xD;
+      thawed and admixed with saline or (saline with GM-CSF), and within 5 hours of thawing, will&#xD;
+      be injected SC via a 25- gauge needle&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 7, 2020</start_date>
+  <completion_date type="Anticipated">January 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">January 31, 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Autologous dendritic cells previously loaded ex vivo with SARS-CoV-2 spike protein</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Frequency of solicited local and systemic reactogenicity adverse events (AEs)</measure>
+    <time_frame>until follow up day 7</time_frame>
+    <description>Percentage of participants with solicited AEs (local, systemic) for 7 days following vaccination by severity score, duration, and peak intensity.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety Laboratory Values (Serum Chemistry)</measure>
+    <time_frame>until follow up day 7</time_frame>
+    <description>Safety laboratory values (Serum Chemistry) by FDA toxicity scoring (absolute and change from baseline where identified) at 7 days after each vaccination.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety Laboratory Values (Hematology)</measure>
+    <time_frame>until follow up day 7</time_frame>
+    <description>Safety laboratory values (Hematology) by FDA toxicity scoring (absolute and change from baseline where identified) at 7 days after each vaccination.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Frequency of any serious adverse events (SAEs)</measure>
+    <time_frame>until follow up day 365</time_frame>
+    <description>Percentage of participants with serious undesirable effect associated with the use of a medical product in a patient, which consist of death, life-threatening, hospitalization, disability or permanent damage, congenital anomaly/birth defect, required intervention to prevent permanent impairment or damage (devices), dan other serious important medical events</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Frequency of any new-onset chronic medical conditions (NOCMCs)</measure>
+    <time_frame>until follow up day 365</time_frame>
+    <description>NOCMCs will be documented from the time of study vaccination through approximately 1 year after study vaccination</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Frequency of medically attended adverse events (MAAEs)</measure>
+    <time_frame>until follow up day 365</time_frame>
+    <description>Percentage of participants with MAAEs, defined as AEs that lead to an unscheduled visit to a healthcare practitioner, through Day 365 by MedDRA classification, severity score, and relatedness.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Frequency of Unsolicited AE and Adverse Events of Special Interest (AESIs)</measure>
+    <time_frame>until follow up day 90</time_frame>
+    <description>Percentage of participants with unsolicited AEs (eg, treatment-emergent, serious, suspected unexpected serious, those of special interest, all MAAEs) or AESIs (potential immune-mediated medical conditions or AEs relevant to COVID-19) through the first 90 days by MedDRA classification, severity score, and relatedness.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Serum IgG Antibody Levels Expressed as Geometric Mean Fold Rises (GMFRs)</measure>
+    <time_frame>until follow up day 28</time_frame>
+    <description>Serum IgG antibody levels specific for the SARS-CoV-2 rS protein antigen(s) as detected by ELISA expressed as GMFRs through Day 28.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum Immunoglobulin G (IgG) Antibody Levels Expressed as Geometric Mean Titers (GMTs)</measure>
+    <time_frame>until follow up day 28</time_frame>
+    <description>Serum IgG antibody levels specific for the SARS-CoV-2 rS protein antigen(s) as detected by enzyme-linked immunosorbent assay (ELISA) expressed as GMTs through Day 28.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum IgG Antibody Levels Expressed as Seroconversion Rates (SCRs)</measure>
+    <time_frame>until follow up day 28</time_frame>
+    <description>Serum IgG antibody levels specific for the SARS-CoV-2 rS protein antigen(s) as detected by ELISA expressed as SCRs through Day 28. SCR is the proportion of participants with ≥4-fold rises in ELISA units.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neutralizing Antibody Activity Expressed as GMTs</measure>
+    <time_frame>until follow up day 28</time_frame>
+    <description>Neutralizing antibody activity as detected by microneutralization assay (MN) expressed as GMTs at multiple time points through Day 28.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neutralizing Antibody Activity Expressed as GMFRs</measure>
+    <time_frame>until follow up day 28</time_frame>
+    <description>Neutralizing antibody activity as detected by MN expressed as GMFRs at multiple time points through Day 28.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neutralizing Antibody Activity Expressed as SCRs</measure>
+    <time_frame>until follow up day 28</time_frame>
+    <description>Neutralizing antibody activity as detected by MN expressed as SCRs at multiple time points through Day 28.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of Cell-Mediated (T helper 1 [Th1]/T helper 2 [Th2]) Pathways</measure>
+    <time_frame>until follow up day 28</time_frame>
+    <description>Cell-mediated (Th1/Th2) pathways as measured by whole blood (flow cytometry) and/or in vitro peripheral blood mononuclear cell (PBMC) stimulation (eg, enzyme-linked immunospot [ELISpot], cytokine staining) with SARS-CoV-2 rS protein(s) through Day 28.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Optimal dose of SARS-CoV2 antigen and GM-CSF</measure>
+    <time_frame>until follow up month one</time_frame>
+    <description>Measurement of IgG in subject blood after one month</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of detection IgG and neutralizing antibody againts SARS-CoV-2in blood after vaccination</measure>
+    <time_frame>until follow up month 12</time_frame>
+    <description>Measurement of IgG and neutralizing antibody in subject blood after 12 months</description>
+  </secondary_outcome>
+  <number_of_arms>9</number_of_arms>
+  <enrollment type="Anticipated">27</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>AV-COVID-19 (0.1 mg antigen, 0 mcg GMCSF)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Autologous dendritic cells previously loaded with 0.1 mg SARS-CoV-2 spike protein, admixed with 0 mcg GM-CSF</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>AV-COVID-19 (0.33 mg antigen, 0 mcg GM-CSF)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Autologous dendritic cells previously loaded with 0.33 mg SARS-CoV-2 spike protein, admixed with 0 mcg GM-CSF</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>AV-COVID-19 (1.0 mg antigen, 0 mcg GMCSF)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Autologous dendritic cells previously loaded with 1.0 mg SARS-CoV-2 spike protein, admixed with 0 mcg GM-CSF</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Experimental: AV-COVID-19 (0.1 mg antigen, 250 mcg GM-CSF)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Autologous dendritic cells previously loaded with 0.1 mg SARS-CoV-2 spike protein, admixed with 250 mcg GM-CSF</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>AV-COVID-19 (0.33 mg antigen, 250 mcg GM-CSF)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Autologous dendritic cells previously loaded with 0.33 mg SARS-CoV-2 spike protein, admixed with 250 mcg GM-CSF</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>AV-COVID-19 (1.0 mg antigen, 250 mcg GM-CSF)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Autologous dendritic cells previously loaded with 1.0 mg SARS-CoV-2 spike protein, admixed with 250 mcg GM-CSF</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>AV-COVID-19 (0.1 mg antigen, 500 mcg GM-CSF)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Autologous dendritic cells previously loaded with 0.1 mg SARS-CoV-2 spike protein, admixed with 500 mcg GM-CSF</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>AV-COVID-19 (0.33 mg antigen, 500 mcg GM-CSF)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Autologous dendritic cells previously loaded with 0.33 mg SARS-CoV-2 spike protein, admixed with 500 mcg GM-CSF</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>AV-COVID-19 (1.0 mg antigen, 500 mcg GM-CSF)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Autologous dendritic cells previously loaded with 1.0 mg SARS-CoV-2 spike protein, admixed with 500 mcg GM-CSF</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>AV-COVID-19</intervention_name>
+    <description>Autologous dendritic cells previously loaded ex vivo with SARS-CoV-2 spike protein</description>
+    <arm_group_label>AV-COVID-19 (0.1 mg antigen, 0 mcg GMCSF)</arm_group_label>
+    <arm_group_label>AV-COVID-19 (0.1 mg antigen, 500 mcg GM-CSF)</arm_group_label>
+    <arm_group_label>AV-COVID-19 (0.33 mg antigen, 0 mcg GM-CSF)</arm_group_label>
+    <arm_group_label>AV-COVID-19 (0.33 mg antigen, 250 mcg GM-CSF)</arm_group_label>
+    <arm_group_label>AV-COVID-19 (0.33 mg antigen, 500 mcg GM-CSF)</arm_group_label>
+    <arm_group_label>AV-COVID-19 (1.0 mg antigen, 0 mcg GMCSF)</arm_group_label>
+    <arm_group_label>AV-COVID-19 (1.0 mg antigen, 250 mcg GM-CSF)</arm_group_label>
+    <arm_group_label>AV-COVID-19 (1.0 mg antigen, 500 mcg GM-CSF)</arm_group_label>
+    <arm_group_label>Experimental: AV-COVID-19 (0.1 mg antigen, 250 mcg GM-CSF)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. 18 years or older,&#xD;
+&#xD;
+          2. in relatively good health with adequate physical and mental function&#xD;
+&#xD;
+          3. including factors associated with in increased risk for medical complications&#xD;
+             associated with COVID-19 infection or increased risk for exposure to SARS-CoV-2&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Active COVID-19 infection by PCR testing&#xD;
+&#xD;
+          2. Pre-existing IgG or IgM SARS-CoV-2 antibodies&#xD;
+&#xD;
+          3. Pregnant, Known hypersensitivity to GM-CSF&#xD;
+&#xD;
+          4. Known active immune deficiency disease or active HIV&#xD;
+&#xD;
+          5. HBV, HCV, On active treatment with corticosteroids or other immunosuppressive agent&#xD;
+&#xD;
+          6. Participated in previous COVID-19 vaccine study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Djoko Wibisono, Dr. Internis</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Rumah Sakit Pusat Angkatan Darat (RSPAD) Gatot Soebroto, Jakarta</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Muhammad Karyana</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>National Institute of Health Research and Development</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Muhammad Karyana, Dr., MPH</last_name>
+    <phone>+62 21 4261088</phone>
+    <email>mkaryana@gmail.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Rumah Sakit Umum Pusat Dr. Kariadi</name>
+      <address>
+        <city>Semarang</city>
+        <state>Jawa Tengah</state>
+        <zip>50244</zip>
+        <country>Indonesia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Muchlis Achsan Udji Sofro, MD, Internis</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Indonesia</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>December 22, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 24, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 28, 2020</study_first_posted>
+  <last_update_submitted>December 24, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 24, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 29, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>covid-19</keyword>
+  <keyword>vaccine</keyword>
+  <keyword>dendritic cell</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

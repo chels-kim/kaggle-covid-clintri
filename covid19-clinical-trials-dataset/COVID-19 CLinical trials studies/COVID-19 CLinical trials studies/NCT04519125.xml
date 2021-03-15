@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1657">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04519125</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020 /143</org_study_id>
+    <secondary_id>77389</secondary_id>
+    <nct_id>NCT04519125</nct_id>
+  </id_info>
+  <brief_title>Daily Regimen of Tenofovir/Emtricitabine as Prevention for COVID-19 in Health Care Personnel in Colombia</brief_title>
+  <official_title>Effectiveness of the Use of Personal Protective Equipment in Addition to Tenofovir/Emtricitabine for the Prevention of the Transmission of SARS-COV-2 to Health Care Personnel. Randomized Clinical Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hospital Universitario San Ignacio</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Pontificia Universidad Javeriana</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hospital Universitario Nacional de Colombia</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hospital de la Samaritana, Sede Bogotá y Sede Zipaquirá</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hospital Universitario San Jorge, Pereira.</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Fundación Universitaria Autónoma de Las Américas</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Universidad Tecnológica de Pereira</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Colsanitas</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Hospital Universitario San Ignacio</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Effectiveness of the use of Tenofovir/Emtricitabine in addition to personal protective&#xD;
+      equipment for the prevention of the transmission of SARS-COV-2 to health care personnel. A&#xD;
+      Randomized Clinical Trial.&#xD;
+&#xD;
+      This is an experimental study whose aim is to evaluate the effectiveness of a drug to prevent&#xD;
+      infection with the virus that causes COVID-19 (SARS-CoV-2), in health care workers.&#xD;
+&#xD;
+      The drug under study is Tenofovir /Emtricitabine, a well-known antiretroviral, which is safe&#xD;
+      and is used as prophylaxis and treatment for HIV and other viral infections such as&#xD;
+      Hepatitis.&#xD;
+&#xD;
+      Several laboratory-based studies indicate that this drug has the potential to inhibit&#xD;
+      SARS-CoV-2 replication. In addition, one study in HIV infected persons found that those&#xD;
+      taking Tenofovir /Emtricitabine tended to have a lower occurrence of COVID-19.&#xD;
+&#xD;
+      In this study, we will compare the occurrence of infection with SARS-CoV-2/ COVID19 in health&#xD;
+      care workers between those assigned to an intervention group and those assigned to a control&#xD;
+      group. The intervention group will receive Tenofovir /Emtricitabine during 60 days in&#xD;
+      addition to the use of personal protective equipment (PPE), and the control group will&#xD;
+      receive a placebo during 60 days in addition to the use of personal protective equipment&#xD;
+      (PPE).&#xD;
+&#xD;
+      The study will recruit 950 health professionals above 18 and less than 70 years, working in&#xD;
+      the emergency room, COVID wards and intensive care units of seven hospitals in Colombia.&#xD;
+&#xD;
+      To make the comparison groups very similar, the participants will be assigned through a&#xD;
+      random mechanism to either the intervention (475), or the control (475) groups. In order to&#xD;
+      prevent biases in the evaluation of the results, neither the participants nor the clinical&#xD;
+      investigators, data managers, analysts and support personnel will know which intervention the&#xD;
+      participants are receiving.&#xD;
+&#xD;
+      To determine the occurrence of infection with the virus the study will use both molecular&#xD;
+      tests that detect the presence of viral genes in respiratory secretions, and serological&#xD;
+      tests that detect the response of the immune system to the virus. The study will evaluate&#xD;
+      also the safety of this drug determining the occurrence of adverse events.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Background and Rationale The global impact of SARS-CoV-2/COVID-19 is unprecedented, and it is&#xD;
+      the greatest pandemic of a respiratory virus since the 1918 Influenza. With high&#xD;
+      infectiousness, important morbidity, and relatively high fatality in specific groups of the&#xD;
+      population, an attack rate of approximately 80%, and no vaccine available yet, the pandemic&#xD;
+      will exceed the capacity of the health care systems in many settings(1). The health care&#xD;
+      personnel represent the most valuable resource to respond to the challenges imposed by this&#xD;
+      pandemic. As health care professionals are in the frontline of response and at a high risk of&#xD;
+      infection, it is extremely important to establish effective prevention strategies that&#xD;
+      protect them from becoming infected (2). It is critical that these interventions be&#xD;
+      rigorously evaluated with designs such as RCT that provide the highest level of evidence, to&#xD;
+      make recommendations that effectively protect health care professionals and contribute to&#xD;
+      control the epidemic.&#xD;
+&#xD;
+      Both hand hygiene and the use of Personal Protective Equipment (PPE) are considered key&#xD;
+      strategies for the prevention of infection in health care professionals (3). However, there&#xD;
+      are few studies estimating the probability of infection with their use. Moreover, several&#xD;
+      pharmacological agents have been considered for a prophylactic use in SARS-CoV-2 infection.&#xD;
+&#xD;
+      As of today, there is preclinical evidence, principally in vitro, indicating antiviral effect&#xD;
+      of Tenofovir Disoproxil Fumarate / Emtiricitabine (TDF/FTC) on the SARS-CoV-2 RNA depended&#xD;
+      RNA polymerase. TDF/FTC is an approved drug for HIV treatment in combination with other&#xD;
+      antiretroviral drugs. It is widely used as HIV pre and post exposure prophylaxis, and it is&#xD;
+      the election therapy for Hepatitis B infection (4-7).&#xD;
+&#xD;
+      Knowing that TDF/FTC is a drug with a known security profile, has low frequency of short-term&#xD;
+      adverse events, and is capable of inhibiting SARS-CoV-2 replication in vitro, it is an&#xD;
+      interesting alternative to evaluate as prophylaxis for SARS-CoV-2 infection. Furthermore,&#xD;
+      recently, in a clinical cohort of 77590 persons living with HIV, it was documented that those&#xD;
+      receiving TDF/FTC had a risk of COVID 19 and related hospitalization between 37 a 57% lower&#xD;
+      than those who were taking other antiretroviral medications (8) Consequently, we consider&#xD;
+      relevant and justified to evaluate the use of TDF/FTC for the prevention of SARS-CoV-2&#xD;
+      infection in a high-risk population, such as health care professionals providing clinical&#xD;
+      care to confirmed or suspected cases of COVID-19.&#xD;
+&#xD;
+      Tenofovir/Emtricitabine as prophylaxis for SARS-CoV-2 Infection SARS-CoV-2 is a single strand&#xD;
+      positive-sense RNA virus similar to Hepatitis C Virus, West Nile Virus, Marburg, HIV, Ebola,&#xD;
+      Dengue virus, and Rhinovirus among others. The RNA-dependent RNA polymerase (RdRp) is one of&#xD;
+      the structural proteins of SARS-CoV-2(9). The active site of RdRp is configured by two&#xD;
+      successive aspartate residues which protrude from a beta turn structure, making accessible to&#xD;
+      the surface through the nucleotide canal (10). The homology between SARS-CoV-2 RdRp and&#xD;
+      SARS-CoV-1 is higher than 97%, thus facilitating in silico studies (11).&#xD;
+&#xD;
+      In silico studies have identified antiretroviral drugs with potential capability of binding&#xD;
+      the catalytic center of RdRp such as Nucleoside Reverse Transcriptase Inhibitors. This&#xD;
+      information has been confirmed in vitro studies for TDF, which acts as analogue of a&#xD;
+      nucleotide that early finishes the replication of the RNA strand (12) Elfiky et al. made an&#xD;
+      RdRp SARS-CoV-2 model based on different available structures in protein banks. Using it and&#xD;
+      through simulation, they documented the theoretical effectiveness of several antiviral agents&#xD;
+      such as IDX-184, Sofosbuvir, Ribavirina y Remdisivir,and TDF/FTC for the inhibition of RdRp&#xD;
+      (10,13).&#xD;
+&#xD;
+      Furthermore, Park, et al. developed an animal model of SARS-CoV-2 in ferrets in which the&#xD;
+      pathogenicity, transmissibility, and lung damage caused by the virus were demonstrated. In an&#xD;
+      experiment using this model, the virus was inoculated by the intranasal route, and a day&#xD;
+      after, numerous molecules with potential antiviral effect were administrated. These molecules&#xD;
+      were: Lopinavir/Ritonavir, Hydroxychloroquine, TDF/FTC. The duration of the intervention was&#xD;
+      14 days and the ferret group given TDF/FTC presented lower temperature compared to the&#xD;
+      control group, and also an earlier recovery from signs including cough, rhinorrhea, and&#xD;
+      reduction of activity. Moreover, a lower load of virus was detected in the nasal samples from&#xD;
+      ferrets in the intervention group. From the drugs studied TDF/FTC showed the best results in&#xD;
+      reducing clinical signs and clearing nasal viral shedding (9).&#xD;
+&#xD;
+      Furthermore, recently, in a clinical cohort of 77590 persons living with HIV, it was&#xD;
+      documented that those receiving TDF/FTC had a risk of COVID 19 and related hospitalization&#xD;
+      between 37 a 57% lower than those who were taking other antiretroviral medications (8)&#xD;
+&#xD;
+      Research question What are the effectiveness and safety of Tenofovir/ Emtricitabine in&#xD;
+      addition to the use of Personal Protective Equipment (PPE) for the prevention of SARS-CoV-2&#xD;
+      infection in health care personnel who provide clinical care to confirmed or suspected cases&#xD;
+      of COVID-19 in the emergency room, COVID wards and ICU? General Objective To evaluate the&#xD;
+      effectiveness and safety of Tenofovir/ Emtricitabine in addition to the use of Personal&#xD;
+      Protective Equipment (PPE) for the prevention of SARS-CoV-2 infection in health care&#xD;
+      personnel who provide clinical care to confirmed or suspected cases of COVID-19 in the&#xD;
+      emergency room, COVID wards and ICU.&#xD;
+&#xD;
+      Specific Objectives&#xD;
+&#xD;
+        -  To determine the effectiveness of Tenofovir Emtricitabine in addition to the use of&#xD;
+           Personal Protective Equipment (PPE) for the prevention of SARS-CoV-2 infection in health&#xD;
+           care personnel caring for patients with confirmed or suspected COVID-19 in the emergency&#xD;
+           room, general ward and ICU.&#xD;
+&#xD;
+        -  To evaluate the safety (adverse events frequency) of Tenofovir Emtricitabine in addition&#xD;
+           to the use of Personal Protective Equipment (PPE) for the prevention of SARS-CoV-2&#xD;
+           infection in health care personnel caring for patients with confirmed or suspected&#xD;
+           COVID-19 in the emergency room, general ward and ICU.&#xD;
+&#xD;
+        -  To evaluate the adherence to Tenofovir Emtricitabine of health care personnel caring for&#xD;
+           patients with confirmed or suspected COVID-19in the emergency room, general ward and&#xD;
+           ICU.&#xD;
+&#xD;
+        -  To determine the frequency of discontinuation for any reason of Tenofovir Emtricitabine&#xD;
+           in health care personnel caring for patients with confirmed or suspected COVID-19 in the&#xD;
+           emergency room, general ward, and ICU.&#xD;
+&#xD;
+        -  To describe and compare the clinical course and severity of participants who develop&#xD;
+           COVID-19 in the intervention and control groups.&#xD;
+&#xD;
+      Study design&#xD;
+&#xD;
+      Randomized triple-blinded multicentric clinical trial, conducted in parallel, with to arms:&#xD;
+&#xD;
+      Arm 1- Intervention: Tenofovir/ Emtricitabine ( 300 mg / 200 mg daily during 60 days) +&#xD;
+      Personal Protective Equipment (PPE) Arm 2- Control: Placebo (1 tablet daily during 60 days) +&#xD;
+      Personal Protective Equipment (PPE) The study will recruit 950 healthcare workers who provide&#xD;
+      clinical care to confirmed or suspected cases of COVID-19 in the emergency room, COVID wards&#xD;
+      and ICU. They will be randomized 1 to 1 to the intervention group (Tenofovir Emtricitabine +&#xD;
+      PPE), or to the control group (Placebo + PPE), with 475 participants in each group.&#xD;
+&#xD;
+      The randomization scheme will be computed-generated and conducted centrally. Once a potential&#xD;
+      participant agree to participate, is evaluated for eligibility and fulfill the eligibility&#xD;
+      criteria, his allocation to the masked study arms is informed to the recruiting center. The&#xD;
+      allocation and the corresponding intervention given to the participant will be identified&#xD;
+      with a random number code. Only the central pharmacist of the study will know the&#xD;
+      correspondence between this random number code and the intervention (TDF/FTC or placebo). The&#xD;
+      clinical investigators, the participants, the data managers, the analysts, and other support&#xD;
+      personnel of the study are masked to the intervention assigned to the participant.&#xD;
+&#xD;
+      Primary Outcome&#xD;
+&#xD;
+      SARS-CoV-2 infection defined as:&#xD;
+&#xD;
+        -  Detection of SARS-CoV-2 nucleic acid using RT-PCR in any of the specimens collected&#xD;
+           during the study-follow-up&#xD;
+&#xD;
+        -  Positive IgG antibodies against SARS-CoV-2 in any of the specimens collected during the&#xD;
+           study-follow-up Secondary outcomes&#xD;
+&#xD;
+        -  Serious and non-serious adverse events&#xD;
+&#xD;
+        -  Discontinuation of using the intervention (TDF/FTC or placebo) for any reason&#xD;
+&#xD;
+        -  Adherence to TDF/FTC defined as: number of tablets taken/total number of dispensed&#xD;
+           tablets&#xD;
+&#xD;
+        -  Severity of SARS-CoV-2 infections according to the following categories:&#xD;
+&#xD;
+      Asymptomatic infection Mild symptomatic SARS-CoV-2 infection with no need for hospitalization&#xD;
+      Moderate symptomatic SARS-CoV-2 infection that requires hospitalization, but no ICU Severe&#xD;
+      SARS-CoV-2 infection: dyspnea with other SARS-CoV-2 symptoms requiring ICU hospitalization&#xD;
+      Evaluation of eligibility For the assessment of eligibility, the study will perform a&#xD;
+      clinical evaluation, RT-PCR for SARS-CoV-2, IgG antibodies against SARS-CoV-2, Complete blood&#xD;
+      count, creatinine levels, phosphorus levels, AST, ALT, Bilirubin, betaHCG (women), anti&#xD;
+      HBsAg, and HIV testing.&#xD;
+&#xD;
+      Follow-Up&#xD;
+&#xD;
+      Following randomization, the participants will have four follow-up visits:&#xD;
+&#xD;
+      Visit 1: At 20 days, consisting in a clinical evaluation, assessment of adherence and of any&#xD;
+      adverse events.&#xD;
+&#xD;
+      Visit 2: At 40 days, consisting in a clinical evaluation, assessment of adherence and of any&#xD;
+      adverse events. Laboratory assessment consisting of IgG antibodies against SARS-CoV-2, and&#xD;
+      creatinine levels.&#xD;
+&#xD;
+      Visit 3: At 60 days, consisting in a clinical evaluation, assessment of adherence and of any&#xD;
+      adverse events. Laboratory assessment consisting of RT-PCR for SARS-CoV-2, Complete blood&#xD;
+      count, creatinine levels, AST, ALT, betaHCG.&#xD;
+&#xD;
+      Visit 4: At 75 days, consisting in a clinical evaluation and laboratory assessment consisting&#xD;
+      of IgG antibodies against SARS-CoV-2.&#xD;
+&#xD;
+      Criteria for withdrawal of the study&#xD;
+&#xD;
+      The presence of any of the following conditions at any time during the follow-up determine&#xD;
+      the withdrawal of the participant from the study:&#xD;
+&#xD;
+        -  Grade 2 or higher abnormalities in the measured parameters of renal function.&#xD;
+&#xD;
+        -  A clinical indication to initiate a drug with significant interactions with TDF/FTC&#xD;
+&#xD;
+        -  The occurrence of any serious adverse event related with the intervention, according to&#xD;
+           the evaluation of the clinical investigators.&#xD;
+&#xD;
+        -  The occurrence of any adverse event that determine that the participant want to&#xD;
+           interrupt the intervention.&#xD;
+&#xD;
+        -  The decision of the participant to withdraw from the study for any reason Statistical&#xD;
+           Analysis Analysis by intention to treat, with estimation of a Hazard Ratio with 95%&#xD;
+           confidence interval, using a univariate Cox Model. In case of imbalance between the arms&#xD;
+           in relevant predictors of the outcome with will adjust them using a multivariable Cox&#xD;
+           Model.&#xD;
+&#xD;
+      References&#xD;
+&#xD;
+        1. Daihai H, Daozhou G, Zhuang Z, Peihua C, Yijun L, Lin Y. The attack rate of the COVID-19&#xD;
+           in a year. :3-5.&#xD;
+&#xD;
+        2. Ferguson N, Laydon D, Nedjati Gilani G, Imai N, Ainslie K, Baguelin M, et al. Report 9:&#xD;
+           Impact of non-pharmaceutical interventions (NPIs) to reduce COVID19 mortality and&#xD;
+           healthcare demand [Internet]. 2020 mar [citado 27 de marzo de 2020]. Disponible en:&#xD;
+           http://spiral.imperial.ac.uk/handle/10044/1/77482&#xD;
+&#xD;
+        3. Centers for Diasease Control and Prevention. Interim U.S. Guidance for Risk Assessment&#xD;
+           and Public Health Management of Healthcare Personnel with Potential Exposure in a&#xD;
+           Healthcare Setting to Patients with Coronavirus Disease (COVID-19).&#xD;
+&#xD;
+        4. OMS. THE USE OF ANTIRETROVIRAL DRUGS FOR TREATING AND PREVENTING HIV INFECTION.&#xD;
+           2016;480.&#xD;
+&#xD;
+        5. Krakower DS, Mayer KH. Pre-Exposure Prophylaxis to Prevent HIV Infection: Current&#xD;
+           Status, Future Opportunities and Challenges. Drugs. 2015;75(3):243-51.&#xD;
+&#xD;
+        6. AIDSinfo. Panel on Antiretroviral Guidelines for Adults and Adolescents. Guidelines for&#xD;
+           the Use of Antiretroviral Agents in Adults and Adolescents with HIV. Dep Heal Hum Serv&#xD;
+           [Internet].2018;298.&#xD;
+&#xD;
+        7. Lampertico P, Agarwal K, Berg T, Buti M, Janssen HLA, Papatheodoridis G, et al. EASL&#xD;
+           2017 Clinical Practice Guidelines on the management of hepatitis B virus infection. J&#xD;
+           Hepatol. 2017;67(2):370-98.&#xD;
+&#xD;
+        8. del Amo J, Polo R, Moreno S, Díaz A, Martínez E, Arribas JR, et al. Incidence and&#xD;
+           Severity of COVID-19 in HIV-Positive Persons Receiving Antiretroviral Therapy. Ann&#xD;
+           Intern Med. 2020.&#xD;
+&#xD;
+        9. Ju J, Kumar S, Li X, Jockusch S, Russo JJ. Nucleotide Analogues as Inhibitors of Viral&#xD;
+           Polymerases. bioRxiv [Internet]. 2020;1:2020.01.30.927574. Available from:&#xD;
+           https://doi.org/10.1101/2020.03.18.997585%0Ahttps://www.biorxiv.org/content/biorxiv/earl&#xD;
+           y/2020/01/31/2020.01.30.927574.full.pdf&#xD;
+&#xD;
+       10. Elfiky AA. Anti-HCV, nucleotide inhibitors, repurposing against COVID-19. Life Sci.&#xD;
+           2020;248(January).&#xD;
+&#xD;
+       11. Parang K, El-Sayed NS, Kazeminy AJ, Tiwari RK. Comparative Antiviral Activity of&#xD;
+           Remdesivir and Anti-HIV Nucleoside Analogs Against Human Coronavirus 229E (HCoV-229E).&#xD;
+           Mol 2020, Vol 25, Page 2343. 2020;25(10):2343.&#xD;
+&#xD;
+       12. Jockusch S, Tao C, Li X, Anderson TK, Chien M, Kumar S, et al. Triphosphates of the two&#xD;
+           components in DESCOVY and TRUVADA are inhibitors of the SARS-CoV-2 polymerase. bioRxiv.&#xD;
+           2020;1-8.&#xD;
+&#xD;
+       13. Elfiky AA. SARS-CoV-2 ARN dependent ARN polymerase (RdRp) targeting: an in silico&#xD;
+           perspective. J Biomol Struct Dyn [Internet]. 2020;0(0):1-9. Available from:&#xD;
+           https://doi.org/10.1080/07391102.2020.1761882&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">August 30, 2020</start_date>
+  <completion_date type="Anticipated">April 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2020</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Randomized triple masked multicentric controlled trial to evaluate the effectiveness and safety of Tenofovir/Emtricitabine in addition to personal protective equipment in comparison to the use of personal protective equipment alone for the prevention of infection with severe acute respiratory syndrome coronavirus 2 / COVID-19 in health care personnel in Colombia.</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+    <masking_description>Participant will not be informed that is either receiving or not the product of intervention, additionally, placebo will have a similar taste of the product of intervention and packaging will be the same for both.&#xD;
+Investigators will be masked because there is a central randomization and only the pharmacist of the study will now in which arm is assigned the participant Data analysis will be performed with an encrypted dataset which doesn't reveal which one is the intervention or which one is placebo</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>SARS-CoV-2 infection</measure>
+    <time_frame>At any time during follow up 75 days ( 60 days of intervention + final follow-up 15 days post-intervention)</time_frame>
+    <description>Positivity of RT-PCR in nasopharyngeal samples in any of the measurements during follow up, or in symptomatic participants at any time.&#xD;
+Positive IgG antibodies against SARS- CoV-2 in any of the measurements during follow up</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Serious and non-serious adverse events</measure>
+    <time_frame>At any time during follow up 75 days ( 60 days of intervention + final follow-up 15 days post-intervention)</time_frame>
+    <description>Reported Serios and non serious adverse events during follow up</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Discontinuation of using TDF/FTC for any reason</measure>
+    <time_frame>At any time during follow up 75 days ( 60 days of intervention + final follow-up 15 days post-intervention)</time_frame>
+    <description>To discontinue the intervention during follow up</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adherence to TDF/FTC</measure>
+    <time_frame>At any time during the 60 days of intervention</time_frame>
+    <description>number of tablets taken/total number of dispensed tablets</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Severity of SARS-CoV-2 infection</measure>
+    <time_frame>At any time during follow up 75 days ( 60 days of intervention + final follow-up 15 days post-intervention)</time_frame>
+    <description>Severity of SARS-CoV-2 infections according to the following categories:&#xD;
+Asymptomatic infection Mild symptomatic SARS-CoV-2 infection with no need for hospitalization Moderate symptomatic SARS-CoV-2 infection that requires hospitalization, but no ICU Severe SARS-CoV-2 infection: dyspnea with other SARS-CoV-2 symptoms requiring ICU hospitalization</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">950</enrollment>
+  <condition>Severe Acute Respiratory Syndrome Coronavirus 2</condition>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Tenofovir/ Emtricitabine ( 300 mg / 200 mg daily during 60 days) + Personal Protective Equipment (PPE)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>(1 tablet daily during 60 days) + Personal Protective Equipment (PPE)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Tenofovir/ Emtricitabine ( 300 mg / 200 mg daily during 60 days) + Personal Protective Equipment (PPE)</intervention_name>
+    <description>Tenofovir/ Emtricitabine ( 300 mg / 200 mg daily during 60 days) + Personal Protective Equipment (PPE)</description>
+    <arm_group_label>Intervention</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo (1 tablet daily during 60 days) + Personal Protective Equipment (PPE)</intervention_name>
+    <description>Placebo (1 tablet daily during 60 days) + Personal Protective Equipment (PPE)</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Medical doctor, Nurse ,Respiratory therapist or nurse assistant who work in the&#xD;
+             emergency room, general covid ward or intensive care unit&#xD;
+&#xD;
+          -  Age : between 18-70 years&#xD;
+&#xD;
+          -  RT-PCR and serology tests for SARS-CoV-2 negative at baseline evaluation&#xD;
+&#xD;
+          -  Direct care of patients in the emergency room, general Covid wards or intensive care&#xD;
+             unit&#xD;
+&#xD;
+          -  Informed consent signed&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Two or more of the following : Body temperature higher than 38 Celsius, Cough of&#xD;
+             recent onset (in the previous 10 days), Dyspnea, Odinophagia, Malaise, fatigue, Acute&#xD;
+             diarrheal disease.&#xD;
+&#xD;
+          -  History of COVID-19 confirmed by RT-PCR or IgG antibodies&#xD;
+&#xD;
+          -  Family member with suspected or confirmed COVID 19&#xD;
+&#xD;
+          -  Cohabitating with a suspected or confirmed case of COVID-19&#xD;
+&#xD;
+          -  Hepatitis B anti-surface antigen antibodies lower than 10mU/ml at baseline evaluation&#xD;
+&#xD;
+          -  Acute or chronic Hepatitis B&#xD;
+&#xD;
+          -  Confirmed diagnosis of HIV infection either by clinical history or ELISA inmunassay at&#xD;
+             baseline evaluation&#xD;
+&#xD;
+          -  Use of TDF/FTC in the last three months for other clinical conditions&#xD;
+&#xD;
+          -  ALT or AST higher than 2 times the upper reference limit&#xD;
+&#xD;
+          -  Serum hemoglobin &lt;11g/dl or neutropenia&lt;1.000cell/mm3&#xD;
+&#xD;
+          -  Renal dysfunction defined as eGFR lower than 60ml/min (using the CKDEPI formula) or&#xD;
+             history of Chronic kidney disease Known hypersensitivity to TDF/FTC Serum phosphorus&#xD;
+             level &lt;2.5mg/dl&#xD;
+&#xD;
+          -  Diagnosed osteopenia or osteoporosis&#xD;
+&#xD;
+          -  History of pathological fractures&#xD;
+&#xD;
+          -  Pregnancy, lactation or pregnancy desire during the period of the study&#xD;
+&#xD;
+          -  Being a participant in another Clinical trial of prevention for COVID-19&#xD;
+&#xD;
+          -  Use of any of the following drugs: Cidofovir, Celecoxib, Diclofenac, Ibuprofen,&#xD;
+             Metadon, Naproxen, Nimesulide, Piroxicam, Amiodarone, Quinine, Amikacin, Cephalexin,&#xD;
+             Clarithromycin, Gentamicin, Piperacillin / Tazobazorcin, Flucomycin, Flucomycin,&#xD;
+             Sulfadiazine, Vancomycin , Ganciclovir, Ledipasvir / Sofosbuvir, Sofosbuvir /&#xD;
+             Velpatasvir, Furosemide, Hydralazine, Sacubitril, Verapamil, Interferon, Hydroxyurea,&#xD;
+             Dolutegravir / Lamivudine Abacavir, Didanosine, Lamivudine, Atazanavir / cobicistat,&#xD;
+             Atazanavir / ritonavir, Darunavir / ritonavir, Darunavir / cobicistat, Indinavir,&#xD;
+             Interferon, Hydroxyurea, Cyclosporine, Mycophenolate, Sirolimus, Tacrolimus,&#xD;
+             Acetazolamide Orlistat, Probenecid, Pyridostigmine, Sevelamer, Zoledronic acid.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Sandra Valderrama- Beltrán, MD. Msc.</last_name>
+    <phone>+57-310-33222</phone>
+    <email>slvalderrama@husi.org.co</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Juliana Maria Cuervo Rojas, MD. MSc. PhD.</last_name>
+    <phone>+571 3148634125</phone>
+    <email>cuervoj@javeriana.edu.co</email>
+  </overall_contact_backup>
+  <reference>
+    <citation>Daihai H, Daozhou G, Zhuang Z, Peihua C, Yijun L, Lin Y. The attack rate of the COVID-19 in a year. :3-5.</citation>
+  </reference>
+  <reference>
+    <citation>Ferguson N, Laydon D, Nedjati Gilani G, Imai N, Ainslie K, Baguelin M, et al. Report 9: Impact of non-pharmaceutical interventions (NPIs) to reduce COVID19 mortality and healthcare demand</citation>
+  </reference>
+  <reference>
+    <citation>Centers for Diasease Control and Prevention. Interim U.S. Guidance for Risk Assessment and Public Health Management of Healthcare Personnel with Potential Exposure in a Healthcare Setting to Patients with Coronavirus Disease (COVID-19).</citation>
+  </reference>
+  <reference>
+    <citation>WHO. THE USE OF ANTIRETROVIRAL DRUGS FOR TREATING AND PREVENTING HIV INFECTION. 2016;480.</citation>
+  </reference>
+  <reference>
+    <citation>Krakower DS, Mayer KH. Pre-exposure prophylaxis to prevent HIV infection: current status, future opportunities and challenges. Drugs. 2015 Feb;75(3):243-51. doi: 10.1007/s40265-015-0355-4. Review.</citation>
+    <PMID>25673022</PMID>
+  </reference>
+  <reference>
+    <citation>AIDSinfo. Panel on Antiretroviral Guidelines for Adults and Adolescents. Guidelines for the Use of Antiretroviral Agents in Adults and Adolescents with HIV. Dep Heal Hum Serv [Internet].2018;298.</citation>
+  </reference>
+  <reference>
+    <citation>Lampertico P, Agarwal K, Berg T, Buti M, Janssen HLA, Papatheodoridis G, et al. EASL 2017 Clinical Practice Guidelines on the management of hepatitis B virus infection. J Hepatol. 2017;67(2):370-98.</citation>
+  </reference>
+  <reference>
+    <citation>Del Amo J, Polo R, Moreno S, Díaz A, Martínez E, Arribas JR, Jarrín I, Hernán MA; The Spanish HIV/COVID-19 Collaboration. Incidence and Severity of COVID-19 in HIV-Positive Persons Receiving Antiretroviral Therapy : A Cohort Study. Ann Intern Med. 2020 Oct 6;173(7):536-541. doi: 10.7326/M20-3689. Epub 2020 Jun 26.</citation>
+    <PMID>32589451</PMID>
+  </reference>
+  <reference>
+    <citation>Ju J, Kumar S, Li X, Jockusch S, Russo JJ. Nucleotide Analogues as Inhibitors of Viral Polymerases. bioRxiv [Internet]. 2020;1:2020.01.30.927574. Available from: https://doi.org/10.1101/2020.03.18.997585%0Ahttps://www.biorxiv.org/content/biorxiv/early/2020/01/31/2020.01.30.927574.full.pdf</citation>
+  </reference>
+  <reference>
+    <citation>Elfiky AA. Anti-HCV, nucleotide inhibitors, repurposing against COVID-19. Life Sci. 2020 May 1;248:117477. doi: 10.1016/j.lfs.2020.117477. Epub 2020 Feb 28.</citation>
+    <PMID>32119961</PMID>
+  </reference>
+  <reference>
+    <citation>Parang K, El-Sayed NS, Kazeminy AJ, Tiwari RK. Comparative Antiviral Activity of Remdesivir and Anti-HIV Nucleoside Analogs Against Human Coronavirus 229E (HCoV-229E). Molecules. 2020 May 17;25(10). pii: E2343. doi: 10.3390/molecules25102343.</citation>
+    <PMID>32429580</PMID>
+  </reference>
+  <reference>
+    <citation>Jockusch S, Tao C, Li X, Anderson TK, Chien M, Kumar S, et al. Triphosphates of the two components in DESCOVY and TRUVADA are inhibitors of the SARS-CoV-2 polymerase. bioRxiv. 2020;1-8.</citation>
+  </reference>
+  <reference>
+    <citation>Elfiky AA. SARS-CoV-2 RNA dependent RNA polymerase (RdRp) targeting: an in silico perspective. J Biomol Struct Dyn. 2020 May 6:1-9. doi: 10.1080/07391102.2020.1761882. [Epub ahead of print]</citation>
+    <PMID>32338164</PMID>
+  </reference>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 18, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 18, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 19, 2020</study_first_posted>
+  <last_update_submitted>August 18, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 18, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 19, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Hospital Universitario San Ignacio</investigator_affiliation>
+    <investigator_full_name>Sandra Liliana Valderrama</investigator_full_name>
+    <investigator_title>MD, Msc</investigator_title>
+  </responsible_party>
+  <keyword>Emtricitabine, Tenofovir Disoproxil Fumarate Drug Combination</keyword>
+  <keyword>Prevention and control</keyword>
+  <keyword>Chemoprevention</keyword>
+  <keyword>Severe acute respiratory syndrome coronavirus 2</keyword>
+  <keyword>Health Personnel</keyword>
+  <keyword>Randomized Controlled Trial</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Tenofovir</mesh_term>
+    <mesh_term>Emtricitabine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol, Statistical Analysis Plan, and Informed Consent Form</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>August 7, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/25/NCT04519125/Prot_SAP_ICF_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

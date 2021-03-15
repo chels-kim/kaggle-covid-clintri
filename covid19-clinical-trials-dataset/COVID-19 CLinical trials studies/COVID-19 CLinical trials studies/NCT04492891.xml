@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2301">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04492891</url>
+  </required_header>
+  <id_info>
+    <org_study_id>H-48163</org_study_id>
+    <nct_id>NCT04492891</nct_id>
+  </id_info>
+  <brief_title>Cyclosporine For The Treatment Of COVID-19(+)</brief_title>
+  <official_title>Randomized Phase IIa Clinical Trial Of Cyclosporine For The Treatment Of COVID-19(+) Non-ICU Hospital Inpatients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Bryan Burt, MD</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Brigham and Women's Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Baylor College of Medicine</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Phase IIa clinical trial in which 75 non-ICU hospital inpatients will be randomized 2:1 to 7&#xD;
+      days of an oral formulation of cyclosporine, Neoral (2.5mg/kg PO BID) + standard of care&#xD;
+      (SOC) or no Neoral + SOC. The primary endpoint is disease severity based on the World Health&#xD;
+      Organization (WHO) COVID Ordinal Outcomes Scale, on day 14. Secondary endpoints include&#xD;
+      safety and changes in serum inflammatory markers.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      1. OBJECTIVES&#xD;
+&#xD;
+           1.1 Primary Objectives&#xD;
+&#xD;
+           1.1.1 To assess the effect of a 7-day course of oral cyclosporine Neoral on clinical&#xD;
+           outcome using the World Health Organization (WHO) COVID Ordinal Clinical Outcomes Scale,&#xD;
+           on day 14.&#xD;
+&#xD;
+           1.2 Secondary Objectives&#xD;
+&#xD;
+           1.2.1 To establish the safety of Neoral in this patient population (adverse events).&#xD;
+&#xD;
+           1.2.2 To determine the effect of Neoral on serum inflammatory markers (CRP, d-dimer,&#xD;
+           ferritin, ANC (Absolute Neutrophil Count), absolute lymphocyte count, WBC, PLT (daily&#xD;
+           while inpatient and including day 14 and 28 for those discharged).&#xD;
+&#xD;
+           1.2.3 To determine the effect Neoral on viral SARS-CoV2 PCR positivity from baseline&#xD;
+           (day 0 to -2) before receiving Neoral to day 14, and from baseline to day 28.&#xD;
+&#xD;
+           1.2.4 To determine the effect of Neoral on survival (days 14 and 28).&#xD;
+&#xD;
+           1.2.5 To determine the effect of Neoral on disease improvement (alive and free of&#xD;
+           invasive or non-invasive mechanical ventilation; days 14 and 28).&#xD;
+&#xD;
+           1.2.6 To determine the effect of Neoral on proportion of those requiring invasive&#xD;
+           mechanical ventilation.&#xD;
+&#xD;
+           1.2.7 To determine the effect of Neoral on incidence of deep vein thrombosis.&#xD;
+&#xD;
+           1.2.8 To determine the effect of Neoral on proportion of patients discharged on day 28.&#xD;
+&#xD;
+           1.2.9 To determine the effect of Neoral on time to hospital discharge.&#xD;
+&#xD;
+           1.2.10 To determine the effect of Neoral on disease resolution (alive and discharged&#xD;
+           home without oxygen; days 14 and 28).&#xD;
+&#xD;
+        2. BACKGROUND&#xD;
+&#xD;
+      2.1 Study Disease(s)&#xD;
+&#xD;
+      Severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) is a novel coronavirus that&#xD;
+      causes coronavirus disease 2019 (COVID-19). Since initial detection of the virus, more than&#xD;
+      10 million cases of COVID-19 have been confirmed worldwide, and COVID-19 is responsible for&#xD;
+      more than 505,500 deaths. The United States has seen over 2.5 million cases of COVID-19 and&#xD;
+      126,000 deaths from this disease (as of June, 30, 2020). SARS-CoV-2 is efficiently&#xD;
+      transmitted from person-to-person and the World Health Organization (WHO) has declared&#xD;
+      coronavirus disease 2019 (COVID-19) to be a pandemic.&#xD;
+&#xD;
+      COVID-19 primarily spreads through the respiratory tract, by droplets, respiratory&#xD;
+      secretions, and direct contact. Current data suggest an incubation period of 1-14 days, in&#xD;
+      most cases 3-7 days. The virus is highly transmissible in humans and causes severe problems&#xD;
+      especially in the elderly and people with underlying chronic diseases. COVID-19 patients&#xD;
+      typically present with specific, similar symptoms, such as fever, malaise, and cough. Most&#xD;
+      adults or children infected with SARS-CoV-2 have presented with mild flu-like symptoms, but a&#xD;
+      few patients are in critical condition and rapidly develop acute respiratory distress&#xD;
+      syndrome (ARDS), respiratory failure, multiple organ failure, and death. The case fatality&#xD;
+      rate increases with the severity of illness and can reach up to 49% in critically ill&#xD;
+      patients.&#xD;
+&#xD;
+      Unfortunately, specific and effective therapies for COVID-19 are highly limited. Recent&#xD;
+      evidence suggest that administration of the anti-viral agent, Remdesivir, to hospital&#xD;
+      inpatients with COVID-19 decreases time to recovery from 15 to 11 days and decreases&#xD;
+      mortality at 14 days from 11.9% to 7.1%. A preliminary, unpublished analysis from a large,&#xD;
+      multicenter, randomized, open-label trial for hospitalized patients in the United Kingdom&#xD;
+      showed that patients who were randomized to receive dexamethasone had a reduced rate of&#xD;
+      mortality compared to those who received standard of care. This benefit was observed in&#xD;
+      patients with severe COVID-19 and was greatest in those who required mechanical ventilation&#xD;
+      at enrollment (RECOVERY Trial). These 2 agents are considered in the standard of care (SOC)&#xD;
+      for treating patients with COVID-19. However, additional therapies with larger effect sizes&#xD;
+      and that are administered at earlier stages to prevent progression to severe COVID-19 are&#xD;
+      critically needed.&#xD;
+&#xD;
+      2.1.1 IND (Investigational New Drug) Agent(s)&#xD;
+&#xD;
+      The PI has filed an IND with cross-reference letter from Novartis and has received a Safe to&#xD;
+      Proceed determination (IND #152065).The rationale for the proposed starting dose is based on&#xD;
+      the standard renal transplantation dose, which has a time-honored profile of safety in this&#xD;
+      population.&#xD;
+&#xD;
+      2.2 Rationale&#xD;
+&#xD;
+      Severe COVID-19. Initial reports from cases identified between February 12 to March 16 in the&#xD;
+      United States (U.S.) show rates of hospitalization for COVID-19 to be 21-31%, intensive care&#xD;
+      unit (ICU) admissions to be 5- 12%, and fatality to be 2%-3%. High-risk groups for severe&#xD;
+      COVID-19 have been identified as the elderly population and those with underlying&#xD;
+      comorbidities such as cardiovascular disease, liver disease, pulmonary disease, renal&#xD;
+      disease, and diabetes mellitus.&#xD;
+&#xD;
+      Severe COVID-19 results from a dysregulated hyperimmune state. Severe symptoms of COVID-19&#xD;
+      are associated with a hyperimmune response referred to as a cytokine storm. In one study, all&#xD;
+      41 patients with COVID-19 admitted to the hospital demonstrated elevated plasma levels of&#xD;
+      cytokines and chemokines compared with healthy volunteers that included IL (Interleukin) -1,&#xD;
+      -1R, -7, -8, -9, -10, and basic FGF2, GCSF, GMCSF, IFN-γ, IP10, MCP1, M1P1A, MIP1B, PDGF,&#xD;
+      TNF-α, and VEGF. Patients admitted to the ICU had higher levels of IL-2, IL-7, IL-10, GCSF,&#xD;
+      IP10, MCP1, MIP1A, and TNF-α than patients who did not require ICU admission. Emerging data&#xD;
+      has shown that early rapid SARS-CoV-2 replication causes massive epithelial and endothelial&#xD;
+      cell death that initiates a cytokine storm and vascular leakage, causes pyroptosis in&#xD;
+      macrophages and lymphocytes, and results in exhaustion of T cells and NK (Natural Killer)&#xD;
+      cells.&#xD;
+&#xD;
+      COVID-19 similarities to hemophagocytic lymphohistiocytosis (HLH). HLH is an&#xD;
+      under-recognized, hyperinflammatory syndrome characterized by a fulminant and fatal cytokine&#xD;
+      storm and multi-organ failure. In adults, HLH is most commonly triggered by viral infections&#xD;
+      and occurs in 3.7% to 4.3% cases of sepsis. Cardinal features include unremitting fever,&#xD;
+      cytopenias, and hyperferritinemia. Pulmonary involvement (including ARDS) occurs in ~50% of&#xD;
+      patients. Each of these clinical features and a highly overlapping cytokine profile is seen&#xD;
+      in severe COVID-19. This demonstrates that the clinical presentation and pathologic&#xD;
+      mechanisms of severe COVID-19 is similar to, or is HLH.&#xD;
+&#xD;
+      Cyclosporine (CSA) suppresses hyperimmune states. Calcineurin inhibitors such as CSA suppress&#xD;
+      the phosphatase activity of calcineurin, which results in decreased IL-2 production and IL-2&#xD;
+      receptor expression. This interrupts a central pathway of T-cell activation and dampens T&#xD;
+      cell responses and their associated cytokine storms. CSA is approved by the FDA for three&#xD;
+      indications including 1) prophylaxis of organ rejection in kidney, liver, and heart&#xD;
+      transplants, 2) treatment of severe active rheumatoid arthritis, and 3) treatment of adult&#xD;
+      severe recalcitrant plaque psoriasis. It is critical to consider whether dampening of T-cell&#xD;
+      responses using CSA would curtail the vigor of T-cell hyperactivity in COVID-19 disease and&#xD;
+      provide an opportunity for these patients to recover.&#xD;
+&#xD;
+      CSA for COVID-19. Proposed is the use of the calcineurin inhibitor, CSA, for the treatment of&#xD;
+      patients with COVID-19. This is based on: 1) observations that COVID-19 disease is associated&#xD;
+      with a hyperimmune response very similar to HLH, for which treatment with CSA is effective&#xD;
+      and recommended, 2) COVID-19 is associated with dysregulated macrophage activation similar to&#xD;
+      macrophage activation syndrome (MAS) which is also therapeutically suppressed by CSA, and 3)&#xD;
+      in vitro studies demonstrating that CSA specifically inhibits the replication of&#xD;
+      coronaviruses including SARS-CoV-2 with a high degree of specificity.&#xD;
+&#xD;
+      CSA specifically inhibits coronavirus replication. Coronaviruses are RNA viruses with large&#xD;
+      genomes that enter host cells through binding of its transmembrane spike protein with&#xD;
+      angiotensin-converting enzyme 2 (ACE2) receptors expressed by host target cells, which is the&#xD;
+      same mechanism utilized by SARS-CoV (i.e., SARS). Cyclophilins appear to play a critical role&#xD;
+      in the replication of many viruses including coronaviruses, HIV, and hepatitis C virus.&#xD;
+      Although the exact mechanisms are not yet well understood, in vitro studies suggest that the&#xD;
+      coronavirus' nonstructural protein (Nsp) and nucleocapsid protein bind to cyclophilins, and&#xD;
+      knockdown of cyclophilin expression results in near complete inhibition of coronavirus&#xD;
+      replication. These data show that viral protein binding to cyclophilins is an important step&#xD;
+      for successful coronavirus replication, and inhibition of this interaction by CSA prevents&#xD;
+      viral replication. An important study demonstrated that CSA dominantly inhibited replication&#xD;
+      of human coronavirus 229E (HCoV-229E), mouse hepatitis virus (MHV), and SARS, and that&#xD;
+      treatment with increasing doses of CSA caused a dose-dependent decrease in SARS-CoV&#xD;
+      replication in human cells in vitro without affecting cell viability. The same group&#xD;
+      demonstrated that CSA inhibited replication of MERS-CoV without affecting cell viability of&#xD;
+      mock-infected cells. An independent group demonstrated that increasing concentrations of CSA&#xD;
+      treatment of SARS-CoV-infected human cells resulted in a dose-dependent decrease in viral&#xD;
+      replication, and inhibited the replication of other coronaviruses, including human CoV-NL63,&#xD;
+      CoV-229E, feline CoV serotypes I and II, porcine transmissible gastroenteritis virus (TGEV),&#xD;
+      avian infection bronchitis virus (IBV), and two isolates of SARS-CoV. Taken together it is&#xD;
+      proposed a dual mechanism in which (1) calcineurin inhibition by CSA inhibits the&#xD;
+      phosphorylation of NFAT-P, thus preventing the production of IL-2 and other proinflammatory&#xD;
+      cytokines, and (2) CSA inhibits viral replication of coronaviruses, likely through blockade&#xD;
+      of calcineurin, causing the inhibition of cyclophilins required for viral replication. Most&#xD;
+      recently, it was demonstrated that CSA is highly specific and effective at inhibiting&#xD;
+      SARS-CoV-2 replication in various human cells, via inhibition of Cyclophilin.&#xD;
+&#xD;
+      Safety of CSA in COVID-19. Since April 2020 mounting evidence from various patient&#xD;
+      populations has strongly suggested that CSA can be used safely in patients with COVID-19. It&#xD;
+      was recently demonstrated that patients with &quot;Immune Mediated Inflammatory Diseases&quot; (IMID)&#xD;
+      on various immunosuppressive drugs related to CSA have a &quot;significantly reduced incidence of&#xD;
+      SARS-CoV-2 infection&quot;. It was reported no significant increase in the incidence or severity&#xD;
+      of COVID-19 disease in patients undergoing CSA therapy for Psoriasis, but rather suggested a&#xD;
+      potentially milder disease in these patients. Another study of over 4000 patients in Madrid,&#xD;
+      Spain demonstrated &quot;a universal relationship between the use of Cyclosporine A and better&#xD;
+      outcomes&quot; in patients with COVID-19 disease. In line with the findings from Spain, Cavagna in&#xD;
+      Italy observed that transplant patients with ongoing Calcineurin Inhibitor therapy developed&#xD;
+      only mild symptoms of COVID-19 disease and concluded that &quot;Calcineurin inhibitor-based&#xD;
+      immunosuppressive regimens appear safe&quot; in COVID-19 disease and should not be discontinued.&#xD;
+      These recent clinical outcomes data suggest that the use of CSA in patients with COVID-19 is&#xD;
+      safe and potentially effective.&#xD;
+&#xD;
+      2.3 Correlative Studies Background&#xD;
+&#xD;
+      Correlative studies in this protocol are included as secondary endpoints and are based on: 1)&#xD;
+      serum inflammatory markers used clinically as biomarkers to monitor the severity of COVID-19&#xD;
+      (CRP, d-dimer, ferritin, ANC, absolute lymphocyte count, WBC (White Blood Cells), PLT), and&#xD;
+      2) SARS-CoV-2 viral load by a clinical PCR (Polymerase Chain Reaction) test.&#xD;
+&#xD;
+      6. TREATMENT AND/OR IMAGING PLAN&#xD;
+&#xD;
+      6.1 Agent Administration&#xD;
+&#xD;
+      Treatment will be administered on an inpatient basis.&#xD;
+&#xD;
+      Arm A Regimen Description Agent Neoral, Investigational, Generic Acceptable, N=50 Patients&#xD;
+      2.5 mg/kg PO BID 7 days&#xD;
+&#xD;
+      Arm B Regimen Description Agent None*, N= 25 Patients 7 days&#xD;
+&#xD;
+      *Note: The PI has undertaken thorough discussions with the sponsor and generation of placebo&#xD;
+      capsules is not feasible for the timing of this study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 23, 2020</start_date>
+  <completion_date type="Anticipated">November 23, 2025</completion_date>
+  <primary_completion_date type="Anticipated">November 23, 2025</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Phase IIa clinical trial in which 75 non-ICU hospital inpatients will be randomized 2:1 to 7 days of Neoral (2.5mg/kg PO BID) + standard of care (SOC) or no CSA + SOC.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>WHO COVID-19 clinical severity scale</measure>
+    <time_frame>Through study completion, an average of 1 month.</time_frame>
+    <description>WHO COVID-19 clinical severity scale. Score 0-9. 0=Uninfected, 8=Death.</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">75</enrollment>
+  <condition>SARS (Disease)</condition>
+  <arm_group>
+    <arm_group_label>Arm A Cyclosporine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Neoral, N=50 Patients 2.5 mg/kg PO BID 7 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm B Standard of Care</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Standard of Care Treatment, N= 25 Patients 7 days</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cyclosporine</intervention_name>
+    <description>2.5 mg/kg PO BID 7 days</description>
+    <arm_group_label>Arm A Cyclosporine</arm_group_label>
+    <other_name>Neoral</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Standard of Care Treatment</intervention_name>
+    <description>Standard of Care Treatment, N= 25 Patients, 7 days</description>
+    <arm_group_label>Arm B Standard of Care</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        3.1.1 Laboratory-confirmed SARS-CoV-2 infection within the past 10 days.&#xD;
+&#xD;
+        3.1.2 Patients admitted to non-ICU hospital floors or in an emergency department awaiting&#xD;
+        admission to a non-ICU hospital bed.&#xD;
+&#xD;
+        3.1.3 WHO COVID Scale Score 4 (Oxygen by mask or nasal prongs or WHO COVID Scale Score 5&#xD;
+        (non-invasive ventilation or high-flow oxygen).&#xD;
+&#xD;
+        3.1.4 Age 18 to 90 years old.&#xD;
+&#xD;
+        3.1.5 ECOG (Eastern Cooperative Oncology Group) performance status ≤2 (see Appendix A).&#xD;
+&#xD;
+        3.1.6 Patients receiving or who have received standard of care therapy for COVID-19 can be&#xD;
+        included. This includes Remdesivir, Dexamethasone (or other steroids), and convalescent&#xD;
+        plasma.&#xD;
+&#xD;
+        3.1.7 Ability to understand and the willingness to sign a written informed consent&#xD;
+        document.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        3.2.1 Allergy and/or hypersensitivity to CSA.&#xD;
+&#xD;
+        3.2.2 GFR&lt;30 mL/min.&#xD;
+&#xD;
+        3.2.3 ALT (Alanine transaminase) or AST (Aspartate transaminase) &gt;3X upper limits of&#xD;
+        normal.&#xD;
+&#xD;
+        3.2.4 Resistant hypertension (BP&gt;140/90 mm Hg despite adherence to maximal doses of three&#xD;
+        antihypertensive agents).&#xD;
+&#xD;
+        3.2.5 Active bacterial or mycobacterial infection.&#xD;
+&#xD;
+        3.2.6 Pregnant and/or nursing patients. 3.2.7 Participation in a COVID-19 therapeutic drug&#xD;
+        trial.&#xD;
+&#xD;
+        3.2.8 Patients who have received or who are receiving anti-viral medications including&#xD;
+        hydroxychloroquine will not be excluded.&#xD;
+&#xD;
+        3.2.9 Patients with psychiatric illness/social situations that would limit compliance with&#xD;
+        study requirements.&#xD;
+&#xD;
+        3.2.10 Total cholesterol is &lt; 100 (increased risk of seizure)&#xD;
+&#xD;
+        3.2.11 Concomitant dosing with Tacrolimus is a relative contraindication (increases overall&#xD;
+        immunosuppression and decrease seizure threshold&#xD;
+&#xD;
+        3.2.12 Concomitant malignancy is a relative contraindication (Neoral can increase&#xD;
+        susceptibility to development of neoplasia)&#xD;
+&#xD;
+        3.2.13 Inability to swallow oral medication&#xD;
+&#xD;
+        3.2.14 Treatment with immunomodulators or immunosuppressant drugs, including but not&#xD;
+        limited to IL-6 inhibitors, TNF inhibitors, anti-IL-1 agents, and JAK inhibitors.&#xD;
+&#xD;
+        3.2.15 Investigational Antiviral agents&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Bryan Burt, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Baylor College of Medicine</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Michelle Almarez, BBA</last_name>
+    <phone>713-798-3680</phone>
+    <email>malmarez@bcm.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Baylor College of Medicine</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michelle Almarez, BBA</last_name>
+      <phone>713-798-3680</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>July 20, 2020</study_first_submitted>
+  <study_first_submitted_qc>July 28, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 30, 2020</study_first_posted>
+  <last_update_submitted>November 25, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 25, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 27, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Baylor College of Medicine</investigator_affiliation>
+    <investigator_full_name>Bryan Burt, MD</investigator_full_name>
+    <investigator_title>Associate Professor, Surgery General Thoracic</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>SARS-COV-2</keyword>
+  <keyword>Corona Virus</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cyclosporine</mesh_term>
+    <mesh_term>Cyclosporins</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

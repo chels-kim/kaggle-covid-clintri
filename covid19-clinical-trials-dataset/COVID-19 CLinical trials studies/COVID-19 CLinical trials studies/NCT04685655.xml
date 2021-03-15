@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1309">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04685655</url>
+  </required_header>
+  <id_info>
+    <org_study_id>S-911/2020</org_study_id>
+    <nct_id>NCT04685655</nct_id>
+  </id_info>
+  <brief_title>RescuE pLAsma eXchange in Severe COVID-19</brief_title>
+  <acronym>RELAX</acronym>
+  <official_title>RescuE pLAsma eXchange in Severe COVID-19 (RELAX Severe COVID-19)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Heidelberg University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Heidelberg University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The spectrum of coronavirus disease 2019 (COVID-19) ranges from asymptomatic infection to&#xD;
+      acute respiratory distress syndrome (&quot;ARDS&quot;) and patient death. Severely affected patients&#xD;
+      may develop a cytokine storm-like clinical syndrome with high mortality. Laboratory tests in&#xD;
+      these patients show an excessive and uncontrolled immune response with consecutive&#xD;
+      multi-organ failure. In addition, there is evidence for the development of prothrombotic&#xD;
+      autoantibodies as an epiphenomenon of &quot;Severe Acute Respiratory Syndrome Coronavirus 2&quot;&#xD;
+      (SARS-CoV-2) infection. Therapeutic plasma exchange (&quot;TPE&quot;) is being discussed as a&#xD;
+      therapeutic alternative in patients with severe, refractory COVID-19. The idea is that plasma&#xD;
+      exchange eliminates both endogenous and exogenous inducers of an exuberant inflammatory&#xD;
+      response as well as prothrombotic factors, thus breaking the secondary vicious circle of&#xD;
+      SARS-CoV-2 infection. In general, TPE is a safe procedure with known efficacy in other severe&#xD;
+      viral diseases as well as in cytokine storm-like diseases and ARDS of other geneses.&#xD;
+      Moreover, initial data, mostly derived from case studies, demonstrate promising therapeutic&#xD;
+      efficacy of TPE in severe COVID-19 courses with previously lacking treatment options. To&#xD;
+      further evaluate the therapeutic efficacy of TPE in severe COVID-19, a prospective randomized&#xD;
+      controlled trial of TPE in severe SARS-CoV-2 infection is being conducted at our center.&#xD;
+      Patients will be randomized to a control group (standard therapy according to center&#xD;
+      standards) and a therapy/intervention group (standard therapy + TPE).&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 7, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Therapeutic plasma exchange in patients with severe COVID 19</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Survival</measure>
+    <time_frame>30 days after randomization</time_frame>
+    <description>Intention to treat analysis</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Survival</measure>
+    <time_frame>15, 30, 60, 90, 365 days after randomization</time_frame>
+    <description>Intention to treat &amp; per protocol</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ventilator-free days</measure>
+    <time_frame>15, 30, 60, 90 days after randomization</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of hospital an ICU stay</measure>
+    <time_frame>through study completion, an average of 1 year</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Improvement defined as two points on seven point ordinal WHO scale</measure>
+    <time_frame>through study completion, an average of 1 year</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Reduction of vasopressors after TPE treatments</measure>
+    <time_frame>through study completion, an average of 1 year</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of acute kidney injury, renal replacement therapy and renal recovery</measure>
+    <time_frame>15, 30, 60, 90 days after randomization</time_frame>
+    <description>AKI KDIGO criteria</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of typical complications associated to therapeutic plasma exchange</measure>
+    <time_frame>through study completion, an average of 1 year</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Reduction of inflammation mediators, (auto-)antibodies, and coagulation-associated molecules and their temporal correlation to TPE</measure>
+    <time_frame>through study completion, an average of 1 year</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">228</enrollment>
+  <condition>Therapeutic Plasma Exchange</condition>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>COVID-19 therapy according to center standard alone</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Therapeutic plasma exchange and COVID-19 therapy according to center standard</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Therapeutic plasma exchange</intervention_name>
+    <description>Treatment with therapeutic plasma exchange. Plasma from healthy donors is used.</description>
+    <arm_group_label>Therapeutic plasma exchange and COVID-19 therapy according to center standard</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Written informed consent by the study participant or their legally appointed&#xD;
+             representative.&#xD;
+&#xD;
+          -  Age ≥ 18 years&#xD;
+&#xD;
+          -  Evidence of acute SARS-CoV-2 infection, confirmed by PCR testing&#xD;
+&#xD;
+          -  Invasive ventilation&#xD;
+&#xD;
+          -  Fever ≥ 38.5°C, confirmed by a total of 3 consecutive measurements or ongoing renal&#xD;
+             replacement therapy&#xD;
+&#xD;
+          -  D-dimers ≥ 2mg/L&#xD;
+&#xD;
+          -  Dexamethasone ≥ 6mg/day or equivalent dose on at least 2 days&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Age &gt; 85 years&#xD;
+&#xD;
+          -  Pre-existing treatment limitations&#xD;
+&#xD;
+          -  Pregnancy&#xD;
+&#xD;
+          -  Confirmed pulmonary arterial embolism with hemodynamically relevant right heart strain&#xD;
+&#xD;
+          -  ST-segment elevation myocardial infarction (STEMI)&#xD;
+&#xD;
+          -  Participation in an intervention study elsewhere&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Christian Nusshag, MD</last_name>
+    <phone>+496221-5634952</phone>
+    <email>Christian.Nusshag@med.uni-heidelberg.de</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Christian Morath, MD</last_name>
+    <email>Christian.Morath@med.uni-heidelberg.de</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Christian Nusshag</name>
+      <address>
+        <city>Heidelberg</city>
+        <state>Baden-Württemberg</state>
+        <zip>69120</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Christian Nusshag, MD</last_name>
+      <phone>+4962215634952</phone>
+      <email>Christian.Nusshag@med.uni-heidelberg.de</email>
+    </contact>
+    <contact_backup>
+      <last_name>Christian Morath, MD</last_name>
+      <email>Christian.Morath@med.uni-heidelberg.de</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Christian Nusshag, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Uta Merle, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Christian Morath, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Markus A. Weigand, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>December 23, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 24, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 28, 2020</study_first_posted>
+  <last_update_submitted>January 7, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 7, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University Hospital Heidelberg</investigator_affiliation>
+    <investigator_full_name>Christian Nusshag</investigator_full_name>
+    <investigator_title>MD, Attending, Department of Nephrology</investigator_title>
+  </responsible_party>
+  <keyword>Plasma exchange</keyword>
+  <keyword>Covid19</keyword>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>On request</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

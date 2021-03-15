@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="8">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04602884</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Cov-2-IDF</org_study_id>
+    <nct_id>NCT04602884</nct_id>
+  </id_info>
+  <brief_title>Early Detection of COVID-19 Using Breath Analysis</brief_title>
+  <acronym>COVID-19</acronym>
+  <official_title>Early Detection of the 2019 Novel Coronavirus (SARS-CoV-2) Using Breath Analysis: First Cross-Sectional Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Scentech Medical Technologies Ltd</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Scentech Medical Technologies Ltd</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      EARLY DETECTION OF COVID-19 USING BREATH ANALYSIS- FIRST CROSS-SECTIONAL STUDY&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Primary objective- to identify and evaluate a set of biomarkers that represent both the&#xD;
+      genetic expression of the virus itself (SARS-CoV-2) and the metabolic activity of the immune&#xD;
+      system's response to the virus.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Suspended</overall_status>
+  <why_stopped>
+    no additional parcipitants could be recruited at site.&#xD;
+  </why_stopped>
+  <start_date type="Actual">September 22, 2020</start_date>
+  <completion_date type="Anticipated">December 30, 2020</completion_date>
+  <primary_completion_date type="Anticipated">December 30, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Correlation between Volatile Organic Compounds pattern and COVID-19 detection status.</measure>
+    <time_frame>Through the study completion, up to 3 months.</time_frame>
+    <description>Correlation between the set of Volatile Organic Compounds found in breath biopsy and COVID-19 detection presence in a swab test.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Correlation between Volatile Organic Compounds pattern and time from COVID-19 detection.</measure>
+    <time_frame>Through the study completion, up to 3 months.</time_frame>
+    <description>Correlation between the set of Volatile Organic Compounds found in breath biopsy and time since COVID-19 detected in a swab test.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation between the set of Volatile Organic Compounds found in breath biopsy and disease intensity.</measure>
+    <time_frame>Through the study completion, up to 3 months.</time_frame>
+    <description>Correlation between the set of Volatile Organic Compounds found in breath biopsy and intensity of COVID-19 detected in a swab test.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">50</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>COVID-19 Positive patients</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>subjects who were found COVID-19 Positive according to swab test.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Healthy subjects</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>subjects who were found COVID-19 Negative according to swab test.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Breath biopsy sampling using the ReCIVA Breath Sampler</intervention_name>
+    <description>Breath biopsy sampling using the ReCIVA Breath Sampler</description>
+    <arm_group_label>COVID-19 Positive patients</arm_group_label>
+    <arm_group_label>Healthy subjects</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age 18 to 55 years at the time of consent&#xD;
+&#xD;
+          -  Positive results for SARS-CoV-2&#xD;
+&#xD;
+          -  Capable of understanding written and/or spoken language&#xD;
+&#xD;
+          -  Able to provide informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Age under 18 years old&#xD;
+&#xD;
+          -  (Anticipated) inability to complete breath sampling procedure due to e.g. hyper- or&#xD;
+             hypoventilation, respiratory failure, or claustrophobia when wearing the sampling mask&#xD;
+&#xD;
+          -  Persons under guardianship or deprived of liberty&#xD;
+&#xD;
+          -  Patients with the following diseases: Cancer, Asthma, Chronic Respiratory Disease&#xD;
+&#xD;
+          -  Pregnant women&#xD;
+&#xD;
+          -  Treated with antiviral drugs upon admission or during hospitalization&#xD;
+&#xD;
+          -  Novices and soldiers in initial training&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Natalie Dror, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Scentech Medical Technologies Ltd</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>IDF COVID 19 Isolation Facility</name>
+      <address>
+        <city>Ashkelon</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Israel</country>
+  </location_countries>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>October 21, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 23, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 26, 2020</study_first_posted>
+  <last_update_submitted>October 23, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 23, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 26, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>No IPD is to be shared with other researchers.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

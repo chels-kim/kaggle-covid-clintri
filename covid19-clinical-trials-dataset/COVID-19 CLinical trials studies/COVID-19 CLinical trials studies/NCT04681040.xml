@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1112">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04681040</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NCGM-G-003654-00</org_study_id>
+    <nct_id>NCT04681040</nct_id>
+  </id_info>
+  <brief_title>Risk Stratification of COVID-19 Using Urine Biomarkers</brief_title>
+  <official_title>Monitoring of COVID-19 Using Urine POC Kit</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Center for Global Health and Medicine, Japan</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Center for Global Health and Medicine, Japan</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Coronavirus disease 2019 (COVID-19) is caused by severe acute respiratory syndrome&#xD;
+      coronavirus 2 (SARS-CoV-2) and in infected patients, it produces symptoms which range from&#xD;
+      completely asymptomatic to those expressing severe illness. Early recognition of those&#xD;
+      developing severe manifestations allows for rapid and appropriate intervention, including&#xD;
+      admission to intensive care unit and intensive care therapy, such as mechanical ventilation.&#xD;
+      A current problem is that only limited data exist predicting the clinical course of COVID-19.&#xD;
+      This study will determine whether non-invasive urinalysis is useful in assessing and&#xD;
+      predicting the severity or clinical course of patients with COVID-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study will conduct to elucidate the following clinical question;&#xD;
+&#xD;
+        1. if the single urinary biomarker or the combination of urinary biomarkers will clarify&#xD;
+           the risk of COVID-19 confirmed mild cases. These biomarkers must be warranted to&#xD;
+           clinical use based on the evaluation by either CE or PMDA or FDA. Examination should be&#xD;
+           done within 72 h after the start of COVID-19.&#xD;
+&#xD;
+        2. if above addressed biomarker can classify the effectiveness of therapy directed to&#xD;
+           COVID-19.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 19, 2020</start_date>
+  <completion_date type="Anticipated">August 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">March 31, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Risk Stratification of COVID-19 Participants Using Urine Biomarkers</measure>
+    <time_frame>10 days after starting the initial examination.</time_frame>
+    <description>Urine L-FABP will be measured to detect the risk in COVID-19 confirmed cases focusing to no symptom, mild case, and moderate case. Urine beta2 microglobulin will be measured to detect the risk in COVID-19 confirmed cases. Urine L-FABP and beta2 microgloburin will be combined to examine the improvement on risk classification. The risk to develop hypoxic condition, adopted from NEJM 382:1787, 2020 (PMID: 32187464), will be pre-determined by single or dual urine biomarkers using definite cut-off values.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Prediction of COVID-19 Treatment by Urine L-FABP</measure>
+    <time_frame>14 days after starting the initial intervention.</time_frame>
+    <description>The treatment efficacy of a certain specific treatment (ex. dexamethasone, tocilizumab, remdesivir, ivermectin, favipiravir, Hydroxychloroquine, etc) to COVID-19 will be predicted through the initial urine L-FABP level in mild to moderate cases.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Increase of O2 support, hospital days, worsening of chest X-ray and CT, and survival rate, at 14 and/or 30 days.</measure>
+    <time_frame>30 days after starting the initial examination.</time_frame>
+    <description>Applicability of urine L-FABP and beta2 microgloburin will be measured. Single urine biomarker (L-FABP or beta2 microgloburin) or those combination will be evaluated for predictions such as; i) increase of O2 &amp; respiratory supports, ii) increase of hospital days, iii) worsening level of chest X-ray &amp; CT, and iv) survival rate and SOFA in ICU. At 14 and/or 30 days after the inclusion these clinical parameters will be evaluated based on the cut off value of single urine biomarker (L-FABP or beta2 microgloburin) and those aggregates.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Comparison of Risk Stratification with Other Biomarkers</measure>
+    <time_frame>7 days and 10 days after starting the initial examination.</time_frame>
+    <description>Urine L-FABP and beta2 microgloburin will be measured. Single urine biomarker (L-FABP or beta2 microgloburin) or those combination will be compared with d-Dimer and IL-6 for the risk evaluation of COVID-19 in te scope of Outcome 3.</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">1000</enrollment>
+  <condition>Covid19</condition>
+  <condition>Urine</condition>
+  <condition>Biomarker</condition>
+  <condition>Acute Respiratory Failure With Hypoxia</condition>
+  <arm_group>
+    <arm_group_label>UrBMC19 Group (International Cooperative Group)</arm_group_label>
+    <description>The examination of urine for mild pre-diagnosed COVID-19 cases are conducted to evaluate the risk classification and detect the effectiveness of early intervention by COVID-19 treatment such as dexamethasone, chloroquine, remdesivir, ivermectin, actemra, and so forth within the period of 14 days after starting the intervention.</description>
+  </arm_group>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      1. Serum and plasma biomarkers of inflammation / cytokine storm, coagulation, and ischemia&#xD;
+           / organ injury.&#xD;
+&#xD;
+        2. Urine L-FABP, Urine beta2 microgloburin.&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        COVID-19 confirmed case without severe symptoms.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  COVID-19 confirmed cases by qPCR exam or equivalent.&#xD;
+&#xD;
+          -  Those who agreed to join this study&#xD;
+&#xD;
+          -  Those who received treatment at NCGM, affiliated hospital and institute including&#xD;
+             accommodation facilities for observational purposes.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Age less than 20&#xD;
+&#xD;
+          -  Those who do not have smart phone (no personal contract)&#xD;
+&#xD;
+          -  eGFR less than 30&#xD;
+&#xD;
+          -  Any pre-existing illness with fever, weakness, or respiratory difficulties, Pregnancy&#xD;
+             or breastfeeding.&#xD;
+&#xD;
+          -  Doctors' judgements to inappropriate for inclusion&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>20 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Eisei Noiri, M.D., Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>National Center for Global Health and Medicine</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Eisei Noiri, M.D., Ph.D.</last_name>
+    <phone>+81352736891</phone>
+    <email>enoiri@hosp.ncgm.go.jp</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Daisuke Katagiri, M.D., Ph.D.</last_name>
+    <phone>+81332027181</phone>
+    <email>dkatagiri@hosp.ncgm.go.jp</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>MD Mount Sinai</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Paul A Gurbel, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital das Clinicas Ribeirao Preto</name>
+      <address>
+        <city>Ribeirão Preto</city>
+        <state>San Paulo</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Benedito Fonseca, MD.</last_name>
+    </contact>
+    <contact_backup>
+      <last_name>Adriana Ferreira</last_name>
+      <phone>(16) 3315 3376</phone>
+      <email>adriana@fmrp.usp.br</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Danish National Biobank</name>
+      <address>
+        <city>København</city>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Estrid Høgdall, Ph.D.</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Shonan General Hospital</name>
+      <address>
+        <city>Kamakura</city>
+        <state>Kanagawa</state>
+        <zip>247-8533</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Takayasu Ohtake, M.D.</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>National Center Global Health and Medicine</name>
+      <address>
+        <city>Shinjuku</city>
+        <state>Tokyo</state>
+        <zip>16208655</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Daisuke Katagiri, M.D., Ph.D.</last_name>
+      <email>dkatagiri@hosp.ncgm.go.jp</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Yamanashi Prefectural Central Hospital</name>
+      <address>
+        <city>Kōfu</city>
+        <state>Yamanashi</state>
+        <zip>400-8506</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yoshihiro Miyashita, M.D.</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Unilab Group</name>
+      <address>
+        <city>Manila</city>
+        <country>Philippines</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+    <country>Denmark</country>
+    <country>Japan</country>
+    <country>Philippines</country>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Katagiri D, Ishikane M, Asai Y, Kinoshita N, Ota M, Moriyama Y, Ide S, Nakamura K, Nakamoto T, Nomoto H, Akiyama Y, Miyazato Y, Suzuki T, Okuhama A, Kanda K, Wakimoto Y, Morioka S, Saito S, Yamamoto K, Ujiie M, Hayakawa K, Kustuna S, Yanagawa Y, Terada J, Takasaki J, Izumi S, Hojo M, Hinoshita F, Sugiyama M, Noiri E, Mizokami M, Ohmagari N, Sugiyama H. Evaluation of Coronavirus Disease 2019 Severity Using Urine Biomarkers. Crit Care Explor. 2020 Jul 31;2(8):e0170. doi: 10.1097/CCE.0000000000000170. eCollection 2020 Aug.</citation>
+    <PMID>32766565</PMID>
+  </reference>
+  <reference>
+    <citation>Noiri E, Doi K, Negishi K, Tanaka T, Hamasaki Y, Fujita T, Portilla D, Sugaya T. Urinary fatty acid-binding protein 1: an early predictive biomarker of kidney injury. Am J Physiol Renal Physiol. 2009 Apr;296(4):F669-79. doi: 10.1152/ajprenal.90513.2008. Epub 2008 Nov 19. Review.</citation>
+    <PMID>19019918</PMID>
+  </reference>
+  <reference>
+    <citation>Yamamoto T, Noiri E, Ono Y, Doi K, Negishi K, Kamijo A, Kimura K, Fujita T, Kinukawa T, Taniguchi H, Nakamura K, Goto M, Shinozaki N, Ohshima S, Sugaya T. Renal L-type fatty acid--binding protein in acute ischemic injury. J Am Soc Nephrol. 2007 Nov;18(11):2894-902. Epub 2007 Oct 17.</citation>
+    <PMID>17942962</PMID>
+  </reference>
+  <reference>
+    <citation>Doi K, Noiri E, Sugaya T. Urinary L-type fatty acid-binding protein as a new renal biomarker in critical care. Curr Opin Crit Care. 2010 Dec;16(6):545-9. doi: 10.1097/MCC.0b013e32833e2fa4. Review.</citation>
+    <PMID>20736829</PMID>
+  </reference>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>December 19, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 22, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 23, 2020</study_first_posted>
+  <last_update_submitted>December 23, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 23, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 28, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>National Center for Global Health and Medicine, Japan</investigator_affiliation>
+    <investigator_full_name>Eisei Noiri</investigator_full_name>
+    <investigator_title>Director General, National Center Biobank Network</investigator_title>
+  </responsible_party>
+  <keyword>L-type Fatty Acid-binding Protein, beta 2 microglobulin</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Insufficiency</mesh_term>
+    <mesh_term>Hypoxia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1146">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04581083</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PROY - UAJMS001/2020</org_study_id>
+    <nct_id>NCT04581083</nct_id>
+  </id_info>
+  <brief_title>Validation of Laboratory Techniques, Strategies, and Types of Samples for Epidemiological Control in the Covid-19 Pandemic</brief_title>
+  <official_title>Validation of Laboratory Techniques, Strategies, and Types of Samples for Epidemiological Control in the Covid-19 Pandemic, Tarija-Bolivia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hunter College of City University of New York</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Universidad Autonoma Juan Misael Saracho</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Gobierno Autonomo Departamental De Tarija</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>SEDES - Tarija</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>CAINCO - Bolivia</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Hunter College of City University of New York</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a study of validation for diagnostic techniques used on epidemiological control in&#xD;
+      the COVID-19 pandemic. It will be carried out in accredited public, private and university&#xD;
+      clinical laboratories of the collaborator institutions of the project based in Tarija,&#xD;
+      Bolivia. It is designed as a sectional validation study, using samples from specific groups&#xD;
+      of participants from the municipality of Tarija grouped according to their category with&#xD;
+      respect to symptoms and viral load of COVID-19. The sample is selected for convenience.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">October 8, 2020</start_date>
+  <completion_date type="Actual">October 30, 2020</completion_date>
+  <primary_completion_date type="Actual">October 10, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Validation</measure>
+    <time_frame>1 month</time_frame>
+    <description>Validate different molecular tests and sampling and sample type strategies used in epidemiological control of COVID-19 diagnosis in Tarija, Bolivia.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>RT- PCR (Saliva)</measure>
+    <time_frame>1 week</time_frame>
+    <description>Validate the use of molecular testing based on the PCR method using Saliva samples</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>LAMP</measure>
+    <time_frame>1 week</time_frame>
+    <description>Validate the use of the molecular test based on the LAMP method using saliva and nasopharyngeal samples</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>POOL PCR</measure>
+    <time_frame>1 week</time_frame>
+    <description>Validate the use of molecular tests with Pool PCR strategy using saliva samples</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>POOL LAMP</measure>
+    <time_frame>1 week</time_frame>
+    <description>Validate the use of molecular tests with Pool LAMP strategy using saliva samples</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Actual">30</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Volunteer participants</arm_group_label>
+    <description>Samples of volunteer participants will be collected after informed consent and classified as symptomatic, asymptomatic and negative.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>RT-PCR</intervention_name>
+    <description>RT-PCR (Gold standard): Real-time PCR testing with reverse transcriptase (RT-PCR). The test consists of a polymerase chain reaction that has previously had a reverse transcription phase, RT. This test allows the cADN (complementary DNA) to be obtained from a RNA chain. This technique allows the detection and amplification of a sequence from a strand of RNA.</description>
+    <arm_group_label>Volunteer participants</arm_group_label>
+    <other_name>Real-Time Polymerase Chain Reaction</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>LAMP</intervention_name>
+    <description>LAMP: The LAMP technique, like PCR, has the ability to amplify specific DNA fragments (target sequence), allowing for highly sensitive detection of pathogens. Unlike pcr, LAMP requires between 4 and 6 feeders, external F3 and B3 feeders, which hybridte with the outer regions of the target sequence, while the internal FIP and BIP have sequences in both ways that allow the formation of a loop. The LAMP reaction is isothermal, i.e. it takes place at a single temperature. LAMP has been successfully used to detect viral diseases as well as viral pathogens such as West Nile virus, TMR-1, Norovirus, avian influenza, foot-and-mouth disease, classical swine fever, among others.</description>
+    <arm_group_label>Volunteer participants</arm_group_label>
+    <other_name>Loop-mediated isothermal amplification</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>POOL RT-PCR</intervention_name>
+    <description>POOL RT-PCR: This test aims to mix in a single sample the extractions obtained from several people. The joint sample is evaluated and, if negative, it is understood that all are free of COVID-19; if it is positive, an array system is used to detect the affected person. That is, a single PCR (polymerase chain reaction), the diagnostic test used to detect the virus pathogen is applied to a group and repeated individually if positive.</description>
+    <arm_group_label>Volunteer participants</arm_group_label>
+    <other_name>Pooled Real-Time Polymerase Chain Reaction</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>POOL LAMP</intervention_name>
+    <description>POOL LAMP: Like the RT-PCR pool test. This test essentially involves mixing in a single sample the extractions obtained from several people. This joint sample is tested and, if it is negative, it is understood that everyone is free of COVID-19; if it is positive, an array system is used to detect the affected person. That is: a single LAMP applies to a group</description>
+    <arm_group_label>Volunteer participants</arm_group_label>
+    <other_name>Pooled Loop-mediated isothermal amplification</other_name>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      nasopharyngeal swab and saliva samples&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Validation will be carried out using samples from volunteer adults from the municipality of&#xD;
+        Tarija, Bolivia, without gender restriction. Samples will be grouped according to the&#xD;
+        clinical classification determined above. These individuals will need to sign the informed&#xD;
+        consent form required to agree to be part of the study and provide their complete&#xD;
+        information or access to their medical history.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion criteria:&#xD;
+&#xD;
+          -  Symptomatic: Subjects with signs and symptoms of respiratory infection less than or&#xD;
+             equal to 3 days, preferably with clinical and molecular diagnosis compatible with&#xD;
+             Covid-19.&#xD;
+&#xD;
+          -  Asymptomatics: Subjects who have had direct contact with people infected and who have&#xD;
+             not shown any symptoms related to Covid-19.&#xD;
+&#xD;
+          -  Negative: Individuals with negative RT-PCR testing for SARS-CoV-2 (reference test) who&#xD;
+             have not manifested any symptoms seven days prior to sampling.&#xD;
+&#xD;
+        Exclusion criteria:&#xD;
+&#xD;
+          -  Adults under the age of 21 or over 65&#xD;
+&#xD;
+          -  Subjects with a clinical history of autoimmune disease or chemotherapy treatments.&#xD;
+&#xD;
+          -  Subjects who have received transfusions or convalescent plasma in the last month prior&#xD;
+             to enrollment.&#xD;
+&#xD;
+          -  Subjects with prior diagnosis of other infectious diseases such as, but not limited to&#xD;
+             AIDS, Hepatitis B or C, Tuberculosis, or any other ongoing or unresolved diseases.&#xD;
+&#xD;
+          -  Subjects with malformation or oncological pathology of the upper respiratory track&#xD;
+             that may hinder sample collection, including but not limited to deviated septum,&#xD;
+             allergic rhinitis.&#xD;
+&#xD;
+          -  Subjects who have not signed or can not sign the informed consent form&#xD;
+&#xD;
+          -  Subjects not able to provide their complete information or access to their clinical&#xD;
+             history.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>64 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Kenji Shoji, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Galapagos NV</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Rodrigo Arce Cardozo, MD, MPH</last_name>
+    <role>Study Chair</role>
+    <affiliation>City University of New York, School of Public Health</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Universidad Autónoma Juan Misael Saracho</name>
+      <address>
+        <city>Tarija</city>
+        <zip>00000</zip>
+        <country>Bolivia</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Bolivia</country>
+  </location_countries>
+  <link>
+    <url>https://www.uajms.edu.bo/</url>
+    <description>Local Sponsor University Website</description>
+  </link>
+  <reference>
+    <citation>Yu L, Wu S, Hao X, Dong X, Mao L, Pelechano V, Chen WH, Yin X. Rapid Detection of COVID-19 Coronavirus Using a Reverse Transcriptional Loop-Mediated Isothermal Amplification (RT-LAMP) Diagnostic Platform. Clin Chem. 2020 Jul 1;66(7):975-977. doi: 10.1093/clinchem/hvaa102.</citation>
+    <PMID>32315390</PMID>
+  </reference>
+  <reference>
+    <citation>Kashir J, Yaqinuddin A. Loop mediated isothermal amplification (LAMP) assays as a rapid diagnostic for COVID-19. Med Hypotheses. 2020 Aug;141:109786. doi: 10.1016/j.mehy.2020.109786. Epub 2020 Apr 25.</citation>
+    <PMID>32361529</PMID>
+  </reference>
+  <reference>
+    <citation>Esbin MN, Whitney ON, Chong S, Maurer A, Darzacq X, Tjian R. Overcoming the bottleneck to widespread testing: a rapid review of nucleic acid testing approaches for COVID-19 detection. RNA. 2020 Jul;26(7):771-783. doi: 10.1261/rna.076232.120. Epub 2020 May 1. Review.</citation>
+    <PMID>32358057</PMID>
+  </reference>
+  <reference>
+    <citation>Chow FW, Chan TT, Tam AR, Zhao S, Yao W, Fung J, Cheng FK, Lo GC, Chu S, Aw-Yong KL, Tang JY, Tsang CC, Luk HK, Wong AC, Li KS, Zhu L, He Z, Tam EWT, Chung TW, Wong SCY, Que TL, Fung KS, Lung DC, Wu AK, Hung IF, Woo PC, Lau SK. A Rapid, Simple, Inexpensive, and Mobile Colorimetric Assay COVID-19-LAMP for Mass On-Site Screening of COVID-19. Int J Mol Sci. 2020 Jul 29;21(15). pii: E5380. doi: 10.3390/ijms21155380.</citation>
+    <PMID>32751106</PMID>
+  </reference>
+  <reference>
+    <citation>Augustine R, Hasan A, Das S, Ahmed R, Mori Y, Notomi T, Kevadiya BD, Thakor AS. Loop-Mediated Isothermal Amplification (LAMP): A Rapid, Sensitive, Specific, and Cost-Effective Point-of-Care Test for Coronaviruses in the Context of COVID-19 Pandemic. Biology (Basel). 2020 Jul 22;9(8). pii: E182. doi: 10.3390/biology9080182. Review.</citation>
+    <PMID>32707972</PMID>
+  </reference>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>October 7, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 7, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 9, 2020</study_first_posted>
+  <last_update_submitted>January 19, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 19, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 22, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Hunter College of City University of New York</investigator_affiliation>
+    <investigator_full_name>Rodrigo Arce Cardozo</investigator_full_name>
+    <investigator_title>Adjunct Assistant Professor</investigator_title>
+  </responsible_party>
+  <keyword>COVID 19</keyword>
+  <keyword>Bolivia</keyword>
+  <keyword>Clinical Laboratory Techniques</keyword>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>We will share deidentified data</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>6 months after study completion</ipd_time_frame>
+    <ipd_access_criteria>Open</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

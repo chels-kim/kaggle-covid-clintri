@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3974">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04674566</url>
+  </required_header>
+  <id_info>
+    <org_study_id>COR-101/001</org_study_id>
+    <nct_id>NCT04674566</nct_id>
+  </id_info>
+  <brief_title>Evaluation of Safety and Tolerability of COR-101 in Hospitalized Patients With Moderate to Severe COVID-19</brief_title>
+  <official_title>Randomized, Double-blind, Placebo Controlled, Parallel Group, Multi-centre, First-in-human, Phase Ib/II Study to Assess Safety, Tolerability, Pharmacokinetics, Pharmacodynamics, Immunogenicity, and Efficacy of COR-101 in Hospitalized Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Corat Therapeutics Gmbh</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Corat Therapeutics Gmbh</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Primary objectives Part 1:&#xD;
+&#xD;
+      - To evaluate the safety and tolerability of COR-101 compared to placebo&#xD;
+&#xD;
+      Secondary objectives Part 1:&#xD;
+&#xD;
+        -  To evaluate the preliminary efficacy of COR-101 compared to placebo in hospitalized&#xD;
+           patients with moderate to severe COVID-19&#xD;
+&#xD;
+        -  To assess the pharmacokinetics (PK), pharmacodynamics (PD), and immunogenicity of&#xD;
+           COR-101&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 31, 2021</start_date>
+  <completion_date type="Anticipated">April 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 30, 2021</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of patients with Treatment-Emergent Adverse Events (TEAEs)</measure>
+    <time_frame>through Day 28</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Proportion of patients with Serious Adverse Events (SAEs)</measure>
+    <time_frame>through Day 28</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Proportion of patients with Adverse Events of Special Interest (AESI)</measure>
+    <time_frame>through Day 28</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Secondary efficacy endpoint: Proportion of patients with disease progression</measure>
+    <time_frame>through Day 28</time_frame>
+    <description>Proportion of patients who are not alive or have respiratory failure</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Secondary efficacy endpoint: Time to negative RT-PCR for SARS-CoV-2</measure>
+    <time_frame>through Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of pharmacokinetic (PK) parameter: maximum serum concentration observed (Cmax) of COR-101</measure>
+    <time_frame>through Day 60</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of PK parameter: Time to Cmax (tmax) for COR-101</measure>
+    <time_frame>through Day 60</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of PK parameter: AUC from time zero extrapolated to infinity (AUCinf) for COR-101</measure>
+    <time_frame>through Day 60</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of PK parameter: Clearance (CL) for COR-101</measure>
+    <time_frame>through Day 60</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of PK parameter: Mean residence time (MRT) of COR-101</measure>
+    <time_frame>through Day 60</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Secondary PD endpoint: Change of the viral load of SARS-CoV-2 from baseline, as measured from nasopharyngeal swab samples by qRT-PCR</measure>
+    <time_frame>through Day 21</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Secondary immunogenicity endpoint: Percentage of patients with detectable neutralizing antibodies to COR-101</measure>
+    <time_frame>through Day 60</time_frame>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">45</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Cohort 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>COR-101 low dose</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>COR-101 mid dose 1</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>COR-101 mid dose 2</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 4</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>COR-101 high dose</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>COR-101</intervention_name>
+    <description>Administered intravenously (IV) single dose</description>
+    <arm_group_label>Cohort 1</arm_group_label>
+    <arm_group_label>Cohort 2</arm_group_label>
+    <arm_group_label>Cohort 3</arm_group_label>
+    <arm_group_label>Cohort 4</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Administered intravenously (IV) single dose</description>
+    <arm_group_label>Cohort 1</arm_group_label>
+    <arm_group_label>Cohort 2</arm_group_label>
+    <arm_group_label>Cohort 3</arm_group_label>
+    <arm_group_label>Cohort 4</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Key Inclusion Criteria:&#xD;
+&#xD;
+          -  Hospitalized for COVID-19 illness for ≤72 hours&#xD;
+&#xD;
+          -  Positive SARS-CoV-2 test by standard RT-PCR assay or equivalent test&#xD;
+&#xD;
+          -  Presence of moderate to severe clinical signs indicative of moderate or severe illness&#xD;
+             with COVID19 prior to study treatment&#xD;
+&#xD;
+        Key Exclusion Criteria:&#xD;
+&#xD;
+          -  Diagnosis of asymptomatic COVID-19, mild COVID-19, or critical COVID-19&#xD;
+&#xD;
+          -  In the opinion of the investigator, is not likely to survive for &gt;48 hours beyond Day&#xD;
+             1&#xD;
+&#xD;
+          -  New onset stroke or seizure disorder during hospitalization and prior to Day 1&#xD;
+&#xD;
+          -  History of relevant CNS pathology or current relevant CNS pathology&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>December 17, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 17, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 19, 2020</study_first_posted>
+  <last_update_submitted>January 6, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 6, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 7, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

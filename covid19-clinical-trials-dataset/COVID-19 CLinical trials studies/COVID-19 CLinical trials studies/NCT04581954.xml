@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3191">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04581954</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20HH5926</org_study_id>
+    <secondary_id>2020-001750-22</secondary_id>
+    <nct_id>NCT04581954</nct_id>
+  </id_info>
+  <brief_title>Inflammatory Signal Inhibitors for COVID-19 (MATIS)</brief_title>
+  <acronym>MATIS</acronym>
+  <official_title>Randomised Multi-arm Trial of Ruxolitinib (RUX) and Fostamatinib (FOS) for COVID-19 Pneumonia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Imperial College London</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Imperial College Healthcare NHS Trust</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Rigel Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Novartis</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Imperial College London</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The Multi-arm trial of Inflammatory Signal Inhibitors for COVID-19 (MATIS) study is a&#xD;
+      two-stage, open-label, randomised controlled trial assessing the efficacy of ruxolitinib&#xD;
+      (RUX) and fostamatinib (FOS) individually, compared to standard of care in the treatment of&#xD;
+      COVID-19 pneumonia. The primary outcome is the proportion of hospitalised patients&#xD;
+      progressing from mild or moderate to severe COVID-19 pneumonia. Patients are treated for 14&#xD;
+      days and will receive follow-up assessment at 7, 14 and 28 days after the first study dose.&#xD;
+      Patients with mild or moderate COVID-19 pneumonia will be recruited. Initially, n=171 (57 per&#xD;
+      arm) patients will be recruited in Stage 1. Following interim analysis to assess the efficacy&#xD;
+      and safety of the treatments, approximately n=285 (95 per arm) will be recruited during Stage&#xD;
+      2.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      COVID-19 pneumonia is characterised by respiratory and multi-organ failure in the context of&#xD;
+      marked systemic inflammation. It is caused by Severe Acute Respiratory Syndrome Coronavirus 2&#xD;
+      (SARSCoV2) infection. The hallmark of severe disease is hypoxia and a radiological pattern of&#xD;
+      acute lung injury that shares features with Acute Respiratory Distress Syndrome (ARDS). Early&#xD;
+      features of COVID-19 result from host viral response and typically include symptoms such as&#xD;
+      fever and dry cough. Later features, typically occurring beyond 7 days, are characterised by&#xD;
+      marked and progressive systemic inflammation, identified by elevations in a plethora of&#xD;
+      inflammatory molecules such as C-reactive protein, ferritin and IL6. In a subset of patients,&#xD;
+      hyperinflammatory responses drive acute lung injury and may result in catastrophic&#xD;
+      multi-organ failure and death.&#xD;
+&#xD;
+      The aetiology of COVID-19 induced ARDS is incompletely understood but appears to be&#xD;
+      associated with lung inflammation effected by a monocytic and neutrophilic infiltration,&#xD;
+      elevated cytokine levels and tissue damage. Elevations in circulating inflammatory molecules&#xD;
+      are associated with poor prognosis. In particular, the COVID-19 hyperinflammatory response&#xD;
+      syndrome is associated thrombotic complications which are postulated to drive cardiac&#xD;
+      dysfunction and microvascular thrombi, suggested by elevations in troponin and D-dimer,&#xD;
+      respectively. Similar hyperinflammatory responses are also seen in macrophage activation&#xD;
+      syndromes such as haemophagocytic lymphohistiocytosis, or in the cytokine release syndrome&#xD;
+      associated with chimeric antigen receptor T cell therapy. Further, preliminary data from&#xD;
+      China and Italy have shown immediate resolution of symptoms using anti-interleukin-6 agents&#xD;
+      (anti-IL6) therapy and Janus kinase inhibitors (JAK)/signal transducer and activator of&#xD;
+      transcription (STAT) inhibitors in patients with severe disease. There may be an early window&#xD;
+      of opportunity to treat the COVID-19 hyperinflammatory syndrome before acute lung injury&#xD;
+      leads to organ failure.&#xD;
+&#xD;
+      There are currently no approved treatments for COVID-19 pneumonia. This is a protocol for a&#xD;
+      randomised controlled, multi-arm trial of early intervention with inflammatory signal&#xD;
+      inhibitors.&#xD;
+&#xD;
+      Study purpose&#xD;
+&#xD;
+      A number of therapeutic interventions targeting inflammatory signalling might reduce the&#xD;
+      severity of the inflammatory response phase resulting in amelioration of the lung damage&#xD;
+      thereby averting respiratory failure and the need for mechanical ventilation. This trial aims&#xD;
+      to evaluate the efficacy of two inhibitors of key signalling pathways using drugs which are&#xD;
+      already licensed for use in other clinical indications.&#xD;
+&#xD;
+      Primary objective&#xD;
+&#xD;
+      The primary objective is to determine the efficacy of RUX and FOS to reduce the proportion of&#xD;
+      hospitalised patients progressing from mild/moderate to severe COVID-19 pneumonia. A modified&#xD;
+      World Health Organization (WHO) COVID-19 Severity Ordinal Scale (COVID-19 Therapeutic Trial&#xD;
+      Synopsis published 18th February 2020) will be used to grade clinical deterioration from&#xD;
+      Hospitalised Mild Disease (&lt;5) to Hospitalised Severe Disease (greater than or equal to 5).&#xD;
+      The modification includes an additional grade for Hospitalised Severe Disease that allows the&#xD;
+      capture of clinical deterioration in patients for whom escalation in organ support is not&#xD;
+      offered. Patients are eligible for recruitment to MATIS at grades 3 or 4. These patients&#xD;
+      stand to gain the greatest benefit from inflammatory signal inhibitors that may ameliorate&#xD;
+      the cytokine storm and prevent organ failure.&#xD;
+&#xD;
+      Secondary objectives&#xD;
+&#xD;
+        -  Determine the efficacy of RUX or FOS to reduce mortality&#xD;
+&#xD;
+        -  Determine the efficacy of RUX or FOS to reduce the need for invasive ventilation and/or&#xD;
+           ECMO&#xD;
+&#xD;
+        -  Determine the efficacy of RUX or FOS to reduce the need for non-invasive ventilation&#xD;
+           including CPAP or high flow nasal oxygen&#xD;
+&#xD;
+        -  Determine the efficacy of RUX or FOS to reduce the proportion of patients suffering&#xD;
+           clinically significant oxygen desaturation&#xD;
+&#xD;
+        -  Determine the efficacy of RUX or FOS to reduce the need for renal replacement therapy&#xD;
+&#xD;
+        -  Determine the efficacy of RUX and FOS to improve the severity of COVID-19 pneumonia on a&#xD;
+           modified WHO COVID-19 Ordinal Scale&#xD;
+&#xD;
+        -  Determine the efficacy of RUX or FOS to reduce blood ferritin, c-reactive protein,&#xD;
+           lactate dehydrogenase and D-dimer&#xD;
+&#xD;
+        -  Determine the efficacy of RUX or FOS to reduce duration of hospital admission&#xD;
+&#xD;
+        -  Evaluate the safety of RUX and FOS for COVID-19 pneumonia&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 2, 2020</start_date>
+  <completion_date type="Anticipated">July 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2021</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>All-cause mortality</measure>
+    <time_frame>Day 14</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number and proportion of patients requiring invasive ventilation</measure>
+    <time_frame>Day 14</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number and proportion of patients requiring non-invasive ventilation (CPAP and high flow nasal oxygen)</measure>
+    <time_frame>Day 14</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>All-cause mortality</measure>
+    <time_frame>Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number and proportion of patients requiring invasive ventilation or extracorporeal membrane oxygenation (ECMO)</measure>
+    <time_frame>Day 14, 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number and proportion of patients requiring non-invasive ventilation including continuous positive airway pressure (CPAP) or high flow nasal oxygen</measure>
+    <time_frame>Day 14, 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number and proportion of patients requiring renal replacement therapy</measure>
+    <time_frame>Day 14, 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number and proportion of patients experiencing venous thromboembolism events</measure>
+    <time_frame>Day 14, 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of stay</measure>
+    <time_frame>Day 14, 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number and proportion of serious adverse events and discontinuations</measure>
+    <time_frame>Day 14, 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Absolute change in pneumonia severity on the modified WHO COVID-19 Ordinal Scale</measure>
+    <time_frame>Day 14, 28</time_frame>
+    <description>Scale range from 0 (uninfected) to 9 (dead)</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">456</enrollment>
+  <condition>Coronavirus</condition>
+  <condition>Covid19</condition>
+  <condition>Pneumonia</condition>
+  <arm_group>
+    <arm_group_label>Standard of care</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Fostamatinib</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Ruxolitinib</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ruxolitinib</intervention_name>
+    <description>Ruxolitinib is a Janus kinase 1 (JAK1)/Janus kinase 2 (JAK2) inhibitor approved for clinical use in the treatment of splenomegaly, myelofibrosis, polycythaemia vera and graft-versus-host disease. It is an oral agent with a rapid mode of action.</description>
+    <arm_group_label>Ruxolitinib</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Fostamatinib</intervention_name>
+    <description>Fostamatinib is a tyrosine kinase inhibitor with activity against spleen tyrosine kinase (SYK). It has approved for the treatment of thrombocytopenia in adult patients with chronic immune thrombocytopenia (ITP).</description>
+    <arm_group_label>Fostamatinib</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Standard of care</intervention_name>
+    <description>Standard of care treatment as per site-level policies and guidelines.</description>
+    <arm_group_label>Standard of care</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients age ≥ 18 years at screening&#xD;
+&#xD;
+          -  Patients with mild or moderate C19 pneumonia, defined as Grade 3 or 4 severity by the&#xD;
+             WHO COVID-19 Ordinal Scale by&#xD;
+&#xD;
+          -  Patients meeting criteria: Hospitalization AND SARS-CoV2 infection (clinically&#xD;
+             suspected* or laboratory confirmed) AND Radiological change consistent with COVID-19&#xD;
+             disease&#xD;
+&#xD;
+          -  C-reactive protein (CRP) greater than or equal to 50mg/L&#xD;
+&#xD;
+          -  Informed consent from patient or personal or professional representative&#xD;
+&#xD;
+          -  No medical history that might, in the opinion of the responsible clinician, put the&#xD;
+             patient at significant risk if he/she were to participate in the trial&#xD;
+&#xD;
+          -  Agreement to abstain from sexual intercourse or use contraception that is &gt;99%&#xD;
+             effective for all participants of childbearing potential for 42 days after the last&#xD;
+             dose of study drug. For male participants, agreement to abstain from sperm donation&#xD;
+             for 42 days after the last dose of study drug.&#xD;
+&#xD;
+          -  Able to read English. Non-English speakers will be able to join the study. If patients&#xD;
+             are unable to understand verbal or written information in English - hospital&#xD;
+             translation services will be requested at the participating site for the participant&#xD;
+             where possible.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Requiring either invasive or non-invasive ventilation including CPAP or high flow&#xD;
+             nasal oxygen at any point before baseline&#xD;
+&#xD;
+          -  Grade greater than or equal to 5 severity on the modified WHO COVID-19 Ordinal Scale,&#xD;
+             viz. O2 saturation &lt; 90% on greater than or equal to 60% inspired oxygen at baseline;&#xD;
+             non-invasive ventilation; or invasive mechanical ventilation&#xD;
+&#xD;
+          -  In the opinion of the investigator, progression to death is inevitable within the next&#xD;
+             24 hours, irrespective of the provision of therapy&#xD;
+&#xD;
+          -  Known severe allergic reactions to the investigational agents&#xD;
+&#xD;
+          -  Child Pugh B or C grade hepatic dysfunction&#xD;
+&#xD;
+          -  End Stage Renal Failure&#xD;
+&#xD;
+          -  Use of drugs within the preceding 14 days that are known to interact with any study&#xD;
+             treatment (FOS or RUX), as listed in the Summary of Product Characteristics&#xD;
+&#xD;
+          -  Pregnant or breast feeding&#xD;
+&#xD;
+          -  Any medical condition or concomitant medication that in the opinion of the&#xD;
+             investigator would compromise subjects' safety or compliance with study procedures.&#xD;
+&#xD;
+          -  Any medical condition which in the opinion of the principal investigator would&#xD;
+             compromise the scientific integrity of the study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Nichola Cooper</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Imperial College London</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Nichola Cooper</last_name>
+    <phone>+44 (0)20 3313 1175</phone>
+    <email>n.cooper@imperial.ac.uk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Clio Pillay</last_name>
+    <phone>+44 (0)7778552277</phone>
+    <email>clio.pillay@nhs.net</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Imperial College Healthcare NHS Trust</name>
+      <address>
+        <city>London</city>
+        <zip>W12 0HS</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Melanie T Almonte</last_name>
+      <phone>+44 (0)7778552277</phone>
+      <email>melanie.almonte@nhs.net</email>
+    </contact>
+    <investigator>
+      <last_name>Nichola Cooper</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Nikhil Vergis</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Richard Turner</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>October 5, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 8, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 9, 2020</study_first_posted>
+  <last_update_submitted>November 16, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 16, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 17, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>coronavirus</keyword>
+  <keyword>covid19</keyword>
+  <keyword>pneumonia</keyword>
+  <keyword>ruxolitinib</keyword>
+  <keyword>fostamatinib</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Pneumonia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>To be determined</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

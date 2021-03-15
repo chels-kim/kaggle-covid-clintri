@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="552">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04667780</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ATH/IRB/Colchicine/25.11.2020</org_study_id>
+    <nct_id>NCT04667780</nct_id>
+  </id_info>
+  <brief_title>Study to Investigate the Treatment Effect of Colchicine in Patients With COVID-19</brief_title>
+  <official_title>Study to Investigate the Treatment Effect of Colchicine in Patients With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ayub Teaching Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Universidad de Murcia</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Ayub Teaching Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      COVID-19 is associated with a cytokine storm that leads to respiratory distress, multiorgan&#xD;
+      failure and elevated mortality. Oral Colchicine exhibits high anti-inflammatory capacity&#xD;
+      attributed to the inhibition of microtubules polymerization, inflammasome and production of&#xD;
+      IL-1β and IL-6, which could prevent the inflammatory storm in COVID-19 patients at risk. The&#xD;
+      investigators present a randomized, controlled, open-labeled, and pragmatic clinical trial to&#xD;
+      study the treatment effect of Colchicine in COVID-19 patients requiring hospitalization, but&#xD;
+      no intensive care yet. Colchicine will be started within the first 48 hours and continue for&#xD;
+      14 days using a descending dose. The benefits will be studied in terms of clinical evolution&#xD;
+      (WHO 7-point scale) and IL-6 levels, as well as other clinical and biochemical secondary&#xD;
+      end-points. In the case of positive results, the clinical impact would be relevant given that&#xD;
+      this oral medication is affordable and widely accessible which would help to prevent the&#xD;
+      inflammatory complications associated with COVID-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a Phase III, prospective, pragmatic, randomized, controlled and open-label trial,&#xD;
+      comparing standard of care vs. standard of care plus COLCHICINE for 14 days, in patients&#xD;
+      hospitalized due to COVID-19 and confirmed infection by SARS-CoV-2, within the first 48 hours&#xD;
+      after the hospital admission. Patients meeting severity criteria will be excluded, defined as&#xD;
+      established limitation of therapeutic effort or need for invasive mechanical ventilation at&#xD;
+      the time of inclusion. The Colchicine treatment includes an initial dose of 1.5 mg (1 mg and&#xD;
+      0.5 mg two hours after), followed by 0.5 mg every 12 hours during the next 7 days and 0.5 mg&#xD;
+      every 24 hours until the completion of 14 days of total treatment. In patients receiving&#xD;
+      ritonavir or lopinavir or with reduced renal clearance (&lt;50 ml/min/1.37m2), weight &lt;70 kg or&#xD;
+      age &gt;75 years old, the dose will be adjusted to the half.&#xD;
+&#xD;
+      Patients meeting all the inclusion criteria and none of the exclusion ones (see below), after&#xD;
+      signing the informed consent, will be centrally randomized to &quot;Colchicine&quot; or &quot;Control&quot;&#xD;
+      group. Patients in both groups will receive the standard therapy for COVID-19 as per the&#xD;
+      hospital protocols. Randomization will be controlled by: age, sex, time from initiation of&#xD;
+      symptoms, cardiovascular disease, the 7 point WHO and levels of C-reactive protein, ferritin,&#xD;
+      D-dimer, IL-6 and lymphocyte levels.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 10, 2020</start_date>
+  <completion_date type="Anticipated">July 9, 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 9, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Phase III, prospective, randomized, controlled, open-label and pragmatic trial, comparing the administration of Colchicine plus standard treatment vs. standard therapy, in hospitalized patients with COVID-19, within the first 48 hours, and no severity criteria.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Changes in the patients' clinical status through the 7 points ordinal scale WHO R&amp;D Blueprint expert group</measure>
+    <time_frame>up to 14 days</time_frame>
+    <description>Improvement in the clinical evolution of patients</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in IL-6 concentrations</measure>
+    <time_frame>up to 14 days</time_frame>
+    <description>Improvement in cytokine level</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Improvement in the clinical status</measure>
+    <time_frame>up to 14 days</time_frame>
+    <description>time needed to reduce at least 2 points in the 7-point Ordinal Scale for Clinical Improvement by WHO R&amp;D Blueprint expert group (0-7)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in the score for the Sequential Organ Failure Assessment (SOFA score)</measure>
+    <time_frame>up to 14 days</time_frame>
+    <description>Sequential Organ Failure Assessment (SOFA score) (0-14)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in the punctuation in the National Early Warning Score</measure>
+    <time_frame>up to 14 days</time_frame>
+    <description>National Early Warning Score (NEWS scale)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of days with invasive mechanical ventilation</measure>
+    <time_frame>up to 14 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of days with high flow oxygen therapy</measure>
+    <time_frame>up to 14 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in other inflammatory markers</measure>
+    <time_frame>up to 14 days</time_frame>
+    <description>C-reactive protein</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in severity markers</measure>
+    <time_frame>up to 14 days</time_frame>
+    <description>D-dimer</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in severity markers</measure>
+    <time_frame>up to 14 days</time_frame>
+    <description>Leukocytes</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in severity markers</measure>
+    <time_frame>up to 14 days</time_frame>
+    <description>Lymphocytes</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in severity markers</measure>
+    <time_frame>up to 14 days</time_frame>
+    <description>Platelets</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in severity markers</measure>
+    <time_frame>up to 14 days</time_frame>
+    <description>LDH</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in severity markers</measure>
+    <time_frame>up to 14 days</time_frame>
+    <description>Ferritin</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in myocardial damage</measure>
+    <time_frame>up to 14 days</time_frame>
+    <description>myocardial stress markers hsTnT</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in myocardial damage</measure>
+    <time_frame>up to 14 days</time_frame>
+    <description>myocardial stress markers NT-proBNP</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time until reaching a virus negative status</measure>
+    <time_frame>up to 14 days</time_frame>
+    <description>RT-PCR assay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of hospital stay</measure>
+    <time_frame>up to 14 days</time_frame>
+    <description>Length of hospital stay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of days in the intensive care unit.</measure>
+    <time_frame>up to 14 days</time_frame>
+    <description>Number of days in the intensive care unit.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>up to 14 days</time_frame>
+    <description>Mortality</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">102</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Colchicine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This arm will receive Standard COVID-19 care + Colchicine&#xD;
+The Colchicine treatment includes an initial dose of 1.5 mg (1 mg and 0.5 mg two hours after), followed by 0.5 mg every 12 hours during the next 7 days and 0.5 mg every 24 hours until the completion of 14 days of total treatment. In patients receiving ritonavir or lopinavir or with reduced renal clearance (&lt;50 ml/min/1.37m2), weight &lt;70 kg or age &gt;75 years old, the dose will be adjusted to the half.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control - Standard COVID-19 care</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>This arm will receive standard COVID-19 care as per the hospital guidelines.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Colchicine</intervention_name>
+    <description>Colchicine tablet 0.5 mg</description>
+    <arm_group_label>Colchicine</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Standard COVID-19 care</intervention_name>
+    <description>As per the hospital guidelines</description>
+    <arm_group_label>Colchicine</arm_group_label>
+    <arm_group_label>Control - Standard COVID-19 care</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. SARS-CoV-2 infection confirmed by PCR.&#xD;
+&#xD;
+          2. Admitted in the hospital in the previous 48 hours, with clinical status 3, 4 or 5 of&#xD;
+             WHO classification.&#xD;
+&#xD;
+          3. Age above 18 years old.&#xD;
+&#xD;
+          4. Informed written consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Invasive mechanical ventilation needed.&#xD;
+&#xD;
+          2. Established limitation of the therapeutic effort&#xD;
+&#xD;
+          3. Inflammatory bowel disease (IBD: Chron Syndrome or Ulcerative colitis), chronic&#xD;
+             diarrhea or malabsorption.&#xD;
+&#xD;
+          4. Previous neuromuscular disease.&#xD;
+&#xD;
+          5. Other disease with an estimated vital prognosis under 1 year.&#xD;
+&#xD;
+          6. Severe renal insufficiency (glomerular filtration rate &lt;30 mL/min/1.73m2)&#xD;
+&#xD;
+          7. Medical records of cirrhosis, active chronic hepatitis or severe hepatic disease&#xD;
+             defined by GOT or GPT levels three times above the normal upper limit.&#xD;
+&#xD;
+          8. Patients with previous colchicine treatment for other diseases (mainly chronic&#xD;
+             prescriptions for familial Mediterranean fever or gout). Clearance period will not be&#xD;
+             required for patients treated with colchicine who stopped the treatment before the&#xD;
+             randomization.&#xD;
+&#xD;
+          9. Patients with history of allergic reaction or significant sensitivity to colchicine.&#xD;
+&#xD;
+         10. Treatment with immunosuppressive agents, corticoids or interleukine-1 antagonists for&#xD;
+             6 months before inclusion.&#xD;
+&#xD;
+         11. Pregnant or breastfeeding female, confirmed by a positive result in the human&#xD;
+             chorionic gonadotropin (hCG) test.&#xD;
+&#xD;
+         12. Fertile woman, or post-menopausal during less than one year and non-surgically&#xD;
+             sterilized. Women of fertile age may be included if using at least one contraceptive&#xD;
+             method and preferably two complementary contraceptive methods.&#xD;
+&#xD;
+         13. Use of other investigational drugs in the moment of inclusion, or during 30 days&#xD;
+             previous to inclusion.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Dr. Zeeshan Haroon, MBBS</last_name>
+    <phone>+ 92 3175564317</phone>
+    <email>zeeshanharoon@yahoo.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Ayub Teaching Hospital</name>
+      <address>
+        <city>Abbottabad</city>
+        <state>Khyber Pakhtunkhwa</state>
+        <zip>22010</zip>
+        <country>Pakistan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Dr. Zeeshan Haroon, MBBS</last_name>
+      <phone>+ 92 317 5564317</phone>
+      <email>zeeshanharoon@yahoo.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Pakistan</country>
+  </location_countries>
+  <reference>
+    <citation>Deftereos SG, Giannopoulos G, Vrachatis DA, Siasos GD, Giotaki SG, Gargalianos P, Metallidis S, Sianos G, Baltagiannis S, Panagopoulos P, Dolianitis K, Randou E, Syrigos K, Kotanidou A, Koulouris NG, Milionis H, Sipsas N, Gogos C, Tsoukalas G, Olympios CD, Tsagalou E, Migdalis I, Gerakari S, Angelidis C, Alexopoulos D, Davlouros P, Hahalis G, Kanonidis I, Katritsis D, Kolettis T, Manolis AS, Michalis L, Naka KK, Pyrgakis VN, Toutouzas KP, Triposkiadis F, Tsioufis K, Vavouranakis E, Martinèz-Dolz L, Reimers B, Stefanini GG, Cleman M, Goudevenos J, Tsiodras S, Tousoulis D, Iliodromitis E, Mehran R, Dangas G, Stefanadis C; GRECCO-19 investigators. Effect of Colchicine vs Standard Care on Cardiac and Inflammatory Biomarkers and Clinical Outcomes in Patients Hospitalized With Coronavirus Disease 2019: The GRECCO-19 Randomized Clinical Trial. JAMA Netw Open. 2020 Jun 1;3(6):e2013136. doi: 10.1001/jamanetworkopen.2020.13136.</citation>
+    <PMID>32579195</PMID>
+  </reference>
+  <reference>
+    <citation>Scarsi M, Piantoni S, Colombo E, Airó P, Richini D, Miclini M, Bertasi V, Bianchi M, Bottone D, Civelli P, Cotelli MS, Damiolini E, Galbassini G, Gatta D, Ghirardelli ML, Magri R, Malamani P, Mendeni M, Molinari S, Morotti A, Salada L, Turla M, Vender A, Tincani A, Brucato A, Franceschini F, Furloni R, Andreoli L. Association between treatment with colchicine and improved survival in a single-centre cohort of adult hospitalised patients with COVID-19 pneumonia and acute respiratory distress syndrome. Ann Rheum Dis. 2020 Oct;79(10):1286-1289. doi: 10.1136/annrheumdis-2020-217712. Epub 2020 Jul 30.</citation>
+    <PMID>32732245</PMID>
+  </reference>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>December 11, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 12, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 16, 2020</study_first_posted>
+  <last_update_submitted>December 12, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 12, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 16, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Ayub Teaching Hospital</investigator_affiliation>
+    <investigator_full_name>Dr Umer Farooq</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Colchicine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

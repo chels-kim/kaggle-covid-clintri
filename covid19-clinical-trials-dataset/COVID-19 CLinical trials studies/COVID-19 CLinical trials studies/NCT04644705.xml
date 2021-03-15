@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4519">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04644705</url>
+  </required_header>
+  <id_info>
+    <org_study_id>201767</org_study_id>
+    <nct_id>NCT04644705</nct_id>
+  </id_info>
+  <brief_title>Safety and Pharmacokinetics of a Novel Niclosamide Solution in Combination With Camostat</brief_title>
+  <acronym>NIC-002</acronym>
+  <official_title>A 3-part Study to Investigate the Safety and Pharmacokinetics of a Novel Niclosamide Solution as a Treatment Option for COVID-19 in Combination With Camostat</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Charité Research Organisation GmbH</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Bayer</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Charité Research Organisation GmbH</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Niclosamide is a well-established substance that is a promising candidate for a repurposing&#xD;
+      approach to treat COVID-19. Niclosamide is currently marketed as a chewing tablet for the&#xD;
+      treatment of intestinal worm infections. The marketed formulation is optimized for minimal&#xD;
+      drug substance absorption. A niclosamide solution has been developed that is expected to&#xD;
+      release the drug substance more readily and more reproducibly.&#xD;
+&#xD;
+      Camostat is approved for oral treatment of chronic pancreatitis and reflux oesophagitis in&#xD;
+      Japan. Camostat has been shown to effectively block viral replication in a SARS-CoV-2 animal&#xD;
+      model. Since the mechanisms of actions are different, it was hypothesized that a combination&#xD;
+      of both substances might have an additive or even synergistic effect in the treatment of&#xD;
+      COVID-19 patients.&#xD;
+&#xD;
+      This 3-part study is designed to investigate (1) safety and pharmacokinetics of single&#xD;
+      ascending doses of the new niclosamide solution after fasted and fed conditions, (2) the&#xD;
+      relative bioavailability of the niclosamide solution compared to the chewing tablet, and (3)&#xD;
+      safety and pharmacokinetics of the combination of niclosamide solution and camostat after&#xD;
+      multiple doses in healthy volunteers.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 2, 2020</start_date>
+  <completion_date type="Anticipated">May 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 31, 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Factorial Assignment</intervention_model>
+    <intervention_model_description>Part A is a randomized, double-blinded, placebo-controlled, single ascending dose (SAD) study with 3 planned cohorts.&#xD;
+Part B consists of two randomized, open-label, two-sequence, two-period crossover cohorts comparing the new niclosamide solution with the marketed chewing tablets.&#xD;
+Part C is a randomized, double-blinded, placebo-controlled multiple dose study investigating the safety and pharmacokinetics of the combination of niclosamide solution and camostat over a treatment period of 7 days.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+    <masking_description>This three part study has double-blinded (placebo-controlled) and open-label parts.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Treatment emergent number of Adverse Events</measure>
+    <time_frame>up to 14 days</time_frame>
+    <description>Assessment of severity of an AE will be based on CTCAE Version 5.0</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Maximum plasma concentration of niclosamide (µg/ml)</measure>
+    <time_frame>from predose until 24 hours after intervention</time_frame>
+    <description>Measurement will start at Day 1</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Area Under the Plasma Concentration Time Curve from predose until last detectable concentration of niclosamide(AUC0-last) of niclosamide [µg/ml*h]</measure>
+    <time_frame>from predose until 24 hours after intervention</time_frame>
+    <description>Measurement will start at Day 1</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Food effect on maximum plasma concentration of niclosamide (µg/ml)</measure>
+    <time_frame>from predose until 24 hours after intervention</time_frame>
+    <description>Measurement will start at Day 1 after a standard high fat breakfast</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Food effect on Area Under the Plasma Concentration Time Curve from predose until last detectable concentration of niclosamide (AUC0-last) [µg/ml*h]</measure>
+    <time_frame>from predose until 24 hours after intervention</time_frame>
+    <description>Measurement will start at Day 1 after a standard high fat breakfast</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Maximum plasma concentration of niclosamide (µg/ml) at steady state after multiple dosing</measure>
+    <time_frame>from predose until Day 9</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area Under the Plasma Concentration Time Curve between two dosing intervals (AUC tau ss) of niclosamide [µg/ml*h] at steady state after multiple dosing</measure>
+    <time_frame>from predose until Day 9</time_frame>
+  </secondary_outcome>
+  <number_of_arms>6</number_of_arms>
+  <enrollment type="Anticipated">28</enrollment>
+  <condition>Healthy Volunteers</condition>
+  <arm_group>
+    <arm_group_label>Part A: verum niclosamide</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>The SAD cohorts are planned as follows:&#xD;
+Cohort A1: 200 mg (fasted conditions) Cohort A2: 600 mg (fasted conditions) Cohort A3: 1600 mg (fasted and fed conditions)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part A: placebo to niclosamide</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>The SAD cohorts are planned as follows:&#xD;
+Cohort A1: placebo to niclosamide 200 mg (fasted conditions) Cohort A2: placebo to niclosamide 600 mg (fasted conditions) Cohort A3: placebo to niclosamide 1600 mg (fasted and fed conditions)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part B: verum as solution (niclosamide)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Two different crossover designs are chosen. Both are randomized, open-label, two-sequence, two periods crossover designs comparing the new niclosamide solution with the marketed chewing tablets. Planned doses are 1600 mg once daily (oral solution), 2000 mg once daily (chewing tablets) and 500 mg three times daily of both dosage forms.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part B: verum as chewing tablet (niclosamide)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Two different crossover designs are chosen. Both are randomized, open-label, two-sequence, two periods crossover designs comparing the new niclosamide solution with the marketed chewing tablets. Planned doses are 1600 mg once daily (oral solution), 2000 mg once daily (chewing tablets) and 500 mg three times daily of both dosage forms.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part C: verum (niclosamide and camostat)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Subjects will receive the combination of niclosamide solution (planned 500 mg three times daily) + camostat (600 mg three times daily) or placebo over a treatment period of 7 days. The dose of the niclosamide solution depends on the safety and pharmacokinetic results of Part A and B but will not exceed 500 mg three times daily.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part C: placebo to niclosamide and camostat</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Subjects will receive the combination of niclosamide solution (planned 500 mg three times daily) + camostat (600 mg three times daily) or placebo over a treatment period of 7 days. The dose of the niclosamide solution depends on the safety and pharmacokinetic results of Part A and B but will not exceed 500 mg three times daily.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Niclosamide</intervention_name>
+    <description>Niclosamide will be applied in various dosage steps, galenic preparations and in combination with camostat</description>
+    <arm_group_label>Part A: verum niclosamide</arm_group_label>
+    <arm_group_label>Part B: verum as chewing tablet (niclosamide)</arm_group_label>
+    <arm_group_label>Part B: verum as solution (niclosamide)</arm_group_label>
+    <arm_group_label>Part C: verum (niclosamide and camostat)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>placebo to the interventional drug</description>
+    <arm_group_label>Part A: placebo to niclosamide</arm_group_label>
+    <arm_group_label>Part C: placebo to niclosamide and camostat</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Healthy male or female subjects in good health as determined by past medical history&#xD;
+&#xD;
+          -  physical examination, vital signs and safety lab at screening&#xD;
+&#xD;
+          -  between 18 to 45 years of age&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Significant illness&#xD;
+&#xD;
+          -  pregnant or lactating women&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>45 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Maximilian Posch, Dr. med.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Charité Research Organisation GmbH</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Frank D Wagner, Prof. Dr. med.</last_name>
+    <phone>+49 30 450 539 200</phone>
+    <email>info@charite-research.org</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Charité Research Organisation GmbH</name>
+      <address>
+        <city>Berlin</city>
+        <zip>10117</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Maximilian Posch, Dr. med.</last_name>
+      <phone>+49 30 450 539 200</phone>
+      <email>info@charite-research.org</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+  </location_countries>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>November 2, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 19, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 25, 2020</study_first_posted>
+  <last_update_submitted>November 19, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 19, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 25, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Niclosamide</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

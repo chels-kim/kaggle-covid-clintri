@@ -1,0 +1,2083 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2166">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04518410</url>
+  </required_header>
+  <id_info>
+    <org_study_id>A5401/ACTIV-2</org_study_id>
+    <secondary_id>38742</secondary_id>
+    <nct_id>NCT04518410</nct_id>
+  </id_info>
+  <brief_title>ACTIV-2: A Study for Outpatients With COVID-19</brief_title>
+  <official_title>Adaptive Platform Treatment Trial for Outpatients With COVID-19 (Adapt Out COVID)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Eli Lilly and Company</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>AIDS Clinical Trials Group</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Institute of Allergy and Infectious Diseases (NIAID)</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Drug studies often look at the effect one or two drugs have on a medical condition, and&#xD;
+      involve one company. There is currently an urgent need for one study to efficiently test&#xD;
+      multiple drugs from more than one company, in people who have tested positive for COVID-19&#xD;
+      but who do not currently need hospitalization. This could help prevent disease progression to&#xD;
+      more serious symptoms and complications, and spread of COVID-19 in the community.&#xD;
+&#xD;
+      This study looks at the safety and effectiveness of different drugs in treating COVID-19 in&#xD;
+      outpatients. Participants in the study will be treated with either a study drug or with&#xD;
+      placebo.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a master protocol to evaluate the safety and efficacy of multiple investigational&#xD;
+      agents aimed at modifying the host immune response to SARS-CoV-2 infection, or directly&#xD;
+      enhancing viral control in order to limit disease progression.&#xD;
+&#xD;
+      The study is designed to transition from phase 2 to phase 3 in the same trial, with or&#xD;
+      without a pause in enrollment, depending on the speed of enrollment and interim results. For&#xD;
+      promising agents with limited availability, a phase 3 evaluation may occur at a later time.&#xD;
+      Up to two dose levels of the same agent may be assessed. Agents may also enter directly into&#xD;
+      phase 3 evaluation if sufficient safety and efficacy data are available from outside the&#xD;
+      trial.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 19, 2020</start_date>
+  <completion_date type="Anticipated">December 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 2021</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+    <masking_description>Unblinded data will be provided to the Data and Safety Monitoring Board for interim analyses. Unblinded Day 28 data will also be provided to a small group of people from the company who owns the investigational agent, to assist the company in deciding if the agent should move into phase 3 evaluation; or in choosing a dose of their agent to move into phase 3 evaluation.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Duration of COVID-19 symptoms (Phase 2)</measure>
+    <time_frame>Up to Day 28</time_frame>
+    <description>Symptoms: Fever or feeling feverish; cough, shortness of breath or difficulty breathing at rest or with activity; sore throat; body pain or muscle pain/aches; fatigue; headache, chills, nasal obstruction or congestion; nasal discharge (runny nose); nausea or vomiting; and diarrhea. Each symptom is scored daily by the participant as absent (score 0), mild (1), moderate (2) or severe (3)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Post-treatment presence of SARS-CoV-2 RNA at Day 3 (Phase 2)</measure>
+    <time_frame>Day 3</time_frame>
+    <description>Measured as detectable or undetectable, from site-collected NP (nasopharyngeal) swabs</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Post-treatment presence of SARS-CoV-2 RNA at Day 7 (Phase 2)</measure>
+    <time_frame>Day 7</time_frame>
+    <description>Measured as detectable or undetectable, from site-collected NP (nasopharyngeal) swabs</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Post-treatment presence of SARS-CoV-2 RNA at Day 14 (Phase 2)</measure>
+    <time_frame>Day 14</time_frame>
+    <description>Measured as detectable or undetectable, from site-collected NP (nasopharyngeal) swabs</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Post-treatment presence of SARS-CoV-2 RNA at Day 21 (Phase 2)</measure>
+    <time_frame>Day 21</time_frame>
+    <description>Measured as detectable or undetectable, from site-collected NP (nasopharyngeal) swabs</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Post-treatment presence of SARS-CoV-2 RNA at Day 28 (Phase 2)</measure>
+    <time_frame>Day 28</time_frame>
+    <description>Measured as detectable or undetectable, from site-collected NP (nasopharyngeal) swabs</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of new adverse event (AE) ≥ Grade 3 (Phase 2)</measure>
+    <time_frame>Thru Day 28</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cumulative incidence of death from any cause or hospitalization (Phase 3)</measure>
+    <time_frame>Thru Day 28</time_frame>
+    <description>≥24 hours of acute care in a hospital or similar acute care facility, including Emergency Rooms or temporary facilities instituted ton address medical needs of those with severe COVID-19</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Proportion of participants with new adverse event (AE) ≥ Grade 3 (Phase 3)</measure>
+    <time_frame>Thru Day 28</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Cumulative incidence of death from any cause or hospitalization (Phase 2)</measure>
+    <time_frame>Thru Day 28</time_frame>
+    <description>≥24 hours of acute care in a hospital or similar acute care facility, including Emergency Rooms or temporary facilities instituted ton address medical needs of those with severe COVID-19</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of COVID-19 symptoms (Phase 3)</measure>
+    <time_frame>Up to Day 28</time_frame>
+    <description>Symptoms: Fever or feeling feverish; cough, shortness of breath or difficulty breathing at rest or with activity; sore throat; body pain or muscle pain/aches; fatigue; headache, chills, nasal obstruction or congestion; nasal discharge (runny nose); nausea or vomiting; and diarrhea. Each symptom is scored daily by the participant as absent (score 0), mild (1), moderate (2) or severe (3)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Presence of SARS-CoV-2 RNA (Phases 2 and 3)</measure>
+    <time_frame>Thru Day 28</time_frame>
+    <description>Measured as detectable or undetectable, from participant-collected nasal swabs</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Level of SARS-Cov-2 RNA (Phases 2 and 3)</measure>
+    <time_frame>Thru Day 28</time_frame>
+    <description>Measured from participant-collected nasal swabs</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>COVID-19 severity ranking (Phases 2 and 3)</measure>
+    <time_frame>From Day 0 thru Day 28</time_frame>
+    <description>Based on symptom severity scores. Symptoms: Fever or feeling feverish; cough, shortness of breath or difficulty breathing at rest or with activity; sore throat; body pain or muscle pain/aches; fatigue; headache, chills, nasal obstruction or congestion; nasal discharge (runny nose); nausea or vomiting; and diarrhea. Each symptom is scored daily by the participant as absent (score 0), mild (1), moderate (2) or severe (3). For participants who are alive at 28 days and not previously hospitalized, the severity ranking will be based on the area under the curve (AUC) of the symptom score associated with COVID-19 disease over time. Participants hospitalized or who die during follow-up through 28 days will be ranked as worse than those alive and never hospitalized as follows (in worsening rank order): alive and not hospitalized at 28 days; hospitalized but alive at 28 days; and died at or before 28 days.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of ≥1 worsening symptom of COVID-19 (Phases 2 and 3)</measure>
+    <time_frame>Thru Day 28</time_frame>
+    <description>Progression of one or more COVID-19-associated symptoms to a worse status than recorded at study entry, prior to start of investigational product or placebo</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of fever (Phases 2 and 3)</measure>
+    <time_frame>Thru Day 28</time_frame>
+    <description>Defined as the last day in the participant's study diary on which a temperature ≥ 38°C (100.4°F) was recorded or a potentially antipyretic drug was taken.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to self-report return to usual (pre-COVID-19) health (Phases 2 and 3)</measure>
+    <time_frame>Thru Day 28</time_frame>
+    <description>As recorded in participant's study diary</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cumulative incidence of death from any cause or hospitalization (Phases 2 and 3)</measure>
+    <time_frame>Day 0 thru Week 24</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Oxygen saturation level (Phase 2)</measure>
+    <time_frame>Thru Day 28</time_frame>
+    <description>Measured by pulse oximeter and categorized as &lt;96% versus ≥96%</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Level of SARS-CoV-2 RNA from site-collected NP swabs (Phase 2)</measure>
+    <time_frame>Days 0, 3, 7, 14, 21 and 28</time_frame>
+    <description>Measured by AUC and above assay lower limit of quantification</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Level of SARS-CoV-2 RNA from saliva (Phase 2)</measure>
+    <time_frame>Days 0, 3, 7, 14, 21 and 28</time_frame>
+    <description>Measured by AUC and above assay lower limit of quantification</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Level of SARS-CoV-2 RNA from self-collected nasal swabs (Phase 2)</measure>
+    <time_frame>Daily at Days 0-14, plus Days 21 and 28</time_frame>
+    <description>Measured by AUC and above assay lower limit of quantification</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Level of SARS-CoV-2 RNA (Phase 2)</measure>
+    <time_frame>Days 3, 7, 14, 21 and 28</time_frame>
+    <description>From site-collected NP swabs</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Post-treatment presence of SARS-CoV-2 RNA in saliva (Phase 2)</measure>
+    <time_frame>Days 3, 7, 14, 21 and 28</time_frame>
+    <description>Measured as detectable or undetectable</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Post-treatment level of SARS-CoV-2 RNA (Phase 2)</measure>
+    <time_frame>Days 3, 7, 14, 21 and 28</time_frame>
+    <description>Measured from saliva samples</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of new adverse event (AE) ≥ Grade 3 (Phase 3)</measure>
+    <time_frame>Thru Week 24</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Concentration of investigational agent (Phase 2 - LY3819253)</measure>
+    <time_frame>Days 0, 14, 28, Week 12, Week 24</time_frame>
+    <description>Analyses of plasma samples collected from placebo-treated participants are not planned</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Level of anti-drug antibodies (Phase 2 - LY3819253)</measure>
+    <time_frame>Days 0, 14, 28, Week 12, Week 24</time_frame>
+    <description>Analyses of plasma samples collected from placebo-treated participants are not planned</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AUC (Phase 2 - LY3819253)</measure>
+    <time_frame>Days 0, 14, 28, Week 12, Week 24</time_frame>
+    <description>Area under the concentration-time curve. Analyses of plasma samples collected from placebo-treated participants are not planned</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total body clearance (CL) (Phase 2 - LY3819253)</measure>
+    <time_frame>Days 0, 14, 28, Week 12, Week 24</time_frame>
+    <description>Analyses of plasma samples collected from placebo-treated participants are not planned</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Elimination half-life (Phase 2 - LY3819253)</measure>
+    <time_frame>Days 0, 14, 28, Week 12, Week 24</time_frame>
+    <description>T1/2. Analyses of plasma samples collected from placebo-treated participants are not planned</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cmax (Phase 2 - LY3819253)</measure>
+    <time_frame>Days 0, 14, 28, Week 12, Week 24</time_frame>
+    <description>Maximum plasma concentration of LY3819253. Analyses of samples collected from placebo-treated participants are not planned</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cmin (Phase 2 - LY3819253)</measure>
+    <time_frame>Days 0, 14, 28, Week 12, Week 24</time_frame>
+    <description>Minimum plasma concentration of LY3819253. Analyses of samples collected from placebo-treated participants are not planned</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">2000</enrollment>
+  <condition>Coronavirus</condition>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>ACTIV-2 Drug</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in this study will be randomized to receive ACTIV2 Drug or placebo</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>The placebo arm may be pooled across more than one experimental arm if multiple investigational drugs are available to be tested at the same time. If it is not possible to use matching placebo over more than one experimental arm, additional placebo arms will be included in the study</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>LY3819253</intervention_name>
+    <description>Administered by IV infusion</description>
+    <arm_group_label>ACTIV-2 Drug</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Commercially available 0.9% sodium chloride solution. Administered by IV infusion</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Signed informed consent.&#xD;
+&#xD;
+          -  Positive test for COVID-19 up to 7 days before participation in study.&#xD;
+&#xD;
+          -  Able to begin study treatment no later than 10 days from self-reported onset of&#xD;
+             COVID-19 related symptom(s):&#xD;
+&#xD;
+               -  fever or feeling feverish&#xD;
+&#xD;
+               -  cough&#xD;
+&#xD;
+               -  shortness of breath or difficulty breathing at rest or when active&#xD;
+&#xD;
+               -  sore throat&#xD;
+&#xD;
+               -  body pain or muscle pain/aches&#xD;
+&#xD;
+               -  fatigue&#xD;
+&#xD;
+               -  headache&#xD;
+&#xD;
+               -  chills&#xD;
+&#xD;
+               -  blocked nose/nasal congestion&#xD;
+&#xD;
+               -  runny nose&#xD;
+&#xD;
+               -  loss of taste or smell&#xD;
+&#xD;
+               -  nausea or vomiting&#xD;
+&#xD;
+               -  diarrhea&#xD;
+&#xD;
+               -  temperature ≥ 38°C (100.4°F)&#xD;
+&#xD;
+          -  One or more of the following signs/symptoms within 48 hours of participating in the&#xD;
+             study:&#xD;
+&#xD;
+               -  fever or feeling feverish&#xD;
+&#xD;
+               -  cough&#xD;
+&#xD;
+               -  shortness of breath or difficulty breathing at rest or when active&#xD;
+&#xD;
+               -  sore throat&#xD;
+&#xD;
+               -  body pain or muscle pain/aches&#xD;
+&#xD;
+               -  fatigue&#xD;
+&#xD;
+               -  headache&#xD;
+&#xD;
+               -  chills&#xD;
+&#xD;
+               -  blocked nose/nasal congestion&#xD;
+&#xD;
+               -  runny nose&#xD;
+&#xD;
+               -  loss of taste or smell&#xD;
+&#xD;
+               -  nausea or vomiting&#xD;
+&#xD;
+               -  diarrhea&#xD;
+&#xD;
+               -  temperature ≥ 38°C (100.4°F)&#xD;
+&#xD;
+          -  Oxygen levels of ≥92% when resting (measured by study staff within 48 hours of&#xD;
+             participating in the study), unless participant is receiving long-term supplementary&#xD;
+             oxygen for an underlying lung condition.&#xD;
+&#xD;
+          -  Participant must agree not to participate in another clinical trial for the treatment&#xD;
+             of COVID-19 or SARS-CoV-2 during the study period until hospitalization or 28 days&#xD;
+             after the start of the study, whichever occurs first.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  History of or current hospitalization for COVID-19.&#xD;
+&#xD;
+          -  Current need for hospitalization or immediate medical attention.&#xD;
+&#xD;
+          -  Any use of the following medications up to 30 days before participating in the study:&#xD;
+&#xD;
+               -  Hydroxychloroquine (except for long-term autoimmune diseases)&#xD;
+&#xD;
+               -  Chloroquine and/or ivermectin (unless used for parasitic infection)&#xD;
+&#xD;
+               -  Remdesivir, systemic and inhaled steroids (unless used for long-term conditions)&#xD;
+&#xD;
+               -  HIV protease inhibitors (unless used long-term for HIV infection)&#xD;
+&#xD;
+          -  Receipt of plasma from a person who recovered from COVID-19 any time before&#xD;
+             participating in the study.&#xD;
+&#xD;
+          -  Receipt of a SARS-CoV-2 vaccine any time before participating in the study.&#xD;
+&#xD;
+          -  Receipt of other investigational treatments for SARS-CoV-2 any time before&#xD;
+             participating in the study (not including drugs approved and taken for other&#xD;
+             conditions/diseases).&#xD;
+&#xD;
+          -  Receipt of systemic steroids (e.g. prednisone, dexamethasone) or inhaled steroids up&#xD;
+             to 30 days before participating in the study, unless this is a stable dose for a&#xD;
+             long-term condition.&#xD;
+&#xD;
+          -  Known allergy/sensitivity or hypersensitivity to study drug or placebo.&#xD;
+&#xD;
+          -  Any condition requiring surgery up to 7 days before participating in the study, or&#xD;
+             that is considered life threatening up to 30 days before participating in the study.&#xD;
+&#xD;
+        Other investigational drug protocol-defined inclusion/exclusion criteria may apply.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>David Smith, MD, MAS</last_name>
+    <role>Study Chair</role>
+    <affiliation>University of California, San Diego</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Pinnacle Research Group (Site 1082), 321 E 10th Street</name>
+      <address>
+        <city>Anniston</city>
+        <state>Alabama</state>
+        <zip>36207-5707</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sallie Pulliam</last_name>
+      <phone>256-241-6132</phone>
+      <email>spulliam@pinnacletrials.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Alabama at Birmingham (Site 1005), 908 20th Street South</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35294</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Charlotte Olivia Hague</last_name>
+      <phone>205-975-4285</phone>
+      <email>ohague@uabmc.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Jasper Summit Research, LLC. (Site 1056), 1280 Summit</name>
+      <address>
+        <city>Jasper</city>
+        <state>Alabama</state>
+        <zip>35501-0102</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Donna Sherer</last_name>
+      <phone>205-387-7555</phone>
+      <phone_ext>Option 3</phone_ext>
+      <email>donnas@sleepfirst.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>St. Jude Heritage Medical Group (Site 1093), 2151 N. Harbor Blvd.</name>
+      <address>
+        <city>Fullerton</city>
+        <state>California</state>
+        <zip>92835-3820</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Maria Diosadado</last_name>
+      <phone>714-992-3000</phone>
+      <phone_ext>4338</phone_ext>
+      <email>maria.diosdado@stjoe.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Atella Clinical Research (Site 1111), 5451 La Palma Avenue</name>
+      <address>
+        <city>La Palma</city>
+        <state>California</state>
+        <zip>90623</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yesenia Morales</last_name>
+      <phone>714-266-0660</phone>
+      <email>ymorales@atellaclinical.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Loma Linda University Health (Site 1110), 11374 Mountain View, Dover Bldg, Ste. C</name>
+      <address>
+        <city>Loma Linda</city>
+        <state>California</state>
+        <zip>92354</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jaclyn Lopez</last_name>
+      <phone>909-558-5830</phone>
+      <email>janlopez@llu.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Southern California (Site 1057), 1300 N Mission Rd., Rm 349</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90033-1021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Luis Mendez</last_name>
+      <phone>323-409-8283</phone>
+      <email>Imendez@usc.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>UCLA CARE Center (Site 1003), 11075 Santa Monica Blvd., Suite 100</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90035</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Samantha Fortier</last_name>
+      <phone>310-557-9640</phone>
+      <email>sfortier@mednet.ucla.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Central Valley Research, LLC (Site 1085), 400 E Orangeburg Ave., Ste. 5</name>
+      <address>
+        <city>Modesto</city>
+        <state>California</state>
+        <zip>95350-5365</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Haroon Hafeez</last_name>
+      <phone>209-918-3344</phone>
+      <email>hhafeez@centralvalleyresearch.net</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Valley Clinical Research, Inc. (Site 1059), 18433 Roscoe Blvd., Ste 210</name>
+      <address>
+        <city>Northridge</city>
+        <state>California</state>
+        <zip>91325-4138</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Monica Brown</last_name>
+      <phone>818-280-4220</phone>
+      <email>monica@valleyclinicaltrials.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of California Irvine (Site 1083), 843 Health Sciences Road</name>
+      <address>
+        <city>Orange</city>
+        <state>California</state>
+        <zip>92868</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rosie Magallon</last_name>
+      <phone>949-824-8297</phone>
+      <email>rmagallo@hs.uci.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>FOMAT Medical Research (Site 1136), 300 South A Street</name>
+      <address>
+        <city>Oxnard</city>
+        <state>California</state>
+        <zip>93030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Paola Martinez</last_name>
+      <phone>805-483-1185</phone>
+      <email>pmartinez@fomatmedical.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Eisenhower Medical Center (Site 1040), 39000 Bob Hope Drive</name>
+      <address>
+        <city>Rancho Mirage</city>
+        <state>California</state>
+        <zip>92270-3221</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Leah Lane</last_name>
+      <phone>760-834-7949</phone>
+      <email>llane@eisenhowerhealth.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of California Davis Medical Center (Site 1097), 2315 Stockton Blvd.</name>
+      <address>
+        <city>Sacramento</city>
+        <state>California</state>
+        <zip>95817-2201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Olivia Smith</last_name>
+      <phone>916-734-3339</phone>
+      <email>ojsmith@ucdavis.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of California San Diego (Site 1002), 220 Dickinson Street</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Steven Hendrickx</last_name>
+      <phone>619-543-6968</phone>
+      <email>smhendrickx@health.ucsd.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Zion Medical Center (Site 1063), 4647 Zion Avenue</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92120</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Diana Banales</last_name>
+      <phone>619-821-5716</phone>
+      <email>Diana.b.banales@kp.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of California San Francisco (Site 1009), 995 Potrero Ave., Building 80, Ward 84</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jay Dwyer</last_name>
+      <phone>415-476-4082</phone>
+      <email>jay.dwyer@ucsf.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Harbor UCLA (Site 1022), 1124 West Carson Street</name>
+      <address>
+        <city>Torrance</city>
+        <state>California</state>
+        <zip>90502</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mario Guerrero</last_name>
+      <phone>424-201-3000</phone>
+      <phone_ext>7318</phone_ext>
+      <email>mguerrero@lundquist.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Colorado (Site 1007), 12401 East 17th Avenue</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Suzanne Fiorillo</last_name>
+      <phone>303-724-5931</phone>
+      <email>Suzanne.Fiorillo@cuanschutz.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Bradenton Research Center Inc. (Site 1109), 3924 9th Ave. W</name>
+      <address>
+        <city>Bradenton</city>
+        <state>Florida</state>
+        <zip>34205-1704</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michelle Scott</last_name>
+      <phone>941-708-0005</phone>
+      <email>michellescott@bradentonresearch.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Synergy Healthcare (Site 1099), 300 Riverside Drive E., Ste. 1350</name>
+      <address>
+        <city>Bradenton</city>
+        <state>Florida</state>
+        <zip>34208-1004</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michele Shatz</last_name>
+      <phone>941-896-4948</phone>
+      <email>mshatz@synergyhealthcorp.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Midland Florida Clinical Research Center LLC (Site 1130), 665 Peachwood Drive</name>
+      <address>
+        <city>DeLand</city>
+        <state>Florida</state>
+        <zip>32720-0920</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stacey-Ann Villaruel</last_name>
+      <phone>386-279-6181</phone>
+      <email>staceyann.mfcrc@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Universal Axon Clinical Research (Site 1077), 3650 NW 82nd Ave.</name>
+      <address>
+        <city>Doral</city>
+        <state>Florida</state>
+        <zip>33166-6658</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ricardo Vega</last_name>
+      <phone>305-677-9267</phone>
+      <email>rvega@uaclinical.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Holy Cross Health (Site 1072), 4725 North Federal Highway</name>
+      <address>
+        <city>Fort Lauderdale</city>
+        <state>Florida</state>
+        <zip>33308</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michelle Gallo</last_name>
+      <phone>954-267-6793</phone>
+      <email>michelle.gallo@holy-cross.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>NW FL Clinical Research Group, LLC. (Site 1046), 400 Gulf Breeze Parkway</name>
+      <address>
+        <city>Gulf Breeze</city>
+        <state>Florida</state>
+        <zip>32561</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Shezsay Colbert</last_name>
+      <phone>850-934-1299</phone>
+      <email>scolbert@nwflcrg.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>AGA Clinical Trials (Site 1026), 900 West 49th Street</name>
+      <address>
+        <city>Hialeah</city>
+        <state>Florida</state>
+        <zip>33012</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Roberto Aguirre</last_name>
+      <phone>305-819-6990</phone>
+      <phone_ext>8004</phone_ext>
+      <email>raguirre@agaclinicaltrials.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Florida Jacksonville (Site 1039), 655 West 8th Street</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32209</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mariana Martins</last_name>
+      <phone>904-244-3796</phone>
+      <email>mariana.martins@jax.ufl.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>QC Trials (Site 1117), 300 W. 41st Street, Ste. 203</name>
+      <address>
+        <city>Miami Beach</city>
+        <state>Florida</state>
+        <zip>33140-3627</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Christopher Duke</last_name>
+      <phone>786-774-1008</phone>
+      <email>christopher@qctrials.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Lakes Research (Site 1037), 5801 NW 151 Street</name>
+      <address>
+        <city>Miami Lakes</city>
+        <state>Florida</state>
+        <zip>33014</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yamile Sanchez</last_name>
+      <phone>786-362-5763</phone>
+      <email>ysanchez@lakesresearch.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Miami Clinical Research (Site 1089), 2400 SW 69th Ave.</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33155</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yisell Carus</last_name>
+      <phone>305-433-6496</phone>
+      <phone_ext>409</phone_ext>
+      <email>ycarus@miamiclinicalresearch.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>IMIC, Inc. (Site 1141), 18320 Franjo Rd</name>
+      <address>
+        <city>Palmetto Bay</city>
+        <state>Florida</state>
+        <zip>33157-5503</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Adriana Tijerino</last_name>
+      <phone>786-310-7477</phone>
+      <email>adriana@aktamedika.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Tampa General Hospital Family Care Center Healthpark (Site 1088), 5802 N. 30th Street</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33610-1469</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kyle Cesareo</last_name>
+      <phone>919-390-8457</phone>
+      <email>kcesareo@usf.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>AIDS Research and Treatment Center of the Treasure Coast (Site 1095), 981 37th Place</name>
+      <address>
+        <city>Vero Beach</city>
+        <state>Florida</state>
+        <zip>32960</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mona White</last_name>
+      <phone>772-978-9556</phone>
+      <phone_ext>280</phone_ext>
+      <email>mwhite@verotcid.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Triple O Research Institute PA (Site 1121), 2580 Metrocentre Blvd., Ste. 4</name>
+      <address>
+        <city>West Palm Beach</city>
+        <state>Florida</state>
+        <zip>33407-3100</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Praewpailin Rich</last_name>
+      <phone>561-855-7871</phone>
+      <email>prich@tripleoresearch.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>The Ponce de Leon Center (site 1015), 341 Ponce De Leon Avenue Northeast</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30308</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ericka Patrick</last_name>
+      <phone>404-616-6313</phone>
+      <email>erpatri@emory.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Agile Clinical Rsearch Trials, LLC (Site 1051), 750 Hammond Drive</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30328</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Shauna Marshall</last_name>
+      <phone>770-573-4109</phone>
+      <email>marshall@agilecrt.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>IACT Health (Site 1035), 800 Talbotton Road</name>
+      <address>
+        <city>Columbus</city>
+        <state>Georgia</state>
+        <zip>31904</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>James Cutts</last_name>
+      <phone>706-321-0495</phone>
+      <email>jcutts@iachealth.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Snake River Research, PLLC (Site 1120), 2900 Cortez Ave.</name>
+      <address>
+        <city>Idaho Falls</city>
+        <state>Idaho</state>
+        <zip>83404-7554</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jennifer Morrison</last_name>
+      <phone>208-535-8404</phone>
+      <email>jmorrison@snakerr.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Metro Infectious Disease Consultants (Site 1106), 901 McClintock Dr., Ste. 201</name>
+      <address>
+        <city>Burr Ridge</city>
+        <state>Illinois</state>
+        <zip>60527-0872</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nicholas Van Hise</last_name>
+      <phone>630-655-6952</phone>
+      <email>nvanhise@innovativeventures.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Chicago Clinical Research Institute (Site 1132), 611 W. Roosevelt Rd.</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60607-4911</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jovita Rodrigues</last_name>
+      <phone>312-791-3241</phone>
+      <email>jovita@ccrii.us</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Northwestern University (Site 1025), 645 North Michigan Ave</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Baiba Berzins</last_name>
+      <phone>312-695-5012</phone>
+      <email>baiba@northwestern.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Rush University Medical Center (Site 1017), 600 Paulina St.</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Joan Swiatek</last_name>
+      <phone>312-942-6017</phone>
+      <email>Joan_Swiatek@rush.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Chicago (Site 1064), 5841 S. Maryland Ave.</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60637-1443</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jill Stetkevych</last_name>
+      <phone>773-702-1665</phone>
+      <email>jstetkevych@medicine.bsd.uchicago.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Great Lakes Clinical Trials (Site 1049), 5149 N. Ashland Ave.</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60640-2831</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Amber Holst</last_name>
+      <phone>773-275-3500</phone>
+      <email>aholst@greatlakesclinicaltrials.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Kansas Medical Center (Site 1042), 3901 Rainbow Boulevard</name>
+      <address>
+        <city>Kansas City</city>
+        <state>Kansas</state>
+        <zip>66160</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Luigi Boccardi</last_name>
+      <phone>913-588-4022</phone>
+      <email>lboccardi@kumc.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>MedPharmics (Site 1065), 3800 Houma Blvd.</name>
+      <address>
+        <city>Metairie</city>
+        <state>Louisiana</state>
+        <zip>70006</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nicole Guttierrez</last_name>
+      <phone>504-304-7083</phone>
+      <email>nicoleguttierrez@medpharmics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>New Orleans Adolescent Trials Unit (Site 1028), 1440 Canal St., Suite 904</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70112-2703</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Emily Callegari</last_name>
+      <phone>504-988-1467</phone>
+      <email>ecallegari@tulane.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Johns Hopkins University (Site 1006), 1830 East Monument Street</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Becky Becker</last_name>
+      <phone>410-614-4036</phone>
+      <email>Rbecke22@jhmi.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital (Site 1016), 55 Fruit Street</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Theresa Flynn</last_name>
+      <phone>617-724-0072</phone>
+      <email>tflynn@partners.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Hospital at Gulfport (Site 1104), 4500 13th Street</name>
+      <address>
+        <city>Gulfport</city>
+        <state>Mississippi</state>
+        <zip>39501</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kristian Spear</last_name>
+      <phone>228-365-9516</phone>
+      <email>kspear@mhg.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>MedPharmics, LLC. (Site 1032), 15190 Community Rd.</name>
+      <address>
+        <city>Gulfport</city>
+        <state>Mississippi</state>
+        <zip>39503</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Megan Hill</last_name>
+      <phone>228-206-1283</phone>
+      <phone_ext>201</phone_ext>
+      <email>meganhill@medpharmics.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hannibal Clinic (Site 1129), 100 Medical Drive</name>
+      <address>
+        <city>Hannibal</city>
+        <state>Missouri</state>
+        <zip>63401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kimber Steinbeck</last_name>
+      <phone>573-231-3261</phone>
+      <email>ksteinbeck@hannibalclinic.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Washington University School of Medicine (Site 1008), 620 South Taylor, Suite 200</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lisa Kessels</last_name>
+      <phone>314-747-1096</phone>
+      <email>lkessels@wustl.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Bozeman Health Deaconess Hospital (Site 1115), 931 Highland Blvd, Ste. 3103</name>
+      <address>
+        <city>Bozeman</city>
+        <state>Montana</state>
+        <zip>59715-6911</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Adam Gott</last_name>
+      <phone>406-414-3745</phone>
+      <email>agott@bozemanhealth.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Mercury Street Medical Group (Site 1074), 300 W. Mercury St.</name>
+      <address>
+        <city>Butte</city>
+        <state>Montana</state>
+        <zip>59701-1652</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michelle Harvey</last_name>
+      <phone>406-723-1375</phone>
+      <email>michelle.violette@mercurystmed.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Quality Clinical Research (Site 1112), 10040 Regency Circle</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jennifer Larsen</last_name>
+      <phone>402-934-0044</phone>
+      <email>jenny@qcromaha.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Las Vegas Medical Research (Site 1048), 8530 W. Sunset Rd.</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89113-2215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tina Martinez</last_name>
+      <phone>702-750-0222</phone>
+      <email>tinam@lvmedresearch.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Lincoln Hospital (Site 1092), 249 East 149th Street</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10451</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Maryanne Guerrero</last_name>
+      <phone>718-579-6067</phone>
+      <email>maryanne.guerrero@nychhc.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Jacobi Medical Center (Site 1105), 1400 Pelham Parkway South</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10461</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Olga Diaz</last_name>
+      <phone>718-918-5349</phone>
+      <email>olga.diaz@nbhn.net</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Flushing Hospital Medical Center (Site 1067), 4500 Parsons Blvd</name>
+      <address>
+        <city>Flushing</city>
+        <state>New York</state>
+        <zip>11355-2205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kelly Cervellione</last_name>
+      <phone>718-670-3012</phone>
+      <email>kcervell@jhmc.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Jamaica Hospital Medical Center (Site 1066), 8900 Van Wyck Expressway</name>
+      <address>
+        <city>Jamaica</city>
+        <state>New York</state>
+        <zip>11418-2832</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tofura Ullah</last_name>
+      <phone>718-206-5828</phone>
+      <email>tullah@jhmc.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Columbia Partnership for Prevention and Control of HIV/AIDS CTU (Site 1019), Columbia University Irving Medical Center, Department of Medicine - Division of Infectious Diseases, 180 Fort Washington Avenue, HP6 - Rm 604</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Bret Gray</last_name>
+      <phone>212-305-1570</phone>
+      <email>bg2168@cumc.columbia.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Cornell Clinical Trials Unit (Site 1011), NewYork-Presbyterian Hospital-Weill Cornell Medical Center, 525 East 68th Street</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Valery Hughes</last_name>
+      <phone>646-246-8327</phone>
+      <email>vah9001@med.cornell.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Canton-Potsdam Hospital (Site 1076), 50 Leroy Street</name>
+      <address>
+        <city>Potsdam</city>
+        <state>New York</state>
+        <zip>13676-1786</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Daniel Jaremczuk</last_name>
+      <phone>315-261-6013</phone>
+      <email>djaremczuk@cphospital.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Rochester (Site 1010), 601 Elmwood Ave</name>
+      <address>
+        <city>Rochester</city>
+        <state>New York</state>
+        <zip>14642</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Christine Hurley</last_name>
+      <phone>585-273-5636</phone>
+      <email>christine_hurley@urmc.rochester.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>SUNY Stony Brook NICHD (Site 1094), HSC L-02, Rm. 142 C</name>
+      <address>
+        <city>Stony Brook</city>
+        <state>New York</state>
+        <zip>11794</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Barsha Chakraborty</last_name>
+      <phone>631-444-7692</phone>
+      <email>barsha.chakraborty@stonybrookmedicine.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of North Carolina at Chapel Hill (Site 1001), 130 Mason Farm Rd., Bioinformatics Bldg, 2nd Floor</name>
+      <address>
+        <city>Chapel Hill</city>
+        <state>North Carolina</state>
+        <zip>27514</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Becky Straub</last_name>
+      <phone>919-843-9975</phone>
+      <email>becky_straub@med.unc.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Duke University Medical Center (Site 1041), 40 Duke Medicine Circle</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stephen Gazda</last_name>
+      <phone>570-817-0226</phone>
+      <email>stephen.gazda@duke.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Wake Forest University Health Sciences (Site 1038), 1 Medical Center Boulevard</name>
+      <address>
+        <city>Winston-Salem</city>
+        <state>North Carolina</state>
+        <zip>27157-0001</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Elizabeth Zieser-Misenheimer</last_name>
+      <phone>336-716-5685</phone>
+      <email>ezieserm@wakehealth.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Sanford Health (Site 1084), 801 Broadway N</name>
+      <address>
+        <city>Fargo</city>
+        <state>North Dakota</state>
+        <zip>58102-3641</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Breanna Kompelien</last_name>
+      <phone>701-234-6063</phone>
+      <email>breanna.kompelien@sanfordhealth.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>The Christ Hospital (Site 1119), 2123 Auburn Avenue</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45219</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Roxanne Robertson</last_name>
+      <phone>513-585-1777</phone>
+      <email>roxanne.robertson@thechristhospital.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Case Western Reserve University (Site 1033), 2061 Cornell Road</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44106-5083</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jane Baum</last_name>
+      <phone>216-844-2546</phone>
+      <email>baum.jane@clevelandactu.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ohio State University Medical Center (Site 1020), 480 Medical Center Drive</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kathy Watson</last_name>
+      <phone>614-293-8112</phone>
+      <email>kathy.watson@osumc.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Cincinnati CRS (Site 1004), University of Cincinnati, University Hospital, 200 Albert Sabin Way</name>
+      <address>
+        <city>Ohio City</city>
+        <state>Ohio</state>
+        <zip>45219</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sharon Kohrs</last_name>
+      <phone>513-584-6383</phone>
+      <email>kohrssd@ucmail.uc.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>STAT Research (Site 1107), 66 Remick Blvd.</name>
+      <address>
+        <city>Springboro</city>
+        <state>Ohio</state>
+        <zip>45066-9168</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Megan Heffner</last_name>
+      <phone>937-223-4229</phone>
+      <email>Megan@statresearch.net</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ascension St. John Clinical Research Institute (Site 1090), 1725 East 19th Street</name>
+      <address>
+        <city>Tulsa</city>
+        <state>Oklahoma</state>
+        <zip>74104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stacie Merritt</last_name>
+      <phone>918-744-3426</phone>
+      <email>stacie.merritt@ascension.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente Center for Health Research (Site 1079), 3800 N. Interstate Ave.</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97227-1110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Richard Mularski</last_name>
+      <phone>503-335-2420</phone>
+      <email>ACTIV2study@kpchr.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Doylestown Hospital (Site 1122), 595 W State Street</name>
+      <address>
+        <city>Doylestown</city>
+        <state>Pennsylvania</state>
+        <zip>18901-2554</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Teresa Mannion</last_name>
+      <phone>215-345-2842</phone>
+      <email>tmannion@dh.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Pennsylvania (Site 1031), 3400 Spruce Street</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Miranda Mastellone</last_name>
+      <phone>267-819-8608</phone>
+      <email>miranda.mastellone@pennmedicine.upenn.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>The University of Pittsburgh (Site 1018), 3471 5th Ave.</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15213-3215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Renee Weinman</last_name>
+      <phone>412-383-1748</phone>
+      <email>drw38@pitt.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Medtrial, LLC (Site 1134), 1718 Saint Julian Pl., Ste. 2</name>
+      <address>
+        <city>Columbia</city>
+        <state>South Carolina</state>
+        <zip>29204-2410</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kaushlendra Tripathi</last_name>
+      <phone>803-254-4295</phone>
+      <email>kt@medtrialsc.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Sanford USD Medical Center (Site 1078), 1305 W. 18th St.</name>
+      <address>
+        <city>Sioux Falls</city>
+        <state>South Dakota</state>
+        <zip>57105-0401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sara Onnen</last_name>
+      <phone>605-328-1374</phone>
+      <email>sara.onnen@sanfordhealth.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Vanderbilt Therapeutics Clinical Research (Site 1013), Vanderbilt Health One Hundred Oaks, 719 Thompson Ln., Ste 47183</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37204-4718</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Beverly Woddward</last_name>
+      <phone>615-936-8516</phone>
+      <email>beverly.o.woodward@vumc.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Hope Foundation Inc. (Site 1100), 6800 West Loop Street, Ste. 560</name>
+      <address>
+        <city>Bellaire</city>
+        <state>Texas</state>
+        <zip>77401-4516</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kenneth Degazon</last_name>
+      <phone>832-494-1253</phone>
+      <email>shfkenneth1@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>PanAmerican Clinical Research, LLC. (Site 1069), 1416 Palm Blvd.</name>
+      <address>
+        <city>Brownsville</city>
+        <state>Texas</state>
+        <zip>78520-7256</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Luis Enrique Magana</last_name>
+      <phone>956-357-0984</phone>
+      <email>lmagana@panamclinicalresearch.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Sealy Institute for Vaccine Sciences Clincial Trials Program (Site 1044), 400 Harborside Drive</name>
+      <address>
+        <city>Galveston</city>
+        <state>Texas</state>
+        <zip>77555-0001</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gerianne Casey</last_name>
+      <phone>409-772-5278</phone>
+      <email>gecasey@utmb.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Lyndon B. Johnson Hospital (Site 1014), 5656 Kelley Street</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77026-1967</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Damian A Chiandussi</last_name>
+      <phone>713-500-5512</phone>
+      <email>damian.a.chiandussi@uth.tmc.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Texas Health Science Center at Houston (Site 1055), 6431 Fannin Street, Ste. 2.112</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030-1501</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mehriban Mammadova</last_name>
+      <phone>713-500-6761</phone>
+      <email>mehriban.mammadova@uth.tmc.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Dynamic Medical Research Group (Site 1081), 8314 Southwest Fwy</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77074-1603</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Chioma Uzor</last_name>
+      <phone>832-308-8851</phone>
+      <email>clinicaltrials@dynamicmedresearch.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>SMS Clincial Research, LLC. (Site 1060), 1210 N. Galloway Ave.</name>
+      <address>
+        <city>Mesquite</city>
+        <state>Texas</state>
+        <zip>75149-2438</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Prisilla Fajardo</last_name>
+      <phone>972-216-5152</phone>
+      <email>pfajardo@smsclinicalresearch.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Inova Fairfax Medical Campus (Site 1029), 3300 Gallows Road</name>
+      <address>
+        <city>Falls Church</city>
+        <state>Virginia</state>
+        <zip>22042-3307</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Wendy Sheaffer</last_name>
+      <phone>703-776-2018</phone>
+      <email>wendy.sheaffer@inova.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>EvergreenHealth (Site 1080), 12040 NE 128th Street, Ste MS-77</name>
+      <address>
+        <city>Kirkland</city>
+        <state>Washington</state>
+        <zip>98034-3013</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ali Mufrej</last_name>
+      <phone>452-899-5362</phone>
+      <email>aamufrej@evergreenhealthcare.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Washington ACTU (Site 1012), Harborview Medical Center, 325 9th Ave.</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Chris Jonsson</last_name>
+      <phone>206-744-8886</phone>
+      <email>cjonsson@uw.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Medical College of Wisconsin, Inc. (Site 1036), 8701 Watertown Plank Road</name>
+      <address>
+        <city>Milwaukee</city>
+        <state>Wisconsin</state>
+        <zip>53226</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sonija Parker</last_name>
+      <phone>414-955-0492</phone>
+      <email>smparker@mcw.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Puerto Rico AIDS Clinical Trials Unit (Site 1024), Proyecto ACTU Biomedical Building II</name>
+      <address>
+        <city>San Juan</city>
+        <zip>00935</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marielly López-Rivera</last_name>
+      <phone>787-767-9192</phone>
+      <email>marielly.lopez@upr.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Puerto Rico</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.fda.gov/Safety/MedWatch/SafetyInformation/default.htm</url>
+    <description>FDA Safety Alerts and Recalls</description>
+  </link>
+  <link>
+    <url>https://www.cdc.gov/coronavirus/2019-nCoV/index.html</url>
+    <description>CDC (Centers for Disease Control and Prevention): Coronavirus (COVID-19) website</description>
+  </link>
+  <link>
+    <url>https://www.niaid.nih.gov/clinical-trials/participant-guide</url>
+    <description>A Participant's Guide to Clinical Trials (NIAID)</description>
+  </link>
+  <link>
+    <url>https://www.niaid.nih.gov/clinical-trials/find-a-clinical-trial</url>
+    <description>Find a Clinical Trial (NIAID)</description>
+  </link>
+  <link>
+    <url>https://www.niaid.nih.gov/clinical-trials</url>
+    <description>Clinical Trials at NIAID</description>
+  </link>
+  <link>
+    <url>https://www.niaid.nih.gov/</url>
+    <description>National Institute for Allergy and Infectious Diseases (NIAID)</description>
+  </link>
+  <link>
+    <url>https://www.covid19treatmentguidelines.nih.gov/</url>
+    <description>NIH COVID-19 treatment guidelines</description>
+  </link>
+  <link>
+    <url>https://www.who.int/emergencies/diseases/novel-coronavirus-2019/</url>
+    <description>WHO COVID-19 treatment guidelines</description>
+  </link>
+  <link>
+    <url>https://www.nih.gov/research-training/medical-research-initiatives/activ</url>
+    <description>NIH: Accelerating COVID-19 Therapeutic Interventions and Vaccines (ACTIV)</description>
+  </link>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>August 17, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 18, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 19, 2020</study_first_posted>
+  <last_update_submitted>January 15, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 15, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 20, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Coronavirus</keyword>
+  <keyword>COVID 19</keyword>
+  <keyword>Coronaviridae Infections</keyword>
+  <keyword>Coronavirus Infections</keyword>
+  <keyword>RNA Virus Infections</keyword>
+  <keyword>Virus Diseases</keyword>
+  <keyword>Nidovirales Infections</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>SARS Coronavirus</keyword>
+  <keyword>ACTIV-2</keyword>
+  <keyword>ACTIV2</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

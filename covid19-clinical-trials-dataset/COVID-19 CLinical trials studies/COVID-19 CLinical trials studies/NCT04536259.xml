@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4787">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04536259</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BSREC 110/19-20</org_study_id>
+    <nct_id>NCT04536259</nct_id>
+  </id_info>
+  <brief_title>Assessing People's Hospital Outpatient Appointment Preferences in the United Kingdom</brief_title>
+  <official_title>Assessing People's Hospital Outpatient Appointment Preferences in the United Kingdom</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Warwick</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Warwick</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The sustainability of the United Kingdom's National Health Service's (NHS) is threatened&#xD;
+      immediately by Covid-19 and continually by an increasing prevalence of long-conditions that&#xD;
+      cannot be cured but can be maintained. Shifting traditional face-to-face outpatient&#xD;
+      appointments to remote video consultations may help the NHS continue to serve patients&#xD;
+      efficiently. While much research has examined healthcare providers' attitudes and beliefs&#xD;
+      about remote video consultations, less has attempted to understand how NHS service providers&#xD;
+      should invite patients to attend them. The present study examines how the framing of an&#xD;
+      invitation to attend a hospital outpatient appointment by video influences the proportion of&#xD;
+      people who agree to attend by video. It also explores some of the barriers and facilitators&#xD;
+      people may experience to attending appointments by video across diagnostic complexities and&#xD;
+      age groups. The results of this study should help hospitals better present patients with the&#xD;
+      option to attend video consultations where appropriate, and provide support to mitigate&#xD;
+      common barriers to people's willingness to give video consultations a go.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">September 11, 2020</start_date>
+  <completion_date type="Actual">October 31, 2020</completion_date>
+  <primary_completion_date type="Actual">October 31, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Consenting participants be randomly assigned to one of three groups in a 1:1:1 fashion. Each group will be asked to imagine receiving an invitation to attend a hospital outpatient appointment by video or in-person. In the first group, the proposed attendance mode will be by video. In the second group, the proposed attendance mode will be in-person. In the third group, participants will simply be asked to select which mode of attendance they prefer: video or in-person.</intervention_model_description>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Response to the outpatient invitation</measure>
+    <time_frame>One day</time_frame>
+    <description>Participants responses will indicate whether they would prefer a video or in-person appointment.</description>
+  </primary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">1481</enrollment>
+  <condition>Hospital Outpatient Clinics</condition>
+  <condition>Chronic Disease</condition>
+  <arm_group>
+    <arm_group_label>Video Default</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The case and response options participants in this group will be asked to consider is provided below.&#xD;
+Imagine that a hospital clinician you have been seeing for over a year tells you that that upon reviewing your patient notes they would like you to attend your next consultation by video.&#xD;
+Consider each of the response options below, and select the one that best describes how you would respond to your clinician.&#xD;
+A) Yes, I would be happy to attend a video consultation. B) If possible, I would rather attend the appointment in person.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>In-Person Default</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The case and response options participants in this group will be asked to consider is provided below.&#xD;
+Imagine that a hospital clinician you have been seeing for over a year tells you that that upon reviewing your patient notes they would like you to attend your next consultation in person.&#xD;
+Consider each of the response options below, and select the one that best describes how you would respond to your clinician.&#xD;
+A) Yes, I would be happy to attend an in-person consultation. B) If possible, I would rather attend the appointment by video.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Active Choice</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The case and response options participants in this group will be asked to consider is provided below.&#xD;
+Imagine that a hospital clinician you have been seeing for over a year tells you that that upon reviewing your patient notes they would like you to attend a consultation by video or in person.&#xD;
+Consider each of the response options below, and select the one that best describes how you would respond to your clinician.&#xD;
+A) I would prefer a video consultation. B) I would prefer an in-person consultation.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Video Default</intervention_name>
+    <description>The case and response options participants in this group will be asked to consider is provided below.&#xD;
+Imagine that a hospital clinician you have been seeing for over a year tells you that that upon reviewing your patient notes they would like you to attend your next consultation by video.&#xD;
+Consider each of the response options below, and select the one that best describes how you would respond to your clinician.&#xD;
+A) Yes, I would be happy to attend a video consultation. B) If possible, I would rather attend the appointment in person.</description>
+    <arm_group_label>Video Default</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>In-Person Default</intervention_name>
+    <description>The case and response options participants in this group will be asked to consider is provided below.&#xD;
+Imagine that a hospital clinician you have been seeing for over a year tells you that that upon reviewing your patient notes they would like you to attend your next consultation in person.&#xD;
+Consider each of the response options below, and select the one that best describes how you would respond to your clinician.&#xD;
+A) Yes, I would be happy to attend an in-person consultation. B) If possible, I would rather attend the appointment by video.</description>
+    <arm_group_label>In-Person Default</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Active Choice</intervention_name>
+    <description>The case and response options participants in this group will be asked to consider is provided below.&#xD;
+Imagine that a hospital clinician you have been seeing for over a year tells you that that upon reviewing your patient notes they would like you to attend a consultation by video or in person.&#xD;
+Consider each of the response options below, and select the one that best describes how you would respond to your clinician.&#xD;
+A) I would prefer a video consultation. B) I would prefer an in-person consultation.</description>
+    <arm_group_label>Active Choice</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        All participants will:&#xD;
+&#xD;
+          -  be 18 years old or older;&#xD;
+&#xD;
+          -  be resident in the United Kingdom; and&#xD;
+&#xD;
+          -  indicate having been diagnosed with a chronic diseases such as diabetes, heart&#xD;
+             disease, stroke etc.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  be less than 18 years old;&#xD;
+&#xD;
+          -  not be resident in the United Kingdom; and&#xD;
+&#xD;
+          -  not indicate having been diagnosed with a chronic diseases such as diabetes, heart&#xD;
+             disease, stroke etc.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Kelly A Schmidtke, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Warwick</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Kelly Schmidtke</name>
+      <address>
+        <city>Coventry</city>
+        <state>West Midlands</state>
+        <zip>CV4 7HL</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>August 24, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 28, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 2, 2020</study_first_posted>
+  <last_update_submitted>November 3, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 3, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 5, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Warwick</investigator_affiliation>
+    <investigator_full_name>Kelly Ann Schmidtke</investigator_full_name>
+    <investigator_title>Assistant Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Chronic Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>The anonymised individual level data may be made available upon reasonable request within 10 years of the project being published in an academic jourhnal or may be published with an article if required by the journal.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

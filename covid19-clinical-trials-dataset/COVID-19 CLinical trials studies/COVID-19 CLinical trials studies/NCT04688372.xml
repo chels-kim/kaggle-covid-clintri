@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1981">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04688372</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BD022386</org_study_id>
+    <nct_id>NCT04688372</nct_id>
+  </id_info>
+  <brief_title>Hospital COVID-19 Surge and Associated Mortality Risk</brief_title>
+  <official_title>Association Between Hospital Case Burden and Mortality Risk Among Patients Hospitalized With COVID-19: A Retrospective Cohort Study of U.S. Hospitals</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institutes of Health Clinical Center (CC)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Emory University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Harvard Medical School</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Institutes of Health Clinical Center (CC)</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A retrospective cohort study will be conducted using a large administrative database of U.S.&#xD;
+      hospitals to understand the volume-outcome relationship among patients hospitalized with&#xD;
+      COVID-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Patients with critical illness and/or respiratory failure tend to display better outcomes at&#xD;
+      hospitals that manage higher volumes of these patients. However, during a COVID-19 pandemic,&#xD;
+      this relationship may have been altered by the strain of higher patient volume on resources&#xD;
+      and personnel. A retrospective cohort study will be conducted using a large administrative&#xD;
+      database to understand the volume-outcome relationship among patients hospitalized with&#xD;
+      COVID-19. Understanding the COVID-19 volume-outcome relationship in U.S. hospitals may help&#xD;
+      identify the optimal care setting and transfer thresholds, and inform triage policies and&#xD;
+      risk-adjustment.&#xD;
+&#xD;
+      The Premier Healthcare Database (PHD), an all-payer administrative data repository covering&#xD;
+      approximately 20% of U.S. hospitalizations from 48 states will be queried for adult (18+&#xD;
+      years) in-patient encounters that recorded diagnosis coding for COVID-19 March 1st through&#xD;
+      August 31st, 2020 at continuously-reporting hospitals. Hospitals with &lt;15 COVID-19 encounters&#xD;
+      over the study period will be excluded from the primary cohort to preserve statistical&#xD;
+      reliability.&#xD;
+&#xD;
+      A surge index will be calculated for each hospital month that incorporates&#xD;
+      care-complexity-weighted COVID-19 case burden and will be normalized for nominal (2019) bed&#xD;
+      capacity and non-COVID-19 case burden and will represent the primary covariate. Hospital&#xD;
+      months will be stratified by the percentile of the surge index (e.g. &lt;50th, 50-75th, 75-90th,&#xD;
+      90-95th and ≥95th percentile).&#xD;
+&#xD;
+      The impact of COVID-19-case burden (surge index) on the risk-adjusted odds ratio (aOR) of&#xD;
+      mortality (or discharge to hospice) among overall COVID-19 cohorts will be determined using a&#xD;
+      hierarchical generalized linear mixed model controlling for case-mix, treatment-related,&#xD;
+      time-varying and other hospital-level factors. Variables will be selected based on their&#xD;
+      representing &quot;baseline&quot; status upon presentation to the hospital to minimize effect of&#xD;
+      mediators.&#xD;
+&#xD;
+      Variables for case mix adjustment: age, gender, race/ethnicity, comorbidity burden, insurance&#xD;
+      status, admission source and acuity, acute organ failure score and code status&#xD;
+      present-on-admission, use of pharmacologic agents (Remdesivir, corticosteroids,&#xD;
+      hydroxychloroquine and azithromycin), severity of hypoxia (acute respiratory failure codes,&#xD;
+      need for non invasive positive pressure ventilation, need for invasive mechanical&#xD;
+      ventilation), vasopressor use within two days of admission respectively.&#xD;
+&#xD;
+      Variables for temporal and hospital-level adjustment: hospital teaching status, urbanicity,&#xD;
+      geographic region, bed capacity, hospital proportion of Medicaid/uninsured admissions,&#xD;
+      proportion of COVID-19 patients intubated within 2 days of admission, hospital's technologic&#xD;
+      index (stratified by availability of extracorporeal membrane oxygenation, more than one ICU&#xD;
+      and continuous renal replacement therapy), hospital availability of Remdesivir, attending&#xD;
+      physician to patient ratio, pre-COVID-19 mechanical ventilation volume, proportion of overall&#xD;
+      admits tested for COVID-19 and admission month (1st vs 2nd wave).&#xD;
+&#xD;
+      Effect modification by (1st vs. 2nd ) pandemic wave, the previous month's surge index and&#xD;
+      rate of acute hospital transfers and/or tracheotomies will assessed using interaction terms.&#xD;
+      Sensitivity analyses will be performed using alternative iterations/strata of the surge&#xD;
+      index, excluding fewer patients for statistical reliability, models with and without&#xD;
+      treatment-related variables and using Elixhauser comorbidity index instead of US Centers for&#xD;
+      Disease Control and Prevention-defined poor prognostic underlying conditions in COVID-19 to&#xD;
+      test robustness of results. Analyses will be repeated using in-hospital mortality (without&#xD;
+      reported discharges to hospice). The magnitude of an unmeasured confounder that would be&#xD;
+      necessary to alter the direction of statistically significant findings will be assessed. More&#xD;
+      selective subgroups of patients in ICU and mechanical ventilation will not be used as a&#xD;
+      primary study population given the potentially dynamic nature of admission and intubation&#xD;
+      criteria over the course of the pandemic and its relationship to volume.&#xD;
+&#xD;
+      Depending on availability at the time of analysis, an de-identified curated electronic health&#xD;
+      record-based dataset will be used for clinical validation of select variables in&#xD;
+      administrative data (e.g. reliability of respiratory failure codes in representing patients&#xD;
+      requiring high-flow oxygen alone i.e. not non-invasive or invasive mechanical ventilation.)&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">October 1, 2020</start_date>
+  <completion_date type="Anticipated">February 15, 2021</completion_date>
+  <primary_completion_date type="Anticipated">February 15, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>In-hospital mortality or discharge to hospice</measure>
+    <time_frame>From time of admission to death during the hospitalization or discharge to hospice</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>In-hospital mortality</measure>
+    <time_frame>From time of admission to death during the hospitalization</time_frame>
+    <description>(without reported discharges to hospice)</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">100000</enrollment>
+  <condition>Volume Outcome Relationship Among COVID-19 Inpatients in US Hospitals</condition>
+  <arm_group>
+    <arm_group_label>Inpatient encounters with COVID-19 present-on-admission</arm_group_label>
+    <description>See Study description above</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Surge Index</intervention_name>
+    <description>See study description above</description>
+    <arm_group_label>Inpatient encounters with COVID-19 present-on-admission</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        See study description&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  See study description&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  See study description&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Sameer S Kadri, MD, MS</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>National Institutes of Health, Clinical</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>National Institutes of Health Clinical Center (primary center conducting large database study)</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20892</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>December 28, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 28, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 30, 2020</study_first_posted>
+  <last_update_submitted>February 1, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 1, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 2, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>surge</keyword>
+  <keyword>volume</keyword>
+  <keyword>mortality</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>coronavirus</keyword>
+  <keyword>hospital</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3224">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04627233</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IR.SBMU.REC.1399.023</org_study_id>
+    <nct_id>NCT04627233</nct_id>
+  </id_info>
+  <brief_title>Ezrin Peptide (HEP-1) for Treatment of Coronavirus Disease (COVID-19) Infection</brief_title>
+  <official_title>The Clinical Trial of Application of Ezrin Peptide (HEP-1) for Treatment of Coronavirus Disease (COVID-19) Infection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Shahid Beheshti University of Medical Sciences</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>praxisgemeinschaft für zelltherapie</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Shahid Beheshti University of Medical Sciences</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Currently, SARS-CoV-2 the novel member of the corona virus family, affecting the world&#xD;
+      leading to COVID-19 disease. It can result life-threatening condition by developing severe&#xD;
+      acute respiratory distress syndrome (ARDS). Based on previous evidence a group of patients&#xD;
+      with severe COVID-19 develop a cytokine storm syndrome which leads to hyper-inflammation lung&#xD;
+      tissue damage. Supportive care is the current management of COVID-19 is and management of&#xD;
+      ARDS as a main cause of mortality has been remained challenging. Therefore, an urgent&#xD;
+      effective treatment of COVID-19 regarding hyper-inflammation mechanism is required.&#xD;
+      Currently, development of novel anti-viral agents and vaccines are the main issues. However,&#xD;
+      it needs long time, from months to years, until suitable new medications and vaccines have&#xD;
+      been developed. An immune-modulatory tetra deca peptide (14-mer peptide) named Human Ezrin&#xD;
+      Peptide 1 (HEP-1) (trade name Gepon) was introduced by the group of Ataullakhanov in Russia.&#xD;
+      Regarding its proved anti-viral and anti-inflammatory effect, Russian authorities approved&#xD;
+      Gepon for treatment of ulcerative colitis treatment and Hepatitis -C.&#xD;
+&#xD;
+      In this regard, it seems that Hep-1 is a very safe immune-modulatory agent which can be&#xD;
+      effective in the management of COVID-19 infection without any adverse effect for the patient.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 20, 2020</start_date>
+  <completion_date type="Anticipated">April 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">March 1, 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Time to clinical improvement of disease symptoms</measure>
+    <time_frame>7 days</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Duration of Hospitalization</measure>
+    <time_frame>28 days</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Duration of artificial ventilation</measure>
+    <time_frame>28 days</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>CT Severity score</measure>
+    <time_frame>28 days</time_frame>
+    <description>Range 0-40</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CBC</measure>
+    <time_frame>28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>IL-1</measure>
+    <time_frame>28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>IL-6</measure>
+    <time_frame>28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>TNF</measure>
+    <time_frame>28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CRP</measure>
+    <time_frame>28 days</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>Covid19</condition>
+  <condition>Treatment</condition>
+  <condition>Corona Virus Infection</condition>
+  <arm_group>
+    <arm_group_label>No intervention:control group</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Experimental:Intervention group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Human Ezrin Peptide 1 (HEP1)</intervention_name>
+    <description>HEP-1 will be administrated s.c. into the lower abdominal wall&#xD;
+induction dosage: 2 mg Ezrin in 2 ml physiological saline applied s.c.,one injection every 12 hours until symptoms disappear followed by&#xD;
+maintenance dosage: 0.2 mg Ezrin in 1 ml physiological saline solution s.c 1/day for 10 days</description>
+    <arm_group_label>Experimental:Intervention group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>placebo group received normal saline in a same volume to match corresponding HEP-1 doses. Study drug was administered by qualified staff in research clinic settings; injections were given to abdominal sites on rotating basis, by anatomic quadrant.</description>
+    <arm_group_label>No intervention:control group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients hospitalized with a positive SARS-CoV-2 PCR test and presenting with one or&#xD;
+             more clear clinical symptoms of COVID-19 disease&#xD;
+&#xD;
+          -  No contraindication to HEP-1&#xD;
+&#xD;
+          -  Obtained informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients who had received any immuno-modulator therapy&#xD;
+&#xD;
+          -  Active or chronic kidney/ liver diseases,&#xD;
+&#xD;
+          -  Oncological diseases&#xD;
+&#xD;
+          -  Other viral infection including HIV and hepatitis.&#xD;
+&#xD;
+          -  Any allergic reaction or sensitivity to HEP-1&#xD;
+&#xD;
+          -  Breast feeding or pregnancy&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Shahid Beheshti University of Medical Sciences</name>
+      <address>
+        <city>Tehran</city>
+        <country>Iran, Islamic Republic of</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Farzad Ashrafi</last_name>
+      <email>farzad.ashrafi@sbmu.ac.ir</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Iran, Islamic Republic of</country>
+  </location_countries>
+  <reference>
+    <citation>Bretscher A, Reczek D, Berryman M. Ezrin: a protein requiring conformational activation to link microfilaments to the plasma membrane in the assembly of cell surface structures. J Cell Sci. 1997 Dec;110 ( Pt 24):3011-8. Review.</citation>
+    <PMID>9365271</PMID>
+  </reference>
+  <reference>
+    <citation>Pore D, Gupta N. The ezrin-radixin-moesin family of proteins in the regulation of B-cell immune response. Crit Rev Immunol. 2015;35(1):15-31. Review.</citation>
+    <PMID>25746045</PMID>
+  </reference>
+  <reference>
+    <citation>Pore D, Parameswaran N, Matsui K, Stone MB, Saotome I, McClatchey AI, Veatch SL, Gupta N. Ezrin tunes the magnitude of humoral immunity. J Immunol. 2013 Oct 15;191(8):4048-58. doi: 10.4049/jimmunol.1301315. Epub 2013 Sep 16.</citation>
+    <PMID>24043890</PMID>
+  </reference>
+  <reference>
+    <citation>Millet JK, Kien F, Cheung CY, Siu YL, Chan WL, Li H, Leung HL, Jaume M, Bruzzone R, Peiris JS, Altmeyer RM, Nal B. Ezrin interacts with the SARS coronavirus Spike protein and restrains infection at the entry stage. PLoS One. 2012;7(11):e49566. doi: 10.1371/journal.pone.0049566. Epub 2012 Nov 21.</citation>
+    <PMID>23185364</PMID>
+  </reference>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>November 6, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 11, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 13, 2020</study_first_posted>
+  <last_update_submitted>November 11, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 11, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 13, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID19</keyword>
+  <keyword>Treatment</keyword>
+  <keyword>Ezrin peptide</keyword>
+  <keyword>HEP-1</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1378">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04735744</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ParaCOV</org_study_id>
+    <nct_id>NCT04735744</nct_id>
+  </id_info>
+  <brief_title>Evaluation of Allied Healthcare in Patients Recovering From COVID-19</brief_title>
+  <acronym>ParaCOV</acronym>
+  <official_title>Evaluation of Allied Healthcare in Patients Recovering From COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Radboud University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Radboud University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      SUMMARY Rationale: Allied health professionals (i.e., dietitians, exercise therapists,&#xD;
+      physical therapists, occupational therapists and speech and language therapists) might play&#xD;
+      an important role in the recovery of patients with COVID-19 who experience limitations in&#xD;
+      daily physical functioning and participation. However, the evidence base for allied&#xD;
+      healthcare in patients with COVID-19 has yet to be established. To facilitate care for people&#xD;
+      recovering from COVID-19 and to establish this evidence base, the Dutch ministry has created&#xD;
+      a temporary regulation for primary care allied healthcare specifically for patients with&#xD;
+      COVID-19.&#xD;
+&#xD;
+      Objective: This study is setup alongside the temporary regulation and aims to evaluate the&#xD;
+      longitudinal recovery trajectories and related costs of patients who visited a primary care&#xD;
+      allied healthcare professional for the management of severe symptoms and activity limitations&#xD;
+      and/or participation restrictions related to COVID-19.&#xD;
+&#xD;
+      Study design: Prospective cohort study. Study population: 1,315 adult patients recovering&#xD;
+      from COVID-19 with severe symptoms and activity limitations and/or participation&#xD;
+      restrictions, and who are referred to a primary care allied health professional by a general&#xD;
+      practitioner or medical specialist within four months of the start of the disease will be&#xD;
+      eligible for this study.&#xD;
+&#xD;
+      Intervention (if applicable): Although the nature of this study is non-experimental, the&#xD;
+      allied healthcare intervention can be considered experimental due to the novelty of the&#xD;
+      disease.&#xD;
+&#xD;
+      Main study parameters/endpoints: The primary outcome domain of this study is participation&#xD;
+      measured with the Utrechtse Schaal voor Revalidatie - Participatie (USER-P). The primary&#xD;
+      endpoint is set at 6 months. A 5 point difference will be considered clinically relevant for&#xD;
+      patients with COVID-19.&#xD;
+&#xD;
+      Nature and extent of the burden and risks associated with participation, benefit and group&#xD;
+      relatedness: There are no specific risks involved with participation in this study, as it&#xD;
+      entails the completion of questionnaires over the timeframe of one year (at the start of the&#xD;
+      treatment, the end of the treatment, 3 months, 6 months, 9 months and 12 months). The load of&#xD;
+      the survey will be highest at months 3, 6 and 12 with a total of 74 survey items. Input from&#xD;
+      patient representatives suggested that this number of items was feasible, especially because&#xD;
+      participants are allowed to complete the survey over a number of days. Finally, none of the&#xD;
+      items in the survey are considered emotionally distressing. The prescribed interventions are&#xD;
+      conform the recommendations of the best available evidence and are in line with usual allied&#xD;
+      healthcare interventions. Therefore, risks are likely to be negligible conform usual allied&#xD;
+      healthcare.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 15, 2021</start_date>
+  <completion_date type="Anticipated">January 1, 2024</completion_date>
+  <primary_completion_date type="Anticipated">July 17, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Participation</measure>
+    <time_frame>Baseline (T0)</time_frame>
+    <description>Measured with the Utrecht Scale for Evaluation of Rehabilitation Participation (USER-P) (32 items)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Participation</measure>
+    <time_frame>3 months (T1)</time_frame>
+    <description>Measured with the Utrecht Scale for Evaluation of Rehabilitation Participation (USER-P) (32 items)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Participation</measure>
+    <time_frame>6 months (T2)</time_frame>
+    <description>Measured with the Utrecht Scale for Evaluation of Rehabilitation Participation (USER-P) (32 items)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Participation</measure>
+    <time_frame>12 months (T3)</time_frame>
+    <description>Measured with the Utrecht Scale for Evaluation of Rehabilitation Participation (USER-P) (32 items)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Quality of life measured with EQ-5D-5L</measure>
+    <time_frame>Baseline (T0)</time_frame>
+    <description>Measured with the EuroQol five-dimensional questionnaire (EQ-5D-5L) (5 items)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Quality of life measured with EQ-5D-5L</measure>
+    <time_frame>3 months (T1)</time_frame>
+    <description>Measured with the EuroQol five-dimensional questionnaire (EQ-5D-5L) (5 items)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Quality of life measured with EQ-5D-5L</measure>
+    <time_frame>6 months (T2)</time_frame>
+    <description>Measured with the EuroQol five-dimensional questionnaire (EQ-5D-5L) (5 items)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Quality of life measured with EQ-5D-5L</measure>
+    <time_frame>12 months (T3)</time_frame>
+    <description>Measured with the EuroQol five-dimensional questionnaire (EQ-5D-5L) (5 items)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Fatigue</measure>
+    <time_frame>Baseline (T0)</time_frame>
+    <description>Measured with the Fatigue Severity Scale (FSS)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Fatigue</measure>
+    <time_frame>3 months (T1)</time_frame>
+    <description>Measured with the Fatigue Severity Scale (FSS)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Fatigue</measure>
+    <time_frame>6 months (T2)</time_frame>
+    <description>Measured with the Fatigue Severity Scale (FSS)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Fatigue</measure>
+    <time_frame>12 months (T3)</time_frame>
+    <description>Measured with the Fatigue Severity Scale (FSS)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Physical functioning</measure>
+    <time_frame>Baseline (T0)</time_frame>
+    <description>PROMIS Physical Functioning Short Form 10b (10 items).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Physical functioning</measure>
+    <time_frame>3 months (T1)</time_frame>
+    <description>PROMIS Physical Functioning Short Form 10b (10 items).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Physical functioning</measure>
+    <time_frame>6 months (T2)</time_frame>
+    <description>PROMIS Physical Functioning Short Form 10b (10 items).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Physical functioning</measure>
+    <time_frame>12 months (T3)</time_frame>
+    <description>PROMIS Physical Functioning Short Form 10b (10 items).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Costs</measure>
+    <time_frame>Baseline (T0)</time_frame>
+    <description>will be measured using a cost questionnaire (18 items)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Costs</measure>
+    <time_frame>3 months (T1)</time_frame>
+    <description>will be measured using a cost questionnaire (18 items)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Costs</measure>
+    <time_frame>6 months (T2)</time_frame>
+    <description>will be measured using a cost questionnaire (18 items)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Costs</measure>
+    <time_frame>9 months (T3)</time_frame>
+    <description>will be measured using a cost questionnaire (18 items)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Costs</measure>
+    <time_frame>12 months (T4)</time_frame>
+    <description>will be measured using a cost questionnaire (18 items)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient Specific Activities</measure>
+    <time_frame>baseline (T0) as part of usual care</time_frame>
+    <description>measured with the Patient Specific Complaints (PSC)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient Specific Activities</measure>
+    <time_frame>end of the treatment as part of usual care (average of 6 months)</time_frame>
+    <description>measured with the Patient Specific Complaints (PSC)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Nutritional Status</measure>
+    <time_frame>baseline (T0) as part of usual care</time_frame>
+    <description>measured with the BMI (weight and height)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Nutritional Status</measure>
+    <time_frame>end of the treatment as part of usual care (average of 6 months)</time_frame>
+    <description>measured with the BMI (weight and height)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Global Assessment</measure>
+    <time_frame>baseline (T0) as part of usual care</time_frame>
+    <description>measured with the PG-SGA short form weight history, food intake, symptoms, activities and function).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Global Assessment</measure>
+    <time_frame>end of the treatment as part of usual care (average of 6 months)</time_frame>
+    <description>measured with the PG-SGA short form weight history, food intake, symptoms, activities and function).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Voice Problems</measure>
+    <time_frame>baseline (T0) as part of usual care</time_frame>
+    <description>measured with Voice Handicap Index (VHI)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Voice Problems</measure>
+    <time_frame>end of the treatment as part of usual care (average of 6 months)</time_frame>
+    <description>measured with Voice Handicap Index (VHI)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Swallowing Problems</measure>
+    <time_frame>baseline (T0) as part of usual care</time_frame>
+    <description>Dysphagia Handicap Index (DHI).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Swallowing Problems</measure>
+    <time_frame>end of the treatment as part of usual care (average of 6 months)</time_frame>
+    <description>Dysphagia Handicap Index (DHI).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient Specific Activities</measure>
+    <time_frame>baseline (T0) as part of usual care</time_frame>
+    <description>measured with the Canadian Occupational Performance Measure (COPM)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient Specific Activities</measure>
+    <time_frame>end of the treatment as part of usual care (average of 6 months)</time_frame>
+    <description>measured with the Canadian Occupational Performance Measure (COPM)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Activities</measure>
+    <time_frame>baseline (T0) as part of usual care</time_frame>
+    <description>measured with the PRO-ergo</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Activities</measure>
+    <time_frame>end of the treatment as part of usual care (average of 6 months)</time_frame>
+    <description>measured with the PRO-ergo</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Exercise capacity</measure>
+    <time_frame>baseline (T0) as part of usual care</time_frame>
+    <description>6 Minute Walk Test (6MWT)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Exercise capacity</measure>
+    <time_frame>end of the treatment as part of usual care (average of 6 months)</time_frame>
+    <description>6 Minute Walk Test (6MWT)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Exercise capacity</measure>
+    <time_frame>baseline (T0) as part of usual care</time_frame>
+    <description>Short Physical Performance Battery (SPPB)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Exercise capacity</measure>
+    <time_frame>end of the treatment as part of usual care (average of 6 months)</time_frame>
+    <description>Short Physical Performance Battery (SPPB)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quadriceps strength</measure>
+    <time_frame>baseline (T0) as part of usual care</time_frame>
+    <description>with a hand dynamometer.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quadriceps strength</measure>
+    <time_frame>end of the treatment as part of usual care (average of 6 months)</time_frame>
+    <description>with a hand dynamometer.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hand grip strength</measure>
+    <time_frame>baseline (T0) as part of usual care</time_frame>
+    <description>with a hand dynamometer.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hand grip strength</measure>
+    <time_frame>end of the treatment as part of usual care (average of 6 months)</time_frame>
+    <description>with a hand dynamometer.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Bioimpedance (BIA</measure>
+    <time_frame>baseline (T0) as part of usual care</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Bioimpedance (BIA</measure>
+    <time_frame>end of the treatment as part of usual care (average of 6 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>VAS-appetite, taste and smell</measure>
+    <time_frame>baseline (T0) as part of usual care</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>VAS-appetite, taste and smell</measure>
+    <time_frame>end of the treatment as part of usual care (average of 6 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Dietary goal attainment</measure>
+    <time_frame>baseline (T0) as part of usual care</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Dietary goal attainment</measure>
+    <time_frame>end of the treatment as part of usual care (average of 6 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Liquid medical nutrition</measure>
+    <time_frame>baseline (T0) as part of usual care</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Liquid medical nutrition</measure>
+    <time_frame>end of the treatment as part of usual care (average of 6 months)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sarcopenia</measure>
+    <time_frame>baseline (T0) as part of usual care</time_frame>
+    <description>measured with the SARC-F</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sarcopenia</measure>
+    <time_frame>end of the treatment as part of usual care (average of 6 months)</time_frame>
+    <description>measured with the SARC-F</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Types of Stool</measure>
+    <time_frame>baseline (T0) as part of usual care</time_frame>
+    <description>measured with the Bristol Stool Chart (BCS)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Types of Stool</measure>
+    <time_frame>end of the treatment as part of usual care (average of 6 months)</time_frame>
+    <description>measured with the Bristol Stool Chart (BCS)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Voice Problems</measure>
+    <time_frame>baseline (T0) as part of usual care</time_frame>
+    <description>measured with Maximum Phonation Time (MPT)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Voice Problems</measure>
+    <time_frame>end of the treatment as part of usual care (average of 6 months)</time_frame>
+    <description>measured with Maximum Phonation Time (MPT)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Swallowing Problems</measure>
+    <time_frame>baseline (T0) as part of usual care</time_frame>
+    <description>measured with Maximum Swallowing Speed (MSP)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Swallowing Problems</measure>
+    <time_frame>end of the treatment as part of usual care (average of 6 months)</time_frame>
+    <description>measured with Maximum Swallowing Speed (MSP)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Physical Functioning</measure>
+    <time_frame>baseline (T0) as part of usual care</time_frame>
+    <description>measured with the Assessment of Motor and Process Skills (AMPS)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Physical Functioning</measure>
+    <time_frame>end of the treatment as part of usual care (average of 6 months)</time_frame>
+    <description>measured with the Assessment of Motor and Process Skills (AMPS)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cognitive Functioning</measure>
+    <time_frame>baseline (T0) as part of usual care</time_frame>
+    <description>measured with the Cognitive Complaints - Participation (CoCo-P)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cognitive Functioning</measure>
+    <time_frame>end of the treatment as part of usual care (average of 6 months)</time_frame>
+    <description>measured with the Cognitive Complaints - Participation (CoCo-P)</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">1315</enrollment>
+  <condition>Covid19</condition>
+  <condition>Allied Health Professionals</condition>
+  <condition>Primary Care</condition>
+  <condition>Retrospective Cohort</condition>
+  <condition>PROMs</condition>
+  <condition>Performance Measures</condition>
+  <condition>Prospective Cohort</condition>
+  <condition>National Dutch Program</condition>
+  <arm_group>
+    <arm_group_label>Prospective cohort</arm_group_label>
+    <description>Allied health professionals (i.e., dietitians, exercise therapists, physical therapists, occupational therapists and speech and language therapists) that treat patients recovering from COVID-19 in Dutch primary care</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Retrospective cohort</arm_group_label>
+    <description>Allied health professionals (i.e., dietitians, exercise therapists, physical therapists, occupational therapists and speech and language therapists) that have been treated patients recovering from COVID-19 in Dutch primary care</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Patients recovering from COVID19 receive usual care by allied health professionals</intervention_name>
+    <description>We will not develop specific interventions for this prospective observational cohort study. The care provided by allied health professionals in daily practice are based on recommendations published by the professional bodies of allied health professionals and on the interdisciplinary guidance developed by the LAN. All allied health professionals are working according to these recommendations. Dissemination of these recommendations is done by the professional bodies of the allied health professionals. Given the observational nature of our study, no additional implementation strategies will be employed to stimulate this care by the research group.</description>
+    <arm_group_label>Prospective cohort</arm_group_label>
+    <arm_group_label>Retrospective cohort</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Adult patients of 18 year and older recovering from COVID-19 with severe symptoms and&#xD;
+        activity limitations and/or participation restrictions, who are referred to a primary care&#xD;
+        allied health professional* by a general practitioner or medical specialist are deemed&#xD;
+        eligible for this study.&#xD;
+&#xD;
+        *Allied health professionals relevant to this study are: Dietitians, Exercise Therapists,&#xD;
+        Occupational Therapists, Physical Therapists, and Speech and Language Therapists working in&#xD;
+        primary care in the Netherlands.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Adult patients&#xD;
+&#xD;
+          -  recovering from COVID-19 with severe symptoms and activity limitations and/or&#xD;
+             participation restrictions, and;&#xD;
+&#xD;
+          -  who are referred to a primary care allied health professional by a general&#xD;
+             practitioner or medical specialist within four months of the start of the disease;&#xD;
+             will be eligible for this study. The need for referring the patient to an allied&#xD;
+             health professional will be judged by the primary care physician or medical&#xD;
+             specialist. Criteria for referral are described in guidance published by the Long&#xD;
+             Alliantie Nederland (LAN) with recommendations for treatment of&#xD;
+             post-COVID-19-patients: the COVID-19 Associated Syndrome (CAS) (Chapters 3.3 and 4).&#xD;
+&#xD;
+        http://www.longalliantie.nl/files/2515/9359/4621/Handreiking_voor_de_zorg.pdf&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Adult patients:&#xD;
+&#xD;
+        - receiving palliative care; are excluded from this study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>Philip van der Wees, Prof. dr.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Radboud University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Thomas Hoogeboom, dr.</last_name>
+    <phone>+31622321229</phone>
+    <email>thomas.hoogeboom@radboudumc.nl</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Koen Verburg, MSc</last_name>
+    <phone>+31650426240</phone>
+    <email>koen.verburg@radboudumc.nl</email>
+  </overall_contact_backup>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>January 28, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 2, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 3, 2021</study_first_posted>
+  <last_update_submitted>February 2, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 2, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 3, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Covid19</keyword>
+  <keyword>Allied health professionals</keyword>
+  <keyword>primary care</keyword>
+  <keyword>PROMs</keyword>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

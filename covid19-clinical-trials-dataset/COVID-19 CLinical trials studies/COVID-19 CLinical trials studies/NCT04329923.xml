@@ -1,0 +1,1073 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1500">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04329923</url>
+  </required_header>
+  <id_info>
+    <org_study_id>842838</org_study_id>
+    <nct_id>NCT04329923</nct_id>
+  </id_info>
+  <brief_title>The PATCH Trial (Prevention And Treatment of COVID-19 With Hydroxychloroquine)</brief_title>
+  <acronym>PATCH</acronym>
+  <official_title>The PATCH Trial (Prevention And Treatment of COVID-19 With Hydroxychloroquine)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ravi Amaravadi, MD</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Pennsylvania</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The PATCH trial (Prevention And Treatment of COVID-19 with Hydroxychloroquine) is funded&#xD;
+      investigator-initiated trial that includes 3 cohorts. Cohort 1: a double-blind placebo&#xD;
+      controlled trial of high dose HCQ as a treatment for home bound COVID-19 positive patients;&#xD;
+      Cohort 2: a randomized study testing different doses of HCQ in hospitalized patients; Cohort&#xD;
+      3: a double blind placebo controlled trial of low dose HCQ as a preventative medicine in&#xD;
+      health care workers.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Terminated</overall_status>
+  <why_stopped>
+    Cohort 1: slow accrual Cohort 2: Other studies showed no benefit Cohort 3: Study met&#xD;
+    pre-specificied futility analysis at planned second interim analysis&#xD;
+  </why_stopped>
+  <start_date type="Actual">April 9, 2020</start_date>
+  <completion_date type="Actual">November 13, 2020</completion_date>
+  <primary_completion_date type="Actual">November 11, 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>There are 3 cohorts. All partcipants in of each the cohorts are randomized to one of two arms</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+    <masking_description>Cohorts 1 and 3 are double-blind placebo control cohorts. Cohort 2 is an open label randomized study</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Time to Release From Quarantine Time</measure>
+    <time_frame>until quarantine release or hospitalization</time_frame>
+    <description>Cohort 1 (home quarantined COVID-19 patients): Median time to release from quarantine by meeting the following criteria: 1) No fever for 72 hours 2) improvement in other symptoms and 3) 7 or 10 days (depending on CDC guidance at the time) have elapsed since the beginning of symptom onset.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Time to Hospital Discharge</measure>
+    <time_frame>until hospital discharge</time_frame>
+    <description>Cohort 2 (hospitalized COVID-19 patients): median number of days until hospital discharge</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Health Care Workers Who Developed SARS-COV-2 Infection</measure>
+    <time_frame>2 months</time_frame>
+    <description>Cohort 3 Physicians and nurse prophylaxis: Rate of COVID-19 infection at 2 months</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Rate of Housemate Infection</measure>
+    <time_frame>until quarantine release, or approximately &lt;20 days</time_frame>
+    <description>Cohort 1 rate of participant-reported secondary infection of housemates</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of Hospitalization</measure>
+    <time_frame>until quarantine release</time_frame>
+    <description>Cohort 1 rate of hospitalization</description>
+  </secondary_outcome>
+  <number_of_arms>6</number_of_arms>
+  <enrollment type="Actual">173</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Cohort 1 HCQ</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>COVID-19 PCR+ patients quarantined at home randomized to this arm will be treated with hydroxychloroquine 400 mg twice a day for up to 14 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 1 Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>COVID-19 PCR+ patients quarantined at home randomized to this arm will be treated with placebo twice a day for up to 14 days. Crossover is allowed if symptoms worsen after 7 days of treatment.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 2 HCQ high dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Hospitalized COVID-19 PCR+ patients randomized to this arm will be treated with hydroxychloroquine 600 mg twice a day for up to 14 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 2 HCQ low dose</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Hospitalized COVID-19 PCR+ patients randomized to this arm will be treated with hydroxychloroquine 600 mg once a day for up to 7 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 3 HCQ</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Health care workers at high risk of contracting COVID-19 randomized to this arm will be treated with hydroxychloroquine 600 mg once a day for 2 months</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 3 Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Health care workers at high risk of contracting COVID-19 randomized to this arm will be treated with placebo for 2 month. Crossover is allowed if subject becomes SARS-CoV2 positive.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Hydroxychloroquine Sulfate 400 mg twice a day</intervention_name>
+    <description>Antimalarial compound</description>
+    <arm_group_label>Cohort 1 HCQ</arm_group_label>
+    <other_name>Plaquenil</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Hydroxychloroquine Sulfate 600 mg twice a day</intervention_name>
+    <description>Antimalarial compound</description>
+    <arm_group_label>Cohort 2 HCQ high dose</arm_group_label>
+    <other_name>Plaquenil</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Hydroxychloroquine Sulfate 600 mg once a day</intervention_name>
+    <description>Antimalarial compound</description>
+    <arm_group_label>Cohort 2 HCQ low dose</arm_group_label>
+    <arm_group_label>Cohort 3 HCQ</arm_group_label>
+    <other_name>Plaquenil</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo oral tablet</intervention_name>
+    <description>Placebo</description>
+    <arm_group_label>Cohort 1 Placebo</arm_group_label>
+    <arm_group_label>Cohort 3 Placebo</arm_group_label>
+    <other_name>Placebo</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age ≥ 18 years old (Sub-studies 2 and 3)&#xD;
+&#xD;
+          -  Competent and capable to provide informed consent&#xD;
+&#xD;
+          -  Have access to a smart device such as a cell phone, tablet, laptop computer with&#xD;
+             necessary data/internet accessibility&#xD;
+&#xD;
+          -  Subjects meeting the following criteria by Sub-Study&#xD;
+&#xD;
+        Sub-Study 1:&#xD;
+&#xD;
+          -  Age ≥40 years since the risk of prolonged disease that progresses to severe COVID-19&#xD;
+             disease increases with age.&#xD;
+&#xD;
+          -  PCR-positive for the SARS-CoV2 virus&#xD;
+&#xD;
+          -  (Fever, and cough, or Fever and shortness of breath,&#xD;
+&#xD;
+          -  ≤4 days since the first symptoms of COVID-19 and date of testing&#xD;
+&#xD;
+          -  Not taking azithromycin&#xD;
+&#xD;
+          -  Not requiring hospitalization and is sent home for quarantine.&#xD;
+&#xD;
+          -  Must live within 30 miles of HUP or Penn Presbytarian Medical Center to facilitate&#xD;
+             drop-off of medication&#xD;
+&#xD;
+          -  Must own a working computer, or smartphone and have internet access&#xD;
+&#xD;
+          -  Must be willing to fill out a daily symptom diary&#xD;
+&#xD;
+          -  Must be available for a daily phone call,&#xD;
+&#xD;
+          -  Must take their own temperature twice a day&#xD;
+&#xD;
+          -  Must be willing to report the observed symptoms and development of COVID-19 in the&#xD;
+             co-inhabitants of the residence at which the quarantine will be served.&#xD;
+&#xD;
+        Sub-Study 2 Hospitalized non-ICU service patients.&#xD;
+&#xD;
+          -  PCR-positive for SARS-CoV-2&#xD;
+&#xD;
+          -  Patients admitted to a floor bed at Hospital of the University of Pennsylvania or Penn&#xD;
+             Presbyterian.&#xD;
+&#xD;
+          -  One or more of the following risk factors for progression to severe disease including:&#xD;
+             immunocompromising conditions, structural lung disease, hypertension, coronary artery&#xD;
+             disease, diabetes, age &gt; 60, ferritin &gt; 850, CRP &gt; 6, D-dimer &gt; 1000 Sub-Study 3&#xD;
+             Health Care Worker Prevention&#xD;
+&#xD;
+          -  Emergency Medicine or Infectious Disease Team physician or nurse at HUP or PPMC&#xD;
+&#xD;
+          -  ≥20 hours per week of clinical work scheduled in the coming 2 months during the&#xD;
+             COVID-19 pandemic&#xD;
+&#xD;
+          -  No fever, cough, or shortness of breath in the past 2 weeks&#xD;
+&#xD;
+          -  Willing to report compliance with HCQ in the form of a diary&#xD;
+&#xD;
+          -  Patients must be able to swallow and retain oral medication and must not have any&#xD;
+             clinically significant gastrointestinal abnormalities that may alter absorption such&#xD;
+             as malabsorption syndrome or major resection of the stomach or bowels.&#xD;
+&#xD;
+        Exclusion Criteria &lt;18 years of age&#xD;
+&#xD;
+          -  Prisoners or other detained persons&#xD;
+&#xD;
+          -  Allergy to hydroxychloroquine Pregnant or lactating or positive pregnancy test&#xD;
+&#xD;
+          -  Receiving any treatment drug for 2019-ncov within 14 days prior to screening&#xD;
+             evaluation (off label, compassionate use or trial related).&#xD;
+&#xD;
+          -  Co-enrollment onto another COVID-19 study is not allowed unless there is approval by&#xD;
+             the Medical Monitor in consultation with the PI and EM and ID sub-I leaders.&#xD;
+&#xD;
+          -  Known history of retinal disease including but not limited to age related macular&#xD;
+             degeneration.&#xD;
+&#xD;
+          -  Taking any of the following medications that prolong Qtc:&#xD;
+&#xD;
+        Chlorpromazine.Haloperidol, Droperidol, Quetiapine, Olanzapine. Amisulpride. Thioridazine&#xD;
+&#xD;
+          -  History of interstitial lung disease or chronic pneumonitis unrelated COVID-19.&#xD;
+&#xD;
+          -  Due to risk of disease exacerbation patients with porphyria or psoriasis are&#xD;
+             ineligible unless the disease is well controlled and they are under the care of a&#xD;
+             specialist for the disorder who agrees to monitor the patient for exacerbations.&#xD;
+&#xD;
+          -  Patients with serious intercurrent illness that requires active infusional therapy,&#xD;
+             intense monitoring, or frequent dose adjustments for medication including but not&#xD;
+             limited to infectious disease, cancer, autoimmune disease, cardiovascular disease.&#xD;
+&#xD;
+          -  Patients who have undergone major abdominal, thoracic, spine or CNS surgery in the&#xD;
+             last 2 months, or plan to undergo surgery during study participation.&#xD;
+&#xD;
+          -  Patients receiving cytochrome P450 enzyme-inducing anticonvulsant drugs (i.e.&#xD;
+             phenytoin, carbamazepine, Phenobarbital, primidone or oxcarbazepine) within 4 weeks of&#xD;
+             the start of the study treatment&#xD;
+&#xD;
+          -  History or evidence of increased cardiovascular risk including any of the following:&#xD;
+&#xD;
+          -  Left ventricular ejection fraction (LVEF) &lt; institutional lower limit of normal.&#xD;
+             Baseline echocardiogram is not required.&#xD;
+&#xD;
+          -  A QT interval corrected for heart rate using the Frederica formula &gt; 500 msec&#xD;
+             (Sub-study 2)&#xD;
+&#xD;
+          -  Current clinically significant uncontrolled arrhythmias. Exception: Subjects with&#xD;
+             controlled atrial fibrillation&#xD;
+&#xD;
+          -  History of acute coronary syndromes (including myocardial infarction and unstable&#xD;
+             angina), coronary angioplasty, or stenting within 6 months prior to enrollment&#xD;
+&#xD;
+          -  Current ≥ Class II congestive heart failure as defined by New York Heart Association&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ravi Amaravadi, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Pennsylvania</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Pennsylvania</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <results_reference>
+    <citation>Abella BS, Jolkovsky EL, Biney BT, Uspal JE, Hyman MC, Frank I, Hensley SE, Gill S, Vogl DT, Maillard I, Babushok DV, Huang AC, Nasta SD, Walsh JC, Wiletyo EP, Gimotty PA, Milone MC, Amaravadi RK; and the Prevention and Treatment of COVID-19 With Hydroxychloroquine (PATCH) Investigators. Efficacy and Safety of Hydroxychloroquine vs Placebo for Pre-exposure SARS-CoV-2 Prophylaxis Among Health Care Workers: A Randomized Clinical Trial. JAMA Intern Med. 2020 Sep 30. doi: 10.1001/jamainternmed.2020.6319. [Epub ahead of print]</citation>
+    <PMID>33001138</PMID>
+  </results_reference>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>March 30, 2020</study_first_submitted>
+  <study_first_submitted_qc>March 30, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 1, 2020</study_first_posted>
+  <results_first_submitted>November 13, 2020</results_first_submitted>
+  <results_first_submitted_qc>December 8, 2020</results_first_submitted_qc>
+  <results_first_posted type="Actual">December 10, 2020</results_first_posted>
+  <last_update_submitted>December 8, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 8, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 10, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>University of Pennsylvania</investigator_affiliation>
+    <investigator_full_name>Ravi Amaravadi, MD</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hydroxychloroquine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>We will publish our results in a peer-reviewed journal and make available de-identified data for additional analysis</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>One year after study completion</ipd_time_frame>
+    <ipd_access_criteria>Open access</ipd_access_criteria>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>June 23, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/23/NCT04329923/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>June 23, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/23/NCT04329923/SAP_002.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Cohort 1 HCQ</title>
+          <description>COVID-19 PCR+ patients quarantined at home randomized to this arm will be treated with hydroxychloroquine 400 mg twice a day for up to 14 days&#xD;
+Hydroxychloroquine Sulfate 400 mg twice a day: Antimalarial compound</description>
+        </group>
+        <group group_id="P2">
+          <title>Cohort 1 Placebo</title>
+          <description>COVID-19 PCR+ patients quarantined at home randomized to this arm will be treated with placebo twice a day for up to 14 days. Crossover is allowed if symptoms worsen after 7 days of treatment.&#xD;
+Placebo oral tablet: Placebo</description>
+        </group>
+        <group group_id="P3">
+          <title>Cohort 2 HCQ High Dose</title>
+          <description>Hospitalized COVID-19 PCR+ patients randomized to this arm will be treated with hydroxychloroquine 600 mg twice a day for up to 14 days&#xD;
+Hydroxychloroquine Sulfate 600 mg twice a day: Antimalarial compound</description>
+        </group>
+        <group group_id="P4">
+          <title>Cohort 2 HCQ Low Dose</title>
+          <description>Hospitalized COVID-19 PCR+ patients randomized to this arm will be treated with hydroxychloroquine 600 mg once a day for up to 7 days&#xD;
+Hydroxychloroquine Sulfate 600 mg once a day: Antimalarial compound</description>
+        </group>
+        <group group_id="P5">
+          <title>Cohort 3 HCQ</title>
+          <description>Health care workers at high risk of contracting COVID-19 randomized to this arm will be treated with hydroxychloroquine 600 mg once a day for 2 months&#xD;
+Hydroxychloroquine Sulfate 600 mg once a day: Antimalarial compound</description>
+        </group>
+        <group group_id="P6">
+          <title>Cohort 3 Placebo</title>
+          <description>Health care workers at high risk of contracting COVID-19 randomized to this arm will be treated with placebo for 2 month. Crossover is allowed if subject becomes SARS-CoV2 positive.&#xD;
+Placebo oral tablet: Placebo</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="17"/>
+                <participants group_id="P2" count="17"/>
+                <participants group_id="P3" count="4"/>
+                <participants group_id="P4" count="3"/>
+                <participants group_id="P5" count="66"/>
+                <participants group_id="P6" count="66"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="16"/>
+                <participants group_id="P2" count="13"/>
+                <participants group_id="P3" count="3"/>
+                <participants group_id="P4" count="2"/>
+                <participants group_id="P5" count="64"/>
+                <participants group_id="P6" count="61"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="4"/>
+                <participants group_id="P3" count="1"/>
+                <participants group_id="P4" count="1"/>
+                <participants group_id="P5" count="2"/>
+                <participants group_id="P6" count="5"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="4"/>
+                <participants group_id="P3" count="1"/>
+                <participants group_id="P4" count="1"/>
+                <participants group_id="P5" count="1"/>
+                <participants group_id="P6" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>early termination of study</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+                <participants group_id="P4" count="0"/>
+                <participants group_id="P5" count="1"/>
+                <participants group_id="P6" count="2"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>positive SARS-COV2 PCR at baseline</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+                <participants group_id="P4" count="0"/>
+                <participants group_id="P5" count="0"/>
+                <participants group_id="P6" count="2"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>All randomized patients</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Cohort 1 HCQ</title>
+          <description>COVID-19 PCR+ patients quarantined at home randomized to this arm will be treated with hydroxychloroquine 400 mg twice a day for up to 14 days&#xD;
+Hydroxychloroquine Sulfate 400 mg twice a day: Antimalarial compound</description>
+        </group>
+        <group group_id="B2">
+          <title>Cohort 1 Placebo</title>
+          <description>COVID-19 PCR+ patients quarantined at home randomized to this arm will be treated with placebo twice a day for up to 14 days. Crossover is allowed if symptoms worsen after 7 days of treatment.&#xD;
+Placebo oral tablet: Placebo</description>
+        </group>
+        <group group_id="B3">
+          <title>Cohort 2 HCQ High Dose</title>
+          <description>Hospitalized COVID-19 PCR+ patients randomized to this arm will be treated with hydroxychloroquine 600 mg twice a day for up to 14 days&#xD;
+Hydroxychloroquine Sulfate 600 mg twice a day: Antimalarial compound</description>
+        </group>
+        <group group_id="B4">
+          <title>Cohort 2 HCQ Low Dose</title>
+          <description>Hospitalized COVID-19 PCR+ patients randomized to this arm will be treated with hydroxychloroquine 600 mg once a day for up to 7 days&#xD;
+Hydroxychloroquine Sulfate 600 mg once a day: Antimalarial compound</description>
+        </group>
+        <group group_id="B5">
+          <title>Cohort 3 HCQ</title>
+          <description>Health care workers at high risk of contracting COVID-19 randomized to this arm will be treated with hydroxychloroquine 600 mg once a day for 2 months&#xD;
+Hydroxychloroquine Sulfate 600 mg once a day: Antimalarial compound</description>
+        </group>
+        <group group_id="B6">
+          <title>Cohort 3 Placebo</title>
+          <description>Health care workers at high risk of contracting COVID-19 randomized to this arm will be treated with placebo for 2 month. Crossover is allowed if subject becomes SARS-CoV2 positive.&#xD;
+Placebo oral tablet: Placebo</description>
+        </group>
+        <group group_id="B7">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="17"/>
+            <count group_id="B2" value="17"/>
+            <count group_id="B3" value="4"/>
+            <count group_id="B4" value="3"/>
+            <count group_id="B5" value="66"/>
+            <count group_id="B6" value="66"/>
+            <count group_id="B7" value="173"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="56" lower_limit="43" upper_limit="77"/>
+                    <measurement group_id="B2" value="49" lower_limit="40" upper_limit="80"/>
+                    <measurement group_id="B3" value="65" lower_limit="41" upper_limit="79"/>
+                    <measurement group_id="B4" value="48" lower_limit="30" upper_limit="55"/>
+                    <measurement group_id="B5" value="31" lower_limit="20" upper_limit="66"/>
+                    <measurement group_id="B6" value="34" lower_limit="23" upper_limit="62"/>
+                    <measurement group_id="B7" value="40" lower_limit="20" upper_limit="80"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="12"/>
+                    <measurement group_id="B2" value="9"/>
+                    <measurement group_id="B3" value="2"/>
+                    <measurement group_id="B4" value="3"/>
+                    <measurement group_id="B5" value="54"/>
+                    <measurement group_id="B6" value="33"/>
+                    <measurement group_id="B7" value="113"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="8"/>
+                    <measurement group_id="B3" value="2"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="12"/>
+                    <measurement group_id="B6" value="33"/>
+                    <measurement group_id="B7" value="60"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                    <measurement group_id="B7" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="7"/>
+                    <measurement group_id="B6" value="7"/>
+                    <measurement group_id="B7" value="14"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                    <measurement group_id="B7" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="8"/>
+                    <measurement group_id="B2" value="11"/>
+                    <measurement group_id="B3" value="3"/>
+                    <measurement group_id="B4" value="3"/>
+                    <measurement group_id="B5" value="3"/>
+                    <measurement group_id="B6" value="1"/>
+                    <measurement group_id="B7" value="29"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="1"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="55"/>
+                    <measurement group_id="B6" value="56"/>
+                    <measurement group_id="B7" value="121"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="1"/>
+                    <measurement group_id="B6" value="2"/>
+                    <measurement group_id="B7" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="0"/>
+                    <measurement group_id="B7" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Time to Release From Quarantine Time</title>
+        <description>Cohort 1 (home quarantined COVID-19 patients): Median time to release from quarantine by meeting the following criteria: 1) No fever for 72 hours 2) improvement in other symptoms and 3) 7 or 10 days (depending on CDC guidance at the time) have elapsed since the beginning of symptom onset.</description>
+        <time_frame>until quarantine release or hospitalization</time_frame>
+        <population>randomized patients that were released from quarantine on study</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Cohort 1 HCQ</title>
+            <description>COVID-19 PCR+ patients quarantined at home randomized to this arm will be treated with hydroxychloroquine 400 mg twice a day for up to 14 days&#xD;
+Hydroxychloroquine Sulfate 400 mg twice a day: Antimalarial compound</description>
+          </group>
+          <group group_id="O2">
+            <title>Cohort 1 Placebo</title>
+            <description>COVID-19 PCR+ patients quarantined at home randomized to this arm will be treated with placebo twice a day for up to 14 days. Crossover is allowed if symptoms worsen after 7 days of treatment.&#xD;
+Placebo oral tablet: Placebo</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time to Release From Quarantine Time</title>
+          <description>Cohort 1 (home quarantined COVID-19 patients): Median time to release from quarantine by meeting the following criteria: 1) No fever for 72 hours 2) improvement in other symptoms and 3) 7 or 10 days (depending on CDC guidance at the time) have elapsed since the beginning of symptom onset.</description>
+          <population>randomized patients that were released from quarantine on study</population>
+          <units>days</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="15"/>
+                <count group_id="O2" value="13"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8" lower_limit="4" upper_limit="19"/>
+                    <measurement group_id="O2" value="11" lower_limit="4" upper_limit="18"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.28</p_value>
+            <method>Regression, Cox</method>
+            <param_type>Cox Proportional Hazard</param_type>
+            <param_value>0.58</param_value>
+            <ci_n_sides>2-Sided</ci_n_sides>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Time to Hospital Discharge</title>
+        <description>Cohort 2 (hospitalized COVID-19 patients): median number of days until hospital discharge</description>
+        <time_frame>until hospital discharge</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Cohort 2 HCQ High Dose</title>
+            <description>Hospitalized COVID-19 PCR+ patients randomized to this arm will be treated with hydroxychloroquine 600 mg twice a day for up to 14 days&#xD;
+Hydroxychloroquine Sulfate 600 mg twice a day: Antimalarial compound</description>
+          </group>
+          <group group_id="O2">
+            <title>Cohort 2 HCQ Low Dose</title>
+            <description>Hospitalized COVID-19 PCR+ patients randomized to this arm will be treated with hydroxychloroquine 600 mg once a day for up to 7 days&#xD;
+Hydroxychloroquine Sulfate 600 mg once a day: Antimalarial compound</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time to Hospital Discharge</title>
+          <description>Cohort 2 (hospitalized COVID-19 patients): median number of days until hospital discharge</description>
+          <units>days</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="4"/>
+                <count group_id="O2" value="3"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5.5" lower_limit="2" upper_limit="15"/>
+                    <measurement group_id="O2" value="4" lower_limit="3" upper_limit="15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Health Care Workers Who Developed SARS-COV-2 Infection</title>
+        <description>Cohort 3 Physicians and nurse prophylaxis: Rate of COVID-19 infection at 2 months</description>
+        <time_frame>2 months</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Cohort 3 HCQ</title>
+            <description>Health care workers at high risk of contracting COVID-19 randomized to this arm will be treated with hydroxychloroquine 600 mg once a day for 2 months&#xD;
+Hydroxychloroquine Sulfate 600 mg once a day: Antimalarial compound</description>
+          </group>
+          <group group_id="O2">
+            <title>Cohort 3 Placebo</title>
+            <description>Health care workers at high risk of contracting COVID-19 randomized to this arm will be treated with placebo for 2 month. Crossover is allowed if subject becomes SARS-CoV2 positive.&#xD;
+Placebo oral tablet: Placebo</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Health Care Workers Who Developed SARS-COV-2 Infection</title>
+          <description>Cohort 3 Physicians and nurse prophylaxis: Rate of COVID-19 infection at 2 months</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="64"/>
+                <count group_id="O2" value="61"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Rate of Housemate Infection</title>
+        <description>Cohort 1 rate of participant-reported secondary infection of housemates</description>
+        <time_frame>until quarantine release, or approximately &lt;20 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Cohort 1 HCQ</title>
+            <description>COVID-19 PCR+ patients quarantined at home randomized to this arm will be treated with hydroxychloroquine 400 mg twice a day for up to 14 days&#xD;
+Hydroxychloroquine Sulfate 400 mg twice a day: Antimalarial compound</description>
+          </group>
+          <group group_id="O2">
+            <title>Cohort 1 Placebo</title>
+            <description>COVID-19 PCR+ patients quarantined at home randomized to this arm will be treated with placebo twice a day for up to 14 days. Crossover is allowed if symptoms worsen after 7 days of treatment.&#xD;
+Placebo oral tablet: Placebo</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Rate of Housemate Infection</title>
+          <description>Cohort 1 rate of participant-reported secondary infection of housemates</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="17"/>
+                <count group_id="O2" value="17"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Rate of Hospitalization</title>
+        <description>Cohort 1 rate of hospitalization</description>
+        <time_frame>until quarantine release</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Cohort 1 HCQ</title>
+            <description>COVID-19 PCR+ patients quarantined at home randomized to this arm will be treated with hydroxychloroquine 400 mg twice a day for up to 14 days&#xD;
+Hydroxychloroquine Sulfate 400 mg twice a day: Antimalarial compound</description>
+          </group>
+          <group group_id="O2">
+            <title>Cohort 1 Placebo</title>
+            <description>COVID-19 PCR+ patients quarantined at home randomized to this arm will be treated with placebo twice a day for up to 14 days. Crossover is allowed if symptoms worsen after 7 days of treatment.&#xD;
+Placebo oral tablet: Placebo</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Rate of Hospitalization</title>
+          <description>Cohort 1 rate of hospitalization</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="17"/>
+                <count group_id="O2" value="17"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>3 months</time_frame>
+      <desc>All adverse events were grade 1-2 by CTCAE v5.0</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Cohort 1 HCQ</title>
+          <description>COVID-19 PCR+ patients quarantined at home randomized to this arm will be treated with hydroxychloroquine 400 mg twice a day for up to 14 days&#xD;
+Hydroxychloroquine Sulfate 400 mg twice a day: Antimalarial compound</description>
+        </group>
+        <group group_id="E2">
+          <title>Cohort 1 Placebo</title>
+          <description>COVID-19 PCR+ patients quarantined at home randomized to this arm will be treated with placebo twice a day for up to 14 days. Crossover is allowed if symptoms worsen after 7 days of treatment.&#xD;
+Placebo oral tablet: Placebo</description>
+        </group>
+        <group group_id="E3">
+          <title>Cohort 2 HCQ High Dose</title>
+          <description>Hospitalized COVID-19 PCR+ patients randomized to this arm will be treated with hydroxychloroquine 600 mg twice a day for up to 14 days&#xD;
+Hydroxychloroquine Sulfate 600 mg twice a day: Antimalarial compound</description>
+        </group>
+        <group group_id="E4">
+          <title>Cohort 2 HCQ Low Dose</title>
+          <description>Hospitalized COVID-19 PCR+ patients randomized to this arm will be treated with hydroxychloroquine 600 mg once a day for up to 7 days&#xD;
+Hydroxychloroquine Sulfate 600 mg once a day: Antimalarial compound</description>
+        </group>
+        <group group_id="E5">
+          <title>Cohort 3 HCQ</title>
+          <description>Health care workers at high risk of contracting COVID-19 randomized to this arm will be treated with hydroxychloroquine 600 mg once a day for 2 months&#xD;
+Hydroxychloroquine Sulfate 600 mg once a day: Antimalarial compound</description>
+        </group>
+        <group group_id="E6">
+          <title>Cohort 3 Placebo</title>
+          <description>Health care workers at high risk of contracting COVID-19 randomized to this arm will be treated with placebo for 2 month. Crossover is allowed if subject becomes SARS-CoV2 positive.&#xD;
+Placebo oral tablet: Placebo</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="17"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="17"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="4"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="66"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="66"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="17"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="17"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="4"/>
+                <counts group_id="E4" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E5" subjects_affected="0" subjects_at_risk="66"/>
+                <counts group_id="E6" subjects_affected="0" subjects_at_risk="66"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>hospitalization</sub_title>
+                <description>The patient developed progressive symptoms of COVID-19 and was hospitalized briefly for supplemental oxygen</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="17"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="17"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="4"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E5" events="0" subjects_affected="0" subjects_at_risk="66"/>
+                <counts group_id="E6" events="0" subjects_affected="0" subjects_at_risk="66"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="17"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="17"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="4"/>
+                <counts group_id="E4" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E5" subjects_affected="29" subjects_at_risk="66"/>
+                <counts group_id="E6" subjects_affected="15" subjects_at_risk="66"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Abdominal pain</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="17"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="17"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="4"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E5" events="4" subjects_affected="4" subjects_at_risk="66"/>
+                <counts group_id="E6" events="0" subjects_affected="0" subjects_at_risk="66"/>
+              </event>
+              <event>
+                <sub_title>Anorexia</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="17"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="17"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="4"/>
+                <counts group_id="E4" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E5" events="7" subjects_affected="7" subjects_at_risk="66"/>
+                <counts group_id="E6" events="2" subjects_affected="2" subjects_at_risk="66"/>
+              </event>
+              <event>
+                <sub_title>Diarrhea</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="17"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="17"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="4"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E5" events="21" subjects_affected="21" subjects_at_risk="66"/>
+                <counts group_id="E6" events="8" subjects_affected="8" subjects_at_risk="66"/>
+              </event>
+              <event>
+                <sub_title>Nausea</sub_title>
+                <counts group_id="E1" events="6" subjects_affected="6" subjects_at_risk="17"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="17"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="4"/>
+                <counts group_id="E4" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E5" events="6" subjects_affected="6" subjects_at_risk="66"/>
+                <counts group_id="E6" events="5" subjects_affected="5" subjects_at_risk="66"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <limitations_and_caveats>Sub-study 1 was terminated early after the first interim analysis due to slow accrual Sub-study 2 was terminated early after the first 7 patients based on the recommendation of UPenn research oversight committees Sub-study 3 was terminated early due to meeting futility criteria on a pre-specified second interim analysis</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>Amelia Anderson</name_or_title>
+      <organization>UPenn</organization>
+      <phone>215-509-5690</phone>
+      <email>amelia.anderson@pennmedicine.upenn.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3639">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03183570</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB Protocol: 40450</org_study_id>
+    <nct_id>NCT03183570</nct_id>
+  </id_info>
+  <brief_title>Detection of Integrin avb6 in IPF, PSC, and COVID19 Using PET/CT</brief_title>
+  <official_title>Detection of Integrin avb6 in Idiopathic Pulmonary Fibrosis, Primary Sclerosing Cholangitis, and Coronavirus Disease 2019 With [18F]FP-R01-MG-F2 With PET/CT</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Stanford University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Pliant Therapeutics, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Stanford University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Detection of Integrin avb6 in Idiopathic Pulmonary Fibrosis, Primary Sclerosing Cholangitis,&#xD;
+      and Coronavirus Disease 2019 with [18F]FP-R01-MG-F2 with PET/CT&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Stanford University has developed a new PET tracer, [18F]FP-R01-MG-F2, that selectively binds&#xD;
+      to integrin avb6, a cell surface receptor that is overexpressed in idiopathic pulmonary&#xD;
+      fibrosis (IPF). Increased avb6 receptors on IPF lung tissue has been well documented, while&#xD;
+      its expression remains relatively non-existent in the healthy adult lung.&#xD;
+&#xD;
+      The PET tracer's application will be expanded in primary sclerosing cholangitis (PSC) and&#xD;
+      COVID-19 pneumonia. The integrin avb6 is also up-regulated in the biliary epithelial cells,&#xD;
+      which drive the progression of biliary tree strictures and liver fibrosis through activation&#xD;
+      of TGF-b, as shown in IPF. Similarly, COVID-19 pneumonia is caused by the SARS-CoV-2 and&#xD;
+      leads to acute lung injury and integrin avb6 up-regulation.&#xD;
+&#xD;
+      The selected PET tracer [18F]FP-R01-MG-F2 has shown promise in identifying integrin avb6 in&#xD;
+      both preclinical and clinical studies at Stanford University. The investigators have&#xD;
+      demonstrated low [18F]FP-R01-MG-F2 radiopharmaceutical uptake in the heart and lung region of&#xD;
+      healthy volunteers, which was an expected biodistribution (the normal tissue uptake of the&#xD;
+      radiopharmaceutical within the body) based on immunohistochemical staining of healthy lung&#xD;
+      tissue, which demonstrated the presence of minimal avb6 receptors in healthy lung tissue.&#xD;
+&#xD;
+      OBJECTIVE:&#xD;
+&#xD;
+        1. Exploring the use of the investigational radiopharmaceutical [18]FFP-R01-MG-F2 as a&#xD;
+           biomarker for avb6 integrin in fibrotic lung tissue.&#xD;
+&#xD;
+        2. Exploring the use of the investigational radiopharmaceutical [18]FFP-R01-MG-F2 to access&#xD;
+           inflammation and fibrosis in the bile duct and liver.&#xD;
+&#xD;
+        3. Exploring the use of the investigational radiopharmaceutical [18]FFP-R01-MG-F2 to assess&#xD;
+           lung injury in COVID-19 pneumonia.&#xD;
+&#xD;
+      The performance of [18F]FP-R01-MG-F2 PET/CT will be assessed in a cohort of up to 13-15 IPF&#xD;
+      patients, 5 PSC patients, 5 COVID19 pneumonia patients, and 5 age-matched healthy controls.&#xD;
+      Feasibility will be measured by drawing regions of interest (ROI) around the lung/ liver of&#xD;
+      participants with IPF, COVID19, or PSC, respectively, and the lungs of healthy adult&#xD;
+      volunteers and comparing the calculated standardized uptake value maximum(s) (SUV max).&#xD;
+&#xD;
+      The tracer's biodistribution, safety, and tolerability will also be studied.&#xD;
+&#xD;
+      Recruitment of IPF subjects and healthy volunteers has been completed, although recruitment&#xD;
+      for other aspects of this clinical trial is ongoing.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 8, 2017</start_date>
+  <completion_date type="Anticipated">April 14, 2023</completion_date>
+  <primary_completion_date type="Anticipated">April 14, 2022</primary_completion_date>
+  <phase>Early Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>SUV max comparison : IPF versus Healthy Lung, PSC versus Healthy Liver, COVID19 versus Healthy Lung</measure>
+    <time_frame>an estimated average of 2 hours</time_frame>
+    <description>The SUVmax in a lung or liver with known IPF, COVID19 pneumonia, or PSC respectively will be compared to the SUVmax in a known healthy lung/liver. It is expected that the SUV max, which is a measurement of the maximum value of radiopharmaceutical uptake within the region of interest (ROI) in IPF, COVID19 pneumonia, and PSC will be higher than the SUV max in the healthy lung/liver.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time Activity Measurements</measure>
+    <time_frame>an estimated average of 1 hours</time_frame>
+    <description>Blood samples for blood time-activity measurements taken at 1, 3, 5, 10, 30, and 60 minutes after tracer injection for tracer kinetic analysis. Tracer kinetic analysis shows radiopharmaceutical distribution from the blood to the tissues over time.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of Study Completion (Safety and Tolerability)</measure>
+    <time_frame>an estimated average of 2 hours</time_frame>
+    <description>EKG data, vital signs and laboratory data collected before IV injection of [18F]FP-R01-MG-F2 and after completion of the scan will allow the investigators to evaluate the safety and tolerability of the radiopharmaceutical. This will be measured as the number of patients who successfully completed the study.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Idiopathic Pulmonary Fibrosis</condition>
+  <condition>Primary Sclerosing Cholangitis</condition>
+  <condition>Covid19 Pneumonia</condition>
+  <arm_group>
+    <arm_group_label>[18F]FP-R01-MG-F2 PET/CT in IPF Patients, Recovered COVID19 Patients, and Healthy Volunteers</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Arm1: 7mCi (range 6-9 mCi) [18F]FP-R01-MG-F2 will be administered to the study participant. A 60-minute dynamic PET/CT scan to the center of the lungs in the FOV is followed by two vertex-to-thigh PET/CT scans.&#xD;
+NOTE: If the patient cannot tolerate lying down for an extended period of time at the time of imaging, the patient may be switched to scanning protocol Option B, which does not include an initial 60-minute dynamic PET/CT scan.&#xD;
+IPF Patients will have a repeat [18F]FP-R01-MG-F2 PET/CT scan performed within 3-8 weeks post initial scan (within 12-24 months post initial scan for previously scanned IPF patients if they are willing to be re-consented).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>[18F]FP-R01-MG-F2 PET/CT in PSC Patients</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Arm 2: 7mCi (range 6-9 mCi) [18F]FP-R01-MG-F2 will be administered to the study participant. A 60-minute dynamic PET/CT scan to the center of the liver in the FOV is followed by two vertex-to-thigh PET/CT scans.&#xD;
+A repeat [18F]FP-R01-MG-F2 PET/CT scan will be performed within 3-8 weeks post initial scan if a signal is present in the first scan.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>[18F]FP-R01-MG-F2 PET/CT in actively infected COVID19 Patients</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Arm 3: 7mCi (range 6-9 mCi) [18F]FP-R01-MG-F2 will be administered to the study participant. One vertex-to-thigh PET/CT scans to the center of the lung in the FOV will follow approximately 60 min post-injection.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>[18F]FP-R01-MG-F2</intervention_name>
+    <description>7mCi (range 6-9mCi) [18F]FP-R01-MG-F2 will be administered</description>
+    <arm_group_label>[18F]FP-R01-MG-F2 PET/CT in IPF Patients, Recovered COVID19 Patients, and Healthy Volunteers</arm_group_label>
+    <arm_group_label>[18F]FP-R01-MG-F2 PET/CT in PSC Patients</arm_group_label>
+    <arm_group_label>[18F]FP-R01-MG-F2 PET/CT in actively infected COVID19 Patients</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        1.0 Eligibility Criteria for IPF Patients&#xD;
+&#xD;
+        1.1 Inclusion Criteria&#xD;
+&#xD;
+        The following inclusion criteria will be monitored:&#xD;
+&#xD;
+          -  Patient is &gt;/= 18 years old&#xD;
+&#xD;
+          -  Patient is capable of making an informed decision regarding his/her treatment&#xD;
+&#xD;
+          -  Patient diagnosed with IPF by a pulmonologist according to ATS guidelines&#xD;
+&#xD;
+          -  Patient has high-resolution CT with definite Usual Interstitial Pneumonia (UIP)&#xD;
+             pattern&#xD;
+&#xD;
+          -  Patient has PFT's within the last 12 months with:&#xD;
+&#xD;
+               -  FVC&lt;85% predicted&#xD;
+&#xD;
+               -  DLCO&lt;65% predicted&#xD;
+&#xD;
+          -  FEV1/FCV ratio &gt;70%&#xD;
+&#xD;
+          -  Patient is able to comply with study procedures&#xD;
+&#xD;
+               -  Scanning Option A (60 +20 +20 mins) OR&#xD;
+&#xD;
+               -  Scanning Option B (8 +8 mins)&#xD;
+&#xD;
+        1.2 Exclusion Criteria&#xD;
+&#xD;
+        The following exclusion criteria will be monitored:&#xD;
+&#xD;
+          -  Patient with a serious uncontrolled concurrent medical illness that would limit&#xD;
+             compliance with study requirements&#xD;
+&#xD;
+          -  Patient has a history of any clinically significant lung disease other than IPF as&#xD;
+             determined by a pulmonologist&#xD;
+&#xD;
+          -  Patient has had a lung infection of any kind in the last 3 months&#xD;
+&#xD;
+          -  Patient is pregnant or lactating&#xD;
+&#xD;
+        2.0 Eligibility Criteria for PSC Patients&#xD;
+&#xD;
+        2.1 Inclusion Criteria&#xD;
+&#xD;
+        The following inclusion criteria will be monitored:&#xD;
+&#xD;
+          -  Patient is &gt;/= 18 years old&#xD;
+&#xD;
+          -  Patient is capable of making an informed decision regarding his/her treatment&#xD;
+&#xD;
+          -  Patient diagnosed with large duct PSC, based on an abnormal cholangiography as&#xD;
+             assessed by magnetic resonance cholangiopancreatography (MRCP), endoscopic retrograde&#xD;
+             cholangiopancreatography (ERCP), and/or percutaneous transhepatic&#xD;
+             cholangiopancreatography (PTC) in the context of cholestatic liver chemistry&#xD;
+&#xD;
+          -  Patient is able to comply with study procedures&#xD;
+&#xD;
+               -  Scanning Option C (60 +20+ 20 mins)&#xD;
+&#xD;
+        2.2 Exclusion Criteria&#xD;
+&#xD;
+        The following exclusion criteria will be monitored:&#xD;
+&#xD;
+          -  Patient with a serious uncontrolled concurrent medical illness that would limit&#xD;
+             compliance with study requirements&#xD;
+&#xD;
+          -  Patient has other causes of liver disease, including secondary sclerosing cholangitis&#xD;
+             or viral, metabolic, or alcoholic liver disease, as assessed clinically&#xD;
+&#xD;
+          -  Patient has a history of ascending cholangitis within 60 days of screening, as&#xD;
+             assessed clinically&#xD;
+&#xD;
+          -  Patient has history, current clinical or radiological suspicion, or diagnosis of&#xD;
+             cholangiocarcinoma, other hepatobiliary malignancy, colorectal cancer, or other&#xD;
+             abdominal malignancy at any time&#xD;
+&#xD;
+          -  Presence of a percutaneous drain or bile duct stent&#xD;
+&#xD;
+          -  Patient is pregnant or lactating&#xD;
+&#xD;
+        3.0 Eligibility Criteria for Healthy Controls&#xD;
+&#xD;
+        3.1 Inclusion Criteria&#xD;
+&#xD;
+        The following inclusion criteria will be monitored:&#xD;
+&#xD;
+          -  Person is &gt;/= 45 years old&#xD;
+&#xD;
+          -  Person is capable of making an informed decision regarding his/her treatment&#xD;
+&#xD;
+          -  Person is able to comply with study procedures&#xD;
+&#xD;
+               -  Scanning Option A (60 + 20 + 20 mins) OR&#xD;
+&#xD;
+               -  Scanning Option B (8 + 8 mins)&#xD;
+&#xD;
+        3.2 Exclusion Criteria&#xD;
+&#xD;
+        The following exclusion criteria will be monitored:&#xD;
+&#xD;
+          -  Person with a serious uncontrolled concurrent medical illness that would limit&#xD;
+             compliance with study requirements&#xD;
+&#xD;
+          -  Person has a history of any clinically significant lung disease other than IPF as&#xD;
+             determined by a pulmonologist&#xD;
+&#xD;
+          -  Person had lung infection of any kind in the last 3 months&#xD;
+&#xD;
+          -  Person is pregnant or lactating&#xD;
+&#xD;
+        4.0 Eligibility Criteria for COVID-19 patients&#xD;
+&#xD;
+        4.1 Inclusion Criteria&#xD;
+&#xD;
+        The following inclusion criteria will be monitored:&#xD;
+&#xD;
+          -  Patient is &gt;/= 18 years old&#xD;
+&#xD;
+          -  Patient is capable of making an informed decision regarding his/her treatment&#xD;
+&#xD;
+          -  Patient with a history of SARS-CoV-2 (active or recovered) infection, based on&#xD;
+             positive RT-PCR testing&#xD;
+&#xD;
+          -  Recovered COVID-19 patient must show evidence of being non-infectious (per Stanford&#xD;
+             guideline):&#xD;
+&#xD;
+               -  Symptomatic, non-immunocompromised outpatients are considered COVID neg after 10&#xD;
+                  days or 3 days after symptoms resolve, whichever is longer.&#xD;
+&#xD;
+               -  Severely symptomatic or is immunocompromised outpatients are considered&#xD;
+                  non-infectious after 20 days.&#xD;
+&#xD;
+               -  or RT-PCR negative x2, spaced &gt;24 hrs apart&#xD;
+&#xD;
+          -  Patient shows or has shown evidence of pulmonary opacities as visualized on chest&#xD;
+             radiograph or CT&#xD;
+&#xD;
+          -  Patient is able to comply with study procedures and infection control instructions&#xD;
+&#xD;
+               -  Recovered COVID 19 patients: Scanning Option A (60 + 20 + 20 mins) OR&#xD;
+&#xD;
+               -  Recovered COVID-19 patients: Scanning Option B (8 + 8 mins)&#xD;
+&#xD;
+               -  COVID-19 patients with active infection or no evidence of non-active infection:&#xD;
+                  Scanning Option D (8 mins)&#xD;
+&#xD;
+        4.2 Exclusion Criteria&#xD;
+&#xD;
+        The following exclusion criteria will be monitored:&#xD;
+&#xD;
+          -  Person with serious uncontrolled concurrent medical illness, such as severe hypoxia,&#xD;
+             that would limit compliance with study and infection control requirements&#xD;
+&#xD;
+          -  Person with pre-existing fibrosing lung disease (such as but not limited to IPF, NSIP,&#xD;
+             HP, and sarcoidosis prior to COVID-19 infection).&#xD;
+&#xD;
+          -  Person is pregnant or lactating&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Henry Guo, MD, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Stanford University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Andrea Otte, DPT</last_name>
+    <phone>(650) 736-4183</phone>
+    <email>anotte@stanford.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Stanford University</name>
+      <address>
+        <city>Stanford</city>
+        <state>California</state>
+        <zip>94305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Andrea Otte, DPT</last_name>
+      <phone>650-736-4183</phone>
+      <email>anotte@stanford.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Joshua Mooney, MD, MS</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Tushar Desai, MD, MPH</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Henry Guo, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Aparna Goel, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Aruna Subramanian, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Andrei Iagaru, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Guido A Davidzon, MD, MS</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Farshad Moradi, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Benjamin L Franc, MD, MBA</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Carina Marie-Aparici, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Judy Nguyen, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://doi.org/10.1038/s41467-019-11863-w</url>
+    <description>Related Info</description>
+  </link>
+  <results_reference>
+    <citation>Kimura RH, Wang L, Shen B, Huo L, Tummers W, Filipp FV, Guo HH, Haywood T, Abou-Elkacem L, Baratto L, Habte F, Devulapally R, Witney TH, Cheng Y, Tikole S, Chakraborti S, Nix J, Bonagura CA, Hatami N, Mooney JJ, Desai T, Turner S, Gaster RS, Otte A, Visser BC, Poultsides GA, Norton J, Park W, Stolowitz M, Lau K, Yang E, Natarajan A, Ilovich O, Srinivas S, Srinivasan A, Paulmurugan R, Willmann J, Chin FT, Cheng Z, Iagaru A, Li F, Gambhir SS. Evaluation of integrin αvβ(6) cystine knot PET tracers to detect cancer and idiopathic pulmonary fibrosis. Nat Commun. 2019 Oct 14;10(1):4673. doi: 10.1038/s41467-019-11863-w.</citation>
+    <PMID>31611594</PMID>
+  </results_reference>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>May 8, 2017</study_first_submitted>
+  <study_first_submitted_qc>June 8, 2017</study_first_submitted_qc>
+  <study_first_posted type="Actual">June 12, 2017</study_first_posted>
+  <last_update_submitted>November 24, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 24, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 27, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Stanford University</investigator_affiliation>
+    <investigator_full_name>Haiwei Henry Guo</investigator_full_name>
+    <investigator_title>Clinical Associate Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cholangitis</mesh_term>
+    <mesh_term>Cholangitis, Sclerosing</mesh_term>
+    <mesh_term>Pneumonia</mesh_term>
+    <mesh_term>Pulmonary Fibrosis</mesh_term>
+    <mesh_term>Idiopathic Pulmonary Fibrosis</mesh_term>
+    <mesh_term>Fibrosis</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

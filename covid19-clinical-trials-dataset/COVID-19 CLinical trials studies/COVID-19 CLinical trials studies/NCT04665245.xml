@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="404">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04665245</url>
+  </required_header>
+  <id_info>
+    <org_study_id>202007450</org_study_id>
+    <nct_id>NCT04665245</nct_id>
+  </id_info>
+  <brief_title>Symptom-Based Markers for COVID-19 Transmission</brief_title>
+  <official_title>Contact Network Transmission Modeling of Healthcare Associated Infections: Symptom-Based Markers for COVID-19 Transmission</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Iowa</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Iowa</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In this study, COVID-19 positive patients will be added to a bidirectional texting program to&#xD;
+      receive daily surveys about their symptoms with the infection. This data will further the&#xD;
+      understanding of COVID-19 symptom development throughout the infection period, as well as how&#xD;
+      those symptoms vary at different points of the day. This study will be a single cohort,&#xD;
+      observational study of COVID-19 patients.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      One important approach for decreasing COVID-19 transmission in healthcare settings is to&#xD;
+      prevent healthcare professionals from working while ill. Currently, facilities are asking&#xD;
+      screening questions and measuring temperatures to help identify symptomatic healthcare&#xD;
+      professionals and exclude them from providing patient care. Simulations can be used to inform&#xD;
+      the effectiveness of different screening approaches, but the results of these simulations&#xD;
+      depend upon the effectiveness of the intervention, e.g., the ability to identify healthcare&#xD;
+      professionals on their way to work, or to study the impact of healthcare professionals&#xD;
+      returning to work too early. Thus, simulations must necessarily depend upon realistic disease&#xD;
+      parameters: for example, it is suspected that a non-trivial proportion of patients with&#xD;
+      COVID-19 may be asymptomatic or have minimal symptoms, but the relative size of the&#xD;
+      asymptomatic subpopulation is unknown.&#xD;
+&#xD;
+      The plan for this study is to develop a method for granular measurement of twice-daily&#xD;
+      symptoms from healthcare professionals and other research subjects of similar ages. After&#xD;
+      being diagnosed, the goal is to determine what symptoms participants have and how long they&#xD;
+      have had them. This will be done using a previously-developed bidirectional texting platform&#xD;
+      to query participants about symptoms at least twice a day for ten days post diagnosis.&#xD;
+      Participants will be asked about subjective symptoms, including fevers, chills, cough,&#xD;
+      shortness of breath, fatigue, gastrointestinal symptoms, etc. They will also take their&#xD;
+      temperature twice daily during the recovery period, which will help determine the&#xD;
+      effectiveness of screening based on symptoms and/or thermometer readings.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Actual">December 15, 2020</start_date>
+  <completion_date type="Anticipated">April 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Body Temperature</measure>
+    <time_frame>10 days</time_frame>
+    <description>Body temperature taken each morning and evening throughout COVID-19 infection period.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>COVID-19 Symptoms</measure>
+    <time_frame>10 days</time_frame>
+    <description>Any symptoms experienced throughout COVID-19 infection period (aches, cough, decreased sense of taste and/or smell, diarrhea, difficulty breathing, headache, nausea, runny nose, sore throat, shortness of breath).</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">500</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>COVID-19 Positive Patients</arm_group_label>
+    <description>The study only includes one cohort: COVID-19 positive patients. Enrollees will not receive any therapeutic intervention; participants will simply report their temperature and any symptoms experienced twice per day for 10 days.</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The study population will include patients at the University of Iowa Hospitals &amp; Clinics&#xD;
+        (UIHC). Approximately 5,000 people have already tested positive for COVID-19 in Johnson&#xD;
+        County alone, and numbers are continuing to increase. The University of Iowa Hospitals &amp;&#xD;
+        Clinics see many patients from outside of Johnson County as well.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Fluent in English&#xD;
+&#xD;
+          -  Tested positive for COVID-19&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Prisoners&#xD;
+&#xD;
+          -  Unable to provide own informed consent&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Alberto M Segre, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Iowa</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Iowa Hospitals &amp; Clinics</name>
+      <address>
+        <city>Iowa City</city>
+        <state>Iowa</state>
+        <zip>52242</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>December 10, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 10, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 11, 2020</study_first_posted>
+  <last_update_submitted>January 11, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 11, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 12, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Iowa</investigator_affiliation>
+    <investigator_full_name>Alberto Maria Segre</investigator_full_name>
+    <investigator_title>Professor, Chair, Department of Computer Science</investigator_title>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

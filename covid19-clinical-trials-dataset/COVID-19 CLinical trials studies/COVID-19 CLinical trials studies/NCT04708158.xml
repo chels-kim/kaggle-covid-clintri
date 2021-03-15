@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3201">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04708158</url>
+  </required_header>
+  <id_info>
+    <org_study_id>JH-COR-005</org_study_id>
+    <nct_id>NCT04708158</nct_id>
+  </id_info>
+  <brief_title>Novaferon for COVID-19 Treatment Trial (NCTT-005)</brief_title>
+  <official_title>A Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Safety and Efficacy of Aerosolized Novaferon vs. Placebo in Hospitalized Adult Patients With ModerateCOVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Genova Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Genova Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A multicenter, randomized, double-blind, placebo-controlled trial for hospitalized moderate&#xD;
+      COVID-19 patients&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 2021</start_date>
+  <completion_date type="Anticipated">June 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Time to clinical improvement</measure>
+    <time_frame>From enrollment up to Day 28</time_frame>
+    <description>Time to patient clinical improvement by 2 points on a 7-point ordinal scale</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Rate of clinical improvement</measure>
+    <time_frame>Day 1 to Day 10, 14 and 28</time_frame>
+    <description>Rate at which patients show a clinical improvement by 2 points on a 7-point ordinal scale</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of clinical deterioration</measure>
+    <time_frame>Day 1 to Day 10, 14 and 28</time_frame>
+    <description>Rate at which patients show a clinical deterioration by 2 points on a 7-point ordinal scale</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to viral clearance</measure>
+    <time_frame>From enrollment up to Day 28</time_frame>
+    <description>Time taken for patients to demonstrate negative RT-PCR test of SARS-CoV-2 in the samples taken from nasopharyngeal swabs</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of viral clearance</measure>
+    <time_frame>Each Day from Day 1 up to Day 28</time_frame>
+    <description>The rate at which patients demonstrate negative RT-PCR test of SARS-CoV-2 in the samples taken from nasopharyngeal swabs</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in viral load</measure>
+    <time_frame>Each Day from Day 1 up to Day 28</time_frame>
+    <description>Changes of SARS-CoV-2 viral loads in the samples of nasopharyngeal swabs</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality rate</measure>
+    <time_frame>At Day 28</time_frame>
+    <description>Mortality rate</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of hospital stay</measure>
+    <time_frame>From enrollment up to Day 28</time_frame>
+    <description>Number of days the patient is in hospital</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to resolution of symptoms</measure>
+    <time_frame>From enrollment up to Day 28</time_frame>
+    <description>Time taken for patients to demonstrate a resolution of symptoms defined as a (National Early Warning Score 2) NEWS 2 of 0 maintained for 24hours</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Requirement of supplemental oxygen</measure>
+    <time_frame>From enrollment up to Day 28</time_frame>
+    <description>Rate at which patients require supplemental oxygen</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Requirement of mechanical ventilation</measure>
+    <time_frame>From enrollment up to Day 28</time_frame>
+    <description>Rate at which patients require mechanical ventilation (invasive or non-invasive)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of alive patients</measure>
+    <time_frame>At Day 28</time_frame>
+    <description>Rate of patients alive without having to use invasive ventilator or ECMO</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse events</measure>
+    <time_frame>From enrollment up to Day 28</time_frame>
+    <description>Adverse event incidence, type and severity</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">385</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Active</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Inhaled Novaferon, given 20 ug BID, daily for 7 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Inhaled saline (placebo), given BID, daily for 7 days</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Novaferon</intervention_name>
+    <description>a novel recombinant antiviral protein drug</description>
+    <arm_group_label>Active</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Saline</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Written informed consent has been obtained from the participants with age of over 20&#xD;
+             years at the time of signing the informed consent.&#xD;
+&#xD;
+          -  SARS-CoV-2 infection is diagnosed by the positive SARS-CoV-2 detection of RT-PCR tests&#xD;
+             within 72 hours before the start of administration of the investigational drug&#xD;
+&#xD;
+          -  Less than 6 days from onset of COVID-19 symptoms to starting the administration of the&#xD;
+             investigational drug. The symptoms are defined as one or more of the following: fever&#xD;
+             (37.5 ºC or higher), respiratory symptoms (cough, shortness of breath, chest pain,&#xD;
+             sore throat, running nose, nasal congestion, etc.), headache, malaise, abdominal pain,&#xD;
+             diarrhea, nausea, vomiting, loss of smell, loss of taste, or other COVID-19 symptoms&#xD;
+             defined by investigators or physicians.&#xD;
+&#xD;
+          -  Have at least one of the following findings.&#xD;
+&#xD;
+          -  Oxygen saturation (SpO2) measured by pulse oximeter is less than 96% and more than&#xD;
+             93%.&#xD;
+&#xD;
+          -  Chest X-ray or CT scan shows pneumonia findings suggestive of COVID-19 infection&#xD;
+&#xD;
+          -  Need hospitalization and COVID-19-related medical care.&#xD;
+&#xD;
+          -  Require no supplemental oxygen.&#xD;
+&#xD;
+          -  Women (less than 12 months after the last menstrual period) who have a negative&#xD;
+             pregnancy test (urine hCG qualification) and agree to take oral contraceptives or use&#xD;
+             condom during study period.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  History of hypersensitivity to interferon or Novaferon or any excipients of interferon&#xD;
+             or Novaferon.&#xD;
+&#xD;
+          -  Having received other antiviral treatments (Favipiravir, Remdesivir, Interferon,&#xD;
+             etc.).&#xD;
+&#xD;
+          -  CTCAE Grade 3 or higher liver dysfunction (ALT / AST&gt; 5ULN) or renal dysfunction (eGFR&#xD;
+             &lt;30 mL / min / 1.73 m2).&#xD;
+&#xD;
+          -  Active infections or other medical conditions that contraindicate inhalation therapy.&#xD;
+&#xD;
+          -  Inappropriate for inclusion in the clinical trial as determined by investigators.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>20 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Haifeng Kin</last_name>
+    <phone>+81-(0)9061636662</phone>
+    <email>kkin@genova.cn</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Matono Noriaki</last_name>
+    <email>noriaki.matono@iqvia.com</email>
+  </overall_contact_backup>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>January 12, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 12, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 13, 2021</study_first_posted>
+  <last_update_submitted>January 12, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 12, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 13, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>antiviral</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>COVID19</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

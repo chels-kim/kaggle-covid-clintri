@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3205">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04596943</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NL73551.091.20</org_study_id>
+    <secondary_id>2020-001325-31</secondary_id>
+    <nct_id>NCT04596943</nct_id>
+  </id_info>
+  <brief_title>RGD PET/CT Imaging in COVID-19 Patients</brief_title>
+  <official_title>[68Ga]Ga-DOTA-(RGD)2 PET/CT Imaging of Activated Endothelium in Lung Parenchyma of COVID-19 Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Radboud University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Radboud University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Aim: We aim to evaluate αvβ3 integrin expression in proven COVID-19 infected patients with&#xD;
+      indicative findings on routine contrast-enhanced CT using [68Ga]Ga-DOTA-(RGD)2. If activated&#xD;
+      vascular endothelium in the lung parenchyma proceeds ARDS, as frequently observed during&#xD;
+      COVID-19 infection, imaging αvβ3 integrin expression using PET/CT could have potential as a&#xD;
+      clinical tool to characterize patients at early stages during disease and guide development&#xD;
+      of novel treatments targeting the vascular endothelium.&#xD;
+&#xD;
+      Study design: This is a prospective, observational non-randomized pilot study. Maximum 10&#xD;
+      patients will undergo a [68Ga]Ga-DOTA-(RGD)2 PET/CT scan and CT-subtraction scan in the same&#xD;
+      procedure. 10-minutes/bed position static [68Ga]Ga-DOTA-(RGD)2 PET/CT scans of the thorax&#xD;
+      will be acquired starting at 60 minutes post injection.&#xD;
+&#xD;
+      Study population: Maximum 10 patients from the Infectious Diseases ward with proven COVID-19&#xD;
+      infection and indicative pulmonary abnormalities on contrast-enhanced CT (CORADS 4-5) undergo&#xD;
+      PET/CT scans after injection of 70 μg (200 MBq) [68Ga]Ga-DOTA-(RGD)2 and CT-subtraction.&#xD;
+&#xD;
+      Intervention: All patients will undergo a [68Ga]Ga-DOTA-(RGD)2 PET/CT scan, and in the same&#xD;
+      procedure, a CT-subtraction scan.&#xD;
+&#xD;
+      Primary study objective: The primary objective of this study is to demonstrate and quantitate&#xD;
+      activation of the endothelium in the lung vasculature using [68Ga]Ga-DOTA-(RGD)2 PET/CT.&#xD;
+&#xD;
+      Secondary study objectives:&#xD;
+&#xD;
+        1. To assess the spatial correlation between [68Ga]Ga-DOTA-(RGD)2 uptake and abnormal&#xD;
+           findings on routine contrast-enhanced CT scan of the chest&#xD;
+&#xD;
+        2. To assess the spatial correlation between [68Ga]Ga-DOTA-(RGD)2 and CTS of the lung&#xD;
+           parenchyma&#xD;
+&#xD;
+        3. To assess the correlation between [68Ga]Ga-DOTA-(RGD)2 and laboratory results&#xD;
+&#xD;
+        4. To explore the correlation between [68Ga]Ga-DOTA-(RGD)2 uptake and clinical course of&#xD;
+           disease&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 15, 2020</start_date>
+  <completion_date type="Anticipated">January 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>uptake of [68Ga]Ga-DOTA-(RGD)2 in the lung parenchyma</measure>
+    <time_frame>2 months</time_frame>
+    <description>The main study parameter is the uptake of [68Ga]Ga-DOTA-(RGD)2 in the lung parenchyma as quantified by PET/CT (SUVmean ±SD, SUVmax ±SD and SUVpeak ±SD).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>spatial correlation with chest-CT</measure>
+    <time_frame>2 months</time_frame>
+    <description>spatial correlation (per lung segment) with ground-glass opacities, consolidation and vascular thickening</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>spatial correlation with CT-subtraction</measure>
+    <time_frame>2 months</time_frame>
+    <description>spatial correlation (per lung segment) with perfusion abnormalities as measured by CT-subtraction</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>quantitative correlation with laboratory results</measure>
+    <time_frame>2 months</time_frame>
+    <description>quantitative correlation with blood counts and differentiation, ferritin, D-dimer, CRP, liver enzyme panel (ALAT, ASAT, direct and indirect bilirubin, alkaline phosphatase, gamma-GT, LDH)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>explore correlation with clinical parameters</measure>
+    <time_frame>2 months</time_frame>
+    <description>correlation with the following clinical parameters: (time to) eventual ICU admission, length of ICU stay (days), mechanical ventilation parameters, oxygen demand, total length of hospital stay (days)</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">10</enrollment>
+  <condition>Covid19</condition>
+  <condition>Endothelial Dysfunction</condition>
+  <condition>PET Imaging</condition>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>[68Ga]Ga-DOTA-(RGD)2 PET/CT</intervention_name>
+    <description>We have developed a dimeric cyclic RGD peptide conjugated with DOTA as a chelator. If labeled with the positron emitting radionuclide Gallium-68 (68Ga), [68Ga]Ga-DOTA-(RGD)2 can be used to visualize αvβ3 integrin expression with PET</description>
+    <other_name>RGD-PET/CT</other_name>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The study population for this pilot study exists of 10 evaluable patients with a proven&#xD;
+        SARS-CoV-19 infection and pulmonary involvement as demonstrated on chest CT, admitted to&#xD;
+        the Infectious Diseases ward. Patients presenting in the Radboud University Medical Center&#xD;
+        will be considered for recruitment, if they are over the age of 18.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  a microbiologically proven SARS-CoV-19 infection&#xD;
+&#xD;
+          -  pulmonary involvement as demonstrated on recent (&lt;1 week) chest CT, classified as&#xD;
+             CORADS 4 or 5, with indicative findings such as ill-demarcated multifocal ground glass&#xD;
+             opacities, mixed ground glass and consolidations, predominant peripheral and basal&#xD;
+             distribution, vascular thickening, round shaped and/or (reversed) halo&#xD;
+&#xD;
+          -  More than or equal to 18 years of age;&#xD;
+&#xD;
+          -  Ability to provide written informed consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        • Contra-indication for PET: Pregnancy; Breast-feeding; Severe claustrophobia.&#xD;
+&#xD;
+          -  Contra-indication for administration of iodine-containing contrast agents.&#xD;
+&#xD;
+          -  Saturation &lt;94% at room air (without need of additional oxygen)&#xD;
+&#xD;
+          -  Previously documented lung abnormalities that can interfere with interpretation of&#xD;
+             research scans, e.g. extensive fibrosis, known interstitial lung disease, pulmonary&#xD;
+             metastases, known pulmonary involvement of granulomatous diseases.&#xD;
+&#xD;
+          -  Oth Estimated creatinine clearance &lt; 30mL/min according to the Cockcroft-Gault formula&#xD;
+             (or local institutional standard method) OR oligo-uric patients (&lt;400mL/24hr)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Erik Aarntzen, MD, PhD</last_name>
+    <phone>0031(0)243614840</phone>
+    <email>erik.aarntzen@radboudumc.nl</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Radboudumc</name>
+      <address>
+        <city>Nijmegen</city>
+        <zip>6500HB</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Erik Aarntzen, MD, PhD</last_name>
+      <phone>0031(0)243614840</phone>
+      <email>erik.aarntzen@radboudumc.nl</email>
+    </contact>
+    <contact_backup>
+      <last_name>Frank Van de Veerdonk, MD, PhD</last_name>
+      <phone>0031(0)243614840</phone>
+      <email>frank.vandeveerdonk@radboudumc.nl</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Netherlands</country>
+  </location_countries>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>October 20, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 20, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 22, 2020</study_first_posted>
+  <last_update_submitted>October 20, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 20, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 22, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>endothelial dysfunction</keyword>
+  <keyword>PET imaging</keyword>
+  <keyword>RGD-peptides</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

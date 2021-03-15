@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4085">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04736680</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2392</org_study_id>
+    <nct_id>NCT04736680</nct_id>
+  </id_info>
+  <brief_title>Pediatric Virtual Visits as a Strategy for Access to Care During the COVID-19 Pandemic in a Pediatric Hospital</brief_title>
+  <official_title>Pediatric Virtual Visits as a Strategy for Access to Care During the COVID-19 Pandemic in a Pediatric Hospital. Missed Appointments Rates, Associated Factors, Generation and Validation of Predictive Models</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hospital General de Niños Pedro de Elizalde</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hospital General de Niños Pedro de Elizalde</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In this study we will describe the factors associated with missed virtual visit appointments&#xD;
+      in an academic children´s hospital during the covid-19 pandemic and we will develop a&#xD;
+      predictive model that serves as the basis for improving the Telehealth Program.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Pediatric visits are a fundamental axis of health policies because actions to promote and&#xD;
+      protect health have a maximum effect on children. Due to the COVID-19 pandemic a marked&#xD;
+      decrease in pediatric visits was observed in scheduled and on-call visits. This fact can be&#xD;
+      explained by the restriction on people's circulation necessary to contain COVID-19&#xD;
+      dissemination. In this context, the population that attends the Hospital General de Niños&#xD;
+      Pedro de Elizalde was especially affected, since 91% of the patients attending the&#xD;
+      institution live in another district.&#xD;
+&#xD;
+      In order to overcome this barrier in access to care, we decided to implement a Telehealth&#xD;
+      Program that uses virtual visits as a tool for access to care. Little is known about the&#xD;
+      effects that these programs can have on patients with exclusive public health coverage.&#xD;
+      Although virtual visits could be a solution for access to care in an oversaturated system,&#xD;
+      there is the possibility that virtual visits could not be carried out and that a significant&#xD;
+      proportion will be lost, increasing inequity and difficulties in access to health.&#xD;
+&#xD;
+      Due to the relevance of the topic and the little information available, we propose in this&#xD;
+      study to estimate the proportion of virtual visits appointments lost. On the other hand,&#xD;
+      considering the possibility of avoiding the loss of virtual visits appointments, we propose&#xD;
+      to describe the factors associated with missed appointments and develop a predictive model&#xD;
+      that serves as the basis for improving the Telehealth Program.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 1, 2021</start_date>
+  <completion_date type="Anticipated">September 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">September 1, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Prevalence of missed appointments</measure>
+    <time_frame>6 months</time_frame>
+    <description>Characterize, describe and compare the clinical and administrative characteristics of outpatients who didn't attend and attended an appointment in pediatrics</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Clinical and administrative characteristics</measure>
+    <time_frame>6 months</time_frame>
+    <description>Characterize, describe and compare the clinical and administrative characteristics of outpatients who didn't attend and attended an appointment in pediatrics</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">667</enrollment>
+  <condition>Telehealth</condition>
+  <arm_group>
+    <arm_group_label>Lost Virtual Visit</arm_group_label>
+    <description>Pediatric patients who had scheduled an appointment for a virtual visit and missed.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Attended Virtual Visit</arm_group_label>
+    <description>Pediatric patients who had scheduled an appointment for a virtual visit and attended.</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All scheduled virtual visit appointments between August 1 2020 and 31 december 2020 will be&#xD;
+        included. The sample will be randomized to allocate a generation cohort (two-thirds of the&#xD;
+        sample) and a validation cohort (one third of the sample).&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  All scheduled virtual visits&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  On-call virtual visits&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>1 Month</minimum_age>
+    <maximum_age>18 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mariano E Ibarra, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hospital General de Niños Pedro de Elizalde</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Mariano E Ibarra, MD</last_name>
+    <phone>54 11 3663 0798</phone>
+    <email>marianoestebanibarra@gmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Diego H Giunta, PhD</last_name>
+    <phone>54 11 58256489</phone>
+    <email>diego.giunta@hospitalitaliano.org.ar</email>
+  </overall_contact_backup>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 1, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 1, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 3, 2021</study_first_posted>
+  <last_update_submitted>February 1, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 1, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 3, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Telehealth</keyword>
+  <keyword>Children</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>virtual visit</keyword>
+  <keyword>Lost appointments</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2034">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04706533</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HUM00178971</org_study_id>
+    <nct_id>NCT04706533</nct_id>
+  </id_info>
+  <brief_title>Michigan Medicine COVID-19 Cohort: Clinical Characteristics, Inflammatory Markers and Outcomes of Patients Hospitalized for COVID-19</brief_title>
+  <acronym>M2C2</acronym>
+  <official_title>Prospective Observational Study Examining Clinical Characteristics, Inflammatory Markers, Treatments and Outcomes of Patients Hospitalized for COVID-19 at the University of Michigan Healthcare System in Ann Arbor</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Michigan</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Michigan</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To better understand the role of inflammation in COVID-19, we established the Michigan&#xD;
+      Medicine COVID-19 Cohort (M2C2). M2C2 is a funded and ongoing cohort which has currently&#xD;
+      enrolled over 1500 adult patients (≥18 years) with severe COVID-19 admitted at the University&#xD;
+      of Michigan. The purpose of M2C2 is to define the in-hospital course of these patients and&#xD;
+      understand the role of inflammation as a determinant of organ injury and outcomes in&#xD;
+      COVID-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The Michigan Medicine COVID-19 Cohort is a prospective observational cohort study of patients&#xD;
+      hospitalized specifically for COVID-19 at the University of Michigan Health System in Ann&#xD;
+      Arbor. Medical records of all consecutive patients with a positive SARS-CoV-2 are reviewed,&#xD;
+      and patients with confirmed SARS-CoV-2 infection but not primarily admitted for COVID-19 were&#xD;
+      excluded.&#xD;
+&#xD;
+      Biologic samples of patients enrolled in M2C2 were collected, and clinical characteristics&#xD;
+      including in-hospital outcomes were characterized in detail.&#xD;
+&#xD;
+      Biomarkers measured include, but not be limited to, soluble urokinase plasminogen activator&#xD;
+      receptor (suPAR), high sensitive C reactive protein (hs-CRP), brain natriuretic protein&#xD;
+      (BNP), high sensitive troponin T (hsTnT), interleukin 6 (IL-6), osteopontin, a2-antiplasmin.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 23, 2020</start_date>
+  <completion_date type="Anticipated">June 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Death, need for mechanical ventilation or need for dialysis</measure>
+    <time_frame>Total duration of the Covid-19 hospitalization, up to 1 year</time_frame>
+    <description>The primary outcome is a composite endpoint, which is defined as the need for mechanical ventilation, the need for dialysis, or in-hospital death.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>All-cause death</measure>
+    <time_frame>Total duration of the Covid-19 hospitalization, up to 1 year</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Need for mechanical ventilation</measure>
+    <time_frame>Total duration of the Covid-19 hospitalization, up to 1 year</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Need for dialysis</measure>
+    <time_frame>Total duration of the Covid-19 hospitalization, up to 1 year</time_frame>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Length of hospitalization</measure>
+    <time_frame>Total duration of the Covid-19 hospitalization, up to 1 year</time_frame>
+  </other_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">2000</enrollment>
+  <condition>Covid19</condition>
+  <condition>Kidney Diseases</condition>
+  <condition>Inflammation</condition>
+  <condition>SARS-CoV Infection</condition>
+  <arm_group>
+    <arm_group_label>Covid-19</arm_group_label>
+    <description>Patients with confirmed SARS-CoV-2 infection presenting specifically for Covid-19</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Biomarkers of inflammation</intervention_name>
+    <description>Biomarkers were measured on blood samples collected within 48 hours of admission</description>
+    <arm_group_label>Covid-19</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Plasma, serum and urine&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Adults (&gt;18 years) presenting or transferred to the University of Michigan Health System in&#xD;
+        Ann Arbor&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Confirmed SARS-CoV-2 infection&#xD;
+&#xD;
+          -  Hospitalized primarily for the treatment of COVID-19&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  SARS-CoV-2 positive but hospitalized for non-COVID-19 reasons&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Salim Hayek, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Michigan</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Salim Hayek, MD</last_name>
+    <phone>734-936-3500</phone>
+    <email>shayek@umich.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Penney Kunkle</last_name>
+    <email>penegonz@umich.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of Michigan</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Pennelope K Kunkle</last_name>
+      <phone>734-936-3500</phone>
+      <email>penegonz@umich.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Salim S Hayek, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://hayek.lab.medicine.umich.edu/research/covid19</url>
+    <description>Related Info</description>
+  </link>
+  <reference>
+    <citation>Azam TU, Shadid HR, Blakely P, O'Hayer P, Berlin H, Pan M, Zhao P, Zhao L, Pennathur S, Pop-Busui R, Altintas I, Tingleff J, Stauning MA, Andersen O, Adami ME, Solomonidi N, Tsilika M, Tober-Lau P, Arnaoutoglou E, Keitel V, Tacke F, Chalkias A, Loosen SH, Giamarellos-Bourboulis EJ, Eugen-Olsen J, Reiser J, Hayek SS; International Study of Inflammation in COVID-19. Soluble Urokinase Receptor (SuPAR) in COVID-19-Related AKI. J Am Soc Nephrol. 2020 Nov;31(11):2725-2735. doi: 10.1681/ASN.2020060829. Epub 2020 Sep 22.</citation>
+    <PMID>32963090</PMID>
+  </reference>
+  <reference>
+    <citation>Gupta S, Hayek SS, Wang W, Chan L, Mathews KS, Melamed ML, Brenner SK, Leonberg-Yoo A, Schenck EJ, Radbel J, Reiser J, Bansal A, Srivastava A, Zhou Y, Sutherland A, Green A, Shehata AM, Goyal N, Vijayan A, Velez JCQ, Shaefi S, Parikh CR, Arunthamakun J, Athavale AM, Friedman AN, Short SAP, Kibbelaar ZA, Abu Omar S, Admon AJ, Donnelly JP, Gershengorn HB, Hernán MA, Semler MW, Leaf DE; STOP-COVID Investigators. Factors Associated With Death in Critically Ill Patients With Coronavirus Disease 2019 in the US. JAMA Intern Med. 2020 Jul 15. doi: 10.1001/jamainternmed.2020.3596. [Epub ahead of print]</citation>
+    <PMID>32667668</PMID>
+  </reference>
+  <reference>
+    <citation>Gupta S, Coca SG, Chan L, Melamed ML, Brenner SK, Hayek SS, Sutherland A, Puri S, Srivastava A, Leonberg-Yoo A, Shehata AM, Flythe JE, Rashidi A, Schenck EJ, Goyal N, Hedayati SS, Dy R, Bansal A, Athavale A, Nguyen HB, Vijayan A, Charytan DM, Schulze CE, Joo MJ, Friedman AN, Zhang J, Sosa MA, Judd E, Velez JCQ, Mallappallil M, Redfern RE, Bansal AD, Neyra JA, Liu KD, Renaghan AD, Christov M, Molnar MZ, Sharma S, Kamal O, Boateng JO, Short SAP, Admon AJ, Sise ME, Wang W, Parikh CR, Leaf DE; and the STOP-COVID Investigators. AKI Treated with Renal Replacement Therapy in Critically Ill Patients with COVID-19. J Am Soc Nephrol. 2021 Jan;32(1):161-176. doi: 10.1681/ASN.2020060897. Epub 2020 Oct 16.</citation>
+    <PMID>33067383</PMID>
+  </reference>
+  <reference>
+    <citation>Hayek SS, Brenner SK, Azam TU, Shadid HR, Anderson E, Berlin H, Pan M, Meloche C, Feroz R, O'Hayer P, Kaakati R, Bitar A, Padalia K, Perry D, Blakely P, Gupta S, Shaefi S, Srivastava A, Charytan DM, Bansal A, Mallappallil M, Melamed ML, Shehata AM, Sunderram J, Mathews KS, Sutherland AK, Nallamothu BK, Leaf DE; STOP-COVID Investigators. In-hospital cardiac arrest in critically ill patients with covid-19: multicenter cohort study. BMJ. 2020 Sep 30;371:m3513. doi: 10.1136/bmj.m3513.</citation>
+    <PMID>32998872</PMID>
+  </reference>
+  <reference>
+    <citation>Gupta S, Wang W, Hayek SS, Chan L, Mathews KS, Melamed ML, Brenner SK, Leonberg-Yoo A, Schenck EJ, Radbel J, Reiser J, Bansal A, Srivastava A, Zhou Y, Finkel D, Green A, Mallappallil M, Faugno AJ, Zhang J, Velez JCQ, Shaefi S, Parikh CR, Charytan DM, Athavale AM, Friedman AN, Redfern RE, Short SAP, Correa S, Pokharel KK, Admon AJ, Donnelly JP, Gershengorn HB, Douin DJ, Semler MW, Hernán MA, Leaf DE; STOP-COVID Investigators. Association Between Early Treatment With Tocilizumab and Mortality Among Critically Ill Patients With COVID-19. JAMA Intern Med. 2021 Jan 1;181(1):41-51. doi: 10.1001/jamainternmed.2020.6252.</citation>
+    <PMID>33080002</PMID>
+  </reference>
+  <reference>
+    <citation>Flythe JE, Assimon MM, Tugman MJ, Chang EH, Gupta S, Shah J, Sosa MA, Renaghan AD, Melamed ML, Wilson FP, Neyra JA, Rashidi A, Boyle SM, Anand S, Christov M, Thomas LF, Edmonston D, Leaf DE; STOP-COVID Investigators. Characteristics and Outcomes of Individuals With Pre-existing Kidney Disease and COVID-19 Admitted to Intensive Care Units in the United States. Am J Kidney Dis. 2020 Sep 19. pii: S0272-6386(20)30999-9. doi: 10.1053/j.ajkd.2020.09.003. [Epub ahead of print]</citation>
+    <PMID>32961244</PMID>
+  </reference>
+  <reference>
+    <citation>Molnar MZ, Bhalla A, Azhar A, Tsujita M, Talwar M, Balaraman V, Sodhi A, Kadaria D, Eason JD, Hayek SS, Coca SG, Shaefi S, Neyra JA, Gupta S, Leaf DE, Kovesdy CP; STOP-COVID Investigators. Outcomes of critically ill solid organ transplant patients with COVID-19 in the United States. Am J Transplant. 2020 Nov;20(11):3061-3071. doi: 10.1111/ajt.16280. Epub 2020 Sep 15.</citation>
+    <PMID>32844546</PMID>
+  </reference>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>January 8, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 11, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 13, 2021</study_first_posted>
+  <last_update_submitted>January 11, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 11, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 13, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Michigan</investigator_affiliation>
+    <investigator_full_name>Salim S. Hayek</investigator_full_name>
+    <investigator_title>Assistant Professor of Internal Medicine</investigator_title>
+  </responsible_party>
+  <keyword>Biomarkers</keyword>
+  <keyword>Outcomes</keyword>
+  <keyword>Inflammation</keyword>
+  <keyword>suPAR</keyword>
+  <keyword>C-reactive protein</keyword>
+  <keyword>Interleukin-6</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+    <mesh_term>Kidney Diseases</mesh_term>
+    <mesh_term>Inflammation</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Data will be shared with interested parties who submit a written request</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2254">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04741061</url>
+  </required_header>
+  <id_info>
+    <org_study_id>01 - Sputnik Light - 2021</org_study_id>
+    <nct_id>NCT04741061</nct_id>
+  </id_info>
+  <brief_title>Study to Evaluate Efficacy, Immunogenicity and Safety of the Sputnik-Light</brief_title>
+  <acronym>SPUTNIK-LIGHT</acronym>
+  <official_title>A Phase III, Randomized, Double-blind, Placebo-controlled International Multicenter Study to Evaluate Efficacy, Immunogenicity and Safety of the Sputnik-Light Vector Vaccine in the Parallel Assignment of the Subjects in Prophylactic Treatment for SARS-СoV-2 Infection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Gamaleya Research Institute of Epidemiology and Microbiology, Health Ministry of the Russian Federation</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>RDIF (Russian Direct Investment Fund)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>CRO: iPharma</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Government of the city of Moscow</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Gamaleya Research Institute of Epidemiology and Microbiology, Health Ministry of the Russian Federation</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study Global sponsor is planning several parallel studies of Sputnik-Light vector vaccine&#xD;
+      across the globe in United Arab Emirates, Russia and possibly in other countries in case of&#xD;
+      confirmation associated with the same medical product under similar protocols. The key&#xD;
+      objective of this study is to be conducted in several parallel studies of the same vaccine&#xD;
+      above the other countries. Using similar protocols on a portfolio basis of studies let us&#xD;
+      collect data for Efficacy, Immunogenicity, Safety and Tolerability confirmation of the&#xD;
+      Sputnik-Light vaccine.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study is randomized, double-blind (blinded for the study subject and investigators),&#xD;
+      placebo-controlled international multicenter study in the parallel assignment of the subjects&#xD;
+      to assess efficacy, immunogenicity and safety of the Sputnik-Light vector vaccine in adults&#xD;
+      in the SARS-СoV-2 infection prophylactic treatment&#xD;
+&#xD;
+      The subjects will be randomized into two groups in the ratio of 1:3; a control group (1500&#xD;
+      subjects receiving placebo) and a study group (4500 subjects receiving the Sputnik-Light&#xD;
+      vector vaccine against the SARS-СoV-2-induced COVID19 infection).&#xD;
+&#xD;
+      For the evaluation of immunogenicity an unbalanced design is adopted of the placebo and&#xD;
+      vaccinated group at a 1:3 ratio. Subsequently the number of subjects in Subgroup A tested&#xD;
+      will be 1076 subjects, distributed as follows: 269 in the placebo group and 807 in the&#xD;
+      vaccinated group, also randomized into two groups in the ratio of 1:3 who will attend for&#xD;
+      assessment of immunogenicity compared to baseline.&#xD;
+&#xD;
+      Each subjects will participate in the trial for approximately 6 months after the first dose&#xD;
+      of the study vaccine/placebo and will have at least tree on-site visits, including a&#xD;
+      screening visit to the study clinical site during the study period and several observation&#xD;
+      Phone Call/ Tele-consultation visits during the study&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 15, 2021</start_date>
+  <completion_date type="Anticipated">January 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>randomized, double-blind (blinded for the study subject and investigators), placebo-controlled</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence and severity of adverse events in study subjects</measure>
+    <time_frame>through the whole study, an average of 180 days</time_frame>
+    <description>Incidence and severity of AEs and SAEs during the subject's participation in the study</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of study subjects with COVID-19 cases developed after vaccination</measure>
+    <time_frame>through the whole study, an average of 180 days</time_frame>
+    <description>Percentage of study subjects with COVID-19 cases developed after vaccination with the Sputnik-Light vector vaccine as compared with placebo</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Humoral immunogenicity (Quantitative IgG antibodies to SARS-CoV-2 S Protein)</measure>
+    <time_frame>at days 0, 42, 180</time_frame>
+    <description>Geometric mean titer (GMT) levels of Quantitative IgG antibodies</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Humoral immunogenicity (IgG SARS-CoV-2 N-antibodies)</measure>
+    <time_frame>at days 0, 42, 180</time_frame>
+    <description>Percentage of study subjects who have a post-treatment response as measures with Qualitative IgG SARS-CoV-2 N-antibodies</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">6000</enrollment>
+  <condition>COVID-19 Prevention</condition>
+  <arm_group>
+    <arm_group_label>Sputnik Light Vaccine</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>study group (4500 receiving the Sputnik-Light vector vaccine) against the SARS-СoV-2-induced coronavirus infection.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo Group</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>control group (1500 subjects receiving placebo)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Sputnik Light</intervention_name>
+    <description>Sputnik-Light vector vaccine:&#xD;
+Active substance: recombinant adenovirus serotype 26 particles containing the SARS-CoV-2 protein S gene, in the amount of (1.0±0.5) х 1011 particles per dose.</description>
+    <arm_group_label>Sputnik Light Vaccine</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo</description>
+    <arm_group_label>Placebo Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Agree to sign the study informed consent form (ICF) before performing any study&#xD;
+             specific procedure&#xD;
+&#xD;
+          2. Adults ≥ 18 years old&#xD;
+&#xD;
+          3. Negative COVID-19 PCR test result at the screening visit and negative&#xD;
+             immunochromatographic SARS-CoV-2 antigen rapid-test result at the enrolment&#xD;
+&#xD;
+          4. Consent for using effective methods of contraception during the study&#xD;
+&#xD;
+          5. No evidence of vaccine-induced reactions or complications after receiving&#xD;
+             immunobiological products in medical history&#xD;
+&#xD;
+          6. No acute infectious and/or respiratory diseases within at least 14 days before the&#xD;
+             enrolment&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Any previous vaccination/immunization (within 30 days before the enrollment) and any&#xD;
+             planned vaccination within 30 days after enrollment&#xD;
+&#xD;
+          2. Any previous or planning COVID-19 vaccination with any other Regulatory approved&#xD;
+             vaccine&#xD;
+&#xD;
+          3. Positive SARS-CoV-2 screening result obtained by PCR (at screening)&#xD;
+&#xD;
+          4. Administration of steroids (except hormonal contraceptives) and/or immunoglobulins or&#xD;
+             other blood products therapy not finished 30 days before the enrollment&#xD;
+&#xD;
+          5. Pregnancy or lactation&#xD;
+&#xD;
+          6. Acute coronary syndrome or stroke suffered less than one year before study enrollment&#xD;
+&#xD;
+          7. Tuberculosis, chronic systemic infections associated with Immunocompromised subjects&#xD;
+             in medical history&#xD;
+&#xD;
+          8. History of severe allergic reaction to drug or vaccine (anaphylactic shock, Quincke's&#xD;
+             edema, and other life-threatening allergic reactions), acute exacerbation of allergic&#xD;
+             diseases on screening and vaccination day&#xD;
+&#xD;
+          9. Chronic autoimmune disease and system collagenases in medical history&#xD;
+&#xD;
+         10. Organ transplantation and immunosuppressive therapy&#xD;
+&#xD;
+         11. Immunosuppressive therapy and corticosteroid system therapy within 3 months before the&#xD;
+             enrollment&#xD;
+&#xD;
+         12. Subjects with malignant neoplasms within 5 years before the enrollment&#xD;
+&#xD;
+         13. Splenectomy in the past medical history&#xD;
+&#xD;
+         14. Neutropenia (absolute neutrophil count &lt;1,000 mm3 agranulocytosis, significant blood&#xD;
+             loss, severe anemia (hemoglobin &lt;80 g/L), immunodeficient disease in the medical&#xD;
+             history within 6 months before the enrollment&#xD;
+&#xD;
+         15. The active form of a disease caused by the human immunodeficiency virus, syphilis,&#xD;
+             hepatitis B, or C&#xD;
+&#xD;
+         16. Acute Kidney injury or dialysis&#xD;
+&#xD;
+         17. Anorexia or dysnutrition&#xD;
+&#xD;
+         18. Tattoos at the injection site (deltoid muscle area), which in the medical opinion of&#xD;
+             the investigator does not allow assessing the local response to the vaccine/placebo&#xD;
+&#xD;
+         19. Alcohol or Drug abuse in medical history&#xD;
+&#xD;
+         20. Participation in other interventional clinical trial within the previous 90 days prior&#xD;
+             to vaccination and over duration of the trial&#xD;
+&#xD;
+         21. Any other condition that the investigator considers as a barrier to the trial&#xD;
+             completion as per the protocol&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>111 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Elena Merkulova</last_name>
+    <phone>+7 (495) 276 11 43</phone>
+    <phone_ext>495</phone_ext>
+    <email>eam@ipharma.ru</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Federal State Autonomous Educational Institution for Higher Education &quot;Immanuel Kant Baltic Federal University&quot;</name>
+      <address>
+        <city>Kaliningrad</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Vladimir Rafalskiy</last_name>
+    </contact>
+    <investigator>
+      <last_name>Vladimir Rafalskiy</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>State Budgetary Healthcare Institution, Moscow, Consultation and Diagnosis Polyclinic No. 121, Moscow Healthcare Department</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>State Budgetary Healthcare Institution, Moscow, Municipal Polyclinic No. 210, Moscow Healthcare Department</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>State Budgetary Healthcare Institution, Moscow, Municipal Polyclinic No. 219, Moscow Healthcare Department</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>State budgetary institution of health care of the city of Moscow &quot;diagnostic centre № 5 associated with policlinic department of Moscow Healthcare Department&quot;</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Tamara Vilegzhanina</last_name>
+    </contact>
+    <investigator>
+      <last_name>Tamara Vilegzhanina</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>State budgetary institution of health care of the city of Moscow &quot;diagnostic clinical centre № 1 Moscow Healthcare Department &quot;</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Natalia Shartanova</last_name>
+    </contact>
+    <investigator>
+      <last_name>Natalia Shartanova</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>State budgetary institution of health care of the city of Moscow &quot;Municipal Polyclinic № 2 Moscow Healthcare Department&quot;</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Sergey Fitilev, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Sergey Fitilev</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>State budgetary institution of health care of the city of Moscow &quot;Municipal Polyclinic № 36 Moscow Healthcare Department&quot;</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Irina Isakova</last_name>
+    </contact>
+    <investigator>
+      <last_name>Irina Isakova</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>State budgetary institution of health care of the city of Moscow &quot;Municipal Polyclinic № 6 Moscow Healthcare Department&quot;</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Marina Ivzhits</last_name>
+    </contact>
+    <investigator>
+      <last_name>Marina Ivzhits</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>State budgetary institution of health care of the city of Moscow &quot;Municipal Polyclinic № 62 Moscow Healthcare Department&quot;</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Marina Rusanova, MD, PhD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Marina Rusanova</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>State budgetary institution of health care of the city of Moscow &quot;Municipal Polyclinic № 64 Moscow Healthcare Department&quot;</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Svetlana Rachina</last_name>
+    </contact>
+    <investigator>
+      <last_name>Svetlana Rachina</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>St. Petersburg's state budgetary health care Institution &quot;Municipal hospital № 40 of Kurortniy area&quot;</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Alina Agafina, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Alina Agafina</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>St. Petersburg's state budgetary health care Institution &quot;Municipal hospital №117&quot;</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Diana Alpenidze</last_name>
+    </contact>
+    <investigator>
+      <last_name>Diana Alpenidze</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Federal state budgetary educational Institution for Higher Education &quot;Saratov State Medical University named after V.I. Razumovskiy&quot; Ministry of Health of Russian Federation</name>
+      <address>
+        <city>Saratov</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Yury Shvarts</last_name>
+    </contact>
+    <investigator>
+      <last_name>Yury Shvarts</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>LLC &quot;Uromed&quot;</name>
+      <address>
+        <city>Smolensk</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Alla Andreeva</last_name>
+    </contact>
+    <investigator>
+      <last_name>Alla Andreeva</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Russian Federation</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 2, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 4, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 5, 2021</study_first_posted>
+  <last_update_submitted>February 4, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 4, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 5, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>vaccine</keyword>
+  <keyword>vector vaccine</keyword>
+  <keyword>adenovirus vector</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

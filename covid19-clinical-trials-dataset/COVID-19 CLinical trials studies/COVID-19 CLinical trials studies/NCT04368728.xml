@@ -1,0 +1,2221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1651">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04368728</url>
+  </required_header>
+  <id_info>
+    <org_study_id>C4591001</org_study_id>
+    <secondary_id>2020-002641-42</secondary_id>
+    <nct_id>NCT04368728</nct_id>
+  </id_info>
+  <brief_title>Study to Describe the Safety, Tolerability, Immunogenicity, and Efficacy of RNA Vaccine Candidates Against COVID-19 in Healthy Individuals</brief_title>
+  <official_title>A PHASE 1/2/3, PLACEBO-CONTROLLED, RANDOMIZED, OBSERVER-BLIND, DOSE-FINDING STUDY TO EVALUATE THE SAFETY, TOLERABILITY, IMMUNOGENICITY, AND EFFICACY OF SARS-COV-2 RNA VACCINE CANDIDATES AGAINST COVID-19 IN HEALTHY INDIVIDUALS</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>BioNTech SE</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Pfizer</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>BioNTech SE</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a Phase 1/2/3, randomized, placebo-controlled, observer-blind, dose-finding, vaccine&#xD;
+      candidate-selection, and efficacy study in healthy individuals.&#xD;
+&#xD;
+      The study consists of 2 parts: Phase 1: to identify preferred vaccine candidate(s) and dose&#xD;
+      level(s); Phase 2/3: an expanded cohort and efficacy part.&#xD;
+&#xD;
+      The study will evaluate the safety, tolerability, and immunogenicity of 2 different SARS CoV&#xD;
+      2 RNA vaccine candidates against COVID 19 and the efficacy of 1 candidate:&#xD;
+&#xD;
+        -  As a 2-dose (separated by 21 days) schedule;&#xD;
+&#xD;
+        -  At various different dose levels in Phase 1;&#xD;
+&#xD;
+        -  In 3 age groups (Phase 1: 18 to 55 years of age, 65 to 85 years of age; Phase 2/3: ≥12&#xD;
+           years of age [stratified as 12-15, 16-55 or &gt;55 years of age]).&#xD;
+&#xD;
+      The candidate selected for evaluation in Phase 2/3 is BNT162b2 (mid-dose).&#xD;
+&#xD;
+      Participants ≥16 years of age who originally received placebo will be offered the opportunity&#xD;
+      to receive BNT162b2 at defined points as part of the study.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">April 29, 2020</start_date>
+  <completion_date type="Anticipated">January 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">August 3, 2021</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage of participants in Phase 1 reporting local reactions</measure>
+    <time_frame>For 7 days after dose 1 and dose 2</time_frame>
+    <description>Pain at the injection site, redness, and swelling as self-reported on electronic diaries.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of participants in Phase 1 reporting systemic events</measure>
+    <time_frame>For 7 days after dose 1 and dose 2</time_frame>
+    <description>Fever, fatigue, headache, chills, vomiting, diarrhea, new or worsened muscle pain, and new or worsened joint pain as self-reported on electronic diaries.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of participants in Phase 1 reporting adverse events</measure>
+    <time_frame>From dose 1 through 1 month after the last dose</time_frame>
+    <description>As elicited by investigational site staff</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of participants in Phase 1 reporting serious adverse events</measure>
+    <time_frame>From dose 1 through 6 months after the last dose</time_frame>
+    <description>As elicited by investigational site staff</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of Phase 1 participants with abnormal hematology and chemistry laboratory values</measure>
+    <time_frame>1 day after dose 1</time_frame>
+    <description>As measured at the central laboratory</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of Phase 1 participants with abnormal hematology and chemistry laboratory values</measure>
+    <time_frame>7 days after dose 1</time_frame>
+    <description>As measured at the central laboratory</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of Phase 1 participants with abnormal hematology and chemistry laboratory values</measure>
+    <time_frame>7 days after dose 2</time_frame>
+    <description>As measured at the central laboratory</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of Phase 1 participants with grading shifts in hematology and chemistry laboratory assessments</measure>
+    <time_frame>Between baseline and 1 day after dose 1</time_frame>
+    <description>As measured at the central laboratory</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of Phase 1 participants with grading shifts in hematology and chemistry laboratory assessments</measure>
+    <time_frame>Between baseline and 7 days after dose 1</time_frame>
+    <description>As measured at the central laboratory</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of Phase 1 participants with grading shifts in hematology and chemistry laboratory assessments</measure>
+    <time_frame>Between before dose 2 and 7 days after dose 2</time_frame>
+    <description>As measured at the central laboratory</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>In the first 360 participants randomized into Phase 2/3, percentage of participants reporting local reactions</measure>
+    <time_frame>For 7 days after dose 1 and dose 2</time_frame>
+    <description>Pain at the injection site, redness, and swelling as self-reported on electronic diaries.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>In the first 360 participants randomized into Phase 2/3, percentage of participants reporting systemic events</measure>
+    <time_frame>For 7 days after dose 1 and dose 2</time_frame>
+    <description>Fever, fatigue, headache, chills, vomiting, diarrhea, new or worsened muscle pain, and new or worsened joint pain as self-reported on electronic diaries.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>In the first 360 participants randomized into Phase 2/3, percentage of participants reporting adverse events</measure>
+    <time_frame>From dose 1 through 1 month after the last dose</time_frame>
+    <description>As elicited by investigational site staff</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>In the first 360 participants randomized into Phase 2/3, percentage of participants reporting serious adverse events</measure>
+    <time_frame>From dose 1 through 6 months after the last dose</time_frame>
+    <description>As elicited by investigational site staff</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>In a subset of at least 6000 participants randomized in Phase 2/3, percentage of participants reporting local reactions</measure>
+    <time_frame>For 7 days after dose 1 and dose 2</time_frame>
+    <description>Pain at the injection site, redness, and swelling as self-reported on electronic diaries.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>In a subset of at least 6000 participants randomized in Phase 2/3, percentage of participants reporting systemic events</measure>
+    <time_frame>For 7 days after dose 1 and dose 2</time_frame>
+    <description>Fever, fatigue, headache, chills, vomiting, diarrhea, new or worsened muscle pain, and new or worsened joint pain as self-reported on electronic diaries.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of participants in Phase 2/3 reporting adverse events</measure>
+    <time_frame>From dose 1 through 1 month after the last dose</time_frame>
+    <description>As elicited by investigational site staff</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of participants in Phase 2/3 reporting serious adverse events</measure>
+    <time_frame>From dose 1 through 6 months after the last dose</time_frame>
+    <description>As elicited by investigational site staff</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Confirmed COVID-19 in Phase 2/3 participants without evidence of infection before vaccination</measure>
+    <time_frame>From 7 days after the second dose of study intervention to the end of the study, up to 2 years</time_frame>
+    <description>Per 1000 person-years of follow-up</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Confirmed COVID-19 in Phase 2/3 participants with and without evidence of infection before vaccination</measure>
+    <time_frame>From 7 days after the second dose of study intervention to the end of the study, up to 2 years</time_frame>
+    <description>Per 1000 person-years of follow-up</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of participants 12-15 years of age in Phase 3 reporting adverse events</measure>
+    <time_frame>From dose 1 through 1 month after the last dose</time_frame>
+    <description>As elicited by investigational site staff</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of participants 12-15 years of age in Phase 3 reporting adverse events</measure>
+    <time_frame>From dose 1 through 6 months after the last dose</time_frame>
+    <description>As elicited by investigational site staff</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>In participants 12-15 years of age randomized in Phase 3, percentage of participants reporting local reactions</measure>
+    <time_frame>For 7 days after dose 1 and dose 2</time_frame>
+    <description>Pain at the injection site, redness, and swelling as self-reported on electronic diaries.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>In participants 12-15 years of age randomized in Phase 3, percentage of participants reporting systemic events</measure>
+    <time_frame>For 7 days after dose 1 and dose 2</time_frame>
+    <description>Fever, fatigue, headache, chills, vomiting, diarrhea, new or worsened muscle pain, and new or worsened joint pain as self-reported on electronic diaries.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>In Phase 1 participants, SARS-CoV-2 serum neutralizing antibody levels, expressed as GMTs</measure>
+    <time_frame>Through 2 years after the final dose</time_frame>
+    <description>As measured at the central laboratory</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>In Phase 1 participants, GMFR in SARS-CoV-2 serum neutralizing titers from before vaccination to each subsequent time point</measure>
+    <time_frame>Through 2 years after the final dose</time_frame>
+    <description>As measured at the central laboratory</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants in Phase 1 achieving a greater than or equal to 4-fold rise from before vaccination in SARS-CoV-2 serum neutralizing antibody levels</measure>
+    <time_frame>Through 2 years after the final dose</time_frame>
+    <description>As measured at the central laboratory</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>In Phase 1 participants, SARS-CoV-2 anti-S1 binding antibody levels and anti-RBD binding antibody levels, expressed as GMCs</measure>
+    <time_frame>Through 2 years after the final dose</time_frame>
+    <description>As measured at the central laboratory</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants in Phase 1 achieving a greater than or equal to 4-fold rise from before vaccination in SARS-CoV-2 anti-S1 binding antibody levels and anti-RBD binding antibody levels</measure>
+    <time_frame>Through 2 years after the final dose</time_frame>
+    <description>As measured at the central laboratory</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>In Phase 1 participants, GMFR in SARS-CoV-2 anti-S1 binding antibody levels and anti-RBD binding antibody levels from before vaccination to each subsequent time point</measure>
+    <time_frame>Through 2 years after the final dose</time_frame>
+    <description>As measured at the central laboratory</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>In Phase 1 participants, GMR of the geometric mean of SARS-CoV-2 serum neutralizing titers to the geometric mean of SARS CoV 2 (anti-S1 and anti-RBD) binding antibody levels</measure>
+    <time_frame>Through 2 years after the final dose</time_frame>
+    <description>As measured at the central laboratory</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Confirmed COVID-19 in Phase 2/3 participants without evidence of infection before vaccination</measure>
+    <time_frame>From 14 days after the second dose of study intervention to the end of the study, up to 2 years</time_frame>
+    <description>Per 1000 person-years of follow-up</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Confirmed COVID-19 in Phase 2/3 participants with and without evidence of infection before vaccination</measure>
+    <time_frame>From 14 days after the second dose of study intervention to the end of the study, up to 2 years</time_frame>
+    <description>Per 1000 person-years of follow-up</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Confirmed severe COVID-19 in Phase 2/3 participants without evidence of infection before vaccination</measure>
+    <time_frame>From 7 days after the second dose of study intervention to the end of the study, up to 2 years</time_frame>
+    <description>Per 1000 person-years of follow-up</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Confirmed severe COVID-19 in Phase 2/3 participants without evidence of infection before vaccination</measure>
+    <time_frame>From 14 days after the second dose of study intervention to the end of the study, up to 2 years</time_frame>
+    <description>Per 1000 person-years of follow-up</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Confirmed severe COVID-19 in Phase 2/3 participants with and without evidence of infection before vaccination</measure>
+    <time_frame>From 7 days after the second dose of study intervention to the end of the study, up to 2 years</time_frame>
+    <description>Per 1000 person-years of follow-up</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Confirmed severe COVID-19 in Phase 2/3 participants with and without evidence of infection before vaccination</measure>
+    <time_frame>From 14 days after the second dose of study intervention to the end of the study, up to 2 years</time_frame>
+    <description>Per 1000 person-years of follow-up</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Confirmed COVID-19 (according to the CDC-defined symptoms) in Phase 2/3 participants without evidence of infection before vaccination</measure>
+    <time_frame>From 7 days after the second dose of study intervention to the end of the study, up to 2 years</time_frame>
+    <description>Per 1000 person-years of follow-up</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Confirmed COVID-19 (according to the CDC-defined symptoms) in Phase 2/3 participants without evidence of infection before vaccination</measure>
+    <time_frame>From 14 days after the second dose of study intervention to the end of the study, up to 2 years</time_frame>
+    <description>Per 1000 person-years of follow-up</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Confirmed COVID-19 (according to the CDC-defined symptoms) in Phase 2/3 participants with and without evidence of infection before vaccination</measure>
+    <time_frame>From 7 days after the second dose of study intervention to the end of the study, up to 2 years</time_frame>
+    <description>Per 1000 person-years of follow-up</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Confirmed COVID-19 (according to the CDC-defined symptoms) in Phase 2/3 participants with and without evidence of infection before vaccination</measure>
+    <time_frame>From 14 days after the second dose of study intervention to the end of the study, up to 2 years</time_frame>
+    <description>Per 1000 person-years of follow-up</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>GMR of SARS CoV 2 neutralizing titers in the 2 age groups (12-15 years of age to 16-25 years of age)</measure>
+    <time_frame>1 month after the second dose</time_frame>
+    <description>As measured at the central laboratory</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of asymptomatic SARS CoV-2 infection based on N binding antibody seroconversion in participants with no serological or virological evidence of past SARS CoV-2 infection or confirmed COVID-19 prior to 1 month after receipt of the second dose</measure>
+    <time_frame>Through 1 month after the second dose</time_frame>
+    <description>Per 1000 person-years of follow-up</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of asymptomatic SARS CoV-2 infection based on central laboratory-confirmed NAAT in participants with no serological or virological evidence (up to the start of the asymptomatic surveillance period) of past SARS-CoV-2 infection</measure>
+    <time_frame>Through 6 months after the second dose</time_frame>
+    <description>Per 1000 person-years of follow-up</description>
+  </secondary_outcome>
+  <number_of_arms>13</number_of_arms>
+  <enrollment type="Anticipated">43998</enrollment>
+  <condition>SARS-CoV-2 Infection</condition>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Low dose, 18-55 years of age (2 doses)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Low-mid dose, 18-55 years of age (2 doses)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Mid dose, 18-55 years of age (2 doses)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Low dose, 65-85 years of age (2 doses)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Low-mid dose, 65-85 years of age (2 doses)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Mid dose, 65-85 years of age (2 doses)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Mid dose, ≥12 years of age (2 doses)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo, 18-55 years of age</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo, 65-85 years of age</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo, ≥12 years of age</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>High dose, 18-55 years of age (2 doses)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Vaccination of Placebo recipients with BNT162b2 - Stage 1</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Participants ≥16 years of age who originally received placebo and are eligible for COVID-19 vaccination following any local or national recommendations will be offered the opportunity to receive BNT162b2 as part of the study.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Vaccination of placebo recipients with BNT162b2 - Stage 2</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Participants ≥16 years of age who originally received placebo will be offered the opportunity to receive BNT162b2 at defined points as part of the study.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>BNT162b1</intervention_name>
+    <description>Intramuscular injection</description>
+    <arm_group_label>High dose, 18-55 years of age (2 doses)</arm_group_label>
+    <arm_group_label>Low dose, 18-55 years of age (2 doses)</arm_group_label>
+    <arm_group_label>Low dose, 65-85 years of age (2 doses)</arm_group_label>
+    <arm_group_label>Low-mid dose, 18-55 years of age (2 doses)</arm_group_label>
+    <arm_group_label>Low-mid dose, 65-85 years of age (2 doses)</arm_group_label>
+    <arm_group_label>Mid dose, 18-55 years of age (2 doses)</arm_group_label>
+    <arm_group_label>Mid dose, 65-85 years of age (2 doses)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>BNT162b2</intervention_name>
+    <description>Intramuscular injection</description>
+    <arm_group_label>Low dose, 18-55 years of age (2 doses)</arm_group_label>
+    <arm_group_label>Low dose, 65-85 years of age (2 doses)</arm_group_label>
+    <arm_group_label>Low-mid dose, 18-55 years of age (2 doses)</arm_group_label>
+    <arm_group_label>Low-mid dose, 65-85 years of age (2 doses)</arm_group_label>
+    <arm_group_label>Mid dose, 18-55 years of age (2 doses)</arm_group_label>
+    <arm_group_label>Mid dose, 65-85 years of age (2 doses)</arm_group_label>
+    <arm_group_label>Mid dose, ≥12 years of age (2 doses)</arm_group_label>
+    <arm_group_label>Vaccination of Placebo recipients with BNT162b2 - Stage 1</arm_group_label>
+    <arm_group_label>Vaccination of placebo recipients with BNT162b2 - Stage 2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Intramuscular injection</description>
+    <arm_group_label>Placebo, 18-55 years of age</arm_group_label>
+    <arm_group_label>Placebo, 65-85 years of age</arm_group_label>
+    <arm_group_label>Placebo, ≥12 years of age</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Male or female participants between the ages of 18 and 55 years, inclusive, 65 and 85&#xD;
+             years, inclusive, or ≥12 years, inclusive, at randomization (dependent upon study&#xD;
+             phase). Note that participants &lt;18 years of age cannot be enrolled in the EU.&#xD;
+&#xD;
+          -  Participants who are willing and able to comply with all scheduled visits, vaccination&#xD;
+             plan, laboratory tests, lifestyle considerations, and other study procedures.&#xD;
+&#xD;
+          -  Healthy participants who are determined by medical history, physical examination, and&#xD;
+             clinical judgment of the investigator to be eligible for inclusion in the study.&#xD;
+&#xD;
+          -  Participants who, in the judgment of the investigator, are at risk for acquiring&#xD;
+             COVID-19.&#xD;
+&#xD;
+          -  Capable of giving personal signed informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Other medical or psychiatric condition including recent (within the past year) or&#xD;
+             active suicidal ideation/behavior or laboratory abnormality that may increase the risk&#xD;
+             of study participation or, in the investigator's judgment, make the participant&#xD;
+             inappropriate for the study.&#xD;
+&#xD;
+          -  Phases 1 and 2 only: Known infection with human immunodeficiency virus (HIV),&#xD;
+             hepatitis C virus (HCV), or hepatitis B virus (HBV).&#xD;
+&#xD;
+          -  History of severe adverse reaction associated with a vaccine and/or severe allergic&#xD;
+             reaction (eg, anaphylaxis) to any component of the study intervention(s).&#xD;
+&#xD;
+          -  Receipt of medications intended to prevent COVID 19.&#xD;
+&#xD;
+          -  Previous clinical (based on COVID-19 symptoms/signs alone, if a SARS-CoV-2 NAAT result&#xD;
+             was not available) or microbiological (based on COVID-19 symptoms/signs and a positive&#xD;
+             SARS-CoV-2 NAAT result) diagnosis of COVID 19&#xD;
+&#xD;
+          -  Phase 1 only: Individuals at high risk for severe COVID-19, including those with any&#xD;
+             of the following risk factors:&#xD;
+&#xD;
+               -  Hypertension&#xD;
+&#xD;
+               -  Diabetes mellitus&#xD;
+&#xD;
+               -  Chronic pulmonary disease&#xD;
+&#xD;
+               -  Asthma&#xD;
+&#xD;
+               -  Current vaping or smoking&#xD;
+&#xD;
+               -  History of chronic smoking within the prior year&#xD;
+&#xD;
+               -  BMI &gt;30 kg/m2&#xD;
+&#xD;
+               -  Anticipating the need for immunosuppressive treatment within the next 6 months&#xD;
+&#xD;
+          -  Phase 1 only: Individuals currently working in occupations with high risk of exposure&#xD;
+             to SARS-CoV-2 (eg, healthcare worker, emergency response personnel).&#xD;
+&#xD;
+          -  Immunocompromised individuals with known or suspected immunodeficiency, as determined&#xD;
+             by history and/or laboratory/physical examination.&#xD;
+&#xD;
+          -  Phase 1 only: Individuals with a history of autoimmune disease or an active autoimmune&#xD;
+             disease requiring therapeutic intervention.&#xD;
+&#xD;
+          -  Bleeding diathesis or condition associated with prolonged bleeding that would, in the&#xD;
+             opinion of the investigator, contraindicate intramuscular injection.&#xD;
+&#xD;
+          -  Women who are pregnant or breastfeeding.&#xD;
+&#xD;
+          -  Previous vaccination with any coronavirus vaccine.&#xD;
+&#xD;
+          -  Individuals who receive treatment with immunosuppressive therapy, including cytotoxic&#xD;
+             agents or systemic corticosteroids, eg, for cancer or an autoimmune disease, or&#xD;
+             planned receipt throughout the study.&#xD;
+&#xD;
+          -  Phase 1 only: Regular receipt of inhaled/nebulized corticosteroids.&#xD;
+&#xD;
+          -  Receipt of blood/plasma products or immunoglobulin, from 60 days before study&#xD;
+             intervention administration or planned receipt throughout the study.&#xD;
+&#xD;
+          -  Participation in other studies involving study intervention within 28 days prior to&#xD;
+             study entry and/or during study participation.&#xD;
+&#xD;
+          -  Previous participation in other studies involving study intervention containing lipid&#xD;
+             nanoparticles.&#xD;
+&#xD;
+          -  Phase 1 only: Positive serological test for SARS-CoV-2 IgM and/or IgG antibodies at&#xD;
+             the screening visit.&#xD;
+&#xD;
+          -  Phase 1 only: Any screening hematology and/or blood chemistry laboratory value that&#xD;
+             meets the definition of a ≥ Grade 1 abnormality.&#xD;
+&#xD;
+          -  Phase 1 only: Positive test for HIV, hepatitis B surface antigen (HBsAg), hepatitis B&#xD;
+             core antibodies (HBc Abs), or hepatitis C virus antibodies (HCV Abs) at the screening&#xD;
+             visit.&#xD;
+&#xD;
+          -  Phase 1 only: SARS-CoV-2 NAAT-positive nasal swab within 24 hours before receipt of&#xD;
+             study intervention.&#xD;
+&#xD;
+          -  Investigator site staff or Pfizer employees directly involved in the conduct of the&#xD;
+             study, site staff otherwise supervised by the investigator, and their respective&#xD;
+             family members.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>12 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Pfizer CT.gov Call Center</last_name>
+    <role>Study Director</role>
+    <affiliation>Pfizer</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>North Alabama Research Center, LLC</name>
+      <address>
+        <city>Athens</city>
+        <state>Alabama</state>
+        <zip>35611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Birmingham Clinical Research Unit</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35216</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medical Affiliated Research Center</name>
+      <address>
+        <city>Huntsville</city>
+        <state>Alabama</state>
+        <zip>35801</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Optimal Research, LLC</name>
+      <address>
+        <city>Huntsville</city>
+        <state>Alabama</state>
+        <zip>35802</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Alliance for Multispecialty Research, LLC</name>
+      <address>
+        <city>Mobile</city>
+        <state>Alabama</state>
+        <zip>36608</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Chinle Comprehensive Health Care Facility</name>
+      <address>
+        <city>Chinle</city>
+        <state>Arizona</state>
+        <zip>86503</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Johns Hopkins Center for American Indian Health</name>
+      <address>
+        <city>Chinle</city>
+        <state>Arizona</state>
+        <zip>86503</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Pain Center of Arizona</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85018</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>HOPE Research Institute</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85023</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Alliance for Multispecialty Research, LLC</name>
+      <address>
+        <city>Tempe</city>
+        <state>Arizona</state>
+        <zip>85281</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Whiteriver Indian Hospital</name>
+      <address>
+        <city>Whiteriver</city>
+        <state>Arizona</state>
+        <zip>85941</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Anaheim Clinical Trials, LLC</name>
+      <address>
+        <city>Anaheim</city>
+        <state>California</state>
+        <zip>92801</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Collaborative Neuroscience Research, LLC</name>
+      <address>
+        <city>Long Beach</city>
+        <state>California</state>
+        <zip>90806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Long Beach Clinical Trials Services Inc.</name>
+      <address>
+        <city>Long Beach</city>
+        <state>California</state>
+        <zip>90806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente Los Angeles Medical Center</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90027</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>National Research Institute</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90057</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Providence Clinical Research</name>
+      <address>
+        <city>North Hollywood</city>
+        <state>California</state>
+        <zip>91606</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Paradigm Clinical Research Center</name>
+      <address>
+        <city>Redding</city>
+        <state>California</state>
+        <zip>96001</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente Sacramento</name>
+      <address>
+        <city>Sacramento</city>
+        <state>California</state>
+        <zip>95815</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UC Davis Medical Center</name>
+      <address>
+        <city>Sacramento</city>
+        <state>California</state>
+        <zip>95817</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>California Research Foundation</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92123-1881</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente Santa Clara</name>
+      <address>
+        <city>Santa Clara</city>
+        <state>California</state>
+        <zip>95051</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bayview Research Group</name>
+      <address>
+        <city>Valley Village</city>
+        <state>California</state>
+        <zip>91607</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Diablo Clinical Research, Inc.</name>
+      <address>
+        <city>Walnut Creek</city>
+        <state>California</state>
+        <zip>94598</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Lynn Institute of Denver</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80012</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Consulting, LLC</name>
+      <address>
+        <city>Milford</city>
+        <state>Connecticut</state>
+        <zip>06460</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Yale Center for Clinical Investigations (CSRU)</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06519</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Alliance for Multispecialty Research</name>
+      <address>
+        <city>Coral Gables</city>
+        <state>Florida</state>
+        <zip>33134</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>DeLand Clinical Research Unit</name>
+      <address>
+        <city>DeLand</city>
+        <state>Florida</state>
+        <zip>32720</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Fleming Island Center for Clinical Research</name>
+      <address>
+        <city>Fleming Island</city>
+        <state>Florida</state>
+        <zip>32003</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Indago Research &amp; Health Center, Inc.</name>
+      <address>
+        <city>Hialeah</city>
+        <state>Florida</state>
+        <zip>33012</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Research Centers of America</name>
+      <address>
+        <city>Hollywood</city>
+        <state>Florida</state>
+        <zip>33024</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Jacksonville Center for Clinical Research</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32216</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Neuroscience Solutions, Inc.</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32256</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Acevedo Clinical Research Associates</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33142</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Neuroscience Solutions, Inc</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32801</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Atlanta Center for Medical Research</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30331</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>IACT Health</name>
+      <address>
+        <city>Columbus</city>
+        <state>Georgia</state>
+        <zip>31904</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Meridian Clinical Research, LLC</name>
+      <address>
+        <city>Savannah</city>
+        <state>Georgia</state>
+        <zip>31406</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Atlanta</name>
+      <address>
+        <city>Stockbridge</city>
+        <state>Georgia</state>
+        <zip>30281</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>East-West Medical Research Institute</name>
+      <address>
+        <city>Honolulu</city>
+        <state>Hawaii</state>
+        <zip>96814</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Solaris Clinical Research</name>
+      <address>
+        <city>Meridian</city>
+        <state>Idaho</state>
+        <zip>83646</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Optimal Research, LLC</name>
+      <address>
+        <city>Peoria</city>
+        <state>Illinois</state>
+        <zip>61614</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Iowa Hospitals &amp; Clinics</name>
+      <address>
+        <city>Iowa City</city>
+        <state>Iowa</state>
+        <zip>52242</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Alliance for Multispecialty Research, LLC</name>
+      <address>
+        <city>Newton</city>
+        <state>Kansas</state>
+        <zip>67114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Alliance for Multispecialty Research, LLC</name>
+      <address>
+        <city>Wichita</city>
+        <state>Kansas</state>
+        <zip>67207</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kentucky Pediatric/ Adult Research</name>
+      <address>
+        <city>Bardstown</city>
+        <state>Kentucky</state>
+        <zip>40004</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Benchmark Research</name>
+      <address>
+        <city>Metairie</city>
+        <state>Louisiana</state>
+        <zip>70006</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ochsner Clinic Foundation</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70121</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>LSUHSC-Shreveport Clinical Trials Office</name>
+      <address>
+        <city>Shreveport</city>
+        <state>Louisiana</state>
+        <zip>71101</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>LSUHSC-Shreveport</name>
+      <address>
+        <city>Shreveport</city>
+        <state>Louisiana</state>
+        <zip>71103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Pharmaron CPC, Inc.</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Maryland, Center for Vaccine Development and Global Health</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Center for Immunization Research Inpatient Unit</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21224</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Boston Medical Center</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02118</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UMass Memorial Medical Center - University Campus</name>
+      <address>
+        <city>Worcester</city>
+        <state>Massachusetts</state>
+        <zip>01655</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Michigan Center for Medical Research</name>
+      <address>
+        <city>Farmington Hills</city>
+        <state>Michigan</state>
+        <zip>48334</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>MedPharmics, LLC</name>
+      <address>
+        <city>Gulfport</city>
+        <state>Mississippi</state>
+        <zip>39503</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Professionals</name>
+      <address>
+        <city>Chesterfield</city>
+        <state>Missouri</state>
+        <zip>63005</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sundance Clinical Research, LLC</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63141</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bozeman Health Deaconess Hospital dba Bozeman Health Clinical Research</name>
+      <address>
+        <city>Bozeman</city>
+        <state>Montana</state>
+        <zip>59715</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Methodist Physicians Clinic / CCT Research</name>
+      <address>
+        <city>Fremont</city>
+        <state>Nebraska</state>
+        <zip>68025</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Meridian Clinical Research, LLC</name>
+      <address>
+        <city>Norfolk</city>
+        <state>Nebraska</state>
+        <zip>68701</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Quality Clinical Research, Inc.</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Meridian Clinical Research</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68134</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Wake Research-Clinical Research Center of Nevada, LLC</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Amici Clinical Research</name>
+      <address>
+        <city>Raritan</city>
+        <state>New Jersey</state>
+        <zip>08869</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>South Jersey Infectious Disease</name>
+      <address>
+        <city>Somers Point</city>
+        <state>New Jersey</state>
+        <zip>08244</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Johns Hopkins Center for American Indian Health</name>
+      <address>
+        <city>Gallup</city>
+        <state>New Mexico</state>
+        <zip>87301</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Johns Hopkins Center for American Indian Health</name>
+      <address>
+        <city>Shiprock</city>
+        <state>New Mexico</state>
+        <zip>87420</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Meridian Clinical Research, LLC</name>
+      <address>
+        <city>Binghamton</city>
+        <state>New York</state>
+        <zip>13901</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Meridian Clinical Research LLC</name>
+      <address>
+        <city>Endwell</city>
+        <state>New York</state>
+        <zip>13760</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NYU Langone Health</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Icahn School of Medicine at Mount Sinai</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10029</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Rochester Clinical Research, Inc.</name>
+      <address>
+        <city>Rochester</city>
+        <state>New York</state>
+        <zip>14609</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Rochester Regional Health/Rochester General Hospital</name>
+      <address>
+        <city>Rochester</city>
+        <state>New York</state>
+        <zip>14621</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>SUNY Upstate Medical University</name>
+      <address>
+        <city>Syracuse</city>
+        <state>New York</state>
+        <zip>13210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PMG Research of Raleigh, LLC d/b/a PMG Research of Cary</name>
+      <address>
+        <city>Cary</city>
+        <state>North Carolina</state>
+        <zip>27518</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PMG Research of Charlotte LLC</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28209</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Duke University Medicine Circle- Duke Early Phase Clinical Research Unit</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PharmQuest</name>
+      <address>
+        <city>Greensboro</city>
+        <state>North Carolina</state>
+        <zip>27408</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PMG Research of Hickory, LLC</name>
+      <address>
+        <city>Hickory</city>
+        <state>North Carolina</state>
+        <zip>28601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PMG Research of Raleigh, LLC</name>
+      <address>
+        <city>Raleigh</city>
+        <state>North Carolina</state>
+        <zip>27609</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>M3 Wake Research, Inc.</name>
+      <address>
+        <city>Raleigh</city>
+        <state>North Carolina</state>
+        <zip>27612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PMG Research of Salisbury, LLC</name>
+      <address>
+        <city>Salisbury</city>
+        <state>North Carolina</state>
+        <zip>28144</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PMG Research of Wilmington, LLC</name>
+      <address>
+        <city>Wilmington</city>
+        <state>North Carolina</state>
+        <zip>28401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PMG Research of Winston-Salem, LLC</name>
+      <address>
+        <city>Winston-Salem</city>
+        <state>North Carolina</state>
+        <zip>27103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Lillestol Research LLC</name>
+      <address>
+        <city>Fargo</city>
+        <state>North Dakota</state>
+        <zip>58104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sterling Research Group, Ltd.</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45219</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cincinnati Children's Hospital Medical Center</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45229-3039</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sterling Research Group, Ltd.</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45246</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospitals Cleveland Medical Center</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>VA Northeast Ohio Healthcare System</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Rapid Medical Research, Inc.</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44122</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Aventiv Research Inc.</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Dayton Clinical Research</name>
+      <address>
+        <city>Dayton</city>
+        <state>Ohio</state>
+        <zip>45406</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PriMED Clinical Research</name>
+      <address>
+        <city>Dayton</city>
+        <state>Ohio</state>
+        <zip>45419</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Senders Pediatrics</name>
+      <address>
+        <city>South Euclid</city>
+        <state>Ohio</state>
+        <zip>44121</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Lynn Institute of Norman</name>
+      <address>
+        <city>Norman</city>
+        <state>Oklahoma</state>
+        <zip>73069</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente Northwest-Center for Health Research</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97227</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Lehigh Valley Health Network/Network Office of Research and Innovation</name>
+      <address>
+        <city>Allentown</city>
+        <state>Pennsylvania</state>
+        <zip>18102</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Omega Medical Research</name>
+      <address>
+        <city>Warwick</city>
+        <state>Rhode Island</state>
+        <zip>02886</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Main Street Physician's Care</name>
+      <address>
+        <city>Little River</city>
+        <state>South Carolina</state>
+        <zip>29566</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Main Street Physician's Care</name>
+      <address>
+        <city>Loris</city>
+        <state>South Carolina</state>
+        <zip>29569</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Meridian Clinical Research</name>
+      <address>
+        <city>Dakota Dunes</city>
+        <state>South Dakota</state>
+        <zip>57049</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Holston Medical Group</name>
+      <address>
+        <city>Bristol</city>
+        <state>Tennessee</state>
+        <zip>37620</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Holston Medical Group</name>
+      <address>
+        <city>Kingsport</city>
+        <state>Tennessee</state>
+        <zip>37660</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Alliance for Multispecialty Research, LLC</name>
+      <address>
+        <city>Knoxville</city>
+        <state>Tennessee</state>
+        <zip>37920</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Neuroscience Solutions, Inc.</name>
+      <address>
+        <city>Memphis</city>
+        <state>Tennessee</state>
+        <zip>38119</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Associates, Inc.</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Trinity Clinical Research</name>
+      <address>
+        <city>Tullahoma</city>
+        <state>Tennessee</state>
+        <zip>37388</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Benchmark Research</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>ARC Clinical Research at Wilson Parke</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78726</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Tekton Research, Inc.</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78745</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>North Texas Infectious Diseases Consultants, P.A.</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75246</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ventavia Research Group, LLC</name>
+      <address>
+        <city>Fort Worth</city>
+        <state>Texas</state>
+        <zip>76104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Benchmark Research</name>
+      <address>
+        <city>Fort Worth</city>
+        <state>Texas</state>
+        <zip>76135</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Texas Medical Branch</name>
+      <address>
+        <city>Galveston</city>
+        <state>Texas</state>
+        <zip>77555</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ventavia Research Group, LLC</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77008</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Center for Drug Development, Inc.</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77081</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ventavia Research Group, LLC</name>
+      <address>
+        <city>Keller</city>
+        <state>Texas</state>
+        <zip>76248</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>SMS Clinical Research, LLC</name>
+      <address>
+        <city>Mesquite</city>
+        <state>Texas</state>
+        <zip>75149</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>LinQ Research, LLC</name>
+      <address>
+        <city>Pearland</city>
+        <state>Texas</state>
+        <zip>77584</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Benchmark Research.</name>
+      <address>
+        <city>San Angelo</city>
+        <state>Texas</state>
+        <zip>76904</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Trials of Texas, Inc.</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Diagnostics Research Group</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Martin Diagnostic Clinic</name>
+      <address>
+        <city>Tomball</city>
+        <state>Texas</state>
+        <zip>77375</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>J. Lewis Research, Inc. / Foothill Family Clinic</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>J. Lewis Research, Inc. / Foothill Family Clinic South</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84121</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Alliance for Research &amp; Education - Infectious Diseases, LLC (CARE-ID)</name>
+      <address>
+        <city>Annandale</city>
+        <state>Virginia</state>
+        <zip>22003</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Virginia Research Center LLC</name>
+      <address>
+        <city>Midlothian</city>
+        <state>Virginia</state>
+        <zip>23114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Benaroya Research Institute at Virginia Mason</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98101</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Wenatchee Valley Hospital</name>
+      <address>
+        <city>Wenatchee</city>
+        <state>Washington</state>
+        <zip>98801</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Militar Central Cirujano Mayor Dr. Cosme Argerich</name>
+      <address>
+        <city>Caba</city>
+        <zip>1426</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Santo Antonio/ Associacao Obras Sociais Irma Dulce</name>
+      <address>
+        <city>Salvador</city>
+        <state>BA</state>
+        <zip>40415-006</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CEPIC - Centro Paulista de Investigacao Clinica e Servicos Medicos Ltda (Casa Branca)</name>
+      <address>
+        <city>Sao Paulo</city>
+        <zip>04266-010</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CRS Clinical Research Services Berlin GmbH</name>
+      <address>
+        <city>Berlin</city>
+        <zip>13353</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medizentrum Essen Borbeck</name>
+      <address>
+        <city>Essen</city>
+        <zip>45355</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>IKF Pneumologie GmbH &amp; Co KG</name>
+      <address>
+        <city>Frankfurt am Main</city>
+        <zip>60596</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsklinikum Hamburg-Eppendorf</name>
+      <address>
+        <city>Hamburg</city>
+        <zip>20359</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CRS Clinical Research Services Mannheim GmbH</name>
+      <address>
+        <city>Mannheim</city>
+        <zip>68167</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Studienzentrum Brinkum Dr. Lars Pohlmeier und Torsten Drescher</name>
+      <address>
+        <city>Stuhr</city>
+        <zip>28816</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Newtown Clinical Research Centre</name>
+      <address>
+        <city>Johannesburg</city>
+        <state>Gauteng</state>
+        <zip>2113</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Jongaie Research</name>
+      <address>
+        <city>Pretoria</city>
+        <state>Gauteng</state>
+        <zip>0183</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Limpopo Clinical Research Initiative</name>
+      <address>
+        <city>Thabazimbi</city>
+        <state>Limpopo</state>
+        <zip>0380</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Tiervlei Trial Centre, Basement Level, Karl Bremer Hospital</name>
+      <address>
+        <city>Cape Town</city>
+        <state>Western CAPE</state>
+        <zip>7530</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ankara Universitesi Tip Fakultesi, Ibni Sina Hastanesi</name>
+      <address>
+        <city>Ankara</city>
+        <zip>06230</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hacettepe Universitesi Tip Fakultesi</name>
+      <address>
+        <city>Ankara</city>
+        <zip>06230</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Istanbul Yedikule Gogus Hastaliklari ve Gogus Cerrahisi Egitim Arastirma Hastanesi</name>
+      <address>
+        <city>Istanbul</city>
+        <zip>34020</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Istanbul Universitesi Istanbul Tip Fakultesi</name>
+      <address>
+        <city>Istanbul</city>
+        <zip>34093</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Istanbul Universitesi-Cerrahpasa, Cerrahpasa Tip Fakultesi</name>
+      <address>
+        <city>Istanbul</city>
+        <zip>34098</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medipol Mega Universite Hastanesi</name>
+      <address>
+        <city>Istanbul</city>
+        <zip>34214</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Acibadem Atakent Hastanesi</name>
+      <address>
+        <city>Istanbul</city>
+        <zip>34303</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Kocaeli Universitesi Tip Fakultesi</name>
+      <address>
+        <city>Kocaeli</city>
+        <zip>41380</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sakarya Universitesi Egitim ve Arastirma Hastanesi</name>
+      <address>
+        <city>Sakarya</city>
+        <zip>54100</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Argentina</country>
+    <country>Brazil</country>
+    <country>Germany</country>
+    <country>South Africa</country>
+    <country>Turkey</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://pmiform.com/clinical-trial-info-request?StudyID=C4591001</url>
+    <description>To obtain contact information for a study center near you, click here.</description>
+  </link>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>April 27, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 29, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 30, 2020</study_first_posted>
+  <last_update_submitted>January 20, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 20, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 22, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Coronavirus</keyword>
+  <keyword>Vaccine</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>RNA Vaccine</keyword>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Pfizer will provide access to individual de-identified participant data and related study documents (e.g. protocol, Statistical Analysis Plan (SAP), Clinical Study Report (CSR)) upon request from qualified researchers, and subject to certain criteria, conditions, and exceptions. Further details on Pfizer's data sharing criteria and process for requesting access can be found at: https://www.pfizer.com/science/clinical_trials/trial_data_and_results/data_requests.</ipd_description>
+    <ipd_url>https://www.pfizer.com/science/clinical_trials/trial_data_and_results/data_requests</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

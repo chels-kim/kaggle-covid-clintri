@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="975">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04725097</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20-011415</org_study_id>
+    <nct_id>NCT04725097</nct_id>
+  </id_info>
+  <brief_title>A Study to Evaluate Rapid Throughput Screening for Human COVID-19 Infection</brief_title>
+  <official_title>Rapid Throughput Screening for Human COVID-19 Infection: A ECG Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Mayo Clinic</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Mayo Clinic</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to assess the ability of an artificial intelligence&#xD;
+      smartphone-enabled point of care ECG to detect COVID-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 10, 2020</start_date>
+  <completion_date type="Anticipated">August 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">July 31, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>COVID 19 Detection</measure>
+    <time_frame>One time screening within 4 hours of PCR test</time_frame>
+    <description>Determine the safety and feasibility of the POC AI-ECG's ability to detect active SARS-Cov-2 infection in humans.</description>
+  </primary_outcome>
+  <enrollment type="Anticipated">10000</enrollment>
+  <condition>Covid19</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Detection of COVID-19 when compared to a PCR test in asymptomatic patients.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adult males and females age 18 or greater.&#xD;
+&#xD;
+          -  Undergoing COVID-19 testing by PCR.&#xD;
+&#xD;
+          -  Willing and able to provide informed consent.&#xD;
+&#xD;
+          -  Pregnant females (minimal risk study, no risk from ECG).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        - Unwilling or unable to provide informed consent.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>89 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Elie F Berbari, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Mayo Clinic</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>J Dugan</last_name>
+    <phone>507-538-1125</phone>
+    <email>dugan.jennifer@mayo.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Mayo Clinic</name>
+      <address>
+        <city>Rochester</city>
+        <state>Minnesota</state>
+        <zip>55902</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>J Dugan</last_name>
+      <email>dugan.jennifer@mayo.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Paul A Friedman, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Elie Berbari, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Sri Jayadeva</name>
+      <address>
+        <city>Bengaluru</city>
+        <state>Karnataka</state>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Deepak Padmanabhan, M.D.</last_name>
+      <email>deepak.padmanabhan@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Jayaprakash Shenthar, M.D.</last_name>
+    </contact_backup>
+    <investigator>
+      <last_name>C.N. Manjunath, M.D.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Gregorio Marañon Hospital</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Felipe Atienza Fernandez, M.D.</last_name>
+      <email>felipe.atienza@salud.madrid.org</email>
+    </contact>
+    <investigator>
+      <last_name>Francisco Fdez-Aviles, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Imperial College</name>
+      <address>
+        <city>London</city>
+        <state>England</state>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>N. Peters, M.D.</last_name>
+    </contact>
+    <contact_backup>
+      <last_name>M Kelshiker, M.D.</last_name>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>India</country>
+    <country>Spain</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://www.mayo.edu/research/clinical-trials</url>
+    <description>Mayo Clinic Clinical Trials</description>
+  </link>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>January 25, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 25, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 26, 2021</study_first_posted>
+  <last_update_submitted>January 25, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 25, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 26, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Mayo Clinic</investigator_affiliation>
+    <investigator_full_name>Elie F. Berbari</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

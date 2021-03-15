@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2017">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04619628</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CDX-CoV-001</org_study_id>
+    <nct_id>NCT04619628</nct_id>
+  </id_info>
+  <brief_title>Safety and Immunogenicity of COVI-VAC, a Live Attenuated Vaccine Against COVID-19</brief_title>
+  <official_title>First-in-human, Randomised, Double-blind, Placebo-controlled, Dose-escalation Study in Healthy Young Adults Evaluating the Safety and Immunogenicity of COVI-VAC, a Live Attenuated Vaccine Candidate for Prevention of COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Codagenix, Inc</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Codagenix, Inc</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is the first study of COVI-VAC in humans. The purpose of the study is to evaluate the&#xD;
+      safety and immune response of COVI-VAC (a live attenuated vaccine to prevent COVID-19) in&#xD;
+      healthy adults aged 18 to 30 years. Approximately 48 participants will be enrolled into 1 of&#xD;
+      3 dose groups (low, medium, high). Within each of these dose groups, participants will be&#xD;
+      assigned randomly to receive either 2 doses of COVI-VAC 28 days apart, 2 doses of placebo&#xD;
+      (saline), or 1 dose of COVI-VAC and 1 dose of placebo. COVI-VAC or placebo is administered by&#xD;
+      drops into each nostril. Neither the participants nor the researchers will know whether&#xD;
+      COVI-VAC or placebo has been received.&#xD;
+&#xD;
+      To assess the safety of the vaccine, each participant will record symptoms and oral&#xD;
+      temperature in a diary daily for 14 days after each dose. Safety laboratory tests, physical&#xD;
+      exams, ECGs, and a chest X-ray will also be performed, and peak expiratory flow and vital&#xD;
+      signs will be measured. Adverse events and medication use will be recorded.&#xD;
+&#xD;
+      Blood samples and intranasal samples will be collected to assess the immune response from the&#xD;
+      vaccine.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 11, 2020</start_date>
+  <completion_date type="Anticipated">May 2022</completion_date>
+  <primary_completion_date type="Anticipated">June 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Reactogenicity</measure>
+    <time_frame>14 days after each dose</time_frame>
+    <description>Percentage of subjects with reactogenicity events</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Adverse events</measure>
+    <time_frame>Days 1 through 57</time_frame>
+    <description>Percentage of subjects with adverse events</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Serious adverse events</measure>
+    <time_frame>Days 1-400</time_frame>
+    <description>Percentage of subjects with serious adverse events</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>IgG titre</measure>
+    <time_frame>Days 1, 15, 29, 43, 57, 120, 210, and 400</time_frame>
+    <description>IgG titre measured by ELISA in serum collected on Days 1, 15, 29, 43, 57, 120, 210, and 400</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neutralizing antibody titre</measure>
+    <time_frame>Days 1, 15, 29, 43, 57, 120, 210, and 400</time_frame>
+    <description>Neutralising antibody level measured by microneutralisation assay in serum</description>
+  </secondary_outcome>
+  <number_of_arms>7</number_of_arms>
+  <enrollment type="Anticipated">48</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Saline</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Normal saline</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Low dose cohort 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>COVI-VAC, single dose</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Medium dose cohort 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>COVI-VAC, single dose</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>High dose cohort 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>COVI-VAC, single dose</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Low dose cohort 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>COVI-VAC, two doses 28 days apart</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Medium dose cohort 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>COVI-VAC, two doses 28 days apart</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>High dose cohort 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>COVI-VAC, two doses 28 days apart</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>COVI-VAC</intervention_name>
+    <description>intranasal, live attenuated vaccine against SARS-CoV-2</description>
+    <arm_group_label>High dose cohort 1</arm_group_label>
+    <arm_group_label>High dose cohort 2</arm_group_label>
+    <arm_group_label>Low dose cohort 1</arm_group_label>
+    <arm_group_label>Low dose cohort 2</arm_group_label>
+    <arm_group_label>Medium dose cohort 1</arm_group_label>
+    <arm_group_label>Medium dose cohort 2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>normal saline</description>
+    <arm_group_label>Saline</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Subjects who meet all of the following criteria may be included in the study:&#xD;
+&#xD;
+               1. Men and women aged between 18 to 30 years of age, inclusive, on the day of&#xD;
+                  signing the informed consent form (ICF)&#xD;
+&#xD;
+               2. In good health with no history, or current evidence, of clinically significant&#xD;
+                  medical conditions with particular reference to, but not restricted to,&#xD;
+                  hypertension, diabetes, thromboembolic disorders, coronary heart disease, chronic&#xD;
+                  obstructive lung disease, and no clinically significant test abnormalities that&#xD;
+                  will interfere with subject safety, as defined by medical history, physical&#xD;
+                  examination, vital signs (including oxygen saturation), ECG, spirometry, and&#xD;
+                  safety laboratory tests as determined by the Investigator&#xD;
+&#xD;
+               3. Total body weight of greater or equal to 50 kg and body mass index (BMI) greater&#xD;
+                  or equal to 18.0 kg/m2 and less than or equal to 28.0 kg/m2 (the upper limit of&#xD;
+                  the BMI may be increased to less than or equal to 30 kg/m2 at the Investigator's&#xD;
+                  discretion in case of a muscular healthy subject for whom BMI may be biased&#xD;
+                  upwards)&#xD;
+&#xD;
+               4. Negative drugs of abuse, cotinine, and alcohol screen (unless explained by&#xD;
+                  prescribed medication)&#xD;
+&#xD;
+               5. Negative pregnancy test for women who have not been surgically sterilised&#xD;
+&#xD;
+               6. Negative COVID Clear test&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Subjects who meet any of the following criteria will be excluded from the study:&#xD;
+&#xD;
+          1. Haemoglobin A1c ≥6.0% or 42 mmol/mol&#xD;
+&#xD;
+          2. Forced expiratory volume in 1 second (FEV1) less than 80% predicted value&#xD;
+&#xD;
+          3. Signs or symptoms suggestive of upper or lower respiratory tract infection (including&#xD;
+             fever or persistent cough) within 28 days of Day 1&#xD;
+&#xD;
+          4. Pregnant, possibly pregnant, or lactating women&#xD;
+&#xD;
+          5. Women who have been pregnant through the third trimester or given birth within the&#xD;
+             past 6 months&#xD;
+&#xD;
+          6. Planning a pregnancy (subject or partner) within 90 days after the last IMP dose&#xD;
+&#xD;
+          7. Inadequate venous access for repeated phlebotomy&#xD;
+&#xD;
+          8. History of confirmed or suspected SARS-CoV-2 infection&#xD;
+&#xD;
+          9. Contact with any individual subsequently confirmed to have SARS-CoV-2 within 14 days&#xD;
+             after contact&#xD;
+&#xD;
+         10. History of wheeze treated with inhaler(s)&#xD;
+&#xD;
+         11. Respiratory symptoms, including wheeze, that have ever resulted in hospitalisation&#xD;
+&#xD;
+         12. Known bronchial hyperreactivity to viruses&#xD;
+&#xD;
+         13. Any significant abnormality altering the anatomy of the nose in a substantial way or&#xD;
+             nasopharynx that may interfere with the aims of the study and in particular any of the&#xD;
+             nasal assessments or viral challenge (historical nasal polyps can be included, but&#xD;
+             large nasal polyps causing current and significant symptoms and/or requiring regular&#xD;
+             treatments in the last month are excluded)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>30 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Daryl Bendel, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hvivo</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Sybil Tasker, MD, MPH</last_name>
+    <phone>+1 631 227 3932</phone>
+    <email>admin@codagenix.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>hVIVO</name>
+      <address>
+        <city>London</city>
+        <zip>E1 2AX</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kingsley Eze</last_name>
+      <phone>+44 (0) 20 7756 1300</phone>
+      <email>info@flucamp.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>November 5, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 5, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 6, 2020</study_first_posted>
+  <last_update_submitted>December 14, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 14, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 17, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>live attenuated</keyword>
+  <keyword>live attenuated vaccine</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>COVID-19</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

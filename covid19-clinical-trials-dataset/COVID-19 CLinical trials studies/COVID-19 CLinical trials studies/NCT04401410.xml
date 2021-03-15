@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="910">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04401410</url>
+  </required_header>
+  <id_info>
+    <org_study_id>H-47739 BAT IT</org_study_id>
+    <nct_id>NCT04401410</nct_id>
+  </id_info>
+  <brief_title>Anti-SARS Cov-2 T Cell Infusions for COVID 19</brief_title>
+  <acronym>BATIT</acronym>
+  <official_title>BAT IT: Banked Anti-SARS Cov-2 T Cell Infusions for Treatment of COVID 19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Baylor College of Medicine</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Center for Cell and Gene Therapy, Baylor College of Medicine</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>The Methodist Hospital System</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>AlloVir</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Baylor College of Medicine</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a dose-finding safety trial followed by a randomized pilot trial comparing&#xD;
+      administration of SARS-CoV2-specific T cells (SARS-CoVSTs) to standard of care treatment in&#xD;
+      hospitalized patients with COVID19 who are at high risk of requiring mechanical ventilation.&#xD;
+&#xD;
+      The SARS-CoVSTs lines have been made at Baylor College of Medicine from healthy donors who&#xD;
+      have made a full recovery from COVID19. These cell lines were frozen for later use and will&#xD;
+      be thawed and used to treat patients who meet the eligibility criteria.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The first part of this study is to identify the maximum tolerated dose (MTD) of allogeneic&#xD;
+      SARS-CoV2-specific T cells (SARS-CoVSTs) for patients with COVID19 with high risk of&#xD;
+      progression to mechanical ventilation.&#xD;
+&#xD;
+      The 3 dose levels (DL) are:&#xD;
+&#xD;
+      DL1: 1x10^7 cells (flat dose) DL2: 2x10^7 cells (flat dose) DL3: 4x10^7 cells (flat dose)&#xD;
+&#xD;
+      Enrollment to the dose escalation phase will be staggered. The first patient enrolled on each&#xD;
+      of the 3 dose levels (DL1, DL2 and DL3) will have to complete the 14-day toxicity monitoring&#xD;
+      window prior to enrollment of the next patients. Prior to dose escalation, all patients at a&#xD;
+      particular dose level should have completed the minimum 14-day toxicity monitoring window&#xD;
+      before enrolling to a higher dose level.&#xD;
+&#xD;
+      After the dose finding phase is complete and the MTD established, a randomized trial will be&#xD;
+      conducted. Patient will be randomized 1:1 using the permuted block method with a block size&#xD;
+      of 4 (2 in the treatment arm and 2 in the control arm) to receive treatment with SARS-CoVSTs&#xD;
+      or routine treatment per institutional standards.&#xD;
+&#xD;
+      All enrolled patients will undergo the following evaluations:&#xD;
+&#xD;
+        -  Physical exam and history including height and weight&#xD;
+&#xD;
+        -  SARS-CoV-2 test&#xD;
+&#xD;
+        -  Blood tests&#xD;
+&#xD;
+        -  Chest X-ray or chest CT Scan if not already done in the past 48 hours.&#xD;
+&#xD;
+        -  A urine pregnancy test, when applicable&#xD;
+&#xD;
+      Patients randomized to receive SARS-CoVSTs will be pre-medicated with Benadryl and Tylenol.&#xD;
+      The cells will be thawed and given through an intravenous line. Patients will be monitored&#xD;
+      for infusion side effects for up to 14 days or until infusion side effects have completely&#xD;
+      resolved, whichever is longer.&#xD;
+&#xD;
+      Blood will be drawn before the infusion and then up to daily for 14 days or until the patient&#xD;
+      is discharged from the hospital. Optional blood samples will be drawn at 2, 3 and 6 months&#xD;
+      after infusion. Study participation will last 6 months after the date of infusion.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 4, 2020</start_date>
+  <completion_date type="Anticipated">August 15, 2021</completion_date>
+  <primary_completion_date type="Anticipated">August 15, 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Dose Escalation Phase: Rate of Dose Limiting Toxicities by CTCAE 5.0 [14 days post infusion]</measure>
+    <time_frame>14 days post infusion</time_frame>
+    <description>Defined as the proportion of subjects with toxicity including the type, severity, time of onset, time of resolution, and the probable association with study treatment. A dose limiting toxicity is defined as any acute GvHD (&gt; grade 2), grade ≥3 CRS or ICANS, grade ≥3 hematologic toxicity or grade ≥3 non-hematologic adverse events related to the T cell product within 14 days of the VST infusion and that are not due to pre-existing conditions as defined by the NCI Common Terminology Criteria for Adverse Events (CTCAE), Version 5.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Randomized Trial: Rate of Clinical Response as assessed by the World Health Organization (WHO) Ordinal Scale [7 days post-randomization or hospital discharge]</measure>
+    <time_frame>7 Days post-randomization or at time of hospital discharge</time_frame>
+    <description>Clinical Response rate is defined as the proportion of subjects reporting an increase in 2 or more points on the WHO Ordinal Scale. [Scored on a scale from 0 to 8; where 0 = Uninfected and 8 =Dead] or until patient is discharged.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Randomized Trial: Rate of Treatment-related adverse events (tAE) by CTCAE 5.0 [14 days post-randomization]</measure>
+    <time_frame>14 days post-randomization</time_frame>
+    <description>Defined as the proportion of subjects with toxicity including the type, severity, time of onset, time of resolution, and the probable association with study treatment. Treatment-related adverse events (tAE) are defined as any acute GvHD (&gt; grade 2), grade ≥3 CRS or ICANS, grade ≥3 hematologic toxicity or grade ≥3 non-hematologic adverse events related to the T cell product within 14 days of the VST infusion and that are not due to pre-existing conditions as defined by the NCI Common Terminology Criteria for Adverse Events (CTCAE), Version 5.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">58</enrollment>
+  <condition>SARS-CoV 2</condition>
+  <condition>Viral Infection</condition>
+  <condition>COVID 19</condition>
+  <arm_group>
+    <arm_group_label>Dose Finding Phase</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This phase is designed to evaluate the maximum tolerated dose (MTD) of partially HLA-matched SARS-CoVSTs administered to hospitalized COVID19 patients with high risk of progression to mechanical ventilation.&#xD;
+The dose finding phase is a standard 3+3 safety study design. The 3 dose levels are:&#xD;
+DL1: 1x107 cells (flat dose) DL2: 2x107 cells (flat dose) DL3: 4x107 cells (flat dose)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Randomized Pilot - SARS-CoVSTs</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Partially HLA-matched Virus Specific T cells (VSTs) will be given by intravenous injection.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Randomized Pilot - Routine Care</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Hospitalized patients with COVID-19 will be treated per current institutional guidelines.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Dose Finding Phase (MTD)</intervention_name>
+    <description>Enrollment to the dose escalation phase will be staggered. The first patient enrolled on each of the 3 dose levels (DL1, DL2 and DL3) will have to complete the 14-day toxicity monitoring window prior to enrollment of the next patients. Prior to dose escalation, all patients at a particular dose level should have completed the minimum 14-day toxicity monitoring window before enrolling to a higher dose level.</description>
+    <arm_group_label>Dose Finding Phase</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Partially HLA-matched SARS-CoVSTs</intervention_name>
+    <description>Infusion of SARS-CoVSTs at the MTD level as determined in the Dose Finding Phase</description>
+    <arm_group_label>Randomized Pilot - SARS-CoVSTs</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Routine care (no SARS-CoVSTs)</intervention_name>
+    <description>Patients receive routine care for COVID19 per institutional standards (including antivirals such as remdesivir or other FDA-EUA approved products and thromboprophylaxis).</description>
+    <arm_group_label>Randomized Pilot - Routine Care</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria&#xD;
+&#xD;
+          1. SARS-CoV-2 infection confirmed by polymerase chain reaction assay (PCR) from a&#xD;
+             nasopharyngeal swab or other accepted specimen type. (If testing was performed ≥ 5&#xD;
+             days before enrollment, this must be repeated and accept only if positive again). Date&#xD;
+             of COVID test must be ≤ 5 days prior to infusion.&#xD;
+&#xD;
+          2. Currently hospitalized adult patient (≥ 18 years of age) requiring medical care for&#xD;
+             COVID19&#xD;
+&#xD;
+          3. Peripheral oxygen saturation (SpO2) ≥ 92% on room air&#xD;
+&#xD;
+          4. Hgb ≥ 7.0 gm/dl&#xD;
+&#xD;
+          5. Negative pregnancy test (if applicable)&#xD;
+&#xD;
+          6. Patient or parent/guardian capable of providing informed consent (may be obtained&#xD;
+             electronically)&#xD;
+&#xD;
+          7. Evidence of pulmonary infiltrates on chest imaging. Any chest imaging findings which&#xD;
+             would be consistent with COVID19 would qualify (Eg: ground glass opacities, multifocal&#xD;
+             infiltrates etc.)&#xD;
+&#xD;
+          8. High risk of requiring mechanical ventilation as defined by at least two of the&#xD;
+             following:&#xD;
+&#xD;
+               1. Age ≥ 60 years of age&#xD;
+&#xD;
+               2. Hypertension (HTN)&#xD;
+&#xD;
+               3. Chronic cardiovascular disease other than HTN (eg: Coronary artery disease,&#xD;
+                  congestive heart failure or cardiomyopathies).&#xD;
+&#xD;
+               4. Diabetes Mellitus&#xD;
+&#xD;
+               5. Obesity (BMI greater than 30)&#xD;
+&#xD;
+               6. Active cancer diagnosis or ongoing (within 3 months) cytotoxic chemo/&#xD;
+                  radio-therapy for a cancer&#xD;
+&#xD;
+               7. Post-hematopoeitic stem cell or solid organ transplantation status&#xD;
+&#xD;
+               8. Immunodeficiency states (except those listed as exclusion criteria #1, #7 and&#xD;
+                  #10) as determined by the treating physician (eg: receiving immunosuppressive&#xD;
+                  therapy like rituximab or congenital immunodeficiency syndromes, prior treatment&#xD;
+                  with chemotherapy greater than 3 months ago but per investigators discretion&#xD;
+                  could have lingering effects on the immune system, eg: chemotherapy regimens for&#xD;
+                  lymphomas, ALL or AML etc.)&#xD;
+&#xD;
+        Exclusion Criteria&#xD;
+&#xD;
+          1. Received Anti-thymocyte globulin (ATG), Campath or other T cell immunosuppressive&#xD;
+             monoclonal antibodies in the 28 days prior to screening for enrollment&#xD;
+&#xD;
+          2. Requiring mechanical ventilation at time of T cell infusion&#xD;
+&#xD;
+          3. Alanine aminotransferase or aspartate aminotransferase greater than 5 x upper limit of&#xD;
+             normal&#xD;
+&#xD;
+          4. If previously undergone an allogeneic hematopoietic stem cell transplant and have&#xD;
+             evidence of active acute GVHD greater than or equal to grade 2&#xD;
+&#xD;
+          5. Uncontrolled relapse of malignancy&#xD;
+&#xD;
+          6. Requiring vasopressors&#xD;
+&#xD;
+          7. Evidence of prior HIV infection&#xD;
+&#xD;
+          8. Known history of autoimmune disease except prior thyroiditis&#xD;
+&#xD;
+          9. Is not suitable at the discretion of the treating physician&#xD;
+&#xD;
+         10. Patients on greater than 6mg/day of dexamethasone (IV) or equivalent&#xD;
+&#xD;
+         11. Greater than grade 1 CRS per American Society for Transplantation and Cellular Therapy&#xD;
+             (ASTCT) criteria&#xD;
+&#xD;
+         12. Patients should not be enrolled on any other interventional clinical trials for&#xD;
+             COVID19. Patients may receive routine care for COVID19 per institutional standards&#xD;
+             (including antivirals such as remdesivir or other FDA-EUA approved products and&#xD;
+             thromboprophylaxis).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Premal Lulla</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Baylor College of Medicine</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Premal Lulla, MD</last_name>
+    <phone>832-824-4847</phone>
+    <email>lulla@bcm.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Houston Methodist Hospital</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Premal Lulla, MD</last_name>
+      <phone>832-824-4847</phone>
+      <email>lulla@bcm.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>May 21, 2020</study_first_submitted>
+  <study_first_submitted_qc>May 21, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 26, 2020</study_first_posted>
+  <last_update_submitted>January 28, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 28, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 29, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Baylor College of Medicine</investigator_affiliation>
+    <investigator_full_name>Premal Lulla</investigator_full_name>
+    <investigator_title>Assistant Professor</investigator_title>
+  </responsible_party>
+  <keyword>COVID 19</keyword>
+  <keyword>SARS-CoV 2</keyword>
+  <keyword>Viral infection</keyword>
+  <keyword>Multivirus T cell</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Virus Diseases</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

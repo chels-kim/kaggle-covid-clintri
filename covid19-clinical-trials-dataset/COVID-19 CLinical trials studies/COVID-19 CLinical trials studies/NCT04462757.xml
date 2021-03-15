@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2273">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04462757</url>
+  </required_header>
+  <id_info>
+    <org_study_id>282110</org_study_id>
+    <secondary_id>2020-001636-95</secondary_id>
+    <nct_id>NCT04462757</nct_id>
+  </id_info>
+  <brief_title>SCIL-1Ra in COVID-19 Feasibility &amp; PK/PD</brief_title>
+  <acronym>SCIL_COV19</acronym>
+  <official_title>Subcutaneous and Intravenous IL-1Ra (Anakinra) in COVID-19 Infection - Feasibility &amp; Pharmacokinetics/Pharmacodynamics Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Manchester</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Manchester</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The current COVID-19 pandemic is a worldwide healthcare crisis. Of concern is the large&#xD;
+      number of patients that are/will require mechanical ventilation, and the associated strain&#xD;
+      that this will place on healthcare resources. At present, there are no specific therapeutic&#xD;
+      interventions directed at COVID-19 infection. However, observational data suggest that there&#xD;
+      is a subgroup of patients that demonstrate a hyperinflammatory response in response to&#xD;
+      COVID-19 and have a higher requirement for Critical Care and higher mortality.&#xD;
+&#xD;
+      There is a strong case for the use of the naturally occurring anti-inflammatory cytokine&#xD;
+      interleukin-1 receptor antagonist (IL-1Ra) in these patients. Anakinra is a recombinant form&#xD;
+      of IL-1Ra that is licensed for clinical use. Success of use of anakinra in COVID-19 trials&#xD;
+      will be greatly enhanced by robust scientific evidence and established pharmacokinetics which&#xD;
+      inform the most effective dosing regimens. The latter is especially important when, as in the&#xD;
+      case of anakinra, drug supplies are limited, the drug has short half-life and clinical ease&#xD;
+      of application is critical.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The investigators plan a small trial of an existing drug in patients with COVID-19 at Salford&#xD;
+      Royal NHS Foundation Trust (SRFT) and Manchester Foundation Trust (MFT). The investigators&#xD;
+      will recruit patients with suspected or confirmed COVID-19 infection within 24 hours of being&#xD;
+      transfer in a Critical Care department. The investigators have been testing interleukin-1&#xD;
+      receptor antagonist: IL-1Ra (known as Anakinra) for many years. Marketed as a treatment for&#xD;
+      rheumatoid arthritis and for some rare autoimmune diseases, we have shown Anakinra also&#xD;
+      reduces or blocks inflammation in a number of other conditions e.g. stroke and brain&#xD;
+      haemorrhage. The investigators have found it to be safe, easily administered and well&#xD;
+      tolerated. As part of the global response to the SARS-COV-2 pandemic, researchers have&#xD;
+      identified drugs that repurposing existing drugs. Anakinra has been proposed as a candidate&#xD;
+      therapy for COVID-19 and will be used in REMAP-CAP clinical trial as an intravenous (IV)&#xD;
+      therapy four times daily (qds). Whilst there is uncertainty about the therapeutic benefits,&#xD;
+      the investigators wish to explore the theory that they can achieve comparable concentrations&#xD;
+      in the blood using a subcutaneous (SC) injection twice daily (bd), as observed with IV&#xD;
+      therapy qds. We will randomise up to 40 patients to receive either SC Anakinra twice daily or&#xD;
+      IV Anakinra four-times daily for 14 days (or until discharge from CCU). They will measure&#xD;
+      changes in biomarkers in both groups and use the data to inform a mathematical model to&#xD;
+      simulate the effect the drug may have on the body. The aim is to the provide evidence that a&#xD;
+      lower dose SC Anakinra is as effective as higher dose IV.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Suspended</overall_status>
+  <why_stopped>
+    Lack of patients in the trial population from which to recruit and lack of funding&#xD;
+  </why_stopped>
+  <start_date type="Actual">May 28, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2020</completion_date>
+  <primary_completion_date type="Actual">August 31, 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Patients will be randomly assigned to one of two arms:-&#xD;
+Subcutaneous arm: 100mg anakinra SC will be administered subcutaneously at consistent times that are convenient and practical for the patients and research/nursing staff providing there is a minimum 8 hours and maximum 16 hours between administrations.&#xD;
+Intravenous arm: 100mg anakinra in 100mL 0.9% NaCl will be administered intravenously four times a day every 6 hours.</intervention_model_description>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Plasma IL-1Ra levels</measure>
+    <time_frame>1 week</time_frame>
+    <description>Plasma IL-1Ra levels from Day 1 to Day 7 following administration of SC anakinra in patients with SARS-CoV-2</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Plasma IL-6 levels</measure>
+    <time_frame>1 week</time_frame>
+    <description>Plasma IL-6 levels from Day 1 to Day 7 following administration of SC anakinra in patients with SARS-CoV-2</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Plasma markers</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>Plasma markers including IL-6 from Day 1 to Day 14 in all participants</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma markers</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>Plasma markers including CRP from Day 1 to Day 14 in all participants</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma markers</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>Plasma markers including CXCL9 from Day 1 to Day 14 in all participants</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma markers</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>Plasma markers including IL-1 from Day 1 to Day 14 in all participants</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma markers</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>Plasma markers including IL-2 from Day 1 to Day 14 in all participants</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma markers</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>Plasma markers including HMBG-1 from Day 1 to Day 14 in all participants</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma markers</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>Plasma markers including IL-33 from Day 1 to Day 14 in all participants</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety Endpoints related to the Serious adverse reactions of the IMP</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>Safety endpoints include:&#xD;
+a. Severe fatal or life-threatening serious adverse reactions (duration of IMP plus 30h from last dose).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety Endpoints related to the anaphylactic reactions of the IMP</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>Safety endpoints include:&#xD;
+b. Anaphylactic/anaphylactoid reactions (duration of IMP plus 30h from last dose).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety Endpoints related to neutropenia caused by the IMP</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>Safety endpoints include:&#xD;
+c. Severe neutropenia (&lt; 1.5 x 109 /L) (duration of IMP)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety Endpoints related to any severe laboratory abnormalities</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>Safety endpoints include:&#xD;
+d. IMP related severe laboratory abnormalities (duration of IMP)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Feasibility endpoints related to IMP and deviations</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>Feasibility endpoints include protocol deviations in terms of timing and delivery of scheduled medication.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Exploratory Data on Clinical efficacy by time to recovery</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>Exploratory data on clinical efficacy as defined by:&#xD;
+a. Time to recovery defined by hospital discharge or improvement of two points on the ordinal scale: not hospitalised; hospitalised without need for supplemental oxygen; requiring supplemental oxygen; requiring HFNC or non-invasive mechanical ventilation; requiring ECMO or mechanical intervention; dead. Improvement mechanical ventilation (from recruitment to time of ventilation)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Exploratory Data on Clinical efficacy</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>Exploratory data on clinical efficacy as defined by:&#xD;
+b. Ventilation free days (at 28 days)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Exploratory Data on Clinical efficacy of the ordinal scale</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>Exploratory data on clinical efficacy as defined by:&#xD;
+c. Status on the above ordinal scale (at 14 and 28 days)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">5</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Subcutaneous Arm</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>100mg anakinra SC will be administered subcutaneously at consistent times that are convenient and practical for the patients and research/nursing staff providing there is a minimum 8 hours and maximum 16 hours between administrations.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Intravenous Arm</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>100mg anakinra in 100mL 0.9% NaCl will be administered intravenously four times a day every 6 hours.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Anakinra 100Mg/0.67Ml Inj Syringe</intervention_name>
+    <description>100 mg interleukin-1 receptor antagonist (r-meth-Hu-IL-1Ra), anakinra; marketed as Kineret® in 0.67 mL prefilled syringe for single use</description>
+    <arm_group_label>Intravenous Arm</arm_group_label>
+    <arm_group_label>Subcutaneous Arm</arm_group_label>
+    <other_name>Kineret</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patient age 18 or above.&#xD;
+&#xD;
+          -  Clinically suspected/proven COVID-19.&#xD;
+&#xD;
+          -  Requiring organ support with one or more of:&#xD;
+&#xD;
+          -  Non-invasive or invasive ventilatory support&#xD;
+&#xD;
+          -  Receiving infusion of vasopressor or inotropes or both.&#xD;
+&#xD;
+          -  No concomitant health problems that, in the opinion of the PI or designee in agreement&#xD;
+             with the treating clinician, would interfere with participation, administration of&#xD;
+             study drug or assessment of outcomes including safety.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  More than 24h has elapsed since CCU admission.&#xD;
+&#xD;
+          -  Death is deemed to be imminent and inevitable during the next 24h.&#xD;
+&#xD;
+          -  One or more of: the patient, substitute decision-maker or the attending physician are&#xD;
+             not committed to full active treatment.&#xD;
+&#xD;
+          -  Known condition resulting in ongoing immunosuppression including neutropenia (count &lt;&#xD;
+             1.5 x 10^9/L) prior to hospitalisation, malignancy, latent tuberculosis or chronic&#xD;
+             liver disease (if known).&#xD;
+&#xD;
+          -  Previous or current treatment with anakinra or medication suspected of interacting&#xD;
+             with anakinra, listed in the drug SmPC, known at the time of trial entry or previous&#xD;
+             participation in this trial.&#xD;
+&#xD;
+          -  Known to have received active treatment in a clinical trial of an investigational&#xD;
+             immunomodulatory agent (not including corticosteroids) within 30 days prior to study&#xD;
+             entry.&#xD;
+&#xD;
+          -  Known to be pregnant or breast feeding or inability to reliably confirm that the&#xD;
+             patient is not pregnant.&#xD;
+&#xD;
+          -  Known allergy to anakinra or any of the excipients listed in the drug SmPC&#xD;
+&#xD;
+          -  Known allergy to other products that are produced by DNA technology using the&#xD;
+             micro-organism E. coli (e.g. Escherichia coli derived protein).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Timothy Felton, Dr</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Manchester</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Manchester Univesity NHS Foundation Trust</name>
+      <address>
+        <city>Manchester</city>
+        <zip>M13 9WL</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Salford Royal NHS Foundation Tust</name>
+      <address>
+        <city>Salford</city>
+        <zip>M6 8HD</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>June 12, 2020</study_first_submitted>
+  <study_first_submitted_qc>July 7, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 8, 2020</study_first_posted>
+  <last_update_submitted>October 21, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 21, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 23, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Manchester</investigator_affiliation>
+    <investigator_full_name>Safia Barber</investigator_full_name>
+    <investigator_title>Non-CI_project manager</investigator_title>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Interleukin 1 Receptor Antagonist Protein</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

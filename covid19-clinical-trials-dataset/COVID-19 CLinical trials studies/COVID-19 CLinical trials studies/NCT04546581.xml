@@ -1,0 +1,909 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3592">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04546581</url>
+  </required_header>
+  <id_info>
+    <org_study_id>INSIGHT 013</org_study_id>
+    <nct_id>NCT04546581</nct_id>
+  </id_info>
+  <brief_title>Inpatient Treatment With Anti-Coronavirus Immunoglobulin (ITAC)</brief_title>
+  <official_title>An International Multicenter, Adaptive, Randomized Double-Blind, Placebo-Controlled Trial of the Safety, Tolerability and Efficacy of Anti-Coronavirus Hyperimmune Intravenous Immunoglobulin for the Treatment of Adult Hospitalized Patients at Onset of Clinical Progression of COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Minnesota</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institutes of Health (NIH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>The International Network for Strategic Initiatives in Global HIV Trials</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Minnesota</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This protocol will serve as a platform for assessing treatments for adult patients&#xD;
+      hospitalized for medical management of COVID-19 without related serious end-organ failure.&#xD;
+      Trials will involve sites around the world strategically chosen to ensure rapid enrollment.&#xD;
+      This trial will compare hyperimmune intravenous immunoglobulin (hIVIG) with matched placebo,&#xD;
+      when added to standard of care (SOC), for preventing further disease progression and&#xD;
+      mortality related to COVID-19. SOC will include remdesivir unless it is contraindicated for&#xD;
+      an individual patient.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The primary endpoint of this trial in hospitalized patients is an ordinal outcome based on&#xD;
+      the patient's clinical status on Day 7. It includes 7 mutually exclusive categories capturing&#xD;
+      the range of organ dysfunction that may be associated with progression of COVID-19, such as&#xD;
+      respiratory dysfunction and coagulation-related complications. The ordinal endpoint is&#xD;
+      defined as follows:&#xD;
+&#xD;
+      7. Death&#xD;
+&#xD;
+      6. End-organ failure&#xD;
+&#xD;
+      5. Life-threatening end-organ dysfunction&#xD;
+&#xD;
+      4. Serious end-organ dysfunction&#xD;
+&#xD;
+      3. Moderate end-organ dysfunction&#xD;
+&#xD;
+      2. Limiting symptoms due to COVID-19&#xD;
+&#xD;
+      1. No limiting symptoms due to COVID-19&#xD;
+&#xD;
+      Secondary endpoints include time to the 3 least favorable categories, time to the 2 most&#xD;
+      favorable categories, and the pulmonary only and thrombotic only components of the primary&#xD;
+      ordinal outcome. Mortality, adverse events (AEs), including infusion reactions, and&#xD;
+      biological correlates of therapeutic activity are also assessed. Because there is no&#xD;
+      established endpoint for evaluating the clinical efficacy of treatments for COVID-19, other&#xD;
+      clinically relevant outcomes, including outcomes used in other COVID-19 treatment trials,&#xD;
+      will be recorded. Thus, the randomized groups (hIVIG + SOC versus placebo + SOC ) can be&#xD;
+      compared for multiple outcomes, and results can be compared or combined with other trials.&#xD;
+&#xD;
+      Participants will be randomized (1:1) to a single infusion of hIVIG + SOC or placebo + SOC on&#xD;
+      the day of randomization (Day 0). Participants taking remdesivir prior to randomization may&#xD;
+      be enrolled if eligibility criteria are met. Randomized participants who were not taking&#xD;
+      remdesivir before randomization will start taking remdesivir immediately following the&#xD;
+      infusion of hIVIG or placebo unless remdesivir is contraindicated. Participants will be&#xD;
+      followed for 28 days and, if the trial goes to completion, the primary analysis will be&#xD;
+      completed after all participants are followed for 28 days.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 8, 2020</start_date>
+  <completion_date type="Anticipated">July 2021</completion_date>
+  <primary_completion_date type="Anticipated">July 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Ordinal Outcome Scale - Day 7</measure>
+    <time_frame>7 days</time_frame>
+    <description>The primary objective is to compare the clinical status of patients in each group on day 7 of follow-up using the primary ordinal outcome with 7 mutually exclusive categories:&#xD;
+7. Death 6. End-organ failure 5. Life-threatening end-organ dysfunction 4. Serious end-organ dysfunction 3. Moderate end-organ dysfunction 2. Limiting symptoms due to COVID-19&#xD;
+1. No limiting symptoms due to COVID-19&#xD;
+Outcome is reported as the percent of participants in each of 7 categories.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>All-cause mortality through Day 28</measure>
+    <time_frame>28 days</time_frame>
+    <description>Outcome reported as the percent of participants who expire for any reason by day 28 post treatment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ordinal Outcome Scale</measure>
+    <time_frame>3 days, 5 days, 14 days, and 28 days</time_frame>
+    <description>A secondary outcome is to compare the clinical status of patients in each group on day 3, 5, 14, and 28 of follow-up using the primary ordinal outcome.&#xD;
+Outcome is reported as the percent of participants in each of 7 categories.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in National Early Warning Score (NEWS)</measure>
+    <time_frame>7 days</time_frame>
+    <description>The National Early Warning Score (NEWS) is used to determine the degree of illness of a patient and prompt critical care intervention. The score takes into account respiratory rate, oxygen saturation, use of respiratory support, body temperature, blood pressure, and heart rate. These data are entered into a program to calculate a NEW score. Scores range from -3 to +3 with scores closer to zero representing a lower degree of illness. Scores will be collected at baseline and day 7 and the change in score at these 2 time points will be reported.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Worsening</measure>
+    <time_frame>7 days, 14 days, and 28 days</time_frame>
+    <description>Time to worsening is defined as the 3 least favorable categories on the primary ordinal scale. Outcome is reported as the percent of participants in each arm who are characterized as categories 5, 6, and 7 on the primary ordinal scale at 7, 14, and 28 days post treatment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Discharge Status</measure>
+    <time_frame>7 days, 14 days, and 28 days</time_frame>
+    <description>Outcome is reported as the percent of participants in each arm who are alive and discharged from the hospital to home or rehabilitation at days 7, 14, and 28 post treatment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days Alive Outside the Hospital</measure>
+    <time_frame>28 days</time_frame>
+    <description>Outcome is reported as the mean number of days alive and outside the hospital from study entry to Day 28 for participants in each arm.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pulmonary-only Components of the Primary Ordinal Outcome</measure>
+    <time_frame>3 days, 5 days, 7 days, 14 days, and 28 days</time_frame>
+    <description>A secondary outcome is to compare the clinical status of patients in each group on day 3, 5, 7, 14, and 28 post treatment limited to using the pulmonary elements of the primary ordinal outcome (e.g., requirement for invasive ventilation). Outcome is reported as the percent of participants in each arm who fall into each of the 7 categories of the primary ordinal outcome with regard to their pulmonary dysfunction only.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Thrombotic Components of the Primary Ordinal Outcome</measure>
+    <time_frame>3 days, 5 days, 7 days, 14 days, and 28 days</time_frame>
+    <description>A secondary outcome is to compare the clinical status of patients in each group on day 3, 5, 7, 14, and 28 post treatment limited to using the thrombotic conditions (e.g., arterial thrombosis) in the primary ordinal outcome. Outcome is reported as the percent of participants in each arm who fall in each of the 7 categories of the primary ordinal outcome with regard to thrombotic conditions only.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to recovery</measure>
+    <time_frame>7 days, 14 days, and 28 days</time_frame>
+    <description>Time to recovery is defined as the 2 most favorable categories on the primary ordinal scale.&#xD;
+Outcome is reported as the percent of participants in each arm who are characterized as categories 1 or 2 at 7, 14, and 28 days post treatment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical Organ Dysfunction</measure>
+    <time_frame>28 days</time_frame>
+    <description>Clinical organ dysfunction is defined by new onset of any one or more of the following. Outcome is reported as the percent of participants in each arm who meet any 1 of the following criteria by day 28 post treatment.&#xD;
+A) Respiratory dysfunction B) Cardiac and vascular dysfunction C) Renal dysfunction D) Hepatic dysfunction E) Neurological dysfunction F) Haematological dysfunction G) Serious infection</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety and Tolerability - Adverse Events</measure>
+    <time_frame>7 days</time_frame>
+    <description>Outcome is reported as the percent of participants in each arm who experience a new grade 3 or 4 event, a serious adverse event (SAE), or death through day 7 (primary safety endpoint) post treatment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety and Tolerability - Infusion Reactions, Interruptions, or Cessation</measure>
+    <time_frame>approximately 2 hours</time_frame>
+    <description>Outcome is reported as the percent of participants in each arm for who had any grade of reaction during the infusion or within 2 hours afterwards, for whom the infusion is interrupted prior to completion, or for whom the infusion is stopped prior to completion.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety and Tolerability - Serious Adverse Events</measure>
+    <time_frame>28 days</time_frame>
+    <description>Outcome is reported as the percent of participants in each arm who experience a serious adverse event (SAE) or death through day 28 post treatment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety and Tolerability - Prevalence of Adverse Events</measure>
+    <time_frame>1 day, 3 days, 7 days, and 28 days</time_frame>
+    <description>Outcome is reported as the percent of participants in each arm who experience an adverse event (AE) of any grade present (new or continuing) on days 1, 3, 7, and 28 post treatment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Neutralizing Antibody Level</measure>
+    <time_frame>1 day, 3 days, 7 days, and 28 days</time_frame>
+    <description>Outcome reported as the change in anti-SARS-CoV-2 IgG antibody level in blood from baseline to 1, 3, 7, and 28 days post treatment. Outcome is reported in units of antibody titer.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">500</enrollment>
+  <condition>COVID</condition>
+  <condition>COVID-19</condition>
+  <condition>SARS-CoV-2</condition>
+  <condition>SARS (Severe Acute Respiratory Syndrome)</condition>
+  <arm_group>
+    <arm_group_label>Intervention Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in this group will receive the investigational product and standard of care (SOC).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control Group</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants in this group will receive a placebo and standard of care (SOC).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Hyperimmune immunoglobulin to SARS-CoV-2 (hIVIG)</intervention_name>
+    <description>Hyperimmune immunoglobulin to SARS-CoV-2 (hIVIG) is derived from the plasma of individuals who recover and develop neutralizing antibodies. Participants will receive a single infusion.</description>
+    <arm_group_label>Intervention Group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Participants will receive a single infusion of the placebo (saline).</description>
+    <arm_group_label>Control Group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Remdesivir</intervention_name>
+    <description>Remdesivir will be given to participants in both groups as standard of care (SOC).</description>
+    <arm_group_label>Control Group</arm_group_label>
+    <arm_group_label>Intervention Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  SARS-CoV-2 infection documented by PCR or other nucleic acid test (NAT) within 3 days&#xD;
+             prior to randomization OR documented by NAT more than 3 days prior to randomization&#xD;
+             AND progressive disease suggestive of ongoing SARS-CoV-2 infection&#xD;
+&#xD;
+          -  Symptomatic COVID-19 disease&#xD;
+&#xD;
+          -  Duration of symptoms attributable to COVID-19 ≤ 12 days&#xD;
+&#xD;
+          -  Requiring inpatient hospital medical care for clinical manifestations of COVID-19&#xD;
+             (admission for public health or quarantine only is not included)&#xD;
+&#xD;
+          -  Willingness to abstain from participation in other COVID-19 treatment trials until&#xD;
+             after study Day 7&#xD;
+&#xD;
+          -  Provision of informed consent by participant or legally authorized representative&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Prior receipt of SARS-CoV-2 hIVIG or convalescent plasma from a person who recovered&#xD;
+             from COVID-19 at any time&#xD;
+&#xD;
+          -  Prior receipt of standard IVIG (not hyperimmune to SARS-CoV-2) within 45 days&#xD;
+&#xD;
+          -  Current or predicted imminent (within 24 hours) requirement for any of the following:&#xD;
+&#xD;
+               1. Invasive ventilation&#xD;
+&#xD;
+               2. Non-invasive ventilation&#xD;
+&#xD;
+               3. Extracorporeal membrane oxygenation&#xD;
+&#xD;
+               4. Mechanical circulatory support&#xD;
+&#xD;
+               5. Continuous vasopressor therapy&#xD;
+&#xD;
+          -  History of allergy to IVIG or plasma products&#xD;
+&#xD;
+          -  History of selective IgA deficiency with documented presence of anti-IgA antibodies&#xD;
+&#xD;
+          -  Any medical conditions for which receipt of the required volume of intravenous fluid&#xD;
+             may be dangerous to the patient (includes New York Association Class III or IV stage&#xD;
+             heart failure)&#xD;
+&#xD;
+          -  Any of the following thrombotic or procoagulant disorders:&#xD;
+&#xD;
+               1. Acute coronary syndromes, cerebrovascular syndromes and pulmonary or deep venous&#xD;
+                  thrombosis within 28 days of randomization&#xD;
+&#xD;
+               2. History of prothrombin gene mutation 20210, homozygous Factor V Leiden mutations,&#xD;
+                  antithrombin III deficiency, protein C deficiency, protein S deficiency or&#xD;
+                  antiphospholipid syndrome&#xD;
+&#xD;
+          -  Any condition for which, in the opinion of the investigator, participation would not&#xD;
+             be in the best interest of the subject or that could prevent, limit, or confound the&#xD;
+             protocol-specified assessments&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>James Neaton, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Minnesota</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Mark Polizzotto, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>The Kirby Institute, University of New South Wales</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jacqueline Nordwall</last_name>
+    <phone>612-626-8893</phone>
+    <email>jacquie@ccbr.umn.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Eileen Denning</last_name>
+    <phone>612-626-8049</phone>
+    <email>edenning@umn.ed</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Penrose Hospital</name>
+      <address>
+        <city>Colorado Springs</city>
+        <state>Colorado</state>
+        <zip>80907</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michael J Roshon, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>St. Francis Health Services</name>
+      <address>
+        <city>Colorado Springs</city>
+        <state>Colorado</state>
+        <zip>80907</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michael J Roshon, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>St. Anthony Hospital</name>
+      <address>
+        <city>Lakewood</city>
+        <state>Colorado</state>
+        <zip>80228</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kathryn Matney Lloyd, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Anthony North Health Campus</name>
+      <address>
+        <city>Westminster</city>
+        <state>Colorado</state>
+        <zip>80023</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kathryn Matney Lloyd, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Washington VA Medical Center</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20422</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Virginia Kan, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Redmond Regional Medical Center</name>
+      <address>
+        <city>Rome</city>
+        <state>Georgia</state>
+        <zip>30165</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Matthew McClain, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>National Institutes of Health Clinical Center</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20892</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Richard Davey, Jr, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Massachusetts</name>
+      <address>
+        <city>Worcester</city>
+        <state>Massachusetts</state>
+        <zip>01665</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jonathan Gerber, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hennepin Healthcare Research Institute/HCMC</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55415</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jason Baker, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Missouri</name>
+      <address>
+        <city>Columbia</city>
+        <state>Missouri</state>
+        <zip>65212</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Christian Rojas-Moreno, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Cox Medical Centers</name>
+      <address>
+        <city>Springfield</city>
+        <state>Missouri</state>
+        <zip>65807</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Robin Trotman, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>FirstHealth Moore Regional Hospital</name>
+      <address>
+        <city>Pinehurst</city>
+        <state>North Carolina</state>
+        <zip>28394</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gretchen Arnoczy, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ohio Health Research Institute</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kiran Devulapally, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hendrick Medical Center</name>
+      <address>
+        <city>Abilene</city>
+        <state>Texas</state>
+        <zip>79601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Daniel Canario, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHRISTUS Spohn Shoreline Hospital</name>
+      <address>
+        <city>Corpus Christi</city>
+        <state>Texas</state>
+        <zip>78404</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Srikanth Ramachandruni, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Texas Southwestern Medical Center</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75235</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mamta Jain, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CJW Chippenham Medical Center</name>
+      <address>
+        <city>Richmond</city>
+        <state>Virginia</state>
+        <zip>23225</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rajiv Malhotra, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Henrico Doctors' Hospital (HCA)</name>
+      <address>
+        <city>Richmond</city>
+        <state>Virginia</state>
+        <zip>23229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Amish Shah, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Aarhus Universitetshospital, Skejby</name>
+      <address>
+        <city>Aarhus</city>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lars Jørgen Østergaard, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Bispebjerg Hospital</name>
+      <address>
+        <city>Copenhagen</city>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Daria Podlekareva, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHIP, Department of Infectious Diseases, Section 2100</name>
+      <address>
+        <city>Copenhagen</city>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jens Lundgren, MD,DMSc</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Herlev-Gentofte Hospital</name>
+      <address>
+        <city>Hellerup</city>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jens Ulrik Stæhr Jensen, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Nordsjællands Hospital, Hillerød</name>
+      <address>
+        <city>Hillerød</city>
+        <zip>3400</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tomas Østergaard, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hvidovre University Hospital, Department of Infectious Diseases</name>
+      <address>
+        <city>Hvidovre</city>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Thomas Benfield, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Kolding Sygehus</name>
+      <address>
+        <city>Kolding</city>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Birgit Røge, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Odense University Hospital</name>
+      <address>
+        <city>Odense</city>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Isik Somuncu Johansen, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Democritus University of Thrace</name>
+      <address>
+        <city>Alexandroupoli</city>
+        <state>Thrace</state>
+        <zip>68131</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Periklis Panagopoulos, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>3rd Dept of Medicine, Medical School, NKUA</name>
+      <address>
+        <city>Athens</city>
+        <zip>11527</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Garyfallia Poulakou, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>1st Respiratory Medicine Dept, Athens University Medical School</name>
+      <address>
+        <city>Athens</city>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nikolaos Koulouris, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Attikon University General Hospital</name>
+      <address>
+        <city>Athens</city>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Anastasia Antoniadou, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Dept. of Critical Care &amp; Pulmonary Medicine, Evangelismos General Hospital</name>
+      <address>
+        <city>Athens</city>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ioannis Kalomenidis, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>NCGM</name>
+      <address>
+        <city>Tokyo</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Norio Ohmagari, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Fujita Health University Hospital</name>
+      <address>
+        <city>Toyoake</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Yohei Doi, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Institute of Human Virology-Nigeria (IHVN)</name>
+      <address>
+        <city>Abuja</city>
+        <country>Nigeria</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Eriobu Nnakelu Chukwudalu, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitari Germans Trias i Pujol</name>
+      <address>
+        <city>Badalona</city>
+        <state>Barcelona</state>
+        <zip>08916</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Roger Paredes, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitari Vall d'Hebron</name>
+      <address>
+        <city>Barcelona</city>
+        <state>Catalonia</state>
+        <zip>08035</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Joaquin Burgos, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital del Mar</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08002</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Juan Pablo Horcajada, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clínic de Barcelona</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08036</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jose Munoz, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Free Hospital</name>
+      <address>
+        <city>London</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sanjay Bhagani, MD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Denmark</country>
+    <country>Greece</country>
+    <country>Japan</country>
+    <country>Nigeria</country>
+    <country>Spain</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <removed_countries>
+    <country>Argentina</country>
+  </removed_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>September 8, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 8, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 14, 2020</study_first_posted>
+  <last_update_submitted>December 7, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 7, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 9, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Immunoglobulins</mesh_term>
+    <mesh_term>Immunoglobulins, Intravenous</mesh_term>
+    <mesh_term>Antibodies</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>A public data set will be made available at the end of the trial</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

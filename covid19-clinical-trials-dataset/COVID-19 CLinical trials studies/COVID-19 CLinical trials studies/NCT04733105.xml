@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3784">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04733105</url>
+  </required_header>
+  <id_info>
+    <org_study_id>APHP201254</org_study_id>
+    <nct_id>NCT04733105</nct_id>
+  </id_info>
+  <brief_title>Pronostic Value of Type I ANTi-Interferon Antibodies in Patients With COVID-19 Acute Respiratory Failure</brief_title>
+  <acronym>ANTICOV</acronym>
+  <official_title>Pronostic Value of Type I ANTi-Interferon Antibodies in Patients With COVID-19 Acute Respiratory Failure: a Multicenter Observational Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Assistance Publique - Hôpitaux de Paris</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Assistance Publique - Hôpitaux de Paris</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Severe SARS-CoV-2 infections are frequently associated with the acute respiratory distress&#xD;
+      syndrome (ARDS), which leads to a mortality of 30-40%. An altered type I interferon (IFN)&#xD;
+      response has been demonstrated in patients with severe COVID-19, together with a high viral&#xD;
+      load.&#xD;
+&#xD;
+      The aim of the current work is, in a large cohort of patients with severe COVID-19 admitted&#xD;
+      in the ICU, to determine the prevalence of patients with positive anti-IFN antibodies and to&#xD;
+      determine their outcome, as compared to patients having negative anti-IFN antibodies.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Severe SARS-CoV-2 infections are frequently associated with the acute respiratory distress&#xD;
+      syndrome (ARDS), which leads to a mortality of 30-40%. An altered type I interferon (IFN)&#xD;
+      response has been demonstrated in patients with severe COVID-19, together with a high viral&#xD;
+      load. A recent study revealed that 10% of patients admitted in the intensive care unit (ICU)&#xD;
+      for severe COVID-19 had positive type I anti-IFN antibodies. Such finding has potentially&#xD;
+      important therapeutic implications, as patients having positive anti-IFN antibodies could&#xD;
+      benefit from targeted interventions, including plasmapheresis. The aim of the current work&#xD;
+      is, in a large cohort of patients with severe COVID-19 admitted in the ICU, to determine the&#xD;
+      prevalence of patients with positive anti-IFN antibodies and to determine their outcome, as&#xD;
+      compared to patients having negative anti-IFN antibodies.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 2021</start_date>
+  <completion_date type="Anticipated">May 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Other</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>day-28 mortality</measure>
+    <time_frame>at day-28 of intensive care unit (ICU) admission</time_frame>
+    <description>comparaison of day-28 mortality in patients having positive versus negative type I anti-IFN antibodies</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>rate of positivity of type I anti-IFN antibodies</measure>
+    <time_frame>3 months of ICU admission</time_frame>
+    <description>positivity of type I anti-IFN antibodies measured on a serum sample obtained at any time during ICU stay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Factors associated with type I anti-IFN antibody positivity</measure>
+    <time_frame>24 hours of ICU admission</time_frame>
+    <description>Factors associated with type I anti-IFN antibody positivity available upon hospital admission, identified using uni- and multiple logistic regression analyses</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>hospital mortality</measure>
+    <time_frame>at day 90.</time_frame>
+    <description>Comparaison of hospital mortality of patients having positive versus negative type I anti-IFN antibodies</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">530</enrollment>
+  <condition>Acute Respiratory Failure</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients with proven SARS-CoV-2 infection and acute respiratory failure admitted in the&#xD;
+        intensive care unit&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age ≥ 18 years&#xD;
+&#xD;
+          -  SARS-CoV-2 infection with a positive PCR&#xD;
+&#xD;
+          -  Patient admitted in the ICU for acute respiratory failure (SpO2≤90% and need for&#xD;
+             supplemental oxygen or any kind of ventilator support)&#xD;
+&#xD;
+          -  Patient or next of keen was informed of study inclusion&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        • Patient with SARS-CoV-infection but no acute respiratory failure&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>Dalila SELMANE</last_name>
+    <role>Study Chair</role>
+    <affiliation>APHP</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Nicolas De Prost, MD, PhD</last_name>
+    <phone>+33 1 49 81 23 94</phone>
+    <email>nicolas.de-prost@aphp.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Romain ARRESTIER, MD</last_name>
+    <phone>+33 1 49 81 21 11</phone>
+    <email>romain.arrestier@aphp.fr</email>
+  </overall_contact_backup>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>January 24, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 29, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 1, 2021</study_first_posted>
+  <last_update_submitted>January 29, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 29, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Acute respiratory failure</keyword>
+  <keyword>ARDS</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Insufficiency</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Adult</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

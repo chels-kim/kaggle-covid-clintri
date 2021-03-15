@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4385">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04721444</url>
+  </required_header>
+  <id_info>
+    <org_study_id>5293</org_study_id>
+    <nct_id>NCT04721444</nct_id>
+  </id_info>
+  <brief_title>Optimising Cancer Therapy And Identifying Causes of Pneumonitis USing Artificial Intelligence (COVID-19)</brief_title>
+  <acronym>OCTAPUS-AI</acronym>
+  <official_title>Optimising Cancer Therapy And Identifying Causes of Pneumonitis USing Artificial Intelligence</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Royal Marsden NHS Foundation Trust</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Royal Marsden NHS Foundation Trust</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Distinguishing changes on patients that have received thoracic radiotherapy and patients that&#xD;
+      are currently receiving or have recently received IO and presenting lung changes which will&#xD;
+      be identified using AI.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">March 1, 2021</start_date>
+  <completion_date type="Anticipated">January 1, 2023</completion_date>
+  <primary_completion_date type="Anticipated">August 1, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Development of a Machine Learning model to distinguish parenchymal lung changes</measure>
+    <time_frame>3 years</time_frame>
+    <description>The development and validation of an ML/radiomic classifier to distinguish between Infective/COVID-19 pneumonia and cancer therapy induced lung changes</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Development of a Machine Learning model to predict recurrence risk after radical radiotherapy for non-small cell lung cancer</measure>
+    <time_frame>3 years</time_frame>
+    <description>to develop a prognostic AI/radiomic signature for NSCLC recurrence after radical RT (Conventional fractionated RT +/- chemotherapy or stereotactic body RT (SBRT)) to stratify appropriate surveillance and onward care, thus minimising unnecessary hospital visits and resource use.</description>
+  </primary_outcome>
+  <number_of_groups>7</number_of_groups>
+  <enrollment type="Anticipated">1500</enrollment>
+  <condition>Lung Cancer</condition>
+  <condition>Covid19</condition>
+  <condition>Pneumonitis</condition>
+  <arm_group>
+    <arm_group_label>Arm A - Cohort A1</arm_group_label>
+    <description>Training set: Pneumonitis in the context of IO therapy and negative for infectious pneumonia (including COVID-19)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arms A and B - Cohort B1</arm_group_label>
+    <description>Training set B1: IO and RT naive and pneumonia (without COVID-19)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arms A and B - Cohort B2</arm_group_label>
+    <description>Training set B2: IO and RT naive and confirmed COVID-19 positive with pneumonia</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm B - Cohort A2</arm_group_label>
+    <description>Training set: Pneumonitis in the context of thoracic RT and negative for infectious pneumonia (including COVID-19)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm A - Test Cohort (Cohort C1)</arm_group_label>
+    <description>Test set C1: Patients on IO and with possible toxicity versus COVID-19 or other infective pneumonitis</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm B - Test Cohort (Cohort C2)</arm_group_label>
+    <description>Test set C2: Patients with pneumonitis in context of thoracic RT with possible toxicity versus COVID-19 or other infective pneumonitis.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm C</arm_group_label>
+    <description>Patients with radiotherapy planning CT scans and post-treatment surveillance CT scans at 3, 6 and 12-months post treatment</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Machine Learning Classification of parenchymal lung change cause</intervention_name>
+    <description>Arms A &amp; B: Radiomics and deep-learning approaches will be used on patient's imaging to develop a feature vector that can distinguish parenchymal lung changes, e.g. infection from drug-toxicity.</description>
+    <arm_group_label>Arm A - Cohort A1</arm_group_label>
+    <arm_group_label>Arm A - Test Cohort (Cohort C1)</arm_group_label>
+    <arm_group_label>Arm B - Cohort A2</arm_group_label>
+    <arm_group_label>Arm B - Test Cohort (Cohort C2)</arm_group_label>
+    <arm_group_label>Arms A and B - Cohort B1</arm_group_label>
+    <arm_group_label>Arms A and B - Cohort B2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Machine Learning Classification of recurrence and non-recurrence</intervention_name>
+    <description>Arm C: Radiomics and deep-learning approaches will be used on patient's imaging to develop a risk-signature for recurrence of malignancy following radical treatment</description>
+    <arm_group_label>Arm C</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Arms A and B: Adult patients with pneumonitis that have previously been treated with&#xD;
+        thoracic radiotherapy or immunotherapy Arm C: Adult patients that have received radical&#xD;
+        radiotherapy for NSCLC&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Arms A &amp; B:&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+        Cohort A1 (from Arm A) - Immunotherapy (IO) pneumonitis cases: patients currently on or&#xD;
+        having received ICI IO in the last 3 months of presentation with:&#xD;
+&#xD;
+        • New radiological lung changes on CT/CXR (confirmed on report) of a severity and&#xD;
+        distribution consistent with IO pneumonitis. These changes should be of severity and&#xD;
+        distribution that are not incompatible with viral or lower respiratory tract infection.&#xD;
+&#xD;
+        AND Must not have had RT involving the thorax (unless this was breast/chest wall RT more&#xD;
+        than 5 years ago, which is permissible) AND&#xD;
+&#xD;
+          -  Where there is documented clinical concern for infection, have undergone one or more&#xD;
+             laboratory investigations for viral or lower respiratory tract infection including,&#xD;
+             but not limited to Nasopharyngeal aspirate or swab for respiratory virus by PCR;&#xD;
+             Sputum sample or bronchial washings MCS with no organism(s) consistent with lower&#xD;
+             respiratory tract infection, cytology or beta-glucan/galactomannan for PCP or fungal&#xD;
+             infection; broncho-alveolar lavage for markers of infection such as MCS, PCR, fungal&#xD;
+             culture, beta-glucan/galactomannan for PCP or evidence of lower respiratory tract&#xD;
+             infection (including invasive fungal infection) by cytology, none of which were&#xD;
+             considered positive for infection by the clinical team.&#xD;
+&#xD;
+          -  Where empirical antibiotics were prescribed, patients must either have had a negative&#xD;
+             BAL infection screen or may be included at the discretion of the local site PI and&#xD;
+             local radiologist with lung interest or two members of the trial management group, one&#xD;
+             of whom must be a radiologist with lung interest or respiratory physician or&#xD;
+             oncologist with suitable experience of thoracic CT imaging, after after review of the&#xD;
+             case-notes.&#xD;
+&#xD;
+          -  Prophylactic co-trimoxazole prescribed in the context of high-dose steroid therapy is&#xD;
+             permitted.&#xD;
+&#xD;
+        Cohort A2 (from Arm B) - Radiotherapy (RT) pneumonits cases: Patients that have completed a&#xD;
+        course of RT involving the thorax (e.g. lung, breast, oesophageal RT) in the last 12 months&#xD;
+        prior to presentation, that have not received immunotherapy, with:.&#xD;
+&#xD;
+        • New radiological lung changes on CT/CXR (confirmed on report) of a severity and&#xD;
+        distribution consistent with radiation pneumonitis or early fibrosis (should not include&#xD;
+        established fibrosis). These changes should be of severity and distribution that are not&#xD;
+        incompatible with viral or lower respiratory tract infection.&#xD;
+&#xD;
+        AND&#xD;
+&#xD;
+          -  Where there is documented clinical concern for infection, have undergone one or more&#xD;
+             laboratory investigations for viral or lower respiratory tract infection including,&#xD;
+             but not limited to Nasopharyngeal aspirate or swab for respiratory virus by PCR;&#xD;
+             Sputum sample or bronchial washings MCS with no organism(s) consistent with lower&#xD;
+             respiratory tract infection, cytology or beta-glucan/galactomannan for PCP or fungal&#xD;
+             infection; broncho-alveolar lavage (BAL) for markers of infection such as MCS, PCR,&#xD;
+             fungal culture, beta-glucan/galactomannan for Pneumocystis Pneumonia (PCP) or evidence&#xD;
+             of lower respiratory tract infection (including invasive fungal infection) by&#xD;
+             cytology, none of which were considered positive for infection by the clinical team.&#xD;
+             Where empirical antibiotics were prescribed, patients must either have had a negative&#xD;
+             BAL infection screen or may be included at the discretion of the local site PI and&#xD;
+             local radiologist with lung interest or two members of the trial management group, one&#xD;
+             of whom must be a radiologist with lung interest or respiratory physician or&#xD;
+             oncologist with suitable experience of thoracic CT imaging, after review of the&#xD;
+             case-notes.&#xD;
+&#xD;
+          -  Prophylactic co-trimoxazole prescribed in the context of high-dose steroid therapy is&#xD;
+             permitted.&#xD;
+&#xD;
+        B1 (Utilised in Arms A &amp; B) Non-COVID-19 infective cases:&#xD;
+&#xD;
+          -  New radiological lung changes on CT/CXR (confirmed on report) of a severity and&#xD;
+             distribution consistent with lower respiratory tract infection but compatible with the&#xD;
+             grade and nature of pneumonitis seen with IO or RT&#xD;
+&#xD;
+          -  AND&#xD;
+&#xD;
+          -  Laboratory findings that fulfil one or more of the following criteria of infection:&#xD;
+             Nasopharyngeal aspirate or swab positive for a respiratory virus by PCR; Sputum sample&#xD;
+             or bronchial washings positive MCS for an organism(s) consistent with lower&#xD;
+             respiratory tract infection, cytology or beta-glucan/galactomannan positive for PCP or&#xD;
+             fungal infection, positive urine legionella/pneumococcal antigen screen, positive&#xD;
+             serology for mycoplasma pneumonia; broncho-alveolar lavage for markers of infection&#xD;
+             (MCS, PCR, fungal culture, beta-glucan/galactomannan for PCP or other evidence of&#xD;
+             lower respiratory tract infection (including invasive fungal infection) by cytology.&#xD;
+             Where no such laboratory findings were positive but the patient improved with&#xD;
+             anti-microbial therapy, such cases may be included at the discretion of the local site&#xD;
+             PI and local radiologist with lung interest or two members of the trial management&#xD;
+             group two members of the trial management group, one of whom must be a radiologist&#xD;
+             with a lung interest or respiratory physician or oncologist with suitable experience&#xD;
+             of thoracic CT imaging, after review of the case-notes and imaging.&#xD;
+&#xD;
+          -  Not previously treated with immunotherapy OR&#xD;
+&#xD;
+          -  Must not have had RT involving the thorax (unless this was breast/chest wall RT more&#xD;
+             than 5 years ago, which is permissible)&#xD;
+&#xD;
+          -  First assessed prior to 1st January 2020 (and therefore not attributable to COVID-19)&#xD;
+&#xD;
+        B2 (Utilised in Arms A &amp; B) COVID-19 cases:&#xD;
+&#xD;
+        • Laboratory findings that fulfil one or more of the following criteria of COVID-19&#xD;
+        infection: positive COVID-19 PCR test and/or antigen test or other suitable assay that&#xD;
+        indicates current infection or previous exposure (including serology tests) as determined&#xD;
+        by the trial management group (TMG).&#xD;
+&#xD;
+        AND&#xD;
+&#xD;
+          -  New radiological lung changes on CT/CXR (confirmed on report) of a severity and&#xD;
+             distribution consistent with COVID-19. These changes should be of severity and&#xD;
+             distribution that is not incompatible with the grade of pneumonitis seen with IO or RT&#xD;
+&#xD;
+          -  Not previously treated with immunotherapy OR&#xD;
+&#xD;
+          -  Must not have had RT involving the thorax (unless this was breast/chest wall RT more&#xD;
+             than 5 years ago, which is permissible)&#xD;
+&#xD;
+          -  Assessed after 1st January 2020 (and therefore contemporaneous with COVID-19)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        • Patients with documented past medical history of congestive cardiac failure or other&#xD;
+        cause for interstitial lung disease&#xD;
+&#xD;
+        Arm C:&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adult patients (aged 18 or over) treated with radical thoracic RT (conventional&#xD;
+             fractionated RT +/- chemotherapy or SBRT) for NSCLC&#xD;
+&#xD;
+          -  RT planning scan imaging and labelled structure set data available from participating&#xD;
+             centre&#xD;
+&#xD;
+          -  Minimum 2 years of post-RT follow-up data including clinical or histological&#xD;
+             confirmation in the case of recurrence and whether the patient is alive as available&#xD;
+             from primary care or hospital records.&#xD;
+&#xD;
+          -  Patients with post-treatment surveillance CT imaging (minimum of first scan&#xD;
+             post-treatment and where available +/- further scans within 2 years post-RT, e.g. at&#xD;
+             3/6/12 months post-treatment).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Any patient that does not have a primary lung mass e.g. Tx disease&#xD;
+&#xD;
+          -  Any patient being treated for recurrence of a previously treated lung cancer&#xD;
+&#xD;
+          -  Any patient that did not have radical RT e.g. patients that had high dose palliative&#xD;
+             RT&#xD;
+&#xD;
+          -  Any patient that does not have imaging that meets technical requirements within the&#xD;
+             imaging processing and analysis manual&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <overall_contact>
+    <last_name>Richard Lee, MBBS, PhD</last_name>
+    <phone>02073528171</phone>
+    <email>richard.lee@rmh.nhs.uk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Bianca Peet</last_name>
+    <email>bianca.peet@rmh.nhs.uk</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Guys and St. Thomas' NHS Foundation Trust</name>
+      <address>
+        <city>London</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Shahreen Ahmed</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Imperial College Healthcare NHS Trust</name>
+      <address>
+        <city>London</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Danielle Power</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Marsden NHS Foundation Trust</name>
+      <address>
+        <city>London</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Bianca Peet</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>November 6, 2020</study_first_submitted>
+  <study_first_submitted_qc>January 20, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 22, 2021</study_first_posted>
+  <last_update_submitted>February 2, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 2, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 5, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

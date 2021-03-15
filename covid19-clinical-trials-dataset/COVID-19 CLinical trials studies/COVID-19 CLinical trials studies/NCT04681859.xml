@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3517">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04681859</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BME-BUET-003</org_study_id>
+    <nct_id>NCT04681859</nct_id>
+  </id_info>
+  <brief_title>Evaluation of a Low-cost CPAP Device on Hospitalized COVID-19 Patients</brief_title>
+  <acronym>OxyJet-CPAP</acronym>
+  <official_title>Safety and Efficacy Evaluation of a Low-cost CPAP Device for Hypoxemic COVID-19 Patients: A Pilot Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Bangladesh University of Engineering and Technology</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Dhaka Medical College</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Bangladesh University of Engineering and Technology</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aim of this study is to evaluate the preliminary safety and performance of a low-cost&#xD;
+      locally-made Venturi-based Non-invasive Positive Pressure Ventilator (NIPPV) device for&#xD;
+      hypoxemic COVID-19 patients. The device administers Continuous Positive Airway Pressure&#xD;
+      (CPAP) therapy using the jet-mixing or Venturi effect to increase the volume flow rate of&#xD;
+      oxygenated air from a pressurized cylinder by entraining the atmospheric air. To provide CPAP&#xD;
+      therapy, this high flow of oxygenated air is delivered to the patient via a low-cost&#xD;
+      non-vented mask with a tight seal with a High-Efficiency Particulate Air (HEPA) filter&#xD;
+      connected to the exhalation limb. The tight seal and HEPA filter ensures a minimal risk of&#xD;
+      aerosol generation and thus the device can be used without a negative pressure room. The&#xD;
+      system consists of the developed Venturi-based flow-generator, a standard 22mm breathing&#xD;
+      tube, a standard Y-connector, a non-vented CPAP mask (e.g., snorkel mask, helmet), a HEPA&#xD;
+      filter, and a Positive End Expiratory Pressure (PEEP) valve. The bench-top testing of the&#xD;
+      device is done in the laboratories of BUET and was verified that the device performs within&#xD;
+      the CPAP guidelines provided by the Medicines and Healthcare products Regulatory Agency&#xD;
+      (MHRA), UK. This study aims to assess the safety of and efficacy of the device in three&#xD;
+      different steps: (1) design validation, (2) clinical feasibility and (3) pilot clinical trial&#xD;
+      for safety and efficacy evaluation. Only if the device successfully passes the parts 1 and 2,&#xD;
+      the investigators will proceed to the final clinical trial in step 3. In this final step, the&#xD;
+      investigators aim to conduct a randomized controlled trial (RCT) evaluating for&#xD;
+      non-inferiority of the CPAP intervention compared to standard HFNO treatment. The number of&#xD;
+      ventilator-free days will be used as the primary outcome for efficacy, while patient&#xD;
+      recovery, death, or need of intubation and other adverse events will be used as secondary&#xD;
+      outcomes.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 30, 2020</start_date>
+  <completion_date type="Anticipated">May 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 1, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of ventilator-free days</measure>
+    <time_frame>10 days</time_frame>
+    <description>The total number of days the patient was able to avoid being placed under a mechanical ventilator.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Recovery of the patient</measure>
+    <time_frame>30 days</time_frame>
+    <description>The event that the patient has recovered and released from the hospital within 30 days.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Death or need of intubation</measure>
+    <time_frame>10 days</time_frame>
+    <description>The event that the patient dies or requires to be placed under a mechanical ventilator.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Oxygen toxicity or other adverse events</measure>
+    <time_frame>10 days</time_frame>
+    <description>Oxygen toxicity or other adverse event rating according to the CTCAE scale (1-5)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Covid19</condition>
+  <condition>Hypoxemia</condition>
+  <arm_group>
+    <arm_group_label>High Flow Nasal Oxygen (HFNO) treatment</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Continuous positive airway pressure (CPAP) therapy using OxyJet</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>High Flow Nasal Oxygen (HFNO) treatment</intervention_name>
+    <description>Administration of High Flow Nasal Oxygen (HFNO) to patients who did not respond to standard low-flow oxygen therapy (non-rebreather mask on 15L/min). Adjust flow-rate and FiO2 as per standard HFNO treatment protocol.</description>
+    <arm_group_label>High Flow Nasal Oxygen (HFNO) treatment</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Continuous Positive Airway Pressure (CPAP) therapy using OxyJet</intervention_name>
+    <description>Administer CPAP to patients who did not respond to standard low-flow oxygen therapy (non-rebreather mask on 15L/min). CPAP initiated with FiO2 at 40% and a 10cm PEEP. Titrate PEEP to 15 cm if required. Deliver additional oxygen via secondary port if a higher FiO2 is required.</description>
+    <arm_group_label>Continuous positive airway pressure (CPAP) therapy using OxyJet</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age ≥ 18 years&#xD;
+&#xD;
+          -  Confirmed or suspected COVID-19 patient (by RT-PCR) having severe pneumonia and&#xD;
+             hypoxemia (SpO2 ≤90%) who did not respond to standard oxygen therapy (non-rebreather&#xD;
+             mask on 15L/min at 100% FiO2).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Severely hypoxemic patients (SpO2≤85%)&#xD;
+&#xD;
+          -  Patients with low respiratory drive or requiring cardiopulmonary resuscitation&#xD;
+&#xD;
+          -  Patients with contraindications for CPAP&#xD;
+&#xD;
+          -  Pregnant status&#xD;
+&#xD;
+          -  Age &gt; 60 years&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>60 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Dr. Taufiq Hasan, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Bangladesh University of Engineering and Technology</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Dr. Robed Amin, MBBS, FCPS</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Dhaka Medical College</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Dr. Taufiq Hasan, PhD</last_name>
+    <phone>+8801817579844</phone>
+    <email>taufiq@bme.buet.ac.bd</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Dhaka Medical College</name>
+      <address>
+        <city>Dhaka</city>
+        <zip>1000</zip>
+        <country>Bangladesh</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Dr. Md. Khairul Islam, MBBS,MCPS,FCPS</last_name>
+    </contact>
+    <investigator>
+      <last_name>Dr. Robed Amin, MBBS, FCPS</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Dr. Md. Khairul Islam, MBBS, FCPS, MCPS</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Dr. Forhad Uddin Hasan Chowdhury, MBBS, FCPS</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Dr. Md. Mohiuddin Sharif, MBBS, MPA</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Bangladesh</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>December 22, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 22, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 23, 2020</study_first_posted>
+  <last_update_submitted>December 22, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 22, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 24, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hypoxia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

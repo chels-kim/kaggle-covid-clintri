@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4213">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03648372</url>
+  </required_header>
+  <id_info>
+    <org_study_id>TAK-981-1002</org_study_id>
+    <secondary_id>U1111-1214-4537</secondary_id>
+    <secondary_id>2020-003947-27</secondary_id>
+    <nct_id>NCT03648372</nct_id>
+  </id_info>
+  <brief_title>A Study to Evaluate the Safety, Tolerability, Preliminary Efficacy and Pharmacokinetics (PK) of TAK-981 in Adult Participants With Advanced or Metastatic Solid Tumors or Relapsed/Refractory Hematologic Malignancies and in a Subset With Coronavirus Disease 2019 (COVID-19)</brief_title>
+  <official_title>An Open Label, Dose-Escalation, Phase I Study to Evaluate the Safety, Tolerability, Preliminary Efficacy and Pharmacokinetics of TAK-981 in Adult Patients With Advanced or Metastatic Solid Tumors or Relapsed/Refractory Hematologic Malignancies and in a Subset With Coronavirus Disease 2019</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Millennium Pharmaceuticals, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Takeda</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary objective of this study is to determine the safety and tolerability of TAK-981 as&#xD;
+      a single agent in participants with advanced or metastatic solid tumors and lymphomas in&#xD;
+      Phase 1, to evaluate preliminary efficacy of TAK-981 in participants with select solid tumors&#xD;
+      or relapsed/refractory CD20-positive (CD20+) non-hodgkin lymphoma (NHL) indications in Phase&#xD;
+      2, and to assess change in severe acute respiratory syndrome corona virus 2 (SARS-CoV-2)&#xD;
+      viral load within 8 days of TAK-981 administration in COVID-19 Expansion.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      01-Oct-2020 Enrollment of participants into the COVID arm of this study is no longer&#xD;
+      recruiting.&#xD;
+&#xD;
+      The drug being tested in this study is called TAK-981. TAK-981 is being tested to evaluate&#xD;
+      safety, tolerability, preliminary efficacy and PK in participants with advanced or metastatic&#xD;
+      solid tumors or relapsed/refractory hematologic malignancies and in a subset with COVID-19.&#xD;
+      The study will include 2 phases: Phase 1 dose escalation and Phase 2 dose expansion cohorts&#xD;
+      (cancer treatment expansions and COVID-19 expansion).&#xD;
+&#xD;
+      The study will enroll approximately 242 participants, approximately 50 participants in the&#xD;
+      dose escalation phase, approximately 132 participants in cancer treatment expansion phase and&#xD;
+      approximately 60 participants in the COVID-19 expansion.&#xD;
+&#xD;
+      In the dose escalation, dose levels will be escalated based on safety, and available PK and&#xD;
+      pharmacodynamic data and will also determine the single agent RP2D. Participants in dose&#xD;
+      expansion phase will be enrolled, once RP2D is determined. There will be 6 cohorts in cancer&#xD;
+      treatment expansions as following:&#xD;
+&#xD;
+        -  Cohort A: Nonsquamous NSCLC&#xD;
+&#xD;
+        -  Cohort B: Cervical cancer&#xD;
+&#xD;
+        -  Cohort C: MSS-CRC&#xD;
+&#xD;
+        -  Cohort D: Relapsed/refractory DLBCL progressed or relapsed after CAR T-cells therapy&#xD;
+&#xD;
+        -  Cohort E: Relapsed/refractory DLBCL that have not received prior therapy with CAR&#xD;
+           T-cells&#xD;
+&#xD;
+        -  Cohort F: Relapsed/refractory FL&#xD;
+&#xD;
+      In the COVID-19 expansion, dose schedule can be modified in safety lead-in if PK,&#xD;
+      pharmacodynamics, decrease in viral load and safety data are supportive. Once the safety&#xD;
+      lead-in is complete and a TAK-981 dose and regimen is selected, randomized COVID-19 proof of&#xD;
+      concept will begin with participants randomized to Arm A: COVID-19 standard of care (SOC), or&#xD;
+      Arm B: COVID-19 SOC + TAK-981.&#xD;
+&#xD;
+      This multi-center trial will be conducted in the United States and Canada. The overall time&#xD;
+      to participate in this study is approximately 4 years. The overall time to receive treatment&#xD;
+      in the dose escalation and cancer treatment is approximately 1 year and in COVID-19&#xD;
+      expansion, participants will receive 1 cycle of treatment and will be followed for up to 90&#xD;
+      days from enrollment. Based on decision of sponsor, participants with demonstrated clinical&#xD;
+      benefit can continue treatment beyond 1 year. Participants will make multiple visits to the&#xD;
+      clinic, and will make a final visit 30 days after receiving their last dose of drug or before&#xD;
+      the start of subsequent anticancer therapy, whichever occurs first for a follow-up&#xD;
+      assessment.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 1, 2018</start_date>
+  <completion_date type="Anticipated">October 1, 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 1, 2022</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Phase 1: Number of Participants Reporting one or More Treatment Emergent Adverse Events (TEAEs)</measure>
+    <time_frame>Up to 48 months</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Phase 1: Number of Participants Based on Severity of TEAEs</measure>
+    <time_frame>Up to 48 months</time_frame>
+    <description>Severity grade will be evaluated as per the National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) Version 5.0, except for Cytokine Release Syndrome (CRS), which will be assessed by American Society for Transplantation and Cellular Therapy (ASTCT) consensus grading criteria.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Phase 1: Number of Participants With Dose Limiting Toxicities (DLTs)</measure>
+    <time_frame>Up to Cycle 1 (Cycle length is equal to [=] 21 days)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Phase 1: Number of Participants With Clinically Significant Laboratory Values</measure>
+    <time_frame>Up to 48 months</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Phase 2: Overall Response Rate (ORR)</measure>
+    <time_frame>From the first dose until best response is achieved (up to 4 years)</time_frame>
+    <description>ORR is defined as percentage of participants who achieve complete response (CR) and partial response (PR), as determined by the investigator according to the Response Evaluation Criteria in Solid Tumors version 1.1 (RECIST V1.1) for participants with solid tumors or Lugano classification for lymphoma.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>COVID-19 Expansion: Number of Participants With Greater Than or Equal to (&gt;=) 2 log Reduction From Baseline in Viral Load or Below Level of Detection (Negative) in Nasopharyngeal or Oropharyngeal Samples</measure>
+    <time_frame>Up to 9 months</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Phase 2: Number of Participants Reporting one or More TEAEs</measure>
+    <time_frame>Up to 48 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 2: Number of Participants Based on Severity of TEAEs</measure>
+    <time_frame>Up to 48 months</time_frame>
+    <description>Severity grade will be evaluated as per the NCI CTCAE Version 5.0, except for CRS, which will be assessed by ASTCT consensus grading criteria.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 2, Cmax: Maximum Observed Plasma Concentration for TAK-981</measure>
+    <time_frame>Cycle 1 Day 1 pre-dose and at multiple time points (up to 48 hours) post dose; Cycle 1 Day 8 pre-dose and at multiple time points (up to 24 hours) post dose (Cycle length is equal to [=] 21 days)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 2, Tmax: Time to Reach the Maximum Plasma Concentration (Cmax) for TAK-981</measure>
+    <time_frame>Cycle 1 Day 1 pre-dose and at multiple time points (up to 48 hours) post dose; Cycle 1 Day 8 pre-dose and at multiple time points (up to 24 hours) post dose (Cycle length =21 days)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 2, AUClast: Area Under the Plasma Concentration-time Curve From Time 0 to the Time of the Last Quantifiable Concentration for TAK-981</measure>
+    <time_frame>Cycle 1 Day 1 pre-dose and at multiple time points (up to 48 hours) post dose; Cycle 1 Day 8 pre-dose and at multiple time points (up to 24 hours) post dose (Cycle length =21 days)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 2, AUC∞: Area Under the Plasma Concentration-time Curve from Time 0 to Infinity for TAK-981</measure>
+    <time_frame>Cycle 1 Day 1 pre-dose and at multiple time points (up to 48 hours) post dose; Cycle 1 Day 8 pre-dose and at multiple time points (up to 24 hours) post dose (Cycle length =21 days)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 2, Terminal Disposition Phase Half-life (t1/2z) for TAK-981</measure>
+    <time_frame>Cycle 1 Day 1 pre-dose and at multiple time points (up to 48 hours) post dose; Cycle 1 Day 8 pre-dose and at multiple time points (up to 24 hours) post dose (Cycle length =21 days)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 2, Total Clearance (CL) After Intravenous Administration for TAK-981</measure>
+    <time_frame>Cycle 1 Day 1 pre-dose and at multiple time points (up to 48 hours) post dose; Cycle 1 Day 8 pre-dose and at multiple time points (up to 24 hours) post dose (Cycle length =21 days)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 2, Volume of Distribution at Steady State After Intravenous Administration (Vss) for TAK-981</measure>
+    <time_frame>Cycle 1 Day 1 pre-dose and at multiple time points (up to 48 hours) post dose; Cycle 1 Day 8 pre-dose and at multiple time points (up to 24 hours) post dose (Cycle length =21 days)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 2: ORR</measure>
+    <time_frame>From the first dose until best response is achieved (up to 4 years)</time_frame>
+    <description>ORR is defined as percentage of participants who achieve CR and PR through the study (approximately 4 years), as determined by the investigator according to the RECIST V1.1 for participants with solid tumors or Lugano classification for lymphoma.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 2: Duration of Response (DOR)</measure>
+    <time_frame>From the time of documentation of tumor response to the first recorded occurrence of disease progression (PD) or death from any cause (whichever occurs first), through end of study (up to 4 years)</time_frame>
+    <description>DOR is the time from the date of first documentation of a PR or better to the date of first documentation of progressive disease for responders (PR or better) and will be determined by the investigator according to RECIST v1.1 for participants with solid tumors or Lugano classification for lymphoma.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 2: Disease Control Rate (DCR)</measure>
+    <time_frame>From the first dose until best response is achieved (up to 4 years)</time_frame>
+    <description>DCR is defined as the percentage of participants who achieve stable disease (SD) or better (determined by the investigator according to RECIST v1.1 criteria for solid tumors or Lugano classification for lymphoma) greater than (&gt;) 6 weeks during the study in the response-evaluable population.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 2: Time to Response (TTR)</measure>
+    <time_frame>From the date of first study drug administration to the date of first documented PR or better (up to 4 years)</time_frame>
+    <description>TTR is defined as the time from the date of first study drug administration to the date of first documented PR or better by the investigator for responders according to RECIST v1.1 for participants with solid tumors or Lugano classification for lymphoma.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 2: Time to Progression (TTP)</measure>
+    <time_frame>From the date of first study drug administration to the date of first documented PD (up to 4 years)</time_frame>
+    <description>TTP is defined as the time from the date of the first dose administration to the date of first documented progressive disease and will be determined by the investigator according to RECIST v1.1 for participants with solid tumors or Lugano classification for lymphoma.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 2: Progression-free Survival (PFS)</measure>
+    <time_frame>From the date of the first dose administration to the date of first documentation of PD or death due to any cause whichever occurs first, through the end of the study (up to 4 years)</time_frame>
+    <description>PFS is defined as the time from the date of the first dose administration to the date of first documentation of progressive disease or death due to any cause, whichever occurs first and will be determined by the investigator according to RECIST v1.1 for participants with solid tumors or Lugano classification for lymphoma.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 2: Overall Survival (OS)</measure>
+    <time_frame>From the date of first study drug administration to the date of death (up to 4 years)</time_frame>
+    <description>OS is defined as the time from the date of the first dose administration to the date of death.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 2: Number of Participants With TAK-981-Small Ubiquitin-like Modifier (TAK-981-SUMO) Adduct Formation and SUMO Pathway Inhibition in Skin/Blood</measure>
+    <time_frame>Up to 48 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>COVID-19 Expansion: Number of Participants Reporting one or More TEAEs</measure>
+    <time_frame>Up to 9 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>COVID-19 Expansion: Number of Participants Based on Severity of TEAEs</measure>
+    <time_frame>Up to 9 months</time_frame>
+    <description>Severity Grades will be evaluated as per National Cancer Institute Common Terminology Criteria for Adverse Event (NCI CTCAE), version 5.0.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>COVID-19 Expansion: Duration of TEAEs</measure>
+    <time_frame>Up to 9 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>COVID-19 Expansion: Change from Baseline in National Early Warning Score (NEWS)</measure>
+    <time_frame>Up to 9 months</time_frame>
+    <description>NEWS determines the degree of illness of participants and prompts critical care intervention. It will be based on the score allocated to respiratory rate, peripheral capillary oxygen saturation, any supplemental oxygen, temperature, systolic blood pressure, heart rate and level of consciousness.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>COVID-19 Expansion: Percentage of Participants Reporting Each Hospitalization Severity Rating</measure>
+    <time_frame>Up to 9 months</time_frame>
+    <description>Percentage of participants will be reported based on severity rating on a 6-point ordinal scale, which will include: 1 (death); 2 (hospitalized, on invasive mechanical ventilation or extracorporeal membrane oxygenation, hospitalized); 3 (on non-invasive ventilation or high flow oxygen devices); 4 (hospitalized, requiring supplemental oxygen); 5 (hospitalized, not requiring supplemental oxygen); and 6 (not hospitalized).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>COVID-19 Expansion: Change From Baseline in SARS-CoV-2 Viral Load in Nasopharyngeal or Oropharyngeal Samples</measure>
+    <time_frame>Up to 9 months</time_frame>
+    <description>Change from Baseline in SARS-CoV-2 viral Load in nasopharyngeal or oropharyngeal samples will be determined by viral response. The nasopharyngeal swab will be collected from both nostrils or from the same nostril every time.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>COVID-19 Expansion: Percentage of Participants Requiring Oxygen Supplementation; Assisted or Positive Pressure Non-invasive Ventilation; and Invasive Ventilation, on Days 3, 5, 8, 11, 15, and 30</measure>
+    <time_frame>Days 3, 5, 8, 11, 15, and 30</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>COVID-19 Expansion: Percentage of Participants That met Intensive Care Unit (ICU) Criteria</measure>
+    <time_frame>Up to 9 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>COVID-19 Expansion: Duration of Hospitalization</measure>
+    <time_frame>Up to 9 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>COVID-19 Expansion: Time to Viral Ribonucleic Acid (RNA) Negativity in Nasopharyngeal or Oropharyngeal Samples</measure>
+    <time_frame>Up to 9 months</time_frame>
+    <description>Time from the first dose of TAK-981 to viral load negativity (below level of detection).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>COVID-19 Expansion: Time to Discharge or to a NEWS of Less Than or Equal to (&lt;=) 3 and Maintained for 24 Hours</measure>
+    <time_frame>Up to 9 months</time_frame>
+    <description>Time from first dose of TAK-981 to participant's discharge or to NEWS score &lt;=3. NEWS determines the degree of illness of participants and prompts critical care intervention. It will be based on the score allocated to respiratory rate, peripheral capillary oxygen saturation, any supplemental oxygen, temperature, systolic blood pressure, heart rate and level of consciousness.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>COVID-19 Expansion: Number of Deaths in Hospital due to any Cause in First 30 Days and in 90 Days</measure>
+    <time_frame>Days 30 and 90</time_frame>
+  </secondary_outcome>
+  <number_of_arms>8</number_of_arms>
+  <enrollment type="Anticipated">242</enrollment>
+  <condition>Neoplasms</condition>
+  <condition>Lymphoma</condition>
+  <condition>Hematologic Neoplasms</condition>
+  <condition>Coronavirus Disease</condition>
+  <arm_group>
+    <arm_group_label>Phase 1, Dose Escalation Cohort: TAK-981</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>TAK-981, intravenously, administered as 60 minute-infusion, once on Days 1, 4, 8, and 11 in a 21-day treatment cycle for up to approximately 12 months or until discontinuation from the study. If clinical safety, pharmacokinetics, and pharmacodynamics are supportive, the dosing schedule may be modified to evaluate a less intensive administration of TAK-981 on Day 1 or Days 1 and 8 in 21-day cycles in participants with advanced or metastatic solid tumors or lymphomas. Dose levels will be escalated based on the Bayesian logistic regression modeling (BLRM). The dose escalation phase will determine the RP2D of TAK-981.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 2, Cohort A: Nonsquamous NSCLC</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>TAK-981 at RP2D and schedule, intravenously, administered as 60 minute-infusion in a 21-day treatment cycle for up to approximately 12 months or until discontinuation from the study in participants with nonsquamous non-small cell lung cancer (NSCLC).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 2, Cohort B: Cervical Cancer</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>TAK-981 at RP2D and schedule, intravenously, administered as 60 minute-infusion in a 21-day treatment cycle for up to approximately 12 months or until discontinuation from the study in participants with cervical cancer.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 2, Cohort C: MSS-CRC</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>TAK-981 at RP2D and schedule, intravenously, administered as 60 minute-infusion in a 21-day treatment cycle for up to approximately 12 months or until discontinuation from the study in participants with microsatellite-stable colorectal cancer (MSS-CRC).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 2, Cohort D: r/r DLBCL after CAR T-cells therapy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>TAK-981 at RP2D and schedule, intravenously, administered as 60 minute-infusion in a 21-day treatment cycle for up to approximately 12 months or until discontinuation from the study in participants with relapsed/refractory (r/r) diffuse large B-cell lymphoma (DLBCL) after prior chimeric antigen receptor (CAR) T-cells therapy.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 2, Cohort E: r/r DLBCL without prior CAR T-cells therapy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>TAK-981 at RP2D and schedule, intravenously, administered as 60 minute-infusion in a 21-day treatment cycle for up to approximately 12 months or until discontinuation from the study in participants with relapsed/refractory DLBCL that have not received prior CAR T-cells therapy.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 2, Cohort F: r/r Follicular Lymphoma</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>TAK-981 at RP2D and schedule, intravenously, administered as 60 minute-infusion in a 21-day treatment cycle for up to approximately 12 months or until discontinuation from the study in participants with relapsed/refractory follicular lymphoma (FL).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>COVID-19 Expansion: TAK-981</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Covid-19 safety lead-in: TAK-981, intravenously, administered as 60 minute-infusion, once on Days 1 and 4. The starting dose of TAK-981 will be 60 milligram (mg). The initial dosing schedule for COVID-19 expansion cohorts will be for a single cycle with TAK-981 administered on Days 1 and 4. If PK, pharmacodynamics, decrease in viral load and safety data are supportive, the schedule can be modified in safety lead-in. A ramp-up schedule of TAK-981, intravenously, administered as 60 minute-infusion, 40 mg on Day 1 and 60 mg on Day 4 may be evaluated. COVID-19 proof of concept: Once the safety lead-in is complete and a TAK-981 dose and regimen is selected by the Safety Monitoring Committee (SMC), the randomized COVID-19 proof of concept will begin with participants randomized to Arm A: COVID-19 standard of care (SOC), or Arm B: COVID-19 SOC + TAK-981.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>TAK-981</intervention_name>
+    <description>Intravenous infusion.</description>
+    <arm_group_label>COVID-19 Expansion: TAK-981</arm_group_label>
+    <arm_group_label>Phase 1, Dose Escalation Cohort: TAK-981</arm_group_label>
+    <arm_group_label>Phase 2, Cohort A: Nonsquamous NSCLC</arm_group_label>
+    <arm_group_label>Phase 2, Cohort B: Cervical Cancer</arm_group_label>
+    <arm_group_label>Phase 2, Cohort C: MSS-CRC</arm_group_label>
+    <arm_group_label>Phase 2, Cohort D: r/r DLBCL after CAR T-cells therapy</arm_group_label>
+    <arm_group_label>Phase 2, Cohort E: r/r DLBCL without prior CAR T-cells therapy</arm_group_label>
+    <arm_group_label>Phase 2, Cohort F: r/r Follicular Lymphoma</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Standard of care</intervention_name>
+    <description>Standard of care for COVID-19.</description>
+    <arm_group_label>COVID-19 Expansion: TAK-981</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Adult male or female participants &gt;=18 years old.&#xD;
+&#xD;
+          2. Eastern Cooperative Oncology Group (ECOG) performance status of 0 to 1 (ECOG 0 to 2,&#xD;
+             for COVID-19 expansion).&#xD;
+&#xD;
+          3. Population for Phase 1 dose escalation:&#xD;
+&#xD;
+               -  Has histologically or cytologically confirmed advanced (local regionally&#xD;
+                  recurrent not amenable to curative therapy) or metastatic solid tumors who have&#xD;
+                  no standard therapeutic option with a proven clinical benefit, are intolerant, or&#xD;
+                  have refused them. OR&#xD;
+&#xD;
+               -  Has relapsed/refractory lymphoma not amenable to therapies with proven clinical&#xD;
+                  benefit or who are intolerant or who refuse them. Participants with low-grade&#xD;
+                  lymphomas such as FL, small lymphocytic lymphoma, lymphoplasmacytoid lymphoma,&#xD;
+                  and marginal zone lymphomas, may not need to exhaust all available therapy. These&#xD;
+                  participants can be enrolled after failure of at least 2 prior systemic&#xD;
+                  therapies, provided that there is not an immediate need for cytoreduction. In&#xD;
+                  these cases, participants who need immediate therapy for tumor bulk are not&#xD;
+                  eligible for this trial.&#xD;
+&#xD;
+          4. Population for Phase 2 dose expansion cohorts:&#xD;
+&#xD;
+             o Has histologically or cytologically documented, advanced (metastatic and/or&#xD;
+             unresectable) cancer as listed below, that is incurable and for which prior standard&#xD;
+             first-line treatment has failed: Note: Prior neoadjuvant or adjuvant therapy included&#xD;
+             in initial treatment may not be considered first- or later-line SOC treatment unless&#xD;
+             such treatments were completed less than 12 months before the current tumor&#xD;
+             recurrence.&#xD;
+&#xD;
+             o Nonsquamous NSCLC that has progressed to 1 prior systemic immune checkpoint&#xD;
+             inhibitors (CPI)/anti-PD-(1/L1)-containing therapy and no more than 2 lines of&#xD;
+             therapy. Participants must have not shown evidence of tumor progression during the&#xD;
+             first 5 months of treatment with first-line CPI/anti-PD-(1/L1)-containing therapy&#xD;
+             (cohort A).&#xD;
+&#xD;
+             Note: Participants with known driver mutations/genomic aberrations (example- epidermal&#xD;
+             growth factor receptor [EGFR], B-Raf proto-oncogene mutation V600E [BRAF V600E], and&#xD;
+             ROS proto-oncogene 1 [ROS1] sensitizing mutations, neurotrophic receptor tyrosine&#xD;
+             kinase [NRTK] gene fusions, and anaplastic lymphoma kinase [ALK] rearrangements) must&#xD;
+             have also shown progressive disease after treatment with a commercially available&#xD;
+             targeted therapy.&#xD;
+&#xD;
+             o CPI-naïve cervical cancer (squamous cell carcinoma, adenosquamous carcinoma or&#xD;
+             adenocarcinoma of the cervix) participants who have received no more than 1 prior&#xD;
+             systemic line of therapy for recurrent or Stage IVB cervical cancer (cohort B).&#xD;
+&#xD;
+             Note: The following cervical tumors are not eligible: minimal deviation/adenoma&#xD;
+             malignum, gastric-type adenocarcinoma, clear-cell carcinoma, and mesonephric&#xD;
+             carcinoma. Histologic confirmation of the original primary tumor is required via&#xD;
+             pathology report.&#xD;
+&#xD;
+             Note: First-line treatment must have consisted of platinum-containing doublet.&#xD;
+             Chemotherapy administered concurrently with primary radiation (example- weekly&#xD;
+             cisplatin) is not counted as a systemic chemotherapy regimen.&#xD;
+&#xD;
+             o CPI-naïve MSS-CRC participants who have progressed on no more than 3 chemotherapy&#xD;
+             regimens (cohort C).&#xD;
+&#xD;
+             Note: Participants must have received prior treatment with fluoropyrimidine-,&#xD;
+             oxaliplatin-, and irinotecan-containing regimens if indicated.&#xD;
+&#xD;
+               -  Relapsed/refractory DLBCL progressed or relapsed after prior CAR T cell therapy&#xD;
+                  that has received approval by a health authority for the treatment of DLBCL&#xD;
+                  (cohort D).&#xD;
+&#xD;
+               -  Relapsed/refractory DLBCL that has progressed or relapsed after at least 2 but no&#xD;
+                  more than 3 prior lines of systemic therapy and has not received prior cellular&#xD;
+                  therapy. At least one prior line of therapy must have included a CD20-targeted&#xD;
+                  therapy (cohort E).&#xD;
+&#xD;
+               -  Relapsed/refractory FL that has progressed or relapsed after at least 2 but no&#xD;
+                  more than 3 prior lines of systemic therapy. At least 1 prior line of therapy&#xD;
+                  must have included a CD20-targeted therapy (cohort F).&#xD;
+&#xD;
+          5. In Phase 2 only, have at least 1 radiologically measurable lesion based on RECIST v1.1&#xD;
+             for participants with solid tumors or Lugano criteria for lymphoma. Tumor lesions&#xD;
+             situated in a previously irradiated area are considered measurable if progression has&#xD;
+             been demonstrated in such lesions.&#xD;
+&#xD;
+             Note: In Phase 2 stage 1, have an additional lesion for pretreatment and on-treatment&#xD;
+             biopsy.&#xD;
+&#xD;
+          6. In Phase 2 stage 1, willing to consent to mandatory pretreatment and on-treatment&#xD;
+             tumor biopsy.&#xD;
+&#xD;
+             Note: For fresh tumor biopsies, the lesion must be accessible for a biopsy procedure&#xD;
+             as assessed by the investigator.&#xD;
+&#xD;
+          7. Is willing to provide archival tumor tissue sample, if available. (Note: not&#xD;
+             applicable for participants in the COVID-19 expansion.)&#xD;
+&#xD;
+          8. COVID-19 expansion:&#xD;
+&#xD;
+               -  Has a current histologically confirmed locally advanced or metastatic solid tumor&#xD;
+                  or relapsed/refractory hematologic malignancy.&#xD;
+&#xD;
+               -  Has a documented positive result for SARS-CoV-2 RNA in a respiratory specimen by&#xD;
+                  local test that has been analytically validated per local authority guidelines.&#xD;
+&#xD;
+               -  Is currently hospitalized (&lt;=3 days before enrollment) for treatment of COVID-19.&#xD;
+&#xD;
+               -  Has peripheral capillary oxygen saturation (SpO2) &gt;93 percentage (%) on room air&#xD;
+                  at screening.&#xD;
+&#xD;
+               -  Has moderate disease (NEWS &lt;=6).&#xD;
+&#xD;
+               -  Has left ventricular ejection fraction (LVEF) &gt;=40%; as measured by&#xD;
+                  echocardiogram or multiple gated acquisition (MUGA) scan within the previous 3&#xD;
+                  months. Note: required for participants with history of significant&#xD;
+                  cardiovascular (CV) disease or history of cardiotoxic therapy.&#xD;
+&#xD;
+          9. Adequate bone marrow reserve and renal and hepatic function.&#xD;
+&#xD;
+         10. Recovered to Grade 1 or baseline or established as sequelae from all toxic effects of&#xD;
+             previous therapy (except alopecia, neuropathy, or autoimmune endocrinopathies with&#xD;
+             stable endocrine replacement therapy, bone marrow parameters [any of Grade 1 or 2&#xD;
+             permitted if directly related to bone marrow involvement).&#xD;
+&#xD;
+         11. Consented to undergo serial skin punch biopsies (dose escalation only).&#xD;
+&#xD;
+         12. Suitable venous access for safe drug administration and the study-required PK and&#xD;
+             pharmacodynamics sampling.&#xD;
+&#xD;
+         13. Women of childbearing potential participating in this study should avoid becoming&#xD;
+             pregnant, and male participants should avoid impregnating a female partner.&#xD;
+             Nonsterilized female participants of reproductive age and male participants should use&#xD;
+             effective methods of contraception through defined periods during and after study&#xD;
+             treatment as specified below. Female participants must meet 1 of the following:&#xD;
+&#xD;
+               -  Postmenopausal for at least 1 year before the screening visit, or&#xD;
+&#xD;
+               -  Surgically sterile, or&#xD;
+&#xD;
+               -  If they are of childbearing potential, agree to practice 1 highly effective&#xD;
+                  method and 1 additional effective (barrier) method of contraception at the same&#xD;
+                  time, from the time of signing of the informed consent form (ICF) through 90 days&#xD;
+                  after the last dose of study drug (whichever is longer), or&#xD;
+&#xD;
+               -  Agree to practice true abstinence, when this is in line with the preferred and&#xD;
+                  usual lifestyle of the participant. (Periodic abstinence [example, calendar,&#xD;
+                  ovulation, symptothermal, postovulation methods], withdrawal, spermicides only,&#xD;
+                  and lactational amenorrhea are not acceptable methods of contraception. Female&#xD;
+                  and male condoms should not be used together.)&#xD;
+&#xD;
+         14. Male participants, even if surgically sterilized (that is, status postvasectomy) must&#xD;
+             agree to 1 of the following:&#xD;
+&#xD;
+               -  Agree to practice effective barrier contraception during the entire study&#xD;
+                  treatment period and through 120 days after the last dose of study drug, or&#xD;
+&#xD;
+               -  Agree to practice true abstinence, when this is in line with the preferred and&#xD;
+                  usual lifestyle of the participant. (Periodic abstinence [example, calendar,&#xD;
+                  ovulation, symptothermal, postovulation methods], withdrawal, spermicides only,&#xD;
+                  and lactational amenorrhea are not acceptable methods of contraception. Female&#xD;
+                  and male condoms should not be used together.)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Phase 1 dose escalation and Phase 2 cancer treatment expansion cohorts:&#xD;
+&#xD;
+             o Has received treatment with systemic anticancer treatments or investigational&#xD;
+             products within 14 days before the first dose of study drug or 5 half-lives, whichever&#xD;
+             is shorter.&#xD;
+&#xD;
+             Note: Low-dose steroids (oral prednisone or equivalent &lt;=20 mg per day), hormonal&#xD;
+             therapy for prostate cancer or breast cancer (as adjuvant treatment), and treatment&#xD;
+             with bisphosphonates and receptor activator of nuclear factor kappa-Β ligand (RANKL)&#xD;
+             inhibitors are allowed.&#xD;
+&#xD;
+             o Has received extended field radiotherapy &lt;=4 weeks before the start of treatment&#xD;
+             (&lt;=2 weeks for limited field radiation for palliation), and who has not recovered to&#xD;
+             grade 1 or baseline from related side effects of such therapy (except for alopecia).&#xD;
+&#xD;
+          2. COVID-19 expansion:&#xD;
+&#xD;
+               -  Concurrent treatment with other agents with actual or possible direct acting&#xD;
+                  antiviral activity against SARS-CoV-2 is prohibited less than (&lt;) 24 hours prior&#xD;
+                  to study drug dosing.&#xD;
+&#xD;
+               -  Require mechanical ventilation or admission to intensive care unit (ICU) at&#xD;
+                  screening.&#xD;
+&#xD;
+               -  Require the use of drugs known to prolong QTc interval, , or drugs that are of&#xD;
+                  continuous use and were introduced at least 1 month before enrollment without&#xD;
+                  evidence of QTc prolongation.&#xD;
+&#xD;
+          3. History of any of the following &lt;=6 months before first dose: congestive heart failure&#xD;
+             New York Heart Association Grade III or IV, unstable angina, myocardial infarction,&#xD;
+             unstable symptomatic ischemic heart disease, severe noncompensated hypertension&#xD;
+             despite appropriate medical therapy, ongoing symptomatic cardiac arrhythmias of &gt;Grade&#xD;
+             2, pulmonary embolism, or symptomatic cerebrovascular events, or any other serious&#xD;
+             cardiac condition (example, pericardial effusion or restrictive cardiomyopathy).&#xD;
+             Chronic atrial fibrillation on stable anticoagulant therapy is allowed.&#xD;
+&#xD;
+          4. Baseline prolongation of the QT interval with Fridericia correction method (QTcF)&#xD;
+             (example, repeated demonstration of QTcF interval &gt;480 milliseconds (ms), history of&#xD;
+             congenital long QT syndrome, or torsades de pointes).&#xD;
+&#xD;
+          5. Psychiatric illness/social circumstances that would limit compliance with study&#xD;
+             requirements and substantially increase the risk of adverse events (AEs) or has&#xD;
+             compromised ability to provide written informed consent.&#xD;
+&#xD;
+          6. Admission or evidence of illicit drug use, drug abuse, or alcohol abuse.&#xD;
+&#xD;
+          7. History of autoimmune disease requiring systemic immunosuppressive therapy.&#xD;
+&#xD;
+          8. History of immune-related AEs related to treatment with immune checkpoint inhibitors&#xD;
+             that required treatment discontinuation.&#xD;
+&#xD;
+          9. History of noninfectious pneumonitis that required steroids or a history of&#xD;
+             interstitial lung disease.&#xD;
+&#xD;
+         10. Has evidence of active, noninfectious pneumonitis.&#xD;
+&#xD;
+         11. Have a significant active infection, except participants with SARS-CoV-2 infection in&#xD;
+             the COVID-19 expansion.&#xD;
+&#xD;
+         12. Known history of human immunodeficiency virus (HIV) infection or any other relevant&#xD;
+             congenital or acquired immunodeficiency.&#xD;
+&#xD;
+         13. Known hepatitis B virus (HBV) surface antigen seropositive or detectable hepatitis C&#xD;
+             infection viral load. Note: Participants who have positive hepatitis B core antibody&#xD;
+             or hepatitis B surface antigen antibody can be enrolled but must have an undetectable&#xD;
+             hepatitis B viral load.&#xD;
+&#xD;
+         14. Receiving or requiring the continued use of medications that are known to be strong or&#xD;
+             moderate inhibitors and inducers of cytochrome P-450 3A4/5 (CYP3A4/5) or are strong&#xD;
+             permeability glycoprotein (P-gp) inhibitors. To participate in this study, such&#xD;
+             participants should discontinue use of such agents for at least 2 weeks before&#xD;
+             receiving a dose of TAK-981.&#xD;
+&#xD;
+         15. Participant requires the use of drugs known to prolong QTc interval (during Phase 1&#xD;
+             only).&#xD;
+&#xD;
+         16. History of allogeneic tissue or solid organ transplant.&#xD;
+&#xD;
+         17. Second malignancy within the previous 3 years, except treated basal cell or localized&#xD;
+             squamous skin carcinomas, localized prostate cancer, cervical carcinoma in situ,&#xD;
+             resected colorectal adenomatous polyps, breast cancer in situ, or other malignancy for&#xD;
+             which the participant is not on active anticancer therapy.&#xD;
+&#xD;
+         18. Female participants who are lactating and breastfeeding or have a positive serum&#xD;
+             pregnancy test during the screening period or a positive urine pregnancy test on Day 1&#xD;
+             before first dose of study drug.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Medical Director</last_name>
+    <role>Study Director</role>
+    <affiliation>Millennium Pharmaceuticals, Inc.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Takeda Study Registration Call Center</last_name>
+    <phone>1-866-835-2233</phone>
+    <email>MedinfoUS@takeda.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of California San Diego Moores Cancer Center</name>
+      <address>
+        <city>La Jolla</city>
+        <state>California</state>
+        <zip>92093</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Barbara Ann Karmanos Cancer Institute</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48201-2013</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>HealthPartners Cancer Care Center - Regions Hospital</name>
+      <address>
+        <city>Saint Paul</city>
+        <state>Minnesota</state>
+        <zip>55101</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospitals Seidman Cancer Center</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44106-5000</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Fox Chase Cancer Center</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19111-2434</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The University of Texas MD Anderson Cancer Center</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Froedtert and the Medical College of Wisconsin</name>
+      <address>
+        <city>Milwaukee</city>
+        <state>Wisconsin</state>
+        <zip>53226</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>August 24, 2018</study_first_submitted>
+  <study_first_submitted_qc>August 24, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 27, 2018</study_first_posted>
+  <last_update_submitted>December 1, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 1, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 3, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Drug therapy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Neoplasms</mesh_term>
+    <mesh_term>Hematologic Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Takeda provides access to the de-identified individual participant data (IPD) for eligible studies to aid qualified researchers in addressing legitimate scientific objectives (Takeda's data sharing commitment is available on https://clinicaltrials.takeda.com/takedas-commitment?commitment=5). These IPDs will be provided in a secure research environment following approval of a data sharing request, and under the terms of a data sharing agreement.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_access_criteria>IPD from eligible studies will be shared with qualified researchers according to the criteria and process described on https://vivli.org/ourmember/takeda/. For approved requests, the researchers will be provided access to anonymized data (to respect patient privacy in line with applicable laws and regulations) and with information necessary to address the research objectives under the terms of a data sharing agreement.</ipd_access_criteria>
+    <ipd_url>https://vivli.org/ourmember/takeda/</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

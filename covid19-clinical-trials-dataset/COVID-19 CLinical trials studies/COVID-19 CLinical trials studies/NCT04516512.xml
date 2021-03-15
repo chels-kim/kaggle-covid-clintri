@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="893">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04516512</url>
+  </required_header>
+  <id_info>
+    <org_study_id>APHP200667</org_study_id>
+    <nct_id>NCT04516512</nct_id>
+  </id_info>
+  <brief_title>Assessment of SARS-CoV-2 Seroprevalence in Detention</brief_title>
+  <acronym>COVIDET</acronym>
+  <official_title>SARS-CoV-2 Seroprevalence Among Adults People Living in Jail</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Assistance Publique - Hôpitaux de Paris</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Assistance Publique - Hôpitaux de Paris</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      &quot;Background France counted on January 1, 2020, 70,651 people detained, for 61,080 places.&#xD;
+      Overcrowding in detention is considered as risk factor for infectious diseases transmission,&#xD;
+      such as respiratory infections. The prison environment represents a confined environment,&#xD;
+      which could protect prisoners from possible external contamination. If one or more inmates&#xD;
+      were infected through visiting rooms, officers working in detention, or newly incarcerated&#xD;
+      people, an epidemic could spread more quickly in the prison community. Thus, few cases of&#xD;
+      COVID-19 were observed among the subjects in detention with a few weeks delay compared to the&#xD;
+      free world. However, detention conditions make it more difficult to detect suspicious cases.&#xD;
+      On the other hand, carrying out diagnostic tests is structurally more difficult to carry out&#xD;
+      there. Thus, given the plurality of clinical presentations, the non-optimal sensitivity of&#xD;
+      the SARS-CoV-2 RT-PCR, and the difficulty in carrying out diagnostic tests, it is today&#xD;
+      difficult to have a precise idea of the number of prisoners having encountered SARS-CoV-2. It&#xD;
+      is also a population that is not taken into account in the large seroprevalence studies&#xD;
+      currently conducted in the general population. In order to estimate the number of prisoners&#xD;
+      exposed to SARS-CoV-2 and in the absence of data currently available in the medical&#xD;
+      literature, a seroprevalence study in this at risk and little studied population would bring&#xD;
+      new data to the medical community.&#xD;
+&#xD;
+      Hypothesis In adult subjects living in penal establishments in Ile de France, the&#xD;
+      seroprevalence of SARS-CoV-2 would be lower compared to the general population.&#xD;
+&#xD;
+      Material and method Open multicenter cross-sectional study carried out in the 11 penal&#xD;
+      establishments of Ile de France. A sampling of 3,500 inmates stratified over the 16 detention&#xD;
+      areas concerned will be carried out. The inclusion criteria will be detained subjects who&#xD;
+      have expressed their consent to participate in the research, aged 18 to 80 years. Each&#xD;
+      selected detainee will be invited to the health unit to perform a venous blood test for&#xD;
+      anti-SARS-CoV-2 antibodies. The goal is to take 2,500 blood samples (30% expected refusal&#xD;
+      rate). Each sample will be analyzed in the virology laboratory at P. Brousse hospital.&#xD;
+&#xD;
+      Expected results Obtain an assessment of the seroprevalence of SARS-CoV-2 in prisons to&#xD;
+      determine the exposure of detained persons. This assessment will make it possible to&#xD;
+      undertake public health actions and to propose the implementation of group protection&#xD;
+      measures such as vaccination if this is soon available.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      &quot;&#xD;
+&#xD;
+        1. Scientific justification for the research&#xD;
+&#xD;
+           o Current knowledge&#xD;
+&#xD;
+           SARS-CoV-2, a new coronavirus infecting human, is responsible for the COVID-19 pandemic.&#xD;
+           The virus is transmitted either directly through the projection of contaminated droplets&#xD;
+           during a cough or sneeze, or indirectly through contact via an inert contaminated&#xD;
+           surface. The recent occurrence of the COVID-19 epidemic and the originality of the&#xD;
+           situation, both nationally and internationally, do not currently allow data describing&#xD;
+           the epidemic in prison, nor elements characterizing it the seroprevalence of SARS-CoV-2&#xD;
+           in detention.&#xD;
+&#xD;
+           The medical literature currently reports some reflections on the challenges of&#xD;
+           SARS-CoV-2 infection in prisoners. A team recently reported an epidemic of COVID-19 in&#xD;
+           prison in China3, which involved more than 500 cases including male and female prison&#xD;
+           staff and detainees.&#xD;
+&#xD;
+           A recent publication reported that the infectious period of SARS-CoV-2 begins two to&#xD;
+           three days before the onset of symptoms4. This major fact could limit the effectiveness&#xD;
+           of the strategy currently adopted in detention to isolate everyone as soon as the first&#xD;
+           symptoms of COVID-19 appear, even if all the identified contact subjects were also&#xD;
+           placed in containment and monitored and the new arrivals in detention placed in solitary&#xD;
+           confinement for a period of 14 days.&#xD;
+&#xD;
+           On January 1, 2020, France had 70,651 people detained, for 61,080 places. This&#xD;
+           overcrowding is concentrated in certain prisons which house 2/3 of the prison&#xD;
+           population, so the occupancy rate can reach 138%, forcing two to three people -&#xD;
+           sometimes more - to share the same cell. Overcrowding and overcrowding in detention are&#xD;
+           considered to be risk factors for the transmission of infectious diseases compared to&#xD;
+           the open environment, in particular for respiratory viruses. Thus, epidemics of&#xD;
+           influenza have been reported there in the United States and recently epidemics of&#xD;
+           SARS-CoV-2 in China.&#xD;
+&#xD;
+           Since January 24, 2020, the date on which a Chinese tourist visiting France was&#xD;
+           identified as the first case infected with SARS-CoV-2 on the territory, the epidemic has&#xD;
+           spread widely in the general population, putting in straining the healthcare system and&#xD;
+           having led to major decisions aimed at reducing its transmission. While on February 25&#xD;
+           died the first French patient following a COVID-19, almost three weeks later died of&#xD;
+           this disease, the first patient detained. He had been incarcerated eight days earlier.&#xD;
+           The rapid spread of the epidemic in the free world and the occurrence of this first&#xD;
+           death in detention then raised fears of an epidemic in prison. However, the prison&#xD;
+           environment alone represents a confined environment, which could protect prisoners from&#xD;
+           possible external contamination. According to some authors, the attack rate varies&#xD;
+           according to the number of people living in &quot;&quot;closed societies&quot;&quot; and the nature of their&#xD;
+           interactions and is not different from that observed in the general population.&#xD;
+&#xD;
+           To reduce the risk of detainees being exposed to SARS-CoV-2, measures such as the early&#xD;
+           release agreement, the reduction in the number of arrivals, and the suspension of&#xD;
+           visiting rooms have been put in place. Thus, the number of prisoners in French prisons&#xD;
+           decreased by 6,266 people between March 16 and April 1.&#xD;
+&#xD;
+           Although these actions were put in place, measures to limit human-to-human contamination&#xD;
+           of SARS-CoV-2 were difficult to apply at the start of the epidemic in the absence of&#xD;
+           sufficient supplies. Thus, in certain detentions, several grouped cases of COVID-19 have&#xD;
+           been observed among caregivers and prison staff. It is not excluded that these agents&#xD;
+           could have contaminated detained persons who run the risk of being disseminated to the&#xD;
+           incarcerated population because of the existing promiscuity.&#xD;
+&#xD;
+           A few confirmed cases of COVID-19 have thus been observed among subjects detained a few&#xD;
+           weeks late compared to the free world in penal establishments in Ile de France, which&#xD;
+           corroborates the fact that the virus is present and circulating in the prison community.&#xD;
+           However, conditions of detention make it more difficult to detect suspicious cases,&#xD;
+           since detainees do not wish to be stigmatized among their fellow prisoners, tend to&#xD;
+           minimize or conceal their symptoms and thus make it less easy to consult the detention&#xD;
+           health unit (medical service). On the other hand, carrying out diagnostic tests is&#xD;
+           structurally more complex. In addition, the plurality of clinical presentations, the&#xD;
+           sensitivity of the SARS-CoV-2 RT-PCR which does not exceed 70% 10, and the difficulty in&#xD;
+           carrying out diagnostic tests, does not allow a precise idea of the number of inmates&#xD;
+           who encountered SARS-CoV-2.&#xD;
+&#xD;
+           o Research hypotheses&#xD;
+&#xD;
+           The seroprevalence of SARS-CoV-2 would be lower in detention compared to the general&#xD;
+           population.&#xD;
+&#xD;
+           o Description of the population to be studied&#xD;
+&#xD;
+           Population of adult subjects detained in penal institutions in Ile-de-France. The&#xD;
+           characterization of this specific population is necessary in France because no study to&#xD;
+           date reports data concerning this fragile and confined population due to the conditions&#xD;
+           of detention. Ile-de-France is one of the two regions with the Great East most affected&#xD;
+           by SARS-CoV-2.&#xD;
+&#xD;
+        2. Research objectives&#xD;
+&#xD;
+           o Main objective of the research&#xD;
+&#xD;
+           The main objective of the research is to assess the prevalence of SARS-CoV-2 infection&#xD;
+           among subjects detained in penal institutions in Ile-de-France.&#xD;
+&#xD;
+           o Secondary research objectives&#xD;
+&#xD;
+           The secondary objectives are:&#xD;
+&#xD;
+             -  Compare this prevalence to that of the general population&#xD;
+&#xD;
+             -  Describe the clinical forms in prisoners with a positive SARS-CoV-2 serology&#xD;
+&#xD;
+             -  Describe the characteristics and co-morbidities associated with a positive&#xD;
+                SARS-CoV-2 serology in detained subjects.&#xD;
+&#xD;
+             -  Evaluate the perception of the risk, the knowledge of the barrier measures and the&#xD;
+                recourse to care in case of symptoms in the detained subjects.&#xD;
+&#xD;
+        3. Description of the research methodology&#xD;
+&#xD;
+           o Experimental design&#xD;
+&#xD;
+           This is a multi-center cross-sectional seroprevalence study.&#xD;
+&#xD;
+             -  Number of participating centers Eleven penal establishments in Ile de France. The&#xD;
+                subjects will be recruited from the health units of penal establishments in Ile de&#xD;
+                France. These health units are all attached to hospitals.&#xD;
+&#xD;
+             -  Sample design&#xD;
+&#xD;
+           Unit investigated: individual aged 18 to 80 detained in one of the 16 detention areas of&#xD;
+           the eleven prison centers in Ile-de-France.&#xD;
+&#xD;
+           Sample size: the calculation of the number of subjects required results in 2500&#xD;
+           subjects, a sampling of 3600 prisoners will therefore be carried out by probabilistic&#xD;
+           survey from the lists of prisoners provided by each center taking into account a&#xD;
+           probable rate of refusal of participation or release from detention between selection&#xD;
+           and inclusion of 30% (observed in a previous study).&#xD;
+&#xD;
+        4. Research process 4.1.1 Research calendar&#xD;
+&#xD;
+             -  Maximum time between selection and inclusion: 4 months&#xD;
+&#xD;
+             -  Duration of the inclusion period: 4 months 4.1.2 Selection visit&#xD;
+&#xD;
+           No selection visit will be made, each participant drawn will receive a letter explaining&#xD;
+           the purpose and course of this research and inviting him to participate, the study&#xD;
+           information note will be attached to this letter. The letter will include a reply coupon&#xD;
+           which will be sent by the participant to the health unit if he wishes to participate in&#xD;
+           the research. Subjects who have thus responded positively will be invited to go to the&#xD;
+           health unit for the inclusion visit. If the subject does not appear at the health unit&#xD;
+           after a first invitation, a second invitation will be sent to him, if this second&#xD;
+           invitation is not honored, the subject will not be included in the study.&#xD;
+&#xD;
+           4.1.3 Inclusion visit&#xD;
+&#xD;
+             -  The inclusion of subjects will take place in the health units of penitentiary&#xD;
+                establishments during a medical consultation. This visit will be provided by a&#xD;
+                doctor from the health unit and a nurse. During this visit, the investigative team:&#xD;
+&#xD;
+             -  Check the inclusion and non-inclusion criteria.&#xD;
+&#xD;
+             -  Explains the objective and the course of the research and obtains the signed&#xD;
+                consent. If the participant does not understand French, the investigator uses a&#xD;
+                translator.&#xD;
+&#xD;
+             -  Performs physical and clinical examination&#xD;
+&#xD;
+             -  Collects demographic and medical history data.&#xD;
+&#xD;
+             -  Carries out an interrogation in connection with the COVID-19 disease: Interrogates&#xD;
+                the subject to gather information concerning the possible symptoms in connection&#xD;
+                with COVID-19 felt since the end of February, the recourse to possible care, the&#xD;
+                factors supposed in connection with the infection with SARS-CoV-2 and the&#xD;
+                occurrence of moderate to severe forms of COVID-19, then asked him questions about&#xD;
+                his fear of being infected, his knowledge of the transmission of the virus and the&#xD;
+                barrier measures to put in place.&#xD;
+&#xD;
+             -  Performs peripheral venous sampling.&#xD;
+&#xD;
+           The pseudo-anonymized samples will be sent to the virology laboratory at Paul Brousse&#xD;
+           Hospital for serological tests and the constitution of the biological collection.&#xD;
+&#xD;
+           For each patient, the virology laboratory will edit and transmit, via secure messaging&#xD;
+           to the investigative center, the report of the serology result with the identifier of&#xD;
+           the participant in the research.&#xD;
+&#xD;
+        5. Stopping rules 5.1.1 Criteria and methods for premature termination of participation in&#xD;
+           the search for a subject&#xD;
+&#xD;
+           Any subject can stop participating in research and exit the study at any time and for&#xD;
+           any reason. The investigator may temporarily or permanently interrupt a subject's&#xD;
+           participation in the research for any reason that would best serve the subject's&#xD;
+           interests. In the event of premature termination of the search for a subject, or&#xD;
+           withdrawal of consent, the data concerning him collected before the premature&#xD;
+           termination may be used.&#xD;
+&#xD;
+           5.1.2 How to replace these people, if applicable&#xD;
+&#xD;
+           Subjects who prematurely stopped participating in the research will not be replaced.&#xD;
+&#xD;
+           5.1.3 Stopping some or all of the research&#xD;
+&#xD;
+           The promoter AP-HP reserves the right to definitively suspend the inclusions, at any&#xD;
+           time, if it turns out that the inclusion objectives are not met.&#xD;
+&#xD;
+           Since the subjects 'participation period is less than one day, no arrangements for&#xD;
+           taking charge of subjects' follow-up will be put in place, in the event of premature&#xD;
+           cessation of research.&#xD;
+&#xD;
+        6. Effectiveness assessment&#xD;
+&#xD;
+           o Description of the efficacy evaluation parameters&#xD;
+&#xD;
+           The immunological analyzes will be carried out under the direction of Professor&#xD;
+           Roque-Afonso. The teams involved in this task are those of the virology laboratory at&#xD;
+           Paul Brousse Hospital.&#xD;
+&#xD;
+           o Determination of immunological parameters&#xD;
+&#xD;
+           Blood samples will be sent to the virology laboratory / CRB Paris-Sud by a dedicated&#xD;
+           transporter, these samples will be centrifuged and aliquoted and stored at -80 ° C at&#xD;
+           CRB Paris-Sud. An aliquot will be used for the detection of anti-SARS-CoV-2 IgG by the&#xD;
+           SARS-CoV-2 IgG Reagent Kit test (Abbott Diagnostics) according to the manufacturer's&#xD;
+           recommendations.&#xD;
+&#xD;
+        7. Vigilance As part of this study, adverse events (serious or not) are not to be notified&#xD;
+           to the sponsor. Notification must be made as part of the vigilance implemented as part&#xD;
+           of the treatment.&quot;&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 1, 2020</start_date>
+  <completion_date type="Anticipated">January 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">January 1, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Screening</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Determination of the immunological parameters (Immunoglobins G) of the SARS-CoV-2 infection</measure>
+    <time_frame>7 days</time_frame>
+    <description>It's obtained from ELISA tests carried out on blood samples. A subject will be considered to have been infected with the SARS-CoV-2 virus if anti-SARS-CoV-2 IgGs are detected in his blood sample.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Symptoms suggestive of COVID-19</measure>
+    <time_frame>7 days</time_frame>
+    <description>(fever or feeling of fever, headache, muscle aches and / or pain, cough, unusual breathing and / or shortness of breath, chest pain and / or tightness, rhinorrhea, nausea and / or vomiting, diarrhea, anosmia , ageusia, unusual tiredness), onset of hospitalization for COVID-19, onset of hospitalization in intensive care for COVID-19</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Factors assumed to be related to infection with SARS-CoV-2 and the occurrence of moderate to severe forms of COVID-19</measure>
+    <time_frame>7 days</time_frame>
+    <description>age, smoking, cardiovascular history, diabetes, chronic respiratory disease, renal failure, active cancer, immunosuppression, hepatic cirrhosis , obesity, splenectomy, acute chest syndrome, sickle cell syndrome, taking chlorpromazine, number of inmates in the same cell, ward for vulnerable people, date of incarceration.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">2500</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Investigated arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants included in the study who met inclusion criteria</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Blood draw</intervention_name>
+    <description>For each participants to the research a peripherical blood draw will be performed</description>
+    <arm_group_label>Investigated arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Detained woman appearing on the lists supplied by the penitentiary establishments or&#xD;
+             detained man drawn by lot from the lists supplied by the penitentiary establishments.&#xD;
+&#xD;
+          -  Age from 18 to 80 years old.&#xD;
+&#xD;
+          -  Free and informed consent signed.&quot;&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Subject likely not to respect the terms of the study&#xD;
+&#xD;
+          -  Persons who are placed under legal protection&#xD;
+&#xD;
+          -  Person released from detention between the day of selection and the day of the planned&#xD;
+             consultation&#xD;
+&#xD;
+          -  Person who are not attending the inclusion consultation after two invitations&#xD;
+&#xD;
+          -  Patient who do not speaking French and are not accompanied by a translator&#xD;
+&#xD;
+          -  Pregnant and lactating women&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Guillaume Mellon, MD,MPH</last_name>
+    <role>Study Director</role>
+    <affiliation>Etablissement Public de Santé National de Fresnes, Service de Médecine</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Anne Maie Roque-Afonso, MD, MPH</last_name>
+    <role>Study Chair</role>
+    <affiliation>Hôpital Paul Brousse, Service de Virologie</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Anne Dulioust, MD, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Etablissement Public national de Fresnes, Service de Médecine</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Guillaume Mellon, MD, MPH</last_name>
+    <phone>+33 1 49 84 71 17</phone>
+    <email>guillaume.mellon@inserm.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Anne Dulioust, MD,PHD</last_name>
+    <phone>+33 1 49 84 71 17</phone>
+    <email>anne.dulioust@epsnf.fr</email>
+  </overall_contact_backup>
+  <verification_date>July 2020</verification_date>
+  <study_first_submitted>August 17, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 17, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 18, 2020</study_first_posted>
+  <last_update_submitted>August 17, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 17, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 18, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>inmates</keyword>
+  <keyword>seroprevalence</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

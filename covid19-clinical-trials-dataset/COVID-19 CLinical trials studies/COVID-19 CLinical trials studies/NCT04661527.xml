@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2214">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04661527</url>
+  </required_header>
+  <id_info>
+    <org_study_id>STRIKESARS-COV</org_study_id>
+    <secondary_id>2020-001255-40</secondary_id>
+    <nct_id>NCT04661527</nct_id>
+  </id_info>
+  <brief_title>Sarilumab Treatment In cytoKinE Storm Caused by Infection With COVID-19</brief_title>
+  <acronym>STRIKESARS</acronym>
+  <official_title>Sarilumab Treatment In cytoKinE Storm Caused by Infection With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Clinica Universidad de Navarra, Universidad de Navarra</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Sanofi</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hospital Universitario Infanta Leonor</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Clinica Universidad de Navarra, Universidad de Navarra</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Phase II, one-arm, open label, multicentric study, to evaluate treatment of severe COVID-19&#xD;
+      with sarilumab prior to entry into the intensive care unit (ICU).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Phase II, one-arm, open label, multicentric study, to evaluate treatment of severe COVID-19&#xD;
+      with sarilumab prior to entry into the intensive care unit (ICU).&#xD;
+&#xD;
+      The primary objective of the trial is to evaluate the impact of sarilumab on the progression&#xD;
+      of COVID 19-associated respiratory failure as measured by the change in a severity rating on&#xD;
+      a 7-point severity index. Secondary objectives include the evaluation of safety of the drug&#xD;
+      and the assessment of the impact of Sarilumab on markers of systemic inflammation and the&#xD;
+      coagulation cascade, on mortality, and on oxygenation.&#xD;
+&#xD;
+      The trial has two phases. Firstly, patients with pneumonia in the setting of COVID-19 who&#xD;
+      meet inclusion criteria and have no exclusion criteria will be treated with 2 doses of 200 mg&#xD;
+      IV of Sarilumab in 24 hours. After internal review, if no AE are detected and if there is no&#xD;
+      significant improvement, the next 55 patients will be treated with two doses of 400 mg IV in&#xD;
+      24 hours.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 22, 2020</start_date>
+  <completion_date type="Anticipated">December 30, 2020</completion_date>
+  <primary_completion_date type="Anticipated">December 30, 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Phase II, one-arm, open label, multicentric study, to evaluate treatment of severe COVID-19 with sarilumab prior to entry into the intensive care unit (ICU)</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in a severity rating on a 7-point ordinal scale</measure>
+    <time_frame>15 days</time_frame>
+    <description>Impact of sarilumab on the progression of COVID-19 associated respiratory failure. A significant improvement in a 7-point severity index is anticipated to occur with treatment with sarilumab.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of patients reporting each severity rating on a 7-point severity ordinal scale</measure>
+    <time_frame>28 days</time_frame>
+    <description>Proportion of patients in each severity category at the end fo follow-up</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of mechanical ventilation</measure>
+    <time_frame>28 days</time_frame>
+    <description>Duration of mechanical ventilation measured by days of ventilation since treatment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate the safety of sarilumab in patients with severe pneumonia caused by COVID 19</measure>
+    <time_frame>28 days</time_frame>
+    <description>All adverse events will be recorded in the CRF.&#xD;
+Adverse Event is defined as any event that results in worsening of the health of the subject of the clinical trial, regardless of relationship to the experimental therapy. It can be any symptom, sign, illness or experience, including abnormal results of diagnostic procedures, that develops or worsens in severity during the course of the study.&#xD;
+Serious Adverse Event are defined as any AE that is:&#xD;
+Fatal&#xD;
+Life-threatening*&#xD;
+Requires or prolongs hospital stay&#xD;
+Results in persistent or significant disability or incapacity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of ventilator free days in the first 28 days</measure>
+    <time_frame>28 days</time_frame>
+    <description>Number of ventilator free days in the first 28 days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patients requiring mechanical ventilation</measure>
+    <time_frame>28 days</time_frame>
+    <description>Number and proportion of patients requiring mechanical ventilation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in PaO2/FiO2 in patients on mechanical ventilation</measure>
+    <time_frame>since day of intubation until day of extubation or up to day 28</time_frame>
+    <description>PaO2/FiO2 will be measured daily until extubation or day 28.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to improvement in oxygenation for at least 48 hours</measure>
+    <time_frame>28 days</time_frame>
+    <description>Increase in SpO2/FiO2 of 50 or more compared to nadir SpO2/FiO2</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to saturation &gt; 93.9% on room air</measure>
+    <time_frame>28 days</time_frame>
+    <description>Improvement on oxygenation using a threshold of SaO2 of 94% or better when breathing room air as a sign of improvement.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to resolution of fever without antipyretics for at least 48 hours (Tº &gt; 36.6ºC - axilla; &gt; 37.2ºC -oral; &gt; 37.8 -rectal or tympanic)</measure>
+    <time_frame>28 days</time_frame>
+    <description>Resolution of fever.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from baseline in white blood cell count if available on V2, V3, V4, V5, and V6</measure>
+    <time_frame>28 days</time_frame>
+    <description>Changes in white blood count on visits number 2, 3 ,4, 5 and 6.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from baseline in hemoglobin levels if available on V2, V3, V4, V5, and V6</measure>
+    <time_frame>28 days</time_frame>
+    <description>Changes in hemoglobin on visits number 2, 3 ,4, 5 and 6.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from baseline in platelet cell count if available on V2, V3, V4, V5, and V</measure>
+    <time_frame>28 days</time_frame>
+    <description>Changes in platelet counts on visits number 2, 3 ,4, 5 and 6.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from baseline in D-Dimer leves if available on V2, V3, V4, V5, and V6</measure>
+    <time_frame>28 days</time_frame>
+    <description>Changes in D-dimer levels on visits number 2, 3 ,4, 5 and 6.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of deaths due to any cause</measure>
+    <time_frame>28 days</time_frame>
+    <description>All-cause mortality</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Organ failure</measure>
+    <time_frame>28 days</time_frame>
+    <description>Events of organ failure after treatment: DIC, cardiac, hepatic, renal, cardiovascular</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from baseline in C Reactive protein if available on V2, V3, V4, V5, and V6</measure>
+    <time_frame>28 days</time_frame>
+    <description>Indicates improvement or worsening of inflammation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from baseline in Ferritin leves if available on V2, V3, V4, V5, and V6</measure>
+    <time_frame>28 days</time_frame>
+    <description>Indicates improvement or worsening of inflammation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from baseline in Troponin leves if available on V2, V3, V4, V5, and V6</measure>
+    <time_frame>28 days</time_frame>
+    <description>Indicates potential myocardial involvement.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from baseline in blood urea nitrogen leves if available on V2, V3, V4, V5, and V6</measure>
+    <time_frame>28 days</time_frame>
+    <description>Indicates improvement or worsening of renal function</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from baseline in creatinine leves if available on V2, V3, V4, V5, and V6</measure>
+    <time_frame>28 days</time_frame>
+    <description>Indicates improvement or worsening of renal function</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from baseline in blilirrubin leves if available on V2, V3, V4, V5, and V6</measure>
+    <time_frame>28 days</time_frame>
+    <description>Indicates improvement or worsening of liver function</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from baseline in Aspartate transaminase (AST) leves if available on V2, V3, V4, V5, and V6</measure>
+    <time_frame>28 days</time_frame>
+    <description>Indicates improvement or worsening of liver function</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from baseline in Alanine transaminase (ALT) leves if available on V2, V3, V4, V5, and V6</measure>
+    <time_frame>28 days</time_frame>
+    <description>Indicates improvement or worsening of liver function</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>COVID-19 Drug Treatment</condition>
+  <arm_group>
+    <arm_group_label>Sarilumab arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Sarilumab</intervention_name>
+    <description>Treatment with Sarilumab 200 mg IV x 2 doses 24 hours apart for first 5 patients. If no severe AE and no significant improvement within 48 hours, the dose will be increased for subsequent patients to 400 mg IV for the first dose and 200 mg or 400 mg IV for the second dose 24 hours later. Te second dose will be decided at the investigators discretion.</description>
+    <arm_group_label>Sarilumab arm</arm_group_label>
+    <other_name>Kevzara®</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Written informed consent prior to performing study procedures. Oral consent will be&#xD;
+             accepted in order to avoid paper handling. Written consent by patient or&#xD;
+             representatives will be obtained as soon as possible.&#xD;
+&#xD;
+             In the case of a vital emergency without the possibility of prior consent, a patient&#xD;
+             may be included in the study if the recommendations of the legislation are followed&#xD;
+             (RD 1090/2015, article 7), as stated in section 10.3 of the protocol.&#xD;
+&#xD;
+          2. Patient must be, in the investigator opinion, able to comply with all the protocol&#xD;
+             procedures.&#xD;
+&#xD;
+          3. Negative pregnancy test in case of fertile women*&#xD;
+&#xD;
+          4. Age &gt;= 18&#xD;
+&#xD;
+          5. Infection by COVID-19 confirmed by rtPCR or other validated tests&#xD;
+&#xD;
+          6. Hospitalized (or documentation of a plan to admit to the hospital if the patient is in&#xD;
+             the emergency department) with illness of any duration, with evidence of pneumonia,&#xD;
+             and severe disease as defined by at least one of the following:&#xD;
+&#xD;
+               1. High oxygen requirements (face mask with reservoir, non-invasive mechanical&#xD;
+                  ventilation or high flow nasal cannula)&#xD;
+&#xD;
+               2. Lymphocytes &lt; 0.8 x 109/L&#xD;
+&#xD;
+               3. Serum ferritin &gt; 300ng/mL&#xD;
+&#xD;
+               4. Increased levels of D-dimer (&gt; 1500 ng/mL) or D-dimer progressively increasing&#xD;
+                  (over 3 consecutive measurements) and reaching ≥ 1000 ng/mL.&#xD;
+&#xD;
+               5. CPR &gt; 10 mg/dL, or increasing over 24 hours&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Patients with any of the following exclusion criteria could not be included in the trial:&#xD;
+&#xD;
+          1. Hypersensitivity to the active substance or any of the excipients listed in section 6&#xD;
+&#xD;
+          2. Treatment with anti-IL 6, anti-IL-6R antagonists, or with Janus kinase inhibitors&#xD;
+             (JAKi) in the past 30 days&#xD;
+&#xD;
+          3. Alkylating agents including cyclophosphamide (CYC) within 6 months of baseline&#xD;
+&#xD;
+          4. Cyclosporine (CsA), azathioprine (AZA) or mycophenolate mofetil (MMF) or leflunomide&#xD;
+             within 4 weeks of baseline.&#xD;
+&#xD;
+          5. Alkylating agents including cyclophosphamide (CYC) within 6 months of baseline&#xD;
+&#xD;
+          6. Tumor necrosis factor (TNF) inhibitors within 2-8 weeks (etanercept within 2 weeks,&#xD;
+             infliximab, certolizumab, golimumab, or adalimumab within 8 weeks), or after at least&#xD;
+             5 half-lives have elapsed, whichever is longer.&#xD;
+&#xD;
+          7. Intravenous immunoglobulin (IVIG) within the past 5 months or plans to receive during&#xD;
+             the study period&#xD;
+&#xD;
+          8. Current use of chronic oral corticosteroids for a non-COVID-19-related condition in a&#xD;
+             dose higher than prednisone 10 mg or equivalent per day&#xD;
+&#xD;
+          9. Current treatment with conventional synthetic disease-modifying antirheumatic drugs&#xD;
+             (DMARDs)/immunosuppressive agents&#xD;
+&#xD;
+         10. Patients who have received immunosuppressive antibody therapy within the past 5&#xD;
+             months, including intravenous immunoglobulin&#xD;
+&#xD;
+         11. AST/ALT values &gt; 5 x normal.&#xD;
+&#xD;
+         12. Neutropenia (&lt; 0.5 x 109/L).&#xD;
+&#xD;
+         13. Sever thrombocytopenia (&lt; 50 x 109/L).&#xD;
+&#xD;
+         14. Sepsis caused by an alternative pathogen.&#xD;
+&#xD;
+         15. Diverticulitis with risk of perforation.&#xD;
+&#xD;
+         16. Ongoing infectious dermatitis.&#xD;
+&#xD;
+         17. Patients with another active infection, including localized infections.&#xD;
+&#xD;
+         18. Pregnant or breast-feeding females will be excluded&#xD;
+&#xD;
+         19. Positive serology for following infection: HIV, Hepatitis B, or C.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Javier J Zulueta, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Clinica Universidad de Navarra</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Javier J Zulueta, MD</last_name>
+    <phone>+34948255400</phone>
+    <phone_ext>4772</phone_ext>
+    <email>jzulueta@unav.es</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Gabriel Canel</last_name>
+    <phone>+34948255400</phone>
+    <email>gcanelc@unav.es</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Clínica Universidad de Navarra, Universidad de Navarra</name>
+      <address>
+        <city>Pamplona</city>
+        <state>Navarra</state>
+        <zip>31008</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Javier Zulueta, MD</last_name>
+      <phone>+34948255400</phone>
+      <phone_ext>4772</phone_ext>
+      <email>jzulueta@unav.es</email>
+    </contact>
+    <contact_backup>
+      <last_name>Gabriel Canel</last_name>
+      <phone>+34948255400</phone>
+      <email>gcanelc@unav.es</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Javier J Zulueta, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Luis M Seijo, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Francisco Carmona, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Marta Marín, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Jose L del Pozo, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Bruno Sangro, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Marimar Ocon, RN</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Infanta Leonor</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28031</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jesus Troya, MD</last_name>
+      <phone>+341918297</phone>
+      <email>jesus.troya@salud.madrid.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Ismael Escobar, MD</last_name>
+      <phone>+341918297</phone>
+      <email>ismael.escobar@salud.madrid.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Jesus Troya, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>April 2020</verification_date>
+  <study_first_submitted>September 10, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 9, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 10, 2020</study_first_posted>
+  <last_update_submitted>December 14, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 14, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 16, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

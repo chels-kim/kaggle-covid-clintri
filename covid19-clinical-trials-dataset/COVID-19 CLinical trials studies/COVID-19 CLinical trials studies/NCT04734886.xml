@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1552">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04734886</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Provid</org_study_id>
+    <nct_id>NCT04734886</nct_id>
+  </id_info>
+  <brief_title>The Effect of Probiotic Supplementation on SARS-CoV-2 Antibody Response After COVID-19</brief_title>
+  <official_title>Exploratory Study on the Effects of Probiotic Supplementation on SARS-CoV-2 Antibody Response in Healthy Adults</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Örebro University, Sweden</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>BioGaia AB</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Örebro University, Sweden</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will explore how a well-known probiotic strain L. reuteri DSM 17938 impacts&#xD;
+      SARS-CoV-2 specific antibody response upon and after infection in healthy adults.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      After giving their informed consent, the study subjects will complete screening procedures to&#xD;
+      assess their eligibility for the study (Visit 1). Participants deemed suitable for the study&#xD;
+      will be randomized into two study arms (placebo, probiotic) before undergoing a baseline&#xD;
+      visit (Visit 2) before the start of the intervention period. During the 6-month intervention&#xD;
+      period, the participants will attend study visits at 3 months (Visit 3) into the intervention&#xD;
+      as well as at the end of intervention (at 6 months, Visit 4). Blood, saliva, and faecal&#xD;
+      samples will be collected at visits 2-4. In addition to sampling, during the whole&#xD;
+      intervention period, the participants will fill out a weekly questionnaire in which they are&#xD;
+      asked to record any possible symptoms of COVID-19. The participants' dietary habits are&#xD;
+      assessed via a food frequency questionnaire (FFQ) before the start of the intervention&#xD;
+      period. Also, the participants are asked to maintain their habitual diet and lifestyle as&#xD;
+      well as not to consume any other probiotic or prebiotic supplements.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 27, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">August 30, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Basic Science</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>SARS-CoV-2 specific antibodies</measure>
+    <time_frame>3 months (interim analysis) or at 6 months</time_frame>
+    <description>Change in SARS-CoV-2 specific IgG/IgM antibodies in serum between the study arms</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Maintenance of SARS-CoV-2 seroconversion in seropositive individuals</measure>
+    <time_frame>3 months + 6 months</time_frame>
+    <description>Change in the maintenance of SARS-CoV-2 specific IgG/IgM antibody levels in serum between the study arms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of COVID-19 symptoms measured by a weekly symptom questionnaire</measure>
+    <time_frame>3 months + 6 months</time_frame>
+    <description>Change in duration of COVID-19 related symptoms between the study arms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Severity of COVID-19 symptoms measured by Ordinal Scale for Clinical Improvement</measure>
+    <time_frame>3 months + 6 months</time_frame>
+    <description>Change in severity of COVID-19 related symptoms between the study arms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Secretory IgA (sIgA) antibodies</measure>
+    <time_frame>3 months + 6 months</time_frame>
+    <description>Change in sIgA levels in saliva between the study arms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Blood group A antigen antibodies</measure>
+    <time_frame>3 months + 6 months</time_frame>
+    <description>Change in anti-A levels in serum between the study arms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Blood group B antigen antibodies</measure>
+    <time_frame>3 months + 6 months</time_frame>
+    <description>Change in anti-B levels in serum between the study arms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tn antigen antibodies</measure>
+    <time_frame>3 months + 6 months</time_frame>
+    <description>Change in anti-Tn levels in serum between the study arms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Innate immune system activation</measure>
+    <time_frame>3 months + 6 months</time_frame>
+    <description>Change in high-sensitive C-reactive protein (hs-CRP) levels in plasma between the study groups</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cytokines</measure>
+    <time_frame>3 months + 6 months</time_frame>
+    <description>Change in TNF-a, IFN-y, IL-1B, IL-4, IL-6, IL-8, IL-10 levels in serum between the study groups</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total antibodies</measure>
+    <time_frame>3 months + 6 months</time_frame>
+    <description>Change in total IgG and IgM levels in serum between the study groups</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>T cell activation</measure>
+    <time_frame>3 months + 6 months</time_frame>
+    <description>Change in the proportion of SARS-CoV-2 specific T cells of all T cells in blood between the study arms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>B cell activation</measure>
+    <time_frame>3 months + 6 months</time_frame>
+    <description>Change in the proportion of SARS-CoV-2 specific B cells of all B cells in blood between the study arms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intestinal inflammation</measure>
+    <time_frame>3 months + 6 months</time_frame>
+    <description>Change in faecal calprotectin levels between the study arms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intestinal barrier function</measure>
+    <time_frame>3 months + 6 months</time_frame>
+    <description>Change in I-FABP levels in plasma between the study arms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Indirect marker of intestinal permeability</measure>
+    <time_frame>3 months + 6 months</time_frame>
+    <description>Change in LBP levels in plasma between the study arms</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Composition of intestinal microbiota and COVID-19 related symptoms</measure>
+    <time_frame>3 months + 6 months</time_frame>
+    <description>Correlation of intestinal microbiota composition to duration and severity of COVID-19 related symptoms</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Composition of intestinal microbiota and SARS-CoV-2 specific antibody</measure>
+    <time_frame>3 months + 6 months</time_frame>
+    <description>Correlation of intestinal microbiota composition to SARS-CoV-2 specific antibody levels in serum</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Composition of intestinal microbiota and inflammatory profile</measure>
+    <time_frame>3 months + 6 months</time_frame>
+    <description>Correlation of intestinal microbiota composition to TNF-a, IFN-y, IL-1B, IL-4, IL-6, IL-8, IL-10 levels in serum</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">400</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>L. reuteri DSM 17938</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Probiotic compound</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo compound</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>L. reuteri DSM 17938 + vitamin D</intervention_name>
+    <description>1 * 10^8 CFU of L. reuteri DSM 17938 + 10 ug vitamin D3, two capsules per day for 6 months</description>
+    <arm_group_label>L. reuteri DSM 17938</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Placebo + vitamin D</intervention_name>
+    <description>Placebo tablet + 10 ug vitamin D3, Similar in shape and taste to intervention capsules but without the probiotic components, two capsules per day over six weeks</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Signed informed consent&#xD;
+&#xD;
+          2. Age between 18-60&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Previous diagnosis of COVID-19 (by positive PCR) or previous confirmation of&#xD;
+             seropositivity to SARS-CoV-2&#xD;
+&#xD;
+          2. Body Mass Index over 35 or under 16&#xD;
+&#xD;
+          3. Current diagnosis of cancer or ongoing cancer treatment in the last 12 months&#xD;
+&#xD;
+          4. Diabetes mellitus&#xD;
+&#xD;
+          5. Cardiovascular disorder in need of pharmaceutical treatment&#xD;
+&#xD;
+          6. Chronic kidney disease&#xD;
+&#xD;
+          7. Chronic lung disease with decreased lung capacity&#xD;
+&#xD;
+          8. Chronic liver disease with liver cirrhosis&#xD;
+&#xD;
+          9. Current diagnosis of dementia, severe depression, major psychiatric disorder, or other&#xD;
+             incapacity for adequate cooperation&#xD;
+&#xD;
+         10. Chronic neurological/neurodegenerative disease (e.g. Parkinson's disease)&#xD;
+&#xD;
+         11. Decreased function of the adrenal cortex (e.g. Addison's disease)&#xD;
+&#xD;
+         12. Autoimmune disease (e.g. rheumatoid arthritis)&#xD;
+&#xD;
+         13. Chronic pain syndromes (e.g. fibromyalgia)&#xD;
+&#xD;
+         14. Pregnancy or breast-feeding&#xD;
+&#xD;
+         15. Immunodeficiency due to disease or ongoing medical treatment&#xD;
+&#xD;
+         16. Regular intake of anti-inflammatory and/or other immunosuppressive medication within&#xD;
+             the last 3 months&#xD;
+&#xD;
+         17. Use of anti-depressants within the last 3 months&#xD;
+&#xD;
+         18. Antimicrobial treatment within the last 12 weeks before baseline sampling&#xD;
+&#xD;
+         19. Regular intake of probiotics, as well as nutritional supplements or herb products that&#xD;
+             might affect intestinal function within the last 4 weeks if the investigator considers&#xD;
+             that those could affect study outcome&#xD;
+&#xD;
+         20. Inability to maintain current diet and lifestyle during the study period&#xD;
+&#xD;
+         21. Alcohol or drug abuse&#xD;
+&#xD;
+         22. Any clinically significant present or past disease/condition which the investigator&#xD;
+             considers to possibly interfere with the study outcome or increase the risk for severe&#xD;
+             form of COVID-19&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>60 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Robert J Brummer, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Örebro University, Sweden</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Richard A Forsgård, PhD</last_name>
+    <phone>00469301237</phone>
+    <email>richard.forsgard@oru.se</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Örebro University</name>
+      <address>
+        <city>Örebro</city>
+        <state>Örebro Län</state>
+        <zip>703 62</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Richard A Forsgård, PhD</last_name>
+      <phone>004619301237</phone>
+      <email>richard.forsgard@oru.se</email>
+    </contact>
+    <investigator>
+      <last_name>Robert J Brummer, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Sweden</country>
+  </location_countries>
+  <reference>
+    <citation>Lehtoranta L, Pitkäranta A, Korpela R. Probiotics in respiratory virus infections. Eur J Clin Microbiol Infect Dis. 2014 Aug;33(8):1289-302. doi: 10.1007/s10096-014-2086-y. Epub 2014 Mar 18. Review.</citation>
+    <PMID>24638909</PMID>
+  </reference>
+  <reference>
+    <citation>Zimmermann P, Curtis N. The influence of probiotics on vaccine responses - A systematic review. Vaccine. 2018 Jan 4;36(2):207-213. doi: 10.1016/j.vaccine.2017.08.069. Epub 2017 Sep 18. Review.</citation>
+    <PMID>28923425</PMID>
+  </reference>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>December 10, 2020</study_first_submitted>
+  <study_first_submitted_qc>January 30, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 2, 2021</study_first_posted>
+  <last_update_submitted>January 30, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 30, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 2, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vitamin D</mesh_term>
+    <mesh_term>Ergocalciferols</mesh_term>
+    <mesh_term>Vitamins</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>IPD will not be shared, results will shared only on group-level</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

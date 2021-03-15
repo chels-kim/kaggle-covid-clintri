@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2353">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04715438</url>
+  </required_header>
+  <id_info>
+    <org_study_id>202000865</org_study_id>
+    <nct_id>NCT04715438</nct_id>
+  </id_info>
+  <brief_title>Vaccination Against COVID-19 in Cancer</brief_title>
+  <acronym>VOICE</acronym>
+  <official_title>Vaccination Against cOvid In CancEr</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Medical Center Groningen</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Medical Center Groningen</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will collect information on immune response and adverse events after vaccination&#xD;
+      against coronavirus disease (COVID-19 in a vulnerable patient cohort. Understanding the&#xD;
+      ability or disability to mount a protective immune response after vaccination will help to&#xD;
+      counsel patients during the pandemic and support decisions on whom to vaccinate and to&#xD;
+      identify patients who require other measures to protect them from COVID-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Rationale:&#xD;
+&#xD;
+      Patients with cancer have an increased risk of adverse outcome of COVID-19, which is&#xD;
+      determined by their underlying disease and/or cancer treatment. Therefore, vaccination of&#xD;
+      cancer patients against COVID-19 needs to be prioritized. However, (ongoing) phase III&#xD;
+      studies, that will be the basis of vaccine registrations, will not provide robust information&#xD;
+      on efficacy and safety in this vulnerable population. In patients with cancer, the disease&#xD;
+      itself, but also immunotherapy and chemotherapy, may have a significant impact on the ability&#xD;
+      to develop an effective immune response to COVID-19 vaccination, and could even increase the&#xD;
+      risk of adverse events.&#xD;
+&#xD;
+      Objective:&#xD;
+&#xD;
+      To assess immune response and adverse events after administration of one approved vaccine&#xD;
+      against COVID-19 in patients with cancer treated with immunotherapy and/or chemotherapy.&#xD;
+&#xD;
+      Study design:&#xD;
+&#xD;
+      This is a prospective multicenter, multicohort study.&#xD;
+&#xD;
+      Study population:&#xD;
+&#xD;
+      Four cohorts will receive vaccination against COVID-19:&#xD;
+&#xD;
+      A. Individuals without cancer (N=246, i.e., partners of patients in cohort B, C, and D) B.&#xD;
+      Patients with cancer treated with immunotherapy (N=135) C. Patients with cancer treated with&#xD;
+      chemotherapy (N=246) D. Patients with cancer treated with chemo-immunotherapy (N=246)&#xD;
+&#xD;
+      Intervention:&#xD;
+&#xD;
+      Blood will be drawn at 4 different time points by venipuncture and at 1 time point by a&#xD;
+      finger prick. Participants will be vaccinated against COVID-19 according to standard of care.&#xD;
+&#xD;
+      Main study parameters/endpoints:&#xD;
+&#xD;
+      The primary endpoint is the antibody based immune response on day 28 after the second&#xD;
+      vaccination. Participants will be classified as responders or non-responders. The definition&#xD;
+      of response will be based on a serological correlate of protection for COVID-19 based on&#xD;
+      SARS-CoV-2 spike (S)- protein specific serum IgG antibody levels (in IU/mL) if established,&#xD;
+      and if not established we will use seroconversion (a ≥ 4-fold increase of the geometric mean&#xD;
+      concentration (GMC) of anti-S protein IgG antibodies over baseline). We will inform the METC&#xD;
+      about this definition before data analysis and add this information to ClinicalTrials.gov.&#xD;
+      The percentage of responders of each patient cohort will be compared with the percentage&#xD;
+      responders in the control group. Safety is a secondary endpoint which will be reported in&#xD;
+      terms of percentage of solicited local and systemic adverse events (AEs) graded according to&#xD;
+      severity. Other secondary endpoints include longevity at 6 months and levels of severe acute&#xD;
+      respiratory syndrome coronavirus 2 (SARS-CoV-2) specific T cell responses.&#xD;
+&#xD;
+      Nature and extent of the burden and risks associated with participation, benefit and group&#xD;
+      relatedness:&#xD;
+&#xD;
+      Participants will have to visit the hospital at 4 time points. The vaccine will be&#xD;
+      administered two times with an interval specified by the manufacturer. Blood will be drawn&#xD;
+      (~230 ml in total) prior to both vaccinations and at day 28 and 6 months after the second&#xD;
+      vaccination. Twelve months after vaccination participants will receive a finger prick set&#xD;
+      with instructions for self-collection of a blood sample. Blood sampling will give minor&#xD;
+      discomfort. Vaccination can cause AEs including fatigue, chills, headache, myalgia, and pain&#xD;
+      at the injection site. For seven days after each vaccination, participants will be asked to&#xD;
+      record local and systemic reactions using a questionnaire. At baseline and at 3, 6, 9 and 12&#xD;
+      months after vaccination, patients will be asked to complete questionnaires about potential&#xD;
+      subsequent testing for SARS-CoV-2, diagnosis of COVID-19, and severity of COVID-19.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 8, 2021</start_date>
+  <completion_date type="Anticipated">April 2023</completion_date>
+  <primary_completion_date type="Anticipated">July 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Immune response to vaccination against COVID-19 measured as antibody response expressed as geometric mean concentration: arbitrary units (AU)/ml</measure>
+    <time_frame>Measured at 28 days after vaccination</time_frame>
+    <description>The primary endpoint is the antibody based immune response to vaccination against COVID-19 on day 28 after the second vaccination in patients receiving cancer treatment as compared to individuals without cancer. Expressed as antibody response expressed as geometric mean concentration: arbitrary units (AU)/ml</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Safety assessment (S)AEs; Incidence and severity of solicited AEs during 7 days after each vaccination with incidence and nature of SAEs reported during 7 days after each vaccination</measure>
+    <time_frame>During 7 days after vaccination</time_frame>
+    <description>Incidence and severity of solicited AEs during 7 days after each vaccination&#xD;
+Incidence and nature of SAEs during 7 days after each vaccination</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety assessment immune related (ir), with incidence and nature of newly occurring irAEs grade ≥ 3 in cohort B and D reported up to 28 days</measure>
+    <time_frame>From start till 28 days after second vaccination</time_frame>
+    <description>- Incidence and nature of newly occurring irAEs grade ≥ 3 in cohort B and D up to 28 days after the last vaccination graded according to the Common Criteria for Adverse Events version 5.0 (CTCAE v5.0)&#xD;
+Neutralizing capacity of antibodies to test functionality&#xD;
+Assessment of SARS-CoV2 specific T cells response, 7 days, 28 days, and 6 months after vaccination using a high throughput Interferon ɣ ELIspot.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety assessment AE of special interest (SI)s with Incidence, nature and severity of AESIs graded according to CTCAE v5.0 reported up to 12 months after vaccination</measure>
+    <time_frame>From start till 12 months after vaccination</time_frame>
+    <description>- Incidence, nature and severity of AESIs graded according to CTCAE v5.0</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of immune response: expressed as geometric mean antibody concentration: arbitrary units (AU)/ml</measure>
+    <time_frame>measured at 6 and 12 months after vaccination</time_frame>
+    <description>Persistence of antibody response expressed as geometric mean concentration: arbitrary units (AU)/ml</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of immune response: measured as levels of SARS-CoV-2 specific T-cell responses expressed as number of IFNg producing T cells/ million peripheral blood mononuclear cells (PBMCs)</measure>
+    <time_frame>measured 28 days and 6 months after vaccination</time_frame>
+    <description>Levels of SARS-CoV-2 specific T-cell responses expressed as number of IFNg producing T cells/ million peripheral blood mononuclear cells (PBMCs)</description>
+  </secondary_outcome>
+  <number_of_groups>4</number_of_groups>
+  <enrollment type="Anticipated">873</enrollment>
+  <condition>Cancer</condition>
+  <arm_group>
+    <arm_group_label>Cohort A: Individuals without cancer</arm_group_label>
+    <description>A cohort of individuals without a cancer diagnosis is included for comparison. Because age is an important predictor of the ability to mount an effective immune response to vaccination, partners of patients in cohort B, C, and D.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort B: patients receiving immunotherapy</arm_group_label>
+    <description>Cancer patients receiving immunotherapy</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort C: patients receiving chemotherapy</arm_group_label>
+    <description>Cancer patients receiving chemotherapy</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort D: patients receiving chemo-immunotherapy</arm_group_label>
+    <description>Cancer patients receiving chemo-immunotherapy</description>
+  </arm_group>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      blood samples&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Four cohorts will receive vaccination against COVID-19:&#xD;
+&#xD;
+        A. Individuals without cancer (partners of patients in cohort B, C, and D) B. Patients with&#xD;
+        cancer treated with immunotherapy C. Patients with cancer treated with chemotherapy D.&#xD;
+        Patients with cancer treated with chemo-immunotherapy.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        To be eligible to participate in this study, a subject must meet all of the following&#xD;
+        criteria:&#xD;
+&#xD;
+          -  Age of 18 years or older&#xD;
+&#xD;
+          -  Life expectancy &gt; 12 months&#xD;
+&#xD;
+          -  Ability to provide informed consent&#xD;
+&#xD;
+        Additional criteria for cohort A:&#xD;
+&#xD;
+        • Partner of a participating patient&#xD;
+&#xD;
+        Additional criteria for cohort B:&#xD;
+&#xD;
+          -  Histological diagnosis of a solid malignancy&#xD;
+&#xD;
+          -  Treatment with monotherapy immune checkpoint inhibitor (ICI) against Programmed Death&#xD;
+             1 (PD1) or its ligand PD-L1 (in curative or non-curative setting)&#xD;
+&#xD;
+          -  Last ICI administration within 3 months of vaccination&#xD;
+&#xD;
+        Additional criteria for cohort C:&#xD;
+&#xD;
+          -  Histological diagnosis of a solid malignancy&#xD;
+&#xD;
+          -  Treatment with cytotoxic chemotherapy (monotherapy and combination chemotherapy is&#xD;
+             allowed, as well as a combination with radiotherapy, in curative or non-curative&#xD;
+             setting)&#xD;
+&#xD;
+          -  Last chemotherapy administration within 4 weeks of vaccination&#xD;
+&#xD;
+        Additional criteria for cohort D:&#xD;
+&#xD;
+          -  Histological diagnosis of a solid malignancy&#xD;
+&#xD;
+          -  Treatment with a PD1 or PD-L1 antibody in combination with cytotoxic chemotherapy (in&#xD;
+             curative or non-curative setting)&#xD;
+&#xD;
+          -  Last chemotherapy administration within 4 weeks of vaccination&#xD;
+&#xD;
+          -  Last ICI administration within 3 months of vaccination&#xD;
+&#xD;
+        Exclusion criteria:&#xD;
+&#xD;
+          -  Confirmed SARS-CoV-2 infection (current or previous)&#xD;
+&#xD;
+          -  Women who are pregnant or breastfeeding&#xD;
+&#xD;
+          -  Active hematologic malignancy&#xD;
+&#xD;
+          -  Any immune deficiency not related to cancer or cancer treatment (e.g. inherited immune&#xD;
+             deficiency or known infection with Human Immunodeficiency Virus)&#xD;
+&#xD;
+          -  Systemic treatment with corticosteroids (&gt; 10 mg daily prednisone equivalent) or other&#xD;
+             immunosuppressive medication within 14 days of vaccination. Inhaled or topical&#xD;
+             steroids, and adrenal replacement steroids (&gt; 10 mg daily prednisone equivalent) are&#xD;
+             permitted. In addition, standard of care with short course steroids to prevent nausea&#xD;
+             and allergic reactions from chemotherapy or iodinated CT contrast is allowed.&#xD;
+&#xD;
+        Additional criteria for cohort A:&#xD;
+&#xD;
+          -  Current or previous diagnosis of a solid malignancy, unless treated with curative&#xD;
+             intent &gt;5 years before enrolment and without signs of recurrence during proper&#xD;
+             follow-up&#xD;
+&#xD;
+          -  Previous history of a hematologic malignancy&#xD;
+&#xD;
+        Additional criteria for cohort B:&#xD;
+&#xD;
+        • Treatment with cytotoxic chemotherapy within 4 weeks of vaccination&#xD;
+&#xD;
+        Additional criteria for cohort C:&#xD;
+&#xD;
+        • Treatment with an ICI within 3 months of vaccination&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>E G de Vries, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>UMCG</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>E G de Vries, MD, PhD</last_name>
+    <phone>+31 50 361 6161</phone>
+    <email>e.g.e.de.vries@umcg.nl</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>S F Oosting, MD, PhD</last_name>
+    <phone>+31 50 361 6161</phone>
+    <email>s.oosting@umcg.nl</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>NKI-AvL</name>
+      <address>
+        <city>Amsterdam</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>J B Haanen, MD, PhD</last_name>
+      <email>j.haanen@nki.nl</email>
+    </contact>
+    <contact_backup>
+      <last_name>E Smit, MD, PhD</last_name>
+      <email>e.smit@nki.nl</email>
+    </contact_backup>
+    <investigator>
+      <last_name>J B Haanen, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>C Blank, MD,PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>E Smit, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>UMCG</name>
+      <address>
+        <city>Groningen</city>
+        <zip>9700 RB</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>E. G. de Vries, MD, PhD</last_name>
+      <phone>+31 50 361 61 61</phone>
+      <email>e.g.e.de.vries@umcg.nl</email>
+    </contact>
+    <contact_backup>
+      <last_name>S. F. Oosting, MD, PhD</last_name>
+      <phone>+31 50 361 61 61</phone>
+      <email>s.oosting@umcg.nl</email>
+    </contact_backup>
+    <investigator>
+      <last_name>E G de Vries, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>S F Oosting, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>T J Hiltermann, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Erasmus MC</name>
+      <address>
+        <city>Rotterdam</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>A. A van der Veldt, MD, PhD</last_name>
+      <email>a.vanderveldt@erasmusmc.nl</email>
+    </contact>
+    <contact_backup>
+      <last_name>A C Dingemans, MD, PhD</last_name>
+      <email>a.dingemans@erasmusmc.nl</email>
+    </contact_backup>
+    <investigator>
+      <last_name>A A van der Veldt, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>A C Dingemans, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Netherlands</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>January 11, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 15, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 20, 2021</study_first_posted>
+  <last_update_submitted>January 26, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 26, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 29, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University Medical Center Groningen</investigator_affiliation>
+    <investigator_full_name>Prof.dr. E.G.E. de Vries</investigator_full_name>
+    <investigator_title>Principal investigator</investigator_title>
+  </responsible_party>
+  <keyword>vaccination</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>solid tumors</keyword>
+  <keyword>immune response</keyword>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Alignment and reuse Our options for reusing data, biological materials, and/or other resources (from research or practice) in your project.&#xD;
+Data: Clinicopathological parameters as described in the protocol&#xD;
+Biological materials: Blood&#xD;
+Research software: R statistical package, Castor, MOLGENIS&#xD;
+Other resources, i.e.,Nederlandse Kankerregistratie (NKR), the Dutch Cancer Registry, electronic patient dossiers (EPDs)&#xD;
+FAIR data within the COVID-19 research community&#xD;
+A COVID-19 related or other Findability, Accessibility, Interoperability, and Reuse (FAIR) data points&#xD;
+COVID-19 research platform for data sharing&#xD;
+we will make protocol etc. available on the website soon voicetrial.nl</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_time_frame>we start the make interim results available second half of 2021</ipd_time_frame>
+    <ipd_access_criteria>we aim to share as much as possible also through own website, and COVID-19 platforms that are considered for this kind of research</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

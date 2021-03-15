@@ -1,0 +1,1348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="855">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04545060</url>
+  </required_header>
+  <id_info>
+    <org_study_id>VIR-7831-5001</org_study_id>
+    <secondary_id>GSK Study 214367</secondary_id>
+    <nct_id>NCT04545060</nct_id>
+  </id_info>
+  <brief_title>VIR-7831 for the Early Treatment of COVID-19 in Outpatients</brief_title>
+  <acronym>COMET-ICE</acronym>
+  <official_title>A Randomized, Multi-center, Double-blind, Placebo-controlled Study to Assess the Safety and Efficacy of Monoclonal Antibody VIR-7831 for the Early Treatment of Coronavirus Disease 2019 (COVID-19) in Non-hospitalized Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Vir Biotechnology, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>GlaxoSmithKline</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Vir Biotechnology, Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a phase 2/3 study in which subjects with coronavirus disease 2019 (COVID-19) will&#xD;
+      receive VIR-7831 or placebo and will be assessed for safety, tolerability, efficacy, and&#xD;
+      pharmacokinetics.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 27, 2020</start_date>
+  <completion_date type="Anticipated">July 2021</completion_date>
+  <primary_completion_date type="Anticipated">January 2021</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of participants who have progression of COVID-19 through Day 29</measure>
+    <time_frame>Up to Day 29</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Occurence of of adverse events (AEs)</measure>
+    <time_frame>Up to 24 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Occurrence of serious adverse events (SAEs)</measure>
+    <time_frame>Up to 24 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Occurrence of adverse events of special interest (AESI)</measure>
+    <time_frame>Up to 24 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence and titers (if applicable) of serum ADA to VIR-7831</measure>
+    <time_frame>Up to 24 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cmax</measure>
+    <time_frame>Up to 24 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clast</measure>
+    <time_frame>Up to 24 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tmax</measure>
+    <time_frame>Up to 24 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tlast</measure>
+    <time_frame>Up to 24 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AUCinf</measure>
+    <time_frame>Up to 24 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AUClast</measure>
+    <time_frame>Up to 24 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>%AUCextrap</measure>
+    <time_frame>Up to 24 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>t1/2</measure>
+    <time_frame>Up to 24 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Vz</measure>
+    <time_frame>Up to 24 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Vss</measure>
+    <time_frame>Up to 24 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CL</measure>
+    <time_frame>Up to 24 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants who have progression of COVID-19 as defined by hospitalization &gt;24 hrs or death at Day 8, Day 15, or Day 22</measure>
+    <time_frame>Up to Day 22</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants who progress to develop severe and/or critical respiratory COVID-19 as manifest by requirement for and method of supplemental oxygen at Day 8, Day 15, Day 22, or Day 29</measure>
+    <time_frame>Up to Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Severity and duration of participant-reported symptoms of COVID-19 related illness using the FLU-PRO patient-reported outcome instrument</measure>
+    <time_frame>Up to 12 weeks</time_frame>
+    <description>Severity and duration of participant-reported symptoms of COVID-19 related illness using the 34-item COVID-19 adapted FLU-PRO (Influenza Patient-reported outcome) instrument. Higher scores mean worse outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Detection of SARS-CoV-2 in nasal secretions by PCR at baseline and during follow-up period through Day 29</measure>
+    <time_frame>Up to Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>29-day, 60-day, and 90-day all-cause mortality</measure>
+    <time_frame>Up to 90 days</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">1360</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>VIR-7831</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>VIR-7831</intervention_name>
+    <description>VIR-7831 given by intravenous infusion</description>
+    <arm_group_label>VIR-7831</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Sterile normal saline (0.9% NaCl) given by intravenous infusion</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Participant must be aged 18 years or older AND at high risk of progression of COVID-19&#xD;
+             or ≥ 55 years old&#xD;
+&#xD;
+          -  Participants must have a positive SARS-CoV-2 test result and oxygen saturation ≥94% on&#xD;
+             room air and have COVID-19 symptoms and be less than or equal to 5 days from onset of&#xD;
+             symptoms&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Currently hospitalized or judged by the investigator as likely to require&#xD;
+             hospitalization in the next 24 hours&#xD;
+&#xD;
+          -  Symptoms consistent with severe COVID-19&#xD;
+&#xD;
+          -  Participants who, in the judgement of the investigator are likely to die in the next 7&#xD;
+             days&#xD;
+&#xD;
+          -  Severely immunocompromised participants&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Study Inquiry</last_name>
+    <phone>+1 415-654-5281</phone>
+    <email>clinicaltrials@vir.bio</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Anniston</city>
+        <state>Alabama</state>
+        <zip>36207</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Cullman</city>
+        <state>Alabama</state>
+        <zip>35055</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Mesa</city>
+        <state>Arizona</state>
+        <zip>85210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Tucson</city>
+        <state>Arizona</state>
+        <zip>85712</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90017</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90036</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Northridge</city>
+        <state>California</state>
+        <zip>91325</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Oxnard</city>
+        <state>California</state>
+        <zip>93030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Rolling Hills Estates</city>
+        <state>California</state>
+        <zip>90274</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Sacramento</city>
+        <state>California</state>
+        <zip>95817</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Doral</city>
+        <state>Florida</state>
+        <zip>33166</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Gainesville</city>
+        <state>Florida</state>
+        <zip>32607</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Hialeah</city>
+        <state>Florida</state>
+        <zip>33016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33122</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33125</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33155</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33173</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33186</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Miramar</city>
+        <state>Florida</state>
+        <zip>33027</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>North Miami</city>
+        <state>Florida</state>
+        <zip>33169</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Palmetto Bay</city>
+        <state>Florida</state>
+        <zip>33157</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Pembroke Pines</city>
+        <state>Florida</state>
+        <zip>33024</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Pompano Beach</city>
+        <state>Florida</state>
+        <zip>33064</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33614</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33615</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30315</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30318</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Decatur</city>
+        <state>Georgia</state>
+        <zip>30030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Idaho Falls</city>
+        <state>Idaho</state>
+        <zip>83404</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Mishawaka</city>
+        <state>Indiana</state>
+        <zip>46544</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Lake Charles</city>
+        <state>Louisiana</state>
+        <zip>70601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Marrero</city>
+        <state>Louisiana</state>
+        <zip>70072</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21230</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Caro</city>
+        <state>Michigan</state>
+        <zip>48768</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Hazelwood</city>
+        <state>Missouri</state>
+        <zip>63042</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89130</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Santa Fe</city>
+        <state>New Mexico</state>
+        <zip>87505</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10456</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Asheboro</city>
+        <state>North Carolina</state>
+        <zip>27203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Smithfield</city>
+        <state>Pennsylvania</state>
+        <zip>15478</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Chattanooga</city>
+        <state>Tennessee</state>
+        <zip>37421</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Baytown</city>
+        <state>Texas</state>
+        <zip>77521</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Beaumont</city>
+        <state>Texas</state>
+        <zip>77702</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>El Paso</city>
+        <state>Texas</state>
+        <zip>79935</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Forney</city>
+        <state>Texas</state>
+        <zip>75126</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77017</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77024</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77024</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77073</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77090</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Humble</city>
+        <state>Texas</state>
+        <zip>77338</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Laredo</city>
+        <state>Texas</state>
+        <zip>78041</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>McAllen</city>
+        <state>Texas</state>
+        <zip>78504</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Mesquite</city>
+        <state>Texas</state>
+        <zip>75149</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Sugar Land</city>
+        <state>Texas</state>
+        <zip>77478</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Kirkland</city>
+        <state>Washington</state>
+        <zip>98034</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Vienna</city>
+        <zip>1090</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Vienna</city>
+        <zip>1100</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Belo Horizonte</city>
+        <state>Minas Gerais</state>
+        <zip>30.110-934</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Maringá</city>
+        <state>Parana</state>
+        <zip>87083-240</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Natal</city>
+        <state>Rio Grande Do Norte</state>
+        <zip>59025050</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Passo Fundo</city>
+        <state>Rio Grande Do Sul</state>
+        <zip>99010-120</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Porto Alegre</city>
+        <state>Rio Grande Do Sul</state>
+        <zip>90020-090</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Porto Alegre</city>
+        <state>Rio Grande Do Sul</state>
+        <zip>90035-007</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Chapecó</city>
+        <state>Santa Catarina</state>
+        <zip>89801-355</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Santo André</city>
+        <state>Sao Paulo</state>
+        <zip>09030-010</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Vila Assuncao</city>
+        <state>Sao Paulo</state>
+        <zip>05615-190</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Campinas</city>
+        <state>São Paulo</state>
+        <zip>13060-904</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Sarnia</city>
+        <state>Ontario</state>
+        <zip>N7T 4X3</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M9V 4B4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Québec</city>
+        <state>Quebec</state>
+        <zip>G2J0C4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Santiago</city>
+        <state>Region Metropolitana</state>
+        <zip>8330336</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Argenteuil</city>
+        <zip>95100</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Limoges</city>
+        <zip>87000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Melun</city>
+        <zip>77000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Valenciennes</city>
+        <zip>59300</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Bellavista</city>
+        <state>Callao</state>
+        <zip>7016</zip>
+        <country>Peru</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>El Agustino</city>
+        <state>Lima</state>
+        <zip>15007</zip>
+        <country>Peru</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Huaral</city>
+        <state>Lima</state>
+        <zip>15131</zip>
+        <country>Peru</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>San Isidro</city>
+        <state>Lima</state>
+        <zip>15036</zip>
+        <country>Peru</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Bella Vista</city>
+        <zip>07006</zip>
+        <country>Peru</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Lima</city>
+        <zip>15082</zip>
+        <country>Peru</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Terrassa</city>
+        <state>Barcelona</state>
+        <zip>8221</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Albacete</city>
+        <zip>02006</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Centelles</city>
+        <zip>08540</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Girona</city>
+        <zip>17005</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Granada</city>
+        <zip>18014</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Granada</city>
+        <zip>18300</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Vigo</city>
+        <zip>36312</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Investigative Site</name>
+      <address>
+        <city>Belfast</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location_countries>
+    <country>Austria</country>
+    <country>Brazil</country>
+    <country>Canada</country>
+    <country>Chile</country>
+    <country>France</country>
+    <country>Peru</country>
+    <country>Spain</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>September 4, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 9, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 10, 2020</study_first_posted>
+  <last_update_submitted>January 27, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 27, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 29, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>coronavirus</keyword>
+  <keyword>coronavirus disease 2019</keyword>
+  <keyword>COVID-19</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3605">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04569383</url>
+  </required_header>
+  <id_info>
+    <org_study_id>UKE-DZIF-SARS-CoV-2</org_study_id>
+    <nct_id>NCT04569383</nct_id>
+  </id_info>
+  <brief_title>Safety, Tolerability and Immunogenicity of the Candidate Vaccine MVA-SARS-2-S Against COVID-19</brief_title>
+  <official_title>An Open, Single-center Phase I Trial to Assess the Safety, Tolerability and Immunogenicity of Two Ascending Doses of the Candidate Vaccine MVA-SARS-2-S</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Universitätsklinikum Hamburg-Eppendorf</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>German Center for Infection Research</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Philipps University Marburg Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Ludwig-Maximilians - University of Munich</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Universitätsklinikum Hamburg-Eppendorf</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In this phase I first-in-human clinical trial, healthy volunteers in two different dose&#xD;
+      cohorts will be vaccinated twice with the candidate vaccine MVA-SARS-2-S.&#xD;
+&#xD;
+      The aim of the study is to assess the safety and tolerability of the candidate vaccine and to&#xD;
+      characterize its immunogenicity.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The vaccine contains a Modified Vaccinia Virus Ankara (MVA) vector expressing the SARS-CoV-2&#xD;
+      spike protein (S). A total of 30 participants will receive the following vaccine regime:&#xD;
+&#xD;
+      15 participants will receive 10^7 infectious units (IU) of MVA-SARS-2-S on days 0 and 28.&#xD;
+&#xD;
+      15 participants will receive 10^8 IU of MVA-SARS-2-S on days 0 and 28. Safety and&#xD;
+      immunogenicity data will be collected throughout the study, which concludes at day 168.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 5, 2020</start_date>
+  <completion_date type="Anticipated">May 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage of Participants Experiencing Solicited Local or Systemic Reactogenicity as Defined by the Study Protocol</measure>
+    <time_frame>during the entire study (up to 6 months)</time_frame>
+    <description>Safety and reactogenicity will be assessed by observation, questionaire and diary. Occurence of Serious Adverse Events (SAE) will be collected throughout the entire study duration.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Immunogenicity. Number of participants who seroconverted</measure>
+    <time_frame>during the entire study (up to 6 months)</time_frame>
+    <description>Magnitude of SARS-CoV2-specific antibody responses (ELISA and neutralization assays) monitored in an approved laboratory</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>1x10E7 IU (low dose)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>1x10E7 IU MVA-SARS-2-S</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>1x10E8 IU (high dose)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>1x10E8 MVA-SARS-2-S</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>MVA-SARS-2-S vaccinations (days 0 &amp; 28)</intervention_name>
+    <description>Vaccination with MVA-SARS-2-S in two escalating dose regimens</description>
+    <arm_group_label>1x10E7 IU (low dose)</arm_group_label>
+    <arm_group_label>1x10E8 IU (high dose)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Written informed consent&#xD;
+&#xD;
+          -  Healthy male and female adults aged 18-55 years&#xD;
+&#xD;
+          -  No clinically significant health problems as determined during medical history and&#xD;
+             physical examination at screening visit&#xD;
+&#xD;
+          -  Body mass index 18.5 - 30.0 kg/m2 and weight &gt; 50 kg at screening&#xD;
+&#xD;
+          -  Adults male or non-pregnant, non-lactating female with negative pregnancy test&#xD;
+&#xD;
+          -  Males and females who agree to comply with the applicable contraceptive requirements&#xD;
+             of the protocol&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Prior exposure to SARS-CoV-2&#xD;
+&#xD;
+          -  Receipt of any vaccine from 4 weeks prior to each trial vaccination (8 weeks for live&#xD;
+             vaccines) to 6 weeks after each trial vaccination&#xD;
+&#xD;
+          -  Previous rMVA immunization&#xD;
+&#xD;
+          -  Known allergy to the components of the SARS-CoV-2 vaccine product&#xD;
+&#xD;
+          -  Known history of anaphylaxis to vaccination or any allergy likely to be exacerbated by&#xD;
+             any component of the trial vaccine&#xD;
+&#xD;
+          -  Evidence in the subject's medical history or in the medical examination that might&#xD;
+             influence either the safety of the subject or the absorption, distribution, metabolism&#xD;
+             or excretion of the investigational product&#xD;
+&#xD;
+          -  Clinically relevant findings in ECG&#xD;
+&#xD;
+          -  Any confirmed or suspected immunosuppressive or immunodeficient condition, cytotoxic&#xD;
+             therapy in the previous 5 years, and/or diabetes&#xD;
+&#xD;
+          -  Any chronic or active neurologic disorder, including seizures, and epilepsy, excluding&#xD;
+             a single febrile seizure as a child&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Marylyn M Addo, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Universitätsklinikum Hamburg-Eppendorf</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Marylyn M Addo, MD</last_name>
+    <phone>+49 407410</phone>
+    <phone_ext>0</phone_ext>
+    <email>m.addo@uke.de</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>CTC North GmbH &amp; Co KG at the University Medical Center Hamburg-Eppendorf</name>
+      <address>
+        <city>Hamburg</city>
+        <zip>20251</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+  </location_countries>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>September 21, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 28, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 29, 2020</study_first_posted>
+  <last_update_submitted>November 29, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 29, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 1, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>MVA</keyword>
+  <keyword>vaccine</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vaccines</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2741">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04619693</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RECHMPL20_0292</org_study_id>
+    <secondary_id>2020-A0206-33</secondary_id>
+    <secondary_id>PHRCI-20-013</secondary_id>
+    <nct_id>NCT04619693</nct_id>
+  </id_info>
+  <brief_title>Biomarkers for Dexamethasone Response in Sars-Cov-2 / COVID-19 Pneumonia</brief_title>
+  <acronym>CortiCORONA</acronym>
+  <official_title>Determination of Biomarkers for the Prediction of Dexamethasone Response in Sars-Cov-2 / COVID-19 Pneumonia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Montpellier</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Hospital, Montpellier</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary objective of this study is to demonstrate (at the time of admission) biomarkers&#xD;
+      of interest (Human Plasma BAK125 panel + interferon panel) for dexamethasone responders&#xD;
+      versus non-responders in SARS-CoV-2 hypoxemic pneumonia.&#xD;
+&#xD;
+      The secondary objectives are to describe and compare between groups:&#xD;
+&#xD;
+        -  The number of days without mechanical ventilation&#xD;
+&#xD;
+        -  The need for mechanical ventilation&#xD;
+&#xD;
+        -  28-day mortality&#xD;
+&#xD;
+        -  Progression towards acute respiratory distress syndrome (ARDS)&#xD;
+&#xD;
+        -  Change in the qSOFA score&#xD;
+&#xD;
+        -  Length of hospitalization&#xD;
+&#xD;
+        -  The change in the extent of lesions on thoracic computed tomography scan between&#xD;
+           inclusion and D7 (or the day of discharge from hospital if &lt;D7)&#xD;
+&#xD;
+        -  Change in biomarkers on D0, D2, D4, D7 (NFS, liver tests (ASAT, ALAT), Creatinine,&#xD;
+           Albumin, CRP, D-dimers, Ferritin, LDH, lymphocyte phenotyping)&#xD;
+&#xD;
+        -  Demonstrate other biomarkers of interest from the usual management (NFS, liver function&#xD;
+           tests (ASAT, ALAT), Creatinine, Albumin, CRP, D-dimers, Ferritin, LDH, lymphocyte&#xD;
+           phenotyping)&#xD;
+&#xD;
+        -  Change in biomarkers evaluated by mass spectrometry (on a blood sample) on D0 and D7 +/-&#xD;
+           2 days&#xD;
+&#xD;
+        -  The initial viral load (within 48 hours preceding D0) and at D7 of inclusion estimated&#xD;
+           from the nasopharyngeal SARS-CoV-2 RT-PCR&#xD;
+&#xD;
+        -  Initial SARS-CoV-2 serology and on D7 from inclusion&#xD;
+&#xD;
+        -  The A38G polymorphism of the gene coding for Club Cell Secretory Protein (CCSP) for each&#xD;
+           patient&#xD;
+&#xD;
+        -  Short-term complications related to corticosteroid therapy&#xD;
+&#xD;
+        -  The quantitative and qualitative impact of corticosteroid therapy on lymphocytes from&#xD;
+           patients with COVID-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a prospective multicenter cohort of patients treated with the usual standard of care&#xD;
+      including systemic corticosteroid therapy with dexamethasone 6 mg / day.&#xD;
+&#xD;
+      INCLUSION (D0): The patients are examined on the day of their hospital admission. After an&#xD;
+      initial eligibility check and if interest is expressed by the patient, a specific inclusion&#xD;
+      visit is carried out.&#xD;
+&#xD;
+      FOLLOW-UP: Patients are clinically evaluated at least twice a day (Clinical examination,&#xD;
+      SpO2, vital signs) during hospitalization. Chest computed tomography and SARS-CoV-2 serology&#xD;
+      are performed on D0. Viral load is evaluated by the polymerase chain reaction which allowed&#xD;
+      the diagnosis of covid-19 in the 48 hours preceding D0 and on D7. The evaluation of&#xD;
+      conventional biomarkers of interest (blood count, hepatic assessment (ASAT, ALAT), serum&#xD;
+      creatinine, albuminemia, CRP, D-Dimers, LDH, Ferritin) are carried out on D0 (before the 1st&#xD;
+      dose of corticosteroids), D2 , J4 and J7. The evaluation of biomarkers of interest evaluated&#xD;
+      by mass spectrometry is carried out on D0 and D7 +/- 2 days.&#xD;
+&#xD;
+      A follow-up call on D28 is carried out (telephone call, collection of vital status and&#xD;
+      hospitalizations).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 18, 2020</start_date>
+  <completion_date type="Anticipated">September 18, 2021</completion_date>
+  <primary_completion_date type="Anticipated">September 18, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Treatment failure (yes/no)</measure>
+    <time_frame>Hospital discharge (expected maximum of 28 days)</time_frame>
+    <description>Treatment failure is defined as the need to transfer the patient to intensive care for mechanical ventilation.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Human Plasma BAK-125 proteomics profile</measure>
+    <time_frame>Baseline (day 0)</time_frame>
+    <description>PeptiQuantTM Plus, Human Plasma BAK 125, Cambridge Isotope Laboratories, Inc</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Human Plasma BAK-125 proteomics profile</measure>
+    <time_frame>Day 7</time_frame>
+    <description>PeptiQuantTM Plus, Human Plasma BAK 125, Cambridge Isotope Laboratories, Inc</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Circulating blood interferon level</measure>
+    <time_frame>Baseline (day 0)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Circulating blood interferon level</measure>
+    <time_frame>Day 7</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>A vector of repeated measures of SpO2</measure>
+    <time_frame>Throughout initial hospitalization (expected maximum of 28 days)</time_frame>
+    <description>Measured at least twice per day throughout the initial hospitalization period.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>A vector of repeated measures of FiO2</measure>
+    <time_frame>Throughout initial hospitalization (expected maximum of 28 days)</time_frame>
+    <description>Measured at least twice per day throughout the initial hospitalization period.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>A vector of repeated measures of temperature (°C)</measure>
+    <time_frame>Throughout initial hospitalization (expected maximum of 28 days)</time_frame>
+    <description>Measured at least twice per day throughout the initial hospitalization period.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>A vector of repeated measures of respiratory rate (cycles per minute)</measure>
+    <time_frame>Throughout initial hospitalization (expected maximum of 28 days)</time_frame>
+    <description>Measured at least twice per day throughout the initial hospitalization period.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>A vector of repeated measures of pulse (bpm)</measure>
+    <time_frame>Throughout initial hospitalization (expected maximum of 28 days)</time_frame>
+    <description>Measured at least twice per day throughout the initial hospitalization period.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>A vector of repeated measures of systolic blood pressure (mmHg)</measure>
+    <time_frame>Throughout initial hospitalization (expected maximum of 28 days)</time_frame>
+    <description>Measured at least twice per day throughout the initial hospitalization period.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>A vector of repeated measures of diastolic blood pressure (mmHg)</measure>
+    <time_frame>Throughout initial hospitalization (expected maximum of 28 days)</time_frame>
+    <description>Measured at least twice per day throughout the initial hospitalization period.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>A vector of repeated measures of capillary glycemia (g/L)</measure>
+    <time_frame>Throughout initial hospitalization (expected maximum of 28 days)</time_frame>
+    <description>Capillary glycemia will be measured at least twice per day throughout the initial hospitalization period.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>A vector of repeated measures of the qSOFA score</measure>
+    <time_frame>Throughout initial hospitalization (expected maximum of 28 days)</time_frame>
+    <description>The Quick Sequential Organ Failure Assessment (qSOFA) score will be assessed at least twice per day throughout the initial hospitalization period.&#xD;
+The quick Sepsis-related organ failure assessment (qSOFA) score ranges from 0 to 3 points, with '3' indicating the worst health state. It uses three criteria, assigning one point for low blood pressure (systolic blood pressure ≤100 mmHg), high respiratory rate (≥22 breaths per min), or altered mentation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hemoglobin</measure>
+    <time_frame>Baseline (day 0)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hemoglobin</measure>
+    <time_frame>Day 2</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hemoglobin</measure>
+    <time_frame>Day 4</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hemoglobin</measure>
+    <time_frame>Day 7 (or day of discharge if before day 7)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Platelet count</measure>
+    <time_frame>Baseline (day 0)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Platelet count</measure>
+    <time_frame>Day 2</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Platelet count</measure>
+    <time_frame>Day 4</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Platelet count</measure>
+    <time_frame>Day 7 (or day of discharge if before day 7)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>White blood cell count</measure>
+    <time_frame>Baseline (day 0)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>White blood cell count</measure>
+    <time_frame>Day 2</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>White blood cell count</measure>
+    <time_frame>Day 4</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>White blood cell count</measure>
+    <time_frame>Day 7 (or day of discharge if before day 7)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neutrophil percentage</measure>
+    <time_frame>Baseline (day 0)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neutrophil percentage</measure>
+    <time_frame>Day 2</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neutrophil percentage</measure>
+    <time_frame>Day 4</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neutrophil percentage</measure>
+    <time_frame>Day 7 (or day of discharge if before day 7)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Eosinophil percentage</measure>
+    <time_frame>Baseline (day 0)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Eosinophil percentage</measure>
+    <time_frame>Day 2</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Eosinophil percentage</measure>
+    <time_frame>Day 4</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Eosinophil percentage</measure>
+    <time_frame>Day 7 (or day of discharge if before day 7)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Basophil percentage</measure>
+    <time_frame>Baseline (day 0)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Basophil percentage</measure>
+    <time_frame>Day 2</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Basophil percentage</measure>
+    <time_frame>Day 4</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Basophil percentage</measure>
+    <time_frame>Day 7 (or day of discharge if before day 7)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lymphocyte percentage</measure>
+    <time_frame>Baseline (day 0)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lymphocyte percentage</measure>
+    <time_frame>Day 2</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lymphocyte percentage</measure>
+    <time_frame>Day 4</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lymphocyte percentage</measure>
+    <time_frame>Day 7 (or day of discharge if before day 7)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Monocyte percentage</measure>
+    <time_frame>Baseline (day 0)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Monocyte percentage</measure>
+    <time_frame>Day 2</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Monocyte percentage</measure>
+    <time_frame>Day 4</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Monocyte percentage</measure>
+    <time_frame>Day 7 (or day of discharge if before day 7)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prothrombin rate (%)</measure>
+    <time_frame>Baseline (day 0)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prothrombin rate (%)</measure>
+    <time_frame>Day 2</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prothrombin rate (%)</measure>
+    <time_frame>Day 4</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prothrombin rate (%)</measure>
+    <time_frame>Day 7 (or day of discharge if before day 7)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Activated partial thromboplastin time ratio</measure>
+    <time_frame>Baseline (Day 0)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Activated partial thromboplastin time ratio</measure>
+    <time_frame>Day 2</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Activated partial thromboplastin time ratio</measure>
+    <time_frame>Day 4</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Activated partial thromboplastin time ratio</measure>
+    <time_frame>Day 7 (or day of discharge if before day 7)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fibrinogen (g/L)</measure>
+    <time_frame>Baseline (Day 0)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fibrinogen (g/L)</measure>
+    <time_frame>Day 2</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fibrinogen (g/L)</measure>
+    <time_frame>Day 4</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fibrinogen (g/L)</measure>
+    <time_frame>Day 7 (or day of discharge if before day 7)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>D-Dimers (μg/mL)</measure>
+    <time_frame>Baseline (Day 0)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>D-Dimers (μg/mL)</measure>
+    <time_frame>Day 2</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>D-Dimers (μg/mL)</measure>
+    <time_frame>Day 4</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>D-Dimers (μg/mL)</measure>
+    <time_frame>Day 7 (or day of discharge if before day 7)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Aspartate aminotransferase (ASAT; UI/L)</measure>
+    <time_frame>Baseline (Day 0)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Aspartate aminotransferase (ASAT; UI/L)</measure>
+    <time_frame>Day 2</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Aspartate aminotransferase (ASAT; UI/L)</measure>
+    <time_frame>Day 4</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Aspartate aminotransferase (ASAT; UI/L)</measure>
+    <time_frame>Day 7 (or day of discharge if before day 7)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Alanine aminotransferase (ALAT; UI/L)</measure>
+    <time_frame>Baseline (Day 0)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Alanine aminotransferase (ALAT; UI/L)</measure>
+    <time_frame>Day 2</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Alanine aminotransferase (ALAT; UI/L)</measure>
+    <time_frame>Day 4</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Alanine aminotransferase (ALAT; UI/L)</measure>
+    <time_frame>Day 7 (or day of discharge if before day 7)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Glucose (mmol/L)</measure>
+    <time_frame>Baseline (Day 0)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Glucose (mmol/L)</measure>
+    <time_frame>Day 2</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Glucose (mmol/L)</measure>
+    <time_frame>Day 4</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Glucose (mmol/L)</measure>
+    <time_frame>Day 7 (or day of discharge if before day 7)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Glycated haemoglobin (HbA1c; %)</measure>
+    <time_frame>Baseline (Day 0)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Glycated haemoglobin (HbA1c; %)</measure>
+    <time_frame>Day 2</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Glycated haemoglobin (HbA1c; %)</measure>
+    <time_frame>Day 4</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Glycated haemoglobin (HbA1c; %)</measure>
+    <time_frame>Day 7 (or day of discharge if before day 7)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Urea (mmol/L)</measure>
+    <time_frame>Baseline (Day 0)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Urea (mmol/L)</measure>
+    <time_frame>Day 2</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Urea (mmol/L)</measure>
+    <time_frame>Day 4</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Urea (mmol/L)</measure>
+    <time_frame>Day 7 (or day of discharge if before day 7)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Creatinine (µmol/L)</measure>
+    <time_frame>Baseline (Day 0)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Creatinine (µmol/L)</measure>
+    <time_frame>Day 2</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Creatinine (µmol/L)</measure>
+    <time_frame>Day 4</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Creatinine (µmol/L)</measure>
+    <time_frame>Day 7 (or day of discharge if before day 7)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Estimated glomerular filtration rate (eGFR, ml/min/1.73m^2)</measure>
+    <time_frame>Baseline (Day 0)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Estimated glomerular filtration rate (eGFR, ml/min/1.73m^2)</measure>
+    <time_frame>Day 2</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Estimated glomerular filtration rate (eGFR, ml/min/1.73m^2)</measure>
+    <time_frame>Day 4</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Estimated glomerular filtration rate (eGFR, ml/min/1.73m^2)</measure>
+    <time_frame>Day 7 (or day of discharge if before day 7)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Albumin (g/L)</measure>
+    <time_frame>Baseline (Day 0)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Albumin (g/L)</measure>
+    <time_frame>Day 2</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Albumin (g/L)</measure>
+    <time_frame>Day 4</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Albumin (g/L)</measure>
+    <time_frame>Day 7 (or day of discharge if before day 7)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>C reactive protein (CRP, mg/L)</measure>
+    <time_frame>Baseline (Day 0)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>C reactive protein (CRP, mg/L)</measure>
+    <time_frame>Day 2</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>C reactive protein (CRP, mg/L)</measure>
+    <time_frame>Day 4</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>C reactive protein (CRP, mg/L)</measure>
+    <time_frame>Day 7 (or day of discharge if before day 7)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lactate dehydrogenase (LDH, UI/L)</measure>
+    <time_frame>Baseline (Day 0)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lactate dehydrogenase (LDH, UI/L)</measure>
+    <time_frame>Day 2</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lactate dehydrogenase (LDH, UI/L)</measure>
+    <time_frame>Day 4</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lactate dehydrogenase (LDH, UI/L)</measure>
+    <time_frame>Day 7 (or day of discharge if before day 7)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hypersensitive troponin T (µg/L)</measure>
+    <time_frame>Baseline (Day 0)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hypersensitive troponin T (µg/L)</measure>
+    <time_frame>Day 2</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hypersensitive troponin T (µg/L)</measure>
+    <time_frame>Day 4</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hypersensitive troponin T (µg/L)</measure>
+    <time_frame>Day 7 (or day of discharge if before day 7)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ferritin (µg/L)</measure>
+    <time_frame>Baseline (Day 0)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ferritin (µg/L)</measure>
+    <time_frame>Day 2</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ferritin (µg/L)</measure>
+    <time_frame>Day 4</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ferritin (µg/L)</measure>
+    <time_frame>Day 7 (or day of discharge if before day 7)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CD4 cell count</measure>
+    <time_frame>Baseline (Day 0)</time_frame>
+    <description>CD4 refers to cluster of differentiation 4.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CD4 cell count</measure>
+    <time_frame>Day 2</time_frame>
+    <description>CD4 refers to cluster of differentiation 4.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CD4 cell count</measure>
+    <time_frame>Day 4</time_frame>
+    <description>CD4 refers to cluster of differentiation 4.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CD4 cell count</measure>
+    <time_frame>Day 7 (or day of discharge if before day 7)</time_frame>
+    <description>CD4 refers to cluster of differentiation 4.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CD8 cell count</measure>
+    <time_frame>Baseline (Day 0)</time_frame>
+    <description>CD8 refers to cluster of differentiation 8.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CD8 cell count</measure>
+    <time_frame>Day 2</time_frame>
+    <description>CD8 refers to cluster of differentiation 8.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CD8 cell count</measure>
+    <time_frame>Day 4</time_frame>
+    <description>CD8 refers to cluster of differentiation 8.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CD8 cell count</measure>
+    <time_frame>Day 7 (or day of discharge if before day 7)</time_frame>
+    <description>CD8 refers to cluster of differentiation 8.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Natural killer cell count</measure>
+    <time_frame>Baseline (Day 0)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Natural killer cell count</measure>
+    <time_frame>Day 2</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Natural killer cell count</measure>
+    <time_frame>Day 4</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Natural killer cell count</measure>
+    <time_frame>Day 7 (or day of discharge if before day 7)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Activated T cell percentage</measure>
+    <time_frame>Baseline (Day 0)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Activated T cell percentage</measure>
+    <time_frame>Day 2</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Activated T cell percentage</measure>
+    <time_frame>Day 4</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Activated T cell percentage</measure>
+    <time_frame>Day 7 (or day of discharge if before day 7)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in SARS-CoV-2 real-time polymerase chain reaction cycle threshold</measure>
+    <time_frame>Baseline to day 7 (or day of discharge if before day 7)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in SARS-CoV-2 IgG serology (% of control signal = PCS)</measure>
+    <time_frame>Baseline to day 7 (or day of discharge if before day 7)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in SARS-CoV-2 IgM serology (% of control signal = PCS)</measure>
+    <time_frame>Baseline to day 7 (or day of discharge if before day 7)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from positivity at baseline to negativity at Day 7: yes/no for SARS-CoV-2 real time polymerase chain reaction</measure>
+    <time_frame>Day 7 (or day of discharge if before day 7)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from positivity at baseline to negativity at Day 7: yes/no for SARS-CoV-2 IgG serology</measure>
+    <time_frame>Day 7 (or day of discharge if before day 7)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from positivity at baseline to negativity at Day 7: yes/no for SARS-CoV-2 IgM serology</measure>
+    <time_frame>Day 7 (or day of discharge if before day 7)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Reduction in the extent of lesions visualized on computed tomography chest scan: yes/no for grand glass opacities</measure>
+    <time_frame>Day 7 (or day of discharge if before day 7) +- 1 day of leeway for logistics</time_frame>
+    <description>A reduction in the extent of lesions is defined by a ⩾20% reduction in parenchymal involvement compared to the initial assessment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Reduction in the extent of lesions visualized on computed tomography chest scan: yes/no for consolidation</measure>
+    <time_frame>Day 7 (or day of discharge if before day 7) +- 1 day of leeway for logistics</time_frame>
+    <description>A reduction in the extent of lesions is defined by a ⩾20% reduction in parenchymal involvement compared to the initial assessment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Reduction in the extent of lesions visualized on computed tomography chest scan: yes/no for total lesions</measure>
+    <time_frame>Day 7 (or day of discharge if before day 7) +- 1 day of leeway for logistics</time_frame>
+    <description>A reduction in the extent of lesions is defined by a ⩾20% reduction in parenchymal involvement compared to the initial assessment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Requirement for low flow oxygen therapy during the initial hospitalisation: yes/no</measure>
+    <time_frame>Day of hospital discharge (expected maximum of 28 days)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Requirement for high flow oxygen therapy during the initial hospitalisation: yes/no</measure>
+    <time_frame>Day of hospital discharge (expected maximum of 28 days)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Requirement for non-invasive ventilation during the initial hospitalisation: yes/no</measure>
+    <time_frame>Day of hospital discharge (expected maximum of 28 days)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Requirement for invasive ventilation during the initial hospitalisation: yes/no</measure>
+    <time_frame>Day of hospital discharge (expected maximum of 28 days)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Requirement for dialysis during the initial hospitalisation: yes/no</measure>
+    <time_frame>Day of hospital discharge (expected maximum of 28 days)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Requirement for extracorporeal membrane oxygenation during the initial hospitalisation: yes/no</measure>
+    <time_frame>Day of hospital discharge (expected maximum of 28 days)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Classification of acute respiratory distress syndrome (ARDS) according to the Berlin criteria during initial hospitalization: absent, mild, moderate or severe</measure>
+    <time_frame>Day of hospital discharge (expected maximum of 28 days)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of stay (hours) in intensive care</measure>
+    <time_frame>Day of hospital discharge (expected maximum of 28 days)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of stay (hours) in hospital</measure>
+    <time_frame>Day of hospital discharge (expected maximum of 28 days)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days alive and without low flow oxygen therapy</measure>
+    <time_frame>Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days alive and without high flow oxygen therapy</measure>
+    <time_frame>Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days alive and without any oxygen therapy</measure>
+    <time_frame>Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days alive and without non-invasive ventilation</measure>
+    <time_frame>Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days alive and without invasive ventilation</measure>
+    <time_frame>Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days alive and without extracorporeal membrane oxygenation</measure>
+    <time_frame>Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days alive and without intensive care</measure>
+    <time_frame>Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days alive and without hospitalisation</measure>
+    <time_frame>Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>Day of hospital discharge (expected maximum of 28 days)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Club cell secrectory protein polymorphism A38G</measure>
+    <time_frame>Between day 0 and day 28</time_frame>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Presence/absence of incident hyperglycemia during hospitalization</measure>
+    <time_frame>Day of hospital discharge (expected maximum of 28 days)</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Presence/absence of secondary infection during hospitalization</measure>
+    <time_frame>Day of hospital discharge (expected maximum of 28 days)</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Presence/absence of cardiovascular event (ischemic, stroke, other) during hospitalization</measure>
+    <time_frame>Day of hospital discharge (expected maximum of 28 days)</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Presence/absence of digestive hemorrhage during hospitalization</measure>
+    <time_frame>Day of hospital discharge (expected maximum of 28 days)</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Presence/absence of neuro-psychiatric event (acute delirium, depressive syndrome, decompensation of an underlying psychiatric pathology) during hospitalization</measure>
+    <time_frame>Day of hospital discharge (expected maximum of 28 days)</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Adverse events</measure>
+    <time_frame>Day of hospital discharge (expected maximum of 28 days)</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Adverse events</measure>
+    <time_frame>Day 28</time_frame>
+  </other_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Pneumonia, Viral</condition>
+  <condition>SARS-Cov-2</condition>
+  <arm_group>
+    <arm_group_label>The study population</arm_group_label>
+    <description>The study population corresponds to patients hospitalized for proven SARS-COV-2 pneumonia with an indication (hypoxemia) for dexamethasone (see eligibility criteria)</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The study population corresponds to patients hospitalized for proven SARS-COV-2 pneumonia&#xD;
+        with an indication (hypoxemia) for dexamethasone&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Hospitalization for SARS-COV-2 pneumonia&#xD;
+&#xD;
+          -  SARS-COV-2 infection proven by polymerase chain reaction (Nasopharyngeal or other&#xD;
+             respiratory sampling (expectoration, tracheal aspiration, bronchoalveolar lavage&#xD;
+             fluid)&#xD;
+&#xD;
+          -  Presence of at least one of the following clinical signs of infectious pneumonia:&#xD;
+             fever (&gt;38°C), cough, dyspnoea, thoracic pain, crackling/rales&#xD;
+&#xD;
+          -  Presence of at least one of the following on a lung computed tomography scan performed&#xD;
+             within two days of inclusion/randomisation: uni- or bilateral ground glass opacities,&#xD;
+             consolidations, alveolar condensations, inter- or intra-lobular reticulations, crazy&#xD;
+             paving&#xD;
+&#xD;
+          -  Indication for dexamethasone corticotherapy (defined by the presence of hypoxemia with&#xD;
+             room-air SpO2 &lt;94% or a requirement for oxygen therapy to maintain Sp02 &gt;94%)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Systemic long-term anti-inflammatory treatment (corticosteroids or anti-interleukins)&#xD;
+             for chronic disease&#xD;
+&#xD;
+          -  Systemic corticosteroid treatment in the 15 days preceding the eligibility visit (for&#xD;
+             disease other than COVID-19)&#xD;
+&#xD;
+          -  Systemic corticosteroid treatment for COVID-19 started more than 48h before the&#xD;
+             eligibility visit&#xD;
+&#xD;
+          -  Absolute contraindication for systemic corticosteroid treatment&#xD;
+&#xD;
+          -  Aside from the current acute episode, life expectancy of &lt;6 months&#xD;
+&#xD;
+          -  Patient unable to comply with all study procedures (e.g. contraindication for thoracic&#xD;
+             scans or bloodwork)&#xD;
+&#xD;
+          -  Protected populations according to the French public health code (Pregnant, parturient&#xD;
+             or lactating women; adults under any form of guardianship; prisoners or persons under&#xD;
+             any form of judicial protection)&#xD;
+&#xD;
+          -  Potential interference from other studies (Participation in any clinical trial of an&#xD;
+             investigational agent or procedure within one month prior to screening or during the&#xD;
+             study; exclusion period determined by another study.)&#xD;
+&#xD;
+          -  It is impossible to correctly inform the patient (e.g. language barrier)&#xD;
+&#xD;
+          -  Absence of free, informed and written consent signed by the participant and the&#xD;
+             investigator (at the latest on the day of inclusion and before any examination&#xD;
+             required by the research)&#xD;
+&#xD;
+          -  Non-beneficiary of the French social security, single-payer health insurance system&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Clement Boissin, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>University Hospital, Montpellier</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Clement Boissin, MD</last_name>
+    <phone>+33.(0)4.67.33.61.26</phone>
+    <email>c-boissin@chu-montpellier.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Jérémy Charriot, MD</last_name>
+    <phone>+33.(0)4.67.33.61.26</phone>
+    <email>j-charriot@chu-montpellier.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Clinique du Parc</name>
+      <address>
+        <city>Montpellier</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Khuder Alagha, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospitals of Montpellier</name>
+      <address>
+        <city>Montpellier</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Jérémy Charriot, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Clément Boissin, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Bourdin Arnaud, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Jean-Pierre Mallet, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Vincent Le Moing, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>David Morquin, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Alain Makinson, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Nathalie Pansu, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Clément Le Bihan, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Pierre Fesler, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Camille Roubille, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Edouard Tuaillon, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Sébastien Bommart, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Jacques Reynes, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Kada Klouche, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Boris Jung, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>November 2, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 5, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 6, 2020</study_first_posted>
+  <last_update_submitted>January 13, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 13, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 14, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>hypoxemic pneumonia</keyword>
+  <keyword>corticosteroid</keyword>
+  <keyword>glucocorticosteroid</keyword>
+  <keyword>systemic corticosteroid</keyword>
+  <keyword>COVID-19</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia, Viral</mesh_term>
+    <mesh_term>Pneumonia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>The general goal is to make the study data available to interested researchers as well as to provide proof of transparency for the study. Data (and an accompanying data dictionary) will be de-identified and potentially further cleaned or aggregated as the investigators deem necessary to protect participant anonymity.&#xD;
+Data will be made available to persons who address a reasonable request to the study director and fulfil the requirements stipulated by the French CNIL (Commission Nationale de l'Informatique et des Libertés : https://www.cnil.fr/professionnel).</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_time_frame>Supporting documents will either be published or provided via the URL provided below (in real-time in as much as possible).&#xD;
+Datasets can be requested after the publication process has been completed.</ipd_time_frame>
+    <ipd_access_criteria>The conditions under which members of the public will be granted access to datasets are:&#xD;
+The data will be used/examined in a not-for-profit manner;&#xD;
+The data will not be used in an attempt to identify a participant or group of participants;&#xD;
+The user does not work for a private insurance company;&#xD;
+The data will not be used in support of any kind of private insurance policy or health penalties;&#xD;
+The data will be used/examined for the advancement of science/teaching while respecting participant/patient privacy and rights;&#xD;
+The user will state why they wish to access the data.&#xD;
+The appropriate CNIL approval has been obtained by the user.</ipd_access_criteria>
+    <ipd_url>https://osf.io/7v9kj/</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

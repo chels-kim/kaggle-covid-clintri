@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="73">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04690413</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NOWDx COVID-19 Antibody POC</org_study_id>
+    <nct_id>NCT04690413</nct_id>
+  </id_info>
+  <brief_title>NOWDx Test for the Detection of Antibodies to COVID-19</brief_title>
+  <official_title>NOWDx Test for the Detection of Antibodies to COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>NOWDiagnostics, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>NOWDiagnostics, Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_unapproved_device>Yes</is_unapproved_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is designed to compare the performance of the NOWDx COVID-19 Test to an emergency&#xD;
+      use authorized PCR test result. The intent is to show the rapid test device is comparable to&#xD;
+      a currently marketed device. The NOWDx COVID-19 Test is an in vitro lateral flow immunoassay&#xD;
+      intended for qualitative detection of total antibodies to SARS-CoV-2 in human whole blood&#xD;
+      (venous and fingerstick).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study is designed to compare the performance of the NOWDx COVID-19 Test to an emergency&#xD;
+      use authorized PCR test result. The intent is to show the rapid test device is comparable to&#xD;
+      a currently marketed device. The NOWDx COVID-19 Test is an in vitro lateral flow immunoassay&#xD;
+      intended for qualitative detection of total antibodies to SARS-CoV-2 in human whole blood&#xD;
+      (venous and fingerstick).&#xD;
+&#xD;
+      The NOWDx COVID-19 Test is intended for use as an aid in identifying individuals with an&#xD;
+      adaptive immune response to SARS-CoV-2, indicating recent or prior infection. At this time,&#xD;
+      it is unknown for how long antibodies persist following infection and if the presence of&#xD;
+      antibodies confers protective immunity. Testing of human venous whole blood (EDTA) and&#xD;
+      fingerstick specimens are intended to be conducted in patient care settings authorized to&#xD;
+      perform CLIA waived tests.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Actual">September 1, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2020</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage of clinical agreement between NOWDx COVID-19 Test and emergency use authorized or FDA cleared comparator.</measure>
+    <time_frame>through study completion; an average of 18 weeks</time_frame>
+    <description>Calculate positive percent agreement (PPA) and negative percent agreement (NPA) between NOWDx COVID-19 Test and emergency use authorized or FDA cleared COVID-19 PCR Test.</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>COVID-19</condition>
+  <condition>SARS-CoV-2</condition>
+  <condition>Coronavirus</condition>
+  <arm_group>
+    <arm_group_label>Persons tested with investigational device</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Persons tested with investigational device who previously tested positive or negative for COVID-19 with an emergency use authorized or FDA cleared COVID-19 test</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>NOWDx COVID-19 Test</intervention_name>
+    <description>The investigational device is the NOWDx COVID-19 Test.</description>
+    <arm_group_label>Persons tested with investigational device</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Persons ≥18 years old;&#xD;
+&#xD;
+          -  Persons who have tested positive or negative (within 6 days) for COVID-19 with an&#xD;
+             emergency use authorized molecular (PCR) test and can furnish said test report.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Persons &lt;18 years old;&#xD;
+&#xD;
+          -  Persons who have previously participated in a NOWDx study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Beth L Cobb</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>NOWDiagnostics, Inc.</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Del Sol Research Management, LLC</name>
+      <address>
+        <city>Tucson</city>
+        <state>Arizona</state>
+        <zip>85712</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Comprehensive Clinical Research, LLC</name>
+      <address>
+        <city>West Palm Beach</city>
+        <state>Florida</state>
+        <zip>33409</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Solutions, LLC</name>
+      <address>
+        <city>Jackson</city>
+        <state>Tennessee</state>
+        <zip>38305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>August 31, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 29, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 30, 2020</study_first_posted>
+  <last_update_submitted>December 29, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 29, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 30, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

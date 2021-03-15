@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4812">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04616768</url>
+  </required_header>
+  <id_info>
+    <org_study_id>843616</org_study_id>
+    <nct_id>NCT04616768</nct_id>
+  </id_info>
+  <brief_title>PROStep: A Feasibility Trial Using PROs and Step Data to Monitor Patients With Lung and GI Cancers</brief_title>
+  <official_title>A Feasibility Trial Using Remote Patient-reported Outcomes and Wearable Technology-reported Step Data to Compare Engagement, Utilization, and Functional Status in Patients With Incurable Lung and Gastrointestinal Cancers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Pennsylvania</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Pennsylvania</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Telemedicine allows clinicians to utilize modern telecommunication technology to provide&#xD;
+      healthcare services to patients including remote symptom monitoring. Given the spread of&#xD;
+      COVID-19 both locally and globally, is crucial to adapt accordingly in order to safely&#xD;
+      provide vulnerable cancer patient populations with optimal care while minimizing risk of&#xD;
+      exposure to COVID-19. In this study, the investigators will utilize remote monitoring of&#xD;
+      patients with cancer via weekly patient-reported outcome (PRO) collection through the Way to&#xD;
+      Health (W2H) smartphone application and step data through wearable Fitbit devices. Patients&#xD;
+      with incurable lung and gastrointestinal cancers will be recruited based on whether they&#xD;
+      receive their care in-clinic or remotely. They will respond to weekly phone-based symptom&#xD;
+      surveys and wear Fitbits that track step data. This data will be collated in a Palliative&#xD;
+      Care Assessment Dashboard (PROStep Dashboard) sent to clinicians prior to each oncology visit&#xD;
+      to help inform patient management. In this feasibility study, two arms of patients will be&#xD;
+      monitored with symptom surveys and Fitbits; the study will randomize these patients to either&#xD;
+      1) receive text feedback or 2) receive no text feedback. A third arm of patients will be&#xD;
+      randomized to receive no feedback, symptom surveys, or Fitbit device. Clinicians for patients&#xD;
+      in each arm will receive the PROstep Dashboard. The study will determine feasibility of this&#xD;
+      monitoring approach, and compare patient adherence to symptom surveys and step data&#xD;
+      collection between the two intervention arms.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 19, 2020</start_date>
+  <completion_date type="Anticipated">November 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">November 1, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Patient perceptions of symptom management</measure>
+    <time_frame>These will be measured at 6 months after enrollment for each patient.</time_frame>
+    <description>Patient utility surveys will use a 5-point Likert scale for responses scored 1-5.&#xD;
+The two co-primary outcomes will compare the scores for the following two questions, measured at 6 months, between ALL Arms.&#xD;
+How well do you feel your oncology team understands your symptoms (e.g. nausea, vomiting, weight loss, etc.)? (1-5)&#xD;
+How well do you feel your oncology team understands your activity level and ability to function? (1-5)&#xD;
+Likert scale responses are defined as: 1 = Not at all; 2 = Slightly; 3 = Moderately; 4 = Considerably; 5 = Completely.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Additional analysis of the primary outcome between different arms (A and B)</measure>
+    <time_frame>These will be measured at 6 months after enrollment for each patient.</time_frame>
+    <description>The following secondary outcomes will compare the same two questions measured at six months, between ARM A and ARM B:&#xD;
+How well do you feel your oncology team understands your symptoms (e.g. nausea, vomiting, weight loss, etc.)? (1-5)&#xD;
+How well do you feel your oncology team understands your activity level and ability to function? (1-5)&#xD;
+Likert scale responses are defined as: 1 = Not at all; 2 = Slightly; 3 = Moderately; 4 = Considerably; 5 = Completely.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Additional analysis of the primary outcome between different arms (A and C)</measure>
+    <time_frame>These will be measured at 6 months after enrollment for each patient.</time_frame>
+    <description>The following secondary outcomes will compare the same two questions measured at six months, between ARM A and ARM C:&#xD;
+How well do you feel your oncology team understands your symptoms (e.g. nausea, vomiting, weight loss, etc.)? (1-5)&#xD;
+How well do you feel your oncology team understands your activity level and ability to function? (1-5)&#xD;
+Likert scale responses are defined as: 1 = Not at all; 2 = Slightly; 3 = Moderately; 4 = Considerably; 5 = Completely.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Additional analysis of the primary outcome between all arms at 3 months</measure>
+    <time_frame>These will be measured at 3 months after enrollment for each patient.</time_frame>
+    <description>These outcomes will compare the scores for the following two questions, measured at 3 months (instead of 6 months like the primary outcome), between ALL Arms.&#xD;
+How well do you feel your oncology team understands your symptoms (e.g. nausea, vomiting, weight loss, etc.)? (1-5)&#xD;
+How well do you feel your oncology team understands your activity level and ability to function? (1-5)&#xD;
+Likert scale responses are defined as: 1 = Not at all; 2 = Slightly; 3 = Moderately; 4 = Considerably; 5 = Completely.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adherence</measure>
+    <time_frame>Each patient will be enrolled in the trial for a total of six months.</time_frame>
+    <description>We will compare cumulative adherence for patients in the intervention group (arm B and arm C). Each week, adherence will be defined as each week where the patient submits the weekly survey (i.e. adherence to PRO) and has step data for 4 of 7 days of the week (i.e. adherence to Fitbit platform), divided by the total number of weeks that the patient is enrolled in the trial.&#xD;
+Comparison of mean patient adherence at three months for patients in arm B vs arm C&#xD;
+Comparison of mean patient adherence at six months for patients in arm B vs arm C</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Comparison of PRO scores (Arms B and C)</measure>
+    <time_frame>Each patient will be enrolled in the trial for a total of six months.</time_frame>
+    <description>These will be measured using mean and median composite symptom scores reported by patients. The composite score is the sum of the scores for each domain in the PRO survey (0-32). The mean or median composite symptom score is the mean or median of all composite scores collected during the study. The PRO surveys use a 5-point scale (0 as LESS (None) to 4 as MORE (Very severe)).&#xD;
+In the last 7 days, how OFTEN did you have NAUSEA??&#xD;
+In the last 7 days, how OFTEN did you have LOOSE OR WATERY STOOLS (DIARRHEA/DIARRHOEA)??&#xD;
+In the last 7 days, what was the SEVERITY of your CONSTIPATION at its WORST?&#xD;
+In the last 7 days, what was the SEVERITY of your PAIN at its WORST?&#xD;
+In the last 7 days, how much did your SHORTNESS OF BREATH INTERFERE with your usual or daily activities?&#xD;
+In the last 7 days, how OFTEN did you have SAD OR UNHAPPY FEELINGS?&#xD;
+In the last 7 days, how OFTEN did you feel ANXIETY?&#xD;
+Over the past week I would generally rate my activity as:</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fitbit step data</measure>
+    <time_frame>Each patient will be enrolled in the trial for a total of six months.</time_frame>
+    <description>We will analyze trends in the Fitbit step data.&#xD;
+Comparison of PRO scores between patients in arm B vs. arm C. Fitbit step data will be measured using mean daily step counts for all days in which Fitbit data is collected. Days where the patient does not have Fitbit data will be excluded from these calculations.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Number of palliative care consults (exploratory)</measure>
+    <time_frame>Each patient will be enrolled in the trial for a total of six months.</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Number of documented advanced care planning (ACP) notes (exploratory)</measure>
+    <time_frame>Each patient will be enrolled in the trial for a total of six months.</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Number of documented serious illness conversations (SIC) (exploratory)</measure>
+    <time_frame>Each patient will be enrolled in the trial for a total of six months.</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Correlation between step, heart rate, distance, pace, elevation and sleep data trends, patient reported outcomes, patient and clinician ECOG assessment, and patient hospitalization and survival (exploratory)</measure>
+    <time_frame>Each patient will be enrolled in the trial for a total of six months.</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Patient utility surveys (exploratory)</measure>
+    <time_frame>Each patient will be surveyed at 3 and 6 months following enrollment.</time_frame>
+    <description>The utility to patients is measured using survey data at 3 and 6 months. These use a 5-point Likert Scale (1-5). We will report descriptive statistics for this data (mean and standard deviation) followed by t-tests between each arm.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Clinician utility surveys (exploratory)</measure>
+    <time_frame>Each patient will be surveyed at 3 and 6 months following enrollment.</time_frame>
+    <description>The utility to clinicians will be measured using survey data at three and six months. These similarly use a 5-point Likert scale (1-5) and we will report descriptive statistics for this survey data.</description>
+  </other_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">125</enrollment>
+  <condition>Cancer</condition>
+  <condition>Lung Cancer</condition>
+  <condition>Gastro-intestinal</condition>
+  <arm_group>
+    <arm_group_label>Arm A - Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>An arm of 25 patients will not receive PRO surveys, a Fitbit device, or patient feedback texts messages. They will receive shortened utility surveys at 3 and 6 months following enrollment, but their clinicians will not receive dashboards or utility surveys.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm B - Intervention without text feedback</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>An arm of 50 enrolled intervention patients will be randomized to receive weekly patient-reported outcome questionnaires, be given Fitbits to monitor weekly step counts and utility surveys at 3 and 6 months following enrollment. Their clinicians will receive a &quot;PROStep Dashboard&quot; prior to their appointments and utility surveys at 3 and 6 months.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm C - Intervention with text feedback</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>An arm of 50 enrolled intervention patients will be randomized to receive weekly patient-reported outcome questionnaires, be given Fitbits to monitor weekly step counts and utility surveys at 3 and 6 months following enrollment. Their clinicians will receive a &quot;PROStep Dashboard&quot; prior to their appointments and utility surveys at 3 and 6 months. Patients in this arm will receive an additional text prior to appointments that summarizes their symptoms and incorporates an active nudge question.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>PRO questionnaire</intervention_name>
+    <description>These text message surveys will inquire about seven symptoms, requesting a response rating the patient's response. The seven symptoms have been selected by lung and GI oncology clinicians at PCAM from a list of twelve validated symptoms from the National Cancer Institute's Common Terminology Criteria for Adverse Events and will be scored on a five point scale from 0 (no present) to 4 (disabling). The patients will also receive a question asking about their activity level over the prior month</description>
+    <arm_group_label>Arm B - Intervention without text feedback</arm_group_label>
+    <arm_group_label>Arm C - Intervention with text feedback</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Step monitoring</intervention_name>
+    <description>A CRC will provide patients with a Fitbit at enrollment and instruct them on how to wear the Fitbit device and periodically sync the device with their phone which will send updated step data to the research team.</description>
+    <arm_group_label>Arm B - Intervention without text feedback</arm_group_label>
+    <arm_group_label>Arm C - Intervention with text feedback</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Active nudge text feedback</intervention_name>
+    <description>Intervention patients in arm c will receive text feedback describing worsening or severe symptoms collected from their remote PRO questionnaires (i.e. &quot;Your following symptoms are severe or have gotten worse:&quot;) and their step count (&quot;Your Fitbit step count compared to last week is worse.&quot;). They will also receive an &quot;active nudge&quot; question on their upcoming visit (i.e. &quot;Do you plan on discussing these symptoms with your oncologist at your upcoming visit? Type &quot;1&quot; if you plan to discuss them; Type &quot;2&quot; if you do not plan to discuss them.&quot;).</description>
+    <arm_group_label>Arm C - Intervention with text feedback</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>PROStep Dashboard (clinicians)</intervention_name>
+    <description>The study team will provide an updated PROStep Dashboard to lung or GI oncology clinicians for each patient enrolled in the intervention arms prior to their appointments. W2H will generate the dashboards and the study team will physically deliver it to their office or touchdown space or send electronically. The Dashboard will include:&#xD;
+Home-based PRO report, including the weekly survey results for each question in tabular and graphical form&#xD;
+Step data report, including a summary of number of daily steps in graphical form (with rolling weekly averages) and weekly averages in tabular form&#xD;
+A list of all acute care utilization in the UPHS system in the prior 6 months including Oncology Evaluation Unit visits, Emergency department visits, Inpatient admissions&#xD;
+Whether the patient has had an outpatient palliative care visit&#xD;
+Whether the patient has had a documented Serious Illness Conversation</description>
+    <arm_group_label>Arm B - Intervention without text feedback</arm_group_label>
+    <arm_group_label>Arm C - Intervention with text feedback</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. English-speaking&#xD;
+&#xD;
+          2. Have a diagnosis of incurable or Stage IV lung or gastrointestinal cancer&#xD;
+&#xD;
+          3. Receive primary oncology care with a thoracic or gastrointestinal medical oncology&#xD;
+             specialist at the Perelman Center for Advanced Medicine (i.e. does not have a local&#xD;
+             oncologist that provides cancer care, including other UPHS clinic sites)&#xD;
+&#xD;
+          4. Currently receiving or planned receipt within 2 weeks of IV chemotherapy (see&#xD;
+             exclusions below)&#xD;
+&#xD;
+          5. The patient has a smart phone that can receive SMS text messages and has blue-tooth&#xD;
+             capability that can connect to Fitbit.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Age &lt; 18 years&#xD;
+&#xD;
+          2. Patients has used a wheelchair, been bedbound or is unable to walk without assistance&#xD;
+             from other people every day for the past 7 days (patients are not excluded for the use&#xD;
+             of walkers or canes)&#xD;
+&#xD;
+          3. Patients who are receiving checkpoint inhibitor monotherapy or oral tyrosine kinase&#xD;
+             inhibitors&#xD;
+&#xD;
+          4. Patients who receive chemotherapy infusions at another UPHS site or outside of UPHS or&#xD;
+             whose primary oncologist is not in thoracic or gastrointestinal oncology groups at&#xD;
+             PCAM. Notably, patients who receive part of their chemotherapy regimen at home will&#xD;
+             still be allowed to enroll.&#xD;
+&#xD;
+          5. Lung cancer patients enrolled in an ongoing palliative care clinical trial that may&#xD;
+             lead to better communication regarding symptoms and functional status.&#xD;
+&#xD;
+          6. Clinician concerns about behavioral health issues that may prevent engagement with&#xD;
+             text message prompts&#xD;
+&#xD;
+          7. Are enrolled in another interventional clinical trial (as clinical trials often have a&#xD;
+             substantial symptom-reporting structure; non-interventional clinical trials are&#xD;
+             permitted e.g. trials that just involve blood tests)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ravi Parikh, MD, MPP</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Pennsylvania</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>William Ferrell, MPH</last_name>
+    <phone>215 746 8671</phone>
+    <email>will.ferrell@pennmedicine.upenn.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Perelman Center for Advanced Medicine (PCAM)</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>October 16, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 29, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 5, 2020</study_first_posted>
+  <last_update_submitted>December 9, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 9, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 11, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>activity</keyword>
+  <keyword>patient-reported outcomes</keyword>
+  <keyword>GI</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Nicotine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

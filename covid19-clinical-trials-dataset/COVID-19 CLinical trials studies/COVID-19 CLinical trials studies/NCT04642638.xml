@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1618">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04642638</url>
+  </required_header>
+  <id_info>
+    <org_study_id>COVID19-311</org_study_id>
+    <secondary_id>INNOVATE</secondary_id>
+    <nct_id>NCT04642638</nct_id>
+  </id_info>
+  <brief_title>Safety, Immunogenicity, and Efficacy of INO-4800 for COVID-19 in Healthy Seronegative Adults at High Risk of SARS-CoV-2 Exposure</brief_title>
+  <official_title>Phase 2/3 Randomized, Blinded, Placebo-Controlled Trial to Evaluate the Safety, Immunogenicity, and Efficacy of INO-4800, a Prophylactic Vaccine Against COVID-19 Disease, Administered Intradermally Followed by Electroporation in Healthy Seronegative Adults at High Risk of SARS-CoV-2 Exposure</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Inovio Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Inovio Pharmaceuticals</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_unapproved_device>Yes</is_unapproved_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a Phase 2/3, randomized, placebo-controlled, multi-center trial to evaluate the&#xD;
+      safety, immunogenicity and efficacy of INO-4800 administered by intradermal (ID) injection&#xD;
+      followed by electroporation (EP) using CELLECTRA® 2000 device to prevent COVID-19 disease in&#xD;
+      participants at high risk of exposure to SARS-CoV-2.&#xD;
+&#xD;
+      The Phase 2 segment will evaluate immunogenicity and safety in approximately 400 participants&#xD;
+      at two dose levels across three age groups. Safety and immunogenicity information from the&#xD;
+      Phase 2 segment will be used to determine the dose level for the Phase 3 efficacy segment of&#xD;
+      the study involving approximately 6178 participants.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 30, 2020</start_date>
+  <completion_date type="Anticipated">September 2022</completion_date>
+  <primary_completion_date type="Anticipated">September 2022</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Phase 2: Change From Baseline in Antigen-specific Cellular Immune Response Measured by Interferon-gamma (IFN-γ) Enzyme-linked Immunospot (ELISpot) Assay</measure>
+    <time_frame>Baseline up to Day 393</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Phase 2: Change From Baseline in Neutralizing Antibody Response Measured by a Pseudovirus-based Neutralization Assay</measure>
+    <time_frame>Baseline up to Day 393</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Phase 3: Percentage of Participants With Virologically-confirmed COVID-19 Disease</measure>
+    <time_frame>From 14 days after completion of the 2-dose regimen up to 12 months post-dose 2 (i.e. Day 42 up to Day 393)</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Phase 2 and 3: Percentage of Participants With Solicited and Unsolicited Injection Site Reactions</measure>
+    <time_frame>From time of consent up to 28 days post-dose 2 (up to Day 56)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 2 and 3: Percentage of Participants With Solicited and Unsolicited Systemic Adverse Events (AEs)</measure>
+    <time_frame>From time of consent up to 28 days post-dose 2 (up to Day 56)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 2 and 3: Percentage of Participants With Serious Adverse Events (SAEs)</measure>
+    <time_frame>Baseline up to Day 393</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 2 and 3: Percentage of Participants With Adverse Events of Special Interest (AESIs)</measure>
+    <time_frame>Baseline up to Day 393</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 3: Percentage of Participants With Death From All Causes</measure>
+    <time_frame>Baseline up to Day 393</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 3: Percentage of Participants With Non-Severe COVID-19 Disease</measure>
+    <time_frame>From 14 days after completion of the 2-dose regimen up to 12 months post-dose 2 (i.e. Day 42 up to Day 393)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 3: Percentage of Participants With Severe COVID-19 Disease</measure>
+    <time_frame>From 14 days after completion of the 2-dose regimen up to 12 months post-dose 2 (i.e. Day 42 up to Day 393)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 3: Percentage of Participants With Death From COVID-19 Disease</measure>
+    <time_frame>From 14 days after completion of the 2-dose regimen up to 12 months post-dose 2 (i.e. Day 42 up to Day 393)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 3: Percentage of Participants With Virologically-Confirmed SARS-CoV-2 Infections</measure>
+    <time_frame>From 14 days after completion of the 2-dose regimen up to 12 months post-dose 2 (i.e. Day 42 up to Day 393)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 3: Days to Symptom Resolution in Participants With COVID-19 Disease</measure>
+    <time_frame>From 14 days after completion of the 2-dose regimen up to 12 months post-dose 2 (i.e. Day 42 up to Day 393)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 3: Change From Baseline in Antigen-specific Cellular Immune Response Measured by IFN-gamma ELISpot Assay</measure>
+    <time_frame>Baseline up to Day 393</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 3: Change From Baseline in Neutralizing Antibody Response Measured by a Pseudovirus-based Neutralization Assay</measure>
+    <time_frame>Baseline up to Day 393</time_frame>
+  </secondary_outcome>
+  <number_of_arms>6</number_of_arms>
+  <enrollment type="Anticipated">6578</enrollment>
+  <condition>Coronavirus Infection</condition>
+  <condition>Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2)</condition>
+  <condition>COVID-19 Disease</condition>
+  <arm_group>
+    <arm_group_label>Phase 2: INO-4800 Dose Group 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive one intradermal (ID) injection of 1.0 milligram (mg) of INO-4800 followed by EP using the CELLECTRA® 2000 device on Day 0 and Day 28.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 2: INO-4800 Dose Group 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive two ID injections of 1.0 mg (total 2.0 mg per dosing visit) of INO-4800 followed by EP using the CELLECTRA® 2000 device on Day 0 and Day 28.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 2: Placebo Dose Group 1</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants will receive one ID injection of placebo followed by EP using the CELLECTRA® 2000 device on Day 0 and Day 28.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 2: Placebo Dose Group 2</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants will receive two ID injections of placebo followed by EP using the CELLECTRA® 2000 device on Day 0 and Day 28.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 3: INO-4800 Optimum Dose Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive either one or two 1.0 mg ID injections of INO-4800 based on results from Phase 2 segment, followed by EP using the CELLECTRA® 2000 device on Day 0 and Day 28.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 3: Placebo Optimum Dose Group</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants will receive either one or two ID injections of placebo based on results from Phase 2 segment, followed by EP using the CELLECTRA® 2000 device on Day 0 and Day 28.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>INO-4800</intervention_name>
+    <description>INO-4800 will be administered ID on Day 0 and Day 28.</description>
+    <arm_group_label>Phase 2: INO-4800 Dose Group 1</arm_group_label>
+    <arm_group_label>Phase 2: INO-4800 Dose Group 2</arm_group_label>
+    <arm_group_label>Phase 3: INO-4800 Optimum Dose Group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>CELLECTRA® 2000</intervention_name>
+    <description>EP using the CELLECTRA® 2000 device will be administered following ID delivery of INO-4800 on Day 0 and Day 28.</description>
+    <arm_group_label>Phase 2: INO-4800 Dose Group 1</arm_group_label>
+    <arm_group_label>Phase 2: INO-4800 Dose Group 2</arm_group_label>
+    <arm_group_label>Phase 3: INO-4800 Optimum Dose Group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Sterile saline sodium citrate (SSC) buffer (SSC-0001) will be administered ID on Day 0 and Day 28.</description>
+    <arm_group_label>Phase 2: Placebo Dose Group 1</arm_group_label>
+    <arm_group_label>Phase 2: Placebo Dose Group 2</arm_group_label>
+    <arm_group_label>Phase 3: Placebo Optimum Dose Group</arm_group_label>
+    <other_name>SSC-0001</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>CELLECTRA® 2000</intervention_name>
+    <description>EP using the CELLECTRA® 2000 device will be administered following ID delivery of sterile saline sodium citrate (SSC) buffer (SSC-0001) on Day 0 and Day 28.</description>
+    <arm_group_label>Phase 2: Placebo Dose Group 1</arm_group_label>
+    <arm_group_label>Phase 2: Placebo Dose Group 2</arm_group_label>
+    <arm_group_label>Phase 3: Placebo Optimum Dose Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Key Inclusion Criteria:&#xD;
+&#xD;
+          -  Working or residing in an environment with high risk of exposure to SARS-CoV-2 for&#xD;
+             whom exposure may be relatively prolonged or for whom personal protective equipment&#xD;
+             (PPE) may be inconsistently used, especially in confined settings.&#xD;
+&#xD;
+          -  Screening laboratory results within normal limits for testing laboratory or are deemed&#xD;
+             not clinically significant by the Investigator.&#xD;
+&#xD;
+          -  Be post-menopausal or be surgically sterile or have a partner who is sterile or use&#xD;
+             medically effective contraception with a failure rate of &lt; 1% per year when used&#xD;
+             consistently and correctly from Screening until 3 months following last dose.&#xD;
+&#xD;
+        Key Exclusion Criteria:&#xD;
+&#xD;
+          -  Acute febrile illness with temperature higher than 100.4°F (38.0°C) or acute onset of&#xD;
+             upper or lower respiratory tract symptoms (e.g., cough, shortness of breath, sore&#xD;
+             throat).&#xD;
+&#xD;
+          -  Positive serologic or molecular (Reverse transcription polymerase chain reaction&#xD;
+             (RT-PCR)) test for SARS-CoV-2 at Screening.&#xD;
+&#xD;
+          -  Pregnant or breastfeeding or intending to become pregnant or intending to father&#xD;
+             children within the projected duration of the trial starting from the Screening visit&#xD;
+             until 3 months following the last dose.&#xD;
+&#xD;
+          -  Known history of uncontrolled HIV based on a CD4 count less than 200 cells per cubic&#xD;
+             millimeter (/mm^3) or a detectable viral load within the past 3 months.&#xD;
+&#xD;
+          -  Is currently participating or has participated in a study with an investigational&#xD;
+             product within 30 days preceding Day 0.&#xD;
+&#xD;
+          -  Previous receipt of an investigational vaccine for prevention or treatment of&#xD;
+             COVID-19, middle east respiratory syndrome (MERS), or severe acute respiratory&#xD;
+             syndrome (SARS) (documented receipt of placebo in previous trial would be permissible&#xD;
+             for trial eligibility).&#xD;
+&#xD;
+          -  Respiratory diseases (e.g., asthma, chronic obstructive pulmonary disease) requiring&#xD;
+             significant changes in therapy or hospitalization for worsening disease during the 6&#xD;
+             weeks prior to enrolment.&#xD;
+&#xD;
+          -  Immunosuppression as a result of underlying illness or treatment.&#xD;
+&#xD;
+          -  Lack of acceptable sites available for ID injection and EP.&#xD;
+&#xD;
+          -  Blood donation or transfusion within 1 month prior to Day 0.&#xD;
+&#xD;
+          -  Reported alcohol or substance abuse or dependence, or illicit drug use (excluding&#xD;
+             marijuana use).&#xD;
+&#xD;
+          -  Any illness or condition that in the opinion of the investigator may affect the safety&#xD;
+             of the participant or the evaluation of any study endpoint.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mammen P. Mammen Jr, M.D., FACP, FIDSA</last_name>
+    <role>Study Director</role>
+    <affiliation>Inovio Pharmaceuticals</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Inovio Call Center</last_name>
+    <phone>(267) 440-4237</phone>
+    <email>clinical.trials@inovio.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Synexus Clinical Research US, Inc - Phoenix Southeast</name>
+      <address>
+        <city>Chandler</city>
+        <state>Arizona</state>
+        <zip>85224</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Prinicipal Investigator Donna DeSantis</last_name>
+      <email>Donna.DeSantis@globalaes.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Central Phoenix Synexus Clinical Research</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85020</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Prinicipal Investigator Ernie Riffer</last_name>
+      <email>ernie.riffer@synexus-us.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>AMR Tempe</name>
+      <address>
+        <city>Tempe</city>
+        <state>Arizona</state>
+        <zip>85283</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Prinicipal Investigator Corey Anderson</last_name>
+      <email>Corey.Anderson@amrllc.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Optimal Research, LLC</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92108</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Prinicipal Investigator Patrick Yassini</last_name>
+      <email>pyassini@optimalsites.net</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>AMR South Florida</name>
+      <address>
+        <city>Coral Gables</city>
+        <state>Florida</state>
+        <zip>33134</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Prinicipal Investigator Jeffrey Rosen</last_name>
+      <email>Jeffrey.Rosen@amrllc.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Trials of Florida, Inc</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33607</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Prinicipal Investigator Sady A. Alpizar</last_name>
+      <email>s.alpizar.md@crtfi.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>AMR Lexington</name>
+      <address>
+        <city>Lexington</city>
+        <state>Kentucky</state>
+        <zip>40509</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Program Manager Ginger Switzer</last_name>
+      <email>amrlexington@amrllc.com</email>
+    </contact>
+    <investigator>
+      <last_name>Mark Adams</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Walter Reed Army Institute of Research</name>
+      <address>
+        <city>Silver Spring</city>
+        <state>Maryland</state>
+        <zip>20910</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Principal Investigator Melinda Hamer</last_name>
+      <email>usarmy.detrick.medcom-wrair.mbx.clinical-trials@mail.mil</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ascension St. John Hospital</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48236</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Prinicipal Investigator Louis Saravolatz</last_name>
+      <email>louis.saravolatz@ascension.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>AMR Kansas City</name>
+      <address>
+        <city>Kansas City</city>
+        <state>Missouri</state>
+        <zip>64114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Program Manager Barbara Bradshaw</last_name>
+      <email>clinicaltrialsKC@amrllc.com</email>
+    </contact>
+    <investigator>
+      <last_name>John Ervin</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>AMR, Clinical Research Consortium- Las Vegas</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89119</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Prinicipal Investigator Michael Jacobs</last_name>
+      <email>Michael.jacobs@amrllc.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Pennsylvania</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Program Manager Amanda Bear</last_name>
+      <email>PennCovidVaccine@pennmedicine.upenn.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Pablo Tebas</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Thomas Jefferson University</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19107</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Principal Investigator Christopher Chambers</last_name>
+      <email>Christopher.Chambers@jefferson.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Tekton Research</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78240</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Prinicipal Investigator Olutola Adetona</last_name>
+      <email>oadetona@tektonresearch.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>DM Clinical Research</name>
+      <address>
+        <city>Tomball</city>
+        <state>Texas</state>
+        <zip>77375</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Prinicipal Investigator Vickie Miller</last_name>
+      <email>drmiller@dmclinicalresearch.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Advanced Clinical Research</name>
+      <address>
+        <city>West Jordan</city>
+        <state>Utah</state>
+        <zip>84088</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Prinicipal Investigator Barbara Rizzardi</last_name>
+      <email>brizzardi@velocityclinical.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>November 23, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 23, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 24, 2020</study_first_posted>
+  <last_update_submitted>January 8, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 8, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 12, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>DNA vaccine</keyword>
+  <keyword>Electroporation</keyword>
+  <keyword>Healthy</keyword>
+  <keyword>COVID-19</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Data dictionaries and all collected IPD will be stripped of identifiers and may be made available upon request.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_time_frame>Anonymous IPD may be shared following or during the publication of summary data. Archival data may be accessed for up to 10 years following the end of the study.</ipd_time_frame>
+    <ipd_access_criteria>Those who request the anonymous IPD must provide a plan of study explaining how the data will be used. Requests may be sent to the Central Contact Person. Requests will be reviewed based on the potential for the planned use of the IPD for advancing scientific knowledge and theory.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

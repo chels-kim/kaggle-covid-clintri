@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1469">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04342182</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NL73489.078.20</org_study_id>
+    <nct_id>NCT04342182</nct_id>
+  </id_info>
+  <brief_title>Convalescent Plasma as Therapy for Covid-19 Severe SARS-CoV-2 Disease (CONCOVID Study)</brief_title>
+  <acronym>ConCoVid-19</acronym>
+  <official_title>Convalescent Plasma Therapy From Recovered Covid-19 Patients as Therapy for Hospitalized Patients With Covid-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Erasmus Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Sanquin Plasma Products BV</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Erasmus Medical Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Passive immunization with immunoglobulins is occasionally used as therapy for the treatment&#xD;
+      of viral infectious diseases. Immunoglobulins are used for the treatment of CMV disease, and&#xD;
+      is effective as prophylaxis when given soon after exposure to varicella zoster virus, rabies,&#xD;
+      and hepatitis B virus.&#xD;
+&#xD;
+      Neutralizing antibodies against MERS, SARS-CoV-1 and SARS-CoV-2 have been shown to be present&#xD;
+      in patients previously infected with MERS, SARS-CoV-1 and SARS-CoV-2 respectively. During the&#xD;
+      2003 SARS outbreak in Hong-Kong,a non-randomized study in hospitalized SARS patients showed&#xD;
+      that treatment with convalescent plasma (convP) from SARS-recovered donors significantly&#xD;
+      increased the day 22 discharge rate and decreased mortality. A study in non-human primates&#xD;
+      showed that rhesus macaques could not be re-infected with SARS-CoV-2 after primary infection.&#xD;
+&#xD;
+      With no proven effective therapy against COVID, this study will evaluate the safety and&#xD;
+      efficacy of convalescent plasma from COVID-recovered donors as a treatment for hospitalized&#xD;
+      patients with symptomatic COVID-19. The study will focus on patients who tested positive for&#xD;
+      SARS-CoV-2 in the last 96 hours before inclusion&#xD;
+&#xD;
+      Primary objectives&#xD;
+&#xD;
+      • Decrease overall mortality in patients within COVID disease&#xD;
+&#xD;
+      Study design:&#xD;
+&#xD;
+      This trial is a randomized comparative trial. Patients will be randomized between the&#xD;
+      infusion of 300mL of convP with standard of care.&#xD;
+&#xD;
+      Patient population:&#xD;
+&#xD;
+      Patients with PCR confirmed COVID disease, age &gt;18 years Donors will be included with a known&#xD;
+      history of COVID who have been asymptomatic for at least 14 days.&#xD;
+&#xD;
+      Intervention: 300mL of convP Duration of treatment: ConvP will be given as a one-time&#xD;
+      infusion Duration of follow up: For the primary endpoint: until discharge or death before day&#xD;
+      60, whichever comes first. For the secondary endpoints (with separate consent) up to 1 year.&#xD;
+&#xD;
+      Target number of patients: 426 Target number of donors: 100 Expected duration of accrural: 36&#xD;
+      months&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Secondary (exploratory) objectives&#xD;
+&#xD;
+        -  Evaluate the effect of 300ml convP on hospital stay&#xD;
+&#xD;
+        -  Evaluate the change of the 8-point WHO COVID19 disease severity scale on day 15 and 30&#xD;
+&#xD;
+        -  Evaluate the change of the 8-point WHO COVID19 disease severity scale on day 15 in the&#xD;
+           subgroup of patients with a baseline neutralizing antibody titer (PRNT50) &lt;80&#xD;
+&#xD;
+        -  Evaluate the effect of 300ml convP on mortality in patients admitted to the ICU&#xD;
+&#xD;
+        -  Evaluate the effect of 300ml plasma therapy on hospital days for patients admitted to&#xD;
+           the ICU within 24 hours after admission&#xD;
+&#xD;
+        -  Evaluate the impact of plasma therapy on the decrease in SARS-CoV2 shedding from airways&#xD;
+&#xD;
+        -  Evaluate the difference in effect of convP on mortality in patients with a duration of&#xD;
+           symptoms &lt; or &gt; the median duration of symptoms in the study population&#xD;
+&#xD;
+        -  Evaluate the impact of CTL and NK cell immunity on the likelihood of being protected&#xD;
+           from immune serum transfer&#xD;
+&#xD;
+        -  Safety of convP therapy&#xD;
+&#xD;
+        -  Evaluate the impact of covP on long-term lung function&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">April 8, 2020</start_date>
+  <completion_date type="Anticipated">July 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">July 1, 2021</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>This trial is a randomized comparative trial. Patients will be randomized between the infusion of 300mL of convP versus the standard of care.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Overall mortality until discharge from the hospital or a maximum of 60 days after admission whichever comes first</measure>
+    <time_frame>until hospital discharge or a maximum of 60 days whichever comes first</time_frame>
+    <description>the mortality in the 300ml convP group will be compared with the control arm</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Impact of 300ml convP therapy on hospital days</measure>
+    <time_frame>until hospital discharge or a maximum of 60 days whichever comes first</time_frame>
+    <description>the hospital days in the 300ml convP group will be compared with the control arm</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Impact of 300ml convP on weaning from oxygen therapy</measure>
+    <time_frame>until hospital discharge or a maximum of 60 days whichever comes first</time_frame>
+    <description>A patient will be considered weaned from oxygen therapy when the patient did not receive oxygen for at least 24 hours.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Impact of 300ml convP on overall mortality in patients admitted to the ICU within 24 hours after admission</measure>
+    <time_frame>until hospital discharge or a maximum of 60 days whichever comes first</time_frame>
+    <description>the overall mortality in hospital days in patients admitted tot the ICU within 24 hours after admission in the 300ml convP group will be compared with the patients admitted tot the ICU within 24 hours after admission in the control arm</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Difference in the effect of convP on mortality in patients with a duration of symptoms less or more the median duration of symptoms in the study population</measure>
+    <time_frame>hospital discharge or a maximum of 60 days whichever comes first</time_frame>
+    <description>The mortality in patients with a duration of symptoms less than the median duration of symptoms in the study population will be compared with the mortality in patients with a duration of symptoms more than the median duration of symptoms in the study population</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Impact of 300ml convP therapy on ICU days in patients admitted to the ICU within 24 hours after admission</measure>
+    <time_frame>Until hospital discharge, estimated average 4 weeks</time_frame>
+    <description>the ICU days in hospital days in patients admitted to the ICU within 24 hours after admission in the 300ml convP group will be compared with the patients admitted tot the ICU within 24 hours after admission in the control arm</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Impact of plasma therapy on the decrease in SARS-CoV2 shedding from airways</measure>
+    <time_frame>until hospital discharge, estimated average 2 weeks</time_frame>
+    <description>airway samples will be taken on day 1 - 3 - 5 - 7 - 10 - 14 - and at discharge</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Impact of CTL and NK cell immunity on the likelihood of being protected from immune serum transfer</measure>
+    <time_frame>until hospital discharge, extimated average 2 weeks</time_frame>
+    <description>Blood wil be drawn at day 1, day 7 and day 14</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety of convP therapy</measure>
+    <time_frame>until hospital discharge or a maximum of 60 days whichever comes first</time_frame>
+    <description>Evaluation of Severe Adverse Events and transfusion related adverse events</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change of the 8-point WHO COVID19 disease severity scale on day 15</measure>
+    <time_frame>until day 15</time_frame>
+    <description>The WHO COVID19 disease severity scale on day 15 will be compared with the WHO COVID19 disease severity scale on day 1</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change of the 8-point WHO COVID19 disease severity scale on day 30</measure>
+    <time_frame>until day 30</time_frame>
+    <description>The WHO COVID19 disease severity scale on day 30 will be compared with the WHO COVID19 disease severity scale on day 1 and day 15</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change of the 8-point WHO COVID19 disease severity scale on day 15 in the subgroup of patients with a baseline neutralizing antibody titer (PRNT50) &lt;80.</measure>
+    <time_frame>until day 15</time_frame>
+    <description>The WHO COVID19 disease severity scale on day 15 will be compared with the WHO COVID19 disease severity scale on day 1 in patients with a baseline neutralizing antibody titer (PRNT50) &lt;80.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Impact of plasma therapy on risk of long-term structural lung damage and lung function</measure>
+    <time_frame>up to 12 months after plasma transfusion</time_frame>
+    <description>Low dose CT and lung function is done 6 weeks after discharge and if abnormal again 3 months after discharge.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">426</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Convalescent plasma</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Standard of care plus 300mL of convalescent plasma from COVID-19 recovered donors</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard of care</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>standard of care (supportive care, oxygen, antibiotics)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Convalescent plasma</intervention_name>
+    <description>Infusion of plasma retrieved from donors with a history of PCR proven symptomatic COVID.&#xD;
+Plasma will be administered according to the Erasmus MC KIS protocol regarding the use of blood products</description>
+    <arm_group_label>Convalescent plasma</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients with PCR confirmed COVID disease&#xD;
+&#xD;
+          -  Admitted to the hospital&#xD;
+&#xD;
+          -  The most recent PCR positive sample is &lt;96hrs old&#xD;
+&#xD;
+          -  Written informed consent by patient or legal patient representative&#xD;
+&#xD;
+          -  Age at least 18 years&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Participation in another intervention trial on the treatment of COVID-19 that falls&#xD;
+             under the Dutch law human research (WMO) and in which individual patients are&#xD;
+             randomized to different treatment options&#xD;
+&#xD;
+          -  Known IgA deficiency&#xD;
+&#xD;
+          -  Invasive ventilation for already &gt;96 hours&#xD;
+&#xD;
+        Donors: Eligibility for plasma donation&#xD;
+&#xD;
+        Inclusions Criteria:&#xD;
+&#xD;
+          -  A history of COVID infection that was documented by PCR&#xD;
+&#xD;
+          -  Known ABO-Resus(D) blood group&#xD;
+&#xD;
+          -  A screening for irregular antibodies with a titer ≤ 1:32&#xD;
+&#xD;
+          -  Asymptomatic for at least 14 days&#xD;
+&#xD;
+          -  Written informed consent regarding the plasmapheresis procedure&#xD;
+&#xD;
+          -  Tested negative for HIV, HBV, HCV, HEV, HTLV and syfilis&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Age &lt;18 years and &gt; 65 years&#xD;
+&#xD;
+          -  Weight &lt;50kg&#xD;
+&#xD;
+          -  Medical history of heart failure&#xD;
+&#xD;
+          -  History of transfusion with red blood cells, platelets or plasma&#xD;
+&#xD;
+          -  History of organ- or tissue transplant&#xD;
+&#xD;
+          -  A cumulative stay in the United Kingdom of ≥ 6 months in the period between 01-01-1980&#xD;
+             and 31-12-1996&#xD;
+&#xD;
+          -  A history of i.v. drug use&#xD;
+&#xD;
+          -  Insulin dependent diabetes&#xD;
+&#xD;
+          -  An underlying severe chronic illness (i.e. history of heart failure, cancer or stroke)&#xD;
+&#xD;
+          -  Tested positive for HLA- or HNA-antibodies&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Bart Rijnders, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Erasmus Medical Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Erasmus Medical Center</name>
+      <address>
+        <city>Rotterdam</city>
+        <state>Zuid-Holland</state>
+        <zip>3000 CA</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NoordWest Ziekenhuisgroep</name>
+      <address>
+        <city>Alkmaar</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Onze Lieve Vrouwen Gasthuis</name>
+      <address>
+        <city>Amsterdam</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Rijnstate Ziekenhuis</name>
+      <address>
+        <city>Arnhem</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Reinier de Graaf Gasthuis</name>
+      <address>
+        <city>Delft</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Haaglanden Medisch Centrum</name>
+      <address>
+        <city>Den Haag</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Catharina Ziekenhuis</name>
+      <address>
+        <city>Eindhoven</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medisch Spectrum Twente</name>
+      <address>
+        <city>Enschede</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Groene Hart Ziekenhuis</name>
+      <address>
+        <city>Gouda</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Martini Hospital</name>
+      <address>
+        <city>Groningen</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Spaarna Gasthuis</name>
+      <address>
+        <city>Haarlem</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Alrijne Ziekenhuis</name>
+      <address>
+        <city>Leiderdorp</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sint Antonius Ziekenhuis</name>
+      <address>
+        <city>Nieuwegein</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Canisius-Wilhelmina Hospital</name>
+      <address>
+        <city>Nijmegen</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Maasstad Ziekenhuis</name>
+      <address>
+        <city>Rotterdam</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>ZorgSaam Hospital</name>
+      <address>
+        <city>Terneuzen</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bernhoven Hospital</name>
+      <address>
+        <city>Uden</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>VieCuri</name>
+      <address>
+        <city>Venlo</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Netherlands</country>
+  </location_countries>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>March 31, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 9, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 10, 2020</study_first_posted>
+  <last_update_submitted>November 13, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 13, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 16, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Erasmus Medical Center</investigator_affiliation>
+    <investigator_full_name>Bart Rijnders</investigator_full_name>
+    <investigator_title>MD, PhD</investigator_title>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

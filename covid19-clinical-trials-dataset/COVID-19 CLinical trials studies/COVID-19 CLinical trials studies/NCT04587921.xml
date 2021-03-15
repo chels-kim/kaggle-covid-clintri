@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3595">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04587921</url>
+  </required_header>
+  <id_info>
+    <org_study_id>5058/20/087</org_study_id>
+    <nct_id>NCT04587921</nct_id>
+  </id_info>
+  <brief_title>Feasibility and Impact of Remote Oximetry in Patients Hospitalized With Covid-19</brief_title>
+  <acronym>MoxiCov</acronym>
+  <official_title>Feasibility and Impact of Remote Oximetry and Cardiac Frequency Monitoring in Patients Hospitalized and Isolated With Covid-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Sao Paulo General Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Sao Paulo General Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The objective of MoxiCov is to monitor the oximetry of patients admitted to the Covid nursery&#xD;
+      to provide a more detailed assistance expecting to reduce the amount of hypoxia in these&#xD;
+      patients.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 22, 2020</start_date>
+  <completion_date type="Anticipated">June 22, 2021</completion_date>
+  <primary_completion_date type="Anticipated">January 22, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Feasibility of the system: Determination of the number of valid versus not valid or missed measurements</measure>
+    <time_frame>6 months</time_frame>
+    <description>Determination of the number of valid versus not valid or missed measurements of each participant.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Hypoxic burden</measure>
+    <time_frame>6 months</time_frame>
+    <description>Time spent with SpO2&lt; 93%, 90% and 85%</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Hypoxic alarm</measure>
+    <time_frame>6 months</time_frame>
+    <description>Number of times the oximeter record 3 consecutive measurements of SpO2&lt;90%</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Satisfaction of the nursing, medical team and patients with the implemented system</measure>
+    <time_frame>6 months</time_frame>
+    <description>Measurement of NET PROMOTING SCORE (NPS). This score will show the satisfaction of the healthcare team with the device. This score have a minimum of 0 points and maximum of 32 points.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time of SpO2&lt;90%, SpO2&lt;85% and SpO2&lt;80%</measure>
+    <time_frame>6 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of false alarms caused by malfunctions or bad oximeter positioning</measure>
+    <time_frame>6 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total hospital stay</measure>
+    <time_frame>6 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time of supplementary oxygen use</measure>
+    <time_frame>6 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality of participants</measure>
+    <time_frame>6 months</time_frame>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">90</enrollment>
+  <condition>Oximetry</condition>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Patients monitored with oximeter</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The first 45 patients will be monitored but the results will not be displayed. The second half of the patients the oximeter will have their monitoring data available online in the ward.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Digital oximeter monitoring</intervention_name>
+    <description>Digital oximeter and cardiac frequency monitoring.</description>
+    <arm_group_label>Patients monitored with oximeter</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Over 18 years old&#xD;
+&#xD;
+          -  COVID 19 positive or suspected COVID19&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Diego Prieto, Msc</last_name>
+    <phone>55 11 994385300</phone>
+    <email>diego.campos.prieto@gmail.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Fundação Zerbini - Instituto do Coração (InCor)</name>
+      <address>
+        <city>São Paulo</city>
+        <state>SP</state>
+        <zip>054039000</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Diego Prieto, Msc</last_name>
+      <phone>55 11 2661-5486</phone>
+      <email>diego.campos.prieto@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Daniel Queiróz, PhD</last_name>
+      <phone>55 11 2661-5486</phone>
+      <email>daniel.bc.queiroz@gmail.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Geraldo Lorenzi, M.D. PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Luciano Drager, M.D. PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Pedro Genta, M.D PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+  </location_countries>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>August 18, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 13, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 14, 2020</study_first_posted>
+  <last_update_submitted>October 13, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 13, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 14, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Sao Paulo General Hospital</investigator_affiliation>
+    <investigator_full_name>Geraldo Lorenzi Filho</investigator_full_name>
+    <investigator_title>Associate Professor/PI</investigator_title>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

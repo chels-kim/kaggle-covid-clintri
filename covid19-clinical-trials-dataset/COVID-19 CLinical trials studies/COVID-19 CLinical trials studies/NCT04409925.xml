@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2271">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04409925</url>
+  </required_header>
+  <id_info>
+    <org_study_id>DISCONNECT-1</org_study_id>
+    <nct_id>NCT04409925</nct_id>
+  </id_info>
+  <brief_title>DISmantling COvid iNduced Neutrophil ExtraCellular Traps (DISCONNECT-1)</brief_title>
+  <acronym>DISCONNECT-1</acronym>
+  <official_title>Phase I Pilot Study Investigating the Safety and Feasibility of Inhaled rhDNase1 and Its Impact on Neutrophil Extracellular Traps (NETs) in Non-Ventilated COVID-19 Infected Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>McGill University Health Centre/Research Institute of the McGill University Health Centre</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Hamilton Health Sciences Corporation</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hoffmann-La Roche</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Exactis Innovation</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>McGill University Health Centre/Research Institute of the McGill University Health Centre</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a pilot study to investigate the safety and feasibility of rhDNase1 and its impact on&#xD;
+      neutrophil extracellular traps (NETs) in COVID-19 infected patients.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      It has been reported that elevated numbers of neutrophils (PMNs) in the blood predicts poor&#xD;
+      outcomes and severity in patients with COVID-19 infections. Acute inflammation results in&#xD;
+      formation of neutrophil extracellular traps (NETs) by PMNs and NK cells. Pre-clinical studies&#xD;
+      showed that NETs are critically involved in the pathophysiology of ARDS and increased&#xD;
+      capacity of PMNs to form NETs was shown to correlated with increased severity and mortality&#xD;
+      in patients with ARDS after community-acquired pneumonia. In early reports, patients with&#xD;
+      severe COVID-19 infections were also found to have radiological and clinical findings of&#xD;
+      Acute Respiratory Distress Syndrome (ARDS). NETs can be degraded by DNase1 for which there is&#xD;
+      a human recombinant equivalent rhDNase1.&#xD;
+&#xD;
+      This study proposes:&#xD;
+&#xD;
+        1. to evaluate the safety and feasibility of inhaled rhDNase1 in severely ill COVID-19&#xD;
+           patients requiring admission;&#xD;
+&#xD;
+        2. to evaluate the impact of rhDNase1 in limiting progression of disease and COVID-19&#xD;
+           related complications in these patients;&#xD;
+&#xD;
+        3. and to investigate NETs as possible therapeutic targets in severe COVID-19 patients by&#xD;
+           quantifying levels of circulating NETs in the blood and sputum and correlating these&#xD;
+           with oxygen requirements, need for mechanical ventilation, duration of mechanical&#xD;
+           ventilation, radiological progression of ARDS, secondary bacterial infections&#xD;
+           (pneumonia, bacteremia and other), renal dysfunction, duration of ICU admission, and&#xD;
+           time to discharge or mortality.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 25, 2020</start_date>
+  <completion_date type="Anticipated">August 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Safety of inhaled rhDNase1 in non-ventilated COVID-19 patients by reporting of adverse events</measure>
+    <time_frame>9 months</time_frame>
+    <description>Rate of all adverse events, rate of serious adverse events, rate of grade 3/4/5 adverse events, rate of drug-related adverse events.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to first study participant enrolment</measure>
+    <time_frame>Up to 2 weeks</time_frame>
+    <description>Time elapsed between the study opening date and the first patient enrolment date.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Enrolment rate</measure>
+    <time_frame>Up to 9 months</time_frame>
+    <description>Number of patients enrolled per week following the start of the study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Eligible patient consent rate</measure>
+    <time_frame>Up to 9 months</time_frame>
+    <description>Number of patients meeting eligibility through inclusion and exclusion criteria that are consented and enrolled into the study, as compared to the total number of patients meeting criteria (enrolled and non-enrolled).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Completeness of drug delivery</measure>
+    <time_frame>Up to 9 months</time_frame>
+    <description>Percentage of doses missed compared to completed, including reasons for missed doses, per patient.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Completeness of study-specific tests or procedures</measure>
+    <time_frame>Up to 9 months</time_frame>
+    <description>Percentage of tests or procedures missed compared to completed, per patient.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Completeness of data collection</measure>
+    <time_frame>Up to 9 months</time_frame>
+    <description>Percentage of missed data compared to completed data, per patient.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hypoxia rate</measure>
+    <time_frame>Up to 9 months</time_frame>
+    <description>Extent of hypoxia rate is defined as the number of patients requiring supplemental oxygen, categorized by type of oxygen requirement.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Supplemental oxygen requirement type</measure>
+    <time_frame>Up to 9 months</time_frame>
+    <description>Type of oxygen in FiO2 requirements needed by each patient in the study, if applicable.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression to mechanical ventilation rate</measure>
+    <time_frame>Up to 9 months</time_frame>
+    <description>Number of patients progressing to requiring intubation and mechanical ventilation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of mechanical ventilation</measure>
+    <time_frame>Up to 9 months</time_frame>
+    <description>Duration in days, for patients requiring intubation and mechanical ventilation, if applicable.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Radiological progression</measure>
+    <time_frame>Up to 9 months</time_frame>
+    <description>Number of patients who show progression on imaging suggestive of ARDS such as bilateral lung involvement, as reviewed by study's thoracic radiologist.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Renal dysfunction rate</measure>
+    <time_frame>Up to 9 months</time_frame>
+    <description>Number of patients with renal dysfunction, classified by stage (1, 2 or 3).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Renal dysfunction extent</measure>
+    <time_frame>Up to 9 months</time_frame>
+    <description>Extent of change in creatinine from baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Secondary bacterial infections rate</measure>
+    <time_frame>Up to 9 months</time_frame>
+    <description>Number of patients contracting secondary bacterial infections (pneumonia, bacteremia and other).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of ICU admission</measure>
+    <time_frame>Up to 9 months</time_frame>
+    <description>In days, length of stay in the ICU.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to hospital discharge or in-hospital mortality</measure>
+    <time_frame>Up to 9 months</time_frame>
+    <description>Time elapsed between enrolment into the study (at admission), and endpoint (discharge from ICU or in-hospital mortality).</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Exploratory: NET quantification in blood, correlated to COVID-19 disease severity and complications.</measure>
+    <time_frame>Up to 9 months</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Exploratory: Blood clotting and fibrinolysis assays, correlated to COVID-19 disease severity and complications.</measure>
+    <time_frame>Up to 9 months</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Exploratory: Cytokine profile alterations in blood, correlated to COVID-19 disease severity and complications</measure>
+    <time_frame>Up to 9 months</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Exploratory: Neutrophil RNA sequencing in blood, correlated to COVID-19 disease severity and complications</measure>
+    <time_frame>Up to 9 months</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Length of PCR positivity</measure>
+    <time_frame>Up to 9 months</time_frame>
+    <description>Defined as number of days between first positive PCR test and last positive PCR test, usually done by nasopharyngeal swabs. Tests will be performed as mandated by standard of care only.</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">25</enrollment>
+  <condition>COVID-19 Infection</condition>
+  <arm_group>
+    <arm_group_label>rhDNase1 (Pulmozyme, Roche/Genentech)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Single Arm: rhDNase1 (Pulmozyme, Roche/Genentech) 2.5 mg inhaled nebulisations BID, for a maximum of 14 consecutive days.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>rhDNase I</intervention_name>
+    <description>Inhaled nebulisations</description>
+    <arm_group_label>rhDNase1 (Pulmozyme, Roche/Genentech)</arm_group_label>
+    <other_name>Pulmozyme</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion criteria&#xD;
+&#xD;
+          1. Verbal informed consent by patient (or legal representative), done in the presence of&#xD;
+             an impartial witness. The consent is signed by the Principal Investigator (or&#xD;
+             Co-Investigator) and the impartial witness.&#xD;
+&#xD;
+          2. Participants who are at least 18 years of age on the day of consenting to the informed&#xD;
+             consent&#xD;
+&#xD;
+          3. COVID-19 (SARS-CoV2) positive test by nasopharyngeal swab&#xD;
+&#xD;
+          4. Admitted to the ICU in negative pressure rooms&#xD;
+&#xD;
+          5. Mild to severe respiratory illness (defined as requiring admission* and/or&#xD;
+             supplemental oxygen), not intubated or on mechanical ventilation at screening and&#xD;
+             enrolment.&#xD;
+&#xD;
+               -  Admission respiratory criteria (1 of the following):&#xD;
+&#xD;
+                    1. Dyspnea at rest or during minimal activity (sitting, talking, coughing,&#xD;
+                       swallowing);&#xD;
+&#xD;
+                    2. Respiratory rate &gt; 22/minute;&#xD;
+&#xD;
+                    3. PaO2 &lt; 65mmHg or oxygen saturation &lt; 90% or PaO2/FiO2 ratio of less than 300&#xD;
+&#xD;
+                    4. Infiltrate on CXR (or worsening CXR, if baseline CXR at admission was&#xD;
+                       already abnormal)&#xD;
+&#xD;
+               -  Mild disease with hospitalization:&#xD;
+&#xD;
+                    -  No oxygen therapy;&#xD;
+&#xD;
+                    -  Oxygen by mask or nasal prongs.&#xD;
+&#xD;
+               -  Severe disease with hospitalization (requiring greater than 40% oxygen):&#xD;
+&#xD;
+                    -  Oxygen by non-invasive ventilation or high flow oxygen/Optiflow.&#xD;
+&#xD;
+        Exclusion criteria:&#xD;
+&#xD;
+          1. Patients requiring mechanical ventilation at screening&#xD;
+&#xD;
+          2. Previous or current treatment with rhDNase1&#xD;
+&#xD;
+          3. Ongoing experimental treatment with other inhaled therapies through COVID-19-related&#xD;
+             clinical trials&#xD;
+&#xD;
+          4. Known hypersensitivity to NET inhibitor or recombinant protein products&#xD;
+&#xD;
+          5. Known hypersensitivity to Chinese Hamster Ovary cell products or any component of the&#xD;
+             product&#xD;
+&#xD;
+          6. Known history of immunodeficiency, HBV, HCV, HIV (Note: No HBV, HCV or HIV testing is&#xD;
+             required unless mandated by local health authority)&#xD;
+&#xD;
+          7. Known history of immunosuppressive disorders, such as primary/secondary&#xD;
+             immunodeficiencies, lymphoproliferative diseases&#xD;
+&#xD;
+          8. Active pregnancy at any stage or lactation&#xD;
+&#xD;
+          9. Patients deemed incapable and/or incompetent&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jonathan Spicer, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>McGill University Health Centre/Research Institute of the McGill University Health Centre</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Aya Siblini, MSc</last_name>
+    <phone>514-934-1934</phone>
+    <phone_ext>44327</phone_ext>
+    <email>aya.siblini@muhc.mcgill.ca</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Caroline Huynh, MD</last_name>
+    <phone>514-934-1934</phone>
+    <phone_ext>44327</phone_ext>
+    <email>caroline.huynh@mail.mcgill.ca</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Hamilton General Hospital, Hamilton Health Sciences</name>
+      <address>
+        <city>Hamilton</city>
+        <state>Ontario</state>
+        <zip>L8L 2X2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alison Fox-Robichaud, MD MSc</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>McGill University Health Centre</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H4A 3J1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jonathan Spicer, MD PhD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>May 13, 2020</study_first_submitted>
+  <study_first_submitted_qc>May 28, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">June 1, 2020</study_first_posted>
+  <last_update_submitted>January 20, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 20, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 22, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>McGill University Health Centre/Research Institute of the McGill University Health Centre</investigator_affiliation>
+    <investigator_full_name>Jonathan Spicer</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Neutrophil Extracellular Traps</keyword>
+  <keyword>NETs</keyword>
+  <keyword>Neutrophils</keyword>
+  <keyword>rhDNase1</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

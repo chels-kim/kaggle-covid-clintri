@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="450">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04615000</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BC-08104</org_study_id>
+    <nct_id>NCT04615000</nct_id>
+  </id_info>
+  <brief_title>SeroCovid&lt;19: A Prospective Covid-19 Seroconversion Study in a Tertiary Pediatric Patient Cohort</brief_title>
+  <official_title>SeroCovid&lt;19: A Prospective Covid-19 Seroconversion Study in a Tertiary Pediatric Patient Cohort</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Ghent</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University Ghent</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University Hospital, Ghent</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Children and adolescents seem to be relatively spared from severe SARS-CoV-2 infection.&#xD;
+      Throughout the course of the COVID-19 pandemic, these findings were confirmed with, for&#xD;
+      example, also in Belgium only 1.8% of the confirmed infections, 1.6% of the hospitalizations&#xD;
+      in intensive care, and 0.011% of the deaths from COVID-19 attributed to children by the end&#xD;
+      of May 2020 (Epistat - Sciensano). Multiple immunological hypotheses (ACE2 expression,&#xD;
+      lymphocyte repertoire, cross immunization) have been suggested without one clear explanation&#xD;
+      to date (Brodin, P. Acta Paediatr. Mar 2020; Ruggiero, A et al. Acta Paediatr. Apr 2020). In&#xD;
+      addition, children seem to play a limited role in the spread of the virus and are not&#xD;
+      considered the &quot;engine of the epidemic&quot;.&#xD;
+&#xD;
+      Population seroconversion studies have been initiated with the determination of antibodies to&#xD;
+      SARS-CoV-2. For Belgium, seroconversion rates were estimated at around 2.1% at the end of&#xD;
+      March, 4.3% in mid-April, 6% at the beginning of May and 6.9% at the end of May 2020,&#xD;
+      comparable to international studies. However, even with these prospective studies, it&#xD;
+      remained unclear whether the seroconversion rate in children is comparable to adults. In&#xD;
+      addition, it has not yet been demonstrated whether the mild course and limited&#xD;
+      hospitalizations in children are related to either a mild course or (in part) also to a lack&#xD;
+      of exposure to SARS-CoV-2 and therefore limited seroconversion in children.&#xD;
+&#xD;
+      With this study we aim to monitor both the presence of antibodies (serology) in children with&#xD;
+      chronic disease, followed in a tertiary hospital in Belgium, combined with the registration&#xD;
+      of the clinical course of COVID-19 in this population. In addition, we want to correlate the&#xD;
+      social activities with the risk of exposure to the virus and subsequent seroconversion. Blood&#xD;
+      samples for serology are performed at a 3- to 6-month interval, linked to an already planned&#xD;
+      blood sample for diagnostic reasons. This data will allow to gain more insight into the&#xD;
+      actual rate of infection and the symptoms caused by COVID-19 in children with a chronic&#xD;
+      disease, on the one hand, and, on the other hand, how the social behavior, limited by the&#xD;
+      lockdown measures or after its progressive relaxation, affects seroconversion in these&#xD;
+      pediatric populations. These data may or may not confirm current hypotheses about infection&#xD;
+      rate and clinic severity and will also influence current and future policies such as closing&#xD;
+      schools and defining at-risk populations.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 29, 2020</start_date>
+  <completion_date type="Anticipated">November 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">November 1, 2021</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>18 Months</target_duration>
+  <primary_outcome>
+    <measure>Seroconversion rate of children with chronic conditions followed in a tertiary centre</measure>
+    <time_frame>12-18 months</time_frame>
+    <description>Prospective follow-up of the COVID-19 seroconversion rate (serum IgG) of children with chronic conditions followed in a tertiary centre</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Epidemiological and social determinants of SARS-CoV-2 infection risk in children with chronic conditions</measure>
+    <time_frame>12-18 months</time_frame>
+    <description>Questionnaire assessment of the epidemiological (household, school,... infections) and social determinants (school, daycare, sport participation,...) of SARS-CoV-2 infection risk in children with chronic conditions</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical manifestations of COVID-19 in children with chronic conditions</measure>
+    <time_frame>12-18 months</time_frame>
+    <description>Questionnaire assessment of COVID-19 associated symptoms in the subcohort of patients with seroconversion</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">1000</enrollment>
+  <condition>Covid19</condition>
+  <condition>Children, Only</condition>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>SARS-CoV-2 serological assessment (IgG)</intervention_name>
+    <description>Periodic assessment of the serology status (SARS-CoV-2 specific IgG) with a 3 to 6 month interval</description>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      serum samples&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        -  children &lt;18 years of age&#xD;
+&#xD;
+          -  a clearly defined chronic condition requiring follow-up at the tertiary pediatric&#xD;
+             hospital of the Ghent University Hospital&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  children &lt;18 years of age&#xD;
+&#xD;
+          -  a clearly defined chronic condition requiring follow-up at the tertiary pediatric&#xD;
+             hospital of the Ghent University Hospital&#xD;
+&#xD;
+          -  routine blood sampling planned per 3 to 6 months&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  no clear diagnosis or reason for follow-up at the Ghent University Hospital&#xD;
+&#xD;
+          -  no routine blood sampling planned&#xD;
+&#xD;
+          -  unable to understand or provide informed consent&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>18 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Filomeen Haerynck, MD, PhD</last_name>
+    <phone>093323581</phone>
+    <email>filomeen.haerynck@uzgent.be</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Levi Hoste, MD</last_name>
+    <phone>093323581</phone>
+    <email>levi.hoste@uzgent.be</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Ghent University Hospital</name>
+      <address>
+        <city>Ghent</city>
+        <zip>9000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Filomeen Haerynck, MD, PhD</last_name>
+      <phone>093323581</phone>
+      <email>filomeen.haerynck@uzgent.be</email>
+    </contact>
+    <contact_backup>
+      <last_name>Levi Hoste, MD</last_name>
+      <phone>093323581</phone>
+      <email>levi.hoste@uzgent.be</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+  </location_countries>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>November 3, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 3, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 4, 2020</study_first_posted>
+  <last_update_submitted>November 3, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 3, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 4, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

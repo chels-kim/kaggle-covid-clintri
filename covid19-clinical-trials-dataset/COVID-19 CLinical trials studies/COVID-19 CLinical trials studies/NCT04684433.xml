@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1612">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04684433</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CHUB-Farid</org_study_id>
+    <nct_id>NCT04684433</nct_id>
+  </id_info>
+  <brief_title>Surgery in the Time of COVID-19 Pandemic</brief_title>
+  <official_title>Surgery in the Time of COVID-19 Pandemic</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Brugmann University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Brugmann University Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The ongoing coronavirus disease 2019 (COVID-19) which started in China, was declared on the&#xD;
+      11th of March as a global pandemic 2020 by the World Health Organization (WHO).&#xD;
+&#xD;
+      Governments around the world have introduced differing forms of lock downs since the start of&#xD;
+      the pandemic demanding citizens to confine to their homes and go out only in necessity to&#xD;
+      minimize exposure to the virus. The response was observed in the emergency departments and&#xD;
+      the number of patients who presented for non-Covid issues drastically reduced.&#xD;
+&#xD;
+      Hospitals activated their mass casualty management plans and have reorganized and&#xD;
+      overstretched their capacity to be able to absorb both the influx of patients with the virus&#xD;
+      and those with other conditions.&#xD;
+&#xD;
+      Part of that reorganization was reducing the surgical activity. The main focus was shifted to&#xD;
+      patients who are considered urgent and elective surgery were postponed. Hence only surgical&#xD;
+      emergencies were maintained. Many did not present to the emergency department for fear to&#xD;
+      contract the virus and from a sense of national and global solidarity against that pandemic.&#xD;
+&#xD;
+      Whereas these measures are essential to prevent the spread of the virus, it may be&#xD;
+      hypothesized that for non-Covid issues, including surgical emergencies, patients may present&#xD;
+      late to the emergency department due to fear of contracting the infection in hospital. This&#xD;
+      would delay their management and lead to a worsened symptomology on presentation requiring a&#xD;
+      more complex surgical intervention with an increased complication profile.&#xD;
+&#xD;
+      The investigators present initial data from four major hospitals in Belgium, characterizing&#xD;
+      surgical emergencies that were managed since the start of the pandemic and discuss the&#xD;
+      repercussion the pandemic has on management of urgent surgical patients and most likely&#xD;
+      evolution of surgery after the pandemic.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 14, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2020</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Surgery code</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Type of surgery as defined by the surgery code</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Urgency</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Degree of urgency of the surgery</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Type of anesthesia</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Type of anesthesia</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Delay between surgery and first symptoms</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Delay between surgery and first symptoms</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Surgery duration</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Surgery duration (anesthesia included)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Hospital stay (in days)</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Hospital stay (in days)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Intensive care unit stay (in days)</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Intensive care unit stay (in days)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Post-op complications</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Post-op complications</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Covid status before surgery</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Covid status before surgery (positive=1, negative=0 )</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Covid status post-surgery</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Covid status post-op (positive=1, negative=0 )</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>COVID19 Diagnosis by CT scan</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>COVID19 Diagnosis confirmed by CT scan of the thorax (Yes=1, No=0)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>COVID19 Diagnosis by swab test</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>COVID19 Diagnosis by swab test (Yes=1, No=0)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>COVID 19 Diagnosis by antibody test</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>COVID 19 Diagnosis by antibody test (Yes=1, No=0)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>COVID19 symptoms - dry cough</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>dry cough (Yes=1, No=0)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>COVID19 symptoms - fever</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>fever (Yes=1, No=0)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>COVID19 symptoms - myalgia</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>myalgia (Yes=1, No=0)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>COVID19 symptoms - anosmia</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>anosmia (Yes=1, No=0)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>COVID19 symptoms -respiratory distress</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>respiratory distress (Yes=1, No=0)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Treatment for COVID19 - Plaquenil</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Plaquenil (Yes=1, No=0)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Treatment for COVID19 - Antivirals</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Antivirals (Yes=1, No=0)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Need for intubation</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Need for intubation (Yes=1, No=0)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Death</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Mortality (Yes=1, No=0)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Age</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Patient age</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Gender</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Patient gender</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ethnicity</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Patient ethnicity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>BMI</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Patient Body Mass Index</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Comorbidities</measure>
+    <time_frame>5 minutes</time_frame>
+    <description>Patient comorbidities</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">707</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Surgical intervention</arm_group_label>
+    <description>Patients who had a surgical procedure since the start of the lockdown in Belgium due to the COVID19 pandemic (16 of March 2020 to the 12 of April 2020.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Data extraction from medical files</intervention_name>
+    <description>Data extraction from medical files</description>
+    <arm_group_label>Surgical intervention</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All the patient that have benefited of a surgical intervention since the start of the&#xD;
+        COVID19 pandemic in Belgium and specifically the 16 th of March 2020 (lock down) to 12 of&#xD;
+        april 2020. The involved hospitals are: Brugmann hospital, UZ Brussel Hospital, Erasme&#xD;
+        Hospital and Saint Pierre Hospital.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Patients who had a surgical procedure since the start of the lock down in Belgium due to&#xD;
+        the COVID19 pandemic (16 of March 2020 to the 12 of April 2020).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        None&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Yasser Farid</last_name>
+    <role>Study Director</role>
+    <affiliation>CHU Brugmann</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Yasser Farid</last_name>
+    <phone>3224772344</phone>
+    <email>yasser4500@gmail.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>St Pierre</name>
+      <address>
+        <city>Brussels</city>
+        <zip>1000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mattia Bez</last_name>
+      <email>dr.mattia.bez@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <phone>0032 2 535 32 73</phone>
+    </contact_backup>
+    <investigator>
+      <last_name>Mattia Bez</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Brugmann</name>
+      <address>
+        <city>Brussels</city>
+        <zip>1020</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yasser Farid, MD</last_name>
+      <phone>322495255255</phone>
+      <email>yasser4500@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Yasser Farid</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Erasme</name>
+      <address>
+        <city>Brussels</city>
+        <zip>1070</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michela Schettino</last_name>
+      <phone>32493761884</phone>
+      <email>michelaschettino@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Michela Schettino</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>UZ Brussel</name>
+      <address>
+        <city>Brussel</city>
+        <zip>1090</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ayush Kapila</last_name>
+      <phone>322477463218</phone>
+      <email>Ayush.Kapila@uzbrussel.be</email>
+    </contact>
+    <investigator>
+      <last_name>Ayush Kapila</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>December 23, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 23, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 24, 2020</study_first_posted>
+  <last_update_submitted>December 28, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 28, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 29, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Brugmann University Hospital</investigator_affiliation>
+    <investigator_full_name>Pierre Wauthy</investigator_full_name>
+    <investigator_title>Medical Director</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

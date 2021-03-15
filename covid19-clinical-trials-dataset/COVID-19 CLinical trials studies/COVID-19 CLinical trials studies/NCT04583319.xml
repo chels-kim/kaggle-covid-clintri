@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3433">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04583319</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ST0194</org_study_id>
+    <nct_id>NCT04583319</nct_id>
+  </id_info>
+  <brief_title>Validation of a Rapid, Non-invasive Point-of-care IVD Test for Diagnosis of SARS-COV-2 (COVID-19) Infection</brief_title>
+  <acronym>EasyCov</acronym>
+  <official_title>A Prospective, Non-interventional Study for Validation of a Rapid, Non-invasive IVD as a Point-of-care Test for Diagnosis of SARS-COV-2 Infection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Firalis SA</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Istanbul University, Istanbul Faculty of Medicine</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Firalis SA</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A prospective non-interventional study to evaluate the performance of EASYCOV IVD as&#xD;
+      point-of-care (POC) test by comparing SARS-CoV-2 positive patients with SARS-CoV-2 negative&#xD;
+      controls on paired specimens (nasopharyngeal swabs &amp; saliva samples).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      A prospective non-interventional study to evaluate the performance of EASYCOV IVD as&#xD;
+      point-of-care (POC) test by comparing SARS-CoV-2 positive patients with SARS-CoV-2 negative&#xD;
+      controls on paired specimens (nasopharyngeal swabs &amp; saliva samples).&#xD;
+&#xD;
+      The operators performing the diagnostic tests will be blinded from the RT-PCR results (i.e.&#xD;
+      participant's group will be anonymized). Participants who have been tested by an&#xD;
+      routineTurkish MOH and FDA EUA approved RT-PCR test using nasopharyngeal swabs will be&#xD;
+      included in the study to perform the EASYCOV IVD tests in a POC setting.&#xD;
+&#xD;
+      Primary Objective:&#xD;
+&#xD;
+      • To evaluate the performance of EasyCov IVD as a point-of-care (POC) test performed on&#xD;
+      saliva samples for the diagnosis of SARS-CoV-2 infection by comparing it to a Turkish MOH and&#xD;
+      FDA EUA approved RT-PCR test performed on nasopharyngeal samples.&#xD;
+&#xD;
+      Secondary Objectives:&#xD;
+&#xD;
+      • Collection and storage of saliva samples, nasopharyngeal swabs at D0 to perform future&#xD;
+      COVID-19 related research projects and validation of future generations of EASYCOV assays as&#xD;
+      well as exploratory studies to find candidate biomarkers for Covid-19.&#xD;
+&#xD;
+      160 participants will be included in 1:1 ratio: 80 SARS-CoV-2 positive and 80 SARS-CoV-2&#xD;
+      negative by a Turkish MOH and FDA approved RT-PCR IVD test&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">October 2020</start_date>
+  <completion_date type="Anticipated">March 2021</completion_date>
+  <primary_completion_date type="Anticipated">November 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Positive percent agreement (PPA)</measure>
+    <time_frame>1 month</time_frame>
+    <description>A positive percent agreement (PPA) of EASYCOV PoC assay will be corroborated with the routine Turkish MOH and FDA approved reference method RT-PCR using nasopharyngeal samples.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Performance</measure>
+    <time_frame>1 month</time_frame>
+    <description>The performance (accuracy, sensitivity, specificity, positive predictive value, negative predictive value) of EASYCOV POC assay will be evaluated compared to the routine Turkish MOH and FDA approved RT-PCR method using nasopharyngeal samples.</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">160</enrollment>
+  <condition>SARS-CoV</condition>
+  <arm_group>
+    <arm_group_label>SARS-CoV-2 Positive</arm_group_label>
+    <description>patients tested positive for SARS-CoV-2 by routine Turkish MOH and FDA approved RT-PCR IVD test.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>SARS-CoV-2 Negative</arm_group_label>
+    <description>participants tested negative for SARS-CoV-2 by routine Turkish MOH and FDA approved RT-PCR IVD test.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>EasyCov POC</intervention_name>
+    <description>Saliva samples will be collected according to the sampling protocol defined each for EASYCOV test. The EasyCoV test will be performed at the beginning of the study before obtaining the routine RT- PCR test results. The operators performing this test will be blinded from the routine RT-PCR results.</description>
+    <arm_group_label>SARS-CoV-2 Negative</arm_group_label>
+    <arm_group_label>SARS-CoV-2 Positive</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Saliva samples of Subjects will be collected in a FDA approved collection device&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Recruitment will be carried out on patients suspected to have contracted COVID-19 and to be&#xD;
+        screened by RT-PCR test, according to decision of her/his physician. These patients are&#xD;
+        routinely screened by a Turkish MOH and FDA approved RT-PCR test for COVID-19 and will be&#xD;
+        allocated to SARS-COV-2 Positive or Control group based on results obtained from RT-PCR.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Non-specific inclusion criteria:&#xD;
+&#xD;
+          1. Participant aged 18 and above&#xD;
+&#xD;
+          2. Participant agreeing to follow the study procedures&#xD;
+&#xD;
+          3. Participant able to understand the purpose, nature and methodology of the study&#xD;
+&#xD;
+          4. Participant having signed the informed consent&#xD;
+&#xD;
+        Specific inclusion criteria:&#xD;
+&#xD;
+        SARS-COV-2 positive patients - Participants tested positive for the SARS-COV-2 by the&#xD;
+        routine Turkish MOH and FDA approved RT-PCR method.&#xD;
+&#xD;
+        SARS-COV-2 negative controls&#xD;
+&#xD;
+        - Participants tested negative for the SARS-COV-2 by the routine Turkish MOH and FDA&#xD;
+        approved RT-PCR method.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Minors, persons deprived of their liberty, protected adults or vulnerable persons.&#xD;
+&#xD;
+          -  Refusal to sign the consent.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Arif Atahan, Prof.MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Istanbul University Istanbul Faculty of Medicine (ITF), Turkey</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Rodwell Mkhwananzi, MD</last_name>
+    <phone>+33 38 99 11 328</phone>
+    <email>rodwell.mkhwananzi@firalis.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Stéphanie Boutillier, PhD</last_name>
+    <email>stephanie.boutillier@amoneta-diagnostics.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Istanbul University Istanbul Faculty of Medicine (ITF)</name>
+      <address>
+        <city>Istanbul</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Selçuk Şen</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Turkey</country>
+  </location_countries>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>September 30, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 9, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 12, 2020</study_first_posted>
+  <last_update_submitted>October 19, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 19, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 20, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>SARS Coronavirus</keyword>
+  <keyword>Coronavirus</keyword>
+  <keyword>Covid-19</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

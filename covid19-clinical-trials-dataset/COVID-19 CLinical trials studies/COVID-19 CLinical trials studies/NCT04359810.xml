@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="447">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04359810</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AAAS9924</org_study_id>
+    <nct_id>NCT04359810</nct_id>
+  </id_info>
+  <brief_title>Plasma Therapy of COVID-19 in Severely Ill Patients</brief_title>
+  <official_title>A Phase 2, Multi-Center, Randomized Clinical Trial to Evaluate the Efficacy and Safety of Human Anti-SARS-CoV-2 Convalescent Plasma in Severely Ill Adults With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Max R. O'Donnell</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>New York Blood Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Amazon.com, Inc.</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Columbia University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This randomized blinded multi-center phase 2 trial will assess the efficacy and safety of&#xD;
+      anti-SARS-CoV-2 convalescent plasma among adults with severe COVID-19. Adults ≥18 years of&#xD;
+      age may participate. A total of 219 eligible subjects will be randomized in a 2:1 ratio to&#xD;
+      receive either high-titer anti-SARS-CoV-2 plasma or non-convalescent fresh frozen plasma&#xD;
+      (control plasma).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      There are few effective therapies for coronavirus disease 2019 (COVID-19) associated with&#xD;
+      severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection. Exposure to viruses&#xD;
+      results in an adaptive immune response that commonly include antibodies with neutralization&#xD;
+      activity. Plasma from subjects who have recovered from viral infections has been used to both&#xD;
+      prevent or treat disease. Notable examples of the successful use of convalescent plasma (CP)&#xD;
+      include influenza, measles, Argentine hemorrhagic fever, Middle East respiratory syndrome&#xD;
+      (MERS), Ebola and severe acute respiratory syndrome (SARS-CoV). Small clinical trials and&#xD;
+      observational studies of CP therapy in patients with COVID-19 have suggested a possible&#xD;
+      clinical benefit.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 21, 2020</start_date>
+  <completion_date type="Anticipated">April 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>A total of 219 eligible subjects will be randomized in a 2:1 ratio to receive either convalescent plasma qualitatively positive for SARS-CoV-2 antibody (anti-SARS-CoV-2 plasma) or non-convalescent fresh frozen plasma (control plasma).</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Day 28 severity outcome</measure>
+    <time_frame>Up to 28 days</time_frame>
+    <description>Compare the day 28 severity outcome amongst the anti-SARS-CoV-2 convalescent plasma and non-convalescent plasma groups using a 7-point ordinal scale of clinical status.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of SARS-CoV-2 PCR Positivity</measure>
+    <time_frame>Up to 14 days</time_frame>
+    <description>Compare the proportion and duration of SARS-CoV-2 PCR positivity (via RT-PCR) amongst the anti-SARS-CoV-2 convalescent plasma and non-convalescent plasma groups at days 0, 7, and 14.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Levels of SARS-CoV-2 RNA</measure>
+    <time_frame>Up to 14 days</time_frame>
+    <description>Compare levels of SARS-CoV-2 RNA amongst the anti-SARS-CoV-2 convalescent plasma and non-convalescent plasma groups at days 0, 7, and 14.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Need for Supplemental Oxygen</measure>
+    <time_frame>Up to 28 days</time_frame>
+    <description>Compare duration of need for supplemental oxygen and/or mechanical ventilation amongst the anti-SARS-CoV-2 convalescent plasma and non-convalescent plasma groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Hospitalization</measure>
+    <time_frame>Up to 28 days</time_frame>
+    <description>Compare duration of hospitalization amongst the anti-SARS-CoV-2 convalescent plasma and non-convalescent plasma groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>In-hospital and 28-day mortality</measure>
+    <time_frame>Up to 28 days</time_frame>
+    <description>Compare in-hospital and 28-day mortality amongst the anti-SARS-CoV-2 convalescent plasma and non-convalescent plasma groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time-to-clinical improvement in-hospital</measure>
+    <time_frame>Up to 28 days</time_frame>
+    <description>Compare time-to-clinical improvement in-hospital amongst the anti-SARS-CoV-2 convalescent plasma and non-convalescent plasma groups, defined as the time to either an improvement of one point on a 7-point ordinal scale of clinical status or alive discharge from the hospital, whichever comes first.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Host genetic differences at day 0</measure>
+    <time_frame>Day 0</time_frame>
+    <description>To assess for host genetic differences at Day 0 amongst the anti-SARS-CoV-2 convalescent plasma and non-convalescent plasma groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Host transcriptomic differences at days 0,7,14</measure>
+    <time_frame>Up to 14 days</time_frame>
+    <description>To assess for host transcriptomic differences at Day 0,7,14 amongst the anti-SARS-CoV-2 convalescent plasma and non-convalescent plasma groups.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">219</enrollment>
+  <condition>SARS-CoV-2 Infection</condition>
+  <arm_group>
+    <arm_group_label>Convalescent Plasma (anti-SARS-CoV-2 plasma)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Convalescent plasma (1 unit; ~200-250 mL) collected from a volunteer who recovered from COVID-19 disease</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Non-convalescent Plasma (control plasma)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Non-convalescent plasma (1 unit; ~200-250 mL) of standard plasma collected prior to December 2019</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Convalescent Plasma (anti-SARS-CoV-2 plasma)</intervention_name>
+    <description>Convalescent Plasma that contains antibody titers against SARS-CoV-2</description>
+    <arm_group_label>Convalescent Plasma (anti-SARS-CoV-2 plasma)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Non-convalescent Plasma (control plasma)</intervention_name>
+    <description>Non-convalescent plasma (does not contain antibody titers against SARS-CoV-2)</description>
+    <arm_group_label>Non-convalescent Plasma (control plasma)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Willing and able to provide written informed consent prior to performing study&#xD;
+             procedures or have a legally authorized representative available to do so.&#xD;
+&#xD;
+          -  Age ≥18 years&#xD;
+&#xD;
+          -  Evidence of SARS-CoV-2 infection by PCR test of naso-/oro-pharyngeal swab or tracheal&#xD;
+             aspirate sample within 14 days of randomization&#xD;
+&#xD;
+          -  Peripheral capillary oxygen saturation (SpO2) ≤ 94% on room air or requiring&#xD;
+             supplemental oxygen, non-invasive or invasive mechanical ventilation at screening&#xD;
+&#xD;
+          -  Evidence of infiltrates on chest radiography&#xD;
+&#xD;
+          -  Females of childbearing age and males, must be willing to practice an effective&#xD;
+             contraceptive method or remain abstinent during the study period.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Participation in another clinical trial of anti-viral agent(s) for COVID-19&#xD;
+&#xD;
+          -  Receipt of any anti-viral agent(s) with possible activity against SARS-CoV-2 &lt;24 hours&#xD;
+             prior to study drug administration [1]&#xD;
+&#xD;
+          -  Mechanically ventilated (including veno-venous (VV)-ECMO) ≥ 5 days&#xD;
+&#xD;
+          -  Severe multi-organ failure&#xD;
+&#xD;
+          -  History of prior reactions to transfusion blood products meeting definitive case&#xD;
+             definition criteria, at least severe severity, and probable or definite imputability&#xD;
+             per National Healthcare Safety Network (NHSN)/Centers for Disease Control and&#xD;
+             Prevention (CDC) criteria&#xD;
+&#xD;
+          -  Known Immunoglobulin A (IgA) deficiency&#xD;
+&#xD;
+          -  Females who are pregnant&#xD;
+&#xD;
+               1. Use of remdesivir as treatment for COVID-19 is permitted.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Max O'Donnell, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Columbia University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Max O'Donnell, MD</last_name>
+    <phone>212-305-5794</phone>
+    <email>mo2130@cumc.columbia.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Andrew Eisenberger, MD</last_name>
+    <phone>212-305-0983</phone>
+    <email>abe6@cumc.columbia.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Columbia University Irving Medical Center/NYP</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Max O'Donnell, MD</last_name>
+      <phone>212-305-5794</phone>
+      <email>mo2130@cumc.columbia.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Walter I. Lipkin, MD</last_name>
+      <phone>646-361-2525</phone>
+      <email>wil2001@cumc.columbia.edu</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Federal dos Servidores do Estado</name>
+      <address>
+        <city>Rio De Janeiro</city>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Esaú João, MD, PhD</last_name>
+      <email>esaujoao@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Geral de Nova Iguaçu</name>
+      <address>
+        <city>Rio De Janeiro</city>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>José Henrique Pilotto, MD, PhD</last_name>
+      <email>jhpilotto@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto Nacional de Infectologia Evandro Chagas</name>
+      <address>
+        <city>Rio De Janeiro</city>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Beatriz Grinsztejn, MD, PhD</last_name>
+      <email>beatriz.grinsztejn@gmail.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Arabi YM, Hajeer AH, Luke T, Raviprakash K, Balkhy H, Johani S, Al-Dawood A, Al-Qahtani S, Al-Omari A, Al-Hameed F, Hayden FG, Fowler R, Bouchama A, Shindo N, Al-Khairy K, Carson G, Taha Y, Sadat M, Alahmadi M. Feasibility of Using Convalescent Plasma Immunotherapy for MERS-CoV Infection, Saudi Arabia. Emerg Infect Dis. 2016 Sep;22(9):1554-61. doi: 10.3201/eid2209.151164.</citation>
+    <PMID>27532807</PMID>
+  </reference>
+  <reference>
+    <citation>Austin PC, Fine JP. Practical recommendations for reporting Fine-Gray model analyses for competing risk data. Stat Med. 2017 Nov 30;36(27):4391-4400. doi: 10.1002/sim.7501. Epub 2017 Sep 15.</citation>
+    <PMID>28913837</PMID>
+  </reference>
+  <reference>
+    <citation>Casadevall A, Scharff MD. Serum therapy revisited: animal models of infection and development of passive antibody therapy. Antimicrob Agents Chemother. 1994 Aug;38(8):1695-702. Review.</citation>
+    <PMID>7985997</PMID>
+  </reference>
+  <reference>
+    <citation>Cheng Y, Wong R, Soo YO, Wong WS, Lee CK, Ng MH, Chan P, Wong KC, Leung CB, Cheng G. Use of convalescent plasma therapy in SARS patients in Hong Kong. Eur J Clin Microbiol Infect Dis. 2005 Jan;24(1):44-6.</citation>
+    <PMID>15616839</PMID>
+  </reference>
+  <reference>
+    <citation>Li L, Zhang W, Hu Y, Tong X, Zheng S, Yang J, Kong Y, Ren L, Wei Q, Mei H, Hu C, Tao C, Yang R, Wang J, Yu Y, Guo Y, Wu X, Xu Z, Zeng L, Xiong N, Chen L, Wang J, Man N, Liu Y, Xu H, Deng E, Zhang X, Li C, Wang C, Su S, Zhang L, Wang J, Wu Y, Liu Z. Effect of Convalescent Plasma Therapy on Time to Clinical Improvement in Patients With Severe and Life-threatening COVID-19: A Randomized Clinical Trial. JAMA. 2020 Aug 4;324(5):460-470. doi: 10.1001/jama.2020.10044. Erratum in: JAMA. 2020 Aug 4;324(5):519.</citation>
+    <PMID>32492084</PMID>
+  </reference>
+  <reference>
+    <citation>Shen C, Wang Z, Zhao F, Yang Y, Li J, Yuan J, Wang F, Li D, Yang M, Xing L, Wei J, Xiao H, Yang Y, Qu J, Qing L, Chen L, Xu Z, Peng L, Li Y, Zheng H, Chen F, Huang K, Jiang Y, Liu D, Zhang Z, Liu Y, Liu L. Treatment of 5 Critically Ill Patients With COVID-19 With Convalescent Plasma. JAMA. 2020 Apr 28;323(16):1582-1589. doi: 10.1001/jama.2020.4783.</citation>
+    <PMID>32219428</PMID>
+  </reference>
+  <reference>
+    <citation>Liu STH, Lin HM, Baine I, Wajnberg A, Gumprecht JP, Rahman F, Rodriguez D, Tandon P, Bassily-Marcus A, Bander J, Sanky C, Dupper A, Zheng A, Nguyen FT, Amanat F, Stadlbauer D, Altman DR, Chen BK, Krammer F, Mendu DR, Firpo-Betancourt A, Levin MA, Bagiella E, Casadevall A, Cordon-Cardo C, Jhang JS, Arinsburg SA, Reich DL, Aberg JA, Bouvier NM. Convalescent plasma treatment of severe COVID-19: a propensity score-matched control study. Nat Med. 2020 Nov;26(11):1708-1713. doi: 10.1038/s41591-020-1088-9. Epub 2020 Sep 15.</citation>
+    <PMID>32934372</PMID>
+  </reference>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>April 21, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 21, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 24, 2020</study_first_posted>
+  <last_update_submitted>November 12, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 12, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 13, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Columbia University</investigator_affiliation>
+    <investigator_full_name>Max R. O'Donnell</investigator_full_name>
+    <investigator_title>Florence Irving Associate Professor of Medicine and Epidemiology</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>COVID</keyword>
+  <keyword>Coronavirus</keyword>
+  <keyword>Convalescent plasma</keyword>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>The data-sharing plans for this study will be made available at a later date.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

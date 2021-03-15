@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3202">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04652674</url>
+  </required_header>
+  <id_info>
+    <org_study_id>STUDY00000944</org_study_id>
+    <nct_id>NCT04652674</nct_id>
+  </id_info>
+  <brief_title>Impact of Postoperative Telemedicine Visit vs In-person Visit on Patient Satisfaction During the COVID-19 Pandemic: A Prospective Randomized Trial</brief_title>
+  <official_title>Impact of Postoperative Telemedicine Visit vs In-person Visit on Patient Satisfaction During the COVID-19 Pandemic: A Prospective Randomized Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Cedars-Sinai Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Cedars-Sinai Medical Center</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this clinical study is to evaluate whether remote video/audio postoperative&#xD;
+      visits (telemedicine visits) affects patient satisfaction compared to in-person visits during&#xD;
+      the COVID-19 pandemic. If the primary objective of the study is achieved, it would allow&#xD;
+      better understanding of how telemedicine can be integrated into modern surgical practice to&#xD;
+      take care of postoperative patients.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 28, 2020</start_date>
+  <completion_date type="Anticipated">June 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Patient satisfaction</measure>
+    <time_frame>7 to 14 days postoperatively</time_frame>
+    <description>Patient satisfaction score measured by electronic survey sent to all participating patients after their first postoperative visit</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Safety score</measure>
+    <time_frame>7 to 14 days postoperatively</time_frame>
+    <description>Patient-reported safety score rated from 1 to 5</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of visit</measure>
+    <time_frame>7 to 14 days postoperatively</time_frame>
+    <description>Length of postoperative visit</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient willingness to recommend provider to peers rated from 1 to 5</measure>
+    <time_frame>7 to 14 days postoperatively</time_frame>
+    <description>Patient willingness to recommend provider to peers rated from 1 to 5</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Combined patient satisfaction score from 1st and 2nd postoperative visits</measure>
+    <time_frame>7 to 31 days postoperatively</time_frame>
+    <description>Combined patient satisfaction score from 1st and 2nd postoperative visits</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Distance (in kilometers) of patient's primary residence to the clinic location</measure>
+    <time_frame>7 to 31 days postoperatively</time_frame>
+    <description>Distance (in kilometers) of patient's primary residence to the clinic location</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">70</enrollment>
+  <condition>Covid19</condition>
+  <condition>Satisfaction, Patient</condition>
+  <condition>Telemedicine</condition>
+  <arm_group>
+    <arm_group_label>Group I</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients who will undergo telemedicine visit approximately 1 week postoperatively, then an in-person clinic visit approximately 4 weeks postoperatively</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group II</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients who will undergo in-person clinic visit approximately 1 week postoperatively, then a telemedicine visit approximately 4 weeks postoperatively</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Telemedicine visit</intervention_name>
+    <description>A postoperative visit with the patient's surgeon conducted remotely via audio/video smartphone app</description>
+    <arm_group_label>Group I</arm_group_label>
+    <other_name>Remote audio/video visit, telehealth visit</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>In-person postoperative visit</intervention_name>
+    <description>A standard-of-care in-person postoperatively visit with the patient's surgeon</description>
+    <arm_group_label>Group II</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Patients over 18 years of age inclusive at the time of the study who underwent&#xD;
+             colorectal surgery and are presenting for their first postoperative visit&#xD;
+&#xD;
+          2. Patients with a computer or phone device with video and audio capabilities&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Children &lt;18 years of age&#xD;
+&#xD;
+          2. Patients with mental disability&#xD;
+&#xD;
+          3. Patients without a computer or phone device with video and audio capabilities&#xD;
+&#xD;
+          4. Patients who require physical intervention during their first postoperative visit&#xD;
+             (e.g. drain removal, suture removal, staple removal)&#xD;
+&#xD;
+          5. Patients who are readmitted to the hospital prior to their first postoperative visit&#xD;
+             will be excluded.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Karen Zaghiyan, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Associate Professor of Surgery</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Lucille Yao, MD</last_name>
+    <phone>310-289-9224</phone>
+    <email>lucille.yao@cshs.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Karen Zaghiyan, MD</last_name>
+    <phone>310-289-9224</phone>
+    <email>karen.zaghiyan@cshs.org</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Cedars Sinai Medical Center</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90048</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lucille Yao, MD</last_name>
+      <phone>310-289-9224</phone>
+      <email>lucille.yao@cshs.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Karen Zaghiyan, MD</last_name>
+      <phone>310-289-9224</phone>
+      <email>karen.zaghiyan@cshs.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Phillip Fleshner, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Karen Zaghiyan, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Lucille Yao, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://www.sealedenvelope.com/power/binary-noninferior/</url>
+    <description>Sealed Envelope tool for randomization</description>
+  </link>
+  <reference>
+    <citation>Grenda TR, Whang S, Evans NR 3rd. Transitioning a Surgery Practice to Telehealth During COVID-19. Ann Surg. 2020 Aug;272(2):e168-e169. doi: 10.1097/SLA.0000000000004008.</citation>
+    <PMID>32675529</PMID>
+  </reference>
+  <reference>
+    <citation>Gunter RL, Chouinard S, Fernandes-Taylor S, Wiseman JT, Clarkson S, Bennett K, Greenberg CC, Kent KC. Current Use of Telemedicine for Post-Discharge Surgical Care: A Systematic Review. J Am Coll Surg. 2016 May;222(5):915-27. doi: 10.1016/j.jamcollsurg.2016.01.062. Epub 2016 Feb 13. Review.</citation>
+    <PMID>27016900</PMID>
+  </reference>
+  <reference>
+    <citation>Huang EY, Knight S, Guetter CR, Davis CH, Moller M, Slama E, Crandall M. Telemedicine and telementoring in the surgical specialties: A narrative review. Am J Surg. 2019 Oct;218(4):760-766. doi: 10.1016/j.amjsurg.2019.07.018. Epub 2019 Jul 18. Review.</citation>
+    <PMID>31350010</PMID>
+  </reference>
+  <reference>
+    <citation>Hakim AA, Kellish AS, Atabek U, Spitz FR, Hong YK. Implications for the use of telehealth in surgical patients during the COVID-19 pandemic. Am J Surg. 2020 Jul;220(1):48-49. doi: 10.1016/j.amjsurg.2020.04.026. Epub 2020 Apr 21.</citation>
+    <PMID>32336519</PMID>
+  </reference>
+  <reference>
+    <citation>Hwa K, Wren SM. Telehealth follow-up in lieu of postoperative clinic visit for ambulatory surgery: results of a pilot program. JAMA Surg. 2013 Sep;148(9):823-7. doi: 10.1001/jamasurg.2013.2672.</citation>
+    <PMID>23842982</PMID>
+  </reference>
+  <reference>
+    <citation>Mann DM, Chen J, Chunara R, Testa PA, Nov O. COVID-19 transforms health care through telemedicine: Evidence from the field. J Am Med Inform Assoc. 2020 Jul 1;27(7):1132-1135. doi: 10.1093/jamia/ocaa072.</citation>
+    <PMID>32324855</PMID>
+  </reference>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>December 2, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 2, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 3, 2020</study_first_posted>
+  <last_update_submitted>December 2, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 2, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 3, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Cedars-Sinai Medical Center</investigator_affiliation>
+    <investigator_full_name>Karen Zaghiyan</investigator_full_name>
+    <investigator_title>Associate Professor of Surgery</investigator_title>
+  </responsible_party>
+  <keyword>Covid19</keyword>
+  <keyword>Patient satisfaction</keyword>
+  <keyword>Telemedicine</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

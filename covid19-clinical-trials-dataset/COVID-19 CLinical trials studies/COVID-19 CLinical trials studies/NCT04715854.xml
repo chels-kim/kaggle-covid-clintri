@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4579">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04715854</url>
+  </required_header>
+  <id_info>
+    <org_study_id>lmcondorcet</org_study_id>
+    <nct_id>NCT04715854</nct_id>
+  </id_info>
+  <brief_title>Effect on paO2 of Adding an Aerosol Mask Above the Nasal Canulas</brief_title>
+  <official_title>Comparison of the Addition of an Aerosol Mask Above Nasal Canula on Oxygenation in Hypoxemic Failure</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Laboratory of Movement, Condorcet, Tournai, Belgium</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Laboratory of Movement, Condorcet, Tournai, Belgium</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will compare the impact of a classical aerosol mask above low-flow nasal cannula&#xD;
+      on the arterial oxygen tension in patients with COVID-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Hospitalized patients with COVID-19 typically present with hypoxemia. In some patients,&#xD;
+      hypoxemia can be corrected with low flow nasal cannula. When placed above nasal cannula, some&#xD;
+      systems have demonstrated their interest in improving the performance of the patient's oxygen&#xD;
+      delivery. For example, two recent studies have shown that adding a Double-Trunk Mask (DTM) or&#xD;
+      Surgical Mask (SM) above nasal cannula has the potential to improve the PaO2 despite no&#xD;
+      change in oxygen output (1, 2) . However, no study has compared the effect on PaO2, of the&#xD;
+      addition of a classical aerosol mask above nasal canula.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 15, 2021</start_date>
+  <completion_date type="Anticipated">July 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 1, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <intervention_model_description>One group will receive oxygen by classical nasal cannula. The second group will receive oxygen by aerosol mask associated with the nasal cannula. Afterward, the sequence will be inverted.</intervention_model_description>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in PaO2 and PaCO2</measure>
+    <time_frame>30 minutes</time_frame>
+    <description>Changes in PaO2 [ Time Frame: At baseline and 30 minutes after wearing the randomized oxygen delivery system ] Oxygen tension (PaO2) in mmHg will be analyzed from a sample taken from the arterial system</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Respiratory frequency</measure>
+    <time_frame>1 minute</time_frame>
+    <description>Change in respiratory rate [ Time Frame: At baseline, 30 minutes and 60 minutes after wearing the randomized oxygen delivery system ] Respiratory frequency is measured during one minute by visual inspection</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">15</enrollment>
+  <condition>Hypoxemic Respiratory Failure</condition>
+  <condition>Emergencies</condition>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Nasal canula (flexicare)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients will receive oxygen by classical nasal cannula</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Intersurgical aerosol mask with one hole closed by tape</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients will receive oxygen by classical nasal cannula associated with an aerosol mask partially closed (one lateral hole of the face mask closed by tape)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Intersurgical aerosol mask</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients will receive oxygen by classical nasal cannula associated with an aerosol mask</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Mask</intervention_name>
+    <description>addition of the mask above the nasal cannulas</description>
+    <arm_group_label>Intersurgical aerosol mask</arm_group_label>
+    <arm_group_label>Intersurgical aerosol mask with one hole closed by tape</arm_group_label>
+    <arm_group_label>Nasal canula (flexicare)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Hypoxemia&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Hypercapnia&#xD;
+&#xD;
+        Confusion&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Epicura</name>
+      <address>
+        <city>Hornu</city>
+        <state>Hainaut</state>
+        <zip>7301</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>frédéric Duprez</last_name>
+      <phone>0475857104</phone>
+      <email>frederic.duprez@condorcet.be</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>January 3, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 16, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 20, 2021</study_first_posted>
+  <last_update_submitted>January 16, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 16, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 20, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Laboratory of Movement, Condorcet, Tournai, Belgium</investigator_affiliation>
+    <investigator_full_name>frédéric Duprez</investigator_full_name>
+    <investigator_title>Deputy director, clinician, laboratory of movement Condorcet Belgium</investigator_title>
+  </responsible_party>
+  <keyword>mask, oxygen</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Insufficiency</mesh_term>
+    <mesh_term>Emergencies</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

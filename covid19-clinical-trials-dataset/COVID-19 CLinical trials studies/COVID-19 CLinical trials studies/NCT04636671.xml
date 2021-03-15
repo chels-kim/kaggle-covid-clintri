@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3438">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04636671</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MEDEAS1</org_study_id>
+    <nct_id>NCT04636671</nct_id>
+  </id_info>
+  <brief_title>Methylprednisolone vs. Dexamethasone in COVID-19 Pneumonia (MEDEAS RCT)</brief_title>
+  <acronym>MEDEAS</acronym>
+  <official_title>Randomized Controlled Trial of Methylprednisolone Versus Dexamethasone in COVID-19 Pneumonia (MEDEAS Trial)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Trieste</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Centro di Riferimento Oncologico - Aviano</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institute for the Infectious Diseases (L. Spallanzani) - Rome</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Trieste</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Low-dose glucocorticoid treatment is the only intervention shown to significantly reduce&#xD;
+      mortality in cases of COVID-19 pneumonia requiring oxygen supplementation or ventilatory&#xD;
+      support. In particular, a large UK randomized controlled trial (RECOVERY trial) demonstrated&#xD;
+      the efficacy of dexamethasone at a dosage of 6mg/day for 10 days in reducing mortality&#xD;
+      compared to usual therapy, with a greater impact on patients requiring mechanical ventilation&#xD;
+      (36% reduction) or oxygen therapy (18% reduction) than on those who did not need respiratory&#xD;
+      support (doi: 10.1056/NEJMoa2021436). However, there is still paucity of information guiding&#xD;
+      glucocorticoid administration in severe pneumonia/ARDS and no evidence of the superiority of&#xD;
+      a steroid drug -nor of a therapeutic scheme- compared to the others, which led to a great&#xD;
+      heterogeneity of treatment protocols and misinterpretation of available findings. In a recent&#xD;
+      longitudinal observational study conducted in Italian respiratory high-dependency units, a&#xD;
+      protocol with prolonged low-dose methylprednisolone demonstrated a 71% reduction in mortality&#xD;
+      and the achievement of other secondary endpoints such as an increase in ventilation-free days&#xD;
+      by study day 28 in a subgroup of patients with severe pneumonia and high levels of systemic&#xD;
+      inflammation (doi: 10.1093/ofid/ofaa421). The treatment was well tolerated and did not affect&#xD;
+      viral shedding from the airways. In light of these data, the present study aims to compare&#xD;
+      the efficacy of a methylprednisolone protocol and that of a dexamethasone protocol based on&#xD;
+      previous evidence in increasing survival by day 28, as well as in reducing the need and&#xD;
+      duration for mechanical ventilation, among hospitalized patients requiring noninvasive&#xD;
+      respiratory support (oxygen supplementation and/or noninvasive ventilation).&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 25, 2020</start_date>
+  <completion_date type="Anticipated">April 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">March 31, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Open-label, randomized controlled trial</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Survival</measure>
+    <time_frame>28 days</time_frame>
+    <description>Survival proportion at 28 days in both arms</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Reduction in the need for mechanical ventilation</measure>
+    <time_frame>28 days</time_frame>
+    <description>Number of days free from mechanical ventilation (either noninvasive or invasive) by study day 28 in both arms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of hospitalization</measure>
+    <time_frame>From date of randomization until the date of hospital discharge, assessed up to 60 days</time_frame>
+    <description>Number of days of hospitalization for patients discharged alive in both arms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Need for tracheostomy</measure>
+    <time_frame>Day 28</time_frame>
+    <description>Proportion of patients requiring tracheostomy in both arms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Reduction in systemic inflammation markers</measure>
+    <time_frame>Day 3, 7 and 14</time_frame>
+    <description>C-reactive protein level (mg/L) at study day 3, 7 and 14 in both arms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Amelioration of oxygenation</measure>
+    <time_frame>Day 3, 7 and 14</time_frame>
+    <description>PaO2/FiO2 ratio (mmHg) at study day 3, 7 and 14 in both arms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease progression</measure>
+    <time_frame>Day 3, 7 and 14</time_frame>
+    <description>WHO clinical progression scale at study day 3, 7 and 14 in both arms</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">680</enrollment>
+  <condition>Covid19</condition>
+  <condition>Viral Pneumonia Human Coronavirus</condition>
+  <condition>Severe Acute Respiratory Syndrome</condition>
+  <arm_group>
+    <arm_group_label>Methylprednisolone</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>A. On day 1, loading dose of methylprednisolone (MP) 80 mg IV in 30 minutes, promptly followed by continuous infusion of MP 80 mg/day in 240 mL of normal saline at 10 mL/h.&#xD;
+B. From day 2 to day 8: infusion of MP 80 mg/day in 240 mL of normal saline at 10 mL/h.&#xD;
+C. From day 9 and beyond:&#xD;
+If not intubated patient and PaO2/FiO2 &gt; 200, taper to MP 20 mg IV in 30 minutes three times a day for 3 days, then MP 20 mg IV twice daily for 3 days, then MP 20 mg IV once daily for 2 days, then switch to MP 16 mg/day PO for 2 days, then MP 8mg/day PO for 2 days, then MP 4mg/day PO for 2 days;&#xD;
+If intubated patient or PaO2/FiO2 &lt;= 200 with at least 5 cmH2O CPAP, continue infusion of MP 80 mg/day in 240 mL of normal saline at 10 mL/h until PaO2/FiO2 &gt; 200 then taper as in a)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Dexamethasone</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>A. Dexamethasone (DM) 6 mg IV in 30 minutes or PO from day 1 to day 10 or until hospital discharge (if sooner).&#xD;
+B. After day 10 study treatment is interrupted.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Methylprednisolone</intervention_name>
+    <description>Per-protocol methylprednisolone administration and tapering (see arm description)</description>
+    <arm_group_label>Methylprednisolone</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Dexamethasone</intervention_name>
+    <description>Per-protocol dexamethasone administration (see arm description)</description>
+    <arm_group_label>Dexamethasone</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Able to understand and sign the informed consent&#xD;
+&#xD;
+          2. SARS-CoV-2 positive on at least one upper respiratory swab or bronchoalveolar lavage&#xD;
+&#xD;
+          3. PaO2 &lt;= 60 mmHg or SpO2 &lt;= 90% or on HFNC, CPAP or NPPV at randomization&#xD;
+&#xD;
+          4. Age &gt;= 18 years old at randomization&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. On invasive mechanical ventilation (either intubated or tracheostomized)&#xD;
+&#xD;
+          2. Heart failure as the main cause of acute respiratory failure&#xD;
+&#xD;
+          3. On long-term oxygen or home mechanical ventilation&#xD;
+&#xD;
+          4. Decompensated liver cirrhosis&#xD;
+&#xD;
+          5. Immunosuppression (i.e., cancer on treatment, post-organ transplantation,&#xD;
+             HIV-positive, on immunosuppressant therapy)&#xD;
+&#xD;
+          6. Chronic renal failure with dialysis dependence&#xD;
+&#xD;
+          7. Progressive neuro-muscular disorders&#xD;
+&#xD;
+          8. Cognitively impaired, dementia or decompensated psychiatric disorder&#xD;
+&#xD;
+          9. Quadriplegia/Hemiplegia or quadriparesis/hemiparesis&#xD;
+&#xD;
+         10. Do-not-resuscitate order&#xD;
+&#xD;
+         11. Previous or current use of Remdesivir&#xD;
+&#xD;
+         12. Participating in other clinical trial including experimental compound with proved or&#xD;
+             expected activity against SARS-CoV-2 infection&#xD;
+&#xD;
+         13. Any other condition that in the opinion of the investigator may significantly impact&#xD;
+             with patient's capability to comply with protocol intervention&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Marco Confalonieri, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Trieste</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Marco Confalonieri, MD</last_name>
+    <phone>+390403994667</phone>
+    <email>mconfalonieri@units.it</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Francesco Salton, MD</last_name>
+    <phone>+390403994667</phone>
+    <email>francesco.salton@gmail.com</email>
+  </overall_contact_backup>
+  <reference>
+    <citation>RECOVERY Collaborative Group, Horby P, Lim WS, Emberson JR, Mafham M, Bell JL, Linsell L, Staplin N, Brightling C, Ustianowski A, Elmahi E, Prudon B, Green C, Felton T, Chadwick D, Rege K, Fegan C, Chappell LC, Faust SN, Jaki T, Jeffery K, Montgomery A, Rowan K, Juszczak E, Baillie JK, Haynes R, Landray MJ. Dexamethasone in Hospitalized Patients with Covid-19 - Preliminary Report. N Engl J Med. 2020 Jul 17. doi: 10.1056/NEJMoa2021436. [Epub ahead of print]</citation>
+    <PMID>32678530</PMID>
+  </reference>
+  <reference>
+    <citation>Arabi YM, Chrousos GP, Meduri GU. The ten reasons why corticosteroid therapy reduces mortality in severe COVID-19. Intensive Care Med. 2020 Nov;46(11):2067-2070. doi: 10.1007/s00134-020-06223-y. Epub 2020 Oct 7.</citation>
+    <PMID>33026460</PMID>
+  </reference>
+  <reference>
+    <citation>WHO Rapid Evidence Appraisal for COVID-19 Therapies (REACT) Working Group, Sterne JAC, Murthy S, Diaz JV, Slutsky AS, Villar J, Angus DC, Annane D, Azevedo LCP, Berwanger O, Cavalcanti AB, Dequin PF, Du B, Emberson J, Fisher D, Giraudeau B, Gordon AC, Granholm A, Green C, Haynes R, Heming N, Higgins JPT, Horby P, Jüni P, Landray MJ, Le Gouge A, Leclerc M, Lim WS, Machado FR, McArthur C, Meziani F, Møller MH, Perner A, Petersen MW, Savovic J, Tomazini B, Veiga VC, Webb S, Marshall JC. Association Between Administration of Systemic Corticosteroids and Mortality Among Critically Ill Patients With COVID-19: A Meta-analysis. JAMA. 2020 Oct 6;324(13):1330-1341. doi: 10.1001/jama.2020.17023.</citation>
+    <PMID>32876694</PMID>
+  </reference>
+  <reference>
+    <citation>Meduri GU, Annane D, Confalonieri M, Chrousos GP, Rochwerg B, Busby A, Ruaro B, Meibohm B. Pharmacological principles guiding prolonged glucocorticoid treatment in ARDS. Intensive Care Med. 2020 Dec;46(12):2284-2296. doi: 10.1007/s00134-020-06289-8. Epub 2020 Nov 4. Review.</citation>
+    <PMID>33150472</PMID>
+  </reference>
+  <reference>
+    <citation>Salton F, Confalonieri P, Meduri GU, Santus P, Harari S, Scala R, Lanini S, Vertui V, Oggionni T, Caminati A, Patruno V, Tamburrini M, Scartabellati A, Parati M, Villani M, Radovanovic D, Tomassetti S, Ravaglia C, Poletti V, Vianello A, Gaccione AT, Guidelli L, Raccanelli R, Lucernoni P, Lacedonia D, Foschino Barbaro MP, Centanni S, Mondoni M, Davì M, Fantin A, Cao X, Torelli L, Zucchetto A, Montico M, Casarin A, Romagnoli M, Gasparini S, Bonifazi M, D'Agaro P, Marcello A, Licastro D, Ruaro B, Volpe MC, Umberger R, Confalonieri M. Prolonged Low-Dose Methylprednisolone in Patients With Severe COVID-19 Pneumonia. Open Forum Infect Dis. 2020 Sep 12;7(10):ofaa421. doi: 10.1093/ofid/ofaa421. eCollection 2020 Oct.</citation>
+    <PMID>33072814</PMID>
+  </reference>
+  <reference>
+    <citation>WHO Working Group on the Clinical Characterisation and Management of COVID-19 infection. A minimal common outcome measure set for COVID-19 clinical research. Lancet Infect Dis. 2020 Aug;20(8):e192-e197. doi: 10.1016/S1473-3099(20)30483-7. Epub 2020 Jun 12. Review. Erratum in: Lancet Infect Dis. 2020 Oct;20(10):e250.</citation>
+    <PMID>32539990</PMID>
+  </reference>
+  <reference>
+    <citation>Dimairo M, Pallmann P, Wason J, Todd S, Jaki T, Julious SA, Mander AP, Weir CJ, Koenig F, Walton MK, Nicholl JP, Coates E, Biggs K, Hamasaki T, Proschan MA, Scott JA, Ando Y, Hind D, Altman DG; ACE Consensus Group. The Adaptive designs CONSORT Extension (ACE) statement: a checklist with explanation and elaboration guideline for reporting randomised trials that use an adaptive design. BMJ. 2020 Jun 17;369:m115. doi: 10.1136/bmj.m115.</citation>
+    <PMID>32554564</PMID>
+  </reference>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>November 18, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 18, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 19, 2020</study_first_posted>
+  <last_update_submitted>November 18, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 18, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 19, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Trieste</investigator_affiliation>
+    <investigator_full_name>Confalonieri Marco, MD</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>Methylprednisolone</keyword>
+  <keyword>Dexamethasone</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>Pneumonia</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+    <mesh_term>Pneumonia, Viral</mesh_term>
+    <mesh_term>Pneumonia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dexamethasone</mesh_term>
+    <mesh_term>Methylprednisolone</mesh_term>
+    <mesh_term>Methylprednisolone Acetate</mesh_term>
+    <mesh_term>Methylprednisolone Hemisuccinate</mesh_term>
+    <mesh_term>Prednisolone</mesh_term>
+    <mesh_term>Prednisolone acetate</mesh_term>
+    <mesh_term>Prednisolone hemisuccinate</mesh_term>
+    <mesh_term>Prednisolone phosphate</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Individual participant data that underlie the results of this study after deidentification, as well as study protocol, statistical analysis plan, informed consent form, clinical study report and analytic code will be made available to Researchers who provide a written proposal for their purposes. Proposals must be submitted to the study PI or co-PI up to 36 months following article publication. Requestors must sign a data access agreement.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>36 months following article publication</ipd_time_frame>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

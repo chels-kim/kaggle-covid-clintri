@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4682">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04538495</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CER-1602-34473</org_study_id>
+    <nct_id>NCT04538495</nct_id>
+  </id_info>
+  <brief_title>Characterization of Multisystem Inflammatory Syndrome in Children (MIS-C) and Its Relationship to Kawasaki Disease</brief_title>
+  <official_title>Characterization of Multisystem Inflammatory Syndrome in Children (MIS-C) and Its Relationship to Kawasaki Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of California, San Diego</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of California, San Diego</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Beginning in mid-March 2020, pediatricians in communities in Western Europe, the UK, and the&#xD;
+      Eastern U.S. that had been severely affected by the Covid-19 pandemic noted an increased&#xD;
+      number of children presenting with fever and evidence of severe inflammation who required&#xD;
+      admission to intensive care. The syndrome was branded by the CDC in the U.S. as Multisystem&#xD;
+      Inflammatory Syndrome in Children (MIS-C). The most severely affected children presented with&#xD;
+      heart failure leading to shock and the absence of significant pulmonary disease. The clinical&#xD;
+      presentation in these patients shared many features with Kawasaki disease (KD), a&#xD;
+      self-limited pediatric vasculitis that can result in coronary artery aneurysms.The&#xD;
+      inflammatory markers, however, were much higher even than KD shock syndrome, a variant of KD&#xD;
+      presenting with distributive shock and requiring inotropic and vasoactive support in the ICU.&#xD;
+      Some patients were polymerase chain reaction (PCR)+ for SARS-CoV-2 while most were&#xD;
+      virus-negative but had detectable antibody suggesting that MIS-C was an immune-mediated&#xD;
+      reaction to antecedent exposure to the virus. While patients were being diagnosed with shock&#xD;
+      and MIS-C, children with a milder version of MIS-C that shared many features of KD were being&#xD;
+      diagnosed in these same regions.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Clinical characterization (Burns, Tremoulet, Sivilay, Roberts, Jain): Over the 8 months of&#xD;
+      enrollment funded by this supplement, 30 sites will collect data on KD and MIS-C patients&#xD;
+      using the detailed case report form in our REDCap database. This includes data on patient&#xD;
+      demographics, clinical presentation, laboratory data, treatments, clinical outcomes, and&#xD;
+      cardiovascular outcomes on all KD and MIS-C patients so that the investigators can develop a&#xD;
+      systematic picture of the different patient groups (see details below).&#xD;
+&#xD;
+      Parent observations (Kim): To learn about signs and symptoms in the patient and family&#xD;
+      members leading up to acute presentation a parent questionnaire will be devised and analyzed&#xD;
+      by Dr. Katherine Kim with the Patient and Parent Advisory Board. The investigators will&#xD;
+      collect known signs and symptoms as well as those that may not have been previously reported&#xD;
+      in the literature and record presence/absence, location in the body, and severity level by&#xD;
+      day. The questionnaire will be available as a mobile/web application and via paper. With&#xD;
+      these data, the investigators will conduct an exploratory analysis to characterize symptom&#xD;
+      phenotypes and the relationships of these profiles with demographic features and clinical&#xD;
+      characteristics. In addition, the investigators will assess whether we can detect differences&#xD;
+      between the symptom phenotypes of KD and MIS-C. The investigators will conduct cluster&#xD;
+      analysis to identify symptom phenotypes from aggregate symptom observations blinded as to&#xD;
+      presumed or verified diagnosis (n=100 with each sign/symptom on each day as a distinct data&#xD;
+      point). Phenotypes may include characteristics such as symptoms that co-occur or are&#xD;
+      independent, and symptom burden index (e.g., number symptoms present). The investigators will&#xD;
+      use Ward's hierarchical cluster analysis to estimate the number of likely clusters.3 The&#xD;
+      investigators will apply K-means nonhierarchical cluster analysis repeated 100 times in a&#xD;
+      leave-one out validation model to assure repeatability and stability within the model. The&#xD;
+      investigators will create score indices analyzed with logistic regression, principal&#xD;
+      component analysis, factor analysis and correlation analysis. The investigators will then&#xD;
+      assess whether clusters are related to verified diagnosis and/or sociodemographic&#xD;
+      characteristics such as age, race/ethnicity, geography. The investigators will use&#xD;
+      discriminant analysis techniques and more recent classification techniques such as CART to&#xD;
+      examine if symptom phenotypes of KD and MIS-C are dissimilar. If information in terms of&#xD;
+      symptom clusters at a point in time or a trajectory of a single symptom over time are&#xD;
+      insufficient to distinguish between the two conditions, this would provide support for the&#xD;
+      argument that the recorded symptoms are insufficient for discrimination or that the two&#xD;
+      disease entities are not symptomatically different. This exploratory analysis will provide&#xD;
+      important information that can be further developed for clinical guidance and parent&#xD;
+      education.&#xD;
+&#xD;
+      Photography (Kim, Tremoulet): Patient photographs of the eye, mouth/tongue, and rash will be&#xD;
+      collected as a novel addition to the usual clinical data. These photographs obtained before&#xD;
+      treatment will document the presence or absence of conjunctival injection and perilimbal&#xD;
+      sparing, mucocutaneous changes in the oropharynx including changes in the vermillion border&#xD;
+      (erythema, fissuring) and the tongue (strawberry tongue), and the nature of the rash. The&#xD;
+      photographs will be subjected to analysis using facial recognition software and artificial&#xD;
+      intelligence approaches used by our collaborators at the University of Southern California&#xD;
+      Center for Artificial Intelligence in Society led by Hayden Shively and Lucas Hu to evaluate&#xD;
+      whether a computer algorithm can be created that can differentiate the clinical&#xD;
+      characteristics of MIS-C from photographs taken of children with acute KD and those with&#xD;
+      other pediatric febrile illnesses. Dr. Katherine Kim at UC Davis will compare the photos with&#xD;
+      the questionnaire responses to supplement the parent descriptions of signs and symptoms and&#xD;
+      validate the observations. This comparison can result in enhanced descriptions using the&#xD;
+      words of parents themselves. Photography is needed to document these physical findings as the&#xD;
+      investigators have learned over the years that physician description of these features is&#xD;
+      woefully inaccurate. The finding, for example, of a strawberry tongue is a specific injury&#xD;
+      pattern that involves sloughing of the cornified tips of the filiform papillae and has&#xD;
+      historically been associated with only 3 conditions: staphylococcal and streptococcal&#xD;
+      toxin-mediated disease and KD.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 1, 2020</start_date>
+  <completion_date type="Anticipated">July 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Collection of clinical data and patient samples from children with MIS-C and KD to</measure>
+    <time_frame>We will collect demographic and clinical data on all KD patients at participating sites throughout the 8-month study period.</time_frame>
+    <description>Collection of clinical data and patient samples from children with MIS-C and KD to understand the relationship between these two conditions.</description>
+  </primary_outcome>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Kawasaki Disease</condition>
+  <condition>Inflammation</condition>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      12.5 cc of blood (2.5 teaspoons) (for RNA studies, plasma protein studies, serum antibody&#xD;
+      measurement, and in vitro studies of PBMC and cultured HUVECs) will be drawn when phlebotomy&#xD;
+      is performed for routine clinical care from MIS-C. This will be at 3 timepoints: admission&#xD;
+      (pre-treatment), after treatment but before discharge, at the clinic visit between 1 to 6&#xD;
+      weeks after discharge. Whole blood RNA will be collected in PAXgene tubes.&#xD;
+&#xD;
+      Rectal swab or stool for SARS-CoV-2 PCR testing in the Burns Lab at UCSD will be collected&#xD;
+      only once at the time of admission.&#xD;
+&#xD;
+      For sites able/willing to participate in live cell collection, heparinized blood (green top&#xD;
+      tubes) for PBMC and neutrophil studies.&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        We plan to enroll 100 MIS-C subjects in this study to allow for the collection of data and&#xD;
+        samples that will support the many different aims in this study.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion criteria:&#xD;
+&#xD;
+        The following patients (age 1 mos. through young adults) will be recruited for this study:&#xD;
+&#xD;
+        Patients who meet the CDC definition for MIS-C:&#xD;
+&#xD;
+          -  Patients presenting with fever (&gt;38C for &gt;24 h - also by subjective report),&#xD;
+             laboratory evidence of inflammation, and evidence of clinically severe illness&#xD;
+             requiring hospitalization, with multisystem (&gt;2) organ involvement (cardiac, renal,&#xD;
+             respiratory, hematologic, gastrointestinal, dermatologic or neurological); AND&#xD;
+&#xD;
+          -  No alternative plausible diagnoses; AND Positive for current or recent SARS-CoV-2&#xD;
+             infection by RT-PCR, serology, or antigen test; or suspected COVID-19 exposure within&#xD;
+             the 4 weeks prior to the onset of symptoms&#xD;
+&#xD;
+          -  Patients who meet the CDC definition for MIS-C and require care in the PICU&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        • All patients with pre-existing major medical conditions will be excluded. This includes&#xD;
+        patients with known genetic disorders (e.g. trisomy 21, cystic fibrosis), conditions&#xD;
+        requiring continuous medication (e.g. seizure disorder, heart disease), or known immune&#xD;
+        disorder (e.g. hypogammaglobulinemia, complement deficiency). Patients with asthma or&#xD;
+        atopic dermatitis will not be excluded unless patients have received oral steroids in the&#xD;
+        previous week. Obesity is not an exclusion.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>1 Month</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jane C Burns</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of California, San Diego</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jane C Burns</last_name>
+    <phone>858-246-0155</phone>
+    <email>jcburns@health.ucsd.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Adriana H Tremoulet</last_name>
+    <phone>858-246-0012</phone>
+    <email>atremoulet@health.ucsd.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of California, San Diego</name>
+      <address>
+        <city>La Jolla</city>
+        <state>California</state>
+        <zip>92093</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jane C Burns, MD</last_name>
+      <phone>858-246-0155</phone>
+      <email>jcburns@health.ucsd.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Adriana H Tremoulet, MD</last_name>
+      <phone>858-966-0012</phone>
+      <email>atremoulet@health.ucsd.edu</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 19, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 30, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 4, 2020</study_first_posted>
+  <last_update_submitted>August 30, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 30, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 4, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of California, San Diego</investigator_affiliation>
+    <investigator_full_name>Jane C. Burns MD</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Mucocutaneous Lymph Node Syndrome</mesh_term>
+    <mesh_term>Inflammation</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

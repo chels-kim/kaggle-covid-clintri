@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4010">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04594291</url>
+  </required_header>
+  <id_info>
+    <org_study_id>UHDB/2020/077</org_study_id>
+    <secondary_id>287571</secondary_id>
+    <nct_id>NCT04594291</nct_id>
+  </id_info>
+  <brief_title>MRI Changes of Acute Kidney Injury in COVID-19</brief_title>
+  <acronym>MRI-AIDED</acronym>
+  <official_title>Long-term Outcomes After Acute Kidney Injury in Coronavirus Disease (COVID-19) as Determined by Multiparametric Magnetic Resonance Imaging (MRI)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospitals of Derby and Burton NHS Foundation Trust</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Nottingham Biomedical Research Centre</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University Hospitals of Derby and Burton NHS Foundation Trust</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a prospective observational cohort study that will aim to recruit 60 participants who&#xD;
+      have had COVID-19, were admitted to hospital, required intensive care, and/or developed AKI&#xD;
+      during their hospital stay. Potential participants will be approached either by telephone by&#xD;
+      a member of the research team or via clinics (nephrology, post-ICU follow up clinics).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      After the participants have read and understand the Participant Information Sheet, and had&#xD;
+      sufficient time (at least 24 hours) to consider their participation in this study, the&#xD;
+      investigators will ask them to sign a consent form, which shows their willingness to take&#xD;
+      part. The investigators will then collect information from their medical records about their&#xD;
+      hospital admission with COVID-19, including their age, ethnicity, medical conditions, length&#xD;
+      of hospital stay, tablets or any other treatments they received, as well as details of their&#xD;
+      stay in the ICU. The investigators will also arrange their first study visit which should be&#xD;
+      3-6 months after they had been discharged from the hospital. During this first study day, the&#xD;
+      investigators will:&#xD;
+&#xD;
+        -  Measure weight and height and take blood pressure.&#xD;
+&#xD;
+        -  Take blood and urine samples.&#xD;
+&#xD;
+        -  Ask participants to complete three questionnaires about their health, symptoms of&#xD;
+           fatigue and quality of life (SF-36, EQ-5D-5L and Fatigue Questionnaires).&#xD;
+&#xD;
+        -  Measure the accumulation of toxins in the skin using a safe, quick (less than five&#xD;
+           minutes) and painless technique called skin autofluorescence. This involves placing the&#xD;
+           forearm on a piece of equipment that shines a light on the skin and measures the amount&#xD;
+           of light that is reflected back.&#xD;
+&#xD;
+        -  Conduct an MRI scan of the kidneys, muscles, abdomen and heart. The MRI scan will take&#xD;
+           60-70 minutes in total. The investigators will ask participants not to eat or drink&#xD;
+           anything two hours before the MRI scan.&#xD;
+&#xD;
+      After this visit, the investigators will ask participants to come back for two more study&#xD;
+      visits, which will be arranged at 12 and 24 months after their hospital discharge. These&#xD;
+      visits will consist of the same procedures and measurements done in the first study visit.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 7, 2020</start_date>
+  <completion_date type="Anticipated">September 2023</completion_date>
+  <primary_completion_date type="Anticipated">September 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>MRI assessment of global organ structure at 12 months.</measure>
+    <time_frame>12 months</time_frame>
+    <description>Global organ structure will be assessed through structural T1- and T2-weighted MRI scans which will provide information about automated segmentation and volume assessment of whole kidney (and both cortex and medulla) as well as other abdominal organs (including liver and spleen). Global organ structure will also be assessed through longitudinal (T1) and transverse (T2) relaxation time mapping. T1 and T2 increase with tissue inflammation, oedema and fibrosis. A respiratory-triggered inversion recovery (IR) spin-echo echo-planar scheme will be used for abdominal T1 mapping and a Gradient and spin echo (T2-GraSE) scheme for abdominal T2 mapping.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>MRI assessment of thrombi (R2*) at 12 months.</measure>
+    <time_frame>12 months</time_frame>
+    <description>R2* data will be acquired using a multi-echo fast field echo (mFFE) scheme to assess thrombi. Conventionally R2* mapping is used as a measure of oxygenation, but R2*is likely to be altered by other factors in COVID-19, including oedema and small vessel thrombotic processes.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>MRI assessment of organ perfusion (Arterial spin labelling [ASL]) at 12 months.</measure>
+    <time_frame>12 months</time_frame>
+    <description>Mean transit time and perfusion depicting changes in microvascular blood flow and large vessel flow/thrombosis will be determined using a FAIR labelling scheme with a multi-slice spin-echo echo-planar imaging readout and multiple labelling delay times.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>MRI assessment of global organ structure.</measure>
+    <time_frame>3-6 and 24 months</time_frame>
+    <description>Global organ structure will be assessed through structural T1- and T2-weighted MRI scans which will provide information about automated segmentation and volume assessment of whole kidney (and both cortex and medulla) as well as other abdominal organs (including liver and spleen). Global organ structure will also be assessed through longitudinal (T1) and transverse (T2) relaxation time mapping. T1 and T2 increase with tissue inflammation, oedema and fibrosis. A respiratory-triggered inversion recovery (IR) spin-echo echo-planar scheme will be used for abdominal T1 mapping and a Gradient and spin echo (T2-GraSE) scheme for abdominal T2 mapping.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>MRI assessment of thrombi (R2*).</measure>
+    <time_frame>3-6 and 24 months</time_frame>
+    <description>R2* data will be acquired using a multi-echo fast field echo (mFFE) scheme to assess thrombi. Conventionally R2* mapping is used as a measure of oxygenation, but R2*is likely to be altered by other factors in COVID-19, including oedema and small vessel thrombotic processes.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>MRI assessment of organ perfusion (ASL)</measure>
+    <time_frame>3-6 and 24 months</time_frame>
+    <description>Mean transit time and perfusion depicting changes in microvascular blood flow and large vessel flow/thrombosis will be determined using a FAIR labelling scheme with a multi-slice spin-echo echo-planar imaging readout and multiple labelling delay times.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlations between MRI measures with estimated glomerular filtration rate.</measure>
+    <time_frame>3-6, 12 and 24 months</time_frame>
+    <description>Correlations between MRI measures (Cortical T1, ASL-perfusion, T2, R2*) with estimated glomerular filtration rate (ml/min/1.73m2).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlations between MRI measures with urine albumin and protein creatinine ratios.</measure>
+    <time_frame>3-6, 12 and 24 months</time_frame>
+    <description>Correlations between MRI measures (Cortical T1, ASL-perfusion, T2, R2*) with urine albumin creatinine ratio (mg/mmol) and urine protein creatinine ratio (mg/mmol).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlations between MRI measures with mental component score.</measure>
+    <time_frame>3-6, 12 and 24 months</time_frame>
+    <description>Correlations between MRI measures (Cortical T1, ASL-perfusion, T2, R2*) with the mental component score. A score between 0 and 100 is calculated from the 36-Item Short-Form Health Survey; the higher the score, the better the quality of life mental domain.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlations between MRI measures with physical component score.</measure>
+    <time_frame>3-6, 12 and 24 months</time_frame>
+    <description>Correlations between MRI measures (Cortical T1, ASL-perfusion, T2, R2*) with the physical component score. A score between 0 and 100 is calculated from the 36-Item Short-Form Health Survey; the higher the score, the better the quality of life physical domain.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlations between MRI measures with health state score.</measure>
+    <time_frame>3-6, 12 and 24 months</time_frame>
+    <description>Correlations between MRI measures (Cortical T1, ASL-perfusion, T2, R2*) with the health state score calculated from the European Quality of Life 5-Dimensions questionnaire. The health state score ranges from -0.285 (for the worst health state) to 1 (for the best health state).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlations between MRI measures with visual analogue score.</measure>
+    <time_frame>3-6, 12 and 24 months</time_frame>
+    <description>Correlations between MRI measures (Cortical T1, ASL-perfusion, T2, R2*) with the visual analogue score from the European Quality of Life 5-Dimensions questionnaire. The visual analogue score uses a thermometer-like scale numbered from 0 to 100; the higher the score, the better the health state.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlations between MRI measures with fatigue severity.</measure>
+    <time_frame>3-6, 12 and 24 months</time_frame>
+    <description>Correlations between MRI measures (Cortical T1, ASL-perfusion, T2, R2*) with the fatigue score from the Fatigue Severity Scale, a 9-item questionnaire scored on a 7-point scale (minimum score=9; maximum score=63); the higher the score, the greater the fatigue severity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlations between MRI measures with fatigue score.</measure>
+    <time_frame>3-6, 12 and 24 months</time_frame>
+    <description>Correlations between MRI measures (Cortical T1, ASL-perfusion, T2, R2*) with the fatigue score from the Visual Analogue Fatigue Scale, which uses an horizontal line scale numbered from 0 to 10; the higher the score, the higher the fatigue.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlations with MRI measures with skin autofluorescence levels.</measure>
+    <time_frame>3-6, 12 and 24 months</time_frame>
+    <description>Correlations between MRI measures (Cortical T1, ASL-perfusion, T2, R2*) with skin autofluorescence levels (arbitrary units) measured with the validated Autofluorescence Reader Standard Unit (SU) version 2.4.3 (AGE Reader SU, DiagnOptics Technologies BV, Aarhusweg 4-9, Groningen, The Netherlands).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change in mental component score.</measure>
+    <time_frame>3-6, 12 and 24 months</time_frame>
+    <description>Mean change in mental component score. A score between 0 and 100 is calculated from the 36-Item Short-Form Health Survey; the higher the score, the better the quality of life mental domain.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change in physical component score.</measure>
+    <time_frame>3-6, 12 and 24 months</time_frame>
+    <description>Mean change in physical component score. A score between 0 and 100 is calculated from the 36-Item Short-Form Health Survey; the higher the score, the better the quality of life physical domain.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change in health state score.</measure>
+    <time_frame>3-6, 12 and 24 months</time_frame>
+    <description>Mean change in health state score calculated from the European Quality of Life 5-Dimensions questionnaire. The health state score ranges from -0.285 (for the worst health state) to 1 (for the best health state).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change in visual analogue score.</measure>
+    <time_frame>3-6, 12 and 24 months</time_frame>
+    <description>Mean change in visual analogue score from the European Quality of Life 5-Dimensions questionnaire. The visual analogue score uses a thermometer-like scale numbered from 0 to 100; the higher the score, the better the health state.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change in fatigue severity scale.</measure>
+    <time_frame>3-6, 12 and 24 months</time_frame>
+    <description>Mean change in fatigue score as assessed by the Fatigue Severity Scale, a 9-item questionnaire scored on a 7-point scale (minimum score=9; maximum score=63); the higher the score, the greater the fatigue severity.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change in fatigue score.</measure>
+    <time_frame>3-6, 12 and 24 months</time_frame>
+    <description>Mean change in fatigue score as assessed by the Visual Analogue Fatigue Scale, which uses an horizontal line scale numbered from 0 to 10; the higher the score, the higher the fatigue.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change in skin autofluorescence levels.</measure>
+    <time_frame>3-6, 12 and 24 months</time_frame>
+    <description>Mean change in skin autofluorescence levels (arbitrary units) measured with the AGE Reader.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of kidney disease progression.</measure>
+    <time_frame>3-6, 12 and 24 months</time_frame>
+    <description>Assessment of kidney disease progression defined as decrease in estimated glomerular filtration rate (eGFR) of ≥25% associated with a decline in eGFR stage.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of cardiovascular events.</measure>
+    <time_frame>3-6, 12 and 24 months</time_frame>
+    <description>Recording of the number of participants who developed any cardiovascular events.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlations between MRI measures with all-cause mortality.</measure>
+    <time_frame>12 and 24 months</time_frame>
+    <description>Correlations between MRI measures (Cortical T1, ASL-perfusion, T2, R2*) with all-cause mortality using multi-variable Cox proportional hazards models.</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Acute Kidney Injury</condition>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>MRI scans</intervention_name>
+    <description>This study does not involve any intervention or new treatment. We will conduct MRI scans of the kidneys, muscles, abdomen and heart at baseline, 12 and 24 months after hospital discharge. The MRI scan will take 60-70 minutes in total.</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        People who have had COVID-19, were admitted to hospital, required intensive care, and/or&#xD;
+        developed AKI during their hospital stay.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Adult patients aged 18 years or older.&#xD;
+&#xD;
+          2. Swab result positive for SARS-CoV-2.&#xD;
+&#xD;
+          3. Patients admitted to the hospital for ≥24 hrs.&#xD;
+&#xD;
+          4. Patients who received ICU care OR who sustained AKI stage 2/3 (as per KDIGO serum&#xD;
+             creatinine criteria).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Patients &gt; 90 years of age.&#xD;
+&#xD;
+          2. Patients on haemodialysis or peritoneal dialysis or pre-existing CKD stage 5 (eGFR&#xD;
+             &lt;15ml/min/1.73m2).&#xD;
+&#xD;
+          3. Solid organ transplant.&#xD;
+&#xD;
+          4. Inability/refusal to give informed consent to participate.&#xD;
+&#xD;
+          5. Contraindications to MRI scan - claustrophobia, metal body implants, extensive tatoos,&#xD;
+             inability to lie supine for 1 hour.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Maarten Taal, Professor</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University Hospitals of Derby and Burton NHS Foundation Trust</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Maarten Taal, Professor</last_name>
+    <phone>+44(0)1332789344</phone>
+    <email>m.taal@nottingham.ac.uk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Nicholas Selby, Professor</last_name>
+    <phone>+44(0)1332724665</phone>
+    <email>nicholas.selby@nottingham.ac.uk</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University Hospitals of Derby and Burton NHS Foundation Trust</name>
+      <address>
+        <city>Derby</city>
+        <state>Derbyshire</state>
+        <zip>DE22 3DT</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Maarten Taal, Professor</last_name>
+      <phone>+44(0)1332789344</phone>
+      <email>m.taal@nottingham.ac.uk</email>
+    </contact>
+    <contact_backup>
+      <last_name>Nicholas Selby, Professor</last_name>
+      <phone>+44(0)1332724665</phone>
+      <email>nicholas.selby@nottingham.ac.uk</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>September 28, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 19, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 20, 2020</study_first_posted>
+  <last_update_submitted>October 19, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 19, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 20, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Acute Kidney Injury</mesh_term>
+    <mesh_term>Wounds and Injuries</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

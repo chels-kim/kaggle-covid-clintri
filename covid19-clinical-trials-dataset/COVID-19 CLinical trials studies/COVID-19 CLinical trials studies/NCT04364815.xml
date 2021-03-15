@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="504">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04364815</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RGAO-2020-0339</org_study_id>
+    <nct_id>NCT04364815</nct_id>
+  </id_info>
+  <brief_title>The University of the Philippines Hydroxychloroquine PEP Against COVID-19 Trial</brief_title>
+  <official_title>Efficacy and Safety of Hydroxychloroquine for COVID-19 Post-Exposure Prophylaxis of Healthcare Workers in the Philippine General Hospital and UP Manila National Institutes of Health: A Randomized, Double-blind, Placebo-controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of the Philippines</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of the Philippines</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This COVID-19 pandemic warrants urgent strategies to protect people at high risk of&#xD;
+      infection, particularly the healthcare workers. Secondary prevention through post-exposure&#xD;
+      prophylaxis (PEP) and early treatment of infection are needed to prevent severe cases and cut&#xD;
+      secondary transmission. Hydroxycholoroquine (HCQ) is an inexpensive anti-malarial drug with&#xD;
+      immunomodulatory effects that are currently used as an off-label treatment for symptomatic&#xD;
+      COVID-19 patients. In vitro studies have shown that it can efficiently inhibit SARS-CoV-2&#xD;
+      infection and has potential as a post-exposure prophylaxis drug.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      To compare the efficacy and safety of hydroxychloroquine with an oral loading dose of 400 mg&#xD;
+      two times a day on D1 followed by 400mg/day from Day 2-10 plus standard preventive measures&#xD;
+      and standard preventive measures alone as post-exposure prophylaxis for healthcare workers in&#xD;
+      a Metro Manila COVID Referral Center&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Withdrawn</overall_status>
+  <why_stopped>
+    Investigators opted to change the design of the study.&#xD;
+  </why_stopped>
+  <start_date type="Anticipated">December 2020</start_date>
+  <completion_date type="Anticipated">May 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Randomized, assessor- and patient- blinded, placebo controlled, parallel group trial</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Double (Participant, Outcomes Assessor)</masking>
+    <masking_description>Randomized allocation concealment&#xD;
+Computer-generated random numbers for two groups will be used by a third party to create an allocation list for participants&#xD;
+The pharmacist will prepare the test medication in sequentially numbered packages&#xD;
+The third party will be contacted upon enrollment of a participant for the assigned group&#xD;
+Blinding&#xD;
+Placebo tablets will have the same appearance as the HCQ tablets&#xD;
+The pharmacist will prepare the test medications in sequentially numbered packages&#xD;
+Blinding of the outcome assessor will be achieved by using numerical codes on the Case Record Form of each patient with no indication of the group assignment on the Case Record Forms&#xD;
+Laboratory specimens, ECG strip, and RT-PCR test specimens will be labeled with the numerical code of the participant and test number</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Efficacy of HCQ Prophylaxis in Preventing COVID-19 infection</measure>
+    <time_frame>30 days</time_frame>
+    <description>Incidence of COVID-19 infection confirmed by RT-PCR COVID-19 test within the PEP treatment period (28 days) with or without symptoms of COVID-19 infection</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Efficacy of study drug as post-exposure prophylaxis in preventing COVID-19 related symptoms (to be reported as absolute number and frequency of events)</measure>
+    <time_frame>30 days</time_frame>
+    <description>Incidence of patient self-reported COVID-19 related symptoms anytime during follow up period as measured by a standardized patient diary</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to COVID-19 infection in patients receiving study drug (in days)</measure>
+    <time_frame>30 days</time_frame>
+    <description>Interval from exposure to COVID-19 case Interval from first dose of study drug</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety and tolerability of study drug (to be reported as absolute number and frequency of events)</measure>
+    <time_frame>30 days</time_frame>
+    <description>Incidence of study drug discontinuation Incidence of all adverse events based on patients a) self-report using daily symptom diary and b) study physicians</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">0</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Hydroxychloroquine plus standard preventive measures</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Hydroxychloroquine oral loading dose of 400mg two times per day on Day 1 then 400 mg once a day for Day 2-10 plus standard preventive measures as defined by PGH Hospital Infection Control Unit (HICU)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo plus standard preventive measure</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo tablet plus standard preventive measures as defined by PGH-HICU</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Hydroxychloroquine plus standard preventive measures</intervention_name>
+    <description>Hydroxychloroquine and standard preventive measures</description>
+    <arm_group_label>Hydroxychloroquine plus standard preventive measures</arm_group_label>
+    <other_name>Hydroxychloroquine and standard preventive measures</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo plus standard preventive measures</intervention_name>
+    <description>Placebo tablet plus standard preventive measures as defined by PGH-HICU</description>
+    <arm_group_label>Placebo plus standard preventive measure</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  any medical or non-medical personnel of the Philippine General Hospital and the UP&#xD;
+             Manila National Institutes of Health to include physicians (consultants,&#xD;
+             fellows-in-training, residents-in-training); nurses and other nursing staff (nursing&#xD;
+             aide, institutional or utility worker); janitors and cleaning staff, medical&#xD;
+             technologists and personnel of the laboratory where the COVID PCR testing is done;&#xD;
+             technicians of the radiology department, electrocardiography (ECG) station, arterial&#xD;
+             blood gas (ABG) stations and other personnel employed by the hospital on a tenured,&#xD;
+             part-time or full-time,and temporary. Because of the sample size, there is also a plan&#xD;
+             to include also health care workers in the community quarantine centers in the Manila&#xD;
+             area such as the Rizal Coliseum or the Ninoy Aquino Stadium, or at the World Trade&#xD;
+             Center&#xD;
+&#xD;
+          -  aged 18-59 years&#xD;
+&#xD;
+          -  exposure to a probable or confirmed COVID19 case within 4 days prior to study&#xD;
+             enrollment that is considered to be medium or high risk as defined by the HICU&#xD;
+&#xD;
+          -  asymptomatic (no acute respiratory, flu-like, gastrointestinal signs and symptoms at&#xD;
+             the time of enrollment&#xD;
+&#xD;
+          -  negative baseline COVID19 RT-PCR test result*&#xD;
+&#xD;
+          -  for female participants of child bearing potential they must agree to effective birth&#xD;
+             control methods during the clinical trial or abstinence from any sexual activity&#xD;
+             during the duration of the study.&#xD;
+&#xD;
+               -  Since RT-PCR result may not be released right away, volunteers who test positive&#xD;
+                  after preliminary enrollment will be screen-failed and will not be included in&#xD;
+                  the analysis.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  active COVID19 disease: positive RT-PCR COVID19 test&#xD;
+&#xD;
+          -  prior COVID19 disease&#xD;
+&#xD;
+          -  weight less than 40kg or a BMI less than 18kg/m2&#xD;
+&#xD;
+          -  current or recent hospitalization within the past year&#xD;
+&#xD;
+          -  known allergy to or intolerance of hydroxychloroquine (HCQ) or chloroquine (CQ)&#xD;
+&#xD;
+          -  current use of HCQ or CQ for whatever indications (malaria, lupus)&#xD;
+&#xD;
+          -  current use of other medication with known antiviral effects&#xD;
+&#xD;
+          -  current or known use in the last two weeks of known arrhythmogenic drugs or drugs that&#xD;
+             prolong the QT interval in the ECG, including but not limited to quinolones,&#xD;
+             macrolides, amiodarone, digoxin, flecainide, propafenone&#xD;
+&#xD;
+          -  any previous known or suspected retinopathy; in case of doubt, an ophthalmology&#xD;
+             clearance be secured prior to enrollment&#xD;
+&#xD;
+          -  known G6PD deficiency discovered through the newborn screening program or known&#xD;
+             intolerance or allergies to beans and any food that contains beans&#xD;
+&#xD;
+          -  women who are pregnant or breastfeeding, or a positive pregnancy test at baseline for&#xD;
+             women of child bearing age&#xD;
+&#xD;
+          -  history of known seizures or treatment with anti-epileptic medications&#xD;
+&#xD;
+          -  history of known existing arrhythmia&#xD;
+&#xD;
+          -  intake or use of anti diabetic agents especially sulfonylureas or any type of insulin&#xD;
+&#xD;
+          -  presence of abnormalities in baseline tests:&#xD;
+&#xD;
+               1. ECG abnormalities that are exclusionary: Baseline QTc &gt; 500 msec or QTc &gt; 550&#xD;
+                  msec in patients with wide QRS; any form of tachy- or bradyarrythmias NB: sinus&#xD;
+                  arrhythmia is not exclusionary&#xD;
+&#xD;
+               2. CBC abnormalities showing anemia with hemoglobin value less than 12.5 g/dL or low&#xD;
+                  platelet count or thrombocytopenia with platelet count less than 150,000&#xD;
+                  platelets per microliter&#xD;
+&#xD;
+               3. Creatinine levels above normal values: 60 to 110 micromoles per liter (0.7 to 1.2&#xD;
+                  mg/dL for men and 45 to 90 micromoles per liter (0.5 to 1.0 mg/dL) for women&#xD;
+&#xD;
+               4. ALT test that is elevated above 2x the upper limit of the normal: NV is 7 to 56&#xD;
+                  units per liter&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>59 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Belen L Dofitas, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Philippine General Hospital</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Philippine General Hospital - University of the Philippines Manila</name>
+      <address>
+        <city>Manila</city>
+        <country>Philippines</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Philippines</country>
+  </location_countries>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>April 22, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 24, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 28, 2020</study_first_posted>
+  <last_update_submitted>November 4, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 4, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 6, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>SARS-COV-2</keyword>
+  <keyword>Hydroxychloroquine</keyword>
+  <keyword>Post-exposure prophylaxis</keyword>
+  <keyword>Healthcare workers</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hydroxychloroquine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

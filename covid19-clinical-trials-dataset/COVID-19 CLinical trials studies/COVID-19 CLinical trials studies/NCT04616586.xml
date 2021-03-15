@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4732">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04616586</url>
+  </required_header>
+  <id_info>
+    <org_study_id>EUSA SYL 0004</org_study_id>
+    <nct_id>NCT04616586</nct_id>
+  </id_info>
+  <brief_title>SILtuximab in Viral ARds (SILVAR) Study</brief_title>
+  <acronym>SILVAR</acronym>
+  <official_title>A Study Comparing the Efficacy and Safety of Standard of Care With or Without Siltuximab in Selected Hospitalized Patients With Viral Acute Respiratory Distress Syndrome (SILVAR)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>EusaPharma (UK) Limited</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Syneos Health</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>EusaPharma (UK) Limited</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will evaluate the efficacy and safety of siltuximab compared with normal saline in&#xD;
+      combination with standard of care (SOC) in selected hospitalized patients with COVID-19&#xD;
+      previously treated with corticosteroids or another respiratory virus infection associated&#xD;
+      with acute respiratory distress syndrome (ARDS) and elevated C-reactive protein (CRP) levels.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a prospective, multicenter, randomized (2:1), double-blind, parallel-arm,&#xD;
+      placebo-controlled, Phase 3 clinical trial of 1-3 doses of siltuximab 11 mg/kg IV over 1 hour&#xD;
+      plus SOC vs. matched-volume normal saline (NS) IV over 1 hour plus SOC in 555 patients with&#xD;
+      SARS CoV-2 previously treated with corticosteroids or another respiratory virus infection&#xD;
+      with elevated CRP levels who have developed serious respiratory complications.&#xD;
+&#xD;
+      The randomization will be stratified by age (&lt;65, ≥65 years), respiratory virus infection&#xD;
+      (confirmed SARS-CoV-2, other), and MIV status (yes, no). Crossover between treatment arms&#xD;
+      will not be allowed.&#xD;
+&#xD;
+      All patients will receive ARDS SOC following the official American Thoracic Society/European&#xD;
+      Society of Intensive Care Medicine/Society of Critical Care Medicine clinical practice&#xD;
+      guideline13 and/or the World Health Organization's (WHO's) clinical management of severe&#xD;
+      acute respiratory infection when COVID-19 disease is suspected (WHO Interim Guidance 202014&#xD;
+      or other local guidance). Patients may continue receiving their corticosteroid (up to a&#xD;
+      cumulative maximum dexamethasone or equivalent dose of 60 mg [except to treat&#xD;
+      treatment-emergent reactions or comorbid conditions]) or antiviral therapy (except&#xD;
+      aminoquinoline compounds and convalescent plasma) at the same or lower doses if started at&#xD;
+      least 4 days (corticosteroid therapy) or at least 2 days (antiviral therapy) prior to&#xD;
+      randomization. Patients randomized to Arm A will additionally receive siltuximab 11 mg/kg IV&#xD;
+      administered over 1 hour, while patients randomized to Arm B will additionally receive IV NS&#xD;
+      administered over 1 hour, with opportunity to repeat their assigned study treatment once or&#xD;
+      twice at least 2 days apart on or after Day 3 as their clinical condition and/or laboratory&#xD;
+      testing dictate.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 13, 2020</start_date>
+  <completion_date type="Anticipated">June 30, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 18, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>This is a prospective, multicenter, randomized (2:1), double-blind, parallel-arm, placebo-controlled, Phase 3 clinical trial of 1-3 doses of siltuximab 11 mg/kg IV over 1 hour plus SOC vs. matched-volume normal saline (NS) IV over 1 hour plus SOC in 555 patients with SARS-CoV-2 previously treated with corticosteroids or another respiratory virus infection with elevated CRP levels who have developed serious respiratory complications</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>At all times, randomized study treatment assignment information will be kept confidential and will not be released to the patient, investigator, the study staff (except the pharmacist), or the Sponsor's Study Team until following the conclusion of the study, except as described below.&#xD;
+At the initiation of the study, the study site will be instructed on procedures for breaking the blind. Blinding codes should be broken only in emergency situations for reasons of patient safety. If a patient has an AE that may be considered treatment-related, treatment for the AE should be administered as if the patient is receiving siltuximab. Whenever possible, the investigator should contact the Sponsor's Medical Monitor before breaking the blind. When the blind for a patient has been broken, the reason must be fully documented. The patient for whom the blind has been broken will not receive further doses of study treatment.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>28-day all-cause mortality</measure>
+    <time_frame>Day 28</time_frame>
+    <description>28-day all-cause mortality</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to 7-category ordinal scale of clinical status improvement (T7COSCSI)</measure>
+    <time_frame>Up to 60 days</time_frame>
+    <description>Time to 7-category ordinal scale of clinical status improvement (T7COSCSI)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ventilator-free days (VFDs) within 28 days</measure>
+    <time_frame>Up to 28 days</time_frame>
+    <description>Ventilator-free days (VFDs) within 28 days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Organ failure-free days (OFFD)</measure>
+    <time_frame>Up to 60 days</time_frame>
+    <description>Organ failure-free days (OFFD)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intensive care unit length of stay (ICU LOS)</measure>
+    <time_frame>Up to 60 days</time_frame>
+    <description>Intensive care unit length of stay (ICU LOS)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital length of stay (HLOS)</measure>
+    <time_frame>Up to 60 days</time_frame>
+    <description>Hospital length of stay (HLOS)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>In-hospital all-cause mortality (IHACM)</measure>
+    <time_frame>Up to 60 days</time_frame>
+    <description>In-hospital all-cause mortality (IHACM)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>60-day all-cause mortality (60DACM)</measure>
+    <time_frame>Up to 60 days</time_frame>
+    <description>60-day all-cause mortality (60DACM)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to oxygenation improvement (TOI)</measure>
+    <time_frame>Up to 60 days</time_frame>
+    <description>Time to oxygenation improvement (TOI)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of supplemental oxygen (DSO)</measure>
+    <time_frame>Up to 60 days</time_frame>
+    <description>Duration of supplemental oxygen (DSO)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Chest radiographic improvement (CRI)</measure>
+    <time_frame>Up to 60 days</time_frame>
+    <description>Chest radiographic improvement (CRI)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to National Early Warning Score 2 improvement (TNEWS2I)</measure>
+    <time_frame>Up to 60 days</time_frame>
+    <description>Time to National Early Warning Score 2 improvement (TNEWS2I)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Treatment-emergent adverse events (TEAEs)</measure>
+    <time_frame>Up to 60 days</time_frame>
+    <description>Treatment-emergent adverse events (TEAEs)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma siltuximab concentrations (PSCs)</measure>
+    <time_frame>Up to 60 days</time_frame>
+    <description>Plasma siltuximab concentrations (PSCs)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anti-siltuximab antibodies (ASA)</measure>
+    <time_frame>Up to 60 days</time_frame>
+    <description>Anti-siltuximab antibodies (ASA)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">555</enrollment>
+  <condition>Acute Respiratory Distress Syndrome</condition>
+  <condition>Lung Diseases</condition>
+  <condition>Pneumonia</condition>
+  <condition>Respiratory Tract Infections</condition>
+  <condition>Respiratory Tract Disease</condition>
+  <arm_group>
+    <arm_group_label>Arm A</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Drug - Siltuximab</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm B</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Comparator - Normal Saline</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Siltuximab</intervention_name>
+    <description>11 mg/kg IV administered over 1 hour</description>
+    <arm_group_label>Arm A</arm_group_label>
+    <other_name>Sylvant</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Normal Saline</intervention_name>
+    <description>IV administered over 1 hour</description>
+    <arm_group_label>Arm B</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Positive microbiological evidence of SARS-CoV-2 or another respiratory virus infection&#xD;
+             (eg, other coronaviruses, respiratory syncytial virus, influenza virus) following&#xD;
+             institutional diagnostic standards&#xD;
+&#xD;
+          -  Clinical and radiological diagnosis of pulmonary infection requiring noninvasive or&#xD;
+             mechanical invasive ventilatory support plus administration of rising supplemental&#xD;
+             oxygen concentrations&#xD;
+&#xD;
+          -  Treatment of SARS-CoV-2-infected patients with dexamethasone (or equivalent)&#xD;
+             administered by mouth or intravenous (IV) injection&#xD;
+&#xD;
+          -  Diagnosis of ARDS (PaO2/FiO2 ≤200 with positive end-expiratory pressure ≥5 cmH2O) in&#xD;
+             accordance with Berlin 2012 criteria1 (measured on or after the fourth day after the&#xD;
+             start of corticosteroid therapy in those patients for whom it was prescribed)&#xD;
+&#xD;
+          -  Serum CRP level greater than upper limit of normal (measured on or after the third day&#xD;
+             after the start of corticosteroid therapy in those patients for whom it was&#xD;
+             prescribed) on 2 consecutive days&#xD;
+&#xD;
+          -  Age ≥12 years&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Active bacterial or fungal infection, human immunodeficiency virus (HIV), HHV,&#xD;
+             Epstein-Barr virus, or other non-respiratory virus infection, or tuberculosis&#xD;
+             requiring initiation of anti-infective therapy&#xD;
+&#xD;
+          -  Prior treatment with an agent targeting the IL-6 signaling pathway&#xD;
+&#xD;
+          -  Current treatment in another therapeutic clinical trial (other than expanded&#xD;
+             remdesivir access protocol)&#xD;
+&#xD;
+          -  Start of new immunosuppressive therapy (including but not limited to corticosteroids&#xD;
+             and cytokine signaling pathway inhibitors) within 4 days prior to study entry&#xD;
+             (randomization); start of new antiviral treatment (including but not limited to&#xD;
+             nucleoside analogues, aminoquinoline compounds, and convalescent plasma) within 2 days&#xD;
+             prior to randomization; or received a live vaccine at any time prior to randomization,&#xD;
+             or plan to receive a live vaccine during the study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>12 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Zainab Shahid, MD, Ph.D</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Participating Site</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Tina Karunaratne</last_name>
+    <phone>617-834-3393</phone>
+    <email>tina.karunaratne@eusapharma.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Melahat Samali</last_name>
+    <phone>978-390-1834</phone>
+    <email>Melahat.Samali@eusapharma.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Sparrow Clinical Research Institute</name>
+      <address>
+        <city>Lansing</city>
+        <state>Michigan</state>
+        <zip>48912</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rajit Pahwa, MD</last_name>
+      <phone>517-364-5728</phone>
+      <email>rajit.pahwa@sparrow.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Atrium Health</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Zainab Shahid, MD, PhD</last_name>
+      <phone>980-442-6816</phone>
+      <email>zainab.shahid@atriumhealth.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Nancy E Zeleniak</last_name>
+      <phone>704-221-2021</phone>
+      <email>Nancy.Zeleniak@atriumhealth.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Rajit Pahwa, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>October 10, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 29, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 5, 2020</study_first_posted>
+  <last_update_submitted>January 8, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 8, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 12, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Siltuximab</keyword>
+  <keyword>ARDS</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Tract Infections</mesh_term>
+    <mesh_term>Lung Diseases</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Newborn</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Adult</mesh_term>
+    <mesh_term>Acute Lung Injury</mesh_term>
+    <mesh_term>Respiratory Tract Diseases</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Siltuximab</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

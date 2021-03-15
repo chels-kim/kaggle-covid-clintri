@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="139">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04649879</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CP3</org_study_id>
+    <nct_id>NCT04649879</nct_id>
+  </id_info>
+  <brief_title>Convalescent Plasma for Treatment of COVID-19: An Open Randomised Controlled Trial</brief_title>
+  <official_title>Convalescent Plasma for Treatment of COVID-19: An Open Randomised Controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Joakim Dillner</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Karolinska Institutet</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Danderyd Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Falu Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Karolinska University Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Convalescent plasma has been shown to be safe and effective for treatment of several&#xD;
+      diseases. Preliminary data indicate that it is safe for treatment of COVID-19. We found that&#xD;
+      viremia upon admission identifies patients at 7 fold increased risk of admission to intensive&#xD;
+      care and 8 fold increased risk of death. CP treatment appeared to result in rapid viral&#xD;
+      clearance in a small case series. CP appeared to be well tolerated in a phase I study in&#xD;
+      which patients only received one dose of CP and a phase II study in which CP was given until&#xD;
+      viremia disappeared (unpublished data).&#xD;
+&#xD;
+      Randomised controlled studies assessing the efficacy of CP are lacking and thus the efficacy&#xD;
+      of CP is unknown. Preliminary data indicate that treatment should be given early, prior to&#xD;
+      development of severe illness. Detection of viremia upon admission identifies a group at high&#xD;
+      risk of severe disease and death that has the most to benefit from CP. Phase II study data&#xD;
+      indicates that treatment should be given until SARS-CoV-2 is no longer detected in serum and&#xD;
+      the donor antibody neutralization titres should be ≥1/640. A randomised controlled trial in&#xD;
+      which viremic patients are treated with CP with the equivalent of an antibody titre ≥1/640 is&#xD;
+      thus required to determine if CP can be an effective COVID-19 treatment.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 3, 2020</start_date>
+  <completion_date type="Anticipated">February 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">February 1, 2022</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Patients will be randomised 2:1 to treatment with convalescent plasma and standard of care only. Randomisation is by random permutated blocks using Redcap or equivalent.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>COVID-19 related mortality within 28 days</measure>
+    <time_frame>Measured 28 days after inclusion into the study.</time_frame>
+    <description>Death of a study participant within 28 days.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>COVID-19 related mortality within 60 days</measure>
+    <time_frame>Measured 60 days after inclusion into the study.</time_frame>
+    <description>Death of a study participant within 60 days.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Requirement of invasive ventilation or Pao2/FiO2 ≤ 70 for ≥ 12 hours in the case of patients not eligible for intensive care</measure>
+    <time_frame>Until discharged from the hospital, up to 2 months</time_frame>
+    <description>The need for mechanical ventilation and date when this was initiated&#xD;
+For patients not eligible for intensive care: each day when PaO2/FiO2 ratio was less than 70 for ≥ 12 hours. PaO2 and FiO2 will be estimated from SO2% and O2 flow in nasal cannula, face mask or face mask with reservoir based on EPIC II data. A ratio of 70 is approximately equal to 90% SO2 with 8-9 L of Oxygen flow using a face mask with a reservoir.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse events</measure>
+    <time_frame>The reporting period for AEs starts at inclusion and ends at the final follow-up visit 2 months after inclusion.</time_frame>
+    <description>Possible adverse events will be elicited using a modification and Swedish translation (appendix 6) of Common Terminology Criteria for Adverse Events v5.0 and they will be continuously reported to the sponsor. Adverse events related to convalescent plasma therapy shall be followed to assess reversibility.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Dose of plasma needed to clear viremia</measure>
+    <time_frame>28 days</time_frame>
+    <description>Measured as doses of convalescent plasma administered (1-10 infusions, 200ml).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to clearance of viremia</measure>
+    <time_frame>Until discharged from the hospital, up to 2 months</time_frame>
+    <description>Blood samples for detection of SARS-CoV-2 in the blood will be taken prior to treatment start, daily during treatment and until two consecutive negative results are obtained.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">920</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Convalescent plasma treatment</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive 200 ml convalescent plasma daily until SARS-CoV-2 is no longer detectable in the blood up to a maximum of 10 CP infusions.&#xD;
+If steroid therapy has not already been initiated, betamethasone 3 mg daily will be given concomitantly with steroid therapy or longer if clinically indicated but for a maximum of 10 days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Standard of care for COVID-19 patients.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>SARS-CoV-2 convalescent plasma</intervention_name>
+    <description>Participants will receive 200 ml convalescent plasma daily until SARS-CoV-2 is no longer detectable in the blood up to a maximum of 10 CP infusions. CP will be given as a slow infusion over 2 hours. CP neutralization titre of ≥ 1/640 or an ELISA reactivity against the Spike protein of SARS-CoV-2 by the Euroimmun commercial assay &gt;9 is desired. New antibody tests are under development and can be used instead if equivalence to neutralization or Euroimmun ELISA is demonstrated.</description>
+    <arm_group_label>Convalescent plasma treatment</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Standard of care</intervention_name>
+    <description>Standard of care as determined by hospital practices for COVID-19 patients.</description>
+    <arm_group_label>Control</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age greater than or equal to 18&#xD;
+&#xD;
+          -  Admitted to a study hospital&#xD;
+&#xD;
+          -  Active COVID-19 defined as symptoms + SARS CoV-2 identified from upper or lower airway&#xD;
+             samples and blood&#xD;
+&#xD;
+          -  Negative pregnancy test taken before inclusion and use of an acceptable effective&#xD;
+             method of contraception until treatment discontinuation if the participant is a woman&#xD;
+             of childbearing potential&#xD;
+&#xD;
+          -  Written informed consent after meeting with a study physician and ability and&#xD;
+             willingness to complete follow up&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  No matching plasma donor (Exact matching in the ABO system is required)&#xD;
+&#xD;
+          -  Unavailability of plasma&#xD;
+&#xD;
+          -  Estimated glomerular filtration rate &lt;30 (kidney failure stage III or more)&#xD;
+&#xD;
+          -  Pregnancy (urinary-hcg)&#xD;
+&#xD;
+          -  Breast feeding&#xD;
+&#xD;
+          -  Inability to give informed consent&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Joakim Dillner, MD, PhD</last_name>
+    <phone>+46 (0) 72-468 24 60</phone>
+    <email>joakim.dillner@ki.se</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Johan Ursing, MD, PhD</last_name>
+    <phone>+46 (0) 70-475 15 30</phone>
+    <email>johan.ursing@sll.se</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Department of Infectious Disease, Falu Hospital</name>
+      <address>
+        <city>Falun</city>
+        <state>Dalarn</state>
+        <zip>79182</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Hanna Sahlgren, MD</last_name>
+      <phone>+46 (0) 70-432 44 84</phone>
+      <email>hanna.sahlgren@regiondalarna.se</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Department of Geriatrics, Karolinska University Hospital</name>
+      <address>
+        <city>Stockholm</city>
+        <zip>171 76</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Alexandre Bonnard, MD</last_name>
+      <phone>+46 (0) 76-232 14 37</phone>
+      <email>Alexandre.bonnard@sll.se</email>
+    </contact>
+    <contact_backup>
+      <last_name>Lena Flod</last_name>
+      <phone>+46 (0) 85-858 00 00</phone>
+      <email>lena.flodin@sll.se</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Ulf Öhlund</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Miia Kivipelto</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Anne Börjesson Hanson</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Karin Norlin</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Maria Eriksdotter</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Danderyd Hospital</name>
+      <address>
+        <city>Stockholm</city>
+        <zip>18257</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Johan Ursing, MD, PhD</last_name>
+      <phone>+46 (0) 70-475 15 30</phone>
+      <email>johan.ursing@sll.se</email>
+    </contact>
+    <contact_backup>
+      <last_name>Karl Hagman, MD</last_name>
+      <phone>+46 (0) 73-959 20 27</phone>
+      <email>karl.hagman@sll.se</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Magnus Hedenstierna, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Johan Rudling, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Sweden</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>December 1, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 1, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 2, 2020</study_first_posted>
+  <last_update_submitted>December 1, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 1, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 2, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Karolinska University Hospital</investigator_affiliation>
+    <investigator_full_name>Joakim Dillner</investigator_full_name>
+    <investigator_title>Professor of Infectious Disease Epidemiology; Director of R&amp;D</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19 convalescent plasma treatment</keyword>
+  <keyword>SARS-CoV-2 infection</keyword>
+  <keyword>Viremia</keyword>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>The investigators will be sharing the data, but the management plan is being designed.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

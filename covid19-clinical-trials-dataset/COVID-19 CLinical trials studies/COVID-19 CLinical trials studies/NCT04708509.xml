@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4737">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04708509</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2681</org_study_id>
+    <nct_id>NCT04708509</nct_id>
+  </id_info>
+  <brief_title>Extubation Advisor: Initial Implementation and Evaluation of a Novel Extubation Clinical Decision Support Tool</brief_title>
+  <official_title>Extubation Advisor: Initial Implementation and Evaluation of a Novel Extubation Clinical Decision Support Tool</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ottawa Hospital Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Ottawa Hospital Research Institute</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Expeditious, safe extubation is vitally important in the care of Intensive Care Unit (ICU)&#xD;
+      patients, as prolonged mechanical ventilation harms patients and failed extubation (i.e.&#xD;
+      re-intubation within 48 hrs) is associated with increased morbidity, mortality and costs. The&#xD;
+      urgent need to improve extubation failure is further highlighted by current observations&#xD;
+      suggesting that COVID-19 patients are at increased risk of both early and late extubation&#xD;
+      failure. The investigators previously found that decreased respiratory rate variability&#xD;
+      (indicative of reduced adaptability and/or increased stress) during Spontaneous Breathing&#xD;
+      Trials (SBTs) predicted extubation failure and outperformed the best available predictive&#xD;
+      indices. Combining this predictive analytic with standardized extubation readiness checklists&#xD;
+      and risk mitigation strategies, the investigators created the Extubation Advisor (EA). The&#xD;
+      investigators recently completed a single-center phase I mixed methods observational study&#xD;
+      (n=117) wherein there was demonstrated technical feasibility (i.e. ability to generate 92% EA&#xD;
+      of reports) and clinician acceptance of the EA tool. In the current open-label, multi-center&#xD;
+      interventional phase I study, the investigators will assess the feasibility and initial&#xD;
+      perceptions of EA implementation in the intensive care unit by (1) evaluating the feasibility&#xD;
+      of patient enrolment, data collection, and EA report generation, and (2) performing a&#xD;
+      mixed-methods analysis of critical care physician and respiratory therapist perceptions of&#xD;
+      EA. Findings from this study will inform a future randomized controlled trial assessing EA&#xD;
+      outcomes compared to standard of care, with the intent of aiding bedside decision-making,&#xD;
+      enhancing care delivery, and improving outcomes in critically ill patients with and without&#xD;
+      COVID-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 2021</start_date>
+  <completion_date type="Anticipated">June 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Open-label, multi-center interventional Phase 1 study to implement and evaluate perceptions of Extubation Advisor in consenting patients in the intensive care unit.</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Evaluate feasibility of enrolling and consenting greater than 50% of eligible patients</measure>
+    <time_frame>Upon study completion, 4 months after study initiation</time_frame>
+    <description>Feasibility of patient enrolment and consent will be evaluated by determining if greater than 50% of eligible patients are enrolled and consented</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Evaluate feasibility of capturing greater than 75% of wave form data</measure>
+    <time_frame>Upon study completion, 4 months after study initiation</time_frame>
+    <description>Feasibility of wave form data capture will be evaluated by determining if greater than 75% of the time, wave form data is captured</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Evaluate feasibility of entering greater than 90% of participant clinical data into the Extubation Advisor tool</measure>
+    <time_frame>Upon study completion, 4 months after study initiation</time_frame>
+    <description>Feasibility of participant clinical data entry will be evaluated by determining if greater than 90% of the time, participant clinical data is fully entered into the Extubation Advisor tool</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Evaluate feasibility of generating and delivering greater than 80% of Extubation Advisor reports to the attending physician</measure>
+    <time_frame>Upon study completion, 4 months after study initiation</time_frame>
+    <description>Feasibility of Extubation Advisor report generation will be evaluated by determining if greater than 80% of the time, an extubation report is successfully generated and delivered to the attending physician</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Evaluate opinions of Physicians and Respiratory Therapists regarding Extubation Advisor</measure>
+    <time_frame>Upon study completion, 4 months after study initiation</time_frame>
+    <description>Usability, perceived value, identified behaviours, perceived barriers and drivers, and perceived impact will be assessed through interviews with respiratory therapists and attending physicians</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Evaluate feasibility of completing greater than 90% of clinical CRFs</measure>
+    <time_frame>Upon study completion, 4 months after study initiation</time_frame>
+    <description>Feasibility of completing the clinical case report forms will be evaluated by determining if greater than 90% of the time, clinical CRFs are complete</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">72</enrollment>
+  <condition>Airway Extubation</condition>
+  <arm_group>
+    <arm_group_label>Intervention Arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Wave form data from participants' spontaneous breathing trials (SBT) will be analyzed using Extubation Advisor (EA) to generate an EA report that provides clinical decision support regarding extubation.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Extubation Advisor</intervention_name>
+    <description>Participants undergoing a Spontaneous Breathing Trial (SBT) to assess readiness for extubation will be connected to a portable monitor displaying ECG, capnography, and other waveforms. This monitor will also be connected to a laptop containing the Extubation Advisor (EA) software. During the SBT, relevant patient information will be entered into the EA application and the EA application will record waveform data. When the SBT is complete, the EA application will analyze the waveform and patient data to generate a score summarizing the risk of extubation failure. A report will be generated and provided to the respiratory therapist and attending physician to help determine whether to proceed with extubation or not. Patients will be followed for 72 hours after extubation, when the clinical outcome case report form will be completed.</description>
+    <arm_group_label>Intervention Arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  In the Intensive Care Unit (ICU)&#xD;
+&#xD;
+          -  Able to provide informed consent (through a surrogate)&#xD;
+&#xD;
+          -  Invasive mechanical ventilation for &gt; 48 hours&#xD;
+&#xD;
+          -  Ready for spontaneous breathing test (SBT) for assessment for extubation&#xD;
+&#xD;
+          -  At least partial reversal of the condition precipitating mechanical ventilation&#xD;
+&#xD;
+          -  Stabilization of other organ systems&#xD;
+&#xD;
+          -  Toleration of pressure support ventilation less than or equal to 14 cm H2O, (oxygen&#xD;
+             saturation (SpO2) greater than or equal to 90% with fraction of inspired oxygen (FiO2)&#xD;
+             less than or equal to 40% and positive end-expiry pressure (PEEP) less than or equal&#xD;
+             to 10cm H2O)&#xD;
+&#xD;
+          -  Hemodynamic stability (low - phenylephrine less than 50 ug/min; norepinephrine less&#xD;
+             than 5 ug/min; dobutamine less than 5 ug/kg/min; milrinone less than 0.4 ug/kg/min -&#xD;
+             or no vasopressors)&#xD;
+&#xD;
+          -  Stable neurological status (no deterioration in Glasgow coma score during prior 24&#xD;
+             hours and, if measured, intracranial pressure (ICP) less than 20 mmHg)&#xD;
+&#xD;
+          -  Intact airway reflexes (adequate cough with suctioning and a gag reflex)&#xD;
+&#xD;
+          -  Normal sinus rhythm at the time of the SBT (no pacemaker)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Order not to re-intubate should the patient fail extubation&#xD;
+&#xD;
+          -  Anticipated withdrawal of life support&#xD;
+&#xD;
+          -  Known or suspected severe weakness (myopathy, neuropathy, or quadriplegia)&#xD;
+&#xD;
+          -  Tracheostomy&#xD;
+&#xD;
+          -  Prior extubation during current ICU stay&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Andrew JE Seely, MD, PhD, FRCSC</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The Ottawa Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Andrew JE Seely, MD, PhD, FRCSC</last_name>
+    <phone>613-737-8899</phone>
+    <phone_ext>74052</phone_ext>
+    <email>aseely@toh.ca</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>The Ottawa Hospital, General Campus</name>
+      <address>
+        <city>Ottawa</city>
+        <state>Ontario</state>
+        <zip>K1H 8L6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>January 11, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 11, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 14, 2021</study_first_posted>
+  <last_update_submitted>January 13, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 13, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 15, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

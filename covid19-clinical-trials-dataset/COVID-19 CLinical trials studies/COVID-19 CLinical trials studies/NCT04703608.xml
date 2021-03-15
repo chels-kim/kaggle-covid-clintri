@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="849">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04703608</url>
+  </required_header>
+  <id_info>
+    <org_study_id>LEO 22628</org_study_id>
+    <nct_id>NCT04703608</nct_id>
+  </id_info>
+  <brief_title>Prevention and Treatment for COVID -19 (Severe Acute Respiratory Syndrome Coronavirus 2 SARS-CoV-2) Associated Severe Pneumonia in the Gambia</brief_title>
+  <acronym>PaTS-COVID</acronym>
+  <official_title>Prevention and Treatment for COVID -19 Associated Severe Pneumonia in The Gambia: a Single-Blinded Randomised Clinical Trial (PaTS-COVID)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>London School of Hygiene and Tropical Medicine</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>London School of Hygiene and Tropical Medicine</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The trial aims to assess the impact of cheap, licenced and widely available investigational&#xD;
+      products on the natural history of SARS-CoV-2 infection in 2 groups of patients - those with&#xD;
+      mild or moderate pneumonia (Cohort 1) and those with severe pneumonia (Cohort 2), through&#xD;
+      randomisation to non-identical placebo or intervention arm.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The trial is adaptive in design, with the option to change the investigational products&#xD;
+      should evidence change on the benefits/harms of the interventions being trialed.&#xD;
+&#xD;
+      Cohort 1. Currently index cases with mild COVID-19 or moderate pneumonia will be randomized&#xD;
+      to ivermectin 0.3-0.4mg/Kg daily for 3 days (arms 1 and 2) or non-identical placebo (arm 3).&#xD;
+      Index case randomization will also include HH members who will be treated with ivermectin&#xD;
+      0.3-0.4mg/Kg daily for 3 days (arm 1) or non-identical placebo (arms 2 and 3). All households&#xD;
+      will receive a preventative package (containing soap, bleach, cloth facemasks and&#xD;
+      instructions on their use).&#xD;
+&#xD;
+      Cohort 2. Patients admitted to hospital meeting WHO criteria for severe COVID-19 pneumonia&#xD;
+      will be randomized to aspirin 150mg daily or non-identical placebo for 28 days or until&#xD;
+      hospital discharge (whichever is sooner). Other care will follow National guidelines.&#xD;
+&#xD;
+      The study will be conducted at multiple sites in The Gambia, with the option to recruit from&#xD;
+      other West African countries should this be necessary (subject to further local ethical&#xD;
+      review/s).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">January 2021</start_date>
+  <completion_date type="Anticipated">July 2022</completion_date>
+  <primary_completion_date type="Anticipated">March 2022</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Two cohorts study as follows:&#xD;
+Cohort 1: intervention with Ivermectin&#xD;
+Cohort 2: intervention with Aspirin Parallel assignment</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Participant)</masking>
+    <masking_description>Single blind non-identical placebo</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Cohort 1 Index Case: Percentage of patients with COVID-19 associated mild disease/moderate pneumonia progressing to severe pneumonia [Time frame 14 days]</measure>
+    <time_frame>14 days</time_frame>
+    <description>Percentage of patients with COVID-19 associated mild disease/moderate pneumonia progressing within 14 days after recruitment into severe pneumonia (as per WHO definitions of severity, for each age group)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cohort 1 Household contacts: Percentage of HH members that get infected with SARS-CoV-2 [Time frame 14 days]</measure>
+    <time_frame>14 days</time_frame>
+    <description>Percentage of HH members that get infected with SARS-CoV-2 during the 14 days following recruitment (defined as those RT-PCR and IgM/IgG negative at day 1 who become positive either by RT-PCR or IgM/IgG by day 14)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cohort 2: Percentage of COVID-19 associated severe pneumonia patients worsening their condition [Time frame at discharge or day 28 (whichever is first)]</measure>
+    <time_frame>up to 28 days</time_frame>
+    <description>Percentage of COVID-19 associated severe pneumonia patients meeting the criteria of failure defined as worsening their condition from baseline (on admission) for a period of at least 24 hours, scale as follows:&#xD;
+On or requiring supplemental oxygen given by nasal cannula or face mask to maintain SpO2 within target range&#xD;
+On or requiring non-invasive (eg CPAP or BiPAP) or invasive ventilatory support to maintain SpO2 within target range (or not maintaining SpO2 within target range with supplemental oxygen given by nasal cannula or face mask)&#xD;
+Death during hospitalization</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Cohort1 Index cases: Days from recruitment to virological clearance [Time frame 28 days]</measure>
+    <time_frame>28 days</time_frame>
+    <description>- Days from recruitment to virological clearance defined as one negative SARS-CoV2 virus RT-PCRs.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days from recruitment until clinical recovery</measure>
+    <time_frame>28 days</time_frame>
+    <description>- Days from recruitment until clinical recovery defined as two consecutive days of no fever (T ≤37.50C) and normal respiratory rate (as per normal range for age and WHO definitions) (only once if day 28 as end of follow-up</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>- IgG geometric mean titre (GMT) at day 14 and 28 after recruitment [Time frame 14 days and 28 days]</measure>
+    <time_frame>14 days and 28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Household contacts IgG geometric mean titre (GMT) at day 14 after recruitment [Time frame 14 days]</measure>
+    <time_frame>14 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of HH members infected that develop COVID19 symptoms [Time frame 14 days]</measure>
+    <time_frame>14 days</time_frame>
+    <description>(defined as those asymptomatic at day 1 that become symptomatic by day 14 (COVID-19 positive either by RT-PCR or IgM/IgG and meet criteria for Cohort 1 index case or cohort 2)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort 2 - Hours from recruitment to hospital discharge [Time frame at discharge]</measure>
+    <time_frame>up to 28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>- Hours of duration on oxygen supplementation [Time frame at discharge or day 28 (whichever is first)]</measure>
+    <time_frame>at discharge or day 28 (whichever is first)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>- Death ratio during hospitalization [Time frame at time of death]</measure>
+    <time_frame>up to 28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>- Death ratio at 28 days after enrolment [Time frame 28 days]</measure>
+    <time_frame>28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>- Death ratio at 90 days after enrolment [Time frame 90 days]</measure>
+    <time_frame>90 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>- Occurrence of clinical thrombotic and embolic events (myocardial infarction, pulmonary embolus, deep venous thrombosis, cerebrovascular accidents). [Time frame 90 days]</measure>
+    <time_frame>90 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>- Occurrence of clinical episodes of gastrointestinal bleeding [Time frame 90 days]</measure>
+    <time_frame>90 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>- Change in CRP and D-Dimer levels between baseline (enrolment) and day 3-5 [Time frame 5 days]</measure>
+    <time_frame>enrolment / days 3-5</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>- Persisting breathlessness at 28 days and 90 days after enrolment [Time frame 28 days/90 days ]</measure>
+    <time_frame>at 28 day and at 90 day</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>- Self-reported health at 28 days and 90 days [Time frame 28 days/ 90 days]</measure>
+    <time_frame>at 28 days and 90 days</time_frame>
+    <description>Poor self-reported health assessed by a linear self-reported health scale from the EQ-5D questionnaire in person or by telephone</description>
+  </secondary_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Anticipated">1200</enrollment>
+  <condition>Covid-19</condition>
+  <arm_group>
+    <arm_group_label>Arm 1 of Cohort 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Index Case / Household members Ivermectin / Ivermectin (with preventative package)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 2 of Cohort 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Index Case / Household members Ivermectin / Placebo (with preventative package)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 3 of Cohort 1</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Index Case / Household members Placebo / Placebo (with preventative package)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 1 of Cohort 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Aspirin 150mg daily for 28 days or until hospital discharge or death (whichever is sooner)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 2 of Cohort 2</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Non identical placebo; doses as per above</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ivermectin</intervention_name>
+    <description>Ivermectin 0.3-0.4mg/Kg daily for 3 days.</description>
+    <arm_group_label>Arm 1 of Cohort 1</arm_group_label>
+    <arm_group_label>Arm 2 of Cohort 1</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ASP</intervention_name>
+    <description>Aspirin 150mg daily for 28 days or until hospital discharge (whichever is sooner)</description>
+    <arm_group_label>Arm 1 of Cohort 2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Non-identical placebo</description>
+    <arm_group_label>Arm 2 of Cohort 1</arm_group_label>
+    <arm_group_label>Arm 2 of Cohort 2</arm_group_label>
+    <arm_group_label>Arm 3 of Cohort 1</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Cohort 1:&#xD;
+&#xD;
+        Index case - Individuals ≥ 5 years of age with confirmed COVID19 mild disease or moderate&#xD;
+        pneumonia defined as:&#xD;
+&#xD;
+          -  Mild disease - Influenza like illness, with any of the following symptoms cough,&#xD;
+             fever, headache, sore throat, nasal congestion/runny nose, body pains (myalgia),&#xD;
+             fatigue (malaise), diarrhoea, abdominal pain, anorexia, nausea or vomiting without&#xD;
+             evidence of pneumonia or hypoxia&#xD;
+&#xD;
+          -  Moderate pneumonia -Clinical signs of pneumonia (fever, cough, dyspnoea, fast&#xD;
+             breathing) with no need for supplemental oxygen (oxygen saturation ≥90%% on room air&#xD;
+             or RR between 20 and 30bpm).&#xD;
+&#xD;
+        Household contacts - Individuals ≥ 5 years of age living in the same household with the&#xD;
+        index cases from cohort 1 will be offered to participate into the study. Living in the same&#xD;
+        household is defined as those individuals who are planning to sleep in and eat from same&#xD;
+        'cooking pot' during the following 2 weeks.&#xD;
+&#xD;
+        Cohort 2:&#xD;
+&#xD;
+        Individuals ≥12 years of age with suspected or confirmed COVID-19 associated severe&#xD;
+        pneumonia defined as signs of pneumonia (fever, cough, dyspnoea or fast breathing) plus one&#xD;
+        of: oxygen saturation (SpO2) &lt;90% on room air OR respiratory rate &gt; 30 breaths/minute&#xD;
+&#xD;
+        Suspected COVID-19 disease is defined as clinically or radiologically suspected as&#xD;
+        determined by the most senior clinician available:&#xD;
+&#xD;
+          1. Clinically suspected Signs and symptoms of pneumonia (as defined above) AND patient&#xD;
+             living in or recent travel to region with community transmission OR close contact with&#xD;
+             known COVID-19 patient AND no alternative diagnosis to explain the clinical picture OR&#xD;
+&#xD;
+          2. Radiologically suspected Typical radiological signs of COVID-19 on chest X-ray or lung&#xD;
+             ultrasound&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Pregnant women will be excluded from both Cohort 1 and Cohort 2. Patients with&#xD;
+             allergies to the investigational products will be excluded Cohort 1 (Ivermectin)&#xD;
+             Lactating mothers will be excluded&#xD;
+&#xD;
+        Cohort 2 (aspirin):&#xD;
+&#xD;
+          -  Taking aspirin or other non steroidal anti-inflammatory drugs for any reason.&#xD;
+&#xD;
+          -  Any bleeding disorder (e.g. frequent nose bleeds, haemophilia)&#xD;
+&#xD;
+          -  Active or recurrent peptic ulcer disease (defined as currently on triple therapy or&#xD;
+             had more than 1 course of triple therapy in the past 12 months. Do not count symptoms&#xD;
+             of gastritis or on omeprazole as peptic ulcer disease)&#xD;
+&#xD;
+          -  Current active gastrointestinal haemorrhage&#xD;
+&#xD;
+          -  Severe liver disease or severe kidney disease (severe liver disease defined as&#xD;
+             cirrhosis with portal hypertension and history of variceal bleeding; severe kidney&#xD;
+             disease defined as stage 4/5 KD, eGFR &lt;30ml/min)&#xD;
+&#xD;
+          -  Gout&#xD;
+&#xD;
+          -  Suspected intra-cerebral haemorrhage&#xD;
+&#xD;
+          -  Diagnosed with a stroke on this admission&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>5 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Effua Usuf, MBChB, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Medical Research Council The Gambia at London School of Hygiene &amp; Tropical Medicine</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Behzad Nadjm, MBChB, FRCP</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Medical Research Council The Gambia at London School of Hygiene &amp; Tropical Medicine</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Anna Roca, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Medical Research Council The Gambia at London School of Hygiene &amp; Tropical Medicine</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Gibbi Sey</last_name>
+    <phone>+220 4495442</phone>
+    <phone_ext>2204</phone_ext>
+    <email>gsey@mrc.gm</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Vivat Thomas Njie</last_name>
+    <phone>+220 4495442</phone>
+    <phone_ext>2202</phone_ext>
+    <email>vthomas@mrc.gm</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Mrcg@Lshtm</name>
+      <address>
+        <city>Fajara</city>
+        <country>Gambia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Effua Usuf, MBChB</last_name>
+      <phone>+2204495442-6</phone>
+      <phone_ext>5014</phone_ext>
+      <email>eusuf@mrc.gm</email>
+    </contact>
+    <contact_backup>
+      <last_name>Behzad Nadjm, MBChB</last_name>
+      <phone>+2204495442-6</phone>
+      <phone_ext>2123</phone_ext>
+      <email>bnadjm@mrc.gm</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Gambia</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>January 6, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 8, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 11, 2021</study_first_posted>
+  <last_update_submitted>January 26, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 26, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 27, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Ivermectin</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

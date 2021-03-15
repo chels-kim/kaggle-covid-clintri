@@ -1,0 +1,1360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3222">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04542226</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Covid_v_1.0</org_study_id>
+    <nct_id>NCT04542226</nct_id>
+  </id_info>
+  <brief_title>Observational Open Study of Polyoxidonium in Hospitalized Patients With COVID-19</brief_title>
+  <official_title>Open Observational Study of Efficacy and Safety of Polyoxidonium in Complex Therapy of Hospitalized Patients With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>NPO Petrovax</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>NPO Petrovax</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study is designed as an open observational non-comparative study of Polyoxidonium®,&#xD;
+      lyophilizate for solution for injections and topical application, 12 mg in hospitalized&#xD;
+      patients with coronavirus disease (COVID-19).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The study was planned as an observation of Polyoxidonium® administered in addition to Russian&#xD;
+      Ministry of Healthcare (MoH) guidance for standard COVID-19 treatment. Regimens have no&#xD;
+      limitations to the use of concomitant therapy. The aim of the study is to observe the safety&#xD;
+      and efficacy of Polyoxidonium®, lyophilizate for solution for injections, 12 mg in addition&#xD;
+      to complex treatment of hospitalized patients with COVID-19.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">March 31, 2020</start_date>
+  <completion_date type="Actual">October 30, 2020</completion_date>
+  <primary_completion_date type="Actual">July 15, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Clinical Status of the Patient (According to 7-point Ordinal Scale)</measure>
+    <time_frame>Day 1 (Baseline), Day 15</time_frame>
+    <description>Subject clinical status using the 7-point Ordinal Scale, specified as the primary endpoint in the WHO Master Protocol on day 15 as compared to baseline&#xD;
+(1 - Not hospitalized, no limitations on activities; 2 - Not hospitalized, limitation on activities; 3 - Hospitalized, not requiring supplemental oxygen; 4 - Hospitalized, requiring supplemental oxygen; 5 - Hospitalized, on non-invasive ventilation or high flow oxygen devices; 6 - Hospitalized, on invasive mechanical ventilation or extracorporeal membrane oxygenation; 7 - Death).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to Improvement in Clinical Status of the Patient (According to Ordinal Scale) by 1 Point for Each OS Score</measure>
+    <time_frame>Days 1 - 29.</time_frame>
+    <description>Ordinal scale (OS) score status, time to improvement by 1 point for each OS score.&#xD;
+Subject clinical status using the 7-point Ordinal Scale:&#xD;
+- Not hospitalized, no limitations on activities;&#xD;
+- Not hospitalized, limitation on activities;&#xD;
+- Hospitalized, not requiring supplemental oxygen;&#xD;
+- Hospitalized, requiring supplemental oxygen;&#xD;
+- Hospitalized, on non-invasive ventilation or high flow oxygen devices;&#xD;
+- Hospitalized, on invasive mechanical ventilation or extracorporeal membrane oxygenation;&#xD;
+- Death.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical Status of the Patient (According to National Early Warning Score (NEWS Scale))</measure>
+    <time_frame>Days 1 - 29.</time_frame>
+    <description>NEWS scale score status, time to a discharge from a hospital or to a NEWS of ≤ 2 and maintained for 24 hours, whichever occurs first.&#xD;
+NEWS score is based on 7 clinical parameters:&#xD;
+respiration rate, oxygen saturation, supplemental oxygen, systolic blood pressure, pulse rate, level of consciousness, temperature. A score of 0, 1, 2, 3 is allocated to each parameter except supplemental oxygen (a score 0 or 1 is allocated) and level of consciousness (a score 0 or 3 is allocated). A higher score means the parameter is further from the normal range. All scores were summed to get an aggregate score. Aggregate score ranges from 0 to 19, with higher scores meaning higher risk.&#xD;
+Low risk - aggregate score, 1-4 Low to medium risk - score 3 in any single parameter, Medium risk - aggregate score 5-6, High risk - aggregate score 7-19.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Patients Requiring Supplementary Oxygen</measure>
+    <time_frame>Days intervals 1 (baseline), 3, 5, 8, 11, 15, 29.</time_frame>
+    <description>Number of patients requiring supplementary oxygen on Days 3, 5, 8, 11, 15, 29</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospitalisation Duration</measure>
+    <time_frame>Days 1 - 29</time_frame>
+    <description>Duration of hospitalisation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>Days 1 - 29.</time_frame>
+    <description>Number of participants who were dead or alive (Days 1 - 29)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The Number of Participants With Serious Adverse Events</measure>
+    <time_frame>Days 1 - 29.</time_frame>
+    <description>The number of participants with serious adverse events (SAE)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The Number of Participants With Adverse Events</measure>
+    <time_frame>Days 1 - 29.</time_frame>
+    <description>The number of participants with adverse events (AE)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants With Discontinuation of Drug Administration</measure>
+    <time_frame>Days 1 - 17.</time_frame>
+    <description>Number of participants with Permanent or temporary discontinuation of infusions or injections due to adverse events</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Actual">81</enrollment>
+  <condition>Infections, Coronavirus</condition>
+  <arm_group>
+    <arm_group_label>Adult patients hospitalized with COVID-19</arm_group_label>
+    <description>Patients eligible for enrollment into the study</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Polyoxidonium</intervention_name>
+    <description>Polyoxidonium (azoximer bromide) is administered in the dose of 12 mg (contents of 2 vials) once daily intravenously (IV) for 3 days, then every other day intramuscularly (IM) on days 5-17 (the total treatment course is 10 injections)</description>
+    <arm_group_label>Adult patients hospitalized with COVID-19</arm_group_label>
+    <other_name>azoximer bromide</other_name>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Hospitalized adult patients with verified diagnosis of COVID-19 administered Polyoxidonium,&#xD;
+        according to the instruction for its medical usage in complex with Russian MoH guidance for&#xD;
+        treatment of COVID-19&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. The hospitalized patient was administered Polyoxidonium, according to the instruction&#xD;
+             for medical usage in complex with Russian MoH guidance for treatment of COVID-19.&#xD;
+&#xD;
+          2. Verified coronavirus disease COVID-19, and at least one of the following:&#xD;
+&#xD;
+               -  severe disease: mechanical ventilation or oxygen supply required with blood&#xD;
+                  oxygen saturation (SpO2) ≤ 94% on room air or tachypnea, respiratory rate ≥ 24&#xD;
+                  breaths per minute,&#xD;
+&#xD;
+               -  mild-moderate disease: SpO2 &gt; 94% on room air or respiratory rate &lt; 24 breaths&#xD;
+                  per minute.&#xD;
+&#xD;
+          3. The patient signed an Informed Consent form for participation in this study.&#xD;
+&#xD;
+          4. The patient can understand all protocol requirements, perform the study procedures,&#xD;
+             and agree to all limitations specified in the protocol.&#xD;
+&#xD;
+          5. Male and female patients from 18 years of age.&#xD;
+&#xD;
+          6. Confirmed diagnosis of coronavirus disease (COVID-19): laboratory-confirmed Severe&#xD;
+             acute respiratory syndrome-related coronavirus 2 (SARS-CoV-2) infection as determined&#xD;
+             by polymerase chain reaction (PCR), or other commercial or public health assay in any&#xD;
+             specimen prior to inclusion.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Pregnancy or breastfeeding.&#xD;
+&#xD;
+          2. Pathological condition that the study doctor considers significant enough to prevent&#xD;
+             enrolment of this patient.&#xD;
+&#xD;
+          3. Participation in any clinical study within 30 days before the Informed Consent form&#xD;
+             provided.&#xD;
+&#xD;
+          4. Hypersensitivity and/or intolerability to any ingredient of the investigational&#xD;
+             product.&#xD;
+&#xD;
+          5. Acute or chronic renal failure.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>Nikolay S. Dodonov</last_name>
+    <role>Study Chair</role>
+    <affiliation>NPO Petrovax</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Healthcare Institution &quot;Grodno Regional Infectious Clinical Hospital&quot;</name>
+      <address>
+        <city>Grodno</city>
+        <zip>230030</zip>
+        <country>Belarus</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>State-Funded Healthcare Institution &quot;Emergency Hospital&quot; of Ministry of Health of Chuvash Republic</name>
+      <address>
+        <city>Cheboksary</city>
+        <state>Chuvashia</state>
+        <zip>428017</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>State-Funded Healthcare Institution &quot;Infectious Disease Hospital No.3&quot; of Ministry of Health of Krasnodar Krai</name>
+      <address>
+        <city>Novorossiysk</city>
+        <state>Krasnodar Krai</state>
+        <zip>353915</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>State-Funded Institution of Mari El Republic &quot;Yoshkar-Ola City Hospital&quot;</name>
+      <address>
+        <city>Yoshkar-Ola</city>
+        <state>Mari El Republic</state>
+        <zip>424005</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>State-Funded Healthcare Institution of Voronezh Region &quot;Novaya Usman District Hospital&quot;</name>
+      <address>
+        <city>Novaya Usman</city>
+        <state>Voronezh Region</state>
+        <zip>396310</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Belarus</country>
+    <country>Russian Federation</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>September 8, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 8, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 9, 2020</study_first_posted>
+  <results_first_submitted>November 12, 2020</results_first_submitted>
+  <results_first_submitted_qc>November 24, 2020</results_first_submitted_qc>
+  <results_first_posted type="Actual">December 3, 2020</results_first_posted>
+  <last_update_submitted>December 7, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 7, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 9, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Bromides</mesh_term>
+  </intervention_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>March 30, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/26/NCT04542226/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Adult Patients Hospitalized With COVID-19</title>
+          <description>Patients eligible for enrollment into the study&#xD;
+Polyoxidonium: Polyoxidonium (azoximer bromide) is administered in the dose of 12 mg (contents of 2 vials) once daily intravenously (IV) for 3 days, then every other day intramuscularly (IM) on days 5-17 (the total treatment course is 10 injections)</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="81"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="81"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Adult Patients Hospitalized With COVID-19</title>
+          <description>Patients eligible for enrollment into the study&#xD;
+Polyoxidonium: Polyoxidonium (azoximer bromide) is administered in the dose of 12 mg (contents of 2 vials) once daily intravenously (IV) for 3 days, then every other day intramuscularly (IM) on days 5-17 (the total treatment course is 10 injections)</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="81"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="71"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="50.88" spread="12.81"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="44"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="37"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="77"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>Belarus</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Russia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="71"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Baseline severity according to the National Early Warning Score (NEWS Score)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Very Severe (NEWS ≥ 9)</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="30"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Severe or Moderate (NEWS = 5…8)</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="28"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Mild (NEWS ≤ 4)</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="23"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Respiratory support type</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Invasive lung ventilation</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="14"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Non-invasive lung ventilation</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="25"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Oxygen therapy</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="25"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>None</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="17"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Mechanical ventilation</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Present</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="39"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Absent</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="42"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Basic concomitant medication</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Antivirals</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="46"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Antimalarial</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="37"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Anticoagulants</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="41"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ordinal Scale (OS) score</title>
+          <description>Clinical status assessment with 7-point ordinal scale (WHO Master Protocol [1])&#xD;
+- Patient is not hospitalized, no limitations on activities;&#xD;
+- Patient is not hospitalized, limitation on activities;&#xD;
+- Patient is hospitalized, not requiring supplemental oxygen;&#xD;
+- Patient is hospitalized, requiring supplemental oxygen;&#xD;
+- Patient is hospitalized, on non-invasive ventilation or high flow oxygen devices;&#xD;
+- Patient is hospitalized, on invasive mechanical ventilation or extracorporeal membrane oxygenation (ECMO);&#xD;
+- Death.</description>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4.30" spread="1.02"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>News Score (National Early Warning Score)</title>
+          <description>NEWS score is based on 7 clinical parameters:&#xD;
+respiration rate, oxygen saturation, supplemental oxygen, systolic blood pressure, pulse rate, level of consciousness, temperature. A score of 0, 1, 2, 3 is allocated to each parameter except supplemental oxygen (a score 0 or 1 is allocated) and level of consciousness (a score 0 or 3 is allocated). A higher score means the parameter is further from the normal range. All scores were summed to get an aggregate score. Aggregate score ranges from 0 to 19, with higher scores meaning higher risk.</description>
+          <units>units on a scale</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6.51" spread="3.41"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Clinical Status of the Patient (According to 7-point Ordinal Scale)</title>
+        <description>Subject clinical status using the 7-point Ordinal Scale, specified as the primary endpoint in the WHO Master Protocol on day 15 as compared to baseline&#xD;
+(1 - Not hospitalized, no limitations on activities; 2 - Not hospitalized, limitation on activities; 3 - Hospitalized, not requiring supplemental oxygen; 4 - Hospitalized, requiring supplemental oxygen; 5 - Hospitalized, on non-invasive ventilation or high flow oxygen devices; 6 - Hospitalized, on invasive mechanical ventilation or extracorporeal membrane oxygenation; 7 - Death).</description>
+        <time_frame>Day 1 (Baseline), Day 15</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Adult Patients Hospitalized With COVID-19</title>
+            <description>Patients eligible for enrollment into the study&#xD;
+Polyoxidonium: Polyoxidonium (azoximer bromide) is administered in the dose of 12 mg (contents of 2 vials) once daily intravenously (IV) for 3 days, then every other day intramuscularly (IM) on days 5-17 (the total treatment course is 10 injections)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Clinical Status of the Patient (According to 7-point Ordinal Scale)</title>
+          <description>Subject clinical status using the 7-point Ordinal Scale, specified as the primary endpoint in the WHO Master Protocol on day 15 as compared to baseline&#xD;
+(1 - Not hospitalized, no limitations on activities; 2 - Not hospitalized, limitation on activities; 3 - Hospitalized, not requiring supplemental oxygen; 4 - Hospitalized, requiring supplemental oxygen; 5 - Hospitalized, on non-invasive ventilation or high flow oxygen devices; 6 - Hospitalized, on invasive mechanical ventilation or extracorporeal membrane oxygenation; 7 - Death).</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="81"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Number of patients at Baseline (Day 1)</title>
+              <category_list>
+                <category>
+                  <title>1. Not hospitalized, no limitations on activities</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>2. Not hospitalized, limitation on activities</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>3. Hospitalized, not requiring supplemental oxygen</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="22"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>4. Hospitalized, requiring supplemental oxygen</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="24"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>5. Hospitalized, on non-invasive ventilation or high flow oxygen devices</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="24"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>6. Hospitalized, on invasive mechanical ventilation or extracorporeal membrane oxygenation</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="11"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>7. Death</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Number of patients on Day 15</title>
+              <category_list>
+                <category>
+                  <title>1. Not hospitalized, no limitations on activities</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>2. Not hospitalized, limitation on activities</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="27"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>3. Hospitalized, not requiring supplemental oxygen</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="37"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>4. Hospitalized, requiring supplemental oxygen</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>5. Hospitalized, on non-invasive ventilation or high flow oxygen devices</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>6. Hospitalized, on invasive mechanical ventilation or extracorporeal membrane oxygenation</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>7. Death</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+            </group_id_list>
+            <non_inferiority_type>Other</non_inferiority_type>
+            <p_value>&lt;0.0000001</p_value>
+            <p_value_desc>the a priori threshold for statistical significance p&lt;0.05</p_value_desc>
+            <method>Wilcoxon (Mann-Whitney)</method>
+            <method_desc>Wilcoxon signed-rank test for repeated measures was used to compare with baseline.</method_desc>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Time to Improvement in Clinical Status of the Patient (According to Ordinal Scale) by 1 Point for Each OS Score</title>
+        <description>Ordinal scale (OS) score status, time to improvement by 1 point for each OS score.&#xD;
+Subject clinical status using the 7-point Ordinal Scale:&#xD;
+- Not hospitalized, no limitations on activities;&#xD;
+- Not hospitalized, limitation on activities;&#xD;
+- Hospitalized, not requiring supplemental oxygen;&#xD;
+- Hospitalized, requiring supplemental oxygen;&#xD;
+- Hospitalized, on non-invasive ventilation or high flow oxygen devices;&#xD;
+- Hospitalized, on invasive mechanical ventilation or extracorporeal membrane oxygenation;&#xD;
+- Death.</description>
+        <time_frame>Days 1 - 29.</time_frame>
+        <population>Administration of Polyoxidonium was canceled due to Adverse event in 1 patient. Patient received only 2 injections.This is the reason why the needed information for this Outcome Measure is absent for 1 patient.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Adult Patients Hospitalized With COVID-19</title>
+            <description>Patients eligible for enrollment into the study&#xD;
+Polyoxidonium: Polyoxidonium (azoximer bromide) is administered in the dose of 12 mg (contents of 2 vials) once daily intravenously (IV) for 3 days, then every other day intramuscularly (IM) on days 5-17 (the total treatment course is 10 injections)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time to Improvement in Clinical Status of the Patient (According to Ordinal Scale) by 1 Point for Each OS Score</title>
+          <description>Ordinal scale (OS) score status, time to improvement by 1 point for each OS score.&#xD;
+Subject clinical status using the 7-point Ordinal Scale:&#xD;
+- Not hospitalized, no limitations on activities;&#xD;
+- Not hospitalized, limitation on activities;&#xD;
+- Hospitalized, not requiring supplemental oxygen;&#xD;
+- Hospitalized, requiring supplemental oxygen;&#xD;
+- Hospitalized, on non-invasive ventilation or high flow oxygen devices;&#xD;
+- Hospitalized, on invasive mechanical ventilation or extracorporeal membrane oxygenation;&#xD;
+- Death.</description>
+          <population>Administration of Polyoxidonium was canceled due to Adverse event in 1 patient. Patient received only 2 injections.This is the reason why the needed information for this Outcome Measure is absent for 1 patient.</population>
+          <units>days</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="80"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="13.77" spread="6.01"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Clinical Status of the Patient (According to National Early Warning Score (NEWS Scale))</title>
+        <description>NEWS scale score status, time to a discharge from a hospital or to a NEWS of ≤ 2 and maintained for 24 hours, whichever occurs first.&#xD;
+NEWS score is based on 7 clinical parameters:&#xD;
+respiration rate, oxygen saturation, supplemental oxygen, systolic blood pressure, pulse rate, level of consciousness, temperature. A score of 0, 1, 2, 3 is allocated to each parameter except supplemental oxygen (a score 0 or 1 is allocated) and level of consciousness (a score 0 or 3 is allocated). A higher score means the parameter is further from the normal range. All scores were summed to get an aggregate score. Aggregate score ranges from 0 to 19, with higher scores meaning higher risk.&#xD;
+Low risk - aggregate score, 1-4 Low to medium risk - score 3 in any single parameter, Medium risk - aggregate score 5-6, High risk - aggregate score 7-19.</description>
+        <time_frame>Days 1 - 29.</time_frame>
+        <population>Administration of Polyoxidonium was canceled due to Adverse event in 1 patient. Patient received only 2 injections.This is the reason why the needed information for this Outcome Measure is absent for 1 patient.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Adult Patients Hospitalized With COVID-19</title>
+            <description>Patients eligible for enrollment into the study&#xD;
+Polyoxidonium: Polyoxidonium (azoximer bromide) is administered in the dose of 12 mg (contents of 2 vials) once daily intravenously (IV) for 3 days, then every other day intramuscularly (IM) on days 5-17 (the total treatment course is 10 injections)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Clinical Status of the Patient (According to National Early Warning Score (NEWS Scale))</title>
+          <description>NEWS scale score status, time to a discharge from a hospital or to a NEWS of ≤ 2 and maintained for 24 hours, whichever occurs first.&#xD;
+NEWS score is based on 7 clinical parameters:&#xD;
+respiration rate, oxygen saturation, supplemental oxygen, systolic blood pressure, pulse rate, level of consciousness, temperature. A score of 0, 1, 2, 3 is allocated to each parameter except supplemental oxygen (a score 0 or 1 is allocated) and level of consciousness (a score 0 or 3 is allocated). A higher score means the parameter is further from the normal range. All scores were summed to get an aggregate score. Aggregate score ranges from 0 to 19, with higher scores meaning higher risk.&#xD;
+Low risk - aggregate score, 1-4 Low to medium risk - score 3 in any single parameter, Medium risk - aggregate score 5-6, High risk - aggregate score 7-19.</description>
+          <population>Administration of Polyoxidonium was canceled due to Adverse event in 1 patient. Patient received only 2 injections.This is the reason why the needed information for this Outcome Measure is absent for 1 patient.</population>
+          <units>days</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="80"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8.85" spread="6.10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Patients Requiring Supplementary Oxygen</title>
+        <description>Number of patients requiring supplementary oxygen on Days 3, 5, 8, 11, 15, 29</description>
+        <time_frame>Days intervals 1 (baseline), 3, 5, 8, 11, 15, 29.</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Adult Patients Hospitalized With COVID-19</title>
+            <description>Patients eligible for enrollment into the study&#xD;
+Polyoxidonium: Polyoxidonium (azoximer bromide) is administered in the dose of 12 mg (contents of 2 vials) once daily intravenously (IV) for 3 days, then every other day intramuscularly (IM) on days 5-17 (the total treatment course is 10 injections)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Patients Requiring Supplementary Oxygen</title>
+          <description>Number of patients requiring supplementary oxygen on Days 3, 5, 8, 11, 15, 29</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="81"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline (Day 1)</title>
+              <category_list>
+                <category>
+                  <title>Number of patients requiring supplementary oxygen</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="59"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Number of patients not requiring respiratory support</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="22"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 3</title>
+              <category_list>
+                <category>
+                  <title>Number of patients requiring supplementary oxygen</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="58"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Number of patients not requiring respiratory support</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="23"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 5</title>
+              <category_list>
+                <category>
+                  <title>Number of patients requiring supplementary oxygen</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="56"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Number of patients not requiring respiratory support</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="25"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 8</title>
+              <category_list>
+                <category>
+                  <title>Number of patients requiring supplementary oxygen</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="47"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Number of patients not requiring respiratory support</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="34"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 11</title>
+              <category_list>
+                <category>
+                  <title>Number of patients requiring supplementary oxygen</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="31"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Number of patients not requiring respiratory support</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="50"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 15</title>
+              <category_list>
+                <category>
+                  <title>Number of patients requiring supplementary oxygen</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="14"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Number of patients not requiring respiratory support</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="67"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 29</title>
+              <category_list>
+                <category>
+                  <title>Number of patients requiring supplementary oxygen</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Number of patients not requiring respiratory support</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="80"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Hospitalisation Duration</title>
+        <description>Duration of hospitalisation</description>
+        <time_frame>Days 1 - 29</time_frame>
+        <population>Administration of Polyoxidonium was canceled due to Adverse event in 1 patient. Patient received only 2 injections.This is the reason why the needed information for this Outcome Measure is absent for 1 patient.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Adult Patients Hospitalized With COVID-19</title>
+            <description>Patients eligible for enrollment into the study&#xD;
+Polyoxidonium: Polyoxidonium (azoximer bromide) is administered in the dose of 12 mg (contents of 2 vials) once daily intravenously (IV) for 3 days, then every other day intramuscularly (IM) on days 5-17 (the total treatment course is 10 injections)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Hospitalisation Duration</title>
+          <description>Duration of hospitalisation</description>
+          <population>Administration of Polyoxidonium was canceled due to Adverse event in 1 patient. Patient received only 2 injections.This is the reason why the needed information for this Outcome Measure is absent for 1 patient.</population>
+          <units>days</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="80"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="19.13" spread="5.29"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Mortality</title>
+        <description>Number of participants who were dead or alive (Days 1 - 29)</description>
+        <time_frame>Days 1 - 29.</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Adult Patients Hospitalized With COVID-19</title>
+            <description>Patients eligible for enrollment into the study&#xD;
+Polyoxidonium: Polyoxidonium (azoximer bromide) is administered in the dose of 12 mg (contents of 2 vials) once daily intravenously (IV) for 3 days, then every other day intramuscularly (IM) on days 5-17 (the total treatment course is 10 injections)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Mortality</title>
+          <description>Number of participants who were dead or alive (Days 1 - 29)</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="81"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Alive</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="81"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Dead</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>The Number of Participants With Serious Adverse Events</title>
+        <description>The number of participants with serious adverse events (SAE)</description>
+        <time_frame>Days 1 - 29.</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Adult Patients Hospitalized With COVID-19</title>
+            <description>Patients eligible for enrollment into the study&#xD;
+Polyoxidonium: Polyoxidonium (azoximer bromide) is administered in the dose of 12 mg (contents of 2 vials) once daily intravenously (IV) for 3 days, then every other day intramuscularly (IM) on days 5-17 (the total treatment course is 10 injections)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>The Number of Participants With Serious Adverse Events</title>
+          <description>The number of participants with serious adverse events (SAE)</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="81"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>The Number of Participants With Adverse Events</title>
+        <description>The number of participants with adverse events (AE)</description>
+        <time_frame>Days 1 - 29.</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Adult Patients Hospitalized With COVID-19</title>
+            <description>Patients eligible for enrollment into the study&#xD;
+Polyoxidonium: Polyoxidonium (azoximer bromide) is administered in the dose of 12 mg (contents of 2 vials) once daily intravenously (IV) for 3 days, then every other day intramuscularly (IM) on days 5-17 (the total treatment course is 10 injections)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>The Number of Participants With Adverse Events</title>
+          <description>The number of participants with adverse events (AE)</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="81"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Participants With Discontinuation of Drug Administration</title>
+        <description>Number of participants with Permanent or temporary discontinuation of infusions or injections due to adverse events</description>
+        <time_frame>Days 1 - 17.</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Adult Patients Hospitalized With COVID-19</title>
+            <description>Patients eligible for enrollment into the study&#xD;
+Polyoxidonium: Polyoxidonium (azoximer bromide) is administered in the dose of 12 mg (contents of 2 vials) once daily intravenously (IV) for 3 days, then every other day intramuscularly (IM) on days 5-17 (the total treatment course is 10 injections)</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With Discontinuation of Drug Administration</title>
+          <description>Number of participants with Permanent or temporary discontinuation of infusions or injections due to adverse events</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="81"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Administration of Polyoxidonium was canceled due to Adverse event</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Administration of Polyoxidonium was postponed by 1 day due to Adverse event</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Safety parameters were evaluated throughout the study in the Safety population (SAP; patients who received at least one Polyoxidonium dose, according to the prescribed treatment) from signing the informed consent to the study completion visit on Day 29±3.</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Adult Patients Hospitalized With COVID-19</title>
+          <description>Patients eligible for enrollment into the study&#xD;
+Polyoxidonium: Polyoxidonium (azoximer bromide) is administered in the dose of 12 mg (contents of 2 vials) once daily intravenously (IV) for 3 days, then every other day intramuscularly (IM) on days 5-17 (the total treatment course is 10 injections)</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="81"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="81"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Klebsiella sepsis</sub_title>
+                <description>This SAE was classified by the Investigator as not related to Polyoxidonium treatment. The patient had a history of previous bacterial pneumonias over the past 3 years.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="81"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="81"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Fever (Intermittent fever included) / Pyrexia</sub_title>
+                <description>Fever was apparently a result of SARS-CoV-2 infection and intoxication.It was classified by Investigators as not associated with Polyoxidonium treatment; some of them noted more rapid fever and intoxication decline in Polyoxidonium treated patients.</description>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="81"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Pneumonia bacterial</sub_title>
+                <description>Bacterial pneumonia was diagnosed. The Investigator did not associate the development of pneumonia with PO administration. Bacterial pneumonia is common COVID-19 complication in elderly patients.The investigator consider this event as AE.</description>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="81"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>PQ interval prolonged / Electrocardiogram PR prolongation*</sub_title>
+                <description>Patients received a combination of lopinavir+ritonavir, and this AEs was supposed by the Investigator to be caused by the antiviral drugs. After completion of antiviral treatment all symptoms eliminated and didn't require any additional actions.</description>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="81"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There IS an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <limitations_and_caveats>There was no control or comparison group, polyoxidonium was used in the treatment of all patients, it is not possible to compare the results of treatment of patients with and without Polyoxidonium. The study used various treatment regimens for COVID-19 (antiviral agents, antimalarial agents, anticoagulants), depending on the base of the study, so it is impossible to fully determine whether these agents influenced the effectiveness of Polyoxidonium.</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>Nikolay Dodonov, Head of medical department</name_or_title>
+      <organization>NPO Petrovax Pharm, LLC</organization>
+      <phone>Phone: +7(495) 730-75-45 ext. ext 125</phone>
+      <email>DodonovNS@petrovax.ru</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

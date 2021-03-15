@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2917">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04655586</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NAPc-201/301</org_study_id>
+    <nct_id>NCT04655586</nct_id>
+  </id_info>
+  <brief_title>Assessing Safety, Hospitalization and Efficacy of rNAPc2 in COVID-19</brief_title>
+  <acronym>ASPEN</acronym>
+  <official_title>Assessing Safety, Hospitalization and Efficacy of rNAPc2 in COVID-19 (ASPEN-COVID-19)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>ARCA Biopharma, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Colorado Prevention Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>ARCA Biopharma, Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Sequential randomized, multicenter, active comparator study to evaluate the hypothesis that&#xD;
+      rNAPc2 (AB201), a novel, potent and highly selective tissue factor inhibitor with&#xD;
+      anticoagulant, anti-inflammatory and potential antiviral properties, shortens time to&#xD;
+      recovery compared to heparin in hospitalized patients with COVID-19 and elevated D-dimer&#xD;
+      levels.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Sequential randomized, multicenter, active comparator study to evaluate the hypothesis that&#xD;
+      rNAPc2, a novel, potent and highly selective tissue factor inhibitor with anticoagulant,&#xD;
+      anti-inflammatory and potential antiviral properties, shortens time to recovery compared to&#xD;
+      heparin in hospitalized patients with COVID-19 and elevated D-dimer levels. Study&#xD;
+      participants and Clinical Endpoint Committee (CEC) members assessing the clinical endpoints&#xD;
+      will be blinded to treatment assignment. The protocol comprises sequential Phase 2b and Phase&#xD;
+      3 studies. Analysis of Phase 2b data could lead to study discontinuation, adjustment of&#xD;
+      eligibility criteria or sample size, and will inform the rNAPc2 dose level to be studied in&#xD;
+      Phase 3.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 10, 2020</start_date>
+  <completion_date type="Anticipated">May 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 30, 2021</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>investigational product compared to active comparator</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Outcomes Assessor)</masking>
+    <masking_description>Participant, clinical events committee members will be blind to treatment assignment. Investigator assessing outcomes will be blinded wherever possible.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in D-dimer level from Baseline to Day 8 (Phase 2b)</measure>
+    <time_frame>8 days</time_frame>
+    <description>central lab D-dimer results</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of major or non-major clinically relevant bleeding events within thirty (30) days of randomization (Phase 2b)</measure>
+    <time_frame>30 days</time_frame>
+    <description>clinical events as reported by site</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Time to recovery within thirty (30) days of randomization using the ACTT ordinal scale (Phase 3)</measure>
+    <time_frame>30 days</time_frame>
+    <description>scale as assessed by investigator and clinical adjudication committee</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in D-dimer level from baseline to Day 10 (Phase 2b)</measure>
+    <time_frame>10 days</time_frame>
+    <description>central lab D-dimer results</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of major or non-major clinically relevant bleeding events with rNAPc2 vs. heparin (Phase 2b and 3)</measure>
+    <time_frame>30 days</time_frame>
+    <description>clinical events as reported by site</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of bleeding events in subjects treated with higher vs. lower dose rNAPc2 at Day 10 (Phase 2b)</measure>
+    <time_frame>10 days</time_frame>
+    <description>clinical events as reported by site</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to first occurrence of a composite of thrombotic events and all-cause mortality within thirty (30) days of randomization (Phase 3 only)</measure>
+    <time_frame>30 days</time_frame>
+    <description>clinical events as reported by site</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to first occurrence of thrombotic events within thirty (30) days of randomization (Phase 3 only)</measure>
+    <time_frame>30 days</time_frame>
+    <description>clinical events as reported by site</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to all-cause mortality within thirty (30) days of randomization (Phase 3 only)</measure>
+    <time_frame>30 days</time_frame>
+    <description>clinical events as reported by site</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Tissue Factor laboratory values in rNAPc2 treated subjects who had clinical events related to coagulation and inflammation from baseline to Days 8 and 10 (Phase 2b)</measure>
+    <time_frame>day 8 and day 10</time_frame>
+    <description>central lab samples collected per protocol</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in interleukin-6 laboratory values in rNAPc2 treated subjects who had clinical events related to coagulation and inflammation from baseline to Days 8 and 10 (Phase 2b)</measure>
+    <time_frame>day 8 and day 10</time_frame>
+    <description>central lab samples collected per protocol</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in high sensitivity C-reactive protein laboratory values in rNAPc2 treated subjects who had clinical events related to coagulation and inflammation from baseline to Days 8 and 10 (Phase 2b)</measure>
+    <time_frame>day 8 and day 10</time_frame>
+    <description>central lab samples collected per protocol</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>rNAPc2 Higher Dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>loading dose of 7.5 μg/kg SC on day 1 followed by 5 μg/kg SC on days 3 and 5</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>rNAPc2 Lower Dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>loading dose of 5 ug/kg SC on day 1 followed by 3 ug/kg SC on days 3 and 5</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Heparin</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>heparin at either prophylactic or therapeutic doses per Standard of Care at Institution</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>rNAPc2</intervention_name>
+    <description>two dose levels of rNAPc2</description>
+    <arm_group_label>rNAPc2 Higher Dose</arm_group_label>
+    <arm_group_label>rNAPc2 Lower Dose</arm_group_label>
+    <other_name>AB201</other_name>
+    <other_name>Recombinant Nematode Anticoagulant Protein c2</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Heparin</intervention_name>
+    <description>standard of care heparin per institution (therapeutic or prophylactic regimen)</description>
+    <arm_group_label>Heparin</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Age ≥ 18 years and ≤ 90 years at the Screening assessment&#xD;
+&#xD;
+          2. Weight ≥ 50 kg at randomization&#xD;
+&#xD;
+          3. Hospitalized with a diagnosis of COVID-19 and in need of inpatient medical care&#xD;
+&#xD;
+          4. Positive for SARS-CoV-2 on nasopharyngeal, oropharyngeal or other tissue/body fluid&#xD;
+             samples by PCR or validated other test of ongoing infection (not an antibody test for&#xD;
+             prior exposure), within seven (7) days prior to hospitalization or screening&#xD;
+             assessment&#xD;
+&#xD;
+          5. D-dimer level &gt; upper limit of normal at screening&#xD;
+&#xD;
+          6. Provided electronic or written informed consent, either personally or through a&#xD;
+             legally authorized representative (LAR)&#xD;
+&#xD;
+          7. Must agree not to participate in a concurrent interventional study involving&#xD;
+             anticoagulation or anti-platelet therapy&#xD;
+&#xD;
+          8. Any woman who suspects she may be pregnant must have a negative pregnancy test prior&#xD;
+             to randomization. Women of child-bearing potential should agree to avoid pregnancy for&#xD;
+             3 weeks following randomization&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. High bleeding risk, e.g. major surgery within prior 1 month, history of a major bleed&#xD;
+             while receiving anticoagulation, current or planned (during current hospitalization)&#xD;
+             dual anti-platelet therapy, platelet count &lt;25,000/uL, current anticoagulation for a&#xD;
+             medical indication. e.g. atrial fibrillation. Patients receiving prophylactic&#xD;
+             anticoagulation are eligible if they are willing to discontinue current&#xD;
+             anticoagulation.&#xD;
+&#xD;
+          2. Sustained systolic blood pressure &lt; 90 mmHg considered to be clinically significant&#xD;
+&#xD;
+          3. Persistent eGFR &lt;20 ml/min/1.73m2&#xD;
+&#xD;
+          4. Known severe liver disease (e.g. bilirubin &gt;3.5 mg/dL (60 umol/L))&#xD;
+&#xD;
+          5. Life expectancy estimated to be &lt; 72 hours based on current clinical condition&#xD;
+&#xD;
+          6. Anticipated hospital discharge or transfer within 72 hours based on current clinical&#xD;
+             condition&#xD;
+&#xD;
+          7. Known anti-phospholipid syndrome&#xD;
+&#xD;
+          8. Unable to receive heparin, e.g. history of heparin-induced thrombocytopenia and&#xD;
+             thrombosis (HITT)&#xD;
+&#xD;
+          9. Participation in a clinical study or treatment with an investigational drug or device,&#xD;
+             defined as one not approved for any indication in the US, Europe or Japan, within&#xD;
+             seven (7) days of the Screening assessment or within 5 half-lives of the&#xD;
+             investigational agent, whichever is longer&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Marc Bonaca, MD, MPH</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>CPC Clinical Research</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jennifer Meriwether</last_name>
+    <phone>720-940-2132</phone>
+    <email>jennifer.meriwether@arcabio.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>ARCA Investigational Site #104</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ARCA Investigational Site #101</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32209</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ARCA Investigational Site #103</name>
+      <address>
+        <city>Tacoma</city>
+        <state>Washington</state>
+        <zip>98405</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>December 2, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 3, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 7, 2020</study_first_posted>
+  <last_update_submitted>January 5, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 5, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 6, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>D-dimer</keyword>
+  <keyword>Thromboprophylaxis</keyword>
+  <keyword>Anti-coagulant</keyword>
+  <keyword>Thrombotic Events</keyword>
+  <keyword>Coagulation</keyword>
+  <keyword>Inflammation</keyword>
+  <keyword>Heparin</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Heparin</mesh_term>
+    <mesh_term>Protein C</mesh_term>
+    <mesh_term>Anticoagulants</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

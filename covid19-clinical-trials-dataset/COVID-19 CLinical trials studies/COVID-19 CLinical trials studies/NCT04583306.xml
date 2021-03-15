@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="983">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04583306</url>
+  </required_header>
+  <id_info>
+    <org_study_id>FDG_SalivaCOVID01</org_study_id>
+    <nct_id>NCT04583306</nct_id>
+  </id_info>
+  <brief_title>The Salivary Raman COVID-19 Fingerprint</brief_title>
+  <acronym>DISCOVER</acronym>
+  <official_title>Characterization of the COVID-19 Raman Signature of Saliva as a Potential Tool for the Fast Discrimination of SARS-CoV-2 Infection and Severity</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Fondazione Don Carlo Gnocchi Onlus</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Fondazione Don Carlo Gnocchi Onlus</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      BACKGROUND/RATIONALE: The outbreak of coronavirus disease 2019 (COVID-19), caused by&#xD;
+      infection of SARS-CoV-2, has rapidly spread to become a worldwide pandemic between 2019 and&#xD;
+      2020. Nowadays, the spreading of the infections is still increasing with the global research&#xD;
+      focused on the understanding of the biochemical infective mechanism and on the discovery of a&#xD;
+      fast, sensitive and cheap diagnostic tool, able to discriminate the current and past&#xD;
+      SARS-CoV-2 infections from a minimal invasive biofluid. The fast diagnosis of COVID-19 is&#xD;
+      fundamental in order to limit and isolate the positive cases, decreasing with a prompt&#xD;
+      intervention the infection spreading. Moreover, the prediction of the respiratory infection&#xD;
+      severity could be of crucial importance for the fast identification and discrimination&#xD;
+      between mild clinical course, severe illness, and Acute Respiratory Distress Syndrome (ARDS).&#xD;
+      One of the first infection sites of SARS-CoV-2 is the oral cavity where the virus is able to&#xD;
+      bind and penetrate through the ACE2 receptors present on the epithelial cells of the salivary&#xD;
+      glands. Thus, a high concentration of virus particles could be found in saliva in the&#xD;
+      preliminary phases of the infection. Saliva is a complex biofluid composed of bioactive&#xD;
+      molecules that can be collected with a really minimal-invasive procedure. Raman spectroscopy&#xD;
+      is a non-invasive, fast and label-free vibrational technique, able to provide information&#xD;
+      regarding presence, concentration, environment, modifications and interactions of all the&#xD;
+      biochemical species present in a specific biofluid. Using the Raman spectroscopy, we will&#xD;
+      analyze saliva collected from healthy subjects, patients affected by COVID-19 and subjects&#xD;
+      with a past infection by COVID-19. The data collected will be analyzed and used to create a&#xD;
+      Raman database able to provide a classification model based on machine learning. The&#xD;
+      possibility to monitor and characterize a potential salivary COVID-19 fingerprint could be of&#xD;
+      crucial importance for the monitoring and discrimination of COVID-19 subjects with a current&#xD;
+      and past infection from the healthy subjects.&#xD;
+&#xD;
+      OBJECTIVES: The aim of the project is to characterize and validate the salivary Raman&#xD;
+      fingerprint of COVID-19, understanding the principal biomolecules involved in the differences&#xD;
+      between the three experimental groups: 1) healthy subjects, 2) COVID-19 patients and 3)&#xD;
+      subjects with a past infection by COVID-19. The large amount of Raman data will be used to&#xD;
+      create a salivary Raman database, associating each data with the relative clinical data&#xD;
+      collected. The Raman database will be used for the creation of a classification model through&#xD;
+      the application of multivariate analysis in terms of principal component analysis and linear&#xD;
+      discriminant analysis. This classification model will provide a fast tool for the&#xD;
+      discrimination of the COVID-19 condition, potentially providing also information on the&#xD;
+      respiratory clinical course of the patient. The model will be translated for the application&#xD;
+      to a portable Raman spectrometer, leading to the creation of a Raman Point of Care METHODS:&#xD;
+      Starting from the preliminary results and protocols of the Laboratory of Nanomedicine and&#xD;
+      Clinical Biophotonics (LABION) - IRCCS Fondazione Don Gnocchi Milano, the saliva collected&#xD;
+      from each experimental group will be analysed using Raman spectroscopy. All the data will be&#xD;
+      processed for the baseline, shift and normalization in order to homogenize the signals&#xD;
+      collected and creating in this way the Raman database. The average spectrum calculated from&#xD;
+      each group will be characterized, identifying the principal families of biological molecules&#xD;
+      responsible for the spectral differences. Consecutively, all the spectra will be processed&#xD;
+      through multivariate analysis (principal component analysis and linear discriminant analysis)&#xD;
+      obtaining in this way the classification model. LOOCV will be used for the training of the&#xD;
+      classification model, which will be questioned using the subset validation analysis. The&#xD;
+      partial correlation coefficient (Pearson's and Spearman's correlation) will be used for the&#xD;
+      Raman correlation with the clinical parameter (e.g. COVID-19 clinical course) using as&#xD;
+      control covariates the age and sex of the subjects. The classification model will be then&#xD;
+      translated and used as point of care using a portable Raman equipped with a laser emitting at&#xD;
+      785 nm, with a comparable spectral resolution.&#xD;
+&#xD;
+      EXPECTED RESULTS: We will verify the possibility to use Raman spectroscopy on saliva samples&#xD;
+      for the identification of subjects affected by COVID-19. The principal aim of the project is&#xD;
+      to create a classification model able to: discriminate COVID-19 current and past infection,&#xD;
+      identify the principal biological molecules altered in saliva during the infection, predict&#xD;
+      the clinical course of newly diagnosed COVID-19 patients, translation and application of the&#xD;
+      classification model to a portable Raman for the test of a point of care.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      SAMPLE COLLECTION: Saliva collection will be performed using Salivette (SARSTEDT, Germany)&#xD;
+      and following the manufacturer's instructions. Briefly, the cotton swab will be inserted in&#xD;
+      the subject mouth and chewed for 60 seconds. The saliva collection will be achieved through&#xD;
+      centrifugation of the swab (1000 g x 2 minutes), recording all the related parameters&#xD;
+      (storage temperature and the time between collection and analysis). All the collection&#xD;
+      procedures will be performed at least two hours after the last meal and teeth brushing.&#xD;
+&#xD;
+      SAMPLE PROCESSING AND PREPARATION: Before the analysis, a drop of saliva (3 ul) will be&#xD;
+      deposited on a commercially available aluminum foil and dried overnight. The aluminum foil is&#xD;
+      fundamental to achieve the Surface Enhanced Raman Scattering, increasing in this way the&#xD;
+      saliva Raman signal.&#xD;
+&#xD;
+      DATA COLLECTION: Raman spectra will be acquired using an Aramis Raman microscope (Horiba&#xD;
+      Jobin-Yvon, France) equipped with a laser light source operating at 785 nm with 100% (512mW)&#xD;
+      laser power. Acquisition time will be set at 30 seconds with double acquisition and 2 seconds&#xD;
+      delay time to prevent the formation of artifact spectra. Before each analysis, the instrument&#xD;
+      will be calibrated using the reference band of silicon. All the signals will be acquired in&#xD;
+      the region between 400 and 1600 cm-1 with a resolution of 0.8cm-1, acquiring at least 25&#xD;
+      spectra following a square-map. The software package LabSpec 6 (Horiba Jobin-Yvon, France)&#xD;
+      will be used for map design and the acquisition of spectra.&#xD;
+&#xD;
+      DATA PROCESSING AND STATISTICAL ANALYSIS: All the data will be fit using a fourth-degree&#xD;
+      polynomial curve to set the baseline and consecutively normalized using unit vector. The&#xD;
+      contribution of aluminum will be removed from each spectrum. The statistical analysis will be&#xD;
+      performed using the multivariate approach. Briefly, principal component analysis and linear&#xD;
+      discriminant analysis will be applied to extract the principal components and the canonical&#xD;
+      variables. These features will be used for the leave one out cross-validation (LOOCV), subset&#xD;
+      validation and correlation with the clinical parameters. Mann-Whitney will be performed on&#xD;
+      PCs scores to verify the differences statistically relevant between the analysed groups. The&#xD;
+      analysis will be performed using Origin software (OriginLab, USA)&#xD;
+&#xD;
+      CORRELATION: Partial correlation with Pearson's and Spearman's coefficients will be performed&#xD;
+      on the variables extracted and the clinical parameters, using as control covariates the age&#xD;
+      and sex of the subjects. Only values with p &lt; 0.001 will be considered as statistically&#xD;
+      relevant.&#xD;
+&#xD;
+      TRANSLATION: The data and the classification model will be applied with a portable Raman&#xD;
+      equipped with a laser emitting at 785 nm and with a spectral resolution comparable with the&#xD;
+      one used for the previous analysis&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 1, 2020</start_date>
+  <completion_date type="Anticipated">June 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 15, 2020</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>1 Day</target_duration>
+  <primary_outcome>
+    <measure>Identification and characterization of a new COVID-19 salivary signature through Raman spectroscopy</measure>
+    <time_frame>One day</time_frame>
+    <description>The Raman analysis of saliva samples collected from patients affected by COVID-19 and with a past infection, will be used to characterize a COVID-19 signature able to discriminate subjects with a current or past infection</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Evaluation of the spectral differences between the experimental groups</measure>
+    <time_frame>One months</time_frame>
+    <description>The Raman data collected from the experimental groups will be compared and interpolated with the huge number of Raman databases on biofluids present in literature. This procedure will provide a determination of the principal biochemical species involved in the differences between the experimental groups (e.g. viral structural protein and lipids, cytokines, inflammatory molecules, damaged biomolecules)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Determination of the classification model through multivariate analysis</measure>
+    <time_frame>6 months</time_frame>
+    <description>The Raman database will be processed through principal component analysis and linear discriminant analysis. The consecutive leave-one out cross-validation will provide a primary discrimination model able to assign each spectra to one of the experimental group</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Correlation with the clinical data</measure>
+    <time_frame>One Day</time_frame>
+    <description>Raman data related to subjects with a current or past infection by SARS-CoV-2 will be correlated with the clinical data, validating in this way our methodology. The principal correlation will be carried out between the severity of the respiratory infection and the time between the first SARS-CoV-2 positive test and the last negative SARS-CoV-2 test.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Test of the methodology</measure>
+    <time_frame>One Year</time_frame>
+    <description>The classification model will be continuosly questioned and trained using new potential patients and adding new clinical parameters as &quot;sub-groups&quot; for the complete discrimination and prediction of the pathological state.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Portable Raman as point of care</measure>
+    <time_frame>One Year</time_frame>
+    <description>The characterized and implemented classification model will be translated to a portable Raman equipped with a laser emitting at 785 nm and with a spectral resolution comparable with the one of the bench Raman. This station will be firstly tested with patients coming to the hospital and then applied continuosly implementing the classification model with new Raman spectra and clinical data. In this way we will highly implement the accuracy, sensitivity, precision and specificity of the model.</description>
+  </primary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Healthy Subjects</arm_group_label>
+    <description>40 Healthy Subjects in a good state of health comparable by age and sex with the other selected groups and with a negative test for SARS-CoV-2 or collected before the pandemic event</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>COVID-19 Positive</arm_group_label>
+    <description>40 subjects affected by COVID-19, determined by positive nasopharyngeal test for SARS-CoV-2 and with comparable age and sex for the other selected groups</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>COVID-19 Negative</arm_group_label>
+    <description>40 subjects with a past infection by SARS-CoV-2 confirmed and with at least two consecutive negative tests determined by nasopharyngeal SARS-CoV-2 assay, comparable by age and sex with the other selected groups</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Raman analysis of saliva, characterization of the Raman database and building of the classification model</intervention_name>
+    <description>Saliva will be collected, processed and analysed through Raman spectroscopy. Data acquired will be normalized and treated for the creation of the classification model.</description>
+    <arm_group_label>COVID-19 Negative</arm_group_label>
+    <arm_group_label>COVID-19 Positive</arm_group_label>
+    <arm_group_label>Healthy Subjects</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The study population will be recruited from the clinics at IRCCS Fondazione Don Carlo&#xD;
+        Gnocchi: Santa Maria Nascente (Milano) and Centro Spalenza (Rovato)&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Diagnosis of COVID-19 through nasopharyngeal swab positive for SARS-CoV-2&#xD;
+&#xD;
+          -  Provided written consent for the salivary analysis&#xD;
+&#xD;
+          -  Age between 18 and 90 years&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Oral bacterial or fungal infection in progress (e.g. oral candidiasis)&#xD;
+&#xD;
+          -  Age lower than 18 and higher than 90 years&#xD;
+&#xD;
+          -  No written consent provided&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Marzia Bedoni, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>IRCCS Fondazione Don Carlo Gnocchi, Laboratory of Nanomedicine and Clinical Biophotonics</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Cristiano Carlomagno, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>IRCCS Fondazione Don Carlo Gnocchi, Laboratory of Nanomedicine and Clinical Biophotonics</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Cristiano Carlomagno, PhD</last_name>
+    <phone>0240308533</phone>
+    <phone_ext>+39</phone_ext>
+    <email>ccarlomagno@dongnocchi.it</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Marzia Bedoni, PhD</last_name>
+    <phone>0240308874</phone>
+    <phone_ext>+39</phone_ext>
+    <email>mbedoni@dongnocchi.it</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>, IRCCS Fondazione Don Carlo Gnocchi, Centro Spalenza</name>
+      <address>
+        <city>Rovato</city>
+        <state>BS</state>
+        <zip>25038</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Luca C Bianchi, MD</last_name>
+      <phone>03072245414</phone>
+      <phone_ext>+39</phone_ext>
+      <email>lubianchi@dongnocchi.it</email>
+    </contact>
+    <investigator>
+      <last_name>Luca C Bianchi, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>IRCCS Fondazione Don Carlo Gnocchi, Santa Maria Nascente Hospital (Milano)</name>
+      <address>
+        <city>Milano</city>
+        <state>MI</state>
+        <zip>20148</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Cristiano Carlomagno, PhD</last_name>
+      <phone>0240308533</phone>
+      <phone_ext>+39</phone_ext>
+      <email>ccarlomagno@dongnocchi.it</email>
+    </contact>
+    <contact_backup>
+      <last_name>Marzia Bedoni, PhD</last_name>
+      <phone>0240308874</phone>
+      <phone_ext>+39</phone_ext>
+      <email>mbedoni@dongnocchi.it</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Cristiano Carlomagno, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Marzia Bedoni, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Paolo I Banfi, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Jorge Navarro, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <link>
+    <url>http://www.labion.eu/</url>
+    <description>Laboratory of Nanomedicine and Clinical Biophotonics at IRCCS Fondazione Don Carlo Gnocchi ONLUS, Milano (Italy)</description>
+  </link>
+  <link>
+    <url>https://www.dongnocchi.it/?utm_medium=Grants&amp;utm_source=Google&amp;utm_campaign=DonGnocchi&amp;gclid=Cj0KCQjw8fr7BRDSARIsAK0Qqr6wF95Wz2kMZRXUN0n3IwT_ZAXKqhv-ioXxuW-S0QeglJqaOgqFhKIaAjnwEALw_wcB</url>
+    <description>IRCCS Fondazione Don Carlo Gnocchi ONLUS</description>
+  </link>
+  <reference>
+    <citation>Feng Z, Yu Q, Yao S, Luo L, Zhou W, Mao X, Li J, Duan J, Yan Z, Yang M, Tan H, Ma M, Li T, Yi D, Mi Z, Zhao H, Jiang Y, He Z, Li H, Nie W, Liu Y, Zhao J, Luo M, Liu X, Rong P, Wang W. Early prediction of disease progression in COVID-19 pneumonia patients with chest CT and clinical characteristics. Nat Commun. 2020 Oct 2;11(1):4968. doi: 10.1038/s41467-020-18786-x.</citation>
+    <PMID>33009413</PMID>
+  </reference>
+  <reference>
+    <citation>Carlomagno C, Cabinio M, Picciolini S, Gualerzi A, Baglio F, Bedoni M. SERS-based biosensor for Alzheimer disease evaluation through the fast analysis of human serum. J Biophotonics. 2020 Mar;13(3):e201960033. doi: 10.1002/jbio.201960033. Epub 2020 Jan 1.</citation>
+    <PMID>31868266</PMID>
+  </reference>
+  <reference>
+    <citation>Carlomagno C, Banfi PI, Gualerzi A, Picciolini S, Volpato E, Meloni M, Lax A, Colombo E, Ticozzi N, Verde F, Silani V, Bedoni M. Human salivary Raman fingerprint as biomarker for the diagnosis of Amyotrophic Lateral Sclerosis. Sci Rep. 2020 Jun 23;10(1):10175. doi: 10.1038/s41598-020-67138-8.</citation>
+    <PMID>32576912</PMID>
+  </reference>
+  <reference>
+    <citation>Gualerzi A, Niada S, Giannasi C, Picciolini S, Morasso C, Vanna R, Rossella V, Masserini M, Bedoni M, Ciceri F, Bernardo ME, Brini AT, Gramatica F. Raman spectroscopy uncovers biochemical tissue-related features of extracellular vesicles from mesenchymal stromal cells. Sci Rep. 2017 Aug 29;7(1):9820. doi: 10.1038/s41598-017-10448-1.</citation>
+    <PMID>28852131</PMID>
+  </reference>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>October 9, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 9, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 12, 2020</study_first_posted>
+  <last_update_submitted>October 9, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 9, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 12, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Fondazione Don Carlo Gnocchi Onlus</investigator_affiliation>
+    <investigator_full_name>Cristiano Carlomagno, PhD</investigator_full_name>
+    <investigator_title>Researcher, PhD</investigator_title>
+  </responsible_party>
+  <keyword>Covid-19</keyword>
+  <keyword>Raman Spectroscopy</keyword>
+  <keyword>Machine Learning</keyword>
+  <keyword>Classification Model</keyword>
+  <keyword>Diagnosis</keyword>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

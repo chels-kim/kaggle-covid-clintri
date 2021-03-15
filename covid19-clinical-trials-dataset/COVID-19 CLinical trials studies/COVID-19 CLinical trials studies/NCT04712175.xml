@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1006">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04712175</url>
+  </required_header>
+  <id_info>
+    <org_study_id>LOCAL-COVID/2020/AS-01</org_study_id>
+    <nct_id>NCT04712175</nct_id>
+  </id_info>
+  <brief_title>Diagnostic Validation of Rapid Detection of the COVID-19 Causative Virus (SARS-CoV-2) in Saliva Samples by Mass Spectrometry</brief_title>
+  <acronym>SALICOV</acronym>
+  <official_title>Validation Diagnostique de la détection Rapide du Virus SARS-CoV-2 Dans Des échantillons Salivaires Par spectrométrie de Masse</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Centre Hospitalier Universitaire de Nīmes</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Technological Innovations for Detection and Diagnosis Laboratory</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Centre Hospitalier Universitaire de Nīmes</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In order to control the COVID-19 pandemic, a policy for the diagnosis and screening of people&#xD;
+      likely to be infected with SARS-CoV-2 has been established The reference diagnostic test is&#xD;
+      RT-PCR on nasopharyngeal swab. Nasopharyngeal swabbing requires training, generates a risk of&#xD;
+      aerosolization and therefore viral transmission to the operator, and is unpleasant or even&#xD;
+      painful for the patient. RT-PCR is efficient, but time-consuming. It is therefore necessary&#xD;
+      to consider techniques that are less subject to difficulties of production and sampling, and&#xD;
+      less time-consuming. Tandem mass spectrometry on saliva samples is a promising option. A&#xD;
+      combined &quot;mass spectrometry/saliva test&quot; should provide faster results.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 2021</start_date>
+  <completion_date type="Anticipated">July 2021</completion_date>
+  <primary_completion_date type="Anticipated">July 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Detection of SARS-CoV-2 on nasopharyngeal samples (gold standard)</measure>
+    <time_frame>Day 0</time_frame>
+    <description>RT-PCR</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Detection of SARS-CoV-2 on a saliva samples by mass spectrometry</measure>
+    <time_frame>Day 0</time_frame>
+    <description>tandem mass spectrometry test</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Detection of SARS-CoV-2 on saliva samples via RT-PCR</measure>
+    <time_frame>Day 0</time_frame>
+    <description>RT-PCR</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">250</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Patients with SARS-CoV-2 infection</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Patients without SARS-CoV-2 infection</arm_group_label>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Nasopharyngeal sampling</intervention_name>
+    <description>Swabs will be taken of nasopharyngeal samples for RT-PCR</description>
+    <arm_group_label>Patients with SARS-CoV-2 infection</arm_group_label>
+    <arm_group_label>Patients without SARS-CoV-2 infection</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Saliva sampling</intervention_name>
+    <description>A 10ml saliva sample will collected in a sterile 60ml bottle for mass spectrometry and RT-PCR</description>
+    <arm_group_label>Patients with SARS-CoV-2 infection</arm_group_label>
+    <arm_group_label>Patients without SARS-CoV-2 infection</arm_group_label>
+  </intervention>
+  <biospec_retention>None Retained</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Anonymized saliva samples of patients with positive RT-PCR results.&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Adults presenting to the Walk-in Center for Emerging Biological Risks of the Nîmes&#xD;
+        University Hospital for screening for SARS-CoV-2 infection or who are hospitalized at the&#xD;
+        Infectious and Tropical Diseases Department for severe infection with SARS-CoV-2.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  The patient must not have opposed their inclusion in the study&#xD;
+&#xD;
+          -  Patient presenting to the Walk-in Center for Emerging Biological Risks for SARS-CoV-2&#xD;
+             screening by nasopharyngeal swab OR hospitalized in the Infectious and Tropical&#xD;
+             Diseases Department for severe SARS-CoV-2 infection, diagnosed by RT-PCR on&#xD;
+             nasopharyngeal sample, taken at Nîmes University Hospital, in the previous 24 hours.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patient already included in the study&#xD;
+&#xD;
+          -  The subject is in a period of exclusion determined by a previous study&#xD;
+&#xD;
+          -  It is impossible to give the subject clear information&#xD;
+&#xD;
+          -  The patient is under safeguard of justice or state guardianship&#xD;
+&#xD;
+          -  Patient unable to give consent&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Albert Sotto</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>CHU de Nîmes</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Albert Sotto</last_name>
+    <phone>04.66.68.41.49</phone>
+    <email>albert.sotto@chu-nimes.fr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>CHU de Nîmes</name>
+      <address>
+        <city>Nîmes</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Anissa Megzari</last_name>
+      <phone>04.66.68.42.36</phone>
+      <email>drc@chu-nimes.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Albert Sotto</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Paul Loubet</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Didier Laureillard</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Jean-Philippe Lavigne</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Jean Armengaud</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Lucia Grenga</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <reference>
+    <citation>Gouveia D, Miotello G, Gallais F, Gaillard JC, Debroas S, Bellanger L, Lavigne JP, Sotto A, Grenga L, Pible O, Armengaud J. Proteotyping SARS-CoV-2 Virus from Nasopharyngeal Swabs: A Proof-of-Concept Focused on a 3 Min Mass Spectrometry Window. J Proteome Res. 2020 Nov 6;19(11):4407-4416. doi: 10.1021/acs.jproteome.0c00535. Epub 2020 Aug 5.</citation>
+    <PMID>32697082</PMID>
+  </reference>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>January 12, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 14, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 15, 2021</study_first_posted>
+  <last_update_submitted>January 14, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 14, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 15, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

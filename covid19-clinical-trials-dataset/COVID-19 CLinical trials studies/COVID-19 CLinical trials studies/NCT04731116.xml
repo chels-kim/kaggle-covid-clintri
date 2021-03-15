@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2737">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04731116</url>
+  </required_header>
+  <id_info>
+    <org_study_id>0245-20-RMC</org_study_id>
+    <nct_id>NCT04731116</nct_id>
+  </id_info>
+  <brief_title>Cannabidiol Treatment for Severe and Critical Coronavirus (COVID-19) Pulmonary Infection</brief_title>
+  <official_title>Cannabidiol Treatment for Severe and Critical COVID-19 Pulmonary Infection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Rabin Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Rabin Medical Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Current management of COVID-19 (coronavirus) is mainly supportive, and respiratory failure&#xD;
+      from acute respiratory distress syndrome (ARDS) is the leading cause of mortality. Cytokines&#xD;
+      and chemokines are thought to play an important role in immunity and immunopathology during&#xD;
+      virus infections. Patients with severe COVID-19 have higher serum levels of pro-inflammatory&#xD;
+      cytokines (TNF-α, IL-1 and IL-6) and chemokines (IL-8) compared to individuals with mild&#xD;
+      disease or healthy controls, similar to patients with severe acute respiratory syndrome&#xD;
+      (SARS).&#xD;
+&#xD;
+      Cannabidiol (CBD), a nonpsychotropic ingredient of Cannabis sativa, possesses potent&#xD;
+      anti-inflammatory and immunosuppressive properties. These effects are mediated by T cell&#xD;
+      attrition and by inhibition of pro-inflammatory cytokine release (tumor necrosis factor-a,&#xD;
+      Interferon gamma, IL-1b, IL-6, and IL-17) and stimulation of anti-inflammatory cytokine&#xD;
+      production (IL-4, IL-5, IL-10, and IL-13). In a number of phase 2 trials involving more than&#xD;
+      100 patients, our group was able to show the safety and efficacy of CBD in the prevention and&#xD;
+      treatment of graft-versus-host disease.&#xD;
+&#xD;
+      Based on these data, we will test the cytokine profile, safety and efficacy of CBD treatment&#xD;
+      in patients with severe and critical COVID-19 infection.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Study objectives:&#xD;
+&#xD;
+        1. Describe the impact of CBD on the cytokine profile in patients with severe and critical&#xD;
+           COVID-19 infection.&#xD;
+&#xD;
+        2. Explore the safety and efficacy of CBD treatment in patients with severe and critical&#xD;
+           COVID-19 pulmonary Infection.&#xD;
+&#xD;
+      Methods:&#xD;
+&#xD;
+      This is a single center, prospective open label phase 1/2-study which will be conducted in a&#xD;
+      Corona isolation ward.&#xD;
+&#xD;
+      Investigational therapy:&#xD;
+&#xD;
+      Cannabidiol 5% dissolved in olive oil, will be given orally or through a nasogastric tube at&#xD;
+      a dose of 150 mg twice daily during 14 days or until discharge (the earliest). This dose is&#xD;
+      based on safety data generated from more than 100 transplanted patients. Treatment duration&#xD;
+      may be extended up to 28 days according to the physician discretion. In case of intolerance&#xD;
+      to the dose of 150 mg twice daily, the dose of CBD will be reduced to the maximal tolerated&#xD;
+      dose.&#xD;
+&#xD;
+      In the case of grade 4 side effects related to CBD or in the case of inability to provide the&#xD;
+      CBD during more the 3 days, the patient will be withdrawn from the study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 10, 2021</start_date>
+  <completion_date type="Anticipated">April 30, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2021</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Serum C-reactive protein (CRP) level</measure>
+    <time_frame>Daily measurement during 14 days</time_frame>
+    <description>Units of measurement mg%</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Serum ferritin level</measure>
+    <time_frame>Daily measurement during 14 days</time_frame>
+    <description>Units of measurement mg%</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Serum Interferon gamma-induced protein 10 (IP10) level</measure>
+    <time_frame>Daily measurement during 14 days</time_frame>
+    <description>Units of measurement pg/ml</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Serum IL-6 level</measure>
+    <time_frame>Daily measurement during 14 days</time_frame>
+    <description>Units of measurement pg/ml</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Serum TNF-related apoptosis-inducing ligand (TRAIL)</measure>
+    <time_frame>Daily measurement during 14 days</time_frame>
+    <description>Units of measurement pg/ml</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Study drug related adverse events</measure>
+    <time_frame>14 days</time_frame>
+    <description>Number of participants with grade 3-4 study drug-related side effects as assessed by Common Terminology Criteria for Adverse Event (CTCAE) version 5.0 during treatment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient adherence to the study protocol</measure>
+    <time_frame>14 days</time_frame>
+    <description>Number of cannabidiol doses actually taken by the patient divided by 28 (number of planned doses)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ratio of arterial oxygen partial pressure (PaO2) to fractional inspired oxygen (FiO2) ratio (PaO2/FiO2 ratio) for ventilated patients</measure>
+    <time_frame>14 days</time_frame>
+    <description>Daily measurement of ratio of arterial oxygen partial pressure (PaO2) to fractional inspired oxygen (FiO2) ratio (PaO2/FiO2 ratio) for ventilated patients</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of ventilation for ventilated patients</measure>
+    <time_frame>28 days</time_frame>
+    <description>Number of days patient in need of mechanical ventilation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of stay in the ICU</measure>
+    <time_frame>28 days</time_frame>
+    <description>Number of days the patient stays in ICU</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Survival by day 28</measure>
+    <time_frame>28 days</time_frame>
+    <description>Patient alive (yes/no) on day 28</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Remission of respiratory symptoms</measure>
+    <time_frame>28 days</time_frame>
+    <description>Patient without dyspnea and saturation above 93% at room air.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Documented infections up to discharge</measure>
+    <time_frame>28 days</time_frame>
+    <description>Any documented infection in addition to COVID</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sequential organ failure assistance (SOFA) score</measure>
+    <time_frame>28 days</time_frame>
+    <description>Sequential organ failure assistance score calculation:range 0 to 24. A higher score is associated with higher risk of ICU mortality.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>CANNABIDIOL</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>CANNABIDIOL 5% 3 ml twice daily for 14 days.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cannabidiol</intervention_name>
+    <description>Oral Cannabidiol 150 mg twice daily during 14 days</description>
+    <arm_group_label>CANNABIDIOL</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Laboratory-confirmed novel COVID-19 infection as determined by polymerase chain&#xD;
+             reaction, or other commercial or public health assay in oropharyngeal specimen within&#xD;
+             72 hours prior to hospitalization.&#xD;
+&#xD;
+          -  Patients with severe disease defined as individuals with pneumonia and one or more of&#xD;
+             the following criteria:&#xD;
+&#xD;
+               1. Respiratory rate ≥ 30/min.&#xD;
+&#xD;
+               2. Oxygen saturation at room air less than 93%.&#xD;
+&#xD;
+          -  Patients with critical disease defined as individuals with respiratory failure&#xD;
+             requiring mechanical ventilation&#xD;
+&#xD;
+          -  Age18 years and older&#xD;
+&#xD;
+          -  Informed consent has to be obtained from all patients. The patient will sign the&#xD;
+             Informed Consent Form before entering the study.&#xD;
+&#xD;
+          -  Some patients are expected to be unable to legally consent due to critical illness,&#xD;
+             and sedation. In case a legal guardian exists, approach for consent will be made.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Allergy to CBD&#xD;
+&#xD;
+          -  Documented infection&#xD;
+&#xD;
+          -  Pregnant and lactating women&#xD;
+&#xD;
+          -  Predicted clinically that there is no hope of survival&#xD;
+&#xD;
+          -  GI intolerance&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ilya Kagan, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Rabin Medical Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ilya Kagan, MD</last_name>
+    <phone>972-50-4065483</phone>
+    <email>Ilyak@clalit.org.il</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Moshe Yeshurun, MD</last_name>
+    <phone>972-52-6015543</phone>
+    <email>moshey@clalit.org.il</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Rabin Medical Center</name>
+      <address>
+        <city>Petach Tikva</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ilya Kagan, MD</last_name>
+      <phone>972-50-4065483</phone>
+      <email>Ilyak@clalit.org.il</email>
+    </contact>
+    <contact_backup>
+      <last_name>Moshe Yeshurun, MD</last_name>
+      <email>moshey@clalit.org.il</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Israel</country>
+  </location_countries>
+  <reference>
+    <citation>Yeshurun M, Shpilberg O, Herscovici C, Shargian L, Dreyer J, Peck A, Israeli M, Levy-Assaraf M, Gruenewald T, Mechoulam R, Raanani P, Ram R. Cannabidiol for the Prevention of Graft-versus-Host-Disease after Allogeneic Hematopoietic Cell Transplantation: Results of a Phase II Study. Biol Blood Marrow Transplant. 2015 Oct;21(10):1770-5. doi: 10.1016/j.bbmt.2015.05.018. Epub 2015 May 30.</citation>
+    <PMID>26033282</PMID>
+  </reference>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>January 28, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 28, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 29, 2021</study_first_posted>
+  <last_update_submitted>January 28, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 28, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 29, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Rabin Medical Center</investigator_affiliation>
+    <investigator_full_name>moshe yeshurun</investigator_full_name>
+    <investigator_title>Head BMT Unit</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Epidiolex</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2187">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04689542</url>
+  </required_header>
+  <id_info>
+    <org_study_id>COSIT</org_study_id>
+    <nct_id>NCT04689542</nct_id>
+  </id_info>
+  <brief_title>Surgical Face Mask Effects in Patients With COVID-19</brief_title>
+  <official_title>Effects of Surgical Face Mask on Submaximal Exercise Test in Patients With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Cliniques universitaires Saint-Luc- Université Catholique de Louvain</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Cliniques universitaires Saint-Luc- Université Catholique de Louvain</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The use of personal protective equipment is mandatory for healthcare workers caring patient&#xD;
+      with COVID-19. To maximise the reduction of virus spread during clinical procedures involving&#xD;
+      the presence of healthcare workers, it is also recommended to patients to wear surgical&#xD;
+      facemask. Routine clinical procedures include cardio-pulmonary and strengthening exercises.&#xD;
+      During these exercises, the wearing of a face mask may be difficult to tolerate by patients,&#xD;
+      especially since they experience breathing difficulties due to the illness. Therefore, this&#xD;
+      study aims to verify the effects of the surgical facemask on breathing difficulties and&#xD;
+      exercise performance during a 1-minute sit to stand test.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 1, 2021</start_date>
+  <completion_date type="Anticipated">August 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">August 1, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>Double (Care Provider, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Changes in dyspnea level</measure>
+    <time_frame>Before, immediately after and 2 minutes after the sit-to-stand test</time_frame>
+    <description>The Modified Borg dyspnea scale will be used to estimate dyspnea This scale range from 0 (no dyspnea) to 10 (maximal dyspnea)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Changes in respiratory rate</measure>
+    <time_frame>Before, immediately after and 2 minutes after the sit-to-stand test</time_frame>
+    <description>Respiratory rate will be measured using two inductive plethysmography belts</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in heart rate</measure>
+    <time_frame>Before, immediately after and 2 minutes after the sit-to-stand test</time_frame>
+    <description>Heart rate will be measured using a pulse oximeter</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in pulsed oxygen saturation (SpO2)</measure>
+    <time_frame>Before, immediately after and 2 minutes after the sit-to-stand test</time_frame>
+    <description>SpO2 will be measured using a pulse oximeter</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of sit-to-stand repetition</measure>
+    <time_frame>1 minute</time_frame>
+    <description>The number of repetitions will be manually counted</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Surgical Facemask</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The surgical facemask will be worn during the sit-to-stand test</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>No facemask will be worn during the sit-to-stand test</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Sit-To-Stand test</intervention_name>
+    <description>The 1-minute sit-to-stand test will be realized with or without a surgical facemask covering the face of the patient with COVID-19</description>
+    <arm_group_label>Surgical Facemask</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Hospitalized for COVID-19&#xD;
+&#xD;
+          -  No need of supplemental oxygen during the procedure (i.e. SpO2 of 96% or higher in&#xD;
+             ambient air)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Altered state of consciousness&#xD;
+&#xD;
+          -  Respiratory co-morbidities&#xD;
+&#xD;
+          -  Neurological or orthopedic co-morbidities susceptible to alter the reliability of the&#xD;
+             sit-to-stand test&#xD;
+&#xD;
+          -  Having required high flow nasal cannula or non-invasive ventilation during the&#xD;
+             hospital stay&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>William Poncin, PT, PhD</last_name>
+    <phone>027642818</phone>
+    <email>william.poncin@uclouvain.be</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Cliniques universitaires Saint-Luc</name>
+      <address>
+        <city>Brussels</city>
+        <zip>1200</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>William Poncin</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>December 29, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 29, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 30, 2020</study_first_posted>
+  <last_update_submitted>January 25, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 25, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 28, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Cliniques universitaires Saint-Luc- Université Catholique de Louvain</investigator_affiliation>
+    <investigator_full_name>Poncin</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Sit-To-Stand test</keyword>
+  <keyword>Surgical Facemask</keyword>
+  <keyword>Dyspnea</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

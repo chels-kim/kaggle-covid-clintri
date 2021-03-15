@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3040">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04402866</url>
+  </required_header>
+  <id_info>
+    <org_study_id>0188</org_study_id>
+    <secondary_id>2020-001807-18</secondary_id>
+    <nct_id>NCT04402866</nct_id>
+  </id_info>
+  <brief_title>TD-0903 for ALI Associated With COVID-19</brief_title>
+  <official_title>A Phase 2, Randomized, Double-Blind, Placebo-Controlled, Parallel-group, Multi-center Study of an Inhaled Pan-Janus Kinase Inhibitor, TD-0903, to Treat Symptomatic Acute Lung Injury Associated With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Theravance Biopharma</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Theravance Biopharma</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This Phase 2 study will evaluate the efficacy, safety, pharmacodynamics and pharmacokinetics&#xD;
+      of inhaled TD-0903 compared with a matching placebo in combination with standard of care&#xD;
+      (SOC) in hospitalized patients with confirmed COVID-19 associated acute lung injury and&#xD;
+      impaired oxygenation.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Part 1 of the study includes up to 3 ascending dose cohorts, each comprised of 8 subjects (6&#xD;
+      receiving TD-0903 and 2 receiving placebo).&#xD;
+&#xD;
+      Part 2 of the study will evaluate one dose of TD-0903 (selected based on the data from Part&#xD;
+      1) as compared with placebo. Part 2 is targeting 198 subjects total.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 24, 2020</start_date>
+  <completion_date type="Anticipated">February 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Parallel group, randomized, double-blind, placebo-controlled</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+    <masking_description>Pharmacist &amp; Sponsor are not blinded for Part 1. Sponsor is blinded for Part 2. Pharmacist is not blinded for Part 2.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Part 2: Respiratory Failure-Free Days (RFDs)</measure>
+    <time_frame>Baseline through Day 28</time_frame>
+    <description>Number of Respiratory Failure-Free Days (RFDs) from randomization through Day 28</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Part 2: Clinical Status Scale</measure>
+    <time_frame>Day 7, 14, 21 and 28</time_frame>
+    <description>Proportion of subjects in each category of the 8-point Clinical Status scale.&#xD;
+The Clinical Status scale contains 8 different categories that are each assigned a numeric score. The values range from 1 (representing 'Not hospitalized, no limitations on activities') to 8 (representing 'Death'). The various measures describe hospitalization status and the various limitations and requirements for oxygen support.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part 2: Subjects alive and respiratory failure-free</measure>
+    <time_frame>Day 28</time_frame>
+    <description>Proportion of subjects alive and respiratory failure-free on Day 28</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part 2: SaO2/FiO2 ratio</measure>
+    <time_frame>Baseline, Day 7</time_frame>
+    <description>Change from baseline in SaO2/FiO2 ratio on Day 7</description>
+  </secondary_outcome>
+  <number_of_arms>6</number_of_arms>
+  <enrollment type="Anticipated">222</enrollment>
+  <condition>Acute Lung Injury (ALI) Associated With COVID-19</condition>
+  <condition>Lung Inflammation Associated With COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Part 1: TD-0903 - MAD Dose A</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>6 out of 8 subjects per cohort will be randomized to receive TD-0903 MAD Dose A</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 1: TD-0903 - MAD Dose B</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>6 out of 8 subjects per cohort will be randomized to receive TD-0903 MAD Dose B</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 1: TD-0903 - MAD Dose C</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>6 out of 8 subjects per cohort will be randomized to receive TD-0903 MAD Dose C</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 1: Placebo for MAD</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>2 out of 8 subjects per cohort (up to 3 cohorts) will be randomized to receive placebo</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 2: TD-0903</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>99 subjects will be randomized to receive TD-0903</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 2: Placebo</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>99 subjects will be randomized to receive Placebo</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>TD-0903</intervention_name>
+    <description>Study Drug to be administered by inhalation</description>
+    <arm_group_label>Part 1: TD-0903 - MAD Dose A</arm_group_label>
+    <arm_group_label>Part 1: TD-0903 - MAD Dose B</arm_group_label>
+    <arm_group_label>Part 1: TD-0903 - MAD Dose C</arm_group_label>
+    <arm_group_label>Part 2: TD-0903</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo to be administered by inhalation</description>
+    <arm_group_label>Part 1: Placebo for MAD</arm_group_label>
+    <arm_group_label>Part 2: Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Willing and able to provide written informed consent on their own prior to performing&#xD;
+             study procedures. In the U.K., subject assent or proxy consent as per local site&#xD;
+             procedures, may also be acceptable if both a clinician and second health professional&#xD;
+             attest that the subject understands the risks and potential benefits of the study and&#xD;
+             elects to proceed. Outside the U.K., written informed consent may only be obtained&#xD;
+             from the subject or legally authorized representative. In the event the subject loses&#xD;
+             capacity during the study, the subject consents to continued participation, except&#xD;
+             where this is not clinically indicated.&#xD;
+&#xD;
+          -  Willing and able to comply with study-related procedures/assessments&#xD;
+&#xD;
+          -  Age 18 to 80 years old&#xD;
+&#xD;
+          -  Hospitalized (or documentation of a plan to admit to the hospital if the subject is in&#xD;
+             an emergency department) and requiring supplemental oxygen to maintain saturation &gt;&#xD;
+             90%&#xD;
+&#xD;
+          -  A diagnosis of symptomatic COVID-19 defined as a positive test for SARS-CoV-2 RNA&#xD;
+             detected by RT-PCR on a sample from the upper respiratory tract (e.g., nasopharyngeal,&#xD;
+             nasal, or oropharyngeal swab) collected &lt; 72 hours prior to randomization&#xD;
+&#xD;
+          -  Onset of COVID-19 -related symptoms &gt; 2 days and &lt;/= 10 days prior to hospital&#xD;
+             admission&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Subjects currently receiving invasive mechanical ventilation&#xD;
+&#xD;
+          -  Presence or suspicion of active malignancy with the exception of cancer in situ (e.g.,&#xD;
+             skin cancer)&#xD;
+&#xD;
+          -  Evidence of serious active infection other than COVID-19&#xD;
+&#xD;
+          -  Current diagnosis of human immunodeficiency virus, hepatitis B or C&#xD;
+&#xD;
+          -  In the opinion of the investigator, unlikely to survive for &gt; 24 hours from enrollment&#xD;
+&#xD;
+          -  Women who are pregnant or might be pregnant, or who are currently breast-feeding.&#xD;
+             Subjects must agree to not donate ova or sperm through 30 days after the last dose of&#xD;
+             study medication&#xD;
+&#xD;
+          -  Presence of significant comorbidity that, in the opinion of the investigator,&#xD;
+             predisposes the subject to mortality. Such conditions might include: a. New York Heart&#xD;
+             Association class IV Heart Failure b. Hepatic dysfunction (i.e., AST or ALT &gt;3x upper&#xD;
+             limit of normal) c. Renal dysfunction (i.e., estimated glomerular filtration rate&#xD;
+             (eGFR) &lt; 50mL/min) or receiving renal replacement therapy&#xD;
+&#xD;
+          -  Presence of septic shock at time of enrollment&#xD;
+&#xD;
+          -  Hemoglobin &lt; 80 g/L&#xD;
+&#xD;
+          -  Evidence of neutropenia (i.e., absolute neutrophil count &lt; 1000 cells/uL), lymphopenia&#xD;
+             (i.e., absolute lymphocyte count &lt; 200 cells/uL) or thrombocytopenia (i.e.Platelets &lt;&#xD;
+             50×10^9/L)&#xD;
+&#xD;
+          -  Hypersensitivity to TD-0903 or its components, or to other JAK inhibitors&#xD;
+&#xD;
+          -  Treatment with anti-IL 6 (e.g., tocilizumab, sarilumab), anti-IL-6R antagonists (e.g.,&#xD;
+             abatacept), JAK inhibitors (e.g., baricitinib, tofacitinib) supplemental interferon&#xD;
+             therapy, or tyrosine kinase inhibitors (e.g., erlotinib, gefinitib) in the past 30&#xD;
+             days, or plans to receive a JAK inhibitor during the study period&#xD;
+&#xD;
+          -  Current treatment with conventional synthetic disease-modifying anti-rheumatic drugs&#xD;
+             (DMARDs)/immunosuppressive agents including:&#xD;
+&#xD;
+               1. Methotrexate, cyclosporine, mycophenolate, tacrolimus, penicillamine, or&#xD;
+                  sulfasalazine within 2 weeks prior to enrollment&#xD;
+&#xD;
+               2. Azathioprine or cyclophosphamide within 12 weeks prior to enrollment&#xD;
+&#xD;
+               3. Monoclonal antibodies targeting B cells (e.g., rituximab) within 12 weeks prior&#xD;
+                  to enrollment&#xD;
+&#xD;
+               4. Tumor necrosis factor-alpha (TNFα)) inhibitors within 4 weeks prior to enrollment&#xD;
+&#xD;
+          -  Participating in other clinical trials involving any other experimental treatment for&#xD;
+             COVID-19, except in the context of a single-arm antiviral or convalescent plasma&#xD;
+             compassionate-use protocol&#xD;
+&#xD;
+          -  Subjects with active or incompletely treated pulmonary tuberculosis, or known history&#xD;
+             of non-tuberculosis mycobacterium over past 12 months&#xD;
+&#xD;
+          -  Subject requires continuous oxygen supplementation for underlying cardio-respiratory&#xD;
+             history in the past 90 days&#xD;
+&#xD;
+          -  Body Mass Index ≥40 kg/m2&#xD;
+&#xD;
+          -  Receipt of live vaccine (i.e., live attenuated) in the 4 weeks prior to visit 1 or&#xD;
+             plans to receive a live vaccine (or live attenuated) during the study period. Note:&#xD;
+             Use of non-live (inactivated) vaccinations is allowed for all subjects&#xD;
+&#xD;
+          -  History of venous thromboembolism (VTE), deep venous thrombosis (DVT), Pulmonary&#xD;
+             Embolism (PE) or known hypercoagulable disorder (e.g., factor V Leiden,&#xD;
+             antiphospholipid antibody syndrome, protein C or S deficiency)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Medical Monitor</last_name>
+    <role>Study Director</role>
+    <affiliation>Theravance Biopharma</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Theravance Biopharma Call Center</last_name>
+    <phone>1-855-633-8479</phone>
+    <email>medinfo@theravance.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Theravance Biopharma Investigational Site</name>
+      <address>
+        <city>Chisinau</city>
+        <zip>MD-2025</zip>
+        <country>Moldova, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Theravance Biopharma Investigational Site</name>
+      <address>
+        <city>Bucharest</city>
+        <zip>21105</zip>
+        <country>Romania</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Theravance Biopharma Investigational Site</name>
+      <address>
+        <city>Brovary</city>
+        <zip>07 400</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Theravance Biopharma Investigational Site</name>
+      <address>
+        <city>Kyiv</city>
+        <zip>01 601</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Theravance Biopharma Investigational Site</name>
+      <address>
+        <city>Manchester</city>
+        <zip>M23 9QZ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Moldova, Republic of</country>
+    <country>Romania</country>
+    <country>Ukraine</country>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>May 22, 2020</study_first_submitted>
+  <study_first_submitted_qc>May 22, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 27, 2020</study_first_posted>
+  <last_update_submitted>October 15, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 15, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 19, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Acute lung injury</keyword>
+  <keyword>ALI</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>Coronavirus Disease 2019</keyword>
+  <keyword>inflammatory lung conditions</keyword>
+  <keyword>Inflammatory lung disease</keyword>
+  <keyword>ARDS</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>Pneumonia</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lung Injury</mesh_term>
+    <mesh_term>Acute Lung Injury</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Adult</mesh_term>
+    <mesh_term>Pneumonia</mesh_term>
+    <mesh_term>Inflammation</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Theravance Biopharma, Inc. will not be sharing individual de-identified participant data or other relevant study documents.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

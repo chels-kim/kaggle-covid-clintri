@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2783">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04686539</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SHEBA-20-7526-HA-CTIL</org_study_id>
+    <nct_id>NCT04686539</nct_id>
+  </id_info>
+  <brief_title>Synthetic CBD as a Therapy for COVID-19</brief_title>
+  <official_title>Synthetic CBD Oil Droplets as a Therapy for Mild to Moderate SARS-CoV-2 Infection. Assesment of Efficacy and Safety.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sheba Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Sheba Medical Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study aim to test proof of concept of CBD treatment for efficacy and safety in patients&#xD;
+      suffering with mild COVID-19 infection. The CBD will be delivered via oil droplets not&#xD;
+      containing THC, compared to placebo.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 20, 2020</start_date>
+  <completion_date type="Anticipated">January 2022</completion_date>
+  <primary_completion_date type="Anticipated">November 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Care Provider)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Clinical deterioration</measure>
+    <time_frame>14 days</time_frame>
+    <description>Patients chance of clinical deterioration of COVID19 disease as defined by percentage of patients requiring oxygen therapy during their hospitalization.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Changes in NEWS scale</measure>
+    <time_frame>14 days</time_frame>
+    <description>NEWS2- National Early Warning Score - a score defining the probability of severe COVID 19 disease. Minimum score is 0, while maximum score is 23. Higher score means worse outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Supportive care therapies</measure>
+    <time_frame>14 days</time_frame>
+    <description>Percentage of patients requiring the respiratory support of either of the following : high flow nasal canula oxygen support, mechanical ventilation or use of extra corporeal membrane oxygenation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SARS-COV2 presence</measure>
+    <time_frame>10 days, 14 days</time_frame>
+    <description>Presence of SARS-COV2 in oral &amp; nasal secretions in days 10, 14 of the study</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospitalization Days</measure>
+    <time_frame>14 days</time_frame>
+    <description>Hospitalization days due to COVID-19</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cytokine Levels</measure>
+    <time_frame>Day 3, day 7, discharge day (which is on average the 10th day of hospitalization).</time_frame>
+    <description>IL2, IL18, IL8. IL6, IL10, TNF-alpha, TGF-beta levels at day 3, day 7 and discharge day (which is on average the 10th day of hospitalization).&#xD;
+All cytokine levels would be measured by pg/mL.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hamilton Anxiety Score</measure>
+    <time_frame>14 days</time_frame>
+    <description>A verified score measuring anxiety. Minimum score is 0, while maximum score is 56. Higher scores mean worse outcome.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Covid19</condition>
+  <condition>CBD</condition>
+  <arm_group>
+    <arm_group_label>Recipients of CBD oil</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receiving Cannabidiol oil drops, administered sublingual, 3 times a day, while hospitalized. Dosing and administration frequency would be assessed bi-daily by the medical staff.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Recipients of Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Patients receiving placebo oil, administered sublingual, 3 times a day, while hospitalized.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>CBD</intervention_name>
+    <description>CBD oil not containing THC, to be administered sub-lingual.</description>
+    <arm_group_label>Recipients of CBD oil</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo Oil</description>
+    <arm_group_label>Recipients of Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  COVID 19 patients&#xD;
+&#xD;
+          -  18 Years and older&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Respiratory failure requiring mechanical ventilation&#xD;
+&#xD;
+          -  Intensive care unit admission&#xD;
+&#xD;
+          -  Neutrophile con. &lt; 1000 cells/mm3&#xD;
+&#xD;
+          -  Lymphocyte con &lt; 500 cells/mm3&#xD;
+&#xD;
+          -  Liver enzymes 5 times higher then the norm&#xD;
+&#xD;
+          -  QT interval longer then 500 ms.&#xD;
+&#xD;
+          -  Pregnancy&#xD;
+&#xD;
+          -  Hemodialysis renal replacement therapy&#xD;
+&#xD;
+          -  Active or prior psychotic event&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>December 18, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 24, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 28, 2020</study_first_posted>
+  <last_update_submitted>December 24, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 24, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 28, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Sheba Medical Center</investigator_affiliation>
+    <investigator_full_name>Prof. Howard Amital</investigator_full_name>
+    <investigator_title>Head of Autoimmune Center, Head of internal medicine ward &quot;B&quot;, Sheba Medical Center</investigator_title>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

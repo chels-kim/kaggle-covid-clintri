@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4070">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04715763</url>
+  </required_header>
+  <id_info>
+    <org_study_id>H053</org_study_id>
+    <nct_id>NCT04715763</nct_id>
+  </id_info>
+  <brief_title>INvestigating TELmisartin Study</brief_title>
+  <acronym>INTEL</acronym>
+  <official_title>Randomized, Double-Blind, Placebo-Controlled Pilot Clinical Trial of the Safety and Efficacy of Telmisartan for the Treatment of COVID-19 in Hospitalized Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Hawaii</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Queens Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Hawaii</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will enroll 40 inpatients hospitalized for COVID-19 at Queens' Medical Center.&#xD;
+      Participants will be randomized 1:1 to Telmisartan (80 mg) vs placebo to be administered&#xD;
+      orally once daily x 21 days.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The study is intended to assess, in a pilot study, the effect of telmisartan in mitigating&#xD;
+      the severity of COVID-19 related disease in hospitalized patients. Data on clinical course&#xD;
+      and lab values will be passively abstracted from Queen's standard of care evaluations on&#xD;
+      COVID-19 in-patients. Participants will be monitored closely as an outpatient if/when&#xD;
+      discharged prior to day 21. The only study-specific procedure will be a blood draw of ten&#xD;
+      (10) cc to be collected for research purposes at entry and at day 4 and day 21 of study for&#xD;
+      the evaluation of the renin-angiotensin system (RAS) system and for various blood biomarkers&#xD;
+      of organ function/coagulation, inflammation, leukocyte chemotaxis, tissue remodeling/fibrosis&#xD;
+      and immune exhaustion.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 1, 2021</start_date>
+  <completion_date type="Anticipated">December 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">January 31, 2022</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Patients will be randomized 1:1 to Telmisartan (80 mg) vs placebo</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Double blind</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Duration of hospitalization</measure>
+    <time_frame>Over the 21 day period of study</time_frame>
+    <description>Number of days of patient's hospitalization</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Duration of supplemental oxygen</measure>
+    <time_frame>over the 21 days of study</time_frame>
+    <description>Median number of days patients required supplemental oxygen in each arm</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of mechanical ventilation</measure>
+    <time_frame>over the 21 days of study</time_frame>
+    <description>Median number of days patients required mechanical ventilation in each arm</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of deaths</measure>
+    <time_frame>over the 21 days of study</time_frame>
+    <description>Total number of deaths during the study period in each arm</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of grade 3 and greater adverse events</measure>
+    <time_frame>over the 21 days of study</time_frame>
+    <description>Total number of Grade 3 and greater adverse events that occurred in each arm</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical severity of disease</measure>
+    <time_frame>On day 4 and day 21 of study</time_frame>
+    <description>Clinical severity of disease as assessed by WHO Clinical Status ordinal scale (scores range from minimum value of 1 (not hospitalized, no limitations on activities) to maximum value of 7 (death); higher is worse outcome.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Angiotensin 1-7 /Angiotensin II ratio</measure>
+    <time_frame>From entry to day 4 of study</time_frame>
+    <description>Change in Angiotensin 1-7/ Angiotensin II ratio</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Telmisartan (80 mg)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Telmisartan 80 mg (given as two 40 mg encapsulated tablets) given orally each day x 21 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Two placebo capsules given orally each day x 21 days</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Telmisartan Oral Product</intervention_name>
+    <description>Angiotensin Receptor Blocker (ARB) FDA approved for use in hypertension and for cardiovascular risk reduction</description>
+    <arm_group_label>Telmisartan (80 mg)</arm_group_label>
+    <other_name>Micardis</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Gelatin capsules filled with an inactive ingredient</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Able to provide written informed consent prior to initiation of any study procedures.&#xD;
+&#xD;
+          -  Within 72 hours of initial hospitalization for acute COVID-19 disease management&#xD;
+&#xD;
+          -  Male or non-pregnant female adult ≥18 years of age at time of enrolment.&#xD;
+&#xD;
+          -  Able to easily swallow pills&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Systolic blood pressure less than 100 mmHg&#xD;
+&#xD;
+          -  Self-reported history of decompensated liver failure&#xD;
+&#xD;
+          -  Pregnancy or breast feeding&#xD;
+&#xD;
+          -  Allergy to the study medication&#xD;
+&#xD;
+          -  Current use of ARB, ACE inhibitors, or angiotensin receptor/neprilysin inhibitors&#xD;
+             (ARNIs). Blood pressure medications in other classes will be permitted as long as the&#xD;
+             systolic BP is &gt;100 mmHg&#xD;
+&#xD;
+          -  Currently receiving vasopressors for hypotension&#xD;
+&#xD;
+          -  Prior reaction or intolerance to ARB, ACE Inhibitor or ANRI for whom study&#xD;
+             participation would not be advisable in the opinion of the study team&#xD;
+&#xD;
+          -  Current use of and on-going need for aliskiren, lithium, digoxin, and potassium&#xD;
+             sparing diuretics such as spironolactone&#xD;
+&#xD;
+          -  Participating in other drug clinical trials EXCEPT for other COVID-19 treatment trials&#xD;
+             which will be allowed with the permission of the Corresponding PI or Co-PI and&#xD;
+             concurrence of the treating physician/hospitalist&#xD;
+&#xD;
+          -  Alanine aminotransferase (ALT) or aspartate aminotransferase (AST) &gt; 10x upper limit&#xD;
+             of normal (ULN) within 24 hours of baseline&#xD;
+&#xD;
+          -  Absolute neutrophil count (ANC) &lt; 1000/mL within 24 hours of baseline&#xD;
+&#xD;
+          -  Platelet count &lt; 50,000/mL within 24 hours of baseline.&#xD;
+&#xD;
+          -  Patients with acute kidney injury (AKI) or chronic kidney disease (CKD) including&#xD;
+             individuals on hemodialysis may be enrolled based on the investigator's clinical&#xD;
+             judgement.&#xD;
+&#xD;
+          -  Any serious medical condition/ abnormality or other issues that, in the investigator's&#xD;
+             judgment, precludes the patient's safe participation in and completion of the study or&#xD;
+             suggests that the study is not in the patient's best interest&#xD;
+&#xD;
+          -  In the opinion of the investigator, progression to death is imminent and inevitable&#xD;
+             within the next 24 hours, irrespective of the provision of treatments&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Cecilia M Shikuma</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Hawaii at Manoa John A Burns School of Medicine</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Cecilia M Shikuma, MD</last_name>
+    <phone>808 692-1328</phone>
+    <email>shikuma@hawaii.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Debra Ogata-Arakaki, RN</last_name>
+    <phone>808 692-1332</phone>
+    <email>ogataara@hawaii.edu</email>
+  </overall_contact_backup>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>January 14, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 14, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 20, 2021</study_first_posted>
+  <last_update_submitted>January 27, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 27, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Telmisartan</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

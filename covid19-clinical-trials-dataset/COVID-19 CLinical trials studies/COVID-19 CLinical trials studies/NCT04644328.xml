@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4140">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04644328</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2003000118A010</org_study_id>
+    <nct_id>NCT04644328</nct_id>
+  </id_info>
+  <brief_title>The Doctors for Coronavirus Prevention Project Thanksgiving Messaging Campaign</brief_title>
+  <official_title>The Doctors for Coronavirus Prevention Project Thanksgiving Messaging Campaign</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Bureau of Economic Research, Inc.</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Massachusetts Institute of Technology</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Harvard University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Massachusetts General Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Yale University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Stanford University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Bureau of Economic Research, Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Facebook ads will be shown before the Thanksgiving holiday and will focus on staying safe&#xD;
+      during the COVID pandemic by limiting travel, social distancing and mask-wearing.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The investigators plan to use Facebook ads to show a 15 second video clip recorded by MGH,&#xD;
+      Harvard and Lynn Community health center doctors (6 people in all) to approximately&#xD;
+      20,000,000 Facebook users. The ads will be shown before the Thanksgiving holiday and will&#xD;
+      focus on staying safe - limiting travel, social distancing and mask-wearing. The&#xD;
+      investigators will randomize exposure to the ad campaign at the ZIP code or county level to&#xD;
+      ask:&#xD;
+&#xD;
+      Do the videos change mobility and Thanksgiving holiday travel? Do they reduce the spread of&#xD;
+      COVID-19?&#xD;
+&#xD;
+      Are there spillover impacts from the video messages? For example, if individuals decide to&#xD;
+      stay home, then do the geographical regions that tend to be visited by people from treated&#xD;
+      areas experience any effects, either through information spillovers or through a reduction in&#xD;
+      travel?&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 14, 2020</start_date>
+  <completion_date type="Anticipated">November 26, 2021</completion_date>
+  <primary_completion_date type="Anticipated">November 26, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Description of each intervention arm:&#xD;
+Control: there are no procedures Treatment: individuals receive up to 10 Facebook ads over a 2 week period. The ad contains a short video recorded by a physician using the following script: &quot;This Thanksgiving, the best way to show your love is to stay home. If you do visit, wear a mask at all times. I'm Dr. XX from XX, and I'm urging you: don't risk spreading COVID. Stay safe, stay home.&quot;</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Covid Case Rate</measure>
+    <time_frame>up to one month</time_frame>
+    <description>COVID-19 cases: plan to measure new COVID-19 case rate at the zip code level.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Population count</measure>
+    <time_frame>up to one month</time_frame>
+    <description>Facebook population data to track the number of active users in each geographical location in our study. Facebook provides this data to researchers every 8 hours at a fine geographical resolution (Bing Tile, level 16).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Facebook mobility rate</measure>
+    <time_frame>up to one month</time_frame>
+    <description>Mobility date from Facebook provides flows in and out of the study zip codes at the resolution of level 13 Bing Tiles. These mobility data are available on a daily basis. Investigators will use mobility data from as far back as Facebook has saved (as old as February 2020).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Knowledge of COVID-19 thanksgiving prevention message (recall of ad, intent to travel, mask wearing and beliefs about travel)</measure>
+    <time_frame>up to one month</time_frame>
+    <description>Facebook will ask a set of users in treated zip codes to answer four survey questions (each user answers only one question each). A small within-zip control group will be held from being treated, enabling comparisons between those who see the videos and those who don't. These questions will be asked a few days after the ad is shown on the User's feed and will include 1) recall of the ad; 2) intention of traveling over Thanksgiving; 3) intention of wearing a mask; and 4) beliefs about whether people should travel over Thanksgiving.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>average number of tiles people occupy (Mobility measure)</measure>
+    <time_frame>up to one month</time_frame>
+    <description>this measures each day &quot;how much people move around by counting the number of level-16 Bing tiles they are seen in within a day. People seen in more tiles are probably moving around more, while people seen in fewer are probably moving around less. Each day take eligible people in a given region and compute the number of distinct tiles they were seen in.&quot; This is aggregated to the county level.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>percentage of eligible participants only observed in a single level-16 Bing tile (no change in movement)</measure>
+    <time_frame>up to one month</time_frame>
+    <description>Facebook &quot;Stay-put&quot; data: this measures each day &quot;the percentage of eligible people who are only observed in a single level-16 Bing tile (600m x 600m) during the course of a day&quot; aggregated to they county level.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">20000000</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Treatment: individuals receive up to 10 Facebook ads over a 2 week period. The ad contains a short video recorded by a physician using a script that discusses the importance of staying safe during Thanskgiving by considering not traveling and using a mask when appropriate.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>There are no procedures</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Facebook Ads on the importance of staying safe during the Thanksgiving holiday</intervention_name>
+    <description>Facebook ads to show a 15 second video clip recorded by MGH, Harvard and Lynn Community health center doctors (6 people in all) to approximately 20,000,000 Facebook users. The ads will be shown before the Thanksgiving holiday and will focus on staying safe - limiting travel, social distancing and mask-wearing. The investigators will randomize exposure to the ad campaign at the ZIP code or county level.</description>
+    <arm_group_label>Intervention</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        - Individuals viewing the ads must be Facebook users, 18 years and older. Facebook will&#xD;
+        decide specifically which users receive the messages within a target geographical area (zip&#xD;
+        or county).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        -&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>JPAL North America</name>
+      <address>
+        <city>Cambridge</city>
+        <state>Massachusetts</state>
+        <zip>02138</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>November 13, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 20, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 25, 2020</study_first_posted>
+  <last_update_submitted>November 20, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 20, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 25, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>National Bureau of Economic Research, Inc.</investigator_affiliation>
+    <investigator_full_name>Esther Duflo</investigator_full_name>
+    <investigator_title>Abdul Latif Jameel Professor of Poverty Alleviation and Development Economics, MIT; Co-Director, Abdul Latif Jameel Poverty Action Lab</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>The pre-analysis plan will be posted publicly. The ability to share IPD will be based on discussions with our partner organization.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

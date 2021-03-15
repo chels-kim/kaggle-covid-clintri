@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1418">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04670094</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Comorbidities</org_study_id>
+    <nct_id>NCT04670094</nct_id>
+  </id_info>
+  <brief_title>Comorbidities and Risk Score in COVID-19 Patients</brief_title>
+  <acronym>Comorbidities</acronym>
+  <official_title>Comorbidities and Risk Score for Severity and Outcome in Patients With Infection by SARS-CoV-2.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Milano Bicocca</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Milano Bicocca</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Retrospective multi-center cohort study. Consecutive patients hospitalized for severe acute&#xD;
+      respiratory syndrome coronavirus 2 (SARS-CoV-2) up to October 2020 will be included. Patients&#xD;
+      are followed until discharge from hospital or death.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Background&#xD;
+&#xD;
+      A virus causing clusters of severe pneumonia was first detected in the city of Wuhan, China,&#xD;
+      in December 2019.&#xD;
+&#xD;
+      This pathogen was designated as SARS-CoV-2. Although of probable zoonotic origin,&#xD;
+      human-to-human transmission has rapidly fuelled the spread of SARS-CoV-2 infection globally.&#xD;
+&#xD;
+      On February 20th, the first case of locally acquired SARS-CoV-2 infection was diagnosed in&#xD;
+      Northern Italy in a critically ill, hospitalized young man with no travel history to known&#xD;
+      areas of viral circulation or link to a probable or confirmed coronavirus infectious disease&#xD;
+      2019 (COVID-19) case. Prior to this date, only three cases of COVID-19 had been reported in&#xD;
+      Central Italy, all with a travel history to Wuhan. Following this unexpected finding, case&#xD;
+      counts, and death tolls has increased rapidly in the country with a total of 192,994&#xD;
+      confirmed cases and 25,969 deaths as of 24 April 2020.&#xD;
+&#xD;
+      Study rationale&#xD;
+&#xD;
+      Multiple variables have been described as possible risk factors for SARS-CoV-2&#xD;
+      susceptibility, severity and prognosis, among which age, sex and comorbidities play an&#xD;
+      important role.&#xD;
+&#xD;
+      Centers for Disease Control and Prevention (CDC) listed the underlying medical conditions&#xD;
+      that have shown to increase the risk of severe illness from SARS-CoV-2. While some&#xD;
+      comorbidities, such as serious heart conditions and chronic kidney disease have a consistent&#xD;
+      and strong evidence as bad prognostic factors in SARS-CoV-2 infection, others as HIV have a&#xD;
+      limited evidence and heterogeneous results.&#xD;
+&#xD;
+      Further, despite it is well-known that the burden of co-existing diseases may be additive or&#xD;
+      even multiplicative, the effect of specific disease cluster on COVID-19 adverse outcomes has&#xD;
+      never been evaluated. Finally, the proposed models and risk scores currently available to&#xD;
+      predict disease severity and mortality are poorly reported and at high risk of bias, raising&#xD;
+      concern that their predictions could be unreliable when applied in daily practice. A reliable&#xD;
+      risk/prognostic score developed by a multidimensional and cross-validated approach will pave&#xD;
+      the way for future research on frail sectors of the population and on the use of health&#xD;
+      system resources. At the clinical level, a prognostic score will allow to predict severity&#xD;
+      and mortality risk in patients requiring hospitalization and to stratify patients according&#xD;
+      to clinical severity helping clinicians in their therapeutic decision-making.&#xD;
+&#xD;
+      Objectives&#xD;
+&#xD;
+      The primary objective of the study is to evaluate the role of patient's comorbidities on&#xD;
+      clinical outcome in patients hospitalized for SARS-CoV-2. The investigators will confirm risk&#xD;
+      predictors already known and provide evidence for the uncertain ones. The investigators will&#xD;
+      also develop a prognostic score able to predict negative clinical outcomes (primarily&#xD;
+      short-term mortality), that will be useful to stratify patients at hospital admission&#xD;
+      according to their different risk profiles, and therefore to &quot;tailor&quot; the individuals' level&#xD;
+      of care.&#xD;
+&#xD;
+      A secondary objective could be that to extend this approach at the susceptible population&#xD;
+      level, especially the elders, to stratify according to the higher risk of being infected by&#xD;
+      SARS-CoV-2, hospitalized and to have a dismal outcome (not developed here but related to a&#xD;
+      possible amendment).&#xD;
+&#xD;
+      Sample size&#xD;
+&#xD;
+      The investigators expect the total number of patients with complete data to be approximately&#xD;
+      2500, based on the expected recruitment of each center.&#xD;
+&#xD;
+      Analysis Plan&#xD;
+&#xD;
+      Data will be summarized by counts and percentage and quartiles for categorical and continuous&#xD;
+      variables, respectively. Multi-state models will be used to describe patient's hospital&#xD;
+      mortality and discharge. In-hospital mortality will be estimate accounting for discharge as&#xD;
+      competing event. Kaplan-Meier estimator will be used to estimate mortality up to 3-months&#xD;
+      from admission. The role of patient's comorbidities on clinical outcome will be evaluated by&#xD;
+      the Cox model adjusting for relevant confounders. A clinically-based prognostic score will be&#xD;
+      developed including comorbidities and other risk factors. The score will be constructed by a&#xD;
+      multidimensional approach and Lasso approach will be used to select relevant risk factors.&#xD;
+      The Area Under the Receiving Operating Characteristics curve (AUC) and Brier score will be&#xD;
+      used to evaluate model performance and the final score will be cross-validated. A sensitivity&#xD;
+      analysis will be performed using a training and test validation approach. The use of&#xD;
+      regression trees for a practical definition of risk subgroups and latent variable models will&#xD;
+      also be considered.&#xD;
+&#xD;
+      Multiple imputation will be performed if missing would exceed 10%.&#xD;
+&#xD;
+      Data collection&#xD;
+&#xD;
+      Consecutive patients hospitalized for SARS-CoV-2 up to October 2020 will be included. Given&#xD;
+      the difficulty in systematically obtaining written informed consent and given the great&#xD;
+      public interest of the project, the research will be conducted in the context of the&#xD;
+      authorizations guaranteed by Article 89 of the General Data Protection Regulation (GDPR) EU&#xD;
+      Regulation 2016/679, which guarantees processing for purposes of public interest, for&#xD;
+      scientific or historical research or for statistical purposes of health data.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">December 30, 2020</start_date>
+  <completion_date type="Anticipated">December 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>In-hospital mortality</measure>
+    <time_frame>Until study completion, an average of 1 year</time_frame>
+    <description>Description of the hospital mortality caused by the COVID19 disease</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Mortality up to 3 months from admission</measure>
+    <time_frame>Until study completion, an average of 1 year</time_frame>
+    <description>Description of the mortality patients up to 3 months from admission</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Admission to Intensive care unit (ICU)</measure>
+    <time_frame>Until study completion, an average of 1 year</time_frame>
+    <description>Description of the admission to ICU</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Complications occurred during the hospital course</measure>
+    <time_frame>Until study completion, an average of 1 year</time_frame>
+    <description>Description of the complications occurred during the hospital course</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation between admission to ICU and in-hospital mortality</measure>
+    <time_frame>Until study completion, an average of 1 year</time_frame>
+    <description>Description of the possible correlation between the admission of ICU and in-hospital mortality of the patients</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">2500</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Covid19 infection related patients</arm_group_label>
+    <description>Patients over the age of 18 hospitalized for SARS-CoV-2 up to end of June 2020 in the San Gerardo Hospital and other centers will be included.&#xD;
+Patients are followed until discharge from hospital or death.</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All adult patients who had a diagnosis of SARS-CoV-2 infection up to October 2020 at the&#xD;
+        San Gerardo Hospital in Monza and at other centers participating in the study will be&#xD;
+        enrolled in this study.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion criteria&#xD;
+&#xD;
+          -  the presence of SARS-CoV-2 infection&#xD;
+&#xD;
+          -  age &gt;18 years,&#xD;
+&#xD;
+          -  diagnosis of SARS-CoV-2 infection up to October 2020&#xD;
+&#xD;
+        Exclusion criteria&#xD;
+&#xD;
+        • None&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Maria Grazia Valsecchi, Prof.</last_name>
+    <role>Study Chair</role>
+    <affiliation>University of Milano Bicocca</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>llaria Capua, Prof.</last_name>
+    <role>Study Chair</role>
+    <affiliation>University of Florida</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>ASST Grande Ospedale Metropolitano Niguarda</name>
+      <address>
+        <city>Milan</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>ASST Spedali Civili</name>
+      <address>
+        <city>Montichiari</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>ASST Monza-Ospedale San Gerardo</name>
+      <address>
+        <city>Monza</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Humanitas Clinical and Research Hospital</name>
+      <address>
+        <city>Rozzano</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre for Tropical and Infectious Diseases and Microbiology, IRCCS Sacro Cuore</name>
+      <address>
+        <city>Verona</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <reference>
+    <citation>Chen R, Liang W, Jiang M, Guan W, Zhan C, Wang T, Tang C, Sang L, Liu J, Ni Z, Hu Y, Liu L, Shan H, Lei C, Peng Y, Wei L, Liu Y, Hu Y, Peng P, Wang J, Liu J, Chen Z, Li G, Zheng Z, Qiu S, Luo J, Ye C, Zhu S, Liu X, Cheng L, Ye F, Zheng J, Zhang N, Li Y, He J, Li S, Zhong N; Medical Treatment Expert Group for COVID-19. Risk Factors of Fatal Outcome in Hospitalized Subjects With Coronavirus Disease 2019 From a Nationwide Analysis in China. Chest. 2020 Jul;158(1):97-105. doi: 10.1016/j.chest.2020.04.010. Epub 2020 Apr 15.</citation>
+    <PMID>32304772</PMID>
+  </reference>
+  <reference>
+    <citation>Zheng Z, Peng F, Xu B, Zhao J, Liu H, Peng J, Li Q, Jiang C, Zhou Y, Liu S, Ye C, Zhang P, Xing Y, Guo H, Tang W. Risk factors of critical &amp; mortal COVID-19 cases: A systematic literature review and meta-analysis. J Infect. 2020 Aug;81(2):e16-e25. doi: 10.1016/j.jinf.2020.04.021. Epub 2020 Apr 23.</citation>
+    <PMID>32335169</PMID>
+  </reference>
+  <reference>
+    <citation>Yang J, Zheng Y, Gou X, Pu K, Chen Z, Guo Q, Ji R, Wang H, Wang Y, Zhou Y. Prevalence of comorbidities and its effects in patients infected with SARS-CoV-2: a systematic review and meta-analysis. Int J Infect Dis. 2020 May;94:91-95. doi: 10.1016/j.ijid.2020.03.017. Epub 2020 Mar 12.</citation>
+    <PMID>32173574</PMID>
+  </reference>
+  <reference>
+    <citation>Guo T, Fan Y, Chen M, Wu X, Zhang L, He T, Wang H, Wan J, Wang X, Lu Z. Cardiovascular Implications of Fatal Outcomes of Patients With Coronavirus Disease 2019 (COVID-19). JAMA Cardiol. 2020 Jul 1;5(7):811-818. doi: 10.1001/jamacardio.2020.1017. Erratum in: JAMA Cardiol. 2020 Jul 1;5(7):848.</citation>
+    <PMID>32219356</PMID>
+  </reference>
+  <reference>
+    <citation>Fung M, Babik JM. COVID-19 in Immunocompromised Hosts: What We Know So Far. Clin Infect Dis. 2020 Jun 27. pii: ciaa863. doi: 10.1093/cid/ciaa863. [Epub ahead of print]</citation>
+    <PMID>32592461</PMID>
+  </reference>
+  <reference>
+    <citation>Lighter J, Phillips M, Hochman S, Sterling S, Johnson D, Francois F, Stachel A. Obesity in Patients Younger Than 60 Years Is a Risk Factor for COVID-19 Hospital Admission. Clin Infect Dis. 2020 Jul 28;71(15):896-897. doi: 10.1093/cid/ciaa415.</citation>
+    <PMID>32271368</PMID>
+  </reference>
+  <reference>
+    <citation>Simonnet A, Chetboun M, Poissy J, Raverdy V, Noulette J, Duhamel A, Labreuche J, Mathieu D, Pattou F, Jourdain M; LICORN and the Lille COVID-19 and Obesity study group. High Prevalence of Obesity in Severe Acute Respiratory Syndrome Coronavirus-2 (SARS-CoV-2) Requiring Invasive Mechanical Ventilation. Obesity (Silver Spring). 2020 Jul;28(7):1195-1199. doi: 10.1002/oby.22831. Epub 2020 Jun 10. Erratum in: Obesity (Silver Spring). 2020 Oct;28(10):1994.</citation>
+    <PMID>32271993</PMID>
+  </reference>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>December 14, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 15, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 17, 2020</study_first_posted>
+  <last_update_submitted>January 21, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 21, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 22, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>Hypertension</keyword>
+  <keyword>Pregnancy</keyword>
+  <keyword>corticosteroids</keyword>
+  <keyword>immunosuppressive medications</keyword>
+  <keyword>Cancer</keyword>
+  <keyword>Chronic kidney disease</keyword>
+  <keyword>COPD</keyword>
+  <keyword>Heart conditions</keyword>
+  <keyword>Obesity</keyword>
+  <keyword>Severe Obesity</keyword>
+  <keyword>Sickle cell disease</keyword>
+  <keyword>Smoking</keyword>
+  <keyword>Solid organ transplantation</keyword>
+  <keyword>Type 2 diabetes mellitus</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

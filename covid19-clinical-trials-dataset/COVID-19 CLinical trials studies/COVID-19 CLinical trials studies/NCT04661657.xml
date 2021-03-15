@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2425">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04661657</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AAAT0787</org_study_id>
+    <nct_id>NCT04661657</nct_id>
+  </id_info>
+  <brief_title>COvid-19 LongitUdinal Multiethnic BioImaging Assessment of CARDiovascular Sequelae Registry</brief_title>
+  <official_title>COvid-19 LongitUdinal Multiethnic BioImaging Assessment of CARDiovascular Sequelae (COLUMBIA CARDS) Registry</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Columbia University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>GE Healthcare</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Columbia University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      COLUMBIA CARDS is a pilot study to understand how COVID-19 affects the heart. It is known&#xD;
+      that COVID-19 can affect the heart in different ways. COLUMBIA CARDS is studying why some&#xD;
+      COVID-19 survivors develop clinical conditions such as heart inflammation, fluid buildup,&#xD;
+      blood clots, and other cardiac problems during or after their COVID-19 illness, and why other&#xD;
+      ones do not. In this study, we will use cardiovascular magnetic resonance (CMR) and&#xD;
+      transthoracic echocardiography (TTE) to better understand the impact of COVID-19 on the&#xD;
+      heart.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a pilot study aiming to collect preliminary data on cardiac imaging (CMR and TTE) in&#xD;
+      outpatients who recovered from COVID-19.&#xD;
+&#xD;
+      CMR offers the unique ability to comprehensively characterize myocardial tissue and assess&#xD;
+      the heart's structure and function, through a variety of complementary imaging techniques&#xD;
+      using different pulse sequences. The investigators propose to provide a multi-sequence CMR&#xD;
+      evaluation of a spectrum of convalescent COVID-19 patients, compare COVID-19 survivors to&#xD;
+      controls, and study the relationships between myocardial characteristics by CMR and&#xD;
+      echocardiography and health outcomes, and how these are modulated through patient&#xD;
+      characteristics, and clinical characteristics of COVID-19 illness. Broadly, this myocardial&#xD;
+      characterization will not just provide diagnosis but serve as a potentially powerful tool for&#xD;
+      risk stratification, therapeutic decision making, and monitoring response to therapies in&#xD;
+      COVID-19 survivors.&#xD;
+&#xD;
+      Transthoracic echocardiography (TTE) is the most widely used imaging technique for the&#xD;
+      assessment of cardiac morphology and function. While its capability for myocardial tissue&#xD;
+      characterization is inferior to that of CMR, TTE provides several advantages that make it an&#xD;
+      ideal complement to CMR for the assessment of cardiac involvement in COVID-19 patients. TTE&#xD;
+      offers a rapid noninvasive evaluation of myocardial and valvular function, in addition to the&#xD;
+      assessment of other cardiac abnormalities of interest (such as presence and amount of&#xD;
+      pericardial effusion) and important hemodynamic variables (noninvasive estimation of&#xD;
+      pulmonary pressures is an example). TTE is easily performed and reproducible, and does not&#xD;
+      involve the use of radiations or contrast agents, which allows the performance of repeat&#xD;
+      evaluations to assess serial changes over time in the cardiac parameters of interest.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 28, 2020</start_date>
+  <completion_date type="Anticipated">September 30, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2021</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>2 Days</target_duration>
+  <primary_outcome>
+    <measure>Percentage of myocardium demonstrating late gadolinium enhancement</measure>
+    <time_frame>Up to 2 hours</time_frame>
+    <description>Percentage of myocardium demonstrating late gadolinium enhancement by cardiac magnetic resonance (CMR) imaging, determined using Circle cvi42 software.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Extracellular Volume (ECV) Fraction</measure>
+    <time_frame>Up to 2 hours</time_frame>
+    <description>Extracellular volume fraction measured by CMR imaging. ECV determined using Circle cvi42 software and using formula ECV = (1-hematocrit) × (Δ(1/T1myocardium)/Δ(1/T1blood)).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Left Ventricular Ejection Fraction</measure>
+    <time_frame>Up to 2 hours</time_frame>
+    <description>Left ventricular ejection fraction (percent ejection fraction) by CMR imaging and determined using Circle cvi42 software.</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">70</enrollment>
+  <condition>Covid19</condition>
+  <condition>Cardiac Disease</condition>
+  <condition>Cardiac Arrhythmia</condition>
+  <condition>Myocarditis</condition>
+  <condition>Left Ventricular Dysfunction</condition>
+  <arm_group>
+    <arm_group_label>COVID-19</arm_group_label>
+    <description>Non-prisoner and non-pregnant subjects, without prior cardiac disease, who have tested positive or have been hospitalized due to COVID-19 infection. Subjects will be undergo a physical exam, blood draw to asses serological biomarkers. Subjects will also undergo an transthoracic echocardiogram (TTE) and a clariscan-enhanced cardiovascular magnetic resonance imaging (CMR) using a gadolinium based contrast agent (GBCA).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <description>Non-prisoner and non-pregnant subjects, without prior cardiac disease, who have never tested positive and/or has never been hospitalized due to COVID-19 infection. Subjects will be undergo a physical exam, blood draw to asses serological biomarkers. Subjects will also undergo an transthoracic echocardiogram (TTE) and a clariscan-enhanced cardiovascular magnetic resonance imaging (CMR) using a gadolinium based contrast agent (GBCA).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Transthoracic echocardiogram (TTE)</intervention_name>
+    <description>Subjects will undergo TTE imaging.</description>
+    <arm_group_label>COVID-19</arm_group_label>
+    <arm_group_label>Control</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Cardiovascular Magnetic Resonance (CMR) Imaging</intervention_name>
+    <description>Subjects will undergo CMR Imaging using a gadolinium based contrast agent (GBCA).</description>
+    <arm_group_label>COVID-19</arm_group_label>
+    <arm_group_label>Control</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Subjects 18 years of age or older, without cardiac disease who have tested positive for&#xD;
+        COVID-19 or healthy control subjects who have not had COVID-19. Willing to undergo Cardiac&#xD;
+        MRI and Transthoracic echocardiogram. No known sensitivity to Gadolinium based contrast&#xD;
+        agent.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Convalescent COVID-19 patient&#xD;
+&#xD;
+          -  If COVID-19 patient, at least 4 weeks after beginning of symptoms, and at least 2&#xD;
+             weeks after hospital discharge if had been hospitalized.&#xD;
+&#xD;
+          -  Control patients who have had a negative COVID-19 screening without prior positive&#xD;
+             tests.&#xD;
+&#xD;
+          -  Willingness to undergo Clariscan-enhanced CMR scan.&#xD;
+&#xD;
+          -  Ability to hold breath for 15 seconds.&#xD;
+&#xD;
+          -  Willingness to give informed consent.&#xD;
+&#xD;
+          -  Greater than or equal to 18 years of Age.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Subjects who are Pregnant or nursing&#xD;
+&#xD;
+          -  Severe valvular heart disease&#xD;
+&#xD;
+          -  History of congestive heart failure preceding COVID-19&#xD;
+&#xD;
+          -  History of obstructive coronary artery disease with known stenosis &gt;70% or fractional&#xD;
+             flow reserve &lt; 0.8&#xD;
+&#xD;
+          -  Contraindication to MRI&#xD;
+&#xD;
+          -  Known allergy to gadoterate&#xD;
+&#xD;
+          -  Estimated glomerular filtration rate &lt;30 ml/min/1.73m2&#xD;
+&#xD;
+          -  History of receiving more than 2 doses of a gadolinium-based contrast agent&#xD;
+&#xD;
+          -  Subject is of prisoner status&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Andrew J Einstein, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Columbia Univeristy</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Frankie DeJesus, MS</last_name>
+    <phone>2123057793</phone>
+    <email>efd2116@cumc.columbia.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Kathleen Durkin, MS</last_name>
+    <phone>2128531351</phone>
+    <email>kd2649@columbia.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Columbia University Irving Medical Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Frankie DeJesus, MS</last_name>
+      <phone>212-305-7793</phone>
+      <email>efd2116@cumc.columbia.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Kathleen Durkin, MS</last_name>
+      <phone>2128531351</phone>
+      <email>kd2649@columbia.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Andrew J Einstein, MD,PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Marco R Tullio, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>December 8, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 8, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 10, 2020</study_first_posted>
+  <last_update_submitted>January 29, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 29, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 2, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Columbia University</investigator_affiliation>
+    <investigator_full_name>Andrew J. Einstein, MD, PhD</investigator_full_name>
+    <investigator_title>Director, Nuclear Cardiology, Cardiac CT, and Cardiac MRI</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Arrhythmias, Cardiac</mesh_term>
+    <mesh_term>Ventricular Dysfunction</mesh_term>
+    <mesh_term>Heart Diseases</mesh_term>
+    <mesh_term>Ventricular Dysfunction, Left</mesh_term>
+    <mesh_term>Myocarditis</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

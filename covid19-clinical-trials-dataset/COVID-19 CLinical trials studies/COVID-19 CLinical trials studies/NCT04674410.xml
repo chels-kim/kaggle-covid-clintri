@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4098">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04674410</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BD022383</org_study_id>
+    <nct_id>NCT04674410</nct_id>
+  </id_info>
+  <brief_title>Utility of Empiric Antibiotics for Non-intubated Novel Coronavirus Diseases 2019 Patients</brief_title>
+  <official_title>Utility of Empiric Antibiotics on Admission for Non-intubated Patients With Novel Coronavirus Diseases 2019 (COVID-19): A Retrospective Cohort Study of Electronic Health Records</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institutes of Health Clinical Center (CC)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institutes of Health Clinical Center (CC)</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This retrospective analysis of inpatient data obtained from administrative and electronic&#xD;
+      medical records will investigate the role of empiric antibiotics on admission on the&#xD;
+      mortality for non-intubated patients presenting with Novel Coronavirus Diseases 2019&#xD;
+      (COVID-19) associated pneumonia without extra-pulmonary sources of infection or septic shock.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study will examine the impact of empiric antibiotic therapy on patients who present to&#xD;
+      hospital with an acute lower respiratory illness and a diagnosis of COVID-19&#xD;
+      present-on-admission.&#xD;
+&#xD;
+      The Premier Healthcare Database will be used as the data source for administrative data. In&#xD;
+      addition, the subset of hospitals reporting microbiology and laboratory data will be used for&#xD;
+      subset analyses and validation purposes. The primary population to be studied will be&#xD;
+      non-intubated patients diagnosed with COVID-19 on admission (identified by diagnosis coding&#xD;
+      and/or polymerase chain reaction result present-on-admission) who have diagnosis codes&#xD;
+      supportive of acute lung illness (e.g. pneumonia). Patients with extra-pulmonary infections&#xD;
+      present-on-admission for which antibiotics would be generally administered and/or those&#xD;
+      requiring vasopressors and/or mechanical ventilation on the day of admission or day after&#xD;
+      will be excluded.&#xD;
+&#xD;
+      Patients will be analyzed according to their antibiotic treatment status, using an overlap&#xD;
+      weight matching strategy. Patients will be matched on age, gender, ethnicity, Elixhauser&#xD;
+      comorbidity index and month of admission as well as severity of acute illness (need for&#xD;
+      intensive care unit and acute organ failure score present-on-admission), performance of rapid&#xD;
+      diagnostic testing for bacterial respiratory pathogens, and receipt of concomitant putative&#xD;
+      COVID-19 directed therapy (remdesivir, tocilizumab, systemic corticosteroids,&#xD;
+      hydroxychloroquine) initiated on the day of or day after admission respectively. Logistic&#xD;
+      regression will be performed downstream to matching to mitigate the impact of residual&#xD;
+      confounding.The primary outcome and secondary outcomes are reported separately below.&#xD;
+&#xD;
+      Effect modification of the relationship between empiric antibiotics and outcomes will be&#xD;
+      examined across clinically relevant subgroups based on antibiotic regimens (separately&#xD;
+      comparing community and hospital acquired type coverage to no empiric antibiotics&#xD;
+      respectively), and those with or without need for non-invasive ventilation on admission as&#xD;
+      well as quartiles of hospital's frequency of empiric antibiotic use and admission&#xD;
+      procalcitonin level (when available) respectively among patients admitted with COVID-19.&#xD;
+&#xD;
+      Sensitivity analyses will be performed to examine outcomes with vs without coding for&#xD;
+      conditions that may or may not suggest a definite indication for antibiotic on admission&#xD;
+      (e.g. chronic obstructive lung disease exacerbation) and/or explicit diagnosis for &quot;sepsis&quot;&#xD;
+      (as it remains unclear in whom this code was indicated to represent confirmed viral sepsis).&#xD;
+      Sensitivity analyses will also be performed to include patients without diagnosis codes for&#xD;
+      acute lower respiratory illness present-on-admission to include patients with COVID-19&#xD;
+      pneumonia who may not have been coded for pneumonia per se.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">March 1, 2020</start_date>
+  <completion_date type="Anticipated">February 28, 2021</completion_date>
+  <primary_completion_date type="Anticipated">January 31, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>In-Hospital Mortality or discharge to hospice</measure>
+    <time_frame>From time of admission to death during the hospitalization or discharge to hospice</time_frame>
+    <description>Death during the hospitalization or discharge to hospice</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Rates of Mechanical Ventilation</measure>
+    <time_frame>From 48 hours post admission to discharge or death</time_frame>
+    <description>Mechanical ventilation initiated after 48 hours into the admission as a marker of clinical deterioration and its relationship to receipt of empiric antibiotic</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rates of C. difficile infection</measure>
+    <time_frame>not present-on-admission</time_frame>
+    <description>Identify the risk of C. difficile infection on patients according to empiric therapy status as captured by diagnosis codes not present-on-admission</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of stay for survivors</measure>
+    <time_frame>From admission to discharge (not to hospice)</time_frame>
+    <description>As a marker of morbidity and and its relationship to receipt of empiric antibiotic therapy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rates of ICU Admission</measure>
+    <time_frame>From 48 hours post admission to discharge</time_frame>
+    <description>As a marker of clinical deterioration and its relationship to receipt of empiric antibiotic therapy among patients who did not require ICU admission upon arrival</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rates of Acute Kidney Injury</measure>
+    <time_frame>not present-on-admission</time_frame>
+    <description>Identify the risk of acute kidney injury according to empiric therapy status as captured by diagnosis codes not present-on-admission</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days free of antibiotics</measure>
+    <time_frame>5 days from admission to discharge or primary outcome</time_frame>
+    <description>For patients in hospital for at least 5 days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rates of secondary infections due to antibiotic resistant pathogens</measure>
+    <time_frame>not present-on-admission</time_frame>
+    <description>As above, as captured by diagnosis codes not present-on-admission</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">100000</enrollment>
+  <condition>Covid19</condition>
+  <condition>Coronavirus Infection</condition>
+  <condition>Pneumonia</condition>
+  <arm_group>
+    <arm_group_label>Empiric Antibiotic</arm_group_label>
+    <description>All patients with COVID19 diagnosed on admission who received empiric antibiotics within 48 hours of admission without another site of infection identified or suspected septic shock.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <description>All patients admitted with COVID19 who did not receive empiric antibiotics in the first 48 hours of admission</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Antibiotic</intervention_name>
+    <description>Empiric antibiotic therapy, subdivided according to Community Acquired Pneumonia coverage vs Hospital Acquired Pneumonia coverage</description>
+    <arm_group_label>Empiric Antibiotic</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The study population will include patients admitted to hospital with a diagnosis of&#xD;
+        COVID-19 on arrival as defined by ICD-10 code or legacy coding for coronavirus (prior to&#xD;
+        implementation of new ICD-10 code) and/or a positive SARS-CoV-2 polymerase chain reaction&#xD;
+        test on admission. Patients included will have no other sources of infection identified on&#xD;
+        admission and will be clinically stable.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adult patients&#xD;
+&#xD;
+          -  Admitted to hospital with International Classification of Diseases Version 10 (ICD-10)&#xD;
+             diagnosis coding COVID-19 present-on-admission or positive severe acute respiratory&#xD;
+             syndrome coronavirus 2 (SARS-CoV-2) polymerase chain reaction test sampled on&#xD;
+             admission&#xD;
+&#xD;
+          -  Patients admitted to hospital with ICD-10 diagnosis coding for pneumonia&#xD;
+             present-on-admission&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients with suspected extra-pulmonary bacterial infection&#xD;
+&#xD;
+          -  Patients receiving mechanical ventilation or vasopressors within 48 hours of arrival&#xD;
+&#xD;
+          -  Patients coded as having septic shock present on admission&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Sameer S Kadri, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>National Institutes of Health (NIH)</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>National Institutes of Health Clinical Center</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20892</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>December 17, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 17, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 19, 2020</study_first_posted>
+  <last_update_submitted>December 17, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 17, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 19, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>National Institutes of Health Clinical Center (CC)</investigator_affiliation>
+    <investigator_full_name>Sameer Kadri, M.D.</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Empiric antibiotics</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+    <mesh_term>Pneumonia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Anti-Bacterial Agents</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

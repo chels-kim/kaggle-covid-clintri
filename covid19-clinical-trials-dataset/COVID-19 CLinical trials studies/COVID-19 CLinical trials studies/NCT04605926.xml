@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3507">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04605926</url>
+  </required_header>
+  <id_info>
+    <org_study_id>EQ001-20-001</org_study_id>
+    <nct_id>NCT04605926</nct_id>
+  </id_info>
+  <brief_title>A Study to Evaluate the Efficacy and Safety of Itolizumab in Subjects Hospitalized With COVID-19</brief_title>
+  <acronym>EQUINOX</acronym>
+  <official_title>A Phase 3, Randomized, Double-Blind, Placebo-Controlled Study of Itolizumab in Subjects Hospitalized With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Equillium</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Biocon Limited</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Equillium</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a randomized controlled trial to evaluate the efficacy and safety of itolizumab in&#xD;
+      subjects hospitalized with COVID-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study will randomize up to 800 subjects in a 1:1 ratio; itolizumab vs. placebo. Subjects&#xD;
+      will receive either itolizumab or placebo administered intravenously on Day 1 and Day 8 with&#xD;
+      follow-up to Day 90. Two interim analyses of futility are planned. The first will take place&#xD;
+      when approximately 20% of the subjects have been evaluated for the primary endpoint, and the&#xD;
+      second will take place when approximately 50% of the subjects have been evaluated for the&#xD;
+      primary endpoint.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Withdrawn</overall_status>
+  <why_stopped>
+    Sponsor has currently elected to withhold study initiation&#xD;
+  </why_stopped>
+  <start_date type="Anticipated">November 2020</start_date>
+  <completion_date type="Anticipated">June 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>The study will be blinded to all study staff that has direct access to the subjects and the sponsor.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of subjects who have recovered at Day 28.</measure>
+    <time_frame>Day 28</time_frame>
+    <description>Proportion of subjects who have recovered at Day 28.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects deceased or requiring mechanical ventilation at Day 28.</measure>
+    <time_frame>Day 28</time_frame>
+    <description>Proportion of subjects deceased or requiring mechanical ventilation at Day 28.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects deceased at Day 28.</measure>
+    <time_frame>Day 28</time_frame>
+    <description>Proportion of subjects deceased at Day 28.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Incidence of treatment-emergent adverse events (TEAEs).</measure>
+    <time_frame>Day 90</time_frame>
+    <description>Number of participants with treatment-related adverse events as assessed by Common Terminology Criteria for Adverse Events (CTCAE)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Time to maximum itolizumab serum concentration, Tmax</measure>
+    <time_frame>Day 28</time_frame>
+    <description>Time to maximum itolizumab serum concentration, Tmax</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Maximum itolizumab serum drug concentration, Cmax</measure>
+    <time_frame>Day 28</time_frame>
+    <description>Maximum itolizumab serum drug concentration, Cmax</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Total itolizumab exposure across time, AUC (from zero to last)</measure>
+    <time_frame>Day 28</time_frame>
+    <description>Total itolizumab exposure across time, AUC (from zero to last)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Inflammatory biomarkers</measure>
+    <time_frame>Day 28</time_frame>
+    <description>Including but not limited to IL-1, IL-6, IL-17, TNF-α.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Pharmacodynamic markers</measure>
+    <time_frame>Day 28</time_frame>
+    <description>sCD6, sALCAM</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">0</enrollment>
+  <condition>Coronavirus</condition>
+  <arm_group>
+    <arm_group_label>EQ001</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>EQ001 administered in a blinded fashion by intravenous infusion on Day 1 and Day 8 for a total of 2 doses.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>EQ001 Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo administered in a blinded fashion by intravenous infusion on Day 1 and Day 8 for a total of 2 doses.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>EQ001</intervention_name>
+    <description>itolizumab [Bmab600]</description>
+    <arm_group_label>EQ001</arm_group_label>
+    <other_name>itolizumab</other_name>
+    <other_name>Bmab600</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>EQ001 Placebo</intervention_name>
+    <description>EQ001 Placebo</description>
+    <arm_group_label>EQ001 Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Is willing and able to, or has a legally acceptable representative who is willing and&#xD;
+             able to, provide informed consent to participate and to cooperate with all aspects of&#xD;
+             the protocol.&#xD;
+&#xD;
+          2. Is male or female, age ≥18 years&#xD;
+&#xD;
+          3. Is hospitalized with COVID-19 pneumonia with a diagnosis of SARS-CoV-2 infection&#xD;
+             confirmed by reverse transcriptase polymerase chain reaction (RT-PCR) or equivalent&#xD;
+             local test within 14 days of randomization.&#xD;
+&#xD;
+          4. Has PaO2/FiO2 ratio of ≤200 (or equivalent SpO2/FiO2 ratio ~235 within 24 hours before&#xD;
+             randomization. This ratio may be adjusted based on altitude.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Has known severe allergic reactions to mAbs.&#xD;
+&#xD;
+          2. Has active TB or known history of inadequately treated latent or active TB.&#xD;
+&#xD;
+          3. Has any known active systemic or pulmonary bacterial, fungal, or viral (other than&#xD;
+             SARS-CoV-2) infection at the time of randomization.&#xD;
+&#xD;
+          4. Has known active, uncontrolled hepatitis B or hepatitis C or severe liver function&#xD;
+             impairment from any etiology, as defined by Child-Pugh Class C.&#xD;
+&#xD;
+          5. Has human immunodeficiency virus (HIV) with known CD4 counts &lt;0.2 × 10^9/L.&#xD;
+&#xD;
+          6. Has a history of clinically significant cardiac abnormality within 6 months prior to&#xD;
+             randomization, such as myocardial infarction or stroke, New York Heart Association&#xD;
+             class III or IV, or clinically significant abnormalities of electrocardiogram (ECG) or&#xD;
+             cardiac function.&#xD;
+&#xD;
+          7. Has been on mechanical ventilation for longer than 48 hours during their first&#xD;
+             continuous episode since admission, is on their second or greater episode of&#xD;
+             mechanical ventilation at the time of randomization during the concurrent&#xD;
+             hospitalization, or has received extracorporeal membrane oxygenation (ECMO).&#xD;
+&#xD;
+          8. Has a declining clinical status with an expected survival &lt;3 days in the opinion of&#xD;
+             the Investigator.&#xD;
+&#xD;
+          9. Has received any systemic immunomodulatory or immunosuppressant agents for any&#xD;
+             condition within 3 months prior to randomization. (Note: a stable, oral, low dose of&#xD;
+             corticosteroids [prednisone or equivalent ≤10 mg/day] for a chronic condition or any&#xD;
+             dose of systemic corticosteroids for current COVID-19 treatment are permitted.&#xD;
+             Local/topical treatments are also permitted.)&#xD;
+&#xD;
+         10. Has received any biologic treatment for any acute (eg, COVID-19) or chronic conditions&#xD;
+             (eg, TNFα inhibitors, anti-IL17A, tocilizumab, anti-cytokines, etc.) within 3 months&#xD;
+             prior to randomization.&#xD;
+&#xD;
+         11. Is participating in another clinical study of an investigational product and/or&#xD;
+             received an investigational product within 30 days or within 5 half-lives (whichever&#xD;
+             is longer) prior to randomization.&#xD;
+&#xD;
+         12. Is pregnant or breastfeeding, or has a positive pregnancy serum or urine test during&#xD;
+             Screening.&#xD;
+&#xD;
+         13. Does not agree to use contraception in the event of sexual activity for 130 days (+90&#xD;
+             days for male subjects) after the last dose of study drug if a female of childbearing&#xD;
+             potential or a male with a partner of childbearing potential. Note: this criterion&#xD;
+             does not apply to subjects in same-sex relationships.&#xD;
+&#xD;
+         14. Has inadequate hematologic function during Screening defined as follows:&#xD;
+&#xD;
+               -  Absolute neutrophil count (ANC) &lt;1.0 × 109/L.&#xD;
+&#xD;
+               -  ALC &lt;0.5 × 109/L.&#xD;
+&#xD;
+         15. Requires renal dialysis, either acute or chronic, at the time of randomization.&#xD;
+&#xD;
+         16. Has a medical, psychiatric, or other condition or circumstance that, in the opinion of&#xD;
+             the Investigator, could affect the subject's safety, the subject's participation in&#xD;
+             the study, or the reliability of the study data.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Maple Fung, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Equillium</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Inv Site CO01</name>
+      <address>
+        <city>Medellín</city>
+        <country>Colombia</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Colombia</country>
+  </location_countries>
+  <link>
+    <url>https://equilliumbio.com/</url>
+    <description>Company website</description>
+  </link>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>October 21, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 27, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 28, 2020</study_first_posted>
+  <last_update_submitted>January 25, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 25, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 27, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

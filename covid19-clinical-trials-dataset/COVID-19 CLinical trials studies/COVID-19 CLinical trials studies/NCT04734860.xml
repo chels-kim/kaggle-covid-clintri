@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1251">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04734860</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AMG-COV-201</org_study_id>
+    <nct_id>NCT04734860</nct_id>
+  </id_info>
+  <brief_title>Study to Evaluate a Single Dose of STI-2020 (COVI-AMG™) in Adults With Mild COVID-19 Symptoms</brief_title>
+  <official_title>A Randomized, Placebo-controlled Study to Evaluate the Safety, Pharmacokinetics and Efficacy of a Single Dose of STI-2020 (COVI-AMG™) in Adults With Mild COVID-19 Symptoms</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sorrento Therapeutics, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Sorrento Therapeutics, Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study investigates the safety, pharmacokinetic (PK) profile and efficacy of a single&#xD;
+      injection of COVI-AMG in outpatient adults with mild COVID-19 symptoms.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a multi-center, randomized, double-blind study designed to investigate the safety,&#xD;
+      pharmacokinetic (PK) profile and efficacy of a single injection of COVI-AMG in outpatient&#xD;
+      adults with mild COVID-19 symptoms. Subjects will be followed for approximately 70 days post&#xD;
+      dosing.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 2021</start_date>
+  <completion_date type="Anticipated">November 2021</completion_date>
+  <primary_completion_date type="Anticipated">September 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of subjects who have remained out of the hospital or emergency room through Day 29</measure>
+    <time_frame>Randomization to Day 29</time_frame>
+    <description>Proportion of subjects who have remained out of the hospital or emergency room through Day 29</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Viral load reduction from baseline to Day 8, 15, 29, 43, and 70</measure>
+    <time_frame>Randomization to Day 8, 15, 29, 43, 70</time_frame>
+    <description>Viral load reduction from baseline to Day 8, 15, 29, 43, and 70 as assessed by nasopharyngeal RT-PCR test</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects who have remained out of the hospital or emergency room through Day 43 and 70</measure>
+    <time_frame>Randomization to Day 43 and Day 70</time_frame>
+    <description>Proportion of subjects who have remained out of the hospital or emergency room through Day 43 and 70</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of subjects who have 50%, 70%, and 90% reduction in PRO instrument score</measure>
+    <time_frame>Randomization to Day 15, 29, 43</time_frame>
+    <description>Proportion of subjects who have 50%, 70%, and 90% reduction in PRO instrument score from baseline at Day 15, 29, and 43</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to resolution of fever</measure>
+    <time_frame>Randomization through study completion at Day 70</time_frame>
+    <description>For subjects who have a fever at randomization, time to resolution of the fever</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">500</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>COVI-AMG</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>A single injection of 40 mg, 100 mg, or 200 mg of COVI-AMG will be administered</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>A single injection of placebo will be administered</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>COVI-AMG</intervention_name>
+    <description>COVI-AMG is a fully human SARS-CoV-2 neutralizing monoclonal antibody (mAb)</description>
+    <arm_group_label>COVI-AMG</arm_group_label>
+    <other_name>STI-2020</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Diluent solution</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Positive for COVID-19 by an approved antigen test&#xD;
+&#xD;
+          -  Mild symptoms consistent with a COVID-19 viral infection&#xD;
+&#xD;
+          -  Willing and able to comply with all planned study procedures and be available for all&#xD;
+             study visits and follow-up as required by the protocol&#xD;
+&#xD;
+          -  Willing to follow contraception guidelines&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Evidence of moderate COVID-19 per FDA severity categorization&#xD;
+&#xD;
+          -  Pregnant or lactating and breast feeding or planning on either during the study&#xD;
+&#xD;
+          -  Has a documented infection other than COVID-19&#xD;
+&#xD;
+          -  Has received a COVID-19 vaccine&#xD;
+&#xD;
+          -  Has participated, or is participating, in a clinical research study evaluating&#xD;
+             COVID-19 convalescent plasma, monoclonal antibodies (mAbs) against SARS-CoV-2, or&#xD;
+             intravenous immunoglobulin (IVIG) within 3 months or less than 5 half-lives of the&#xD;
+             investigational product (whichever is longer) prior to the screening visit&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mike Royal, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Sorrento Therapeutics</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Mike Royal, MD</last_name>
+    <phone>(858) 203-4100</phone>
+    <phone_ext>4146</phone_ext>
+    <email>mroyal@sorrentotherapeutics.com</email>
+  </overall_contact>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>January 29, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 29, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 2, 2021</study_first_posted>
+  <last_update_submitted>January 29, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 29, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 2, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>covid-19</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

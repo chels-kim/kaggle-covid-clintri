@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3010">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04629157</url>
+  </required_header>
+  <id_info>
+    <org_study_id>290989</org_study_id>
+    <nct_id>NCT04629157</nct_id>
+  </id_info>
+  <brief_title>The LAVA (Lateral Flow Antigen Validation and Applicability) Study for COVID-19</brief_title>
+  <acronym>LAVA</acronym>
+  <official_title>The LAVA (Lateral Flow Antigen Validation and Applicability) Study for COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Alder Hey Children's NHS Foundation Trust</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Alder Hey Children's NHS Foundation Trust</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a pilot study which aims to assess the validity and applicability of lateral flow&#xD;
+      assays (LFAs) which can be used as a point of care test for COVID-19. The study will focus on&#xD;
+      children admitted to hospital or planned to have a procedure for which they require an&#xD;
+      anaesthetic. RT-PCR is the current gold standard test for COVID-19, but it usually takes&#xD;
+      approximately 24-48 hours for a test result to be returned which can slow the clinical care&#xD;
+      given to a patient and can potentially increase the risk of healthcare worker (HWC) exposure&#xD;
+      to COVID-19. LFAs are a point of care test which can identify children who have a high viral&#xD;
+      load of COVID-19 and are performed using a more acceptable method of swabbing for children,&#xD;
+      just inside the nostril. Using LFA potentially enables the identification of infectious&#xD;
+      children with COVID-19 to aid with immediate care of patients and limiting HWC and other&#xD;
+      patients' contact with the virus. This study aims to assess the test failure rate and&#xD;
+      identify reasons for this which can be addressed. It also aims to assess the discomfort of&#xD;
+      both tests for children, provide a comparison between the time to LCA and RT-PCR result and&#xD;
+      provide data for a trial to adequately power a prospective trial comparing RT-PCR and LFA.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      During the ongoing COVID-19 pandemic, testing of children for COVID-19 has become an area of&#xD;
+      substantial need and intense scrutiny. The current gold-standard method for SARS-CoV-2&#xD;
+      detection is the real time reverse transcriptase polymerase chain reaction (RT-PCR),&#xD;
+      performed on a sample from the respiratory system. This diagnostic test identifies fragments&#xD;
+      of viral RNA which are specific to SARS-CoV-2 and amplifies them. It can detect even&#xD;
+      relatively low levels of RNA in people who have contracted the virus but have not yet&#xD;
+      developed a high viral load or symptoms. It can also detect RNA after the live virus has&#xD;
+      cleared, but fragments of the virus' RNA remain. This test has a high analytical sensitivity&#xD;
+      and specificity. However, obtaining an adequate specimen is more difficult in children as the&#xD;
+      test is uncomfortable and not always well tolerated. This means that the diagnostic&#xD;
+      sensitivity is approximately 80%(1). Nevertheless, RT-PCR currently remains the most accurate&#xD;
+      method of detection of SARS-CoV-2. However, logistical issues around RT-PCR mean that the&#xD;
+      availability and usability of the test is reduced. This is due to a combination of factors&#xD;
+      including testing site capacity, processing capacity and the time taken to process and report&#xD;
+      the results by centralised laboratories. The net result is that the high sensitivity and&#xD;
+      specificity of PCR is offset by the time lag for result reporting. In acute hospitals, these&#xD;
+      delays can lead to poor patient flow through clinical areas, overuse of personal-protective&#xD;
+      equipment (PPE) or late recognition of nosocomial transmission. Thus, rapid testing is of&#xD;
+      particular importance in identifying highly infective individuals, for example people who are&#xD;
+      about to undergo a high-risk aerosol generating procedure, enter a crowded emergency room, or&#xD;
+      in rapid investigation of localised outbreaks.&#xD;
+&#xD;
+      Alternative methods and modalities of testing have therefore been explored, in particular the&#xD;
+      use of anterior nasal swabs to detect the SARS-CoV-2. Salivary RT-PCR is also under&#xD;
+      investigation(2, 3) but is affected by some of the limitations of performing RT-PCR on any&#xD;
+      sample, as described above. An alternative method of detection of SARS-CoV-2 is the use of&#xD;
+      antigen testing using a lateral flow assay (LFA)(4). Antigen-detection diagnostic test are&#xD;
+      designed to directly detect SARS-CoV-2 proteins produced by replicating virus in respiratory&#xD;
+      secretions. Most antigen rapid diagnostic tests use a sandwich immunodetection method using a&#xD;
+      simple-to-use lateral flow test format similar to a pregnancy test. Antigen detection tests&#xD;
+      have several advantages compared to RT-PCR; 1) it can be performed on an anterior nasal&#xD;
+      swabs- a specimen which is much more acceptably obtained in children-, 2) the results can be&#xD;
+      rapidly processed using a commercial kit at the bedside, with a result being available within&#xD;
+      30 minutes of the sample being taken, and 3) it is less expensive to perform an antigen test&#xD;
+      compared to RT-PCR. The trade-off for ease-of-use and rapid turnaround time of antigen tests&#xD;
+      is a decrease in sensitivity compared to RT-PCR, particularly if the person has a low viral&#xD;
+      load (e.g. they are early or late in the disease) because the levels of antigens present in&#xD;
+      the upper respiratory tract might fall below the threshold for detection. The analytical&#xD;
+      sensitivity appears to be approximately 50% overall, but this increases during periods of&#xD;
+      anticipated infectivity when the viral load is &gt;60,000 (RT-PCR cycle time threshold &lt;27) to&#xD;
+      approximately 90%. The specificity of antigen tests has consistently been reported to be very&#xD;
+      high (&gt;97%). Thus, if the antigen test is positive then it is very likely that it is a true&#xD;
+      result, and the person does have COVID-19. Antigen-detection tests are therefore primarily&#xD;
+      being used to detect infectivity of an individual, rather than being used as a clinical&#xD;
+      diagnostic test for COVID-19.&#xD;
+&#xD;
+      The potential application of LFAs to defeat Covid-19 are evident, with several clinical&#xD;
+      scenarios below demonstrating areas where comparing the performance of RT-PCR to LFA could&#xD;
+      improve the care of children and improve the safety of staff in hospital. However, evaluation&#xD;
+      of the use of these tests in clinical settings is essential before full implementation in&#xD;
+      routine clinical practice is advised.&#xD;
+&#xD;
+      At present, all children are tested for COVID-19 with RT-PCR when they are admitted to&#xD;
+      hospital, regardless of their symptoms. During the winter months, when more children with&#xD;
+      respiratory symptoms will seek medical care, current guidance recommends isolation or&#xD;
+      cohorting of these patients within hospital until their SARS-CoV-2 test is back(5). However,&#xD;
+      the majority of children are likely to have an alternative cause for their symptoms, such as&#xD;
+      respiratory syncytial virus, adenovirus or influenza. Early identification of infectious&#xD;
+      children with COVID-19 using a point of care test would allow for more effective cohorting or&#xD;
+      isolation to occur and potentially reduce the spread of COVID-19 in hospital settings, not&#xD;
+      just from children but their parents too who are likely to be infected as a household&#xD;
+      contact. Besides, early identification of children with COVID-19 using LFA will aid&#xD;
+      compliance with stringent use of PPE for healthcare workers caring for these children.&#xD;
+&#xD;
+      Children being admitted for elective procedures are currently also routinely tested for&#xD;
+      COVID-19 with a nasopharyngeal swab prior to admission. This is performed to reduce the&#xD;
+      chance of them harbouring SARS-CoV-2 at the time of having a high-risk aerosol generating&#xD;
+      procedure (AGP), where the risk of transmission of SARS-CoV-2 to staff is increased.&#xD;
+      Generally, these children are asymptomatic, as the presence of ILI symptoms often precludes&#xD;
+      an anaesthetic being performed. In this population, LFAs could be used to identify children&#xD;
+      who were incubating SARS-CoV-2 at the time of swabbing but were not shedding the virus who&#xD;
+      have subsequently progress to start shedding the virus (Table 1). Performing LFA potentially&#xD;
+      enables infectious children to be identified and can be used to guide decisions around&#xD;
+      proceeding with a procedure and the use of PPE in children when the procedure goes ahead.&#xD;
+&#xD;
+      Finally, LFAs could be used in 'high risk' hospital areas, particularly intensive care and&#xD;
+      high dependency units where high-risk AGPs are commonly performed and where children are more&#xD;
+      likely to have symptoms which are in-keeping with COVID-19. Surveillance of SARS-CoV-2 using&#xD;
+      RT-PCR is being performed routinely in some units, but a 24-48 hour delay in the result has&#xD;
+      minimal impact on practice around AGPs. LFAs may be utilised as a screening tool for&#xD;
+      infectious patients in these areas to support the use of appropriate PPE.&#xD;
+&#xD;
+      Further use of these tests could also be considered within health care worker (HCW) screening&#xD;
+      for infectivity after known exposures to Covid-19 cases, to limit the number of HCW absences&#xD;
+      due to potential exposure both outside and inside the hospital. They could potentially also&#xD;
+      be used in the community, in settings such as schools and sports clubs, to identify&#xD;
+      infectious individuals. Validation and usability in a controlled clinical setting is&#xD;
+      recommended prior to use in the wider community. Mathematical analysis of LFAs shows that,&#xD;
+      due to their high specificity, the negative predictive value is good in times of both high&#xD;
+      and low prevalence, even when the sensitivity of the test is low.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 5, 2020</start_date>
+  <completion_date type="Anticipated">November 19, 2020</completion_date>
+  <primary_completion_date type="Anticipated">November 19, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Paired testing</intervention_model_description>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Acceptability of test</measure>
+    <time_frame>Immediately after test</time_frame>
+    <description>A pain score (Wong-Baker) will be used to assess the pain of performing an anterior nasal swab and a nose and throat swab</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Test failure rate</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>A description of the test failure rate of lateral flow devices compared to RT-PCR will be performed.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Comparison of the results of lateral flow device to RT-PCR</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>These data will be used to inform power calculations to determine the number of patients required to determine the validity of the tests</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">400</enrollment>
+  <condition>This is a Pilot Study Which Aims to Assess the Validity and Applicability of Lateral Flow Assays (LFAs) Which Can be Used as a Point of Care Test for COVID-19</condition>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>All patients</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>All patients entering the study will undergo paired testing of a lateral flow device using an anterior nasal swab and an RT-PCR using a nose and throat swab.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Innova Lateral Flow Device</intervention_name>
+    <description>The Innova Lateral Flow Device will be used on anterior nasal swab specimens and RT-PCR will be performed on nose and throat swabs.</description>
+    <arm_group_label>All patients</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Children aged 0 - &lt;18 years undergoing combined nose and throat swabbing for an&#xD;
+             elective diagnostic or surgical procedure.&#xD;
+&#xD;
+          2. Children aged 0 - &lt;18 years undergoing combined nose and throat swabbing on admission&#xD;
+             to hospital when there is a differential diagnosis of COVID-19.&#xD;
+&#xD;
+          3. Children aged 0 - &lt;18 years undergoing routine combined nose and throat swabbing&#xD;
+             during a stay on the intensive care unit, the high dependency unit or a transplant&#xD;
+             ward.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        None&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>17 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Rachel Harwood, MB BS</last_name>
+    <phone>0151 2284861</phone>
+    <email>Rachel.harwood@alderhey.nhs.uk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Beatriz Larru, MD</last_name>
+    <email>Beatriz.Larru@alderhey.nhs.uk</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Alder Hey in the Park</name>
+      <address>
+        <city>Liverpool</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lucy Cooper</last_name>
+      <phone>0151 2284861</phone>
+      <email>Lucy.cooper@alderhey.nhs.uk</email>
+    </contact>
+    <contact_backup>
+      <last_name>Richard Kirk</last_name>
+      <phone>0151 2284861</phone>
+      <email>Richard.kirk@alderhey.nhs.uk</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Beatriz Larru, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Laura Rad</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Manchester Children's Hospital</name>
+      <address>
+        <city>Manchester</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Christopher Kelly</last_name>
+      <email>Chris.kelly@mft.nhs.uk</email>
+    </contact>
+    <investigator>
+      <last_name>Christopher Kelly</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>November 4, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 13, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 16, 2020</study_first_posted>
+  <last_update_submitted>November 13, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 13, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 16, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>IPD will not be shared outside of the research team</ipd_description>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>October 15, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/57/NCT04629157/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Informed Consent Form</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>October 15, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/57/NCT04629157/ICF_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

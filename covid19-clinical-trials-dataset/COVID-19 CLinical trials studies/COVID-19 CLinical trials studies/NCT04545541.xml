@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2267">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04545541</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CHARTER meta-trial</org_study_id>
+    <nct_id>NCT04545541</nct_id>
+  </id_info>
+  <brief_title>Nebulised Heparin in Patients With Severe COVID-19</brief_title>
+  <acronym>CHARTER-MT</acronym>
+  <official_title>Can Nebulised HepArin Reduce morTality and Time to Extubation in Patients With COVID-19 Requiring Mechanical Ventilation Meta-Trial (CHARTER-MT): Protocol for an Investigator-initiated International Meta-trial of Randomised Studies</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Australian National University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Australian National University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The Can nebulised HepArin Reduce morTality and time to Extubation in Patients with COVID-19&#xD;
+      Requiring mechanical ventilation Meta-Trial (CHARTER-MT) is a prospective collaborative&#xD;
+      individual patient data analysis of randomised controlled trials and early phase studies.&#xD;
+      Individual studies are being conducted in multiple countries, including Australia, Ireland,&#xD;
+      the USA, and the UK.&#xD;
+&#xD;
+      Mechanically ventilated patients with confirmed or strongly suspected SARS-CoV-2 infection,&#xD;
+      hypoxaemia and an acute pulmonary opacity in at least one lung quadrant on chest X-ray, will&#xD;
+      be randomised to nebulised heparin 25,000 Units every 6 hours or standard care (open label&#xD;
+      studies) or placebo (blinded placebo controlled studies) for up to 10 days while mechanically&#xD;
+      ventilated. All trials will collect a minimum core dataset. The primary outcome for the&#xD;
+      meta-trial is ventilator-free days during the first 28 days, defined as being alive and free&#xD;
+      from mechanical ventilation. Individual studies may have additional outcomes.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 1, 2020</start_date>
+  <completion_date type="Anticipated">June 2022</completion_date>
+  <primary_completion_date type="Anticipated">April 2022</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Alive and Ventilator Free Score</measure>
+    <time_frame>Day 28</time_frame>
+    <description>Validated hierarchical composite endpoint, based on mortality and ventilator free days, which is less prone to favour a treatment with discordant effects on survival and days free of ventilation.</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">300</enrollment>
+  <condition>Covid19</condition>
+  <condition>Respiratory Failure</condition>
+  <arm_group>
+    <arm_group_label>Nebulised heparin</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants assigned to &quot;nebulised UFH&quot; will receive nebulised UFH in addition to the standard care required as determined by the treating team. Nebulised UFH (25,000 Units in 5 mL) will be administered 6-hourly via an Aerogen Solo vibrating mesh nebuliser while patients receive invasive mechanical ventilation in ICU and for a maximum of 10 days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Participants assigned to 'standard care' will receive the standard care required as determined by the treating team and will not be treated with nebulised heparin (Australia, Ireland).&#xD;
+Participants assigned to &quot;placebo&quot; will receive Nebulised 0.9% Sodium Chloride (5 mL) administered 6-hourly via an Aerogen Solo vibrating mesh nebuliser while patients receive invasive mechanical ventilation in ICU and for a maximum of 10 days (USA).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Nebulised unfractionated heparin (UFH)</intervention_name>
+    <description>Nebulised UFH (25,000 Units in 5 mL) will be administered 6-hourly via an Aerogen Solo vibrating mesh nebuliser while patients receive invasive mechanical ventilation in ICU and for a maximum of 10 days.</description>
+    <arm_group_label>Nebulised heparin</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age 18 years or older&#xD;
+&#xD;
+          -  Currently in an intensive care unit (ICU) or scheduled for transfer to the ICU. During&#xD;
+             the pandemic, critically ill inpatients might be cared for outside of the walls of the&#xD;
+             usual physical environment of ICU. For this reason, ICU is defined as an area&#xD;
+             designated for inpatient care of the critically ill where therapies including invasive&#xD;
+             mechanical ventilation can be provided.&#xD;
+&#xD;
+          -  Endotracheal tube in place&#xD;
+&#xD;
+          -  Intubated yesterday or today&#xD;
+&#xD;
+          -  PaO2 to FIO2 ratio less than or equal to 300 while intubated&#xD;
+&#xD;
+          -  Acute opacities not fully explained by effusions, lobar/lung collapse and nodules,&#xD;
+             affecting at least one lung quadrant on chest X-ray or CT&#xD;
+&#xD;
+          -  The acute opacities on chest X-ray or CT are most likely due to COVID-19&#xD;
+&#xD;
+          -  There is a PCR positive sample for SARS-CoV-2 within the past 21 days or there are&#xD;
+             results pending or further testing is planned. The sample can be a nasal or pharyngeal&#xD;
+             swab, sputum, tracheal aspirate, bronchoalveolar lavage, or another sample from the&#xD;
+             patient.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Enrolled in another clinical trial that is unapproved for co-enrolment&#xD;
+&#xD;
+          -  Heparin allergy or heparin-induced thrombocytopaenia (HIT)&#xD;
+&#xD;
+          -  APTT &gt; 120 seconds and this is not due to anticoagulant therapy&#xD;
+&#xD;
+          -  Platelet count &lt; 20 x 109 per L&#xD;
+&#xD;
+          -  Pulmonary bleeding, which is frank bleeding in the trachea, bronchi or lungs with&#xD;
+             repeated haemoptysis or requiring repeated suctioning&#xD;
+&#xD;
+          -  Uncontrolled bleeding&#xD;
+&#xD;
+          -  Pregnant or might be pregnant. Females aged 18-49 years are excluded unless there is&#xD;
+             documented menopause or hysterectomy or a pregnancy test was performed and is&#xD;
+             negative.&#xD;
+&#xD;
+          -  Receiving or about to commence extracorporeal membrane oxygenation (ECMO) or high&#xD;
+             frequency oscillatory ventilation (HFOV)&#xD;
+&#xD;
+          -  Myopathy, spinal cord injury, or nerve injury or disease with a likely prolonged&#xD;
+             incapacity to breathe independently e.g. Guillain-Barre syndrome&#xD;
+&#xD;
+          -  Acute brain injury that may result in long-term disability&#xD;
+&#xD;
+          -  Usually receives home oxygen&#xD;
+&#xD;
+          -  Dependent on others for personal care due to physical or cognitive decline&#xD;
+&#xD;
+          -  Death is imminent or inevitable within 24 hours&#xD;
+&#xD;
+          -  The clinical team would not be able to set up the study nebuliser and ventilator&#xD;
+             circuit as required including with active humidification&#xD;
+&#xD;
+          -  Clinician objection&#xD;
+&#xD;
+          -  Refusal of participant (person responsible) consent.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Frank MP van Haren, MD, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Australian National University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Frank MP van Haren, MD, PhD</last_name>
+    <phone>+61467051809</phone>
+    <email>fvanharen@me.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Frederick Health Hospital</name>
+      <address>
+        <city>Frederick</city>
+        <state>Maryland</state>
+        <zip>21701</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Thomas Smoot, PharmD BCPS</last_name>
+      <phone>240-566-3250</phone>
+      <email>tsmoot@fmh.org</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>van Haren FMP, Page C, Laffey JG, Artigas A, Camprubi-Rimblas M, Nunes Q, Smith R, Shute J, Carroll M, Tree J, Carroll M, Singh D, Wilkinson T, Dixon B. Nebulised heparin as a treatment for COVID-19: scientific rationale and a call for randomised evidence. Crit Care. 2020 Jul 22;24(1):454. doi: 10.1186/s13054-020-03148-2. Review.</citation>
+    <PMID>32698853</PMID>
+  </reference>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>September 5, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 10, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 11, 2020</study_first_posted>
+  <last_update_submitted>January 14, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 14, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 19, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Australian National University</investigator_affiliation>
+    <investigator_full_name>Frank van Haren</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <keyword>COVID19; ARDS; mortality; clinical trial; metaanalysis; PRCT</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Insufficiency</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Heparin</mesh_term>
+    <mesh_term>Calcium heparin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>The CHARTER-MT Collaborative Research Group's executive committee, with representatives from each individual country/trial, is responsible for the meta-trial's study design; collection, management, analysis, and interpretation of data; writing of the report; and the decision to submit the report for publication. Investigators from individual trials have ownership of their trial data. A memorandum of understanding and data sharing agreement between investigators will facilitate and govern the pooling and meta-analysing of de-identified individual patient data from individual trials, as well as outline authorship.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>Real-time</ipd_time_frame>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

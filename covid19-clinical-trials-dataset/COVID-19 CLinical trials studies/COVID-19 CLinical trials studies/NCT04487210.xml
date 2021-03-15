@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3753">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04487210</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CT-COV-11</org_study_id>
+    <nct_id>NCT04487210</nct_id>
+  </id_info>
+  <brief_title>A Study to Evaluate the Safety and Immunogenicity of MVC-COV1901 Against COVID-19</brief_title>
+  <official_title>A Phase I, Prospective, Open-Labeled Study to Evaluate the Safety and Immunogenicity of MVC-COV1901</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Medigen Vaccine Biologics Corp.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Medigen Vaccine Biologics Corp.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a phase I prospective, open-labeled, single-center study to evaluate the safety and&#xD;
+      immunogenicity of MVC-COV1901.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a phase I prospective, open-labeled, single-center study to evaluate the safety and&#xD;
+      immunogenicity of MVC-COV1901. This study is a dose escalation study with three separate arms&#xD;
+      for subjects at the age of ≥20 and &lt;50 years. The vaccination schedule consists of two doses&#xD;
+      of MVC-COV1901 for each study subject, administered by intramuscular (IM) injection 0.5mL in&#xD;
+      the deltoid region of non-dominant arm preferably 28 days apart, on Day 1 and Day 29.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">October 7, 2020</start_date>
+  <completion_date type="Anticipated">June 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">January 30, 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Safety of MVC-COV1901</measure>
+    <time_frame>Day 1 to 28 days after second vaccination</time_frame>
+    <description>Incidence of solicited adverse events (AEs) after vaccination, Incidence of unsolicited AEs and other AEs after vaccination, Incidence of laboratory abnormality after vaccination, Incidence of adverse event of special interest (AESI) and serious adverse events (SAEs) after vaccination</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Immunogenicity (neutralizing antibody titers and antigen specific binding antibody titers)</measure>
+    <time_frame>14 days, 28 days after each vaccination, and 180 days after second vaccination.</time_frame>
+    <description>Geometric mean titer (GMT), Seroconversion rate (SCR), and GMT ratio</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Immunogenicity (antigen specific cellular immune responses)</measure>
+    <time_frame>28 days and 180 days after second vaccination</time_frame>
+    <description>The positive rate of cellular mediated immune response</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety of MVC-COV1901</measure>
+    <time_frame>Day 1 to Day 209</time_frame>
+    <description>Incidence of other adverse events, Incidence of adverse event of special interest (AESI) and serious adverse events (SAEs) within the study period</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">45</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Phase 1a (Low Dose)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>15 subjects will be enrolled to receive Low-dose S-protein with adjuvant MVC-COV1901.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 1b (Medium Dose)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>15 subjects will be enrolled to receive Medium-dose S-protein with adjuvant MVC-COV1901.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase 1c (High Dose)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>15 subjects will be enrolled to receive High-dose S-protein with adjuvant MVC-COV1901.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>MVC-COV1901</intervention_name>
+    <description>MVC-COV1901 is formulated in the different dosages of Spike (S) protein with CpG 1018 and aluminum content as adjuvant.</description>
+    <arm_group_label>Phase 1a (Low Dose)</arm_group_label>
+    <arm_group_label>Phase 1b (Medium Dose)</arm_group_label>
+    <arm_group_label>Phase 1c (High Dose)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Male or female healthy volunteer ≥20 and &lt;50 years of age&#xD;
+&#xD;
+          2. Subject free of ongoing acute diseases or serious medical conditions (e.g. concomitant&#xD;
+             illness) such as cardiovascular (e.g. New York Heart Association grade III or IV),&#xD;
+             hepatic (e.g. Child-Pugh Class C), psychiatric condition (e.g. alcoholism, drug&#xD;
+             abuse), medical history, physical findings, or laboratory abnormality that in the&#xD;
+             investigator's opinion could interfere with the results of the trial or adversely&#xD;
+             affect the safety of the subject&#xD;
+&#xD;
+          3. Female subject must be:&#xD;
+&#xD;
+               -  Either of non-childbearing potential, i.e. surgically sterilized (defined as&#xD;
+                  having undergone hysterectomy and/or bilateral oophorectomy and/or bilateral&#xD;
+                  salpingectomy; tubal ligation alone is not considered sufficient) or one year&#xD;
+                  post-menopausal;&#xD;
+&#xD;
+               -  Or, if of childbearing potential, must be abstinent or agree to use medically&#xD;
+                  effective contraception from 14 days before screening to 30 days following last&#xD;
+                  injection of study vaccines. Acceptable forms include:&#xD;
+&#xD;
+               -  Implanted hormonal methods of contraception or placement of an intrauterine&#xD;
+                  device (IUD) or intrauterine system (IUS)&#xD;
+&#xD;
+               -  Established use of hormonal methods (injectable, pill, patch or ring) combined&#xD;
+                  with barrier methods of contraception: condom, or occlusive cap (diaphragm or&#xD;
+                  cervical/vault caps) withspermicidal foam/gel/film/cream/suppository&#xD;
+&#xD;
+               -  Have a negative pregnancy test&#xD;
+&#xD;
+          4. Subject is willing and able to comply with all required study visits and follow-up&#xD;
+             required by this protocol&#xD;
+&#xD;
+          5. Subject has no overseas travel within 14 days of screening and will not have any&#xD;
+             throughout the study period&#xD;
+&#xD;
+          6. Subject must provide written informed consent or the Subject's legal representative&#xD;
+             must understand and consent to the procedure&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Receiving any investigational intervention either currently or within 30 days of first&#xD;
+             dose;&#xD;
+&#xD;
+          2. Subject (particularly who is a healthcare worker) with previous known or potential&#xD;
+             exposure to SARS CoV-1 or 2 viruses (EXCEPT for those who have been tested negative&#xD;
+             and the 14-days self-managements/ home quarantines/ home isolations are completed), or&#xD;
+             received any other COVID-19 vaccine;&#xD;
+&#xD;
+          3. Administration of any vaccine within 4 weeks of first dose;&#xD;
+&#xD;
+          4. A BMI greater than or equal to 30 kg/m2;&#xD;
+&#xD;
+          5. Subject with a history of hypersensitivity to any vaccine or a history of allergic&#xD;
+             disease or reactions likely to be exacerbated by any component of the MVC-COV1901;&#xD;
+&#xD;
+          6. Administration of any blood product or intravenous immunoglobulin administration&#xD;
+             within 12 weeks of first dose;&#xD;
+&#xD;
+          7. Pregnancy or breast feeding or have plans to become pregnant in 30 days after last&#xD;
+             injection of study vaccines;&#xD;
+&#xD;
+          8. History of positive serologic test for HIV, hepatitis B surface antigen (HBsAg) or any&#xD;
+             potentially communicable infectious disease as determined by the investigator or&#xD;
+             Medical Monitor;&#xD;
+&#xD;
+          9. Positive serologic test for hepatitis C (EXCEPTION: successful treatment with&#xD;
+             confirmation of sustained virologic response);&#xD;
+&#xD;
+         10. Baseline evidence of kidney disease as measured by creatinine greater than 1.5 mg/dL;&#xD;
+&#xD;
+         11. Screening laboratory tests with Grade 2 or higher abnormality (Toxicity Grading Scale&#xD;
+             for Healthy Adult and Adolescent Volunteers Enrolled in Preventive Vaccine Clinical&#xD;
+             Trials, September 2007);&#xD;
+&#xD;
+         12. Immunosuppressive illness including hematologic malignancy, history of solid organ or&#xD;
+             bone marrow transplantation;&#xD;
+&#xD;
+         13. A history of autoimmune disease (systemic lupus, rheumatoid arthritis, scleroderma,&#xD;
+             polyarthritis, thyroiditis, etc.);&#xD;
+&#xD;
+         14. Current or anticipated concomitant immunosuppressive therapy (excluding inhaled,&#xD;
+             topical skin and/or eye drop-containing corticosteroids, low-dose methotrexate, or&#xD;
+             less than prednisone 20 mg/day or equivalent) within 12 weeks of first dose;&#xD;
+&#xD;
+         15. Current or anticipated treatment with TNF-α inhibitors, e.g. infliximab, adalimumab,&#xD;
+             etanercept within 12 weeks of first dose;&#xD;
+&#xD;
+         16. Prior major surgery or any radiation therapy within 12 weeks of first dose;&#xD;
+&#xD;
+         17. Alcohol or drug abuse or dependence, psychiatric, addictive, or any disorder that, in&#xD;
+             the opinion of the investigator, would interfere with adherence to study requirements&#xD;
+             or assessment of immunologic endpoints; or any illness or condition that in the&#xD;
+             opinion of the investigator may affect the safety of the participant or the evaluation&#xD;
+             of any study endpoint;&#xD;
+&#xD;
+         18. Presence of keloid scar formation or hypertrophic scar as a clinically significant&#xD;
+             medical condition, tattoos or wound covering the injection site area;&#xD;
+&#xD;
+         19. Body (oral, rectal or ear) temperature ≥ 38.0°C or acute illness within 2 days of&#xD;
+             first dose, or acute respiratory illness within 14 days of first dose;&#xD;
+&#xD;
+         20. Screening laboratory test of antinuclear antibody (ANA), anti-dsDNA antibody,&#xD;
+             anti-neutrophil cytoplasmic antibodies (ANCA, including cytoplasmic ANCA (c-ANCA),&#xD;
+             perinuclear ANCA (p-ANCA)) with the value higher than upper normal limit;&#xD;
+&#xD;
+         21. Abnormal screening electrocardiography (ECG) with clinically significant findings as&#xD;
+             reviewed by investigator.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>20 Years</minimum_age>
+    <maximum_age>50 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>National Taiwan University Hospital</name>
+      <address>
+        <city>Taipei</city>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Taiwan</country>
+  </location_countries>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>July 22, 2020</study_first_submitted>
+  <study_first_submitted_qc>July 22, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 27, 2020</study_first_posted>
+  <last_update_submitted>January 13, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 13, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 14, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19 vaccine</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2221">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04589949</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NL74972.078.20</org_study_id>
+    <nct_id>NCT04589949</nct_id>
+  </id_info>
+  <brief_title>Early Convalescent Plasma Therapy for High-risk Patients With COVID-19 in Primary Care (the CoV-Early Study)</brief_title>
+  <acronym>CoV-Early</acronym>
+  <official_title>Early Convalescent Plasma Therapy for High-risk Patients With COVID-19 in Primary Care (the CoV-Early Study)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Erasmus Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Sanquin Plasma Products BV</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>ZonMw: The Netherlands Organisation for Health Research and Development</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Leiden University Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Erasmus Medical Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      An effective, widely available, and safe treatment that can decrease the duration, severity&#xD;
+      and fatality of COVID-19 is urgently needed. Also, in the most affected regions the pressure&#xD;
+      on health care systems including ventilator support capacity can be a limiting factor for&#xD;
+      survival. Initial studies including from our group indicate that administering convalescent&#xD;
+      plasma containing high titers of neutralizing antibodies to COVID-19 patients who are already&#xD;
+      relatively late during the disease course after hospital admission is not effective, which&#xD;
+      can be explained by high titers of autologous antibodies present in patients. Thus, the&#xD;
+      antiviral capacity of convalescent plasma is hypothesized to be best positioned early in the&#xD;
+      disease course and in patients at increased risk for a severe disease course. If effective,&#xD;
+      any treatment that decreases the need for hospital admission is very valuable but so far, no&#xD;
+      COVID-19 treatment has been shown to prevent clinical deterioration when given before&#xD;
+      patients are admitted to the hospital.&#xD;
+&#xD;
+      Primary objective:&#xD;
+&#xD;
+      To evaluate the efficacy, feasibility and safety following the administration of convalescent&#xD;
+      plasma (ConvP) as a therapy for outpatients diagnosed with COVID-19 at increased risk for an&#xD;
+      unfavourable clinical outcome and within 7 days after symptom onset.&#xD;
+&#xD;
+      Study design:&#xD;
+&#xD;
+      This trial is a nationwide multicenter, double blind, randomized controlled trial in the&#xD;
+      Netherlands. Patients will be randomized between the transfusion of 300mL of convP versus&#xD;
+      regular fresh frozen plasma (FFP).&#xD;
+&#xD;
+      Patient population:&#xD;
+&#xD;
+      Patients with polymerase chain reaction (PCR) confirmed COVID disease with less than 8 days&#xD;
+      of symptoms, age 70 or older or 50-69 years with at least 1 additional risk factor for severe&#xD;
+      COVID-19 are eligible.&#xD;
+&#xD;
+      Intervention:&#xD;
+&#xD;
+      300mL of convP with a minimum level of neutralizing antibodies.&#xD;
+&#xD;
+      A total of 690 patients will be included. Expected duration of accrual: 18-24 months Duration&#xD;
+      of follow up :Day 28 for the primary endpoint&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Secondary (exploratory) objectives&#xD;
+&#xD;
+        -  To evaluate the impact of 300mL convP on mortality&#xD;
+&#xD;
+        -  To evaluate the impact of 300mL convP on hospital admission&#xD;
+&#xD;
+        -  To evaluate the impact of 300mL convP on admission to ICU&#xD;
+&#xD;
+        -  To evaluate the impact of 300mL convP on duration of symptoms&#xD;
+&#xD;
+        -  To evaluate the impact of 300mL convP in relation to the age and clinical frailty of the&#xD;
+           patient&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 12, 2020</start_date>
+  <completion_date type="Anticipated">November 1, 2023</completion_date>
+  <primary_completion_date type="Anticipated">November 1, 2022</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Highest disease status</measure>
+    <time_frame>28 days following transfusion of convP or FFP</time_frame>
+    <description>Highest disease status on the 5-point ordinal disease severity scale in the convP group will be compared with the FFP group.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of deaths</measure>
+    <time_frame>28 days following transfusion of convP or FFP</time_frame>
+    <description>Percentage of deaths in the convP group compared to the FFP group</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of hospital admissions</measure>
+    <time_frame>28 days following transfusion of convP or FFP</time_frame>
+    <description>Percentage of hospital admissions in the convP group compared to the FFP group</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of ICU admissions</measure>
+    <time_frame>28 days following transfusion of convP or FFP</time_frame>
+    <description>Percentage of ICU admissions in the convP group compared to the FFP group</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disease duration in days of symptoms</measure>
+    <time_frame>28 days following transfusion of convP or FFP</time_frame>
+    <description>Disease duration in days of symptoms in the convP group compared to the FFP group</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Age and clinical frailty score</measure>
+    <time_frame>28 days following transfusion of convP or FFP</time_frame>
+    <description>Age and clinical frailty score stratified analysis of percentage of primary endpoint following transfusion of convP versus FFP.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Highest disease status stratified by presence of neutralizing antibodies and by symptom duration at baseline</measure>
+    <time_frame>28 days following transfusion of convP or FFP</time_frame>
+    <description>Analysis of primary endpoint following transfusion of convP versus FFP stratified by the presence of neutralizing antibodies at baseline and by symptom duration at baseline.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in proportion of detectable SARS-Cov-2 RT-PCR results</measure>
+    <time_frame>Day 3, 7, 14 and 28 following transfusion of convP or FFP</time_frame>
+    <description>Change in proportion of detectable SARS-CoV-2 RT-PCR results at day 3, 7, 14 and 28 following transfusion according to the presence of neutralizing antibodies at baseline</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">690</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>ConvP</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>300 mL convalescent plasma with a minimum of neutralizing antibodies</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>FFP</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>300 mL Fresh Frozen plasma</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>ConvP</intervention_name>
+    <description>Infusion of plasma retrieved from donors with a history of PCR proven symptomatic COVID.&#xD;
+Plasma will be administered according to the Erasmus MC KIS protocol regarding the use of blood products</description>
+    <arm_group_label>ConvP</arm_group_label>
+    <other_name>convalescent plasma</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>FFP</intervention_name>
+    <description>Infusion of thawed non-convalescent plasma Plasma will be administered according to the Erasmus Medical Center quality protocol regarding the use of blood products</description>
+    <arm_group_label>FFP</arm_group_label>
+    <other_name>Fresh Frozen Plasma</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  RT-PCR-confirmed COVID-19.&#xD;
+&#xD;
+          -  Symptomatic (e.g but not limited to fatigue, fever, cough, dyspnoea, loss of taste or&#xD;
+             smell, diarrhea, falls or confusion)&#xD;
+&#xD;
+          -  70 years or older OR 50-69 years and 1 or more of the risk factors described in the&#xD;
+             protocol&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Life expectancy &lt;28 days in the opinion of the treating physician&#xD;
+&#xD;
+          -  Patient or legal representative is unable to provide written informed consent&#xD;
+&#xD;
+          -  Symptomatic for 8 days or more&#xD;
+&#xD;
+          -  Being admitted to the hospital at the informed consent procedure&#xD;
+&#xD;
+          -  Known previous history of transfusion-related acute lung injury&#xD;
+&#xD;
+          -  Known Immunoglobulin A (IgA) deficiency&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Bart Rijnders, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Erasmus Medical Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Bart Rijnders, MD, PhD</last_name>
+    <phone>+31107033510</phone>
+    <email>b.rijnders@erasmusmc.nl</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Erasmus Medical Center</name>
+      <address>
+        <city>Rotterdam</city>
+        <state>Zuid-Holland</state>
+        <zip>3000 CA</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Bart Rijnders, MD, PhD</last_name>
+      <phone>+31104639222</phone>
+      <phone_ext>35339</phone_ext>
+      <email>b.rijnders@erasmusmc.nl</email>
+    </contact>
+    <investigator>
+      <last_name>Casper Rokx, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Arvind Gharbharan, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Carlijn Jordans, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Meander Medisch Centrum</name>
+      <address>
+        <city>Amersfoort</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>E. Jong, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Rijnstate Ziekenhuis</name>
+      <address>
+        <city>Arnhem</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Robert-Jan Hassing, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Amphia Ziekenhuis</name>
+      <address>
+        <city>Breda</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>R.W. van Etten, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Groene Hart Ziekenhuis</name>
+      <address>
+        <city>Gouda</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Faiz Karim, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University Medical Center Groningen (UMCG)</name>
+      <address>
+        <city>Groningen</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>D. Postma, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Spaarne Gasthuis</name>
+      <address>
+        <city>Haarlem</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Robin Soetekouw, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Medisch Centrum Leeuwarden</name>
+      <address>
+        <city>Leeuwarden</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>L. Kampschreur, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Leids Universitair Medisch Centrum</name>
+      <address>
+        <city>Leiden</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>JJ Zwaginga, MD/PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Sint Antonius Ziekenhuis</name>
+      <address>
+        <city>Nieuwegein</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Elana van Leeuwen, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Bernhoven Hospital</name>
+      <address>
+        <city>Uden</city>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>I Ludwig, MD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Netherlands</country>
+  </location_countries>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>October 12, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 15, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 19, 2020</study_first_posted>
+  <last_update_submitted>October 15, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 15, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 19, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Erasmus Medical Center</investigator_affiliation>
+    <investigator_full_name>Bart Rijnders</investigator_full_name>
+    <investigator_title>MD, PhD</investigator_title>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1257">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04743388</url>
+  </required_header>
+  <id_info>
+    <org_study_id>900/24-12-2020</org_study_id>
+    <nct_id>NCT04743388</nct_id>
+  </id_info>
+  <brief_title>Study of the Kinetics of Antibodies Against COVID-19 (SARS-CoV-2) and of Cellular Subpopulations of the Immune System</brief_title>
+  <official_title>Study of the Kinetics of Antibodies Against SARS-CoV-2 and of Cellular Subpopulations of the Immune System in Volunteers Receiving the BNT162b2 Vaccine or Other Approved Vaccine Against SARS-CoV-2</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National and Kapodistrian University of Athens</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National and Kapodistrian University of Athens</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Determination of both the degree and duration of the immunity provided after receiving the&#xD;
+      BNT162b2 vaccine against SARS-Cov-2.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The purpose of this study is to assess the kinetics of antibodies against SARS-CoV-2 as well&#xD;
+      as the kinetics of the immune system's cell subpopulations and cytokines associated with the&#xD;
+      immune system in healthy volunteers receiving the BNT162b2 vaccine against SARS-Cov-2 of the&#xD;
+      Pfizer/BioNTech companies or any other vaccine authorized and administered by the Ministry of&#xD;
+      Health. Immunoassays will be performed at serum collection points before and after&#xD;
+      vaccination, as set out in this study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 4, 2021</start_date>
+  <completion_date type="Anticipated">April 2022</completion_date>
+  <primary_completion_date type="Anticipated">November 2021</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>18 Months</target_duration>
+  <primary_outcome>
+    <measure>Neutralizing antibodies against SARS-CoV-2</measure>
+    <time_frame>Day 50 (28 days after the second dose of the vaccine)</time_frame>
+    <description>Primary endpoint of the study is the development of neutralizing antibodies against SARS-CoV-2 on Day 50 28 days after the second dose of the vaccine) in the study populations</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Neutralizing antibodies against SARS-CoV-2</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Development of neutralizing antibodies against SARS-CoV-2 on day 1 (before the first dose of the vaccine)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neutralizing antibodies against SARS-CoV-2</measure>
+    <time_frame>Day 8</time_frame>
+    <description>Development of neutralizing antibodies against SARS-CoV-2 on day 8</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neutralizing antibodies against SARS-CoV-2</measure>
+    <time_frame>Day 22</time_frame>
+    <description>Development of neutralizing antibodies against SARS-CoV-2 on day 22 (before the second dose of the vaccine)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neutralizing antibodies against SARS-CoV-2</measure>
+    <time_frame>Day 36</time_frame>
+    <description>Development of neutralizing antibodies against SARS-CoV-2 on day 36</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neutralizing antibodies against SARS-CoV-2</measure>
+    <time_frame>Month 3</time_frame>
+    <description>Development of neutralizing antibodies against SARS-CoV-2 at 3 months post the second dose of the vaccine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neutralizing antibodies against SARS-CoV-2</measure>
+    <time_frame>Month 6</time_frame>
+    <description>Development of neutralizing antibodies against SARS-CoV-2 at 6 months post the second dose of the vaccine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neutralizing antibodies against SARS-CoV-2</measure>
+    <time_frame>Month 9</time_frame>
+    <description>Development of neutralizing antibodies against SARS-CoV-2 at 9 months post the second dose of the vaccine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neutralizing antibodies against SARS-CoV-2</measure>
+    <time_frame>Month 12</time_frame>
+    <description>Development of neutralizing antibodies against SARS-CoV-2 at 12 months post the second dose of the vaccine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neutralizing antibodies against SARS-CoV-2</measure>
+    <time_frame>Month 18</time_frame>
+    <description>Development of neutralizing antibodies against SARS-CoV-2 at 18 months post the second dose of the vaccine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Development of anti-S-RBD antibodies against SARS-CoV-2</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Development of anti-S-RBD antibodies against SARS-CoV-2 on day 1 (before the first dose of the vaccine)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Development of anti-S-RBD antibodies against SARS-CoV-2</measure>
+    <time_frame>Day 8</time_frame>
+    <description>Development of anti-S-RBD antibodies against SARS-CoV-2 on day 8</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Development of anti-S-RBD antibodies against SARS-CoV-2</measure>
+    <time_frame>Day 22</time_frame>
+    <description>Development of anti-S-RBD antibodies against SARS-CoV-2 on day 22 (before the second dose of the vaccine)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Development of anti-S-RBD antibodies against SARS-CoV-2</measure>
+    <time_frame>Day 36</time_frame>
+    <description>Development of anti-S-RBD antibodies against SARS-CoV-2 on day 36</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Development of anti-S-RBD antibodies against SARS-CoV-2</measure>
+    <time_frame>Day 50</time_frame>
+    <description>Development of anti-S-RBD antibodies against SARS-CoV-2 on day 50</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Development of anti-S-RBD antibodies against SARS-CoV-2</measure>
+    <time_frame>Month 3</time_frame>
+    <description>Development of anti-S-RBD antibodies against SARS-CoV-2 at 3 months post the second dose of the vaccine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Development of anti-S-RBD antibodies against SARS-CoV-2</measure>
+    <time_frame>Month 6</time_frame>
+    <description>Development of anti-S-RBD antibodies against SARS-CoV-2 at 6 months post the second dose of the vaccine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Development of anti-S-RBD antibodies against SARS-CoV-2</measure>
+    <time_frame>Month 9</time_frame>
+    <description>Development of anti-S-RBD antibodies against SARS-CoV-2 at 9 months post the second dose of the vaccine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Development of anti-S-RBD antibodies against SARS-CoV-2</measure>
+    <time_frame>Month 12</time_frame>
+    <description>Development of anti-S-RBD antibodies against SARS-CoV-2 at 12 months post the second dose of the vaccine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Development of anti-S-RBD antibodies against SARS-CoV-2</measure>
+    <time_frame>Month 18</time_frame>
+    <description>Development of anti-S-RBD antibodies against SARS-CoV-2 at 18 months post the second dose of the vaccine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of memory B-cells against SARS-CoV-2</measure>
+    <time_frame>Day 1</time_frame>
+    <description>According to antibody responses on day 1</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of memory B-cells against SARS-CoV-2</measure>
+    <time_frame>Day 8</time_frame>
+    <description>According to antibody responses on day 8</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of memory B-cells against SARS-CoV-2</measure>
+    <time_frame>Day 22</time_frame>
+    <description>According to antibody responses on day 22 (before the second dose of the vaccine)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of memory B-cells against SARS-CoV-2</measure>
+    <time_frame>Day 36</time_frame>
+    <description>According to antibody responses on day 36</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of memory B-cells against SARS-CoV-2</measure>
+    <time_frame>Day 50</time_frame>
+    <description>According to antibody responses on day 50</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of memory B-cells against SARS-CoV-2</measure>
+    <time_frame>Month 3</time_frame>
+    <description>According to antibody responses at 3 months post the second dose of the vaccine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of memory B-cells against SARS-CoV-2</measure>
+    <time_frame>Month 6</time_frame>
+    <description>According to antibody responses at 6 months post the second dose of the vaccine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of memory B-cells against SARS-CoV-2</measure>
+    <time_frame>Month 9</time_frame>
+    <description>According to antibody responses at 9 months post the second dose of the vaccine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of memory B-cells against SARS-CoV-2</measure>
+    <time_frame>Month 12</time_frame>
+    <description>According to antibody responses at 12 months post the second dose of the vaccine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of memory B-cells against SARS-CoV-2</measure>
+    <time_frame>Month 18</time_frame>
+    <description>According to antibody responses at 18 months post the second dose of the vaccine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of memory T-cells against SARS-CoV-2</measure>
+    <time_frame>Day 1</time_frame>
+    <description>According to antibody responses on day 1</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of memory T-cells against SARS-CoV-2</measure>
+    <time_frame>Day 8</time_frame>
+    <description>According to antibody responses on day 8</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of memory T-cells against SARS-CoV-2</measure>
+    <time_frame>Day 22</time_frame>
+    <description>According to antibody responses on day 22 (before the second dose of the vaccine)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of memory T-cells against SARS-CoV-2</measure>
+    <time_frame>Day 36</time_frame>
+    <description>According to antibody responses on day 36</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of memory T-cells against SARS-CoV-2</measure>
+    <time_frame>Day 50</time_frame>
+    <description>According to antibody responses on day 50</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of memory T-cells against SARS-CoV-2</measure>
+    <time_frame>Month 3</time_frame>
+    <description>According to antibody responses at 3 months post the second dose of the vaccine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of memory T-cells against SARS-CoV-2</measure>
+    <time_frame>Month 6</time_frame>
+    <description>According to antibody responses at 6 months post the second dose of the vaccine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of memory T-cells against SARS-CoV-2</measure>
+    <time_frame>Month 9</time_frame>
+    <description>According to antibody responses at 9 months post the second dose of the vaccine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of memory T-cells against SARS-CoV-2</measure>
+    <time_frame>Month 12</time_frame>
+    <description>According to antibody responses at 12 months post the second dose of the vaccine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of memory T-cells against SARS-CoV-2</measure>
+    <time_frame>Month 18</time_frame>
+    <description>According to antibody responses at 18 months post the second dose of the vaccine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of monocytes (CD14+, CD16+)</measure>
+    <time_frame>Day 1</time_frame>
+    <description>According to antibody responses on day 1</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of monocytes (CD14+, CD16+)</measure>
+    <time_frame>Day 8</time_frame>
+    <description>According to antibody responses on day 8</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of monocytes (CD14+, CD16+)</measure>
+    <time_frame>Day 22</time_frame>
+    <description>According to antibody responses on day 22 (before the second dose of the vaccine)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of monocytes (CD14+, CD16+)</measure>
+    <time_frame>Day 36</time_frame>
+    <description>According to antibody responses on day 36</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of monocytes (CD14+, CD16+)</measure>
+    <time_frame>Day 50</time_frame>
+    <description>According to antibody responses on day 50</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of monocytes (CD14+, CD16+)</measure>
+    <time_frame>Month 3</time_frame>
+    <description>According to antibody responses at 3 months post the second dose of the vaccine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of monocytes (CD14+, CD16+)</measure>
+    <time_frame>Month 6</time_frame>
+    <description>According to antibody responses at 6 months post the second dose of the vaccine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of monocytes (CD14+, CD16+)</measure>
+    <time_frame>Month 9</time_frame>
+    <description>According to antibody responses at 9 months post the second dose of the vaccine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of monocytes (CD14+, CD16+)</measure>
+    <time_frame>Month 12</time_frame>
+    <description>According to antibody responses at 12 months post the second dose of the vaccine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of monocytes (CD14+, CD16+)</measure>
+    <time_frame>Month 18</time_frame>
+    <description>According to antibody responses at 18 months post the second dose of the vaccine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Interleukin 6 (IL-6), Interleukin 3 (IL-3), Interleukin 1b (IL-1b) levels</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Inflammatory cytokines measurements on day 1 (before the first dose of the vaccine)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Interleukin 6 (IL-6), Interleukin 3 (IL-3), Interleukin 1b (IL-1b) levels</measure>
+    <time_frame>Day 8</time_frame>
+    <description>Inflammatory cytokines measurements on day 8</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Interleukin 6 (IL-6), Interleukin 3 (IL-3), Interleukin 1b (IL-1b) levels</measure>
+    <time_frame>Day 22</time_frame>
+    <description>Inflammatory cytokines measurements on day 22 (before the second dose of the vaccine)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Interleukin 6 (IL-6), Interleukin 3 (IL-3), Interleukin 1b (IL-1b) levels</measure>
+    <time_frame>Day 23</time_frame>
+    <description>Inflammatory cytokines measurements on day 23</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Interleukin 6 (IL-6), Interleukin 3 (IL-3), Interleukin 1b (IL-1b) levels</measure>
+    <time_frame>Day 36</time_frame>
+    <description>Inflammatory cytokines measurements on day 36</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Interleukin 6 (IL-6), Interleukin 3 (IL-3), Interleukin 1b (IL-1b) levels</measure>
+    <time_frame>Day 50</time_frame>
+    <description>Inflammatory cytokines measurements on day 50</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Interleukin 6 (IL-6), Interleukin 3 (IL-3), Interleukin 1b (IL-1b) levels</measure>
+    <time_frame>Month 3</time_frame>
+    <description>Inflammatory cytokines measurements at 3 months post the second dose of the vaccine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Interleukin 6 (IL-6), Interleukin 3 (IL-3), Interleukin 1b (IL-1b) levels</measure>
+    <time_frame>Month 6</time_frame>
+    <description>Inflammatory cytokines measurements at 6 months post the second dose of the vaccine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Interleukin 6 (IL-6), Interleukin 3 (IL-3), Interleukin 1b (IL-1b) levels</measure>
+    <time_frame>Month 9</time_frame>
+    <description>Inflammatory cytokines measurements at 9 months post the second dose of the vaccine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Interleukin 6 (IL-6), Interleukin 3 (IL-3), Interleukin 1b (IL-1b) levels</measure>
+    <time_frame>Month 12</time_frame>
+    <description>Inflammatory cytokines measurements at 12 months post the second dose of the vaccine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Interleukin 6 (IL-6), Interleukin 3 (IL-3), Interleukin 1b (IL-1b) levels</measure>
+    <time_frame>Month 18</time_frame>
+    <description>Inflammatory cytokines measurements at 18 months post the second dose of the vaccine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>TNF-a levels</measure>
+    <time_frame>Day 1</time_frame>
+    <description>Inflammatory cytokines measurements on day 1 (before the first dose of the vaccine)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>TNF-a levels</measure>
+    <time_frame>Day 8</time_frame>
+    <description>Inflammatory cytokines measurements on day 8</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>TNF-a levels</measure>
+    <time_frame>Day 22</time_frame>
+    <description>Inflammatory cytokines measurements on day 22 (before the second dose of the vaccine)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>TNF-a levels</measure>
+    <time_frame>Day 23</time_frame>
+    <description>Inflammatory cytokines measurements on day 23</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>TNF-a levels</measure>
+    <time_frame>Day 36</time_frame>
+    <description>Inflammatory cytokines measurements on day 36</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>TNF-a levels</measure>
+    <time_frame>Day 50</time_frame>
+    <description>Inflammatory cytokines measurements on day 50</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>TNF-a levels</measure>
+    <time_frame>Month 3</time_frame>
+    <description>Inflammatory cytokines measurements at 3 months post the second dose of the vaccine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>TNF-a levels</measure>
+    <time_frame>Month 6</time_frame>
+    <description>Inflammatory cytokines measurements at 6 months post the second dose of the vaccine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>TNF-a levels</measure>
+    <time_frame>Month 9</time_frame>
+    <description>Inflammatory cytokines measurements at 9 months post the second dose of the vaccine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>TNF-a levels</measure>
+    <time_frame>Month 12</time_frame>
+    <description>Inflammatory cytokines measurements at 12 months post the second dose of the vaccine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>TNF-a levels</measure>
+    <time_frame>Month 18</time_frame>
+    <description>Inflammatory cytokines measurements at 18 months post the second dose of the vaccine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CRP levels</measure>
+    <time_frame>Day 1</time_frame>
+    <description>CRP blood level measurements on day 1 (before the first dose of the vaccine)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CRP levels</measure>
+    <time_frame>Day 8</time_frame>
+    <description>CRP blood level measurements on day 8</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CRP levels</measure>
+    <time_frame>Day 22</time_frame>
+    <description>CRP blood level measurements on day 22 (before the second dose of the vaccine)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CRP levels</measure>
+    <time_frame>Day 23</time_frame>
+    <description>CRP blood level measurements on day 23</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CRP levels</measure>
+    <time_frame>Day 36</time_frame>
+    <description>CRP blood level measurements on day 36</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CRP levels</measure>
+    <time_frame>Day 50</time_frame>
+    <description>CRP blood level measurements on day 50</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CRP levels</measure>
+    <time_frame>Month 3</time_frame>
+    <description>Inflammatory cytokines measurements at 3 months post the second dose of the vaccine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CRP levels</measure>
+    <time_frame>Month 6</time_frame>
+    <description>Inflammatory cytokines measurements at 6 months post the second dose of the vaccine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CRP levels</measure>
+    <time_frame>Month 9</time_frame>
+    <description>Inflammatory cytokines measurements at 9 months post the second dose of the vaccine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CRP levels</measure>
+    <time_frame>Month 12</time_frame>
+    <description>Inflammatory cytokines measurements at 12 months post the second dose of the vaccine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CRP levels</measure>
+    <time_frame>Month 18</time_frame>
+    <description>Inflammatory cytokines measurements at 18 months post the second dose of the vaccine</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">600</enrollment>
+  <condition>COVID-19</condition>
+  <condition>Healthy Volunteers</condition>
+  <condition>Chronic Disease</condition>
+  <condition>Hematological Malignancies</condition>
+  <condition>Solid Tumor</condition>
+  <arm_group>
+    <arm_group_label>Cohort 1</arm_group_label>
+    <description>Approximately 300 volunteers, healthy or with chronic diseases (diabetes mellitus, hypertension, heart disease, CRF, etc.) with no autoimmune disorders.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 2</arm_group_label>
+    <description>People with hematological malignancies or solid tumors in various phases of their treatment (under treatment or in remission/ follow-up). This cohort may include patients with smoldering multiple myeloma (n=50), multiple myeloma (n=140), chronic lymphocytic leukemia (with or without hyperglobulinemia) (n=50), lymphoma (n=80), AL amyloidosis (n=30), patients who receive PARP (n=30), CDK4/6 (n=30), or immune checkpoint inhibitors (n=40), and patients under therapy with Androgen Receptor Targeted Agents (n=50).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>BNT162b2</intervention_name>
+    <description>Vaccine against SARS-Cov-2 of the Pfizer/BioNTech companies</description>
+    <arm_group_label>Cohort 1</arm_group_label>
+    <arm_group_label>Cohort 2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Other vaccine against SARS-Cov-2</intervention_name>
+    <description>Any other vaccine authorized and administered by the Greek Ministry of Health against SARS-Cov-2</description>
+    <arm_group_label>Cohort 1</arm_group_label>
+    <arm_group_label>Cohort 2</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Blood samples (whole blood)&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The admission criteria include both healthy volunteers and all individuals who, according&#xD;
+        to the instructions of the Greek State are considered eligible to receive the BNT162b2&#xD;
+        vaccine. In particular, the study includes people with hematological malignancies or solid&#xD;
+        tumors, either receiving treatment or in remission/ follow-up, pursuant to the vaccination&#xD;
+        instructions of the Ministry of Health. The study will also include patients with&#xD;
+        autoimmune diseases who receive or do not receive treatment for their disease. Patients&#xD;
+        with diabetes mellitus, hypertension, heart disease, chronic renal failure of all stages&#xD;
+        (and undergoing dialysis) or other chronic diseases deemed suitable for vaccination,&#xD;
+        according to the instructions of the Ministry of Health, may also participate in the study.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Healthy volunteers and all individuals who, according to the instructions of the Greek&#xD;
+             State are considered eligible to receive the BNT162b2 vaccine&#xD;
+&#xD;
+          -  Age ≥ 18 years old&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Serious allergy problems i.e. hospitalization due to a serious allergic reaction&#xD;
+             (anaphylaxis)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Evangelos Terpos</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>National and Kapodistrian University of Athens</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ioanna Charitaki</last_name>
+    <phone>+30 6976156403</phone>
+    <email>j.charitaki@gmail.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Department of Clinical Therapeutics, General Hospital of Athens ALEXANDRA</name>
+      <address>
+        <city>Athens</city>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Evangelos Terpos, MD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Greece</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 3, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 5, 2021</study_first_submitted_qc>
+  <study_first_posted type="Estimate">February 8, 2021</study_first_posted>
+  <last_update_submitted>February 5, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 5, 2021</last_update_submitted_qc>
+  <last_update_posted type="Estimate">February 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>National and Kapodistrian University of Athens</investigator_affiliation>
+    <investigator_full_name>Prof Evangelos Terpos</investigator_full_name>
+    <investigator_title>Professor of Therapeutics-Hematology</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>BNT162b2 vaccine</keyword>
+  <keyword>Antibodies</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hematologic Neoplasms</mesh_term>
+    <mesh_term>Chronic Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>At the end of the study, the results will be announced in medical conferences or medical journals.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

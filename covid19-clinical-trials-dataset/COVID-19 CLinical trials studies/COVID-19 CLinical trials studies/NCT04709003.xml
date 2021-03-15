@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="593">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04709003</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1051-20-RMC-C</org_study_id>
+    <nct_id>NCT04709003</nct_id>
+  </id_info>
+  <brief_title>Covid-19 Vaccine Effectiveness in Healthcare Personnel in Clalit Health Services in Israel (CoVEHPI)</brief_title>
+  <acronym>CoVEHPI</acronym>
+  <official_title>Covid-19 Vaccine Effectiveness in Healthcare Personnel in Clalit Health Services in Israel (CoVEHPI): A Prospective Cohort Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Clalit Health Services</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Clalit Health Services</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Although clinical trials for approved COVID-19 vaccines demonstrated efficacy of the vaccine&#xD;
+      in preventing symptomatic infection, many questions about vaccine effectiveness, such as the&#xD;
+      effectiveness of COVID-19 vaccine in preventing asymptomatic infection, a surrogate for&#xD;
+      transmission, and duration of protection, can only be evaluated in real-world trials. The&#xD;
+      objective of the study is to evaluate COVID-19 vaccine effectiveness (Pfizer vaccine, and, if&#xD;
+      available, Moderna vaccine) in preventing infection in healthcare personnel in Israel. HCP&#xD;
+      who are Clalit members and working in Soroka, Beilinson, Meir, Haemek, Kaplan and Schneider&#xD;
+      hospitals, 18 years or older, and eligible to get COVID-19 vaccine according to Ministry of&#xD;
+      Health guidelines, will be recruited, regardless of their intention to get the COVID-19&#xD;
+      vaccine. A baseline serology sample and respiratory sample will be collected. Participants&#xD;
+      will be asked to provide a respiratory sample weekly for 3 months, and then monthly for the&#xD;
+      remainder of the study. Participants will also have blood drawn at 1 month, 3 months, 6&#xD;
+      months, 9 months and 12 months. Respiratory samples will be tested for SARS-CoV-2 by RT-PCR;&#xD;
+      serology will be tested for SARS-CoV-2 antibodies. The study will last for 12 months. For&#xD;
+      each participant, data will be extracted from the Electronic Medical Record for the period of&#xD;
+      the study and retrospectively from 2010.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 23, 2020</start_date>
+  <completion_date type="Anticipated">June 2022</completion_date>
+  <primary_completion_date type="Anticipated">June 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>COVID-19 vaccine effectiveness (VE)</measure>
+    <time_frame>18 months</time_frame>
+    <description>Incidence of SARS-CoV-2 infections in healthcare workers vaccinated with COVID-19 vaccine compared to unvaccinated healthcare workers</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Symptomatic SARS-CoV-2 infection in vaccinated vs. unvaccinated healthcare workers</measure>
+    <time_frame>18 months</time_frame>
+    <description>Incidence of symptomatic SARS-CoV-2 infections in healthcare workers vaccinated with COVID-19 vaccine compared to unvaccinated healthcare workers</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>asymptomatic SARS-CoV-2 infection in vaccinated vs. unvaccinated healthcare workers</measure>
+    <time_frame>18 months</time_frame>
+    <description>Incidence of symptomatic SARS-CoV-2 infections in healthcare workers vaccinated with COVID-19 vaccine compared to unvaccinated healthcare workers</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of effectiveness of the vaccine</measure>
+    <time_frame>18 months</time_frame>
+    <description>Incidence of SARS-CoV-2 infections in healthcare workers vaccinated with COVID-19 vaccine compared to unvaccinated healthcare workers over different periods of time</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Vaccine Effectiveness by age</measure>
+    <time_frame>18 months</time_frame>
+    <description>Incidence of SARS-CoV-2 infections in healthcare workers vaccinated with COVID-19 vaccine compared to unvaccinated healthcare workers of different age groups</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Vaccine Effectiveness by comorbidity</measure>
+    <time_frame>18 months</time_frame>
+    <description>Incidence of SARS-CoV-2 infections in healthcare workers vaccinated with COVID-19 vaccine compared to unvaccinated healthcare workers by various underly medical conditions</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Vaccine effectiveness in persons previously infected with SARS-CoV-2 virus</measure>
+    <time_frame>18 months</time_frame>
+    <description>Incidence of SARS-CoV-2 infections in previously infection healthcare workers vaccinated with COVID-19 vaccine compared to previously infection unvaccinated healthcare workers</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>VE by degree of exposure to COVID-19 patients</measure>
+    <time_frame>18 months</time_frame>
+    <description>Incidence of SARS-CoV-2 infections in healthcare workers vaccinated with COVID-19 vaccine compared to unvaccinated healthcare workers by degree of occupational exposure to COVID-019 patients</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>VE by different SARS-CoV-2 variants</measure>
+    <time_frame>18 months</time_frame>
+    <description>Incidence of SARS-CoV-2 infections in healthcare workers vaccinated with COVID-19 vaccine compared to unvaccinated healthcare workers for different variant strains of SARS-CoV-2</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Vaccine effectiveness of one dose compared to two doses</measure>
+    <time_frame>18 months</time_frame>
+    <description>Incidence of SARS-CoV-2 infections in healthcare workers vaccinated with two doses of COVID-19 vaccine compared to healthcare workers vaccinated with two doses of COVID-19 vaccine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Compartive vaccine Effectiveness of different vaccine brands</measure>
+    <time_frame>18 months</time_frame>
+    <description>Incidence of SARS-CoV-2 infections in healthcare workers vaccinated with different brands of COVID-19 vaccine</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">4504</enrollment>
+  <condition>Covid19</condition>
+  <condition>Corona Virus Infection</condition>
+  <condition>Vaccine Effectiveness</condition>
+  <arm_group>
+    <arm_group_label>vaccinated</arm_group_label>
+    <description>participants who received the Covid-19 vaccine</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>unvaccinated</arm_group_label>
+    <description>participants who didn't received the Covid-19 vaccine</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Serologic test</intervention_name>
+    <description>A blood test to check antibodies type and amount</description>
+    <arm_group_label>unvaccinated</arm_group_label>
+    <arm_group_label>vaccinated</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Respiratory swabs</intervention_name>
+    <description>PCR test to Covid-19</description>
+    <arm_group_label>unvaccinated</arm_group_label>
+    <arm_group_label>vaccinated</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Healthcare workers who work in 6 Clalit hospitals in Israel (Soroka, Kaplan, Meir,&#xD;
+        Beilinson, HaEmek, and Schneider)&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        - Any HCP at any of the participating hospitals who is&#xD;
+&#xD;
+          -  a member of Clalit Health Services&#xD;
+&#xD;
+          -  is eligible to get the Covid-19 vaccine&#xD;
+&#xD;
+          -  did not receive the first dose of COVID-19 vaccine more than 21 days prior to the&#xD;
+             enrollment date&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        -&#xD;
+&#xD;
+        Employees at any of the participating hospitals will be excluded if they are:&#xD;
+&#xD;
+          -  not a member of Clalit Health Services; or&#xD;
+&#xD;
+          -  not eligible to get the Covid-19 vaccine according to the Ministry of Health&#xD;
+             guidelines; or&#xD;
+&#xD;
+          -  Less than 18 years of age&#xD;
+&#xD;
+          -  Received first dose of COVID-19 vaccine more than 21 days prior to date of enrollment&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>120 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Mili Yacobi</last_name>
+    <phone>972523615789</phone>
+    <email>miliya@clalit.org.il</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Avital Hirsch, MPH</last_name>
+    <phone>972523873981</phone>
+    <email>avitalhi@clalit.org.il</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Haemek Medical Center</name>
+      <address>
+        <city>Afula</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hana Edelstein</last_name>
+      <phone>9726495520</phone>
+      <email>hana_e@clalit.org.il</email>
+    </contact>
+    <investigator>
+      <last_name>Bibiana Chazan, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Soroka Medical Center</name>
+      <address>
+        <city>Be'er Sheva</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Orly Zamir</last_name>
+      <phone>972522880220</phone>
+      <email>OrlyBZ@clalit.org.il</email>
+    </contact>
+    <investigator>
+      <last_name>David Greenberg, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Meir Medical Center</name>
+      <address>
+        <city>Kefar Saba</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Galit Carmon</last_name>
+      <phone>97297472280</phone>
+      <email>galit.carmon@clalit.org.il</email>
+    </contact>
+    <investigator>
+      <last_name>Michal Chowers, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Beilinson hospital</name>
+      <address>
+        <city>Petach Tikva</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alon Peretz, MD</last_name>
+      <phone>972523236763</phone>
+      <email>SHalonpe@clalit.org.il</email>
+    </contact>
+    <investigator>
+      <last_name>Alon Peretz, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Schneider Children's Medical Center of Israel</name>
+      <address>
+        <city>Petah tikva</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Dana Reznik</last_name>
+      <phone>972526211059</phone>
+      <email>danaa3@clalit.org.il</email>
+    </contact>
+    <investigator>
+      <last_name>Efrat Baron Har-Lev, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Kaplan Medical Center</name>
+      <address>
+        <city>Reẖovot</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sagi Tzhori, MD</last_name>
+      <phone>97289440674</phone>
+      <email>sagitz1@clalit.org.il</email>
+    </contact>
+    <investigator>
+      <last_name>Sagi Tzhori, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Israel</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>January 6, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 13, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 14, 2021</study_first_posted>
+  <last_update_submitted>January 13, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 13, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 14, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Clalit Health Services</investigator_affiliation>
+    <investigator_full_name>Ran Balicer</investigator_full_name>
+    <investigator_title>Chief Innovation Officer, Clalit Health Services</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

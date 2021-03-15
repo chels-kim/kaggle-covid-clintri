@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3027">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04632381</url>
+  </required_header>
+  <id_info>
+    <org_study_id>eFT226-0003</org_study_id>
+    <nct_id>NCT04632381</nct_id>
+  </id_info>
+  <brief_title>Intravenous Zotatifin in Adults With Mild or Moderate COVID-19</brief_title>
+  <acronym>PROPEL</acronym>
+  <official_title>A Phase 1b, Randomized, Double-Blind, Placebo-Controlled, Dose Escalation Trial of Intravenous Zotatifin in Adults With Mild or Moderate Coronavirus Disease 2019 (COVID-19)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Effector Therapeutics</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Medpace, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Effector Therapeutics</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To evaluate the safety and tolerability, the antiviral activity, and plasma pharmacokinetics&#xD;
+      (PK) of zotatifin administered intravenously (IV) to adults with mild or moderate COVID-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This randomized, double-blind, placebo-controlled, dose-escalating study will evaluate the&#xD;
+      safety and efficacy of zotatifin administered IV to adults with mild or moderate COVID 19.&#xD;
+&#xD;
+      Patients will be randomized to receive zotatifin or placebo in 3 cohorts of 12 patients each.&#xD;
+      Cohorts will be sequentially enrolled at progressively higher zotatifin dose levels. Study&#xD;
+      drug will not be administered to patients who are hospitalized. The second dose of study drug&#xD;
+      will not be administered should a patient progress from mild or moderate COVID-19 to severe&#xD;
+      COVID-19 prior to or on Day 8. Patients will assess and record their symptoms daily through&#xD;
+      Day 22 and at follow up (30 days after last infusion) (or at the early termination visit [if&#xD;
+      conducted]) in a paper patient diary using the WHO 9-point ordinal scale for clinical&#xD;
+      improvement. Other safety and efficacy measures will be assessed according to the Schedule of&#xD;
+      Procedures on Days 1, 4, 8, 10, 15 (end of treatment visit), and 22, and at follow up (30&#xD;
+      days after last infusion). On non-dosing days, study visits will be conducted as home health&#xD;
+      visits, except for the follow-up visit, which will be conducted as a telephone visit.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 16, 2020</start_date>
+  <completion_date type="Anticipated">July 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 5, 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>Patients will be randomized 3:1 to receive zotatifin or placebo in 3 cohorts of 12 patients each. Cohorts will be sequentially enrolled at progressively higher zotatifin dose levels: 0.01, 0.02, or 0.035 mg/kg.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Matching placebo</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Safety as assessed by the incidence of Treatment Emergent Adverse Events and Serious Adverse Events</measure>
+    <time_frame>52 days</time_frame>
+    <description>Incidence of Treatment Emergent Adverse Events and Serious Adverse Events</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety as assessed by the incidence of adverse events of special interest:</measure>
+    <time_frame>52 days</time_frame>
+    <description>Adverse Events of Special Interest to be assessed:&#xD;
+Incidence of hospitalizations&#xD;
+incidence of cytokine release syndrome&#xD;
+hemophagocytic lymphohistiocytosis&#xD;
+acute respiratory distress syndrome&#xD;
+need for oxygen supplementation</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Tolerability as assessed by changes in vital signs from baseline (Day 1)</measure>
+    <time_frame>22 days</time_frame>
+    <description>Changes as assessed by respiration rate</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Tolerability as assessed by changes in vital signs from baseline (Day 1)</measure>
+    <time_frame>22 days</time_frame>
+    <description>Changes as assessed by heart rate</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Tolerability as assessed by changes in vital signs from baseline (Day 1)</measure>
+    <time_frame>22 days</time_frame>
+    <description>Changes as assessed by oxygen saturation</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Tolerability as assessed by changes in vital signs from baseline (Day 1)</measure>
+    <time_frame>22 days</time_frame>
+    <description>Changes as assessed by temperature</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Tolerability as assessed by changes in vital signs from baseline (Day 1)</measure>
+    <time_frame>22 days</time_frame>
+    <description>Changes as assessed by blood pressure</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Tolerability as assessed by changes in clinical symptoms from baseline (Day 1)</measure>
+    <time_frame>22 days</time_frame>
+    <description>Changes as assessed by physical exam</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Tolerability as assessed by changes in clinical laboratory tests from baseline (Day 1)</measure>
+    <time_frame>22 days</time_frame>
+    <description>Changes as assessed by serum chemistry</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Tolerability as assessed by changes in clinical laboratory tests from baseline (Day 1)</measure>
+    <time_frame>22 days</time_frame>
+    <description>Changes as assessed by hematology</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Tolerability as assessed by changes in clinical laboratory tests from baseline (Day 1)</measure>
+    <time_frame>22 days</time_frame>
+    <description>Changes as assessed by coagulation</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Tolerability as assessed by changes in clinical laboratory tests from baseline (Day 1)</measure>
+    <time_frame>22 days</time_frame>
+    <description>Changes as assessed by urinalysis</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to viral load undetectability;</measure>
+    <time_frame>22 days</time_frame>
+    <description>Defined as the time to the first of 2 consecutive negative SARS-CoV-2 measurements assessed from swab specimen</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients with SARS-CoV-2 viral load below the level of detectability;</measure>
+    <time_frame>22 days</time_frame>
+    <description>Assessed by swab specimen</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change in SARS-CoV-2 viral load;</measure>
+    <time_frame>22 days</time_frame>
+    <description>Assessed by swab specimen</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The time to clinical resolution;</measure>
+    <time_frame>52 days</time_frame>
+    <description>Defined as resolution of symptoms on the WHO 9-point ordinal scale for clinical improvement.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Zotatifin plasma concentrations</measure>
+    <time_frame>15 days</time_frame>
+    <description>Concentrations at end of infusion, end of dosing interval, and on defined timepoint periods.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Time to viral load undetectability</measure>
+    <time_frame>22 days</time_frame>
+    <description>Time to the first of 2 consecutive negative SARS-CoV-2 measurements assessed from daily samples</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Proportion of patients below the limit of detection</measure>
+    <time_frame>22 days</time_frame>
+    <description>Assessed from daily saliva and anterior nasal samples</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Mean change in viral load in saliva and nasal samples</measure>
+    <time_frame>22 days</time_frame>
+    <description>Assessed from daily saliva and anterior nasal samples</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Mean change in viral load in plasma</measure>
+    <time_frame>22 days</time_frame>
+    <description>Assessed from plasma collected</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Assessment and quantification of infectious virus</measure>
+    <time_frame>22 days</time_frame>
+    <description>Assessed by plaque-based or comparable assay</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Virus resistance</measure>
+    <time_frame>22 days</time_frame>
+    <description>According Virus Analysis Plan</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in the WHO 9-point ordinal scale for clinical improvement</measure>
+    <time_frame>38 days</time_frame>
+    <description>Assessed in change from baseline to post infusion</description>
+  </other_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">36</enrollment>
+  <condition>Corona Virus Infection</condition>
+  <arm_group>
+    <arm_group_label>Active Arm, Zota Cohort 1</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>0.01 mg/kg zotatifin</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Active Arm, Zota Cohort 2</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>0.02 mg/kg zotatifin</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Active Arm, Zota Cohort 3</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>0.035 mg/kg zotatifin</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>5% dextrose injection, USP</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Zotatifin</intervention_name>
+    <description>Zotatifin is a potent and sequence-selective inhibitor of eukaryotic translation initiation factor (eIF) 4A1-mediated translation that imparts its regulation through a reversible enhancement of eIF4A1 binding to RNAs (ribonucleic acids) with specific polypurine motifs within the 5'-untranslated region (UTR).</description>
+    <arm_group_label>Active Arm, Zota Cohort 1</arm_group_label>
+    <arm_group_label>Active Arm, Zota Cohort 2</arm_group_label>
+    <arm_group_label>Active Arm, Zota Cohort 3</arm_group_label>
+    <other_name>Zota</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>5% dextrose injection, USP</description>
+    <arm_group_label>Placebo</arm_group_label>
+    <other_name>PBO</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Has provided informed consent and any authorizations required by local law;&#xD;
+&#xD;
+          2. Is a male or female patient ≥18 and &lt;65 years of age;&#xD;
+&#xD;
+          3. Has a laboratory-documented positive test for SARS CoV 2 infection as determined by&#xD;
+             local laboratory using a standard, Food and Drug Administration (FDA)-approved viral&#xD;
+             RNA or viral antigen assay from any oral or respiratory sample collected within 48&#xD;
+             hours of randomization;&#xD;
+&#xD;
+          4. Has at least 2 symptoms associated with COVID-19 (fever or chills, cough, shortness of&#xD;
+             breath or difficulty breathing on exertion, fatigue, muscle or body aches, headache,&#xD;
+             new loss of taste or smell, sore throat, congestion or runny nose, nausea or vomiting,&#xD;
+             or diarrhea) starting no more than 5 days prior to randomization and has mild or&#xD;
+             moderate disease at screening and at time of randomization, defined as the following:&#xD;
+&#xD;
+               -  Mild COVID-19&#xD;
+&#xD;
+                    -  Positive testing by standard reverse transcriptase polymerase chain reaction&#xD;
+                       (RT-PCR) assay or equivalent test;&#xD;
+&#xD;
+                    -  Symptoms of mild illness with COVID-19 that could include fever, cough, sore&#xD;
+                       throat, malaise, headache, muscle pain, gastrointestinal symptoms, without&#xD;
+                       shortness of breath or dyspnea; and&#xD;
+&#xD;
+                    -  No clinical signs indicative of moderate, severe, or critical severity;&#xD;
+&#xD;
+               -  Moderate COVID-19&#xD;
+&#xD;
+                    -  Positive testing by standard RT-PCR assay or equivalent testing;&#xD;
+&#xD;
+                    -  Symptoms of moderate illness with COVID-19, which could include any symptom&#xD;
+                       of mild illness or shortness of breath with exertion;&#xD;
+&#xD;
+                    -  Clinical signs suggestive of moderate illness with COVID-19, such as&#xD;
+                       respiratory rate ≥20 breaths per minute, saturation of oxygen (SpO2) &gt;93% on&#xD;
+                       room air at sea level, heart rate ≥90 beats per minute; and&#xD;
+&#xD;
+                    -  No clinical signs indicative of severe or critical severity;&#xD;
+&#xD;
+          5. Has adequate hepatic function during screening, defined as the following:&#xD;
+&#xD;
+               -  Serum alanine aminotransferase ≤3 × upper limit of normal (ULN);&#xD;
+&#xD;
+               -  Serum aspartate aminotransferase ≤3 × ULN; and&#xD;
+&#xD;
+               -  Serum bilirubin (total) ≤1.5 × ULN (unless due to Gilbert's syndrome or&#xD;
+                  hemolysis);&#xD;
+&#xD;
+          6. Has adequate bone marrow function during screening, defined as the following:&#xD;
+&#xD;
+               -  Absolute neutrophil count ≥1.0 × 10 9/L;&#xD;
+&#xD;
+               -  Platelet count ≥75 × 109/L; and&#xD;
+&#xD;
+               -  Hemoglobin ≥90 g/L (9.0 g/dL or 5.6 mmol/L);&#xD;
+&#xD;
+          7. Has adequate renal function during screening, defined as measured or estimated&#xD;
+             glomerular filtration rate ≥60 mL/min, calculated by the Cockcroft-Gault formula using&#xD;
+             actual body weight;&#xD;
+&#xD;
+          8. Female patients of childbearing potential must meet all of the following criteria:&#xD;
+&#xD;
+               -  Is not pregnant (confirmed via a negative urine pregnancy test);&#xD;
+&#xD;
+               -  Is not breastfeeding; and&#xD;
+&#xD;
+               -  Is willing to use a protocol-recommended method of contraception or willing to&#xD;
+                  abstain from heterosexual intercourse from the start of blinded study drug until&#xD;
+                  at least 90 days after the last dose of blinded study drug; Note: A female&#xD;
+                  patient is considered to be of childbearing potential unless she has had a&#xD;
+                  hysterectomy, bilateral tubal ligation, or bilateral oophorectomy; has medically&#xD;
+                  documented ovarian failure (with serum estradiol and follicle-stimulating hormone&#xD;
+                  levels within the institutional laboratory postmenopausal range and a negative&#xD;
+                  serum or urine β-human chorionic gonadotropin); or is menopausal (age ≥55 years&#xD;
+                  with amenorrhea for ≥6 months).&#xD;
+&#xD;
+          9. Male patients who can father a child must meet all of the following criteria:&#xD;
+&#xD;
+               -  Is willing to use a protocol-recommended method of contraception or willing to&#xD;
+                  abstain from heterosexual intercourse with females of childbearing potential from&#xD;
+                  the start of blinded study drug until at least 90 days after the last dose of&#xD;
+                  blinded study drug; and&#xD;
+&#xD;
+               -  Is willing to refrain from sperm donation from the start of blinded study drug&#xD;
+                  until at least 90 days after the last dose of blinded study drug; Note: A male&#xD;
+                  patient is considered able to father a child unless he has had a bilateral&#xD;
+                  vasectomy with documented aspermia or a bilateral orchiectomy.&#xD;
+&#xD;
+         10. Is willing to comply with the scheduled visits, drug administration plan,&#xD;
+             protocol-specified laboratory tests, other study procedures, and study restrictions;&#xD;
+             and Note: Psychological, social, familial, or geographical factors that may preclude&#xD;
+             adequate study participation should be considered.&#xD;
+&#xD;
+         11. In the judgment of the Investigator, participation in the protocol offers an&#xD;
+             acceptable benefit to risk ratio when considering current disease status, medical&#xD;
+             condition, and the potential benefits and risks of alternative treatments for the&#xD;
+             patient's disease.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Is hospitalized for COVID-19;&#xD;
+&#xD;
+          2. Has dyspnea at rest or while talking, or has signs and symptoms of overt or impending&#xD;
+             respiratory failure;&#xD;
+&#xD;
+          3. Has significant cardiovascular disease, defined by myocardial infarction, arterial&#xD;
+             thromboembolism, or cerebrovascular thromboembolism, within 3 months prior to&#xD;
+             randomization; symptomatic dysrhythmias or unstable dysrhythmias requiring medical&#xD;
+             therapy; angina requiring therapy; symptomatic peripheral vascular disease; New York&#xD;
+             Heart Association Class 3 or 4 congestive heart failure; ≥Grade 3 hypertension&#xD;
+             (diastolic blood pressure ≥100 mmHg or systolic blood pressure ≥160 mmHg); or history&#xD;
+             of congenital prolonged QT syndrome;&#xD;
+&#xD;
+          4. Has a history of chronic obstructive pulmonary disease or bronchial asthma requiring&#xD;
+             continuous treatment and/or intermittent or continuous oxygen within the 90 days prior&#xD;
+             to screening; Note: Intermittent use of a β2-agonist inhaler is allowed.&#xD;
+&#xD;
+          5. Has evidence of an ongoing or systemic bacterial, fungal, or viral infection&#xD;
+             (including upper respiratory tract infections) other than SARS-CoV-2 infection,&#xD;
+             recurrent or repeat SARS CoV 2 infection, or history of incompletely treated&#xD;
+             tuberculosis (TB) and/or suspected or known extrapulmonary TB; Note: Patients with&#xD;
+             localized fungal infections of the skin or nails are eligible. Patients may be&#xD;
+             receiving topical antifungals. Systemic administration of azole antifungals is&#xD;
+             prohibited (see Section 5.6).&#xD;
+&#xD;
+          6. Has significant infiltrates (involving &gt;50% of lung parenchyma) on an optional&#xD;
+             standard of care chest X-ray or other lung imaging exam within 1 week of screening;&#xD;
+&#xD;
+          7. Has known significant electrocardiogram abnormalities at screening, including unstable&#xD;
+             cardiac arrhythmia requiring medication, left bundle branch block, second-degree&#xD;
+             atrioventricular (AV) block type II, third-degree AV block, ≥Grade 2 bradycardia, or&#xD;
+             QTcF &gt;450 msec for men or &gt;470 msec for women;&#xD;
+&#xD;
+          8. Has type 1 diabetes mellitus or type 2 diabetes mellitus;&#xD;
+&#xD;
+          9. Has a body mass index (BMI) &gt;30 kg/m2;&#xD;
+&#xD;
+         10. Has received a live vaccine within 30 days prior to randomization;&#xD;
+&#xD;
+         11. Has had major surgery within 4 weeks (inclusive) prior to randomization;&#xD;
+&#xD;
+         12. Has had prior solid organ or bone marrow progenitor cell transplantation;&#xD;
+&#xD;
+         13. Has a malignant tumor (excluding a malignant tumor cured with no recurrence in the&#xD;
+             past 2 years, completely resected basal cell and squamous cell carcinoma of the skin,&#xD;
+             and completely resected carcinoma in situ of any type);&#xD;
+&#xD;
+         14. Has had prior high-dose chemotherapy requiring stem cell rescue;&#xD;
+&#xD;
+         15. Has a history of or active uncontrolled systemic or local autoimmune disorders or&#xD;
+             other conditions that might impair or compromise the immune system;&#xD;
+&#xD;
+         16. Has ongoing immunosuppressive therapy, including systemic corticosteroids; Note: At&#xD;
+             screening and during study participation, patients may be using systemic&#xD;
+             corticosteroids (doses ≤10 mg of prednisone or equivalent) or topical or inhaled&#xD;
+             corticosteroids.&#xD;
+&#xD;
+         17. Has ongoing use of a therapeutic anticoagulant or history of bleeding disorder;&#xD;
+&#xD;
+         18. Has ongoing use or plans to use antivirals against COVID-19;&#xD;
+&#xD;
+         19. Has used a moderate or strong inhibitor or inducer of CYP3A4 within 7 days prior to&#xD;
+             randomization or is expected to require use of a moderate or strong CYP3A4 inhibitor&#xD;
+             or inducer during study participation;&#xD;
+&#xD;
+         20. Has previously received investigational product in a clinical study within 30 days or&#xD;
+             within 5 elimination half-lives (whichever is shorter) prior to randomization or is&#xD;
+             planning to take part in another therapeutic clinical study while participating in&#xD;
+             this study; Note: Participation in observational studies is allowed.&#xD;
+&#xD;
+         21. Has a known history of HIV or hepatitis B virus, or active hepatitis C virus&#xD;
+             infection;&#xD;
+&#xD;
+         22. Has a known serious allergic reaction or hypersensitivity to components of zotatifin&#xD;
+             or placebo;&#xD;
+&#xD;
+         23. Has a history of drug abuse or use of narcotics in the past 2 years that in the&#xD;
+             opinion of the Investigator will preclude study compliance; or&#xD;
+&#xD;
+         24. Has any illness, medical condition, organ system dysfunction, or social situation,&#xD;
+             including mental illness or substance abuse, deemed by the Investigator to be likely&#xD;
+             to interfere with a patient's ability to provide informed consent, adversely affect&#xD;
+             the patient's ability to cooperate and participate in the study, or compromise the&#xD;
+             interpretation of study results.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>64 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Neil Sankar, MD, MPH</last_name>
+    <role>Study Director</role>
+    <affiliation>eFFECTOR Therapeutics, Inc.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Mark Densel</last_name>
+    <phone>+1-858-925-8215</phone>
+    <email>MDensel@effector.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Rhonda Petsch</last_name>
+    <phone>+1-513-579-9911</phone>
+    <phone_ext>11422</phone_ext>
+    <email>R.Petsch@Medpace.com</email>
+  </overall_contact_backup>
+  <link>
+    <url>https://propelcovidclinicaltrial.com/</url>
+    <description>Link to the study website; Propel Covid-19 Clinical Trial</description>
+  </link>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>November 12, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 16, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 17, 2020</study_first_posted>
+  <last_update_submitted>November 17, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 17, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 19, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Following completion of the study, the data may be considered for publication.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

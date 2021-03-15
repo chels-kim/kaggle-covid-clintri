@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2700">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04635787</url>
+  </required_header>
+  <id_info>
+    <org_study_id>STU00213040</org_study_id>
+    <nct_id>NCT04635787</nct_id>
+  </id_info>
+  <brief_title>Vital Sensor Monitors for CV19 Detection</brief_title>
+  <official_title>ICU-Grade Wearable Sensors With Novel Respiratory Biomarkers to Diagnose and Detect Pre- and Very Early Symptomatic COVID-19 Infection Using Predictive Machine Learning Algorithms</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Northwestern University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>United States Department of Defense</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Northwestern University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will monitor physical bio-markers such as heart rate, respiratory rate, and&#xD;
+      temperature to detect potential COVID-19 infections.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The purpose of this research is to assess the accuracy of wearable sensors at detecting and&#xD;
+      monitoring COVID-19 infections. Our small, wearable sensor can get data on your respiration,&#xD;
+      body temperature, heart rate, and blood oxygen level, which may help physicians better&#xD;
+      identify if a respiratory condition is worsening overtime. If successful, our sensor could&#xD;
+      help healthcare professionals detect early symptoms of COVID-19 respiratory infection and&#xD;
+      monitor recovery and treat people before their condition worsens significantly.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Actual">November 5, 2020</start_date>
+  <completion_date type="Anticipated">October 30, 2022</completion_date>
+  <primary_completion_date type="Anticipated">September 30, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>1.Efficacy of wearable device to detect respiratory infection parameters: cough count</measure>
+    <time_frame>1 year</time_frame>
+    <description>Device data measuring cough count. Captured by analysis of peak acclerometer graphing and duration in meters per second squared (m/s2).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>2.Monitoring of respiratory infection symptoms, WURSS-11 Survey</measure>
+    <time_frame>Time Frame: 1 year</time_frame>
+    <description>WURSS-11 survey. https://www.fammed.wisc.edu/files/webfm-uploads/documents/research/wurss-11.pdf The WURSS-11 survey will be conducted on a weekly basis by study subjects for the duration of the study (up to 52 weeks).</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">300</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Healthy Adults</arm_group_label>
+    <description>Adults 18 years or older</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>COVID19</arm_group_label>
+    <description>Adults 18 years or older diagnosed with COVID 19</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>ANNE One</intervention_name>
+    <description>Wireless vital sign monitoring device</description>
+    <arm_group_label>COVID19</arm_group_label>
+    <arm_group_label>Healthy Adults</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Healthy adults and adults exposed to or diagnosed with COVID19&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adults aged 18 years old or over&#xD;
+&#xD;
+          -  Recent (within 1 week) occupational or home exposure to a newly diagnosed COVID-19&#xD;
+             infected individual&#xD;
+&#xD;
+          -  Able and willing to give written consent and comply with study procedures&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Inability to understand instructions and follow a three step command&#xD;
+&#xD;
+          -  The subject is pregnant, nursing or planning a pregnancy&#xD;
+&#xD;
+          -  Inability to provide written consent&#xD;
+&#xD;
+          -  Past confirmed COVID-19 infection with resolution of symptoms&#xD;
+&#xD;
+          -  Past confirmed COVID-19 active infection moderate or severe symptoms&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Northwestern Memorial Hospital</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>November 13, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 18, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 19, 2020</study_first_posted>
+  <last_update_submitted>November 18, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 18, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 19, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Northwestern University</investigator_affiliation>
+    <investigator_full_name>Shuai (Steve) Xu</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

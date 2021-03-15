@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1959">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04713553</url>
+  </required_header>
+  <id_info>
+    <org_study_id>C4591017</org_study_id>
+    <nct_id>NCT04713553</nct_id>
+  </id_info>
+  <brief_title>Study to Evaluate the Lot Consistency, Safety, Tolerability, and Immunogenicity of BNT162b2 Against COVID-19 in Healthy Adults</brief_title>
+  <official_title>A PHASE 3, RANDOMIZED, OBSERVER-BLIND STUDY TO EVALUATE THE LOT CONSISTENCY, SAFETY, TOLERABILITY, AND IMMUNOGENICITY OF THE VACCINE CANDIDATE BNT162b2 AGAINST COVID-19 IN HEALTHY ADULTS 18 THROUGH 55 YEARS OF AGE</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>BioNTech SE</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Pfizer</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>BioNTech SE</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a Phase 3, randomized, observer-blind study in healthy individuals. The study will&#xD;
+      evaluate the Lot consistency, safety, tolerability, and immunogenicity of the SARS-CoV-2 RNA&#xD;
+      vaccine candidate (BNT162b2) against COVID-19&#xD;
+&#xD;
+        -  As one of 5 manufacturing production lots&#xD;
+&#xD;
+        -  As a 2-dose (separated by 21 days) schedule&#xD;
+&#xD;
+        -  At a single dose level&#xD;
+&#xD;
+        -  In adults 18 through 55 years of age&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 28, 2021</start_date>
+  <completion_date type="Anticipated">April 9, 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 9, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Geometric Mean Ratio (GMR) of SARS-CoV-2 full-length S-binding antibody levels between US lots in participants without evidence of infection during the study</measure>
+    <time_frame>At 1 month after Dose 2</time_frame>
+    <description>As measured at the central laboratory</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>GMR of SARS-CoV-2 full-length S-binding antibody levels between the EU lot and pooled US lots in participants without evidence of infection during the study</measure>
+    <time_frame>At 1 month after Dose 2</time_frame>
+    <description>As measured at the central laboratory</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of participants reporting local reactions</measure>
+    <time_frame>For 7 days after Dose 1 and Dose 2</time_frame>
+    <description>Pain at the injection site, redness, and swelling, as self-reported in electronic diaries.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of participants reporting systemic events</measure>
+    <time_frame>For 7 days after Dose 1 and Dose 2</time_frame>
+    <description>Fever, fatigue, headache, chills, vomiting, diarrhea, new or worsened muscle pain, and new or worsened joint pain, as self-reported in electronic diaries.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of participants reporting adverse events</measure>
+    <time_frame>From Dose 1 through 1 month after Dose 2</time_frame>
+    <description>As elicited by investigational site staff</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of participants reporting serious adverse events</measure>
+    <time_frame>From Dose 1 through 1 month after Dose 2</time_frame>
+    <description>As elicited by investigational site staff</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Geometric Mean Concentrations (GMCs) of SARS-CoV-2 full-length S-binding antibody levels in participants vaccinated with either US, EU or Control lots</measure>
+    <time_frame>At baseline (before Dose 1) and at 1 month after Dose 2</time_frame>
+    <description>As measured at the central laboratory</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Geometric Mean Fold Rise (GMFR) of SARS-CoV-2 full-length S-binding antibody levels in participants vaccinated with either US, EU or Control lots</measure>
+    <time_frame>From baseline (before Dose 1) to 1 month after Dose 2</time_frame>
+    <description>As measured at the central laboratory</description>
+  </secondary_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Anticipated">1280</enrollment>
+  <condition>SARS-CoV-2 Infection</condition>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Lot 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>US manufactured drug substance</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Lot 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>US manufactured drug substance</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Lot 3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>US manufactured drug substance</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Lot 4</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>EU manufactured drug substance</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Lot 5</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Control lot</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>BNT162b2</intervention_name>
+    <description>Intramuscular injection</description>
+    <arm_group_label>Lot 1</arm_group_label>
+    <arm_group_label>Lot 2</arm_group_label>
+    <arm_group_label>Lot 3</arm_group_label>
+    <arm_group_label>Lot 4</arm_group_label>
+    <arm_group_label>Lot 5</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Male or female participants between the ages of 18 and 55 years, inclusive, at&#xD;
+             randomization.&#xD;
+&#xD;
+          -  Participants who are willing and able to comply with all scheduled visits, treatment&#xD;
+             plan, laboratory tests, lifestyle considerations, and other study procedures.&#xD;
+&#xD;
+          -  Healthy participants who are determined by medical history, physical examination (if&#xD;
+             required), and clinical judgment of the investigator to be eligible for inclusion in&#xD;
+             the study.&#xD;
+&#xD;
+          -  Capable of giving personal signed informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Other medical or psychiatric condition including recent (within the past year) or&#xD;
+             active suicidal ideation/behavior or laboratory abnormality that may increase the risk&#xD;
+             of study participation or, in the investigator's judgment, make the participant&#xD;
+             inappropriate for the study.&#xD;
+&#xD;
+          -  Known infection with HIV, HCV, or HBV.&#xD;
+&#xD;
+          -  History of severe adverse reaction associated with a vaccine and/or severe allergic&#xD;
+             reaction (eg, anaphylaxis) to any component of the study intervention.&#xD;
+&#xD;
+          -  Previous clinical (based on COVID-19 symptoms/signs alone, if a SARS-CoV-2 NAAT result&#xD;
+             was not available) or microbiological (based on COVID-19 symptoms/signs and a positive&#xD;
+             SARS-CoV-2 NAAT result) diagnosis of COVID 19.&#xD;
+&#xD;
+          -  Bleeding diathesis or condition associated with prolonged bleeding that would, in the&#xD;
+             opinion of the investigator, contraindicate intramuscular injection.&#xD;
+&#xD;
+          -  Women who are pregnant or breastfeeding.&#xD;
+&#xD;
+          -  Previous vaccination with any coronavirus vaccine.&#xD;
+&#xD;
+          -  Receipt of medications intended to prevent COVID-19.&#xD;
+&#xD;
+          -  Individuals who receive treatment with radiotherapy or immunosuppressive therapy,&#xD;
+             including cytotoxic agents or systemic corticosteroids, eg, for cancer or an&#xD;
+             autoimmune disease, or planned receipt throughout the study.&#xD;
+&#xD;
+          -  Receipt of blood/plasma products or immunoglobulin, from 60 days before study&#xD;
+             intervention administration or planned receipt throughout the study.&#xD;
+&#xD;
+          -  Participation in other studies involving study intervention within 28 days prior to&#xD;
+             study entry and/or during study participation.&#xD;
+&#xD;
+          -  Previous participation in other studies involving study intervention containing lipid&#xD;
+             nanoparticles.&#xD;
+&#xD;
+          -  Investigator site staff or Pfizer/BioNTech employees directly involved in the conduct&#xD;
+             of the study, site staff otherwise supervised by the investigator, and their&#xD;
+             respective family members.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Pfizer CT.gov Call Center</last_name>
+    <role>Study Director</role>
+    <affiliation>Pfizer</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Pfizer CT.gov Call Center</last_name>
+    <phone>1-800-718-1021</phone>
+    <email>ClinicalTrials.gov_Inquiries@pfizer.com</email>
+  </overall_contact>
+  <link>
+    <url>https://pmiform.com/clinical-trial-info-request?StudyID=C4591017</url>
+    <description>To obtain contact information for a study center near you, click here.</description>
+  </link>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>January 15, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 15, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 19, 2021</study_first_posted>
+  <last_update_submitted>January 15, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 15, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 19, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Coronavirus</keyword>
+  <keyword>Vaccine</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>RNA Vaccine</keyword>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Pfizer will provide access to individual de-identified participant data and related study documents (e.g. protocol, Statistical Analysis Plan (SAP), Clinical Study Report (CSR)) upon request from qualified researchers, and subject to certain criteria, conditions, and exceptions. Further details on Pfizer's data sharing criteria and process for requesting access can be found at: https://www.pfizer.com/science/clinical_trials/trial_data_and_results/data_requests.</ipd_description>
+    <ipd_url>https://www.pfizer.com/science/clinical_trials/trial_data_and_results/data_requests</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

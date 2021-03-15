@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2046">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04678739</url>
+  </required_header>
+  <id_info>
+    <org_study_id>M.A.R.M.C.D./2020/1985</org_study_id>
+    <nct_id>NCT04678739</nct_id>
+  </id_info>
+  <brief_title>Efficacy and Safety of Remdesivir and Tociluzumab for the Management of Severe COVID-19: A Randomized Controlled Trial</brief_title>
+  <official_title>Efficacy and Safety of Remdesivir and Tociluzumab for the Management of Severe COVID-19: A Randomized Controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>M Abdur Rahim Medical College and Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>First Affiliated Hospital Xi'an Jiaotong University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Cox's Bazar 250 Bed District Sadar Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Chattogram General Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>M Abdur Rahim Medical College and Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This randomized clinical trial was designed and intended to evaluate the efficacy of&#xD;
+      Remdesivir and Tocilizumab as a treatment for severe Acute Respiratory Distress Syndrome&#xD;
+      (ARDS) caused by Coronavirus disease 2019 (COVID-19). Our aim is to find the best option for&#xD;
+      the treatment and management of ARDS in COVID-19 patients.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 15, 2020</start_date>
+  <completion_date type="Anticipated">February 28, 2021</completion_date>
+  <primary_completion_date type="Anticipated">January 30, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Time to Clinical Improvement (TTCI)</measure>
+    <time_frame>Following randomization 30 days.</time_frame>
+    <description>Time to Clinical Improvement (TTCI) Defined as Time from Randomization to National Early Warning Score 2 (NEWS2) Score of &lt;/= 2 Maintained for 24 Hours.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Duration of ICU Stay</measure>
+    <time_frame>Following randomization 30 days.</time_frame>
+    <description>Duration of ICU Stay in Days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality Rate</measure>
+    <time_frame>Following randomization 30 days.</time_frame>
+    <description>Mortality Rate on Days during hospitalization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Recovery</measure>
+    <time_frame>Following randomization 30 days.</time_frame>
+    <description>Defined as Time from Randomization to the Time when a Non-ICU Hospital Ward or not Requiring Supplemental Oxygen, or Better is Observed</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital stay</measure>
+    <time_frame>Following randomization 30 days.</time_frame>
+    <description>Time from Randomization to Hospital Discharge or &quot;Ready for Discharge&quot; (as Evidenced by Normal Body Temperature and Respiratory Rate, and Stable Oxygen Saturation on Ambient Air or &lt;/= 4L Supplemental Oxygen)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of daily Supplemental Oxygen Use</measure>
+    <time_frame>Following randomization 30 days.</time_frame>
+    <description>Rate of daily Supplemental Oxygen Use by the patient</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Clinical Failure</measure>
+    <time_frame>Following randomization 30 days.</time_frame>
+    <description>Time to Clinical Failure, Defined as the Time from Randomization to the First Occurrence of Death, Mechanical Ventilation or Withdrawal (whichever occurs first)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>Covid19</condition>
+  <condition>Covid-19 ARDS</condition>
+  <arm_group>
+    <arm_group_label>Group A: Remdesivir + Tocilizumab treatment group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Drug: Remdesivir Injectable solution Tocilizumab Injectable solution A loading dose of Remdesivir I/V 5mg/kg (less than 40kg) or 200mg (&gt;40kg) on day 1, then 2.5mg/kg (less than 40kg) or 100mg (&gt;40kg) daily following randomization.&#xD;
+Tocilizumab I/V 8mg/Kg up to 800mg highest 12 hours apart.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group B: Control group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Treatment as given without Remdesivir and Tocilizumab.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Remdesivir</intervention_name>
+    <description>Remdesivir 100 IV Infusion as a lyophilized powder</description>
+    <arm_group_label>Group A: Remdesivir + Tocilizumab treatment group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Tocilizumab</intervention_name>
+    <description>Actemra IV Infusion</description>
+    <arm_group_label>Group A: Remdesivir + Tocilizumab treatment group</arm_group_label>
+    <other_name>Actemra IV Infusion</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Severe COVID-19 patients require hospitalization under HDU/ICU. The SARS-CoV-2 infection&#xD;
+        will be confirmed by RT PCR / CT Chest in every case.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Participants with uncontrolled clinical status who were hospitalized from the before.&#xD;
+&#xD;
+          -  Contraindication / possible drug interaction.&#xD;
+&#xD;
+          -  Participants who have any severe and/or uncontrolled medical conditions like, Severe&#xD;
+             ischemic heart disease, epilepsy, malignancy, Pulmonary/renal/hepatic disease, AIDS,&#xD;
+             Pulmonary TB, pregnancy, Corpulmonale, and etc.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>16 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Abu Taiub Mohammed Mohiuddin Chowdhury, MBBS, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>First Affiliated Hospital Xi'an Jiaotong University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Akter Kamal, MD, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>M Abdur Rahim Medical College Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Abu Taiub Mohammed Mohiuddin Chowdhury, MBBS, MD</last_name>
+    <phone>008801817711079</phone>
+    <email>dr_mohiuddinchy@yahoo.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Akter Kamal, MBBS, MD, PhD</last_name>
+    <phone>008801817233991</phone>
+    <email>kamalaktar@yahoo.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Chattogram General Hospital</name>
+      <address>
+        <city>Chittagong</city>
+        <zip>4000</zip>
+        <country>Bangladesh</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Subhasish Talukdar, MBBS, DO</last_name>
+      <phone>008801911882232</phone>
+      <email>drshubhashis@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Abu Taiub Mohammed Mohiuddin Chowdhury, MBBS, MD</last_name>
+      <phone>008801817711079</phone>
+      <email>dr_mohiuddinchy@yahoo.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Subhasish Talukdar</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Cox's Bazar 250 Bed District Sadar Hospital</name>
+      <address>
+        <city>Cox's Bazar</city>
+        <country>Bangladesh</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kofil Uddin Abbas, MBBS, MD</last_name>
+      <phone>008801818764656</phone>
+      <email>kafctg@yahoo.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Abu Taiub Mohammed Mohiuddin Chowdhury, MBBS, MD</last_name>
+      <phone>01817711079</phone>
+      <email>dr_mohiuddinchy@yahoo.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Kafil Uddin Abbas, MBBS, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>M. Abdur Rahim Medical College Hospital</name>
+      <address>
+        <city>Dinajpur</city>
+        <zip>5200</zip>
+        <country>Bangladesh</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Aktar Kamal, MD, PhD</last_name>
+      <phone>0088017233991</phone>
+      <email>kamalaktar@yahoo.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Abu Taiub Mohammed Mohiuddin Chowdhury, MBBS, MD</last_name>
+      <phone>008801817711079</phone>
+      <email>dr_mohiuddinchy@yahoo.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Aktar Kamal, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Abu Taiub Mohammed Mohiuddin Mohiuddin Chowdhury, MD, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>M. Abdur Rahim Medical College Hospital</name>
+      <address>
+        <city>Dinajpur</city>
+        <country>Bangladesh</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Akter Kamal, MBBS, MD, PhD</last_name>
+      <phone>008801817233991</phone>
+      <email>kamalaktar@yahoo.com</email>
+    </contact>
+    <investigator>
+      <last_name>Aktar Kamal, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Bangladesh</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>December 19, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 21, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 22, 2020</study_first_posted>
+  <last_update_submitted>January 16, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 16, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 20, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>First Affiliated Hospital Xi'an Jiaotong University</investigator_affiliation>
+    <investigator_full_name>Abu Taiub Mohammed Mohiuddin Chowdhury</investigator_full_name>
+    <investigator_title>Resident</investigator_title>
+  </responsible_party>
+  <keyword>COVID 19</keyword>
+  <keyword>Remdesivir</keyword>
+  <keyword>Ticilizumab</keyword>
+  <keyword>COVID-19 ARDS</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

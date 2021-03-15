@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2416">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04644185</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SCTA01-B301</org_study_id>
+    <nct_id>NCT04644185</nct_id>
+  </id_info>
+  <brief_title>The Efficacy and Safety of SCTA01 in Hospitalized Patients With Severe COVID-19</brief_title>
+  <official_title>A Multicenter, Adaptive, Randomized, Double-blinded, Placebo-controlled Phase II/III Trial to Evaluate the Efficacy and Safety of Monoclonal Antibody SCTA01 Against SARS-CoV-2 in Hospitalized Patients With Severe COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sinocelltech Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Sinocelltech Ltd.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study is a multicenter, adaptive, randomized, double-blinded and placebo-controlled Phase&#xD;
+      II/III trial, and will be conducted globally. The study is comprised of two parts: dose&#xD;
+      selection (Phase II) and pivotal treatment effect (Phase III).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      In this study, Phase II part will evaluate the efficacy, safety and PK of SCTA01 low&#xD;
+      dose+BSC, high dose+BSC and placebo+BSC in patients with severe COVID-19.&#xD;
+&#xD;
+      In Phase II part, subjects will be randomized at 1:1:1 ratio. At the end of Phase II part, a&#xD;
+      dose for the Phase III will be determined.&#xD;
+&#xD;
+      The Phase III part will evaluate the efficacy, safety, and immunogenicity of SCTA01 at the&#xD;
+      recommended dose recommended. Subjects in Phase III part will be randomized at 1:1 ratio to&#xD;
+      SCTA01+BSC and placebo+BSC groups.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 10, 2021</start_date>
+  <completion_date type="Anticipated">October 10, 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 10, 2021</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The clinical efficacy of SCTA01 (Phase II and III)</measure>
+    <time_frame>Day 29</time_frame>
+    <description>As assessed by time to clinical improvement (TTCI)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Cumulative incidence of SAEs(Phase II, III)</measure>
+    <time_frame>3 Months</time_frame>
+    <description>Cumulative incidence of serious adverse events in both Phase II and III</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in viral shedding as measured by RT-qPCR(Phase II and III)</measure>
+    <time_frame>Day 120</time_frame>
+    <description>Change from baseline in viral shedding as measured by RT-qPCR in NP swab samples</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>area under the curve (AUC0-t)(Phase II)</measure>
+    <time_frame>Day 120</time_frame>
+    <description>AUC0-t through Day 120</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AUC0-∞(Phase II)</measure>
+    <time_frame>Day 120</time_frame>
+    <description>AUC0-∞ through Day 120</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Half-life time (t1/2)(Phase II)</measure>
+    <time_frame>Day 120</time_frame>
+    <description>t1/2 through Day 120</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Maximum concentration (Cmax)(Phase II)</measure>
+    <time_frame>Day 120</time_frame>
+    <description>Cmax through Day 120</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Peak time (Tmax)(Phase II)</measure>
+    <time_frame>Day 120</time_frame>
+    <description>Tmax through Day 120</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clearance (CL)(Phase II)</measure>
+    <time_frame>Day 120</time_frame>
+    <description>CL through Day 120</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Apparent volume of distribution (Vd)(Phase II)</measure>
+    <time_frame>Day 120</time_frame>
+    <description>Vd through Day 120</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Elimination rate constant (λz)(Phase II)</measure>
+    <time_frame>Day 120</time_frame>
+    <description>λz through Day 120</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Immunogenicity as measured by anti-drug antibodies (ADA) (Phase II, III)</measure>
+    <time_frame>Day 120</time_frame>
+    <description>ADA against SCTA01 at baseline and Day 120</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">795</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>SCTA01 Low Dose+BSC</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>SCTA01in a lower dose+best supportive care</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>SCTA01 High Dose+BSC</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>SCTA01in a higher dose+best supportive care</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo+BSC</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>SCTA01 excipients+best supportive care</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>SCTA01</intervention_name>
+    <description>SCTA01, a recombinant anti-SARS-CoV-2 spike protein monoclonal antibody</description>
+    <arm_group_label>SCTA01 High Dose+BSC</arm_group_label>
+    <arm_group_label>SCTA01 Low Dose+BSC</arm_group_label>
+    <other_name>Recombinant anti-SARS-CoV-2 spike protein monoclonal antibody</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>all SCTA01 excipients without active component+best supportive care</description>
+    <arm_group_label>Placebo+BSC</arm_group_label>
+    <other_name>SCTA01 excipients</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Hospitalized patients with severe COVID-19 (5 point on NIH 8-point ordinal scale).&#xD;
+&#xD;
+          -  Male or female adult ≥18 years of age at time of enrollment;&#xD;
+&#xD;
+          -  Biological samples (not limited to any specific type) collected within 72 hours before&#xD;
+             randomization is laboratory-confirmed as SARS-CoV-2 infection (PCR or antigen-based&#xD;
+             diagnostic tests);&#xD;
+&#xD;
+          -  ≤ 10 days since symptoms of COVID-19 onset.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients who need non-invasive ventilation or high flow oxygen (i.e., 6 point on the&#xD;
+             8-point ordinal scale);&#xD;
+&#xD;
+          -  Patients with critical COVID-19;&#xD;
+&#xD;
+          -  Patients with Severe COVID-19 who received convalescent plasma or COVID-19 vaccine, or&#xD;
+             anti-SARS-CoV-2 spike (S) protein targeted therapy;&#xD;
+&#xD;
+          -  Alanine-amino transferase (ALT) or aspartate transaminase (AST) is 5 times higher than&#xD;
+             the upper limit of the normal value;&#xD;
+&#xD;
+          -  Estimated glomerular filtration rate (eGFR) &lt;30 mL/min or on dialysis {eGFR calculated&#xD;
+             by Cockcroft-Gault formula (Cockcroft DW, 1976), Male: CrCL (mL/min) = [(140 - age) ×&#xD;
+             weight (kg)] × 1/ [SCr (mg/dL) × 72]; Female: CrCL (mL/min) = [(140 - age) × weight&#xD;
+             (kg)] × 0.85/ [SCr (mg/dL) × 72]}.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Zhanghua Lan, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Sinocelltech Ltd.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ji Qi, PhD</last_name>
+    <phone>+86-10-5862 8288</phone>
+    <phone_ext>9360</phone_ext>
+    <email>ji_qi@sinocelltech.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>SCT study site</name>
+      <address>
+        <city>Ciudad Autonoma de Buenos aires</city>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Marcelo</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>SCT study site</name>
+      <address>
+        <city>Uberlândia</city>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Arantes</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>SCT study site</name>
+      <address>
+        <city>Talca</city>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Silva</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>SCT study site</name>
+      <address>
+        <city>Rionegro</city>
+        <country>Colombia</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Gomez</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>SCT study site</name>
+      <address>
+        <city>Monterrey</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Mercado Longoria</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>SCT study site</name>
+      <address>
+        <city>Lima</city>
+        <country>Peru</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Carbajal</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Argentina</country>
+    <country>Brazil</country>
+    <country>Chile</country>
+    <country>Colombia</country>
+    <country>Mexico</country>
+    <country>Peru</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>November 22, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 24, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 25, 2020</study_first_posted>
+  <last_update_submitted>January 17, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 17, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 22, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Myeloma Proteins</mesh_term>
+    <mesh_term>Paraproteins</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

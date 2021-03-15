@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4671">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04663776</url>
+  </required_header>
+  <id_info>
+    <org_study_id>P00036213</org_study_id>
+    <nct_id>NCT04663776</nct_id>
+  </id_info>
+  <brief_title>Wide Scale Monitoring for Acute Respiratory Infection Using a Mobile-Based Study Platform</brief_title>
+  <official_title>Wide Scale Monitoring for Acute Respiratory Infection Using a Mobile-Based Study Platform</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Boston Children's Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Google LLC.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Boston Children's Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a prospective observational study using a mobile study platform (app) that is&#xD;
+      designed for use on Android phones. Study participants will provide baseline demographic and&#xD;
+      medical information and report symptoms of respiratory infection on a weekly basis using the&#xD;
+      app. Participants will also report use of prevention techniques on the weekly survey.&#xD;
+      Mobility data will be collected passively using the sensors on the participant's smartphone,&#xD;
+      if the participant has granted the proper device permissions. The overall goals of the study&#xD;
+      are to track spread of coronavirus-like illness (CLI), inﬂuenza-like illness (ILI) and&#xD;
+      non-speciﬁc respiratory illness (NSRI) on a near-real time basis and identify speciﬁc&#xD;
+      behaviors associated with an increased or decreased risk of developing these conditions.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 4, 2020</start_date>
+  <completion_date type="Anticipated">December 8, 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 8, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of inﬂuenza-like illness (ILI) and COVID-like illness (CLI) in a study participant.</measure>
+    <time_frame>6-month participation period</time_frame>
+    <description>The deﬁnition of ILI will be adapted from CDC guidelines as a participant reporting fever in addition to cough or sore throat without any other known cause. All study analyses and outcomes will be reported using federated analytics. Federated analytics utilizes aggregated responses, rather than individual subject reports. Due to this, when reporting the ﬁnal outcome, the total incidence may not add up to exactly 100%.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of COVID-like illness (CLI) in a study participant.</measure>
+    <time_frame>6-month participation period</time_frame>
+    <description>CLI will be deﬁned as fever and cough, or shortness of breath, or loss of smell. Incidence will be deﬁned as reporting of the above symptoms in the 7 days prior (and not previously). All study analyses and outcomes will be reported using federated analytics. Federated analytics utilizes aggregated responses, rather than individual subject reports. Due to this, when reporting the ﬁnal outcome, the total incidence may not add up to exactly 100%.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Disease Prevalence</measure>
+    <time_frame>1-year study period</time_frame>
+    <description>Patterns of mobility (e.g. time away from home, use of public transportation), and reported use of prevention strategies such as wearing a mask and social distancing in participants who do, or don't, develop CIL and/or ILI will be compared. All study analyses and outcomes will be reported using federated analytics. Federated analytics utilizes aggregated responses, rather than individual subject reports. Due to this, when reporting the ﬁnal outcome, the total prevalence may not add up to exactly 100%.</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">100000</enrollment>
+  <condition>Covid19</condition>
+  <condition>Influenza</condition>
+  <condition>Respiratory Tract Infections</condition>
+  <condition>Acute Respiratory Tract Infection</condition>
+  <condition>Acute Respiratory Distress Syndrome</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The study population will be adult Android mobile device users who live within the United&#xD;
+        States.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adult 18 years or older, Android mobile phone user, Resides in the United States (has&#xD;
+             a US home address)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Under the age of 18, Does not use an Android mobile device, Opts out of sharing&#xD;
+             mobility data, Does not live within the United States&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Boston Children's Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>John Brownstein, PhD</last_name>
+      <phone>617-355-6000</phone>
+      <email>john.brownstein@childrens.harvard.edu</email>
+    </contact>
+    <investigator>
+      <last_name>John Brownstein, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Thompson WW, Weintraub E, Dhankhar P, Cheng PY, Brammer L, Meltzer MI, Bresee JS, Shay DK. Estimates of US influenza-associated deaths made using four different methods. Influenza Other Respir Viruses. 2009 Jan;3(1):37-49. doi: 10.1111/j.1750-2659.2009.00073.x.</citation>
+    <PMID>19453440</PMID>
+  </reference>
+  <reference>
+    <citation>Molinari NA, Ortega-Sanchez IR, Messonnier ML, Thompson WW, Wortley PM, Weintraub E, Bridges CB. The annual impact of seasonal influenza in the US: measuring disease burden and costs. Vaccine. 2007 Jun 28;25(27):5086-96. Epub 2007 Apr 20.</citation>
+    <PMID>17544181</PMID>
+  </reference>
+  <reference>
+    <citation>Zhou H, Thompson WW, Viboud CG, Ringholz CM, Cheng PY, Steiner C, Abedi GR, Anderson LJ, Brammer L, Shay DK. Hospitalizations associated with influenza and respiratory syncytial virus in the United States, 1993-2008. Clin Infect Dis. 2012 May;54(10):1427-36. doi: 10.1093/cid/cis211. Epub 2012 Apr 10.</citation>
+    <PMID>22495079</PMID>
+  </reference>
+  <reference>
+    <citation>Fu L, Wang B, Yuan T, Chen X, Ao Y, Fitzpatrick T, Li P, Zhou Y, Lin YF, Duan Q, Luo G, Fan S, Lu Y, Feng A, Zhan Y, Liang B, Cai W, Zhang L, Du X, Li L, Shu Y, Zou H. Clinical characteristics of coronavirus disease 2019 (COVID-19) in China: A systematic review and meta-analysis. J Infect. 2020 Jun;80(6):656-665. doi: 10.1016/j.jinf.2020.03.041. Epub 2020 Apr 10.</citation>
+    <PMID>32283155</PMID>
+  </reference>
+  <reference>
+    <citation>Yee J, Unger L, Zadravecz F, Cariello P, Seibert A, Johnson MA, Fuller MJ. Novel coronavirus 2019 (COVID-19): Emergence and implications for emergency care. J Am Coll Emerg Physicians Open. 2020 Feb 22. doi: 10.1002/emp2.12034. [Epub ahead of print] Review.</citation>
+    <PMID>32427173</PMID>
+  </reference>
+  <reference>
+    <citation>Tong JY, Wong A, Zhu D, Fastenberg JH, Tham T. The Prevalence of Olfactory and Gustatory Dysfunction in COVID-19 Patients: A Systematic Review and Meta-analysis. Otolaryngol Head Neck Surg. 2020 Jul;163(1):3-11. doi: 10.1177/0194599820926473. Epub 2020 May 5.</citation>
+    <PMID>32369429</PMID>
+  </reference>
+  <reference>
+    <citation>Kimball A, Hatfield KM, Arons M, James A, Taylor J, Spicer K, Bardossy AC, Oakley LP, Tanwar S, Chisty Z, Bell JM, Methner M, Harney J, Jacobs JR, Carlson CM, McLaughlin HP, Stone N, Clark S, Brostrom-Smith C, Page LC, Kay M, Lewis J, Russell D, Hiatt B, Gant J, Duchin JS, Clark TA, Honein MA, Reddy SC, Jernigan JA; Public Health - Seattle &amp; King County; CDC COVID-19 Investigation Team. Asymptomatic and Presymptomatic SARS-CoV-2 Infections in Residents of a Long-Term Care Skilled Nursing Facility - King County, Washington, March 2020. MMWR Morb Mortal Wkly Rep. 2020 Apr 3;69(13):377-381. doi: 10.15585/mmwr.mm6913e1.</citation>
+    <PMID>32240128</PMID>
+  </reference>
+  <reference>
+    <citation>Garg S, Kim L, Whitaker M, O'Halloran A, Cummings C, Holstein R, Prill M, Chai SJ, Kirley PD, Alden NB, Kawasaki B, Yousey-Hindes K, Niccolai L, Anderson EJ, Openo KP, Weigel A, Monroe ML, Ryan P, Henderson J, Kim S, Como-Sabetti K, Lynfield R, Sosin D, Torres S, Muse A, Bennett NM, Billing L, Sutton M, West N, Schaffner W, Talbot HK, Aquino C, George A, Budd A, Brammer L, Langley G, Hall AJ, Fry A. Hospitalization Rates and Characteristics of Patients Hospitalized with Laboratory-Confirmed Coronavirus Disease 2019 - COVID-NET, 14 States, March 1-30, 2020. MMWR Morb Mortal Wkly Rep. 2020 Apr 17;69(15):458-464. doi: 10.15585/mmwr.mm6915e3.</citation>
+    <PMID>32298251</PMID>
+  </reference>
+  <reference>
+    <citation>Schuchat A; CDC COVID-19 Response Team. Public Health Response to the Initiation and Spread of Pandemic COVID-19 in the United States, February 24-April 21, 2020. MMWR Morb Mortal Wkly Rep. 2020 May 8;69(18):551-556. doi: 10.15585/mmwr.mm6918e2.</citation>
+    <PMID>32379733</PMID>
+  </reference>
+  <reference>
+    <citation>Jefferson T, Del Mar C, Dooley L, Ferroni E, Al-Ansary LA, Bawazeer GA, van Driel ML, Foxlee R, Rivetti A. Physical interventions to interrupt or reduce the spread of respiratory viruses: systematic review. BMJ. 2009 Sep 21;339:b3675. doi: 10.1136/bmj.b3675. Review.</citation>
+    <PMID>19773323</PMID>
+  </reference>
+  <reference>
+    <citation>Xiao J, Shiu EYC, Gao H, Wong JY, Fong MW, Ryu S, Cowling BJ. Nonpharmaceutical Measures for Pandemic Influenza in Nonhealthcare Settings-Personal Protective and Environmental Measures. Emerg Infect Dis. 2020 May;26(5):967-975. doi: 10.3201/eid2605.190994. Epub 2020 May 17.</citation>
+    <PMID>32027586</PMID>
+  </reference>
+  <reference>
+    <citation>Mateus AL, Otete HE, Beck CR, Dolan GP, Nguyen-Van-Tam JS. Effectiveness of travel restrictions in the rapid containment of human influenza: a systematic review. Bull World Health Organ. 2014 Dec 1;92(12):868-880D. doi: 10.2471/BLT.14.135590. Epub 2014 Sep 29. Review.</citation>
+    <PMID>25552771</PMID>
+  </reference>
+  <reference>
+    <citation>Baltrusaitis K, Brownstein JS, Scarpino SV, Bakota E, Crawley AW, Conidi G, Gunn J, Gray J, Zink A, Santillana M. Comparison of crowd-sourced, electronic health records based, and traditional health-care based influenza-tracking systems at multiple spatial resolutions in the United States of America. BMC Infect Dis. 2018 Aug 15;18(1):403. doi: 10.1186/s12879-018-3322-3.</citation>
+    <PMID>30111305</PMID>
+  </reference>
+  <reference>
+    <citation>Bajardi P, Vespignani A, Funk S, Eames KT, Edmunds WJ, Turbelin C, Debin M, Colizza V, Smallenburg R, Koppeschaar CE, Franco AO, Faustino V, Carnahan A, Rehn M, Paolotti D. Determinants of follow-up participation in the Internet-based European influenza surveillance platform Influenzanet. J Med Internet Res. 2014 Mar 10;16(3):e78. doi: 10.2196/jmir.3010.</citation>
+    <PMID>24613818</PMID>
+  </reference>
+  <reference>
+    <citation>Wójcik OP, Brownstein JS, Chunara R, Johansson MA. Public health for the people: participatory infectious disease surveillance in the digital age. Emerg Themes Epidemiol. 2014 Jun 20;11:7. doi: 10.1186/1742-7622-11-7. eCollection 2014. Review.</citation>
+    <PMID>24991229</PMID>
+  </reference>
+  <reference>
+    <citation>Smolinski MS, Crawley AW, Baltrusaitis K, Chunara R, Olsen JM, Wójcik O, Santillana M, Nguyen A, Brownstein JS. Flu Near You: Crowdsourced Symptom Reporting Spanning 2 Influenza Seasons. Am J Public Health. 2015 Oct;105(10):2124-30. doi: 10.2105/AJPH.2015.302696. Epub 2015 Aug 13.</citation>
+    <PMID>26270299</PMID>
+  </reference>
+  <reference>
+    <citation>Menni C, Valdes AM, Freidin MB, Sudre CH, Nguyen LH, Drew DA, Ganesh S, Varsavsky T, Cardoso MJ, El-Sayed Moustafa JS, Visconti A, Hysi P, Bowyer RCE, Mangino M, Falchi M, Wolf J, Ourselin S, Chan AT, Steves CJ, Spector TD. Real-time tracking of self-reported symptoms to predict potential COVID-19. Nat Med. 2020 Jul;26(7):1037-1040. doi: 10.1038/s41591-020-0916-2. Epub 2020 May 11.</citation>
+    <PMID>32393804</PMID>
+  </reference>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>December 5, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 5, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 11, 2020</study_first_posted>
+  <last_update_submitted>December 5, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 5, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 11, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Boston Children's Hospital</investigator_affiliation>
+    <investigator_full_name>John Brownstein</investigator_full_name>
+    <investigator_title>Chief Innovation Officer</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Respiratory Tract Infections</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Newborn</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Adult</mesh_term>
+    <mesh_term>Acute Lung Injury</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>All study data is reported as aggregates in federated analytics. We have language that we have the option to share aggregate data within our protocol and consent, though it is not guaranteed that it will be done. No individual participant data is available.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

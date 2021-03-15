@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="82">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04582331</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SH2020.COV01</org_study_id>
+    <nct_id>NCT04582331</nct_id>
+  </id_info>
+  <brief_title>Improving Real-time COVID-19 Monitoring Through Smartphone Voice Analysis</brief_title>
+  <official_title>Improving Real-time COVID-19 Monitoring Through Smartphone Voice Analysis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sonde Health</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Sonde Health</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a confirmatory study that seeks to examine whether respiratory-responsive vocal&#xD;
+      biomarkers have potential to respond to COVID-19 infection status and respiratory symptom&#xD;
+      severity. Patients with suspected COVID-19 and healthy controls will submit daily voice&#xD;
+      samples and symptom inventories on their personal smartphone devices for 14 days.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is an observational study examining the potential to use voice analysis to aid in the&#xD;
+      identification of COVID-19 and as an aid to monitoring of respiratory symptoms of COVID-19.&#xD;
+      Patients with suspected COVID-19 and healthy controls will be enrolled and use their own&#xD;
+      smartphone device to provide daily voice samples and symptom inventories. This study seeks to&#xD;
+      confirm and extend findings from preliminary data from patients with asthma, COPD and cough&#xD;
+      that has indicated the potential of respiratory responsive vocal biomarkers (RRVB) to respond&#xD;
+      to respiratory diagnoses and symptom severity. The same RRVB will be examined to confirm&#xD;
+      whether this potential generalizes to respiratory symptoms associated with COVID-19&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 10, 2020</start_date>
+  <completion_date type="Anticipated">April 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 30, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Vocal biomarker performance in COVID-19 positive vs. healthy controls</measure>
+    <time_frame>Day 1 of study enrollment</time_frame>
+    <description>Sensitivity, Specificity and Diagnostic Odds Ratio of RRVB, either alone or in combination with a symptom inventory, to identify COVID-19 positive patients vs. asymptomatic healthy controls</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Vocal biomarker vs. symptom burden correlation in COVID-19 positive</measure>
+    <time_frame>Pooled across study Days 1-14</time_frame>
+    <description>Mean and 90% confidence interval of the correlation coefficient distribution between RRVB-based scores and self-reported respiratory symptom burden pooled across study days within individual COVID-19 patients</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Vocal biomarker performance in COVID-19 positive vs. COVID-19 negative symptomatic</measure>
+    <time_frame>Day 1 of enrollment</time_frame>
+    <description>Sensitivity, Specificity and Diagnostic Odds Ratio of RRVB, either alone or in combination with a symptom inventory, to discriminate COVID-19 positive vs. symptomatic COVID-19 negative patients on Day 1</description>
+  </secondary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">300</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>COVID-19 positive</arm_group_label>
+    <description>Patients with suspected COVID-19 based on presence of at least one newly emerged relevant symptom that has emerged at most 10 days prior to enrollment. COVID-19 positive status is confirmed by diagnostic testing and clinical diagnosis.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>COVID-19 negative, symptomatic</arm_group_label>
+    <description>Patients with suspected COVID-19 based on presence of at least one newly emerged relevant symptom that has emerged at most 10 days prior to enrollment. COVID-19 negative status is confirmed by diagnostic testing and clinical diagnosis.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Normal Healthy Volunteers</arm_group_label>
+    <description>Asymptomatic healthy participants recruited from hospital staff or co-living family members, or co-living family member of a COVID-19 positive study participant.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Smartphone-based voice and self-reported symptom collection</intervention_name>
+    <description>Voice samples and COVID-19 symptom inventories will be collected on participant smartphone devices. No outcomes or feedback is provided on acquired data during trial conduct but will be used for confirmatory data analysis post study</description>
+    <arm_group_label>COVID-19 negative, symptomatic</arm_group_label>
+    <arm_group_label>COVID-19 positive</arm_group_label>
+    <arm_group_label>Normal Healthy Volunteers</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients presenting with suspected COVID-19 with mild or severe disease severity.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Own an eligible smartphone (iOS or Android) that is able to download and run the Sonde&#xD;
+             Health app (access to smartphone provided by parent or legal guardian of participants&#xD;
+             under the age 18 is allowed)&#xD;
+&#xD;
+          2. Willing to sign up for a Sonde app account&#xD;
+&#xD;
+          3. Agreement with the subject consent information presented on the Sonde app. In case of&#xD;
+             adolescent subjects, agreement with subject consent information provided by a parent&#xD;
+             or legal guardian&#xD;
+&#xD;
+          4. Stated willingness and ability to comply with all study procedures for the duration of&#xD;
+             the study&#xD;
+&#xD;
+          5. Male or female, aged 12 or above (including adults)&#xD;
+&#xD;
+          6. Able to read and speak English or Spanish (required to follow app instructions and&#xD;
+             provide correct voice elicitations)&#xD;
+&#xD;
+          7. Pregnant women are allowed to participate&#xD;
+&#xD;
+             For suspected COVID-19 patients:&#xD;
+&#xD;
+          8. Confirmed or suspected COVID-19 infection with mild or severe illness severity at&#xD;
+             screening on Day 1&#xD;
+&#xD;
+          9. Suspected COVID-19 includes patients having at least one of the following symptoms&#xD;
+             that are present at most 10 days prior to enrollment:&#xD;
+&#xD;
+               -  Cough&#xD;
+&#xD;
+               -  Fever (&gt;37.5 C/ 99.5 F)&#xD;
+&#xD;
+               -  Shortness of breath&#xD;
+&#xD;
+               -  Sore throat&#xD;
+&#xD;
+               -  Diarrhea&#xD;
+&#xD;
+               -  Anosmia&#xD;
+&#xD;
+               -  Loss of taste/ ageusia&#xD;
+&#xD;
+         10. COVID-19 viral test ordered at the study site within at most 5 days prior to or on Day&#xD;
+             1&#xD;
+&#xD;
+             For healthy volunteers:&#xD;
+&#xD;
+         11. Hospital staff or co-living family members, or co-living family member of a COVID-19&#xD;
+             positive patient that is enrolled in this study&#xD;
+&#xD;
+         12. Age 12 and above&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Difficulties with speech production&#xD;
+&#xD;
+          2. Difficulties reading or responding to instructions and questions on a smartphone&#xD;
+             screen&#xD;
+&#xD;
+          3. Critical COVID-19 illness severity at screening on Day 1&#xD;
+&#xD;
+          4. Other critical health condition where study participation would place unreasonable&#xD;
+             burden or risk on the patient as determined by the study site principal investigator&#xD;
+&#xD;
+             For healthy volunteers:&#xD;
+&#xD;
+          5. History of positive COVID-19 viral or serologic test result any time prior to&#xD;
+             enrollment&#xD;
+&#xD;
+          6. Any hospital staff that is a member of the study team, and staff in the pulmonary and&#xD;
+             infectious disease departments of the participating institution, or any of their&#xD;
+             co-living family members&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>12 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Erik Larsen, PhD</last_name>
+    <phone>+1 (857) 869-9683</phone>
+    <email>elarsen@sondehealth.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Rebecca Shorin, BA</last_name>
+    <phone>+1 (267) 471-6216</phone>
+    <email>rshorin@sondehealth.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>UC San Diego Medical Center</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Edward Castillo, PhD</last_name>
+      <email>emcastillo@health.ucsd.edu</email>
+    </contact>
+    <investigator>
+      <last_name>James Killeen, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Brigham &amp; Woman's Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Robert Fowler</last_name>
+      <email>Robert.Fowler@childrens.harvard.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Ahmet Uluer, DO</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Montefiore Medical Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10467</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Savneet Kaur</last_name>
+      <phone>718-920-4321</phone>
+      <email>savneet.kaur@einsteinmed.org</email>
+    </contact>
+    <investigator>
+      <last_name>Sunit Jariwala, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Deenanath Mangeshkar Hospital &amp; Research Centre</name>
+      <address>
+        <city>Pune</city>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location_countries>
+    <country>India</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>October 7, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 8, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 9, 2020</study_first_posted>
+  <last_update_submitted>January 28, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 28, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 29, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Respiratory disease</keyword>
+  <keyword>Respiratory infection</keyword>
+  <keyword>Vocal biomarkers</keyword>
+  <keyword>Digital health</keyword>
+  <keyword>Symptom monitoring</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

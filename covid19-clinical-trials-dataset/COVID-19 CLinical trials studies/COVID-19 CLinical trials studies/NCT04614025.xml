@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3704">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04614025</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PLX-COV-03</org_study_id>
+    <nct_id>NCT04614025</nct_id>
+  </id_info>
+  <brief_title>Open-label Multicenter Study to Evaluate the Efficacy of PLX-PAD for the Treatment of COVID-19</brief_title>
+  <official_title>A Randomized, Controlled, Multicenter, Parallel-Group Phase IIa Study to Evaluate the Efficacy and Safety of Intramuscular Injections of PLX-PAD for the Treatment of Severe COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Pluristem Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Pluristem Ltd.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This clinical trial will examine if a new treatment of Mesenchymal-like Adherent stromal&#xD;
+      Cells (called PLX-PAD) can help patients intubated and mechanically ventilated due to&#xD;
+      COVID-19 to recover more quickly with less complications.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">November 2020</start_date>
+  <completion_date type="Anticipated">March 2022</completion_date>
+  <primary_completion_date type="Anticipated">May 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of ventilator-free days</measure>
+    <time_frame>28 days</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>All-cause mortality</measure>
+    <time_frame>28 and 60 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of mechanical ventilation</measure>
+    <time_frame>28 and 60 days</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>COVID</condition>
+  <condition>ARDS</condition>
+  <arm_group>
+    <arm_group_label>PLX-PAD Treatment</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>PLX-PAD 300 million cells (20 million/mL) administered via 15 IM injections (1 mL each).&#xD;
+Single administration in addition to best standard medical care.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control Group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Best standard medical care</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>PLX-PAD</intervention_name>
+    <description>PLX-PAD - allogeneic ex-vivo expanded placental mesenchymal-like adherent stromal cells</description>
+    <arm_group_label>PLX-PAD Treatment</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Key Inclusion Criteria:&#xD;
+&#xD;
+          -  Willing and able to provide written informed consent, or with a legal representative&#xD;
+             who can provide informed consent.&#xD;
+&#xD;
+          -  Male or non-pregnant female adult 18-85 years of age at time of enrollment.&#xD;
+&#xD;
+          -  Laboratory-confirmed SARS-CoV-2 infection as determined by PCR, in any specimen up to&#xD;
+             21 days prior to randomization.&#xD;
+&#xD;
+          -  Meets definition of ARDS according to Berlin criteria.&#xD;
+&#xD;
+        Key Exclusion Criteria:&#xD;
+&#xD;
+          -  Body weight under 55 kg (121 lbs)&#xD;
+&#xD;
+          -  Serum creatinine level of over 1.5 mg/dL at time of randomization.&#xD;
+&#xD;
+          -  Total Bilirubin ≥2 mg/dL at time of randomization.&#xD;
+&#xD;
+          -  Known allergy to any of the following: dimethyl sulfoxide (DMSO), human serum albumin,&#xD;
+             bovine serum albumin.&#xD;
+&#xD;
+          -  Stroke or acute myocardial infarction/unstable angina within 3 months prior to&#xD;
+             randomization.&#xD;
+&#xD;
+          -  Chronic Obstructive Pulmonary disease GOLD stage above II.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>University of hospital Bonn</name>
+      <address>
+        <city>Bonn</city>
+        <zip>53127</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Christian Putensen, Prof. Dr.</last_name>
+      <email>Christian.Putensen@ukbonn.de</email>
+    </contact>
+    <investigator>
+      <last_name>Christian Putensen, Prof. Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Cologne-Merheim</name>
+      <address>
+        <city>Köln</city>
+        <zip>51109</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Christian Karagiannidis, Prof. Dr.</last_name>
+      <phone>+49-221-8907-18809</phone>
+      <email>karagiannidisc@kliniken-koeln.de</email>
+    </contact>
+    <investigator>
+      <last_name>Christian Karagiannidis, Prof. Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Emek Medical Center</name>
+      <address>
+        <city>Afula</city>
+        <zip>1834111</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Elias Mazen, Prof.</last_name>
+      <email>elias_m@clalit.org.il</email>
+    </contact>
+    <investigator>
+      <last_name>Elias Mazen, Prof.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Samson Assuta Ashdod</name>
+      <address>
+        <city>Ashdod</city>
+        <zip>7747629</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Asaf Peretz, Dr.</last_name>
+      <email>asafpe@assuta.co.il</email>
+    </contact>
+    <investigator>
+      <last_name>Asaf Peretz, Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Bnai Zion Medical Center</name>
+      <address>
+        <city>Haifa</city>
+        <zip>31048</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Alona Paz, Dr.</last_name>
+      <phone>+972-04-8359344</phone>
+      <email>alona.paz@b-zion.org.il</email>
+    </contact>
+    <investigator>
+      <last_name>Alona Paz, Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Rambam Health Care Campus</name>
+      <address>
+        <city>Haifa</city>
+        <zip>3109601</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ayelet Raz-Pasteur, Dr.</last_name>
+      <phone>+972-04-7771191</phone>
+      <email>a_raz@rambam.health.gov.il</email>
+    </contact>
+    <investigator>
+      <last_name>Ayelet Raz-Pasteur, Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Galilee Medical Center</name>
+      <address>
+        <city>Nahariya</city>
+        <zip>22100</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Julia Kovalenko, Dr.</last_name>
+      <email>JuliaK@gmc.gov.il</email>
+    </contact>
+    <investigator>
+      <last_name>Julia Kovalenko, Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Baruch Padeh Medical Center, Poriya</name>
+      <address>
+        <city>Tiberias</city>
+        <zip>15208</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Ronny Ben-Avi, Dr.</last_name>
+      <email>rbenavi@pmc.gov.il</email>
+    </contact>
+    <investigator>
+      <last_name>Ronny Ben-Avi, Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+    <country>Israel</country>
+  </location_countries>
+  <link>
+    <url>http://www.pluristem.com</url>
+    <description>Related Info</description>
+  </link>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>November 2, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 2, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 3, 2020</study_first_posted>
+  <last_update_submitted>November 2, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 2, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 3, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

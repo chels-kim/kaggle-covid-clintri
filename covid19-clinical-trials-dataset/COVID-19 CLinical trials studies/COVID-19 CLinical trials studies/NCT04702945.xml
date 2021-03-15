@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="697">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04702945</url>
+  </required_header>
+  <id_info>
+    <org_study_id>H20-01015</org_study_id>
+    <nct_id>NCT04702945</nct_id>
+  </id_info>
+  <brief_title>Canadian COVID-19 Emergency Department Registry</brief_title>
+  <acronym>CCEDRRN</acronym>
+  <official_title>Canadian COVID-19 Emergency Department Rapid Response Network (CCEDRRN) - Population-based Registry of Suspected and Confirmed COVID-19 Cases</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of British Columbia</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Genome British Columbia</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Canadian Institutes of Health Research (CIHR)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Canadian Critical Care Trials Group</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of British Columbia</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Coronavirus Disease 2019 (COVID -19) is the largest public health crisis in over a century.&#xD;
+      There is an urgent need for high-quality population-level data to understand modifiable risks&#xD;
+      for disease severity, transmissibility, and to develop evidence-based prevention (i.e.&#xD;
+      vaccination), treatment and resource allocation strategies.&#xD;
+&#xD;
+      The Canadian COVID-19 Emergency Department Rapid Response Network (CCEDRRN) created a&#xD;
+      population-based registry of suspected and confirmed consecutive cases of COVID-19. The&#xD;
+      purpose of this registry is to derive and validate clinical decision rules, evaluate&#xD;
+      diagnostic tests and vaccine effectiveness, and complete cohort, case-control and&#xD;
+      observational studies to inform the pandemic response.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This national multi-centre registry is designed to enroll population-based consecutive&#xD;
+      eligible patients presenting with suspected or confirmed COVID-19 to 50 emergency departments&#xD;
+      in eight Canadian provinces from March 1 2020 and data collection is ongoing for the duration&#xD;
+      of the pandemic.&#xD;
+&#xD;
+      Data will be abstracted from the medical chart and entered into a central, web-based REDCap&#xD;
+      database. The investigators adopted the ISARIC variables into the database where there was a&#xD;
+      match. The investigators will develop standardized operating procedures for screening of&#xD;
+      potentially eligible patients, data entry and follow-up. Current data dictionaries are kept&#xD;
+      on the registry's website (https://canadiancovid19registry.org/).&#xD;
+&#xD;
+      At 30 days, the investigators will contact patients by telephone to obtain verbal consent for&#xD;
+      follow-up. The investigators will measure the Veterans Rand 12-item Health Survey (VR12),&#xD;
+      calculate the WHO Ordinal Outcome Scale and ask contextual questions in consenting patients.&#xD;
+      The VR12 will be measured at 60 days, and 6 and 12 months. The contextual questions were&#xD;
+      developed with input from patients with lived experience with COVID-19 infection and&#xD;
+      addressed cultural, racial, gender, socioeconomic and self-isolation issues.&#xD;
+&#xD;
+      The Health Data Research Network facilitated the development of a unique data flow of&#xD;
+      personal health identifiers and study identification numbers from each province for all&#xD;
+      participating institutes. This will allow linkage of registry data with national&#xD;
+      administrative data repositories.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 1, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2022</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Other</time_perspective>
+  </study_design_info>
+  <target_duration>1 Year</target_duration>
+  <primary_outcome>
+    <measure>Confirmed COVID-19 diagnosis</measure>
+    <time_frame>14 days</time_frame>
+    <description>Biological specimen is tested positive for SARS-CoV-2 using reverse transcription polymerase chain reaction (RT PCR). The specimen had to be drawn within two weeks of the emergency department visit if the patient presented with a COVID-19-related complication. If the initial test was negative, the patient had to have a positive specimen within 14 days of the index visit.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Hospital admission</measure>
+    <time_frame>30 days</time_frame>
+    <description>Any hospital admission within 30 days of index emergency department visit captured in medical chart.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mechanical ventilation</measure>
+    <time_frame>30 days</time_frame>
+    <description>Any mechanical ventilation during any hospital visit within 30 days of index emergency department visit captured in medical chart.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Emergency department revisits</measure>
+    <time_frame>30 days</time_frame>
+    <description>Any emergency department revisits within 30 days of index emergency department visit captured in medical chart.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital re-admissions</measure>
+    <time_frame>30 days</time_frame>
+    <description>Any hospital re-admissions within 30 days of index emergency department visit date captured in medical chart.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>30 day mortality</measure>
+    <time_frame>30 days</time_frame>
+    <description>Any death captured within 30 days of index emergency department visit captured by medical charts.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical recovery</measure>
+    <time_frame>30 days</time_frame>
+    <description>Captured through telephone follow-up using the World Health Organization Ordinal Outcome Scale at 30 days after index emergency department visit. The scale is scored from 1 to 8 ('1'= no limitations to activities, '8'=death) to measure clinical improvement at 30 days.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient quality of life</measure>
+    <time_frame>12 months</time_frame>
+    <description>Captured through telephone follow-up using the Veterans Rand 12-item Health Survey at 30 days, 60 days, and 6 and 12 months after index emergency department visit.</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">200000</enrollment>
+  <condition>Covid-19</condition>
+  <arm_group>
+    <arm_group_label>Registry participants</arm_group_label>
+    <description>Patients presenting to participating emergency departments with suspected and or confirmed COVID-19.</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients presenting to participating Canadian emergency departments with suspected and or&#xD;
+        confirmed COVID-19.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        The investigators defined two periods for enrollment based on the availability of COVID-19&#xD;
+        testing. Research assistants used medical microbiology testing and discharge diagnoses to&#xD;
+        screen for potentially eligible patients.&#xD;
+&#xD;
+        In Period 1, COVID-19 testing in each province was restricted to specific patient&#xD;
+        populations (e.g., healthcare workers, admitted patients).&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Meeting the WHO suspect COVID-19 criteria: Fever (self-reported or subjective fever)&#xD;
+             and at least one symptom/sign of respiratory illness (e.g., flu-like illness, cough,&#xD;
+             shortness of breath)&#xD;
+&#xD;
+          -  Presenting to the emergency department and tested for COVID-19 in the emergency&#xD;
+             department&#xD;
+&#xD;
+        No exclusion criteria in Period 1&#xD;
+&#xD;
+        Period 2 started on the date which each province expanded testing criteria allowing&#xD;
+        clinicians to test patients based on clinical suspicion or policy.&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Presenting to the emergency department within 14 days of a positive COVID-19 (by&#xD;
+             self-report or in medical chart) and presents with clinical symptoms consistent with&#xD;
+             COVID-19&#xD;
+&#xD;
+          -  Tested for COVID-19 in the emergency department, or within 24 hours after emergency&#xD;
+             department arrival.&#xD;
+&#xD;
+        Exclusion Criteria&#xD;
+&#xD;
+          -  Patients tested for COVID-19 in the context of an elective admission (e.g., planned&#xD;
+             hip revision)&#xD;
+&#xD;
+          -  Patients tested for COVID-19 and seen in the emergency department directly by another&#xD;
+             service (e.g., trauma team activation)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Corinne M Hohl, MD, MSc</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of British Columbia</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Corinne M Hohl, MD, MSc</last_name>
+    <phone>604-875-4111</phone>
+    <email>corinne.hohl@ubc.ca</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Laurie Morrison, MD,MSc</last_name>
+    <phone>416-864-6060</phone>
+    <phone_ext>7849</phone_ext>
+    <email>Laurie.Morrison@unityhealth.to</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Foothills Medical Centre</name>
+      <address>
+        <city>Calgary</city>
+        <state>Alberta</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Peter Lougheed Centre</name>
+      <address>
+        <city>Calgary</city>
+        <state>Alberta</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Rockyview General Hospital</name>
+      <address>
+        <city>Calgary</city>
+        <state>Alberta</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>South Health Campus</name>
+      <address>
+        <city>Calgary</city>
+        <state>Alberta</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Northeast Community Health Centre</name>
+      <address>
+        <city>Edmonton</city>
+        <state>Alberta</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Alexandra Hospital</name>
+      <address>
+        <city>Edmonton</city>
+        <state>Alberta</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Alberta Hospital</name>
+      <address>
+        <city>Edmonton</city>
+        <state>Alberta</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Abbotsford Regional Hospital</name>
+      <address>
+        <city>Abbotsford</city>
+        <state>British Columbia</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Inland Hospital</name>
+      <address>
+        <city>Kamloops</city>
+        <state>British Columbia</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kelowna General Hospital</name>
+      <address>
+        <city>Kelowna</city>
+        <state>British Columbia</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Columbian Hospital</name>
+      <address>
+        <city>New Westminster</city>
+        <state>British Columbia</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Lions Gate Hospital</name>
+      <address>
+        <city>North Vancouver</city>
+        <state>British Columbia</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Eagle Ridge Hospital</name>
+      <address>
+        <city>Port Moody</city>
+        <state>British Columbia</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Surrey Memorial Hospital</name>
+      <address>
+        <city>Surrey</city>
+        <state>British Columbia</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Mount Saint Joseph Hospital</name>
+      <address>
+        <city>Vancouver</city>
+        <state>British Columbia</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>St. Paul's Hospital</name>
+      <address>
+        <city>Vancouver</city>
+        <state>British Columbia</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Vancouver General Hospital</name>
+      <address>
+        <city>Vancouver</city>
+        <state>British Columbia</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Saint John Regional Hospital</name>
+      <address>
+        <city>Saint John</city>
+        <state>New Brunswick</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Dartmouth General Hospital</name>
+      <address>
+        <city>Dartmouth</city>
+        <state>Nova Scotia</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Halifax Infirmary</name>
+      <address>
+        <city>Halifax</city>
+        <state>Nova Scotia</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Cobequid Community Health Centre</name>
+      <address>
+        <city>Lower Sackville</city>
+        <state>Nova Scotia</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hants Community Hospital</name>
+      <address>
+        <city>Windsor</city>
+        <state>Nova Scotia</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hamilton General Hospital</name>
+      <address>
+        <city>Hamilton</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Juravinski Hospital</name>
+      <address>
+        <city>Hamilton</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hotel Dieu Hospital</name>
+      <address>
+        <city>Kingston</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kingston General Hospital</name>
+      <address>
+        <city>Kingston</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>London Health Sciences Centre (University Hospital)</name>
+      <address>
+        <city>London</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>London Health Sciences Centre (Victoria Hospital)</name>
+      <address>
+        <city>London</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Ottawa Hospital - Civic Campus</name>
+      <address>
+        <city>Ottawa</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>The Ottawa Hospital - General Campus</name>
+      <address>
+        <city>Ottawa</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Health Science North</name>
+      <address>
+        <city>Sudbury</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>North York General Hospital</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sunnybrook Hospital</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Toronto Western Hospital</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hôtel-Dieu de Lévis</name>
+      <address>
+        <city>Lévis</city>
+        <state>Quebec</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital du Sacré-Coeur</name>
+      <address>
+        <city>Montréal</city>
+        <state>Quebec</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Jewish General Hospital</name>
+      <address>
+        <city>Montréal</city>
+        <state>Quebec</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Montréal General Hospital (MUHC)</name>
+      <address>
+        <city>Montréal</city>
+        <state>Quebec</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Victoria Hospital (MUHC)</name>
+      <address>
+        <city>Montréal</city>
+        <state>Quebec</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier de l'Université Laval (CHU de Québec)</name>
+      <address>
+        <city>Québec</city>
+        <state>Quebec</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital de l'Enfant-Jésus (CHU de Québec)</name>
+      <address>
+        <city>Québec</city>
+        <state>Quebec</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital du Saint-Sacrement (CHU de Québec)</name>
+      <address>
+        <city>Québec</city>
+        <state>Quebec</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Saint-François d'Assise (CHU de Québec)</name>
+      <address>
+        <city>Québec</city>
+        <state>Quebec</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hôtel-Dieu de Québec (CHU de Québec)</name>
+      <address>
+        <city>Québec</city>
+        <state>Quebec</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Institut universitaire de cardiologie et de pneumologie de Québec</name>
+      <address>
+        <city>Québec</city>
+        <state>Quebec</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Pasqua Hospital</name>
+      <address>
+        <city>Regina</city>
+        <state>Saskatchewan</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regina General Hospital</name>
+      <address>
+        <city>Regina</city>
+        <state>Saskatchewan</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Royal University</name>
+      <address>
+        <city>Saskatoon</city>
+        <state>Saskatchewan</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Saskatoon City Hospital</name>
+      <address>
+        <city>Saskatoon</city>
+        <state>Saskatchewan</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>St Paul's Hospital</name>
+      <address>
+        <city>Saskatoon</city>
+        <state>Saskatchewan</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>January 6, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 7, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 11, 2021</study_first_posted>
+  <last_update_submitted>January 7, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 7, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 11, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of British Columbia</investigator_affiliation>
+    <investigator_full_name>Corinne Hohl</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <keyword>Coronavirus</keyword>
+  <keyword>Infectious diseases</keyword>
+  <keyword>Registry</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Emergencies</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

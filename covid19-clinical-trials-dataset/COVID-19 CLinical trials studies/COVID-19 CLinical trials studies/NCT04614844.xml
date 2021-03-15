@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4077">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04614844</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2000029372</org_study_id>
+    <secondary_id>1R01HS028340-01</secondary_id>
+    <nct_id>NCT04614844</nct_id>
+  </id_info>
+  <brief_title>COVID-19 Responsive Intervention: Systems Improvement Simulations (CRI:SIS)</brief_title>
+  <official_title>COVID-19 Responsive Intervention: Systems Improvement Simulations (CRI:SIS) Randomized Control Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Yale University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Agency for Healthcare Research and Quality (AHRQ)</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Yale University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This will be a randomized control trial assessing the impact of CRI:SIS as a simulation-based&#xD;
+      preparedness intervention on physician stress levels through changes to heart rate&#xD;
+      variability (HRV) on shift while caring for COVID-19 patients and post-shift anxiety as&#xD;
+      measured by the State-Trait Anxiety Inventory (STAI). The aim is to test CRI:SIS to determine&#xD;
+      its effect on mitigating physician stress on shift and anxiety post-shift related to&#xD;
+      provision of COVID-19 care&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The overall goal of this study is to develop and test the COVID-19 Responsive Intervention:&#xD;
+      Systems Improvement Simulations (CRI:SIS), a simulation-based training and quality&#xD;
+      improvement intervention that will minimize physician stress and improve system&#xD;
+      responsiveness. To accomplish this goal, the investigators will conduct a two-site randomized&#xD;
+      clinical trial to test the efficacy of CRI:SIS as a simulation-based preparedness&#xD;
+      intervention on decreasing emergency physician stress and anxiety during the care of COVID-19&#xD;
+      patients in the ED through on-shift measurements of heart rate variability as a physiologic&#xD;
+      marker of stress and responses to the State-Trait Anxiety Inventory post-shift. The&#xD;
+      investigators will rapidly disseminate CRI:SIS as two simulation interventions, one on&#xD;
+      clinician preparedness and the other on system improvement, through interactive virtual&#xD;
+      tele-simulations, webinars, and virtual workshops providing mentorship and shared learning&#xD;
+      for other institutions facing similar challenges. If proven successful, the simulation-based&#xD;
+      CRI:SIS intervention to rapidly prepare clinicians and improve system responsiveness can be&#xD;
+      widely disseminated to other institutions to combat the anticipated lengthy response to&#xD;
+      COVID-19 safety challenges.&#xD;
+&#xD;
+      Participants randomized to the intervention arm will receive CRI:SIS as a three-hour&#xD;
+      simulation session. This session will include three scenarios focused on three critical areas&#xD;
+      of COVID-19 patient care:&#xD;
+&#xD;
+        1. airway management procedures in patients with COVID-19 given increased risk of viral&#xD;
+           transmission to personnel and rapid respiratory deterioration in infected patients&#xD;
+&#xD;
+        2. new presenting symptoms and associated complications of COVID-19 (e.g.,&#xD;
+           hypercoagulability, cardiovascular morbidity), making accurate diagnosis and treatment&#xD;
+           of patients with suspected infection difficult&#xD;
+&#xD;
+        3. caring for patients presenting with severe illness and poor prognosis adding emotional&#xD;
+           and cognitive strain to physicians as they initiate palliative care, discuss goals of&#xD;
+           care, or withdraw care in the ED.&#xD;
+&#xD;
+      In addition, all three scenarios will address negative effects on team performance during&#xD;
+      COVID-19 care from social distancing and personal protective equipment (PPE) requirements&#xD;
+      through interactions with nursing and ancillary staff confederates during each scenario. Each&#xD;
+      participant will complete all three scenarios within a three-hour block between one to five&#xD;
+      days prior to a clinical shift.&#xD;
+&#xD;
+      Participants randomized to the control arm will participate in four shift data collections,&#xD;
+      with no additional intervention. These participants will have access to the routinely&#xD;
+      distributed COVID-19 Task Force updates, guidelines, weekly town hall meetings, and any&#xD;
+      in-service support that would routinely be available to all clinical staff as per standard&#xD;
+      operational practice in our local departments. Once enrollment for Aim 2 is complete, all&#xD;
+      participants randomized to the control arm will be offered the opportunity to complete the&#xD;
+      simulation intervention.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 15, 2020</start_date>
+  <completion_date type="Anticipated">November 15, 2022</completion_date>
+  <primary_completion_date type="Anticipated">September 15, 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in end-of-shift heart rate variability</measure>
+    <time_frame>Baseline, 5 minutes post-intervention shift</time_frame>
+    <description>The change in physician end-of-shift heart rate variability will be measured using the Hexoskin Smart Shirt.&#xD;
+Changes in HRV will be averaged over the two post-intervention shift data collections to control for an anticipated shift-to-shift and patient-to-patient variability in stress response due to patient acuity and workload</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in STAI S-Anxiety</measure>
+    <time_frame>Baseline, 5 minutes post-intervention shift</time_frame>
+    <description>The change in physician end-of-shift anxiety measured by the State-Trait Anxiety Inventory (STAI) for physicians exposed to the simulation based training preparation compared to standard guideline update delivery. Each STAI item is given a weighted score of 1 to 4. A rating of 4 indicates the presence of a high level of anxiety for items (e.g., &quot;I feel frightened,&quot; &quot;I feel upset&quot;). To obtain scores for the S-Anxiety, simply add the weighted scores for the twenty items that make up the scale, taking into account the fact that the scores are reversed for specific items. Scores for the S-Anxiety scale can vary from a minimum of 20 to a maximum of 80.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in STAI T-Anxiety</measure>
+    <time_frame>Baseline, 1 week</time_frame>
+    <description>The secondary outcome of interest is change in anxiety between the intervention and control conditions as measured by the State-Trait Anxiety Inventory (STAI). The T-Anxiety scale (STAI Form Y-2) consists of twenty statements that assess how people generally feel. The scoring weights for the anxiety-present items are the same as the chosen numbers on the print inventory form. To obtain scores for the T-Anxiety scale, simply add the weighted scores for the twenty items that make up the scale, taking into account the fact that the scores are reversed for specific items. Scores for the T- Anxiety scales can vary from a minimum of 20 to a maximum of 80.</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">84</enrollment>
+  <condition>Physician Stress Levels</condition>
+  <arm_group>
+    <arm_group_label>Simulation Intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants randomized to the intervention arm will receive CRI:SIS as a three-hour simulation session.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants randomized to the control arm will participate in four shift data collections, with no additional intervention.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Simulation Intervention</intervention_name>
+    <description>Participants randomized to the intervention arm will receive CRI:SIS as a three-hour simulation session.</description>
+    <arm_group_label>Simulation Intervention</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Control</intervention_name>
+    <description>Participants randomized to the control arm will participate in four shift data collections, with no additional intervention.</description>
+    <arm_group_label>Control</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Resident or Attending Physician working at Yale New Haven Hospital York Street or&#xD;
+             Saint Raphael Emergency Departments&#xD;
+&#xD;
+          -  Currently treating patients with COVID-19 or suspected COVID-19&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Currently taking a beta-blocker and/or anti-arrhythmic medication&#xD;
+&#xD;
+          -  Active (uncontrolled) thyroid dysfunction&#xD;
+&#xD;
+          -  Pregnant&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Leigh Evans, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Associate Professor of Emergency Medicine; Executive Director, Yale Center for Medical Simulation; Director, Resident Research</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Leigh Evans, MD</last_name>
+    <phone>(203) 737-2489</phone>
+    <email>leigh.evans@yale.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Ambrose H Wong, MD, MSEd</last_name>
+    <phone>(203) 737-2489</phone>
+    <email>ambrose.wong@yale.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Yale New Haven Hospital</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06512</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Ambrose Wong, MD, MSEd</last_name>
+      <phone>203-737-2489</phone>
+      <email>ambrose.wong@yale.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Leigh V. Evans, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>November 2, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 2, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 4, 2020</study_first_posted>
+  <last_update_submitted>December 1, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 1, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 2, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

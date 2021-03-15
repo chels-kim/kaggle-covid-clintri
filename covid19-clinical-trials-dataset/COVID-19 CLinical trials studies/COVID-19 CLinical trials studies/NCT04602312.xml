@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4305">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04602312</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2019000347-S4C</org_study_id>
+    <nct_id>NCT04602312</nct_id>
+  </id_info>
+  <brief_title>How Does Mindfulness Meditation Buffer the Negative Effects of Pain and Suffering in the COVID-19 World? (Healthy Sample)</brief_title>
+  <official_title>Online RCT Comparing the Effects of Mindfulness, Sham Mindfulness and Book Listening Control on Coronavirus-related Catastrophizing in Adults</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>The University of Queensland</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Sydney</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of California, San Diego</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>The University of Queensland</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Both mindfulness meditation and expectancy effects are known to reduce anxiety, stress and&#xD;
+      catastrophizing, but it is unknown whether and how expectancy effects contribute to the&#xD;
+      overall effect of mindfulness meditation on these outcomes, especially during significant&#xD;
+      global events such as the coronavirus pandemic. This study includes four interrelated aims&#xD;
+      that will probe these effects and interactions.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 28, 2020</start_date>
+  <completion_date type="Anticipated">March 2021</completion_date>
+  <primary_completion_date type="Anticipated">March 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>4 x (2) mixed design, with training (mindfulness vs specific sham mindfulness vs general sham mindfulness vs book listening control, between subjects) and time (pre-treatment vs post-treatment, within-subjects) as factors.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Coronavirus-related catastrophizing</measure>
+    <time_frame>40 minutes</time_frame>
+    <description>assessed via a covid-19-related catastrophizing scale (CCS; 0=no catastrophizing, 52=highest catastrophizing, 30+=clinically significant catastrophizing)</description>
+  </primary_outcome>
+  <other_outcome>
+    <measure>Expectancy</measure>
+    <time_frame>40 minutes</time_frame>
+    <description>assessed via self-report questions (0=lowest expectancy, 10=highest expectancy)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Reappraisal</measure>
+    <time_frame>40 minutes</time_frame>
+    <description>assessed via the Cognitive Emotion Regulation Questionnaire (CERQ-R; 4=lowest reappraisal, 20=highest reappraisal)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Mindful observing</measure>
+    <time_frame>40 minutes</time_frame>
+    <description>assessed via the Five Facet Mindfulness Questionnaire Observing subscale (FFMQ-O; 1=lowest observing, 5=highest observing)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Mindful non-reactivity</measure>
+    <time_frame>40 minutes</time_frame>
+    <description>assessed via the Five Facet Mindfulness Questionnaire Non-reacting subscale (FFMQ-NR; 1=lowest non-reactivity, 5=highest non-reactivity)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>State Mindfulness</measure>
+    <time_frame>40 minutes</time_frame>
+    <description>assessed via the State Mindfulness Survey (SMS; 1=lowest mindfulness, 21=highest mindfulness)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>State Decentering</measure>
+    <time_frame>40 minutes</time_frame>
+    <description>assessed via the Metacognitive Processes of Decentering - State (MpoD-s; 0=lowest decentering, 3=highest decentering)</description>
+  </other_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">624</enrollment>
+  <condition>Catastrophizing Coronavirus (COVID-19)</condition>
+  <arm_group>
+    <arm_group_label>Mindfulness meditation</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>&quot;focussed attention&quot; mindfulness meditation technique taught as means to reduce coronavirus-related catastrophizing.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Specific sham mindfulness meditation</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>a training session designed to specifically match the real mindfulness training while lacking the proposed active elements of mindfulness training. Delivered as a means to elicit expectancy-mediated (but not mindfulness-mediated) reductions in coronavirus-related catastrophizing.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>General sham mindfulness meditation</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>a training session designed to generally match focussed-attention mindfulness meditation while maintaining greater distance from proposed mindfulness mechanisms. Delivered as a means to elicit expectancy-mediated (but not mindfulness-mediated) reductions in coronavirus-related catastrophizing.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Book listening control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>this group completes no meditation training. They listen to a spoken excerpt from the audiobook &quot;The Natural History and Antiquities of Selborne&quot;</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Meditation (1 x 20-minute guided audio training)</intervention_name>
+    <description>Participants will complete a single session of 20-minutes online guided audio-delivered training session of one of the four conditions.</description>
+    <arm_group_label>General sham mindfulness meditation</arm_group_label>
+    <arm_group_label>Mindfulness meditation</arm_group_label>
+    <arm_group_label>Specific sham mindfulness meditation</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  At least 18 years of age&#xD;
+&#xD;
+          -  Able to read and understand English&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Recurrent pain (two or more days in the last month)&#xD;
+&#xD;
+          -  Chronic pain (pain most days in the last three months)&#xD;
+&#xD;
+          -  Incomplete or invalid data (response time &lt; 32 minutes, failing attention checks)&#xD;
+&#xD;
+          -  Completing the 20-minute training module in &lt; 18 minutes or &gt; 90 minutes&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Melissa Day, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The University of Queensland</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jonathan Davies, MSc</last_name>
+    <phone>+61733656230</phone>
+    <email>jonathan.davies@uq.edu.au</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Health and Behavioural Sciences</name>
+      <address>
+        <city>Brisbane</city>
+        <state>Queensland</state>
+        <zip>4072</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jonathan Davies, MSc</last_name>
+      <phone>0407966916</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+  </location_countries>
+  <link>
+    <url>https://sydneypsy.qualtrics.com/jfe/form/SV_6P8sOROQ5eq8SpL?src=CTGC</url>
+    <description>TAKE THE SURVEY NOW - LINK FOR PARTICIPANTS WISHING TO PARTICIPATE</description>
+  </link>
+  <link>
+    <url>https://sites.google.com/view/uqcovidmeditation</url>
+    <description>INFORMATION ABOUT THE STUDY</description>
+  </link>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>October 19, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 22, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 26, 2020</study_first_posted>
+  <last_update_submitted>November 9, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 9, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 12, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Coronavirus-related Catastrophizing</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>All of the individual trial-related participant data collected during the trial, after de-identification.</ipd_description>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_time_frame>Immediately following publication up and for a further 10 years .</ipd_time_frame>
+    <ipd_access_criteria>Investigators whose proposed use of the data has been approved by an independent review committee. Initial contact should be directed to the contact person for scientific enquiries (Mr Jonathan Davies, jonathan.davies@uq.edu.au).&#xD;
+Note: Requestors will need to sign a data access agreement.</ipd_access_criteria>
+    <ipd_url>https://sites.google.com/view/uqcovidmeditation</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

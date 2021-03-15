@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3609">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04668313</url>
+  </required_header>
+  <id_info>
+    <org_study_id>INGN20RM136</org_study_id>
+    <nct_id>NCT04668313</nct_id>
+  </id_info>
+  <brief_title>COVID-19 Advanced Respiratory Physiology (CARP) Study</brief_title>
+  <acronym>CARP</acronym>
+  <official_title>COVID-19 Advanced Respiratory Physiology (CARP) Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>NHS Greater Glasgow and Clyde</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Altair Medical</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Storm ID</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>NHS Greater Glasgow and Clyde</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The anticipated second wave of COVID-19 cases will present healthcare system challenges,&#xD;
+      including requirement to monitor large numbers of patients for deteriorating respiratory&#xD;
+      failure. Rising respiratory rate can identify deterioration requiring escalation of care.&#xD;
+      However constant monitoring of respiratory rate can be challenging outwith critical care&#xD;
+      units due to feasibility and inaccuracy of intermittent measurements.&#xD;
+&#xD;
+      Wearable biosensors which allows for remote patient monitoring of RR is therefore attractive,&#xD;
+      particularly when combined in a dashboard with clinical summary data. This would establish&#xD;
+      source data and infrastructure for the training and validation of machine-learning models,&#xD;
+      with decision support risk-predictions prioritising alerts and clinician reviews.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Altair medical has developed a pre-commercial investigational wearable (chest-worn) biosensor&#xD;
+      which can measure continuous respiratory rate and respiratory events. This sensor has been&#xD;
+      verified to have good correlation with reference impedance plethysmography data.&#xD;
+&#xD;
+      Inclusion criteria:&#xD;
+&#xD;
+      All inpatients in the QEUH with respiratory failure from any cause.&#xD;
+&#xD;
+      Exclusion criteria:&#xD;
+&#xD;
+      Lack of capacity to consent&#xD;
+&#xD;
+      Physiology data will be correlated with event time-course data including oxygen and breathing&#xD;
+      support requirements, deterioration, hospital discharge and status at 28 days and 90 days&#xD;
+      post discharge.&#xD;
+&#xD;
+      A small subset of patients will have further investigations - parasternal EMG; thoracic&#xD;
+      electrical impedance tomography; forced oscillometry and post discharge Altair and Fitbit&#xD;
+      data.&#xD;
+&#xD;
+      Study analysis will include machine learning model development with the objective of&#xD;
+      developing risk-predictions for clinically significant deteriorations.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 29, 2020</start_date>
+  <completion_date type="Anticipated">September 29, 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 30, 2020</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>90 Days</target_duration>
+  <primary_outcome>
+    <measure>Machine-learning model development</measure>
+    <time_frame>1 year</time_frame>
+    <description>Developing risk-predictions for clinically significant deteriorations</description>
+  </primary_outcome>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>Respiratory Failure</condition>
+  <condition>Covid19</condition>
+  <condition>Biosensor</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Potential participants with respiratory failure will be identified by the clinical teams in&#xD;
+        the emergency departments, admissions units, respiratory wards or high dependency units of&#xD;
+        the study sites. Patient information sheets would be provided to potential participants.&#xD;
+        Study team will liase with clinical staff to identify potential participants and maintain a&#xD;
+        screening and recruitment log. Based on this information, a member of the team delivering&#xD;
+        the trial with appropriate knowledge will assess eligibility against inclusion and&#xD;
+        exclusion criteria. No additional tests are required to determine eligibility.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Inclusion criteria&#xD;
+&#xD;
+               -  Adult patients with respiratory failure of any cause requiring hospital&#xD;
+                  admission, oxygen therapy and routine NEWS-2 physiology observations.&#xD;
+&#xD;
+               -  CARP detailed sub-study Adult patients with respiratory failure who are suitable&#xD;
+                  for opportunistically acquired serial detailed physiology measurements taken&#xD;
+                  alongside routine clinical care by study team.&#xD;
+&#xD;
+               -  CARP follow-up remote-monitoring sub-study Adult patients with respiratory&#xD;
+                  failure who have provided informed consent and have a smartphone to connect to&#xD;
+                  Fitbit and Lenus accounts for postdischarge wearable device data capture.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Exclusion criteria • Lack of capacity or inability to comprehend informed consent.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <overall_contact>
+    <last_name>Chris Carlin</last_name>
+    <phone>01414516088</phone>
+    <email>Christopher.Carlin@ggc.scot.nhs.uk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Jacqueline Anderson</last_name>
+    <phone>01414516088</phone>
+    <email>Jacqueline.Anderson@ggc.scot.nhs.uk</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>NHS Greater Glasgow and Clyde</name>
+      <address>
+        <city>Glasgow</city>
+        <zip>G12 0XH</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jacqueline Anderson</last_name>
+      <email>Jacqueline.Anderson@ggc.scot.nhs.uk</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>December 14, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 14, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 16, 2020</study_first_posted>
+  <last_update_submitted>December 14, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 14, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 16, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Insufficiency</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

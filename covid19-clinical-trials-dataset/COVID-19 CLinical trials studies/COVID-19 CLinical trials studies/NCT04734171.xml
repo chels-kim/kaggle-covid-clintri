@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="852">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04734171</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AAAT0067</org_study_id>
+    <nct_id>NCT04734171</nct_id>
+  </id_info>
+  <brief_title>Social Activity, Loneliness and Stigma During COVID-19 Outbreak</brief_title>
+  <official_title>COVID-19 and Its Implications on Social Activity, Loneliness and Stigma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Columbia University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>New York State Psychiatric Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Columbia University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The overall goal of this study is to evaluate the association of quarantine measures for&#xD;
+      COVID-19 and perceived anxiety, stigma and loneliness and to evaluate the efficacy of&#xD;
+      interventions in reducing anxiety, loneliness and perception of stigma induced by&#xD;
+      self-isolation during the outbreak.&#xD;
+&#xD;
+      Specific Aims:&#xD;
+&#xD;
+      In the proposed study, participants will include members of the United States general&#xD;
+      population who will be randomly assigned to either (a) a vignette to learn about the COVID-19&#xD;
+      outbreak, (b) a vignette to learn about the COVID-19 outbreak AND a video aimed at&#xD;
+      encouraging the use of a digital device (i.e. not in person contact) to meet with friends,&#xD;
+      (c) a vignette to learn about the COVID-19 outbreak AND a video aimed at sensitizing&#xD;
+      participants to COVID-19 related stigma, (d) Control arm. Web-based self-report&#xD;
+      questionnaires will be conducted to compare interventions and control groups. The short and&#xD;
+      low-cost online module will allow recruitment of a large sample of people.&#xD;
+&#xD;
+      Hypotheses:&#xD;
+&#xD;
+      (1) the video-based intervention groups will demonstrate lower rates of anxiety and&#xD;
+      loneliness than vignette and control groups, (2) the video-based group that presents an&#xD;
+      individual with COVID-19 will demonstrate lower rate of stigma than other groups.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Currently, the world is experiencing a Coronavirus outbreak, COVID-19, which originated in&#xD;
+      mainland China in December 2019, spread rapidly to South Korea and Europe, Italy in&#xD;
+      particular, between January and March of 2020 and is currently spreading in all continents&#xD;
+      and has been recognized as a pandemic. It is of high importance to monitor how the trends in&#xD;
+      COVID-19 outbreak are shaping the social contexts and norms across communities and families.&#xD;
+      In a time in which individuals all over the world are experiencing quarantine, it is&#xD;
+      important to evaluate the potential surge of the phenomena of social anxiety, stigma, and of&#xD;
+      perceived fear and loneliness. Furthermore, it is critical to study interventions that aim to&#xD;
+      reduce each of these. The overall goal of this study is to evaluate the association of&#xD;
+      quarantine measures for COVID-19 and perceived anxiety, stigma and loneliness and to evaluate&#xD;
+      the efficacy of interventions in reducing anxiety, loneliness and perception of stigma&#xD;
+      induced by self-isolation during the outbreak. The hypotheses will be tested using ANOVA and&#xD;
+      multinomial logistic regressions. An alpha level of 0.01 will be used to account for multiple&#xD;
+      testing.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">April 2, 2020</start_date>
+  <completion_date type="Actual">April 16, 2020</completion_date>
+  <primary_completion_date type="Actual">April 16, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Factorial Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in total stigma score 2 weeks after the intervention</measure>
+    <time_frame>Baseline and 2 weeks</time_frame>
+    <description>This is designed to measure stigma associated with COVID-19. A continuous variable will be obtained as a sum of questionnaire items ordinal answers (4 questions, score range 4-16, 4 = low stigma, 16 = high stigma) adapted from the HIV stigma validated questionnaire (HIV stigma scale, Berger et al., 2001).&#xD;
+Strongly disagree = 1&#xD;
+Disagree = 2&#xD;
+Agree = 3&#xD;
+Strongly agree = 4&#xD;
+prefer not to answer: missing value</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in total fear score 2 weeks after the intervention</measure>
+    <time_frame>Baseline and 2 weeks</time_frame>
+    <description>This is designed to measure fear associated with COVID-19. A continuous variable will be obtained as a sum of questionnaire items (4 questions, score range 4-16, 4 = low fear, 16 = high fear) addressing fear of contracting COVID-19 and fear of consequences of COVID-19.&#xD;
+Not at all = 1&#xD;
+A bit = 2&#xD;
+Quite a bit = 3&#xD;
+A lot = 4&#xD;
+OR&#xD;
+Strongly disagree = 1&#xD;
+Disagree = 2&#xD;
+Agree = 3&#xD;
+Strongly agree = 4&#xD;
+Prefer not to answer = missing value</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in loneliness ordinal score 2 weeks after the intervention</measure>
+    <time_frame>Baseline and 2 weeks</time_frame>
+    <description>Subjects will answer the following questionnaire item and an ordinal variable will be calculated (1 = low loneliness, 4 = high loneliness):&#xD;
+How lonely do you feel?&#xD;
+Not at all = 1&#xD;
+A bit = 2&#xD;
+Quite a bit = 3&#xD;
+A lot = 4</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in fear of people COVID-19+ ordinal score 2 weeks after the intervention</measure>
+    <time_frame>Baseline and 2 weeks</time_frame>
+    <description>Ordinal variable from the questionnaire item (1 = low fear of people, 4 = high fear of people):&#xD;
+How much are you afraid of people diagnosed with Coronavirus (COVID-19)?&#xD;
+Not at all = 1&#xD;
+A bit = 2&#xD;
+Quite a bit = 3&#xD;
+A lot = 4</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in time spent on internet ordinal score 2 weeks after the intervention</measure>
+    <time_frame>Baseline and 2 weeks</time_frame>
+    <description>Ordinal variable from the questionnaire item time spent on the internet (for leisure or work-related activities) in the past week (averaged in number of hours)(1 = less time, 4 = more time):&#xD;
+&lt;1 h = 1&#xD;
+1h-4h = 2&#xD;
+4h-7h = 3&#xD;
+&gt;7h = 4</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in social activity ordinal score 2 weeks after the intervention</measure>
+    <time_frame>Baseline and 2 weeks</time_frame>
+    <description>Ordinal variable from the questionnaire item on social contact seeking behavior in the past week (How many times did you contact [in person or via video call] your friends/family members over the last week (1 = low social activity, 4 = high social activity)?&#xD;
+0-2 = 1&#xD;
+2-5 = 2&#xD;
+5-7 = 3&#xD;
+more than 7 = 4</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Actual">1200</enrollment>
+  <condition>Covid19</condition>
+  <condition>Fear</condition>
+  <condition>Loneliness</condition>
+  <arm_group>
+    <arm_group_label>Informational sheet (IS)</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>participant receives an informational sheet about COVID-19</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>IS + Video Solo</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>participants an informational sheet about COVID-19 and a 90 seconds video aimed at sensitizing participants to COVID-19 related stigma</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>IS + Video Friends</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>participants an informational sheet about COVID-19 and a 150 seconds video aimed at encouraging the use of a digital device (i.e. not in person contact) to meet with friends.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>No intervention</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Digital social activity video intervention</intervention_name>
+    <description>A 150 seconds video aimed at encouraging the use of a digital device (i.e. not in person contact) to meet with friends during the COVID-19 pandemic. Two friends meet via zoom instead of in person and share their experiencing supporting each other.</description>
+    <arm_group_label>IS + Video Friends</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Informational sheet</intervention_name>
+    <description>An informational sheet to learn about the COVID-19 outbreak (standard).</description>
+    <arm_group_label>IS + Video Friends</arm_group_label>
+    <arm_group_label>IS + Video Solo</arm_group_label>
+    <arm_group_label>Informational sheet (IS)</arm_group_label>
+    <other_name>Vignette</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Stigma awareness video intervention</intervention_name>
+    <description>A video aimed at sensitizing participants to COVID-19 related stigma. A COVID-19 + individual share their experience.</description>
+    <arm_group_label>IS + Video Solo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  At least 18 years old&#xD;
+&#xD;
+          -  Younger than 70 years old&#xD;
+&#xD;
+          -  United States resident&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Less than 18 years old&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Linda Valeri, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Assistant Professor of Biostatistics</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Columbia University</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10025</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>January 29, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 1, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 2, 2021</study_first_posted>
+  <last_update_submitted>February 1, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 1, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 2, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Columbia University</investigator_affiliation>
+    <investigator_full_name>Linda Valeri</investigator_full_name>
+    <investigator_title>Assistant Professor of Biostatistics, Department of Biostatistics</investigator_title>
+  </responsible_party>
+  <keyword>Covid19 related stigma, fear and loneliness</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

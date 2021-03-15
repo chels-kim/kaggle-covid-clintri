@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2369">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04317092</url>
+  </required_header>
+  <id_info>
+    <org_study_id>TOCIVID-19</org_study_id>
+    <secondary_id>2020-001110-38</secondary_id>
+    <nct_id>NCT04317092</nct_id>
+  </id_info>
+  <brief_title>Tocilizumab in COVID-19 Pneumonia (TOCIVID-19)</brief_title>
+  <acronym>TOCIVID-19</acronym>
+  <official_title>Multicenter Study on the Efficacy and Tolerability of Tocilizumab in the Treatment of Patients With COVID-19 Pneumonia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Cancer Institute, Naples</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Cancer Institute, Naples</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study project includes a single-arm phase 2 study and a parallel cohort study, enrolling&#xD;
+      patients with COVID-19 pneumonia.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Phase 2 study: this is a multicenter, single-arm, open-label, phase 2 study. All the patients&#xD;
+      enrolled are treated with tocilizumab. Two-week (14 days) and one-month (30 days) lethality&#xD;
+      rates are the co-primary endpoints.&#xD;
+&#xD;
+      The parallel cohort includes patients who are treated with tocilizumab and cannot enter the&#xD;
+      phase 2 study because:&#xD;
+&#xD;
+        1. emergency conditions or infrastructural or operational limits prevented registration&#xD;
+           before the administration of the experimental drug or&#xD;
+&#xD;
+        2. they had been intubated more than 24 hours before registration or&#xD;
+&#xD;
+        3. the phase 2 study has been closed due to reached sample size.&#xD;
+&#xD;
+      This means that, after closure of the phase 2 enrolment, patients who might be eligible for&#xD;
+      the phase 2 study will be included in the observational cohort study.&#xD;
+&#xD;
+      The same information planned for the phase 2 cohort is required also for the parallel cohort&#xD;
+      study whose sample size is not defined a priori, and that will close at the end of the&#xD;
+      overall project. All the patients enrolled are treated with tocilizumab.&#xD;
+&#xD;
+      In both study groups (phase 2 and parallel cohort), participants receive one dose of&#xD;
+      Tocilizumab 8 mg/kg (up to a maximum of 800mg per dose). A second administration (same dose)&#xD;
+      can be given after 12 hours if respiratory function has not recovered, at discretion of the&#xD;
+      Investigator.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">March 19, 2020</start_date>
+  <completion_date type="Anticipated">December 19, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 19, 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>This is a multicenter, single-arm, open-label, phase 2 study. All the patients enrolled are treated with tocilizumab</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Lethality rate two weeks after registration</measure>
+    <time_frame>up to 15 days</time_frame>
+    <description>2-week lethality is defined as the ratio of the number of subjects dead within 14 days from study start out of phase 2 patients with baseline information.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Lethality rate one month after registration</measure>
+    <time_frame>up to 1 month</time_frame>
+    <description>1-month lethality is defined as the ratio of the number of subjects dead within 30 days from study start out of phase 2 patients with baseline information.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Interleukin-6 level</measure>
+    <time_frame>baseline, during treatment (cycle 1 and 2 every 12 hours) up to 1 month</time_frame>
+    <description>IL-6 levels will be assessed using commercial ELISA method.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lymphocyte count</measure>
+    <time_frame>baseline, during treatment (cycle 1 and 2 every 12 hours) up to 1 month</time_frame>
+    <description>Lymphocyte count assessed by routinely used determination of blood count</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CRP (C-reactive protein) level</measure>
+    <time_frame>baseline, during treatment (cycle 1 and 2 every 12 hours) up to 1 month</time_frame>
+    <description>CRP is assessed by routinely used determination of CRP</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PaO2 (partial pressure of oxygen) / FiO2 (fraction of inspired oxygen, FiO2) ratio (or P/F ratio)</measure>
+    <time_frame>baseline, during treatment (cycle 1 and 2 every 12 hours) up to 1 month</time_frame>
+    <description>calculated from arterial blood gas analyses (values from 300 to 100)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change of the SOFA (Sequential Organ Failure Assessment)</measure>
+    <time_frame>baseline, during treatment (cycle 1 and 2 every 12 hours) up to 1 month</time_frame>
+    <description>It evaluates 6 variables, each representing an organ system (one for the respiratory, cardiovascular, hepatic, coagulation, renal and neurological systems), and scored from 0 (normal) to 4 (high degree of dysfunction/failure). Thus, the maximum score may range from 0 to 24.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with treatment-related side effects as assessed by Common Terminology Criteria for Adverse Event (CTCAE) version 5.0</measure>
+    <time_frame>during treatment and up to 30 days after the last treatment dose</time_frame>
+    <description>graded according to CTCAE citeria (v5.0)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Radiological response</measure>
+    <time_frame>at baseline (optional), after seven days and if clinically indicated (up to 1 month)</time_frame>
+    <description>Thoracic CT scan or Chest XR</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of hospitalization</measure>
+    <time_frame>from baseline up to patient's discharge (up to 1 month)</time_frame>
+    <description>Days of hospitalization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Remission of respiratory symptoms</measure>
+    <time_frame>up to 1 month</time_frame>
+    <description>time to invasive mechanical ventilation (if not previously initiated) calculated from baseline to intubation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Remission of respiratory symptoms</measure>
+    <time_frame>up to 1 month</time_frame>
+    <description>time to definitive extubation calculated from intubation (any time occurred) to extubation in days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Remission of respiratory symptoms</measure>
+    <time_frame>up to 1 month</time_frame>
+    <description>time to independence from non-invasive mechanical ventilation calculated in days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Remission of respiratory symptoms</measure>
+    <time_frame>up to 1 month</time_frame>
+    <description>time to independence from oxygen therapy in days</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">400</enrollment>
+  <condition>COVID-19 Pneumonia</condition>
+  <arm_group>
+    <arm_group_label>tocilizumab treatment</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>All the patients enrolled are treated with tocilizumab.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Tocilizumab Injection</intervention_name>
+    <description>Tocilizumab 8 mg/kg (up to a maximum of 800mg per dose). A second administration (same dose) can be given after 12 hours if respiratory function has not recovered, at discretion of the Investigator.</description>
+    <arm_group_label>tocilizumab treatment</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Any gender&#xD;
+&#xD;
+          2. No age limit&#xD;
+&#xD;
+          3. Informed consent for participation in the study (consent can be oral if a written&#xD;
+             consent cannot be expressed. If the subject is incapable of giving an informed consent&#xD;
+             and an authorized representative is not available without a delay that would, in the&#xD;
+             opinion of the Investigator, compromise the potential life-saving effect of the&#xD;
+             treatment this can be administered without consent. Consent to remain in the research&#xD;
+             should be sought as soon the conditions of the patient will allow it)&#xD;
+&#xD;
+          4. Virological diagnosis of SARS-CoV-2 infection (real-time PCR)&#xD;
+&#xD;
+          5. Hospitalized due to clinical/instrumental diagnosis of pneumonia&#xD;
+&#xD;
+          6. Oxygen saturation at rest in ambient air ≤93% or requiring oxygen therapy or&#xD;
+             mechanical ventilation either non invasive or invasive (intubated)&#xD;
+&#xD;
+          7. Patients with criteria #4 and #5 who have been already treated with tocilizumab before&#xD;
+             registration are eligible for the observational retrospective cohort&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Known hypersensitivity to tocilizumab or its excipients&#xD;
+&#xD;
+          2. Known active infections or other clinical condition that contraindicate tocilizumab&#xD;
+             and cannot be treated or solved according to the judgement of the clinician&#xD;
+&#xD;
+          3. ALT / AST&gt; 5 times the upper limit of the normality&#xD;
+&#xD;
+          4. Neutrophils &lt;500 / mmc&#xD;
+&#xD;
+          5. Platelets &lt;50.000 / mmc&#xD;
+&#xD;
+          6. Bowel diverticulitis or perforation&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Francesco Perrone, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Istituto Nazionale Tumori IRCCS - Fondazione G. Pascale</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliera &quot;SS. Antonio e Biagio e C. Arrigo&quot; (Dipartimento Internistico SSD Reumatologia)</name>
+      <address>
+        <city>Alessandria</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale di Busto Arsizio ASST Valle Olona (U.O.C. Malattie Infettive)</name>
+      <address>
+        <city>Busto Arsizio</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>A.O.U. Policlinico V. Emanuele (U.O. di Malattie infettive, U.O. di Anestesia e Rianimazione, U.O. di Medicina d'Urgenza)</name>
+      <address>
+        <city>Catania</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>AOE Cannizzaro di Catania (U.O. di Malattie Infettive, U.O. di Anestesia e Rianimazione, U.O.</name>
+      <address>
+        <city>Catania</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Annunziata Azienda Ospedaliera di Cosenza (U.O.C. Malattie Infettive)</name>
+      <address>
+        <city>Cosenza</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>ASST OVEST MILANESE presidi Legnano - Magenta</name>
+      <address>
+        <city>Magenta</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliero-Universitaria di Modena</name>
+      <address>
+        <city>Modena</city>
+        <zip>42100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>A.O.U. di Modena (Dipartimento Chirurgie Generali e Specialità Chirurgiche - Struttura Complessa di Anestesia e Rianimazione I)</name>
+      <address>
+        <city>Modena</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>A.O.U. di Modena (Dipartimento Chirurgie Generali e Specialità Chirurgiche - Struttura Complessa di Anestesia e Rianimazione II)</name>
+      <address>
+        <city>Modena</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>A.O.U. di Modena (Dipartimento Medicine Specialistiche - Struttura Complessa Malattie Infettive)</name>
+      <address>
+        <city>Modena</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Dipartimento Medicine Specialistiche - Struttura Complessa Malattie dell'Apparato Respiratorio</name>
+      <address>
+        <city>Modena</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>A.O.R.N. Ospedale dei Colli Monaldi-Cotugno-CTO (U.O.C. Oncologia)</name>
+      <address>
+        <city>Naples</city>
+        <zip>80131</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>National Cancer Institute</name>
+      <address>
+        <city>Naples</city>
+        <zip>80131</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>A.O.R.N. Ospedale dei Colli Monaldi-Cotugno-CTO (U.O.C. Anestesia Rianimazione e terapia intensiva)</name>
+      <address>
+        <city>Naples</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>A.O.R.N. Ospedale dei Colli Monaldi-Cotugno-CTO (U.O.C. Malattie Infettive ad indirizzo respiratorio)</name>
+      <address>
+        <city>Naples</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>A.O. Ospedali Riuniti Marche Nord - Presidio Ospedaliero San Salvatore di Pesaro (UOC Pronto Soccorso e Medicina d'Urgenza)</name>
+      <address>
+        <city>Pesaro</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Denominazione: UOC di Medicina e Chirurgia d'Accettazione e d'Urgenza dell'Ospedale Santa Maria delle Grazie di Pozzuoli</name>
+      <address>
+        <city>Pozzuoli</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Santa Maria delle Croci, AUSL della Romagna (U.O. Anestesia e Rianimazione)</name>
+      <address>
+        <city>Ravenna</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Grande Ospedale Metropolitano, Reggio Calabria</name>
+      <address>
+        <city>Reggio Calabria</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Infermi, AUSL della Romagna (U.O. Malattie Infettive)</name>
+      <address>
+        <city>Rimini</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Policlinico Gemelli (U.O.C. Dipartimento Scienze di Laboratorio e Infettivologiche)</name>
+      <address>
+        <city>Rome</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>ASST Sette Laghi (Dipartimento di Medicina Interna)</name>
+      <address>
+        <city>Varese</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>ASST Sette Laghi (Dipartimento Emergenze ed Urgenze)</name>
+      <address>
+        <city>Varese</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>ASST Sette Laghi (U.O.C. Anestesia e Rianimazione Neurochirurgica e Generale)</name>
+      <address>
+        <city>Varese</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>ASST Sette Laghi (U.O.C. Malattie Infettive e Tropicali)</name>
+      <address>
+        <city>Varese</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>A.O.U. Integrata di Verona (Dip. Malattie Infettive)</name>
+      <address>
+        <city>Verona</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Magalini (U.O. Malattie Infettive)</name>
+      <address>
+        <city>Villafranca Di Verona</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <link>
+    <url>http://usc-intnapoli.net</url>
+    <description>sponsor web-site for study conduction</description>
+  </link>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>March 19, 2020</study_first_submitted>
+  <study_first_submitted_qc>March 19, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 20, 2020</study_first_posted>
+  <last_update_submitted>October 19, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 19, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 22, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>pneumonia</keyword>
+  <keyword>tocilizumab</keyword>
+  <keyword>Interleukin-6</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Data will be shared upon reasonable request to the Principal Investigator of the study&#xD;
+The following IPD will be available for sharing:&#xD;
+Baseline characteristics of patients&#xD;
+Treatment data&#xD;
+Safety data&#xD;
+Follow-up data</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>After peer-reviewed publication of the primary results, with no time limits</ipd_time_frame>
+    <ipd_access_criteria>Motivated requests to access to IPD are to be sent by email to the Principal Investigator (f.perrone@istitutotumori.na.it)</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

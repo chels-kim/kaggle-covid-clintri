@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2987">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04659304</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ENX-CL-03-001</org_study_id>
+    <nct_id>NCT04659304</nct_id>
+  </id_info>
+  <brief_title>Study Evaluating Safety, Tolerability and Efficacy of Allocetra-OTS in Patients With COVID-19</brief_title>
+  <official_title>A Multi-Center Study, Placebo-Controlled, Evaluating Safety, Tolerability and Efficacy of Different Doses and Regimens of Allocetra-OTS in Patients With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Enlivex Therapeutics Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Enlivex Therapeutics Ltd.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Phase 1b, multi-center, single-blinded, randomized, placebo-controlled study, evaluating&#xD;
+      safety, tolerability and efficacy of different doses and regimens of Allocetra-OTS, in up to&#xD;
+      50 adult patients with critical COVID-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Potential patients, who will be identified as suffering from critical COVID-19 (NIH&#xD;
+      classification), will be recruited.&#xD;
+&#xD;
+      After the patient has signed the Informed Consent Form (ICF), and after confirmation that the&#xD;
+      patient meets all eligibility criteria, the patient will be randomized to one of the 4&#xD;
+      treatment groups: Placebo, Single Intravenous (IV) dose of Allocetra-OTS with 5x10^9 cells,&#xD;
+      Single Intravenous (IV) dose of Allocetra-OTS with 10x10^9 cells, Two IV doses of&#xD;
+      Allocetra-OTS with10x10^9 cells each dose (separated by 72 hours).&#xD;
+&#xD;
+      50 patients will be randomized in a 2:1:1:1 ratio between the 4 cohorts. Investigational&#xD;
+      Product (IP) administration will occur on Day 1 within 24±6 hours from the time of&#xD;
+      eligibility.&#xD;
+&#xD;
+      Following IP administration (Day 1), patients will be followed for safety and efficacy&#xD;
+      assessments through 28 days.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 2021</start_date>
+  <completion_date type="Anticipated">March 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>parallel randomization in a 2:1:1:1 ratio between the 4 cohorts (20 patients in the placebo and 10 patients in each of the other cohorts)</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Participant)</masking>
+    <masking_description>The patients will be blinded to the assigned study intervention throughout the course of the study. In order to maintain the single blind, study intervention infusion bag and infusion line will be covered. study personal will be unblinded.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Safety - Adverse Events</measure>
+    <time_frame>28 days</time_frame>
+    <description>Number and severity of Adverse Events (AEs) and Serious Adverse Events (SAEs).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Efficacy - PaO2 or SO2/FiO2 Ratio</measure>
+    <time_frame>28 days</time_frame>
+    <description>Change in PaO2 or SO2/FiO2 Ratio</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Efficacy - SOFA score</measure>
+    <time_frame>7 days</time_frame>
+    <description>Change from baseline in Sequential Organ Failure Assessment (SOFA) score</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Efficacy - mortality</measure>
+    <time_frame>28 days</time_frame>
+    <description>All-cause mortality</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Efficacy - organ function / support measurements</measure>
+    <time_frame>28 days</time_frame>
+    <description>Oxygen free days, vasopressors free days, cumulative days in ICU or IMU</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Cohort 1</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Ringer's lactate solution</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 2</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Single Intravenous (IV) dose of Allocetra-OTS with 5x10^9 cells</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 3</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Single Intravenous (IV) dose of Allocetra-OTS with 10x10^9 cells</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 4</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Two IV doses of Allocetra-OTS with 10x10^9 cells in each dose</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Allocetra-OTS</intervention_name>
+    <description>Cell-based therapy comprised of allogeneic non-HLA matched peripheral blood mononuclear cells induced to an early apoptotic state.</description>
+    <arm_group_label>Cohort 2</arm_group_label>
+    <arm_group_label>Cohort 3</arm_group_label>
+    <arm_group_label>Cohort 4</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Ringer's lactate</intervention_name>
+    <description>solution</description>
+    <arm_group_label>Cohort 1</arm_group_label>
+    <other_name>Placebo</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Male and female &gt; 18 and &lt; 80 years of age.&#xD;
+&#xD;
+          2. Laboratory confirmation of SARS-CoV-2 infection by RT-PCR from any diagnostic sampling&#xD;
+             source.&#xD;
+&#xD;
+          3. Patients classified according to NIH severity classification as:&#xD;
+&#xD;
+             Critical illness: Individuals who have respiratory failure, and/or septic shock,&#xD;
+             and/or multiple organ dysfunction&#xD;
+&#xD;
+          4. Signed written informed consent by the patient.&#xD;
+&#xD;
+          5. Women and men who are of childbearing potential, willing to use acceptable&#xD;
+             contraceptive measures for the entire study duration.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Women who are pregnant or breast feeding.&#xD;
+&#xD;
+          2. Stage 4 severe chronic kidney disease, i.e., eGFR &lt; 30 ml/min (including patients&#xD;
+             receiving hemodialysis or hemofiltration)&#xD;
+&#xD;
+          3. Patients with active malignant tumor, and/or other serious systemic diseases.&#xD;
+&#xD;
+          4. Patients who are participating in other concurrent investigational clinical trials or&#xD;
+             have been treated with any experimental agents within 30 days prior to enrollment.&#xD;
+&#xD;
+          5. Co-infection of HIV, tuberculosis.&#xD;
+&#xD;
+          6. Known immunocompromised state or medications known to be immunosuppressive (i.e.,&#xD;
+             immune suppressing agents including chronic corticosteroids &gt; 10 mg/day, azathioprine,&#xD;
+             cyclosporine, cyclophosphamide)&#xD;
+&#xD;
+          7. Patients with PaO2/FiO2 (P/F) or SpO2/FiO2 (S/F) ratio of &lt;150&#xD;
+&#xD;
+          8. Patients on mechanical ventilation.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Oren Hershkovitz, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Enlivex Therapeutics R&amp;D</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Odelia Ben Shitrit, MBA</last_name>
+    <phone>972-548887609</phone>
+    <email>odelia@enlivexpharm.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Lior Binder</last_name>
+    <phone>972-548054899</phone>
+    <email>lior@enlivexpharm.com</email>
+  </overall_contact_backup>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>December 7, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 8, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 9, 2020</study_first_posted>
+  <last_update_submitted>December 8, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 8, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 10, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Cell therapy</keyword>
+  <keyword>Allocetra-OTS</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Patient data will not contain any information which would make the patient identifiable. Data will be processes and shared using patient study number only.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

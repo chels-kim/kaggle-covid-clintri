@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="177">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04596098</url>
+  </required_header>
+  <id_info>
+    <org_study_id>38RC20.132</org_study_id>
+    <secondary_id>2020-A00904-35</secondary_id>
+    <nct_id>NCT04596098</nct_id>
+  </id_info>
+  <brief_title>Immune Responses to COVID-19; Isolation of Neutralizing Antibodies for Therapeutics and Vaccine.</brief_title>
+  <acronym>AcNT-COVID19</acronym>
+  <official_title>Immune Responses to COVID-19 (SARS-CoV-2 Related Infection); Isolation of Human Neutralizing Monoclonal Antibodies for Therapeutics and Vaccine Design Approaches: a Prospective Monocentric Trial With Collaborative Sample Collection.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Grenoble</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Commissariat A L'energie Atomique</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University Hospital, Grenoble</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      According to different projections, the COVID-19 outbreak currently happening in France and&#xD;
+      worldwide could result in millions of deaths in the absence of efficient therapies. The&#xD;
+      COVID-19 causative agent, the SARS-CoV-2, is a virus leading to respiratory system infections&#xD;
+      in human and for which there is currently no vaccine or treatment scientifically validated in&#xD;
+      clinical studies.&#xD;
+&#xD;
+      In that context, therapeutic human neutralizing antibodies targeting the SARS-CoV-2 envelop&#xD;
+      glycoproteins and which enable inhibition of the viral replication represent an innovative&#xD;
+      therapeutic alternative with great potential. These antibodies are also critical tools for&#xD;
+      vaccine development.&#xD;
+&#xD;
+      Simultaneously, CHUGA researchers coordinate with each other to set up a collective&#xD;
+      biological collection to achieve others objectives such as biomarkers identifications.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      A RELIRE PAR PASCAL POIGNARD&#xD;
+&#xD;
+        1. CURRENT KNOWLEDGE ABOUT THE PATHOLOGY&#xD;
+&#xD;
+           Coronaviruses are a large family whose members share a tropism for epitheliums. They are&#xD;
+           usually responsible of ordinary and frequent infections in humans, with acute and&#xD;
+           limited inflammation of the respiratory tract. The fact that they are RNA viruses (which&#xD;
+           confers them an important plasticity), and that some types infect animals and others&#xD;
+           infect human, explain that they may be a source of new human diseases arising from&#xD;
+           animal strains. This is how two Coronavirus outbreaks spreading in several countries&#xD;
+           emerged in the past years: The Severe Acute Respiratory Syndrome (SARS), in 2003; and&#xD;
+           the Middle East Respiratory Syndrome (MERS) in 2012. In January 2020, another&#xD;
+           coronavirus outbreak has been described: the COVID-19 outbreak, related to the&#xD;
+           SARS-CoV-2.&#xD;
+&#xD;
+           The disease mentioned as coronavirus disease 2019 (COVID-19) has been detected for the&#xD;
+           first time in China in December 2019; a first case cluster was strongly related to a&#xD;
+           live-animal market, suggesting an animal origin; the following descriptions did clearly&#xD;
+           established a human-to-human transmission, with a reproduction number (R0) between 2.5&#xD;
+           and 3.5. Some scientific publications described potential contaminations by asymptomatic&#xD;
+           subjects. While China finally managed to record a great decrease in the number of daily&#xD;
+           cases (82,241 total cases with 3,309 deaths on the 31st March 2020), the epidemic&#xD;
+           rapidly reached many other countries. In France, several sites of active virus&#xD;
+           circulation (l'Oise, Mulhouse, la Haute-Savoie) finally led to an important development&#xD;
+           of the epidemic in France (44,450 cases with 3,024 deaths on March 31st 2020).&#xD;
+&#xD;
+           The disease consists in a pneumonia reminding of the Acute Respiratory Distress Syndrome&#xD;
+           (ARDS) in several aspects; after a 5 days median incubation time, symptoms develops with&#xD;
+           cough which can be febrile/feverish, and which can evolve/develop towards dyspnea, and&#xD;
+           in some instance towards ARDS after 7 to 10 days of evolution. If the first&#xD;
+           epidemiological descriptions stated a high proportion of severe cases (more than 33%), a&#xD;
+           study including more than 70,000 cases then suggested that 15% cases were severe/marked,&#xD;
+           and 5% critical; however, it is likely that asymptomatic or little symptomatic cases can&#xD;
+           be numerous, according to new studies. To date, no curative antiviral treatment&#xD;
+           demonstrated clinical efficacy but many clinical trials are ongoing. This disease is a&#xD;
+           problem for the healthcare system for two reasons: its contagiousness (which require&#xD;
+           major social distancing measures) and its morbidity (which paralyze the healthcare&#xD;
+           system by requiring too much ICU hospitalization).&#xD;
+&#xD;
+        2. IMMUNE RESPONSES IN COVID-19 STATE OF ART:&#xD;
+&#xD;
+           The main aim of this study is therefore to explore the antibody responses in SARS-CoV-2&#xD;
+           infection and in fine identify and then produce neutralizing monoclonal antibodies for&#xD;
+           therapeutic and vaccine use.&#xD;
+&#xD;
+           In SARS infected patients, antibody responses appears usually early, in the two weeks&#xD;
+           following the first symptoms and last for at least 16 months after the disease&#xD;
+           beginning. Neutralizing responses appear early too, but tend to wane quickly after 16&#xD;
+           months. Interestingly, it has been shown that antibodies targeting SARS-CoV are able to&#xD;
+           neutralize SARS-CoV-2, suggesting the existence of neutralizing antibodies (3). This&#xD;
+           could be explained by the relatively high conservation between the two viruses envelop&#xD;
+           glycoproteins (about 77% of sequence homology, a very similar structure and the use of&#xD;
+           the same cellular receptor ACE2), which are the targets of neutralizing antibodies.&#xD;
+           During MERS-CoV infection, it has also been showed that antibody responses appear in the&#xD;
+           second week of infection and last during at least 18 months. A neutralizing response&#xD;
+           anti-MERS-CoV has been described: the viral load of patients being inversely&#xD;
+           proportional to the neutralizing Ab levels. Those neutralizing antibodies alone are not&#xD;
+           sufficient for infection clearance (4). Interestingly, the protective antibody response&#xD;
+           against other coronaviruses as OC43 and 229E seems much more of limited in time (5).&#xD;
+&#xD;
+           A characterization of the antibody response during COVID-19, especially the neutralizing&#xD;
+           activity, is important for the progress it will allow:&#xD;
+&#xD;
+             -  To understand the nature and duration of the potentially protective humoral&#xD;
+                response during and following the infection by SARS-CoV-2&#xD;
+&#xD;
+             -  To study the evolution of IgM and IgG antibody responses against SARS-CoV-2 surface&#xD;
+                glycoproteins, especially the spike protein (SARS2-S)&#xD;
+&#xD;
+             -  To study neutralizing antibody responses evolution. Indeed, it is essential to&#xD;
+                better understand in what extend a strong humoral immunity is generated in all&#xD;
+                infected patients, if this response varies accordingly to the infection severity&#xD;
+                and duration.&#xD;
+&#xD;
+             -  To screen patients' sera looking for individuals showing high neutralization titers&#xD;
+                and perhaps for neutralizing antibodies against different coronaviruses. It is&#xD;
+                essential to understand if some patients can produce neutralizing antibodies, able&#xD;
+                to neutralize different coronaviruses.&#xD;
+&#xD;
+             -  To study the existence of a potential viral infection facilitation by antibodies.&#xD;
+                Indeed, the increase of infectivity mediated by antibodies has been described for&#xD;
+                other coronaviruses and could the vaccine development more challenging (6).&#xD;
+&#xD;
+           Following this characterization, the investigators will be able to isolate human&#xD;
+           monoclonal antibodies from selected patients. Antibody isolation could notably enable&#xD;
+           therapeutic and vaccine approaches in the future, to treat and prevent not only the&#xD;
+           COVID-19, but also other already existing coronavirus infections or in case of a new&#xD;
+           coronavirus outbreak.&#xD;
+&#xD;
+           Thus, the most promising monoclonal antibodies (high affinity, high neutralizing&#xD;
+           capacity) will be selected and optimized for a future development as therapeutic agent&#xD;
+           (lead compounds).&#xD;
+&#xD;
+           In fine, the investigators will be able to use isolated monoclonal antibodies as tools&#xD;
+           in structural approaches for the neutralization epitopes determination and the&#xD;
+           development of vaccine approaches (reverse vaccinology).&#xD;
+&#xD;
+           In order to isolate human monoclonal antibodies in individuals selected for their&#xD;
+           humoral response of interest, the specific IgG positive memory B cells bearing&#xD;
+           antibodies against the selected targets at their surface, are sorted by flow cytometry.&#xD;
+           As part of this project, B cells producing antibodies recognizing SARS-2-S biotinylated&#xD;
+           recombinant proteins conjugated to fluorochrome-labelled streptavidin will be sorted.&#xD;
+           These proteins are produced by transfection of 293F cells and are then purified. An&#xD;
+           alternative strategy consists in activating B cells and screening supernatants for the&#xD;
+           presence of specific neutralizing antibodies in micro-neutralization assays involving&#xD;
+           for example the use of viruses pseudotyped with SARS-2-S. After identifying the specific&#xD;
+           B cells, the immunoglobulin genes of interest will be amplified by PCR from clonal cell&#xD;
+           in order to identify the heavy and light (lambda or kappa) chains, accordingly to&#xD;
+           methods previously used for the isolation of antibodies against HIV (7-10).&#xD;
+&#xD;
+           Amplified heavy and light chains are subsequently cloned in expression vector by&#xD;
+           homologous recombination. The corresponding antibodies are produced by 293F cell&#xD;
+           transfection with the appropriate combination of heavy and light chains. After&#xD;
+           purification and reactivity testing against SARS-2-S protein, we'll evaluate&#xD;
+           neutralizing function to identify and prioritize the candidates for a deeper&#xD;
+           characterization in order to identify lead compounds.&#xD;
+&#xD;
+        3. BIOMARKERS:&#xD;
+&#xD;
+           In addition, the investigators aim to explore the other immunity players, immune cells,&#xD;
+           complement and cytokines, with the aim of identifying predictive biomarkers of a poor&#xD;
+           prognosis. These lab analyses could be able to predict poor prognosis ad could&#xD;
+           contribute to adapt medical care.&#xD;
+&#xD;
+           The investigations will include:&#xD;
+&#xD;
+             -  T, B and NK lymphocytes subpopulation and monocyte HLA-DR subpopulation studied by&#xD;
+                flow cytometry.&#xD;
+&#xD;
+             -  the study of complement system (C3, C4, CH50 &amp; CH50a).&#xD;
+&#xD;
+             -  the study of cytokines ant notably the measurement of IL-6 and IL-10 at Days 1, 3&#xD;
+                and 7 of patient hospitalization.&#xD;
+&#xD;
+        4. RESEARCH HYPOTHESIS AND EXPECTED RESULTS The investigators will be able to monitor&#xD;
+           antibody responses targeting the envelop glycoproteins of SARS-CoV-2 and identify&#xD;
+           subjects showing an immune response with high titers of neutralizing antibodies&#xD;
+           targeting SARS-CoV-2. This will allow the isolation of monoclonal antibodies from&#xD;
+           patients' memory B lymphocytes for therapeutic and vaccine purposes.&#xD;
+&#xD;
+           Moreover, the immunity investigation in COVID-19 patients will enable the identification&#xD;
+           of severity and worsening biomarkers.&#xD;
+&#xD;
+        5. RESEARCH CONDUCT&#xD;
+&#xD;
+      The selection is achieved based on the medical record for every patient:&#xD;
+&#xD;
+        -  who had a positive diagnostic result of COVID-19 RT-PCR&#xD;
+&#xD;
+        -  hospitalized for less than 48h at the CHUGA and who have symptoms resulting from the&#xD;
+           infection.&#xD;
+&#xD;
+      It is followed by an inclusion visit during which an investigating doctor clinically examines&#xD;
+      the patient.&#xD;
+&#xD;
+      This doctor checks the inclusion and non-inclusion criteria, exposes the trial to the patient&#xD;
+      and collects the patient non-opposition and sampling consent (Appendix 2). It is followed by&#xD;
+      the biological tests related to care, to research and to data collection (see §7.3)&#xD;
+&#xD;
+      The follow-up visits (visits 2 to 8 from day 3 to day 30) happen as established in the study&#xD;
+      calendar over the month following inclusion. An investigating doctor clinically examines the&#xD;
+      patient, a nurse then does blood sampling related to care and research (biomarkers at day 1,&#xD;
+      3 and 7 and biological collection on day 1, 3, 7, 13, last hospitalization day) and a&#xD;
+      clinical research assistant does data collection. The blood sample (serum and peripheral&#xD;
+      mononuclear blood cells from day 1, 13, last hospitalization day) are the samples necessary&#xD;
+      for the primary criteria of this study.&#xD;
+&#xD;
+      The visits subsequent to day 7 (visits 5 to 8) only occur if the patient is still&#xD;
+      hospitalized. In other words, the end of the hospitalization stay establishes the end of the&#xD;
+      study for group A.&#xD;
+&#xD;
+      An optional visit can take place for group b patients. It happens 2 to 6 months after&#xD;
+      inclusion when the patient is regularly followed up at the CHUGA and when a visit with blood&#xD;
+      sampling is scheduled which would enable the collection of useful samples for the research.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 30, 2020</start_date>
+  <completion_date type="Anticipated">September 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Isolation of recombinant monoclonal neutralizing antibodies directed against SARS-CoV-2, isolated from COVID19 hospitalized patients blood probes.</measure>
+    <time_frame>From all blood sampling with serum (visit 1 at Day1, visit 6 at Day13 or, in b-group, visit 9 occuring between month 2 and month 6).</time_frame>
+    <description>Step 1 : Measurement of the monoclonal antibody concentration inhibiting 50% of the target cells infection (IC 50%) via a VSV virus pseudotyped with SARS-CoV-2 envelope glycoproteins. Neutralizing activity is defined with an IC 50 below 50 ug/ml.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Isolation of recombinant monoclonal neutralizing antibodies directed against SARS-CoV-2, isolated from COVID19 hospitalized patients blood probes.</measure>
+    <time_frame>From patient and time frame identified in step 1 described above.</time_frame>
+    <description>STEP 2 : Ability to produce monoclonal recombinant antibodies anti-SARS-CoV-2 from memory B cell (fundamental outcome : yes/no)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Description of biological biomarkers (cytokine, IL6) predictive of worsening</measure>
+    <time_frame>day 1</time_frame>
+    <description>Blood biomarkers (IL6 in ng/L measured by flow cytometry immuno-analysis) from day 1 of hospitalization will be evaluated as potential biomarker related to worsening (defined as patient transfer to ICU or death).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Description of biological biomarkers (cytokine, IL10) predictive of worsening</measure>
+    <time_frame>day 1</time_frame>
+    <description>Blood biomarkers (IL10 in ng/L measured by flow cytometry immuno-analysis) from day 1 of hospitalization will be evaluated as potential biomarker related to worsening (defined as patient transfer to ICU or death).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Description of biological biomarkers (Cellular immune responses, lymphocytes) predictive of worsening</measure>
+    <time_frame>day 1</time_frame>
+    <description>Blood biomarkers (Lymphocytes sub-populations in G/L measured by flow cytometry) from day 1 of hospitalization will be evaluated as potential biomarker related to worsening (defined as patient transfer to ICU or death).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Description of biological biomarkers (Cellular immune responses, monocytes) predictive of worsening</measure>
+    <time_frame>day 1</time_frame>
+    <description>Blood biomarkers (Monocytic HLA-DR in G/L measured by flow cytometry) from day 1 of hospitalization will be evaluated as potential biomarker related to worsening (defined as patient transfer to ICU or death).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Description of biological biomarkers (complement system, CH50) predictive of worsening</measure>
+    <time_frame>day 1</time_frame>
+    <description>Blood biomarkers (CH50 in % measured by spectrophotometry) from day 1 of hospitalization will be evaluated as potential biomarker related to worsening (defined as patient transfer to ICU or death).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Description of biological biomarkers (complement system, CH50a) predictive of worsening</measure>
+    <time_frame>day 1</time_frame>
+    <description>Blood biomarkers (CH50a in % measured by spectrophotometry) from day 1 of hospitalization will be evaluated as potential biomarker related to worsening (defined as patient transfer to ICU or death).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Description of biological biomarkers (complement system, C3) predictive of worsening</measure>
+    <time_frame>day 1</time_frame>
+    <description>Blood biomarkers (C3 in mg/L measured by nephelometry) from day 1 of hospitalization will be evaluated as potential biomarker related to worsening (defined as patient transfer to ICU or death).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Description of biological biomarkers (complement system, C4) predictive of worsening</measure>
+    <time_frame>day 1</time_frame>
+    <description>Blood biomarkers (C4 in mg/L measured by nephelometry) from day 1 of hospitalization will be evaluated as potential biomarker related to worsening (defined as patient transfer to ICU or death).</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>SARS-CoV 2</condition>
+  <arm_group>
+    <arm_group_label>Group A</arm_group_label>
+    <description>Patient hospitalized in Grenoble University Hospital for CoViD19. Patient not previously followed in Grenoble University Hospital for a chronic disease.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group B</arm_group_label>
+    <description>Patient hospitalized in Grenoble University Hospital for CoViD19. Patient followed in Grenoble University Hospital for a chronic disease.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Blood sampling</intervention_name>
+    <description>During a care-related blood sampling, patient will provide additional blood sample for research purpuse.</description>
+    <arm_group_label>Group A</arm_group_label>
+    <arm_group_label>Group B</arm_group_label>
+    <other_name>Biological collection</other_name>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Blood : serum, plasma, PBMC (Peripheral blood mononuclear cell )&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients hospitalized in Grenoble University hospital for a COVID-19 infection for less&#xD;
+        than 48 hours (who is not already included in a study and consent to AcNT study).&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Man or woman over 18 years old hospitalized in Grenoble University hospital for a&#xD;
+             COVID-19 infection for less than 48 hours,&#xD;
+&#xD;
+          -  Symptomatic patient with an estimated hospitalization period over 7 days and requiring&#xD;
+             regular blood sampling,&#xD;
+&#xD;
+          -  Patient weighing more than 60 kg.&#xD;
+&#xD;
+          -  Patient who has given his non-opposition/consent for AcNT study.&#xD;
+&#xD;
+          -  Patient affiliated toFrench Social Security System.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patient non able to consent (such as intubated patient in ICU)&#xD;
+&#xD;
+          -  Patient protected by the French law (defined as: minor, pregnant or breastfeeding&#xD;
+             woman, patient under curatorship, patient deprived of liberty or hospitalized against&#xD;
+             his/her will)&#xD;
+&#xD;
+          -  Patient already included in a clinical trial involving substantial blood sampling&#xD;
+             (over 20mL a day or over 150mL a month).&#xD;
+&#xD;
+          -  Patient whose medical condition is not compatible with the trial (impossibility to&#xD;
+             consent, intensive case unit, anaemia with haemoglobin under 10g/dl… )&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Pascal POIGNARD, PHD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University Hospital, Grenoble</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Pascal POIGNARD, PHD</last_name>
+    <phone>+33 4 76 76 56 04</phone>
+    <email>ppoignard@chu-grenoble.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Benjamin NEMOZ, PHD</last_name>
+    <phone>+33 4 76 76 56 04</phone>
+    <email>BNemoz1@chu-grenoble.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>UniversityGrenobleHospital</name>
+      <address>
+        <city>Grenoble</city>
+        <zip>38043</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Pierre AUDOIN, engineer</last_name>
+      <phone>+33668082241</phone>
+      <email>paudoin@chu-grenoble.fr</email>
+    </contact>
+    <contact_backup>
+      <last_name>Djamila DURIN, engineer</last_name>
+      <phone>+33476769598</phone>
+      <email>DDurin@chu-grenoble.fr</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <reference>
+    <citation>Zhao J, Yuan Q, Wang H, Liu W, Liao X, Su Y, Wang X, Yuan J, Li T, Li J, Qian S, Hong C, Wang F, Liu Y, Wang Z, He Q, Li Z, He B, Zhang T, Fu Y, Ge S, Liu L, Zhang J, Xia N, Zhang Z. Antibody Responses to SARS-CoV-2 in Patients With Novel Coronavirus Disease 2019. Clin Infect Dis. 2020 Nov 19;71(16):2027-2034. doi: 10.1093/cid/ciaa344.</citation>
+    <PMID>32221519</PMID>
+  </reference>
+  <reference>
+    <citation>Haveri A, Smura T, Kuivanen S, Österlund P, Hepojoki J, Ikonen N, Pitkäpaasi M, Blomqvist S, Rönkkö E, Kantele A, Strandin T, Kallio-Kokko H, Mannonen L, Lappalainen M, Broas M, Jiang M, Siira L, Salminen M, Puumalainen T, Sane J, Melin M, Vapalahti O, Savolainen-Kopra C. Serological and molecular findings during SARS-CoV-2 infection: the first case study in Finland, January to February 2020. Euro Surveill. 2020 Mar;25(11). doi: 10.2807/1560-7917.ES.2020.25.11.2000266.</citation>
+    <PMID>32209163</PMID>
+  </reference>
+  <reference>
+    <citation>Tai W, He L, Zhang X, Pu J, Voronin D, Jiang S, Zhou Y, Du L. Characterization of the receptor-binding domain (RBD) of 2019 novel coronavirus: implication for development of RBD protein as a viral attachment inhibitor and vaccine. Cell Mol Immunol. 2020 Jun;17(6):613-620. doi: 10.1038/s41423-020-0400-4. Epub 2020 Mar 19.</citation>
+    <PMID>32203189</PMID>
+  </reference>
+  <reference>
+    <citation>Alshukairi AN, Khalid I, Ahmed WA, Dada AM, Bayumi DT, Malic LS, Althawadi S, Ignacio K, Alsalmi HS, Al-Abdely HM, Wali GY, Qushmaq IA, Alraddadi BM, Perlman S. Antibody Response and Disease Severity in Healthcare Worker MERS Survivors. Emerg Infect Dis. 2016 Jun;22(6). doi: 10.3201/eid2206.160010.</citation>
+    <PMID>27192543</PMID>
+  </reference>
+  <reference>
+    <citation>Liu W, Fontanet A, Zhang PH, Zhan L, Xin ZT, Baril L, Tang F, Lv H, Cao WC. Two-year prospective study of the humoral immune response of patients with severe acute respiratory syndrome. J Infect Dis. 2006 Mar 15;193(6):792-5. Epub 2006 Feb 9.</citation>
+    <PMID>16479513</PMID>
+  </reference>
+  <reference>
+    <citation>Tetro JA. Is COVID-19 receiving ADE from other coronaviruses? Microbes Infect. 2020 Mar;22(2):72-73. doi: 10.1016/j.micinf.2020.02.006. Epub 2020 Feb 22.</citation>
+    <PMID>32092539</PMID>
+  </reference>
+  <reference>
+    <citation>Walker LM, Phogat SK, Chan-Hui PY, Wagner D, Phung P, Goss JL, Wrin T, Simek MD, Fling S, Mitcham JL, Lehrman JK, Priddy FH, Olsen OA, Frey SM, Hammond PW; Protocol G Principal Investigators, Kaminsky S, Zamb T, Moyle M, Koff WC, Poignard P, Burton DR. Broad and potent neutralizing antibodies from an African donor reveal a new HIV-1 vaccine target. Science. 2009 Oct 9;326(5950):285-9. doi: 10.1126/science.1178746. Epub 2009 Sep 3.</citation>
+    <PMID>19729618</PMID>
+  </reference>
+  <reference>
+    <citation>Walker LM, Huber M, Doores KJ, Falkowska E, Pejchal R, Julien JP, Wang SK, Ramos A, Chan-Hui PY, Moyle M, Mitcham JL, Hammond PW, Olsen OA, Phung P, Fling S, Wong CH, Phogat S, Wrin T, Simek MD; Protocol G Principal Investigators, Koff WC, Wilson IA, Burton DR, Poignard P. Broad neutralization coverage of HIV by multiple highly potent antibodies. Nature. 2011 Sep 22;477(7365):466-70. doi: 10.1038/nature10373.</citation>
+    <PMID>21849977</PMID>
+  </reference>
+  <reference>
+    <citation>MacLeod DT, Choi NM, Briney B, Garces F, Ver LS, Landais E, Murrell B, Wrin T, Kilembe W, Liang CH, Ramos A, Bian CB, Wickramasinghe L, Kong L, Eren K, Wu CY, Wong CH; IAVI Protocol C Investigators &amp; The IAVI African HIV Research Network, Kosakovsky Pond SL, Wilson IA, Burton DR, Poignard P. Early Antibody Lineage Diversification and Independent Limb Maturation Lead to Broad HIV-1 Neutralization Targeting the Env High-Mannose Patch. Immunity. 2016 May 17;44(5):1215-26. doi: 10.1016/j.immuni.2016.04.016.</citation>
+    <PMID>27192579</PMID>
+  </reference>
+  <reference>
+    <citation>Landais E, Murrell B, Briney B, Murrell S, Rantalainen K, Berndsen ZT, Ramos A, Wickramasinghe L, Smith ML, Eren K, de Val N, Wu M, Cappelletti A, Umotoy J, Lie Y, Wrin T, Algate P, Chan-Hui PY, Karita E; IAVI Protocol C Investigators; IAVI African HIV Research Network, Ward AB, Wilson IA, Burton DR, Smith D, Pond SLK, Poignard P. HIV Envelope Glycoform Heterogeneity and Localized Diversity Govern the Initiation and Maturation of a V2 Apex Broadly Neutralizing Antibody Lineage. Immunity. 2017 Nov 21;47(5):990-1003.e9. doi: 10.1016/j.immuni.2017.11.002.</citation>
+    <PMID>29166592</PMID>
+  </reference>
+  <reference>
+    <citation>Zheng M, Gao Y, Wang G, Song G, Liu S, Sun D, Xu Y, Tian Z. Functional exhaustion of antiviral lymphocytes in COVID-19 patients. Cell Mol Immunol. 2020 May;17(5):533-535. doi: 10.1038/s41423-020-0402-2. Epub 2020 Mar 19.</citation>
+    <PMID>32203188</PMID>
+  </reference>
+  <reference>
+    <citation>Gralinski LE, Sheahan TP, Morrison TE, Menachery VD, Jensen K, Leist SR, Whitmore A, Heise MT, Baric RS. Complement Activation Contributes to Severe Acute Respiratory Syndrome Coronavirus Pathogenesis. mBio. 2018 Oct 9;9(5). pii: e01753-18. doi: 10.1128/mBio.01753-18.</citation>
+    <PMID>30301856</PMID>
+  </reference>
+  <reference>
+    <citation>Qin C, Zhou L, Hu Z, Zhang S, Yang S, Tao Y, Xie C, Ma K, Shang K, Wang W, Tian DS. Dysregulation of Immune Response in Patients With Coronavirus 2019 (COVID-19) in Wuhan, China. Clin Infect Dis. 2020 Jul 28;71(15):762-768. doi: 10.1093/cid/ciaa248.</citation>
+    <PMID>32161940</PMID>
+  </reference>
+  <reference>
+    <citation>Lin L, Lu L, Cao W, Li T. Hypothesis for potential pathogenesis of SARS-CoV-2 infection-a review of immune changes in patients with viral pneumonia. Emerg Microbes Infect. 2020 Dec;9(1):727-732. doi: 10.1080/22221751.2020.1746199.</citation>
+    <PMID>32196410</PMID>
+  </reference>
+  <reference>
+    <citation>Saylor C, Dadachova E, Casadevall A. Monoclonal antibody-based therapies for microbial diseases. Vaccine. 2009 Dec 30;27 Suppl 6:G38-46. doi: 10.1016/j.vaccine.2009.09.105. Review.</citation>
+    <PMID>20006139</PMID>
+  </reference>
+  <reference>
+    <citation>Casadevall A. Antibody-based vaccine strategies against intracellular pathogens. Curr Opin Immunol. 2018 Aug;53:74-80. doi: 10.1016/j.coi.2018.04.011. Epub 2018 Apr 25. Review.</citation>
+    <PMID>29704764</PMID>
+  </reference>
+  <reference>
+    <citation>Stadlbauer D, Amanat F, Chromikova V, Jiang K, Strohmeier S, Arunkumar GA, Tan J, Bhavsar D, Capuano C, Kirkpatrick E, Meade P, Brito RN, Teo C, McMahon M, Simon V, Krammer F. SARS-CoV-2 Seroconversion in Humans: A Detailed Protocol for a Serological Assay, Antigen Production, and Test Setup. Curr Protoc Microbiol. 2020 Jun;57(1):e100. doi: 10.1002/cpmc.100.</citation>
+    <PMID>32302069</PMID>
+  </reference>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>July 30, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 20, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 22, 2020</study_first_posted>
+  <last_update_submitted>January 14, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 14, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 15, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Coronavirus Infection</keyword>
+  <keyword>Neutralizing monoclonal antibodies</keyword>
+  <keyword>antibodies/development</keyword>
+  <keyword>biomarkers/blood</keyword>
+  <keyword>biomarkers/immunology</keyword>
+  <keyword>SARS-CoV 2</keyword>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>All investigators should have submitted their first publication before study board deciding to share individual participant data.&#xD;
+Furthermore, sharing individual participant data require a contract according to RGPD law.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

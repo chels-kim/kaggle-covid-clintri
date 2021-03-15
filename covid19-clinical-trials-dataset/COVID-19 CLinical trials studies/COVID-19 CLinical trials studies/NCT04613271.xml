@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2890">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04613271</url>
+  </required_header>
+  <id_info>
+    <org_study_id>FVR</org_study_id>
+    <secondary_id>U1111-1263-1797</secondary_id>
+    <nct_id>NCT04613271</nct_id>
+  </id_info>
+  <brief_title>Efficacy and Safety of Favipiravir in Covid-19 Patients in Indonesia</brief_title>
+  <acronym>FVR</acronym>
+  <official_title>Phase III, Random-Open, Clinical Trials on the Efficacy and Safety of Favipiravir in Covid-19 Patients in Indonesia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ina-Respond</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Center for Research and Development of Health Resources and Services, National Institute of Health Research and Development (NIHRD), Indonesia</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Ina-Respond</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The benefit of the research is to provide information regarding the efficacy and safety of&#xD;
+      Favipiravir plus the Standard of Care (SoC) for mild-moderate COVID-19 patients to be a&#xD;
+      reference for policy recommendations regarding the use of Favipiravir as an antiviral drug&#xD;
+      for the treatment of Covid-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Pre-screening is assessing patients who meet the inclusion and exclusion criteria. Screening&#xD;
+      was carried out to assess whether the subjects met the inclusion and exclusion criteria.&#xD;
+      Randomization was performed to determine the study drug allocation. The research subjects&#xD;
+      were inpatients at selected hospitals and at the time of recruitment, the time was called D1.&#xD;
+      The next day is called D2 and so on Follow-up will be carried out from the first day of&#xD;
+      recruitment, taking medication up to a maximum of 19 days for test drugs and 11 days for SoC&#xD;
+      drugs. Recording of clinical and laboratory manifestations will be carried out from&#xD;
+      recruitment until the patient returns from the hospital.&#xD;
+&#xD;
+      All results will be recorded in a case report form, and if a case of clinical and laboratory&#xD;
+      manifestations is found to be severe, it will be written on the adverse case report form and&#xD;
+      reported immediately according to standard GCP procedures. Subjects may also drop out of the&#xD;
+      study due to discontinuation of follow-up or a protocol violation&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Suspended</overall_status>
+  <why_stopped>
+    Study halted prematurely but potentially will resume, the protocol will be amended&#xD;
+  </why_stopped>
+  <start_date type="Actual">October 15, 2020</start_date>
+  <completion_date type="Anticipated">June 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Group 1: Favipiravir 1600 mg twice a day at day 1 and 600 mg twice a day at day 7-14 + Azithromycin 500 mg once a day for 5 days.&#xD;
+Group 2: Azithromycin 500 mg once a day for 5 days.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Clinical improvement measured by no sign &amp; symptom for 3 days and RTPCR negative</measure>
+    <time_frame>until 3 days</time_frame>
+    <description>Clinical improvement measured by no sign &amp; symptom and RTPCR negative from baseline to Day 3</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Duration of hospitalization</measure>
+    <time_frame>until 19 days</time_frame>
+    <description>Duration of hospitalization is defined as the number of days in the hospital until Day 19, and descriptive statistics (number of subjects, mean, standard deviation, median, minimum, maximum) are given for each administration group.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">210</enrollment>
+  <condition>Infectious Disease</condition>
+  <condition>SARS-CoV Infection</condition>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Group 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Assignment of Administration Group 1:&#xD;
+Favipiravir 1600 mg twice a day at day 1 and 600 mg twice a day at day 7-14 + Azithromycin 500 mg once a day for 5 days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 2</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Administration Group 2: Azithromycin 500 mg once a day for 5 days.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Favipiravir</intervention_name>
+    <description>Assignment of Administration Group 1:&#xD;
+Favipiravir 1600 mg twice a day at day 1 and 600 mg twice a day at day 7-14 + Azithromycin 500 mg once a day for 5 days.</description>
+    <arm_group_label>Group 1</arm_group_label>
+    <arm_group_label>Group 2</arm_group_label>
+    <other_name>Treatment Group</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Azithromycin</intervention_name>
+    <description>Azithromycin 500 mg once a day for 5 days.</description>
+    <arm_group_label>Group 2</arm_group_label>
+    <other_name>Group 2</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Adult patients 18 years - 59 years&#xD;
+&#xD;
+          2. Confirmation of Covid-19 based on the results of the Real Time PCR (RTPCR) examination&#xD;
+             for SARS-COV-2 less than 7 days before the first day of taking the drug&#xD;
+&#xD;
+          3. Patients with mild-moderate clinical manifestations were admitted to the hospital&#xD;
+             designated by the physician according to the operational definition of the study&#xD;
+             protocol&#xD;
+&#xD;
+          4. Have not received COVID-19 antiviral therapy&#xD;
+&#xD;
+          5. Consciously and voluntarily participate in research&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Pregnant and lactating women&#xD;
+&#xD;
+          2. Allergy history to Favipiravir and standard hospital drugs&#xD;
+&#xD;
+          3. Patients with uric acid examination values above normal male&gt; 7 mg / dL; women&gt; 5.7 mg&#xD;
+             / dL&#xD;
+&#xD;
+          4. Patients with a history of prolonged ECG / Arrhythmia / QT disorders&#xD;
+&#xD;
+          5. Cannot swallow drug&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>59 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Dr. dr. Armedy Ronny Hasugiana, M. Biomed, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Center for R &amp; D of Health Resources and Services, National Institute of Health Research and Development (NIHRD), Indonesia</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>RSJ Soerodjo</name>
+      <address>
+        <city>Magelang</city>
+        <state>Central Java</state>
+        <zip>56115</zip>
+        <country>Indonesia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>RSUP Dr. Kariadi</name>
+      <address>
+        <city>Semarang</city>
+        <state>Central Of Java</state>
+        <zip>50244</zip>
+        <country>Indonesia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>RSPI Sulianti Saroso</name>
+      <address>
+        <city>Jakarta</city>
+        <state>DKI Jakarta</state>
+        <zip>14340</zip>
+        <country>Indonesia</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Indonesia</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>October 25, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 1, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 3, 2020</study_first_posted>
+  <last_update_submitted>January 25, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 25, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 27, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Favipiravir</keyword>
+  <keyword>Covid19</keyword>
+  <keyword>SARS-Cov2</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Azithromycin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,883 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="309">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04583995</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2019nCoV-302</org_study_id>
+    <nct_id>NCT04583995</nct_id>
+  </id_info>
+  <brief_title>A Study Looking at the Effectiveness, Immune Response, and Safety of a COVID-19 Vaccine in Adults in the United Kingdom</brief_title>
+  <official_title>A Phase 3, Randomised, Observer-Blinded, Placebo-Controlled Trial to Evaluate the Efficacy and Safety of a SARS-CoV-2 Recombinant Spike Protein Nanoparticle Vaccine (SARS-CoV-2 rS) With Matrix-M1™ Adjuvant in Adult Participants 18-84 Years of Age in the United Kingdom</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Novavax</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Novavax</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a study to evaluate the efficacy, immune response, and safety of a coronavirus&#xD;
+      disease 2019 (COVID-19) vaccine called SARS-CoV-2 rS with Matrix-M1 adjuvant in adults aged&#xD;
+      18-84 years in the United Kingdom. A vaccine causes the body to have an immune response that&#xD;
+      may help prevent the infection or reduce the severity of symptoms. An adjuvant is something&#xD;
+      that can make a vaccine work better. This study will look at the protective effect, body's&#xD;
+      immune response, and safety of SARS-CoV-2 rS with Matrix-M1 adjuvant in the study population.&#xD;
+      Participants in the study will randomly be assigned to receive SARS-CoV-2 rS with Matrix-M1&#xD;
+      adjuvant or placebo. Each participant in the study will receive a total of 2 intramuscular&#xD;
+      injections over the course of the study. Approximately 15,000 participants will take part in&#xD;
+      the study. The first 400 participants who meet additional criteria will receive a flu&#xD;
+      vaccine, in addition to the SARS-CoV-2 rS vaccine or placebo, as part of a sub-study.&#xD;
+&#xD;
+      An effort will be made to enroll a target of at least 25% of participants who are ≥ 65 years&#xD;
+      of age, as well as prioritizing other groups that are most affected by COVID-19, including&#xD;
+      racial and ethnic minorities.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 28, 2020</start_date>
+  <completion_date type="Anticipated">January 14, 2022</completion_date>
+  <primary_completion_date type="Anticipated">January 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Participants with Symptomatic Mild, Moderate, or Severe Coronavirus Disease 2019 (COVID-19)</measure>
+    <time_frame>From Day 28 to Day 386</time_frame>
+    <description>Number of participants, testing serologically negative for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) at baseline, with first occurrence of positive (+) polymerase chain reaction (PCR)-confirmed SARS-CoV-2 illness with symptomatic mild, moderate, or severe COVID-19 with onset from Day 28 through the length of the study.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Participants with Symptomatic Moderate or Severe COVID-19</measure>
+    <time_frame>From Day 28 to Day 386</time_frame>
+    <description>Number of participants, testing serologically negative for SARS-CoV-2 at baseline with first occurrence of (+) PCR-confirmed, SARS-CoV-2 illness with symptomatic moderate or severe COVID-19 with onset from Day 28 through the length of the study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Participants with Symptomatic Mild, Moderate, or Severe COVID-19 Regardless of Baseline Serostatus</measure>
+    <time_frame>From Day 28 to Day 386</time_frame>
+    <description>Number of participants, regardless of serostatus at baseline, with first occurrence of (+) PCR-confirmed, SARS-CoV-2 illness with symptomatic mild, moderate, or severe COVID-19 assessed from Day 28 through the length of the study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Participants with Asymptomatic or Symptomatic COVID-19</measure>
+    <time_frame>From Day 28 to Day 386</time_frame>
+    <description>Number of participants, regardless of serostatus at baseline, with first occurrence of (+) PCR-confirmed, or nucleocapsid protein serologically confirmed, SARS-CoV-2 illness with asymptomatic or symptomatic COVID-19 with onset from Day 28 through the length of the study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Participants with COVID-19 requiring Hospitalization, Intensive Care Unit (ICU), or Mechanical Ventilation</measure>
+    <time_frame>From Day 28 to Day 386</time_frame>
+    <description>Number of participants, regardless of serostatus at baseline, with first occurrence of (+) PCR-confirmed, SARS-CoV-2 illness with COVID-19 with onset from Day 28 through the length of the study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Participants with Symptomatic Mild COVID-19</measure>
+    <time_frame>From Day 28 to Day 386</time_frame>
+    <description>Number of participants, regardless of serostatus at baseline, with first occurrence of (+) PCR-confirmed, SARS-CoV-2 illness with symptomatic mild COVID-19 (with no progression to moderate or severe COVID-19 during the course of the COVID-19 episode) with onset from Day 28 through the length of the study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum IgG Antibody Levels at Multiple Time Points Expressed as Geometric Mean ELISA Units (GMEUs)</measure>
+    <time_frame>Day 0 to Day 35</time_frame>
+    <description>Serum IgG antibody levels specific for the SARS-CoV-2 rS protein antigen(s) as detected by enzyme-linked immunosorbent assay (ELISA) expressed as GMEUs at Day 0 and Day 35.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Participants with Serious Adverse Events (SAEs)</measure>
+    <time_frame>386 days</time_frame>
+    <description>Number of participants with SAEs through the length of the study by Medical Dictionary for Regulatory Activities (MedDRA) classification and relationship to study vaccination.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Participants with Medically Attended Adverse Events (MAAEs) Related to Study Vaccination</measure>
+    <time_frame>386 days</time_frame>
+    <description>Number of participants with MAAEs related to study vaccination through the length of the study by MedDRA classification.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Participants with Adverse Events of Special Interest (AESIs)</measure>
+    <time_frame>386 days</time_frame>
+    <description>Number of participants with AESIs, which include potential immune-mediated medical conditions (PIMMCs) and AESIs relevant to COVID-19 such as possible vaccine-enhanced disease by MedDRA classification through the length of the study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Participants with Solicited Local and Systemic Adverse Events (AEs)</measure>
+    <time_frame>28 days</time_frame>
+    <description>Number of participants with solicited local and systemic AEs for 7 days after each study vaccination.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Participants with All MAAEs Through Day 35</measure>
+    <time_frame>35 days</time_frame>
+    <description>Number of participants with all MAAEs through Day 35 by MedDRA classification and relationship to study vaccination.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Participants with Unsolicited AEs Through Day 49</measure>
+    <time_frame>49 days</time_frame>
+    <description>Number of participants with unsolicited AEs through Day 49 by MedDRA classification and relationship to study vaccination.</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">15000</enrollment>
+  <condition>SARS-CoV-2 Infection</condition>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Cohort 1: SARS-CoV-2 rS/Matrix-M1 Adjuvant</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>2 doses of 5 µg SARS-CoV-2 rS + 50 µg Matrix-M1 adjuvant (co-formulated), 1 dose each on Days 0 and 21.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 1: Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>2 doses of Placebo (Saline), 1 dose each on Days 0 and 21.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 2: SARS-CoV-2 rS/Matrix-M1 Adjuvant Plus Licensed Seasonal Flu Vaccine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>2 doses of 5 µg SARS-CoV-2 rS + 50 µg Matrix-M1 adjuvant (co-formulated), 1 dose each on Days 0 and 21. 1 dose of licensed seasonal flu vaccine on Day 0.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 2: Placebo Plus Licensed Seasonal Flu Vaccine</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>2 doses of Placebo (Saline), 1 dose each on Days 0 and 21. 1 dose of licensed seasonal flu vaccine on Day 0.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>SARS-CoV-2 rS/Matrix M1-Adjuvant</intervention_name>
+    <description>Alternating intramuscular (deltoid) injections of SARS-CoV-2 rS co-formulated with Matrix-M1 adjuvant (0.5 mL) on Days 0 and 21.</description>
+    <arm_group_label>Cohort 1: SARS-CoV-2 rS/Matrix-M1 Adjuvant</arm_group_label>
+    <arm_group_label>Cohort 2: SARS-CoV-2 rS/Matrix-M1 Adjuvant Plus Licensed Seasonal Flu Vaccine</arm_group_label>
+    <other_name>NVX-CoV2373</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Alternating intramuscular (deltoid) injections of placebo (0.5 mL) on Days 0 and 21.</description>
+    <arm_group_label>Cohort 1: Placebo</arm_group_label>
+    <arm_group_label>Cohort 2: Placebo Plus Licensed Seasonal Flu Vaccine</arm_group_label>
+    <other_name>Sodium chloride 0.9% (BP, sterile)</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Licensed seasonal influenza vaccine</intervention_name>
+    <description>Single intramuscular injection of licensed seasonal flu vaccine, administered ideally in opposite deltoid to SARS-CoV-2 rS with Matrix-M1 adjuvant or placebo injection on Day 0.</description>
+    <arm_group_label>Cohort 2: Placebo Plus Licensed Seasonal Flu Vaccine</arm_group_label>
+    <arm_group_label>Cohort 2: SARS-CoV-2 rS/Matrix-M1 Adjuvant Plus Licensed Seasonal Flu Vaccine</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Able and willing to comply with all study requirements.&#xD;
+&#xD;
+          -  Willing to allow investigators to discuss medical history with their General&#xD;
+             Practitioner and access all relevant medical records.&#xD;
+&#xD;
+          -  Willing and able to give informed consent.&#xD;
+&#xD;
+          -  Women of child-bearing potential must agree not to have sexual intercourse with men,&#xD;
+             or must consistently use an agreed method of contraception, from at least 28 days&#xD;
+             prior to enrolment in the study, through 3 months after the last vaccination.&#xD;
+&#xD;
+          -  Room air oxygen saturation &gt; 95% at Screening/Day 0.&#xD;
+&#xD;
+          -  Seasonal Flu Vaccine Co-Administration Sub-Study only: Participant should not have&#xD;
+             received a current season flu vaccine, should have no reason why the specific&#xD;
+             sub-study flu vaccine cannot be administered, and should not have any prior history of&#xD;
+             allergy or severe reaction to seasonal flu vaccines.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Participation in other COVID-19 vaccine or preventative drug trials for the duration&#xD;
+             of the study.&#xD;
+&#xD;
+          -  Future participation in any blood tests for the duration of the study where&#xD;
+             participants are informed of their levels of COVID-19 antibodies or antigens.&#xD;
+&#xD;
+          -  Participation in any trial involving an investigational drug, biologic or device&#xD;
+             within 45 days prior to the first study vaccination.&#xD;
+&#xD;
+          -  History of laboratory-confirmed COVID-19 infection any time prior to first study&#xD;
+             vaccination.&#xD;
+&#xD;
+          -  Receipt of any immunoglobulins and/or any blood products within 3 months prior to&#xD;
+             planned administration of study vaccine.&#xD;
+&#xD;
+          -  Any confirmed or suspected immunosuppressive or immunodeficient state. Chronic&#xD;
+             administration (defined as more than 14 continuous days) of immunosuppressant&#xD;
+             medication within the past 3 months, except topical steroids or short-term oral&#xD;
+             steroids (course lasting ≤ 14 days). Note: An immunosuppressant dose of glucocorticoid&#xD;
+             is defined as a systemic dose ≥ 10 mg of prednisone per day or equivalent. The use of&#xD;
+             topical, inhaled, and nasal glucocorticoids will be permitted if other chronic disease&#xD;
+             conditions do not exclude a participant from the study.&#xD;
+&#xD;
+          -  History of allergic disease or reactions likely to be made worse by any component of&#xD;
+             the study vaccines.&#xD;
+&#xD;
+          -  History of anaphylaxis to any prior vaccine.&#xD;
+&#xD;
+          -  Pregnancy, breast-feeding or willingness/intention to become pregnant within 3 months&#xD;
+             following the last study vaccination.&#xD;
+&#xD;
+          -  Current diagnosis of or treatment for cancer (except basal cell carcinoma of the skin&#xD;
+             and cervical carcinoma in situ.&#xD;
+&#xD;
+          -  Bleeding disorder, or prior history of significant bleeding or bruising following&#xD;
+             intramuscular injections or venepuncture (e.g. to draw blood for tests).&#xD;
+&#xD;
+          -  Continuous use of anticoagulants or anti-platelet agents. Note: The preventative use&#xD;
+             of ≤ 325 mg of aspirin per day is permitted.&#xD;
+&#xD;
+          -  Suspected or known current alcohol or drug dependency.&#xD;
+&#xD;
+          -  Study team member or first-degree relative of any study team member (inclusive of&#xD;
+             sponsor, contract research organization (CRO), and site personnel involved in the&#xD;
+             study).&#xD;
+&#xD;
+          -  Participants having any current workup of undiagnosed illness within 8 weeks prior to&#xD;
+             start of study which could lead to new condition or diagnosis.&#xD;
+&#xD;
+          -  Received any live vaccine within 4 weeks or any vaccine (excluding flu) within 2 weeks&#xD;
+             prior to first study vaccination; or any licensed flu vaccine within 1 week prior to&#xD;
+             first study vaccination or plans to receive any vaccine from these time periods until&#xD;
+             28 days after the second study vaccination.&#xD;
+&#xD;
+          -  Have clinically significant chronic cardiovascular, endocrine (hormones),&#xD;
+             gastrointestinal, hepatic (including hepatitis B and C), renal (kidney), neurological,&#xD;
+             respiratory, psychiatric or other medical disorders not excluded by other exclusion&#xD;
+             criteria, that are assessed by the investigator as being clinically unstable within&#xD;
+             the prior 4 weeks as evidenced by: a) Hospitalisation for the condition, including day&#xD;
+             surgical interventions; b) New significant organ function deterioration; or c) Needing&#xD;
+             addition of new treatments or major dose adjustments of current treatments (mild or&#xD;
+             moderate well-controlled comorbidities are allowed).&#xD;
+&#xD;
+          -  History of chronic neurological disorders that have required prior specialist&#xD;
+             physician review for diagnosis and management (such as multiple sclerosis, dementia,&#xD;
+             transient ischemic attacks, Parkinson's disease, degenerative neurological conditions,&#xD;
+             and neuropathy) or a history of stroke or previous neurological disorder within 12&#xD;
+             months with residual symptoms. Participants with a history of migraine or chronic&#xD;
+             headaches or nerve root compression that have been stable on treatment for the last 4&#xD;
+             weeks are not excluded.&#xD;
+&#xD;
+          -  Any autoimmune disease/condition (iatrogenic or congenital).&#xD;
+&#xD;
+          -  Any other significant disease, disorder or finding that, in the opinion of the&#xD;
+             investigator, may significantly increase the risk to the volunteer because of&#xD;
+             participation in the study, affect the ability of the volunteer to participate in the&#xD;
+             study, or impair interpretation of the study data.&#xD;
+&#xD;
+          -  Participant requires the use of continuous oxygen therapy or any oxygen therapy while&#xD;
+             awake or is anticipated to require daytime oxygen therapy during the course of the&#xD;
+             study.&#xD;
+&#xD;
+        Other protocol-defined inclusion/exclusion criteria may apply.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>84 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Seth Toback, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Novavax, Inc.</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Paul T Heath, MB BS FRACP FRCPCH</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Vaccine Institute, St Georges, University of London</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Belfast Health and Social Care Trust (BHSCT) (Site UK011)</name>
+      <address>
+        <city>Belfast</city>
+        <state>Antrim</state>
+        <zip>BT9 7AB</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mags Murray</last_name>
+      <phone>028 9536 3490</phone>
+      <email>Mags.Murray@hscni.net</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Synexus Midlands Clinical Research Centre (Site UK024)</name>
+      <address>
+        <city>Edgbaston</city>
+        <state>Birmingham</state>
+        <zip>B15 2 SQ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Bridie Rowbotham</last_name>
+      <phone>0121 414 0303</phone>
+      <email>bridie.rowbotham@synexus.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>The Royal Cornwall Hospitals NHS Trust (Site UK036)</name>
+      <address>
+        <city>Truro</city>
+        <state>Cornwall</state>
+        <zip>TR1 3LJ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lisa Trembath</last_name>
+      <phone>01872 250000</phone>
+      <email>lisa.trembath@nhs.net</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Devon and Exeter Hospital (Site UK013)</name>
+      <address>
+        <city>Exeter</city>
+        <state>Devon</state>
+        <zip>EX2 5DW</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stephanie Estcourt</last_name>
+      <phone>+441392406915</phone>
+      <email>stephanie.estcourt@nhs.net</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>&quot;Maidstone Hospital - Central Research and Development Office Above Breast Care Centre - 1st Floor&quot; (Site UK028)</name>
+      <address>
+        <city>Maidstone</city>
+        <state>Kent</state>
+        <zip>ME16 9QQ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Eulalie Edhor</last_name>
+      <phone>01622 227265</phone>
+      <email>a.edorh@nhs.net</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Queen Elizabeth University Hospital (Site UK008)</name>
+      <address>
+        <city>Glasgow</city>
+        <state>Lanarkshire</state>
+        <zip>G51 4TF</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Chloe Cowan</last_name>
+      <phone>0141 232 7600</phone>
+      <email>Chloe.Cowan@ggc.scot.nhs.uk</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Blackpool Teaching Hospitals (Site UK010)</name>
+      <address>
+        <city>Blackpool</city>
+        <state>Lancashire</state>
+        <zip>FY3 8NR</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Team</last_name>
+      <phone>01253 951514</phone>
+      <email>bfwh.prc.blackpool@nhs.net</email>
+    </contact>
+    <contact_backup>
+      <last_name>www.bfwh.nhs.uk</last_name>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Salford Hospital (Site UK030)</name>
+      <address>
+        <city>Oldham</city>
+        <state>Lancashire</state>
+        <zip>OL1 2JH</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rachel Newport</last_name>
+      <phone>1616045876</phone>
+      <email>Rachel.Newport@pat.nhs.uk</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Synexus Merseyside Clinical Research Centre (Site UK026)</name>
+      <address>
+        <city>Waterloo</city>
+        <state>Liverpool</state>
+        <zip>L22 0LG</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kirsty Fielding</last_name>
+      <phone>0151 920 1555</phone>
+      <email>Kirsty.Fielding@globalaes.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Free (Site UK012)</name>
+      <address>
+        <city>Hampstead</city>
+        <state>London</state>
+        <zip>NW3 2QG</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nargis Hemat</last_name>
+      <phone>0207 472 6232</phone>
+      <email>rf.vaccination@nhs.net</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>St. George's University Hospitals NHS Foundation Trust Clinical Research Facility (Site UK001)</name>
+      <address>
+        <city>Tooting</city>
+        <state>London</state>
+        <zip>SW17 0QT</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Team</last_name>
+      <phone>07821 810 046</phone>
+      <email>nvxtrial@sgul.ac.uk</email>
+    </contact>
+    <contact_backup>
+      <last_name>St. Helier Site Team</last_name>
+      <phone>07384 877 793</phone>
+      <email>esth.covidvaccine@nhs.net</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>North Wales Clinical Research Centre (NWCRC) (Site UK027)</name>
+      <address>
+        <city>Wrexham</city>
+        <state>North Wales</state>
+        <zip>LL13 7YP</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Heulwen Owens</last_name>
+      <phone>03000 858030</phone>
+      <email>HEULWEN.OWENS@wales.nhs.uk</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Lakeside Healthcare, Lakeside Surgery (Site UK005)</name>
+      <address>
+        <city>Corby</city>
+        <state>Northants</state>
+        <zip>NN17 2UR</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Adam Champion</last_name>
+      <phone>01536 748282</phone>
+      <email>adam.champion@nhs.net</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Warneford Hospital (Site UK016)</name>
+      <address>
+        <city>Oxford</city>
+        <state>Oxfordshire</state>
+        <zip>OX3 7JX</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Anna Heinen</last_name>
+      <phone>01865 902135</phone>
+      <email>anna.heinen@oxfordhealth.nhs.uk</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Aberdeen Royal Infirmary (Site UK007), Foresterhill</name>
+      <address>
+        <city>Aberdeen</city>
+        <zip>AB25 2ZN</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mariella D'Alessandro</last_name>
+      <phone>01224 554051</phone>
+      <email>mariella.dalessandro@nhs.scot</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Bradford Teaching Hospitals NHS Trust (Site UK018)</name>
+      <address>
+        <city>Bradford</city>
+        <zip>BD9 6RJ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Karen Regan</last_name>
+      <phone>01274 383383</phone>
+      <email>karen.regan@bthft.nhs.uk</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Synexus Wales Clinical Research Centre (Site UK025)</name>
+      <address>
+        <city>Cardiff</city>
+        <zip>CF15 9SS</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jessica Davis</last_name>
+      <phone>02920 764 455</phone>
+      <email>jessica.davis@synexus.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Synexus Lancashire Clinical Research Centre (Site UK022)</name>
+      <address>
+        <city>Chorley</city>
+        <zip>PR7 7 NA</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Karen Smith</last_name>
+      <phone>01772 819 600</phone>
+      <email>K.Smith@synexus.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Colchester Hospital (Site UK034)</name>
+      <address>
+        <city>Colchester</city>
+        <zip>CO4 5JL</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Anita Immanuel</last_name>
+      <phone>1206745247</phone>
+      <email>anita.immanuel@esneft.nhs.uk</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>AES - Glasgow (Site UK033)</name>
+      <address>
+        <city>Glasgow</city>
+        <zip>G20 0SP</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Karen Miller</last_name>
+      <phone>1419456850</phone>
+      <email>Karen.Miller@synexus.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University Hartlepool Hospital (Site UK021)</name>
+      <address>
+        <city>Hartlepool</city>
+        <zip>TS24 9AH</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kerry Colling</last_name>
+      <phone>01642 854271</phone>
+      <email>kerrycolling@nhs.net</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Synexus Hexham Clinical Research Centre (Site UK023)</name>
+      <address>
+        <city>Hexham</city>
+        <zip>NE46 1QJ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Julie Henry</last_name>
+      <phone>01434604483</phone>
+      <email>Julie.Henry@synexus.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Lancaster Infirmary (Site UK029)</name>
+      <address>
+        <city>Lancaster</city>
+        <zip>LA1 4RP</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Helen Spicket</last_name>
+      <phone>01524 519567</phone>
+      <email>Helen.Spickett@mbht.nhs.uk</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Research &amp; Innovation Centre, St. James's University Hospital (Site UK019)</name>
+      <address>
+        <city>Leeds</city>
+        <zip>LS9 7TF</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jamie Calderwood</last_name>
+      <phone>07789828687</phone>
+      <email>james.calderwood@nhs.net</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>St. Thomas' Hospital (Site UK020)</name>
+      <address>
+        <city>London</city>
+        <zip>SE1 7EH</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sonia Serrano</last_name>
+      <phone>7393242740</phone>
+      <email>Sonia.Serrano@gstt.nhs.uk</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Chelsea &amp; Westminster NHS Foundation Trust (Site UK006)</name>
+      <address>
+        <city>London</city>
+        <zip>SW10 9NH</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lester Gene Macabodbod</last_name>
+      <phone>+442033156504</phone>
+      <email>Lester.Macabodbod@chelwest.nhs.uk</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>AES - Synexus Manchester (Site UK032)</name>
+      <address>
+        <city>Manchester</city>
+        <zip>M15 6SE</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Olga Littler</last_name>
+      <phone>1616087790</phone>
+      <email>Olga.Littler@synexus.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Norfolk and Norwich University Hospital NHS Foundation Trust, Norfolk and Norwich University Hospital (Site UK015)</name>
+      <address>
+        <city>Norwich</city>
+        <zip>NR4 7UY</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Adele Cooper</last_name>
+      <phone>01603 647322</phone>
+      <email>adele.cooper@nnuh.nhs.uk</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Wansford and Kingscliffe Practice (Site UK035)</name>
+      <address>
+        <city>Peterborough</city>
+        <zip>PE8 6PL</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Amrit Takhar</last_name>
+      <phone>07916 299740</phone>
+      <email>amrit.takhar@nhs.net</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>AES - Synexus Thames Valley (Site UK031)</name>
+      <address>
+        <city>Reading</city>
+        <zip>RG2 0TG</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Danielle Bird</last_name>
+      <phone>7701285223</phone>
+      <email>Danielle.bird@globalaes.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Southampton NHS Foundation Trust (UHS) (Site UK014)</name>
+      <address>
+        <city>Southampton</city>
+        <zip>SO16 6YD</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Debbie Neal</last_name>
+      <phone>0300 019 6127</phone>
+      <email>debra.neal@rbch.nhs.uk</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Midlands Partnership NHS Foundation Trust Headquarters (Site UK017)</name>
+      <address>
+        <city>Stafford</city>
+        <zip>ST16 3SR</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Paula Coventry</last_name>
+      <phone>07580 994515</phone>
+      <email>paula.coventry@mpft.nhs.uk</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Stockport NHS Foundation Trust (Site UK009)</name>
+      <address>
+        <city>Stockport</city>
+        <zip>SK2 7JE</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Team</last_name>
+      <phone>0161 419 5891/3</phone>
+      <email>CovidVaccine@stockport.nhs.uk</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <link>
+    <url>http://www.fda.gov/Safety/MedWatch/SafetyInformation/default.htm</url>
+    <description>FDA Safety Alerts and Recalls</description>
+  </link>
+  <link>
+    <url>http://www.CDC.gov/coronavirus/2019-nCoV/index.html</url>
+    <description>CDC (Centers for Disease Control and Prevention): Coronavirus (COVID-19) website</description>
+  </link>
+  <link>
+    <url>http://www.who.int/emergencies/diseases/novel-coronavirus-2019/</url>
+    <description>WHO COVID-19 treatment guidelines</description>
+  </link>
+  <link>
+    <url>https://www.hra.nhs.uk/covid-19-research/</url>
+    <description>NHS Health Research Authority: COVID-19 Research</description>
+  </link>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>October 9, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 9, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 12, 2020</study_first_posted>
+  <last_update_submitted>November 13, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 13, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 17, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Coronavirus</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

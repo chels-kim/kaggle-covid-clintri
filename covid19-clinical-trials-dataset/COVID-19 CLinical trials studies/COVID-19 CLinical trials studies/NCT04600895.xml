@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2437">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04600895</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ATI0220</org_study_id>
+    <nct_id>NCT04600895</nct_id>
+  </id_info>
+  <brief_title>The Prevent Severe COVID-19 (PRESECO) Study</brief_title>
+  <acronym>PRESECO</acronym>
+  <official_title>Favipiravir for Patients With Mild to Moderate Disease From Novel Coronavirus (COVID-19)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Appili Therapeutics Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Appili Therapeutics Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Double-blinded, placebo controlled, randomized, phase 3 trial evaluating the antiviral drug&#xD;
+      favipiravir as potential therapy for mild to moderate COVID-19 in adult outpatients who are&#xD;
+      not requiring hospitalization and who have had a recently positive COVID-19 test prior to&#xD;
+      study enrollment.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 30, 2020</start_date>
+  <completion_date type="Anticipated">October 2021</completion_date>
+  <primary_completion_date type="Anticipated">August 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Time to sustained clinical recovery</measure>
+    <time_frame>From Day 0 to Day 21</time_frame>
+    <description>The endpoint will be considered to have been met at the earliest time point at which the associated symptoms over a continuous period of 48 hours.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time of Negative Conversion of SARS-CoV2 RNA</measure>
+    <time_frame>From Day 0 to Day 10</time_frame>
+    <description>Time (number of days) to negative conversion of detectable SARS-CoV-2 viral RNA in negative Reverse Transcription-Polymerase Chain Reaction (RT-PCR) assays of saliva</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of Negative Conversion of SARS-CoV2 RNA</measure>
+    <time_frame>Day 2, 4, 6, 8 and 10</time_frame>
+    <description>Proportion of patients showing negative conversion of detectable SARS-CoV-2 viral RNA in saliva</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients showing Alleviation of Symptoms</measure>
+    <time_frame>Day 4, 7, 10, 14 and 21</time_frame>
+    <description>Proportion of patients showing Alleviation of Symptoms fever, chills, cough, sore throat, malaise, headache, muscle pain, diarrhea, vomiting, shortness of breath</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients that progress to severe COVID-19</measure>
+    <time_frame>Day 21</time_frame>
+    <description>Progression to severe COVID-19 (severe COVID-19 defined as O2 saturation of &lt;94% at rest, all cause hospitalization, or death)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Reduction in Death Related to COVID-19</measure>
+    <time_frame>Day 21</time_frame>
+    <description>Proportion of patients dying a. from any cause, b. from a COVID-19 associated complication</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Reduction in Patient Hospitalization</measure>
+    <time_frame>Day 21</time_frame>
+    <description>Proportion of patients hospitalized: a. from any cause, b. from a COVID-19 associated complication</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Reduction in incidence of hospitalization for respiratory distress or O2 saturation</measure>
+    <time_frame>Day 21</time_frame>
+    <description>Incidence of hospitalization for respiratory distress or O2 saturation &lt;93%</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Safety / Adverse Events</measure>
+    <time_frame>Day 21</time_frame>
+    <description>Number (and proportion) of patients reporting treatment emergent adverse events by MedDRA system organ class and preferred term</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Vitals (Heart rate)</measure>
+    <time_frame>Day 21</time_frame>
+    <description>Changes of parameters for heart rate (beats per minutes) at each assessment during the study/follow-up period, compared to baseline</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Vitals (Body Temperature)</measure>
+    <time_frame>Day 21</time_frame>
+    <description>Changes of parameters for body temperature (°C) at each assessment during the study/follow-up period, compared to baseline</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Vitals (Oxygen Saturation)</measure>
+    <time_frame>Day 21</time_frame>
+    <description>Changes of parameters for oxygen saturation (%) at each assessment during the study/follow-up period, compared to baseline</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">826</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Favipiravir</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Favipiravir</intervention_name>
+    <description>Favipiravir</description>
+    <arm_group_label>Favipiravir</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adults age 18 or older&#xD;
+&#xD;
+          -  Tested positive for SARS-CoV-2 by RT-PCR assay using a respiratory tract sample&#xD;
+             (either nasopharyngeal swab OR oropharyngeal swab OR nasal aspirate OR&#xD;
+             tracheobronchial aspirate OR saliva) collected within 72 hours of randomization&#xD;
+&#xD;
+          -  Stated willingness to give their written informed consent to participate in the study&#xD;
+&#xD;
+          -  Stated willingness to comply with all study procedures and availability for the&#xD;
+             duration of the study&#xD;
+&#xD;
+          -  Males must be sterile, OR agree not to donate semen AND agree to strictly adhere to&#xD;
+             contraceptive measures during the study and for 7 days following the last dose of&#xD;
+             study medication&#xD;
+&#xD;
+          -  Females must be unable to bear children, OR ensure that their male partner is&#xD;
+             incapable of fathering a child, OR, if of childbearing potential will strictly adhere&#xD;
+             to contraceptive measures during the study and for seven days following the last dose&#xD;
+             of study medication&#xD;
+&#xD;
+          -  Females must agree to stop breast-feeding prior to first dose of study drug and&#xD;
+             through seven days after completing therapy&#xD;
+&#xD;
+          -  Females must have a negative pregnancy test at screening&#xD;
+&#xD;
+          -  Ability to take oral medication and be willing to adhere to the favipiravir/placebo&#xD;
+             regimen&#xD;
+&#xD;
+          -  One or more of the following symptoms:&#xD;
+&#xD;
+               1. Fever (Temperature ≥ 37.2 °C oral)&#xD;
+&#xD;
+               2. Chills&#xD;
+&#xD;
+               3. Cough&#xD;
+&#xD;
+               4. Shortness of breath or difficulty breathing on exertion&#xD;
+&#xD;
+               5. Malaise&#xD;
+&#xD;
+               6. Muscle pain&#xD;
+&#xD;
+               7. Headache&#xD;
+&#xD;
+               8. New loss of taste or smell&#xD;
+&#xD;
+               9. Sore throat&#xD;
+&#xD;
+              10. Congestion or runny nose&#xD;
+&#xD;
+              11. Nausea or vomiting&#xD;
+&#xD;
+              12. Diarrhea&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  O2 saturation &lt;94%&#xD;
+&#xD;
+          -  Shortness of breath at rest&#xD;
+&#xD;
+          -  Heart rate ≥ 125 per minute&#xD;
+&#xD;
+          -  Requirement for hospitalization at the time of enrolment&#xD;
+&#xD;
+          -  Participation in another trial or use of any experimental treatment for COVID-19&#xD;
+&#xD;
+          -  Treatment with high steroid dose (excluding stable chronic treatment) or remdesivir&#xD;
+&#xD;
+          -  Evidence of sepsis or organ dysfunction/ failure&#xD;
+&#xD;
+          -  Current hospitalization or requiring hospital admission at screening or enrollment&#xD;
+&#xD;
+          -  Inability to adhere to study requirements&#xD;
+&#xD;
+          -  For premenopausal women: unwilling or unable to use effective birth control measures&#xD;
+&#xD;
+          -  Known allergy to favipiravir&#xD;
+&#xD;
+          -  Renal insufficiency requiring hemodialysis or continuous ambulatory peritoneal&#xD;
+             dialysis (CAPD) or glomerular filtration rate of less than 20 mL/min.&#xD;
+&#xD;
+          -  Liver impairment greater than Child-Pugh A&#xD;
+&#xD;
+          -  Psychiatric illness that is not well controlled (defined as stable on a regimen for&#xD;
+             more than one year).&#xD;
+&#xD;
+          -  History of elevated uric acid&#xD;
+&#xD;
+          -  Psychiatric disease that is not well controlled where controlled is defined as: stable&#xD;
+             on a regimen for more than one year.&#xD;
+&#xD;
+          -  Current use of the following medications, which cannot be discontinued for the&#xD;
+             duration of the study: pyrazinamide, hydralazine, more than 3000 mg of acetaminophen&#xD;
+             per day.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Elixia Clinical Research Collaborative</name>
+      <address>
+        <city>Hollywood</city>
+        <state>Florida</state>
+        <zip>33023</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Neil Patel</last_name>
+      <phone>561-351-7822</phone>
+      <email>npatel@elixiacrc.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>September 15, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 22, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 23, 2020</study_first_posted>
+  <last_update_submitted>December 15, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 15, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 17, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

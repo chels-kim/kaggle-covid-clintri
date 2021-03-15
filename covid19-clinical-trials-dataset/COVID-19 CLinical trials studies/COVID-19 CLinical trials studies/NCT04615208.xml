@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="126">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04615208</url>
+  </required_header>
+  <id_info>
+    <org_study_id>B2020:070 (HS24165)</org_study_id>
+    <nct_id>NCT04615208</nct_id>
+  </id_info>
+  <brief_title>Screening for COVID-19</brief_title>
+  <official_title>A Touchless Tool to Screen for COVID-19 for Reopening Industries</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Manitoba</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Natural Sciences and Engineering Research Council, Canada</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>ID Fusion Software, Inc.</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Function Four Ltd.</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Manitoba</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Canada is entering the important yet dangerous phase of the COVID-19 pandemic: the reopening&#xD;
+      of industry. As such, there is an urgent need for a quick and accurate screening tool to help&#xD;
+      ensure people re-entering the workplace are COVID-19 negative. This proposal offers an&#xD;
+      innovative, simple-to-implement and quick screening tool for this purpose. Based on our many&#xD;
+      years of respiratory sounds analysis for diagnostic purposes, we hypothesize that breathing&#xD;
+      sounds of a COVID-19 positive person would have different characteristics even if the person&#xD;
+      is asymptomatic. Thus, built upon our expertise in designing acoustic diagnostic devices, we&#xD;
+      propose the development of an integrated diagnostic pattern recognition tool in the form of&#xD;
+      an iPhone app, using audio and temperature as inputs to identify COVID-19 positive&#xD;
+      individuals. The proposed digital technology will screen individuals as healthy or possibly&#xD;
+      COVID-19 positive. The latter group will then be recommended for further testing. The goal of&#xD;
+      the proposed app is to provide much more accurate early screening (currently only temperature&#xD;
+      is taken), and to reduce the burden of COVID-19 tests. This digital technology will be used&#xD;
+      and tested in Manitoba initially and later nationally in Canada, with the potential of being&#xD;
+      publicly available in the future.&#xD;
+&#xD;
+      To use the proposed screening tool, an iPhone is held within 1 cm of an individual's mouth&#xD;
+      and the individual instructed to take five deep breaths through the mouth. The individuals'&#xD;
+      breathing sounds will be recorded by the iPhone, while his/her temperature will also be&#xD;
+      recorded by the heat camera. The app will first use its acoustic analysis to identify sounds&#xD;
+      as healthy or abnormal. If the outcome is abnormal, then a questionnaire will be provided,&#xD;
+      along with a further acoustic analysis to rule out other common comorbid conditions (e.g.&#xD;
+      chronic lung disease). Finally, based on the inputs, the diagnostic algorithm will decide if&#xD;
+      the individual should be referred for further testing or not. Since the proposed end product&#xD;
+      is a smartphone app, the two software partner companies will play a crucial role in the final&#xD;
+      integration and development.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The goal of this project is to develop a digital technology including an interactive app on a&#xD;
+      dedicated iPhone to record, analyze and classify a person as likely COVID-19 positive or&#xD;
+      negative. The specific objectives are:&#xD;
+&#xD;
+        1. Develop an initial simple app to record breathing sounds, check the quality of sounds in&#xD;
+           real time, message and instruct if the sounds fail the quality check.&#xD;
+&#xD;
+        2. Recruit and collect breathing sounds of at least up to 200 individuals at one of the&#xD;
+           COVID-19 testing stations in Winnipeg.&#xD;
+&#xD;
+        3. Using data of 50 COVID-19 positive cases and 50 negative ones of the above collection as&#xD;
+           the training data, develop a breathing sounds analysis algorithm with high sensitivity&#xD;
+           and specificity for iPhones to classify the recorded breathings sounds as healthy or&#xD;
+           abnormal. Our current database allows for immediate detection of some underlying&#xD;
+           unrelated pathologies, which in the initial stages will be supported by the included&#xD;
+           questionnaire. This can be further enhanced at the end-product stage as each worker's&#xD;
+           history is built up and daily compared.&#xD;
+&#xD;
+        4. Develop a smart diagnostic algorithm for iPhones as an app using the above sound&#xD;
+           analysis outcome, the subject's temperature and answers to a few questions and screen&#xD;
+           for possibility of having Covid-19 in less than 30 seconds.&#xD;
+&#xD;
+        5. Evaluate the above diagnostic algorithm for the remaining collected data (100 subjects),&#xD;
+           and plan for the next phase of study as a triage in one of the city's hospitals.&#xD;
+&#xD;
+        6. Prepare the final market prototype of the technology and disseminate the results.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 15, 2020</start_date>
+  <completion_date type="Anticipated">December 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">October 30, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>being positive or negative on COVID-19 swab fluid test</measure>
+    <time_frame>one week</time_frame>
+    <description>Swab Fluid Test</description>
+  </primary_outcome>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Being Suspected of COVID-19 Infection</condition>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>suspected of COVID-19 infection</intervention_name>
+    <description>suspected of COVID-19 infection</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Adults suspected of COVID-19 infection&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria: Any adult who is tested for COVID-19 by swab fluid test, and also have&#xD;
+        a smart phone and Internet access -&#xD;
+&#xD;
+        Exclusion Criteria: age&lt;18 years, cognitively impaired and having no access to a smart&#xD;
+        phone or Internet&#xD;
+&#xD;
+        -&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Zahra Moussavi, Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Manitoba</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Zahra Moussavi, Ph.D.</last_name>
+    <phone>2044747023</phone>
+    <email>Zahra.Moussavi@umanitoba.ca</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Mari Garcia, M.Sc.</last_name>
+    <phone>2044786163</phone>
+    <email>MARITERE.GARCIACAMPUZANO@umanitoba.ca</email>
+  </overall_contact_backup>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>November 2, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 2, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 4, 2020</study_first_posted>
+  <last_update_submitted>November 2, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 2, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 4, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19, screening, touches</keyword>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>Upon Ethics approval, we would like to share our recorded breathing sounds with public.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

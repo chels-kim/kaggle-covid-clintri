@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1786">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04446377</url>
+  </required_header>
+  <id_info>
+    <org_study_id>LAM-002A-CVD-CLN01</org_study_id>
+    <nct_id>NCT04446377</nct_id>
+  </id_info>
+  <brief_title>A Study of LAM-002A for the Prevention of Progression of COVID-19</brief_title>
+  <official_title>A Phase II Randomized, Double-Blind, Placebo-Controlled Study of LAM-002A for the Prevention of Progression of COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>AI Therapeutics, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Yale University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>AI Therapeutics, Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a clinical trial to evaluate the efficacy of LAM-002A compared to placebo treatment&#xD;
+      in adults with a confirmed SARS-CoV-2 infection who are receiving standards supportive care&#xD;
+      in an outpatient setting.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a Phase II randomized, double-blind, placebo-controlled, clinical study to evaluate&#xD;
+      the efficacy of LAM-002A compared to placebo treatment in adults with a confirmed SARS-CoV-2&#xD;
+      infection who are receiving standard supportive care in an outpatient setting.&#xD;
+&#xD;
+      Study eligibility will be assessed during screening. All study participants must sign a&#xD;
+      written informed consent and satisfy the inclusion and exclusion criteria for the study.&#xD;
+      Confirmation of SARS-CoV-2 infection, medical history, and current medication will be&#xD;
+      assessed for each consenting participant at screening.&#xD;
+&#xD;
+      Study participants will be randomized in a 1:1 ratio, to receive study therapy (either&#xD;
+      LAM-002A, 125 mg [5 capsules/dose]) PO BID or placebo [5 capsules/dose] PO BID) for 10 days.&#xD;
+      Participants who experience an adverse event (AE) considered to be related to study therapy&#xD;
+      may have a decrease in study dose of LAM-002A to 100 mg [4 capsules/dose]) PO BID or placebo&#xD;
+      [4 capsules/dose] PO BID). After the start of treatment on Day 1, participants will be&#xD;
+      followed at Days 4,6,8,11,22, and 28. Days 6,8, and 22 will be phone visits. Participants can&#xD;
+      withdraw from the study therapy or study participation at any time.&#xD;
+&#xD;
+      The study will incorporate an interim safety analysis after the first 30 participants (15 on&#xD;
+      LAM-002A and 15 on placebo) have completed treatment and have been followed up for 11 days&#xD;
+      post-first dose. Recruitment and randomization will continue while this analysis is&#xD;
+      conducted. Recommendations from an independent Data Safety Monitoring Board (DSMB) will be&#xD;
+      used for decisions of early termination or study design adaptations.&#xD;
+&#xD;
+      Non-parametric and parametric statistical analysis will be conducted, as appropriate. For the&#xD;
+      comparison of the LAM-002A active arm and the control arm for the primary endpoint and&#xD;
+      secondary endpoints of drug effect, appropriate methods will be employed. Baseline subject&#xD;
+      characteristics, study therapy administration/compliance, safety, supportive care&#xD;
+      administration, and pharmacokinetics will be analyzed descriptively.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 15, 2020</start_date>
+  <completion_date type="Anticipated">April 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">March 31, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Double-blinded</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Viral Load Change</measure>
+    <time_frame>4 Days</time_frame>
+    <description>The primary efficacy outcome measure evaluates change in SARS-CoV-2 viral load at Day 4 from Day 1, of LAM-002A or placebo-treated participants. SARS-CoV-2 viral load will be measured by a qRT-PCR test of nasopharyngeal samples. Analysis will focus on log10 viral load on Day 4 compared to baseline viral load at Day 1 in participants with baseline viral load &gt;100,000 copies/mL</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Safety and Tolerability</measure>
+    <time_frame>28 Days</time_frame>
+    <description>The proportion of LAM 002A-treated participants who develop TEAEs compared to placebo</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical Efficacy</measure>
+    <time_frame>28 Days</time_frame>
+    <description>The proportion of participants treated with LAM-002A compared to placebo, who have disease progression by Day 28 as defined by the occurrence of:&#xD;
+Hospitalization&#xD;
+Death</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in COVID-19 Clinical Status</measure>
+    <time_frame>28 Days</time_frame>
+    <description>To evaluate change in COVID-19 clinical status, as defined by the ordinal scale, of participants treated with LAM-002A compared to placebo at Day 28, in participants who become hospitalized and continue LAM-002A/placebo treatment, based on the following scores:&#xD;
+Not in the hospital&#xD;
+Hospitalized, requiring low flow supplemental oxygen (such as nasal cannula)&#xD;
+Hospitalized, not on invasive ventilation (such as 100% non-rebreather, BIPAP), (pre-ICU)&#xD;
+Hospitalized, in the ICU, on invasive ventilation or ECMO&#xD;
+Dead</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Oxygen Saturation</measure>
+    <time_frame>11 Days</time_frame>
+    <description>To compare the proportion of participants at or above 95% oxygen saturation (O2 sat) between LAM-002A versus placebo treatment groups as measured on Days 1, 4, and 11.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Viral Clearance</measure>
+    <time_frame>4 Days</time_frame>
+    <description>To potentially evaluate the change from baseline (Day 1, Pre-dose) of SARS-CoV-2 viral load as measured by a qRT-PCR test from saliva samples on Day 4, compared between the LAM-002A arm and the placebo arm in participants with a baseline viral load &gt;100,000 copies/mL</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Viral Clearance</measure>
+    <time_frame>11 Days</time_frame>
+    <description>To potentially evaluate the change from baseline (Day 1, Pre-dose) of SARS-CoV-2 viral load as measured by a qRT-PCR test from saliva samples on Day 11, compared between the LAM-002A arm and the placebo arm in participants with a baseline viral load &gt;100,000 copies/mL</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Viral Clearance</measure>
+    <time_frame>28 Days</time_frame>
+    <description>To potentially evaluate the change from baseline (Day 1, Pre-dose) of SARS-CoV-2 viral load as measured by a qRT-PCR test from saliva samples on Day 28, compared between the LAM-002A arm and the placebo arm in participants with a baseline viral load &gt;100,000 copies/mL</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Viral Clearance AUC</measure>
+    <time_frame>11 Days</time_frame>
+    <description>To potentially evaluate the difference in SARS-CoV-2 viral load as measured by a qRT-PCR test from saliva samples based on AUC(Day1-Day11), between the LAM-002A arm and the placebo arm in participants with a baseline viral load &gt;100,000 copies/mL.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Viral Clearance AUC</measure>
+    <time_frame>28 Days</time_frame>
+    <description>To potentially evaluate the difference in SARS-CoV-2 viral load as measured by a qRT-PCR test from saliva samples based on AUC(Day1-Day28), between the LAM-002A arm and the placebo arm in participants with a baseline viral load &gt;100,000 copies/mL.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Proportion of participants with viral load &lt; lower limit of detection</measure>
+    <time_frame>4 Days</time_frame>
+    <description>To potentially evaluate the difference in proportion of participants with a SARS-CoV-2 viral load less than &lt;LLOQ between the LAM-002A and the placebo arm as measured by a qRT-PCR test from nasopharyngeal samples at Day 4.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">142</enrollment>
+  <condition>COVID-19 Disease</condition>
+  <arm_group>
+    <arm_group_label>LAM-002A</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>LAM-002A (Apilimod Dimesylate) 125mg in five 25-mg capsules BID for 10 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>(microcrystalline cellulose) in 5 capsules BID for 10 days</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Apilimod Dimesylate Capsule</intervention_name>
+    <description>LAM-002A is formulated in capsules containing 25 mg of apilimod dimesylate. The capsule is Swedish orange, Size 0.</description>
+    <arm_group_label>LAM-002A</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Microcrystalline cellulose in Swedish orange, Size 0 capsules</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Written documentation of SARS-CoV-2 infection confirmed by a validated test.&#xD;
+&#xD;
+          2. Presence of greater than or equal to ≥1 of the following COVID-19-related symptoms&#xD;
+             indicating mild disease: fever (temperature ≥100.4), anosmia (loss of taste or smell),&#xD;
+             cough, sore throat, gastrointestinal complaints (e.g. nausea, vomiting, or diarrhea),&#xD;
+             chills, congestion, or runny nose, headaches, muscle or body aches, fatigue, or&#xD;
+             asymptomatic patients who have tested positive for COVID-19 via a validated test&#xD;
+             within the past 4 days.&#xD;
+&#xD;
+          3. If symptomatic, symptom onset less than or equal to ≤ 8 days.&#xD;
+&#xD;
+          4. For female participants of childbearing potential, a negative urine (or serum)&#xD;
+             pregnancy test.&#xD;
+&#xD;
+          5. For female participants of childbearing potential, willingness to use a&#xD;
+             protocol-recommended method of contraception from the start of the screening period&#xD;
+             until greater than or equal to ≥30 days after the final dose of study therapy. Note: A&#xD;
+             female subject is considered to be of childbearing potential unless she has had a&#xD;
+             hysterectomy, bilateral tubal ligation, or bilateral oophorectomy; has medically&#xD;
+             documented ovarian failure (with serum estradiol and follicle-stimulating hormone&#xD;
+             [FSH] levels within the institutional laboratory postmenopausal range and a negative&#xD;
+             serum or urine beta human chorionic gonadotropin [βHCG]); or is menopausal (age ≥50&#xD;
+             years with amenorrhea for ≥6 months).&#xD;
+&#xD;
+          6. For male participants who can father a child and are having intercourse with females&#xD;
+             of childbearing potential who are not using adequate contraception, willingness to use&#xD;
+             a protocol-recommended method of contraception from the start of study therapy until&#xD;
+             ≥30 days after the final dose of study therapy and to refrain from sperm donation from&#xD;
+             the start of study therapy until ≥90 days after administration of the final dose of&#xD;
+             study therapy. Note: A male subject is considered able to father a child unless he has&#xD;
+             had a bilateral vasectomy with documented aspermia or a bilateral orchiectomy.&#xD;
+&#xD;
+          7. Willingness and ability of the participant to ingest study drug capsules.&#xD;
+&#xD;
+          8. Willingness of the participant to comply with scheduled visits, drug administration&#xD;
+             plan, protocol-specified laboratory tests, study procedures, and study restrictions.&#xD;
+&#xD;
+          9. Evidence of a personally signed informed consent indicating that the participant is&#xD;
+             aware of the nature of the disease and has been informed of the procedures to be&#xD;
+             followed, the experimental nature of the therapy, alternatives, potential risks and&#xD;
+             discomforts, potential benefits, and other pertinent aspects of study participation.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Respiratory rate greater than or equal to ≥20 breaths per minute.&#xD;
+&#xD;
+          2. Oxygen saturation by pulse oximetry less than or equal to ≤93 percent % on room air or&#xD;
+             requirement for supplemental oxygen to maintain oxygen saturation greater than &gt;93&#xD;
+             percent %.&#xD;
+&#xD;
+          3. Total NEWS score greater than or equal to ≥6 or presence of a score of 3 on any of the&#xD;
+             individual NEWS parameters.&#xD;
+&#xD;
+          4. Radiographic evidence of pulmonary infiltrates (clinical X-ray within 2 days of&#xD;
+             referral)&#xD;
+&#xD;
+          5. Hepatic profile showing any of the following:&#xD;
+&#xD;
+               -  Serum alanine aminotransferase (ALT) greater than &gt;5 × upper limit of normal&#xD;
+                  (ULN) (CTCAE Grade greater than or equal to ≥3).&#xD;
+&#xD;
+               -  Serum aspartate aminotransferase (AST) greater than &gt;5 × ULN (CTCAE Grade greater&#xD;
+                  than or equal to ≥3).&#xD;
+&#xD;
+               -  Serum bilirubin greater than &gt;1.5 × ULN (CTCAE Grade greater than or equal to&#xD;
+                  ≥2).&#xD;
+&#xD;
+          6. Renal profile showing an estimated creatinine clearance (eClCR) less than &lt;30&#xD;
+             mL/minute (with eClCR to be calculated by the method at the laboratory performing the&#xD;
+             serum creatinine test).&#xD;
+&#xD;
+          7. Presence of a cancer with disease manifestations or therapy that could adversely&#xD;
+             affect subject safety or longevity, create the potential for drug-drug interactions,&#xD;
+             or compromise the interpretation of study results.&#xD;
+&#xD;
+          8. Significant cardiovascular disease (e.g. myocardial infarction, arterial&#xD;
+             thromboembolism, cerebrovascular thromboembolism) within 1 month prior to start of&#xD;
+             study therapy; unstable angina; symptomatic peripheral vascular disease; CTCAE Grade&#xD;
+             greater than or equal to ≥2 congestive heart failure; or uncontrolled CTCAE Grade&#xD;
+             greater than or equal to ≥3 hypertension (diastolic blood pressure greater than or&#xD;
+             equal to ≥100 mmHg or systolic blood pressure greater than or equal to ≥160 mmHg)&#xD;
+             despite antihypertensive therapy.&#xD;
+&#xD;
+          9. Significant screening ECG abnormalities, including atrial fibrillation/flutter, 2nd&#xD;
+             degree atrioventricular (AV) block type II, 3rd-degree AV block, Grade greater than or&#xD;
+             equal to ≥2 bradycardia, or corrected QT (QTc by Fridericia [QTcF]) greater than &gt;480&#xD;
+             msec (Grade greater than &gt;1).&#xD;
+&#xD;
+         10. Gastrointestinal disease (e.g. gastric or intestinal bypass surgery, pancreatic enzyme&#xD;
+             insufficiency, malabsorption syndrome, symptomatic inflammatory bowel disease, chronic&#xD;
+             diarrheal illness, bowel obstruction) that might interfere with drug absorption or&#xD;
+             with interpretation of gastrointestinal AEs.&#xD;
+&#xD;
+         11. Pregnancy or breastfeeding.&#xD;
+&#xD;
+         12. Prior solid organ transplantation.&#xD;
+&#xD;
+         13. Use within 5 days prior to randomization of an approved or investigational therapy&#xD;
+             intended to treat COVID-19 (e.g. remdesivir, , anti-interleukin [IL]-6 antibodies,&#xD;
+             therapeutic anti-SARS CoV-2 antibodies or post-convalescent plasma, anti- SARS CoV-2&#xD;
+             vaccine, Bruton tyrosine kinase [BTK] inhibitor), use within 3 months of chloroquine&#xD;
+             or hydroxychloroquine. Note: participants are not precluded from undergoing&#xD;
+             evaluations involving observation, noninvasive diagnostic procedures or sampling, or&#xD;
+             questionnaires as follow-up to a prior study or as components of a concurrent&#xD;
+             noninterventional study.&#xD;
+&#xD;
+         14. Use within 5 days prior to randomization of a strong inhibitor or inducer of&#xD;
+             cytochrome P450 (CYP) 3A4 or expected requirement for chronic use of a strong&#xD;
+             inhibitor or inducer of CYP3A4 during study therapy.&#xD;
+&#xD;
+         15. Use within 5 days prior to randomization of drug that is a moderate-to-strong&#xD;
+             substrate of CYP2C9 (including warfarin, tolbutamide, phenytoin, glimepiride) or&#xD;
+             expected requirement for chronic use of such drugs during study therapy.&#xD;
+&#xD;
+         16. Use within 5 days prior to randomization of a drug known to prolong the QT interval&#xD;
+&#xD;
+         17. Ongoing immunosuppressive therapy including systemic or enteric corticosteroids.&#xD;
+             (Note: At study entry, participants may be using intraarticular, inhaled, or topical&#xD;
+             corticosteroids. During study therapy, participants may use systemic, enteric,&#xD;
+             intraarticular, inhaled, or topical corticosteroids as required for intercurrent&#xD;
+             conditions.)&#xD;
+&#xD;
+         18. Any illness, medical condition, organ system dysfunction, or social situation,&#xD;
+             including mental illness or substance abuse, deemed by the investigator to be likely&#xD;
+             to interfere with a participant's ability to provide informed consent, adversely&#xD;
+             affect the participant's ability to cooperate and participate in the study, or&#xD;
+             compromise the interpretation of study results.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Peter Young, PhD</last_name>
+    <phone>415 860-8370</phone>
+    <email>pyoung@ai-thera.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Yale University</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06510</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Charles Dela Cruz, MD, Ph.D</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>June 2020</verification_date>
+  <study_first_submitted>June 23, 2020</study_first_submitted>
+  <study_first_submitted_qc>June 23, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">June 24, 2020</study_first_posted>
+  <last_update_submitted>November 3, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 3, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 4, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>Apilimod Dimesylate</keyword>
+  <keyword>LAM-002A</keyword>
+  <keyword>Coronavirus</keyword>
+  <keyword>AI Therapeutics</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Disease Progression</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

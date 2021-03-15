@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1344">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04524663</url>
+  </required_header>
+  <id_info>
+    <org_study_id>56029</org_study_id>
+    <nct_id>NCT04524663</nct_id>
+  </id_info>
+  <brief_title>Oral Camostat Compared With Standard Supportive Care in Mild-Moderate COVID-19 Patients</brief_title>
+  <acronym>COPS-2002</acronym>
+  <official_title>A Phase 2 Randomized, Double Blinded, Placebo Controlled Study of Oral Camostat Mesilate Compared to Standard of Care in Subjects With Mild-Moderate COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Stanford University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Stanford University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will evaluate the efficacy of oral Foipan® (camostat mesilate) compared with the&#xD;
+      current standard of care in reducing the duration of viral shedding of SARS-CoV-2 virus in&#xD;
+      patients with mild-moderate COVID-19 disease.&#xD;
+&#xD;
+      Patients will attend 4 study visits over a period of up to 28 days.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 19, 2020</start_date>
+  <completion_date type="Anticipated">June 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Time until cessation of shedding of SARS-CoV-2 virus</measure>
+    <time_frame>Up to 28 days</time_frame>
+    <description>This outcome is defined as the time in days from randomization to the first of two consecutive negative RT-PCR results of self-collected nasal swabs.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Clinical worsening of COVID-19 disease in symptomatic patients</measure>
+    <time_frame>Up to 28 days</time_frame>
+    <description>Number of symptomatic patients with clinical worsening, defined as the development of respiratory distress or symptoms that require hospitalization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Development of antibodies to SARS-CoV-2</measure>
+    <time_frame>Up to 28 days</time_frame>
+    <description>Number of patients that develop antibodies to SARS-CoV-2.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time until resolution of symptoms</measure>
+    <time_frame>Up to 28 days</time_frame>
+    <description>This outcome is defined as absence of moderate or severe symptoms for at least 24 hours for those reporting moderate or severe symptoms at baseline</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time until progression of symptoms</measure>
+    <time_frame>Up to 28 days</time_frame>
+    <description>Progression of respiratory symptoms defined as a two-level increase of a symptom on the Daily Symptom Status Questionnaire within a 24 hour period, or a one-level increase of a symptom on the Daily Symptom Status Questionnaire observed/sustained for a consecutive 48 hour period.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Drug level on day five, one hour after a dose taken on an empty stomach</measure>
+    <time_frame>Day 5, 1 hour post dose</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Camostat mesilate</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients will receive camostat mesilate for 10 days in addition to standard of care treatment.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Study participants will receive placebo to match camostat mesilate for 10 days in addition to standard of care treatment.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Camostat Mesilate</intervention_name>
+    <description>Camostat Mesilate administered as oral tablets</description>
+    <arm_group_label>Camostat mesilate</arm_group_label>
+    <other_name>Foipan®</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo to match camostat mesilate</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Standard of Care Treatment</intervention_name>
+    <description>Standard of Care Treatment for COVID-19 Infection</description>
+    <arm_group_label>Camostat mesilate</arm_group_label>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Diagnosis of COVID-19 disease as presence of mild-moderate symptoms without signs of&#xD;
+             respiratory distress, with FDA-cleared molecular diagnostic assay positive for&#xD;
+             SARS-CoV-2 within 72 hours prior to informed consent&#xD;
+&#xD;
+          -  Males must be sterile, OR agree not to donate semen AND agree to strictly adhere to&#xD;
+             contraceptive measures during the study and for seven days following the last dose of&#xD;
+             study medication&#xD;
+&#xD;
+          -  Females must be unable to bear children, OR ensure that their male partner is&#xD;
+             incapable of fathering a child, OR, if of childbearing potential will strictly adhere&#xD;
+             to contraceptive measures during the study and for seven days following the last dose&#xD;
+             of study medication&#xD;
+&#xD;
+          -  Females must agree to stop breast-feeding prior to first dose of study drug and&#xD;
+             through seven days after completing therapy&#xD;
+&#xD;
+          -  Females must have a negative pregnancy test at screening&#xD;
+&#xD;
+          -  Participant agrees to maintain home or other quarantine as recommended by the study&#xD;
+             physician, except to visit the study site as required by the protocol&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Concomitant bacterial respiratory infection documented by respiratory culture. NOTE:&#xD;
+             Subjects on empirical antibiotic treatment for possible but unproven bacterial&#xD;
+             pneumonia, but who are positive for SARS-CoV-2, are allowed in the study.&#xD;
+&#xD;
+          -  Previous use of antiviral drugs that may be active against Covid-19.&#xD;
+&#xD;
+          -  Abnormal laboratory test results at screening:&#xD;
+&#xD;
+          -  Use of adrenocorticosteroids (except topical or inhaled preparations or oral&#xD;
+             preparations equivalent to or less than 10 mg of oral prednisone) or immunosuppressive&#xD;
+             or immunomodulatory drugs (e.g., immunosuppressants, anticancer drugs, interleukins,&#xD;
+             interleukin antagonists or interleukin receptor blockers). NOTE: Treatment of study&#xD;
+             participants following institutional COVID-19 treatment policies or guidelines,&#xD;
+             including the use of immunomodulatory medications, is permitted. This excludes&#xD;
+             treatment with agents that have the potential for direct antiviral activity, including&#xD;
+             convalescent plasma and NO, and co-enrollment into other clinical studies that&#xD;
+             evaluate investigational agents for COVID-19.&#xD;
+&#xD;
+          -  Serious chronic disease (e.g., human immunodeficiency virus [HIV], cancer requiring&#xD;
+             chemotherapy within the preceding 6 months, and/or moderate or severe hepatic&#xD;
+             insufficiency).&#xD;
+&#xD;
+          -  Previously received camostat mesilate within the past 30 days.&#xD;
+&#xD;
+          -  Advanced kidney disease&#xD;
+&#xD;
+          -  Advanced liver disease&#xD;
+&#xD;
+          -  History of alcohol or drug abuse in the previous 6 months.&#xD;
+&#xD;
+          -  Psychiatric illness that is not well controlled (defined as stable on a regimen for&#xD;
+             more than one year).&#xD;
+&#xD;
+          -  Taken another investigational drug within the past 30 days.&#xD;
+&#xD;
+          -  Seemed by the Investigator to be ineligible for any reason.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Julie Parsonnet, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Stanford University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Stanford University</name>
+      <address>
+        <city>Stanford</city>
+        <state>California</state>
+        <zip>94305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Team</last_name>
+      <phone>650-736-5198</phone>
+      <email>Treatcovid@stanford.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>April 10, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 20, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 24, 2020</study_first_posted>
+  <last_update_submitted>January 5, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 5, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 7, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Camostat</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

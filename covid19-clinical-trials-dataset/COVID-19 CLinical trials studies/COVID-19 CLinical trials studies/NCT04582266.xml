@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1077">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04582266</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IMPAACT 2032</org_study_id>
+    <secondary_id>DAIDS Study ID 38746</secondary_id>
+    <nct_id>NCT04582266</nct_id>
+  </id_info>
+  <brief_title>PK and Safety of Remdesivir for Treatment of COVID-19 in Pregnant and Non-Pregnant Women in the US</brief_title>
+  <official_title>Pharmacokinetics and Safety of Remdesivir for Treatment of COVID-19 in Pregnant and Non-Pregnant Women in the United States</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>International Maternal Pediatric Adolescent AIDS Clinical Trials Group</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>International Maternal Pediatric Adolescent AIDS Clinical Trials Group</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to describe the pharmacokinetic (PK) properties and safety of&#xD;
+      remdesivir (GS-5734TM) (RDV) administered to pregnant and non-pregnant women with COVID-19.&#xD;
+      It is a Phase I, prospective, open label, non-randomized opportunistic PK study in pregnant&#xD;
+      and non-pregnant women of childbearing potential hospitalized and receiving RDV for treatment&#xD;
+      of COVID-19. RDV will not be provided as part of the study.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a Phase I prospective, open label, non-randomized opportunistic study to evaluate the&#xD;
+      PK and safety of RDV when administered to pregnant and non-pregnant women of childbearing&#xD;
+      potential for treatment of COVID-19. RDV is not provided as part of this study; a requirement&#xD;
+      for entry is that participants receive RDV as part of their clinical care (i.e., outside of&#xD;
+      the study). A target of 20 PK evaluable pregnant women will be enrolled into Arm 1; a target&#xD;
+      of 20 PK evaluable non-pregnant women of childbearing potential will be enrolled into Arm 2.&#xD;
+      Study sites will be located in the United States.&#xD;
+&#xD;
+      Participants will be pregnant and non-pregnant women hospitalized for COVID-19 and will&#xD;
+      receive daily RDV infusions, typically for 5 days but in some cases for up to 10 days, as&#xD;
+      part of their clinical care. RDV will be provided and managed by the participants' treating&#xD;
+      physician and will not be provided as a part of this study. Participants will undergo&#xD;
+      intensive PK sampling.&#xD;
+&#xD;
+      For all women, clinical and laboratory evaluations will be abstracted from the medical&#xD;
+      record. Pregnancy, birth, and infant outcomes will be obtained from pregnant women enrolled&#xD;
+      in Arm 1. Women will be followed for safety through 4 weeks after the last infusion; Arm 1&#xD;
+      women who are still pregnant at that time will also be followed for safety at delivery.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 15, 2020</start_date>
+  <completion_date type="Anticipated">January 15, 2022</completion_date>
+  <primary_completion_date type="Anticipated">January 15, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>PK Outcome: Area under the plasma concentration-time curve (AUC) of RDV</measure>
+    <time_frame>Through Day 5 of infusions</time_frame>
+    <description>For Arm 1 only; Calculated using non-compartmental methods</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>PK Outcome: Half-life (t1/2) of RDV</measure>
+    <time_frame>Through Day 5 of infusions</time_frame>
+    <description>For Arm 1 only; Calculated using non-compartmental methods</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>PK Outcome: Trough concentration (Ctrough) of GS-441524</measure>
+    <time_frame>Through Day 5 of infusions</time_frame>
+    <description>For Arm 1 only; Calculated using non-compartmental methods</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety Outcome: Maternal renal adverse event (AE) of any grade</measure>
+    <time_frame>Through 7 Days post-last infusion</time_frame>
+    <description>For Arm 1 only; Graded according to the Division of AIDS Table for Grading the Severity of Adult and Pediatric Adverse Events (DAIDS AE Grading Table), Corrected Version 2.1, dated July 2017</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety Outcome: Maternal hepatic AE of any grade</measure>
+    <time_frame>Through 7 Days post-last infusion</time_frame>
+    <description>For Arm 1 only; Graded according to the Division of AIDS Table for Grading the Severity of Adult and Pediatric Adverse Events (DAIDS AE Grading Table), Corrected Version 2.1, dated July 2017</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety Outcome: Maternal hematologic AE of any grade</measure>
+    <time_frame>Through 7 Days post-last infusion</time_frame>
+    <description>For Arm 1 only; Graded according to the Division of AIDS Table for Grading the Severity of Adult and Pediatric Adverse Events (DAIDS AE Grading Table), Corrected Version 2.1, dated July 2017</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety Outcome: Maternal Grade 3 or higher AE</measure>
+    <time_frame>Through 4 Weeks post-last infusion and Delivery</time_frame>
+    <description>For Arm 1 only; Graded according to the Division of AIDS Table for Grading the Severity of Adult and Pediatric Adverse Events (DAIDS AE Grading Table), Corrected Version 2.1, dated July 2017</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety Outcome: Serious AE</measure>
+    <time_frame>Through 4 Weeks post-last infusion and Delivery</time_frame>
+    <description>For Arm 1 only; Graded according to the Division of AIDS Table for Grading the Severity of Adult and Pediatric Adverse Events (DAIDS AE Grading Table), Corrected Version 2.1, dated July 2017</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety Outcome: Maternal Grade 3 or higher AE assessed as related to RDV by the Clinical Management Committee (CMC)</measure>
+    <time_frame>Through 4 Weeks post-last infusion and Delivery</time_frame>
+    <description>For Arm 1 only; Graded according to the Division of AIDS Table for Grading the Severity of Adult and Pediatric Adverse Events (DAIDS AE Grading Table), Corrected Version 2.1, dated July 2017</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety Outcome: Pregnancy loss</measure>
+    <time_frame>Delivery</time_frame>
+    <description>For Arm 1 only</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety Outcome: Congenital anomalies</measure>
+    <time_frame>Delivery</time_frame>
+    <description>For Arm 1 only</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety Outcome: Preterm birth, defined as &lt; 37 weeks</measure>
+    <time_frame>Delivery</time_frame>
+    <description>For Arm 1 only</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety Outcome: Preterm birth, defined as &lt; 34 weeks</measure>
+    <time_frame>Delivery</time_frame>
+    <description>For Arm 1 only</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety Outcome: Small for gestational age, defined as &lt; 10th percentile</measure>
+    <time_frame>Delivery</time_frame>
+    <description>For Arm 1 only</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety Outcome: Newborn birth weight</measure>
+    <time_frame>Delivery</time_frame>
+    <description>For Arm 1 only</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety Outcome: Newborn length</measure>
+    <time_frame>Delivery</time_frame>
+    <description>For Arm 1 only</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety Outcome: Newborn head circumference</measure>
+    <time_frame>Delivery</time_frame>
+    <description>For Arm 1 only</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>PK Outcome: AUC of RDV</measure>
+    <time_frame>Through Day 5 of infusions</time_frame>
+    <description>For Arm 2 only; Calculated using non-compartmental methods</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK Outcome: t1/2 of RDV</measure>
+    <time_frame>Through Day 5 of infusions</time_frame>
+    <description>For Arm 2 only; Calculated using non-compartmental methods</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK Outcome: Ctrough of GS-441524</measure>
+    <time_frame>Through Day 5 of infusions</time_frame>
+    <description>For Arm 2 only; Calculated using non-compartmental methods</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety Outcome: Renal AE of any grade</measure>
+    <time_frame>Through 7 Days post-last infusion</time_frame>
+    <description>For Arm 2 only; Graded according to the Division of AIDS Table for Grading the Severity of Adult and Pediatric Adverse Events (DAIDS AE Grading Table), Corrected Version 2.1, dated July 2017</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety Outcome: Hepatic AE of any grade</measure>
+    <time_frame>Through 7 Days post-last infusion</time_frame>
+    <description>For Arm 2 only; Graded according to the Division of AIDS Table for Grading the Severity of Adult and Pediatric Adverse Events (DAIDS AE Grading Table), Corrected Version 2.1, dated July 2017</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety Outcome: Hematologic AE of any grade</measure>
+    <time_frame>Through 7 Days post-last infusion</time_frame>
+    <description>For Arm 2 only; Graded according to the Division of AIDS Table for Grading the Severity of Adult and Pediatric Adverse Events (DAIDS AE Grading Table), Corrected Version 2.1, dated July 2017</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety Outcome: Grade 3 or higher AE</measure>
+    <time_frame>Through 4 Weeks post-last infusion</time_frame>
+    <description>For Arm 2 only; Graded according to the Division of AIDS Table for Grading the Severity of Adult and Pediatric Adverse Events (DAIDS AE Grading Table), Corrected Version 2.1, dated July 2017</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety Outcome: Serious AE</measure>
+    <time_frame>Through 4 Weeks post-last infusion</time_frame>
+    <description>For Arm 2 only; Graded according to the Division of AIDS Table for Grading the Severity of Adult and Pediatric Adverse Events (DAIDS AE Grading Table), Corrected Version 2.1, dated July 2017</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety Outcome: Grade 3 or higher AE assessed as related to RDV by the CMC</measure>
+    <time_frame>Through 4 Weeks post-last infusion</time_frame>
+    <description>For Arm 2 only; Graded according to the Division of AIDS Table for Grading the Severity of Adult and Pediatric Adverse Events (DAIDS AE Grading Table), Corrected Version 2.1, dated July 2017</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>PK Outcome: Ratio of cord blood/maternal plasma RDV concentrations</measure>
+    <time_frame>Delivery</time_frame>
+    <description>For women in Arm 1 who received RDV within 5 days of delivery only</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>PK Outcome: Ratio of cord blood/maternal plasma GS-441524 concentrations</measure>
+    <time_frame>Delivery</time_frame>
+    <description>For women in Arm 1 who received RDV within 5 days of delivery only</description>
+  </other_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Arm 1</arm_group_label>
+    <description>Pregnant women hospitalized and receiving RDV for treatment of COVID-19.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 2</arm_group_label>
+    <description>Non-pregnant women of childbearing potential hospitalized and receiving RDV for treatment of COVID-19.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Remdesivir</intervention_name>
+    <description>RDV will not be provided as part of the study. Participants will be administered RDV intravenously once daily for up to 10 days per clinical care.</description>
+    <arm_group_label>Arm 1</arm_group_label>
+    <arm_group_label>Arm 2</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        This study will be conducted among hospitalized pregnant and non-pregnant women receiving&#xD;
+        RDV infusion for treatment of COVID-19 as part of their clinical care&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria: Arm 1 (Pregnant Women)&#xD;
+&#xD;
+          -  Of legal age or otherwise able to provide independent informed consent or is unable to&#xD;
+             provide informed consent (e.g. impaired capacity) and a Legally Authorized&#xD;
+             Representative (LAR) is willing and able to provide written informed consent on behalf&#xD;
+             of the participant&#xD;
+&#xD;
+          -  At study entry, viable intra-uterine pregnancy of any gestational age, based on&#xD;
+             medical records.&#xD;
+&#xD;
+          -  At study entry, hospitalized AND has confirmed or suspected COVID-19, based on medical&#xD;
+             records.&#xD;
+&#xD;
+          -  At study entry, receiving or expected to receive RDV for COVID-19 clinical care, as&#xD;
+             prescribed by the clinical care provider and documented in medical records.&#xD;
+&#xD;
+        Inclusion Criteria - Arm 2 (Non-Pregnant Women)&#xD;
+&#xD;
+          -  Of legal age or otherwise able to provide independent informed consent or is unable to&#xD;
+             provide informed consent (e.g. impaired capacity) and a Legally Authorized&#xD;
+             Representative (LAR) is willing and able to provide written informed consent on behalf&#xD;
+             of the participant&#xD;
+&#xD;
+          -  At study entry, between 18 and 45 years of age, based on medical records and&#xD;
+             participant report.&#xD;
+&#xD;
+          -  Assigned female at birth and at study entry not taking cross-sex hormone therapy.&#xD;
+&#xD;
+          -  At study entry, not suspected to be pregnant, based on participant report and/or&#xD;
+             investigator or designee determination.&#xD;
+&#xD;
+          -  At study entry, not within 6 weeks postpartum, based on participant report, medical&#xD;
+             records, and/or investigator or designee determination.&#xD;
+&#xD;
+          -  At study entry, hospitalized AND has confirmed or suspected COVID-19, based on medical&#xD;
+             records.&#xD;
+&#xD;
+          -  At study entry, receiving or expected to receive RDV for COVID-19 clinical care, as&#xD;
+             prescribed by the clinical care provider and documented in medical records.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  At study entry, has started or received the 4th RDV infusion.&#xD;
+&#xD;
+          -  At study entry, evidence of post-menopausal status (medical or surgical), based on&#xD;
+             medical records and/or participant report.&#xD;
+&#xD;
+          -  At study entry, any contraindications to RDV treatment for COVID-19, based on&#xD;
+             investigator or designee determination.&#xD;
+&#xD;
+          -  Received or administered any disallowed medications within 48 hours prior to study&#xD;
+             entry.&#xD;
+&#xD;
+          -  At study entry, has any other condition, that, in the opinion of the site investigator&#xD;
+             or designee, would make participation in the study unsafe, complicate interpretation&#xD;
+             of study outcome data, or otherwise interfere with achieving study objectives.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mark Mirochnick, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Department of Pediatrics, Boston University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Diana Clarke, PharmD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Pediatric Infectious Diseases, Boston Medical Center</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Brookie Best, PharmD, MAS</last_name>
+    <role>Study Chair</role>
+    <affiliation>University of California, San Diego</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Elizabeth Greene, MPH</last_name>
+    <phone>9195447040</phone>
+    <phone_ext>11124</phone_ext>
+    <email>egreene@fhi360.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Kathleen George, MPH</last_name>
+    <phone>9195447040</phone>
+    <phone_ext>11150</phone_ext>
+    <email>kgeorge@fhi360.org</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>USC/Los Angeles County Medical Center NICHD CRS (5048)</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90089</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Lourdes Topete, RN</last_name>
+      <phone>323-865-1585</phone>
+      <email>ltopete@usc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Alice Stek, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>David Geffen School of Medicine at UCLA (CRS 5112)</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Michele Carter, BS, RN</last_name>
+      <phone>310-206-6369</phone>
+      <email>mfcarter@mednet.ucla.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Jaime Deville, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University California, San Diego (CRS 4601)</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Megan Loughran</last_name>
+      <phone>714-501-1922</phone>
+      <email>meloughran@health.ucsd.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Stephen Spector, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Childrens Hospital (U. Colorado, Denver) NICHD CRS (5052)</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80218-1088</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Florida (5051)</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32209</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Saniyyah Mahmoudi, ARNP</last_name>
+      <phone>904-244-5331</phone>
+      <email>saniyyah.Mahmoudi@jax.ufl.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Mobeen Rathore, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Miami Pediatric/Perinatal HIV/AIDS (4201)</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Adriana Drada, FMD, CCRP</last_name>
+      <phone>305-243-4447</phone>
+      <email>apd86@med.miami.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Gwendolyn Scott, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Emory University School of Medicine (CRS 5030)</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30308</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>LaTeshia Thomas-Seaton</last_name>
+      <phone>404-616-5936</phone>
+      <email>lseaton@emory.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Martina Badell, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Ann &amp; Robert H Lurie Children's Hospital of Chicago (4001)</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Margaret Sanders, MPH</last_name>
+      <phone>312-227-8275</phone>
+      <email>msanders@luriechildrens.org</email>
+    </contact>
+    <investigator>
+      <last_name>Ellen Chadwick, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Rush University Cook County Hospital NICHD CRS (5083)</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Maureen McNichols, MSN, CCRP</last_name>
+      <phone>312-572-4541</phone>
+      <email>maureen_mcnichols@rush.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Mariam Aziz, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Johns Hopkins University NICHD CRS (5092)</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21287</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Aleisha Collinson-Streng, RN, BSN</last_name>
+      <phone>443-287-8888</phone>
+      <email>acolli14@jhmi.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Allison Agwu, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Boston Medical Center Ped. HIV Program NICHD CRS (5011)</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02118</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Debra McLaud, RN</last_name>
+      <phone>617-414-5813</phone>
+      <email>demclaud@bmc.org</email>
+    </contact>
+    <investigator>
+      <last_name>Ellen Cooper, MD, MPH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Bronx-Lebanon Hospital Center (CRS 5114)</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10457</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Jacobi Med. Ctr. Bronx NICHD CRS (5013)</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10461</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Stony Brook University Medical Center (CRS 5040)</name>
+      <address>
+        <city>Stony Brook</city>
+        <state>New York</state>
+        <zip>11794</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Barsha Chakraborty, BS</last_name>
+      <phone>631-444-8225</phone>
+      <email>Barsha.Chakraborty@stonybrookmedicine.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Christy Beneri, DO</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>St. Jude Childrens Research Hosp, Memphis (6501)</name>
+      <address>
+        <city>Memphis</city>
+        <state>Tennessee</state>
+        <zip>38105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Nina Sublette, PhD, APRN-BC</last_name>
+      <phone>901-448-2696</phone>
+      <email>nsublett@uthsc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Katherine Knapp, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Children's Hospital</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Shelley Buschur, RN, CNM</last_name>
+      <phone>832-725-6124</phone>
+      <email>slbuschu@texaschildrens.org</email>
+    </contact>
+    <investigator>
+      <last_name>Mary Paul, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Puerto Rico Pediatric HIV/AIDS CRS (6601)</name>
+      <address>
+        <city>San Juan</city>
+        <zip>00936-5067</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Ruth E. Santos, RN, MPH, BSN</last_name>
+      <phone>(787) 759-9595</phone>
+      <phone_ext>230</phone_ext>
+      <email>rsantos@rcm.upr.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Irma L. Febo Rodriguez, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Puerto Rico</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>October 8, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 8, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 9, 2020</study_first_posted>
+  <last_update_submitted>October 8, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 8, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 9, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19, Pregnancy</keyword>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Individual participant data that underlie results in the publication, after deidentification.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>Beginning 3 months following publication and available throughout period of funding of the International Maternal Pediatric Adolescent AIDS Clinical Trial (IMPAACT) Network by NIH.</ipd_time_frame>
+    <ipd_access_criteria>With whom? Researchers who provide a methodologically sound proposal for use of the data that is approved by the IMPAACT Network.&#xD;
+For what types of analyses? To achieve aims in the proposal approved by the IMPAACT Network.&#xD;
+By what mechanism will data be made available? Researchers may submit a request for access to data using the IMPAACT &quot;Data Request&quot; form at: https://www.impaactnetwork.org/resources/study-proposals.htm. Researchers of approved proposals will need to sign an IMPAACT Data Use Agreement before receiving the data.</ipd_access_criteria>
+    <ipd_url>https://www.impaactnetwork.org/</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

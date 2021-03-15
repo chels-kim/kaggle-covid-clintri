@@ -1,0 +1,1531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3509">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04575597</url>
+  </required_header>
+  <id_info>
+    <org_study_id>4482-002</org_study_id>
+    <secondary_id>2020-003368-24</secondary_id>
+    <secondary_id>MK-4482-002</secondary_id>
+    <secondary_id>PHRR201209-003186</secondary_id>
+    <nct_id>NCT04575597</nct_id>
+  </id_info>
+  <brief_title>Efficacy and Safety of Molnupiravir (MK-4482) in Non-Hospitalized Adult Participants With COVID-19 (MK-4482-002)</brief_title>
+  <official_title>A Phase 2/3, Randomized, Placebo-Controlled, Double-Blind Clinical Study to Evaluate the Efficacy, Safety, and Pharmacokinetics of MK-4482 in Non-Hospitalized Adults With COVID-19.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Merck Sharp &amp; Dohme Corp.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Merck Sharp &amp; Dohme Corp.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study aims to evaluate the safety, tolerability and efficacy of molnupiravir (MK-4482)&#xD;
+      compared to placebo. The primary hypothesis is that molnupiravir is superior to placebo as&#xD;
+      assessed by the percentage of participants who are hospitalized and/or die through Day 29&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 19, 2020</start_date>
+  <completion_date type="Anticipated">December 14, 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 11, 2021</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage of participants who are hospitalized and/or die</measure>
+    <time_frame>Up to 29 days</time_frame>
+    <description>Hospitalization (all cause) is ≥24 hours of acute care in a hospital or similar acute care facility. Death is due to any cause.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of participants with an adverse event (AE)</measure>
+    <time_frame>Up to ~7 months</time_frame>
+    <description>An AE is any untoward medical occurrence in a clinical study participant, temporally associated with the use of study intervention, whether or not considered related to the study intervention.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of participants who discontinued study intervention due to an AE</measure>
+    <time_frame>Up to 6 days</time_frame>
+    <description>An AE is any untoward medical occurrence in a clinical study participant, temporally associated with the use of study intervention, whether or not considered related to the study intervention.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to sustained resolution or improvement of each targeted COVID-19 sign/symptom</measure>
+    <time_frame>Up to 29 days</time_frame>
+    <description>The number of days from randomization to the first day on or before study Day 29 for sustained resolution or improvement of each sign/symptom will be assessed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to progression of each targeted COVID-19 sign/symptom</measure>
+    <time_frame>Up to 29 days</time_frame>
+    <description>The number of days from randomization to the first day on or before study Day 29 for each targeted self-reported sign/symptom will be assessed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>WHO 11-point outcomes score on a scale</measure>
+    <time_frame>Up to 29 days</time_frame>
+    <description>The World Health Organization (WHO) outcome scale is an 11-point ordinal score that categorizes clinical progression. Score ranges from 0 to 10 with higher score indicating clinical progression.</description>
+  </secondary_outcome>
+  <number_of_arms>6</number_of_arms>
+  <enrollment type="Anticipated">1450</enrollment>
+  <condition>Coronavirus Disease (COVID-19)</condition>
+  <arm_group>
+    <arm_group_label>Part 1: Molnupiravir 200 mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>200 mg molnupiravir administered orally every 12 hours for 5 days (10 doses total)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 1: Molnupiravir 400 mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>400 mg molnupiravir administered orally every 12 hours for 5 days (10 doses total)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 1: Molnupiravir 800 mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>800 mg molnupiravir administered orally every 12 hours for 5 days (10 doses total)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 1: Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo matching molnupiravir administered orally every 12 hours for 5 days (10 doses total)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 2: Molnupiravir</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Molnupiravir (dose to be selected) administered orally every 12 hours for 5 days (10 doses total)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 2: Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo matching molnupiravir administered orally every 12 hours for 5 days (10 doses total)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Molnupiravir</intervention_name>
+    <description>Molnupiravir administered orally in capsule form every 12 hours for 5 days (10 doses total)</description>
+    <arm_group_label>Part 1: Molnupiravir 200 mg</arm_group_label>
+    <arm_group_label>Part 1: Molnupiravir 400 mg</arm_group_label>
+    <arm_group_label>Part 1: Molnupiravir 800 mg</arm_group_label>
+    <arm_group_label>Part 2: Molnupiravir</arm_group_label>
+    <other_name>MK-4482</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo matching molnupiravir administered orally in capsule form every 12 hours for 5 days (10 doses total)</description>
+    <arm_group_label>Part 1: Placebo</arm_group_label>
+    <arm_group_label>Part 2: Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Has documentation of polymerase chain reaction (PCR) confirmed severe acute&#xD;
+             respiratory syndrome coronavirus 2 (SARS-CoV-2) infection with sample collection ≤7&#xD;
+             days prior to the day of randomization. PCR is the preferred method; however with&#xD;
+             evolving approaches to laboratory confirmation of SARS-CoV-2 infection, other&#xD;
+             molecular or antigen tests that detect viral ribonucleic acid (RNA) or protein are&#xD;
+             allowed if authorized for use in the country. Serological tests that detect host&#xD;
+             antibodies generated in response to recent or prior infection are not allowed.&#xD;
+&#xD;
+          -  Had initial onset of signs/symptoms attributable to COVID-19 for ≤7 days prior to the&#xD;
+             day of randomization and at least 1 of the following sign/symptom attributable to&#xD;
+             COVID-19 on the day of randomization.&#xD;
+&#xD;
+          -  Has mild or moderate COVID-19. Participants with mild COVID-19 must have at least 1&#xD;
+             characteristic or underlying medical condition associated with an increased risk of&#xD;
+             severe illness from COVID-19.&#xD;
+&#xD;
+          -  Males agree to the following during the intervention period and for at least 90 days&#xD;
+             after the last dose of study intervention: Refrain from donating sperm; and either&#xD;
+             abstain from heterosexual intercourse as their preferred and usual lifestyle&#xD;
+             (abstinent on a long term and persistent basis) and agree to remain abstinent; or must&#xD;
+             agree to use contraception.&#xD;
+&#xD;
+          -  Females are not pregnant or breastfeeding, and at least one of the following&#xD;
+             conditions applies: Is not a woman of child bearing potential (WOCBP); or is a WOCBP&#xD;
+             and using a contraceptive method that is highly effective (a low user dependency&#xD;
+             method OR a user dependent method in combination with barrier method), or be abstinent&#xD;
+             from heterosexual intercourse as their preferred and usual lifestyle (abstinent on a&#xD;
+             long-term and persistent basis) for 28 days from the start of study intervention; a&#xD;
+             WOCBP must have a negative highly sensitive pregnancy test (urine or serum test is&#xD;
+             required) within 24 hours before the first dose of study intervention.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Is currently hospitalized or is expected to need hospitalization for COVID-19 within&#xD;
+             48 hours of randomization.&#xD;
+&#xD;
+          -  Is on dialysis or has reduced estimated glomerular filtration rate (eGFR) &lt;30&#xD;
+             mL/min/1.73m^2 by the Modification of Diet in Renal Disease (MDRD) equation.&#xD;
+&#xD;
+          -  Has any of the following conditions: human immunodeficiency virus (HIV) with a recent&#xD;
+             viral load &gt;50 copies/mL or cluster of differentiation 4 (CD4) &lt;200 cell/mm^3;&#xD;
+             chemotherapy required within 6 weeks before randomization; a neutrophilic granulocyte&#xD;
+             absolute count &lt;500/mm^3; autologous or allogeneic hematopoietic stem cell transplant&#xD;
+             recipient.&#xD;
+&#xD;
+          -  Has a history of hepatitis B virus (HBV) or hepatitis C virus (HCV) with cirrhosis,&#xD;
+             end-stage liver disease, hepatocellular carcinoma, aspartate aminotransferase (AST)&#xD;
+             and/or alanine aminotransferase (ALT) &gt;3X upper limit of normal at screening.&#xD;
+&#xD;
+          -  Has a platelet count &lt;100,000/μL or received a platelet transfusion in the 5 days&#xD;
+             prior to randomization.&#xD;
+&#xD;
+          -  Has a history of acute pancreatitis within 3 months prior to randomization or a&#xD;
+             history of chronic pancreatitis.&#xD;
+&#xD;
+          -  Is taking or is anticipated to require any prohibited therapies.&#xD;
+&#xD;
+          -  Is unwilling to abstain from participating in another interventional clinical study&#xD;
+             through Day 29 with an investigational compound or device, including those for&#xD;
+             COVID-19 therapeutics.&#xD;
+&#xD;
+          -  Has a baseline heart rate of &lt; 50 beats per minute at rest&#xD;
+&#xD;
+          -  Has hypersensitivity or other contraindication to any of the components of the study&#xD;
+             interventions as determined by the investigator.&#xD;
+&#xD;
+          -  Has any condition for which, in the opinion of the investigator, participation would&#xD;
+             not be in the best interest of the participant or that could prevent, limit, or&#xD;
+             confound the protocol-specified assessments including but not limited to: participants&#xD;
+             who are not expected to survive longer than 48 hours after randomization, participants&#xD;
+             who are expected to require mechanical ventilation within 48 hours after&#xD;
+             randomization, or participants with a recent history of mechanical ventilation, or&#xD;
+             participants with conditions that could limit gastrointestinal absorption of capsule&#xD;
+             contents.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Medical Director</last_name>
+    <role>Study Director</role>
+    <affiliation>Merck Sharp &amp; Dohme Corp.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Toll Free Number</last_name>
+    <phone>1-888-577-8839</phone>
+    <email>Trialsites@merck.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Phoenix Medical Group ( Site 1822)</name>
+      <address>
+        <city>Peoria</city>
+        <state>Arizona</state>
+        <zip>85381</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>623-815-9800</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ruane Clinical Research Group, Inc. ( Site 2406)</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90036</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>323-954-0400 x236</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Men's Health Foundation ( Site 1820)</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90069</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>310-550-2271</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>UC Davis Medical Center ( Site 1833)</name>
+      <address>
+        <city>Sacramento</city>
+        <state>California</state>
+        <zip>95817</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>916-734-2011</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Emerson Clinical Research Institute ( Site 1828)</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20011</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>202-239-0777</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Midway Immunology and Research Center ( Site 1837)</name>
+      <address>
+        <city>Fort Pierce</city>
+        <state>Florida</state>
+        <zip>34982</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>772-595-9830</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Indago Research &amp; Health Center, Inc ( Site 1809)</name>
+      <address>
+        <city>Hialeah</city>
+        <state>Florida</state>
+        <zip>33012</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>305-825-6588</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Advanced Research For Health Improvement LLC ( Site 1816)</name>
+      <address>
+        <city>Immokalee</city>
+        <state>Florida</state>
+        <zip>34142</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>239-230-2021</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Advanced Research For Health Improvement LLC ( Site 1813)</name>
+      <address>
+        <city>Naples</city>
+        <state>Florida</state>
+        <zip>34102</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>239-230-2021</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Bliss Healthcare Services ( Site 1847)</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>407-203-5984</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Javara Inc. ( Site 1869)</name>
+      <address>
+        <city>Albany</city>
+        <state>Georgia</state>
+        <zip>31707</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>229-255-2731</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>IACT Health ( Site 1818)</name>
+      <address>
+        <city>Columbus</city>
+        <state>Georgia</state>
+        <zip>31904</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>706-321-0495</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Javara Inc. ( Site 1868)</name>
+      <address>
+        <city>Fayetteville</city>
+        <state>Georgia</state>
+        <zip>30214</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>999-999-9999</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Loretto Hospital ( Site 1886)</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60644</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>773-626-4300</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Nebraska Medical Center ( Site 2414)</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68198</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>402-559-4000</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of New Mexico, Health Sciences Center ( Site 1819)</name>
+      <address>
+        <city>Albuquerque</city>
+        <state>New Mexico</state>
+        <zip>87131</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>505-272-4661</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Hope Foundation, Inc. ( Site 1830)</name>
+      <address>
+        <city>Bellaire</city>
+        <state>Texas</state>
+        <zip>77401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>713-839-7111</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>The Crofoot Research Center, Inc. ( Site 1812)</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77098</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>713-526-0005</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Javara Inc. ( Site 1866)</name>
+      <address>
+        <city>Sugar Land</city>
+        <state>Texas</state>
+        <zip>77478</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>281-340-9355</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Swedish Medical Center First Hill ( Site 1807)</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>206-386-6215</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Multicare Health System ( Site 1811)</name>
+      <address>
+        <city>Spokane</city>
+        <state>Washington</state>
+        <zip>99204</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>509-342-3070</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Multicare Health System ( Site 1814)</name>
+      <address>
+        <city>University Place</city>
+        <state>Washington</state>
+        <zip>98466</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>253-403-7249</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Chronos Pesquisa Clínica ( Site 0155)</name>
+      <address>
+        <city>Brasilia</city>
+        <state>Distrito Federal</state>
+        <zip>72145-424</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+556134917804</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Santa Casa de Misericordia de Belo Horizonte ( Site 0150)</name>
+      <address>
+        <city>Belo Horizonte</city>
+        <state>Minas Gerais</state>
+        <zip>30150-221</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+55 31 38790085</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de Clinicas da Universidade Federal do Parana ( Site 0154)</name>
+      <address>
+        <city>Curitiba</city>
+        <state>Parana</state>
+        <zip>80060-900</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+5541998877638</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Tacchini ( Site 0157)</name>
+      <address>
+        <city>Bento Goncalves</city>
+        <state>Rio Grande Do Sul</state>
+        <zip>95700-000</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+555434554333</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto de Infectologia Emilio Ribas ( Site 0153)</name>
+      <address>
+        <city>Sao Paulo</city>
+        <zip>01246-900</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>5511983957007</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University Health Network - Toronto General Hospital ( Site 0201)</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M5G 2N2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>4163403871</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Clinica Universidad de los Andes ( Site 0302)</name>
+      <address>
+        <city>Santiago</city>
+        <state>Region M. De Santiago</state>
+        <zip>2820945</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>562 2618 3100</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Fundacion Arturo Lopez Perez ( Site 0305)</name>
+      <address>
+        <city>Santiago</city>
+        <state>Region M. De Santiago</state>
+        <zip>7500921</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>56976013900</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Espacio EME ( Site 0304)</name>
+      <address>
+        <city>Santiago</city>
+        <state>Region M. De Santiago</state>
+        <zip>7770086</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+56977743678</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Clinica Bicentenario Spa ( Site 0306)</name>
+      <address>
+        <city>Santiago</city>
+        <state>Region M. De Santiago</state>
+        <zip>9160000</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+569 8264 6265</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Pablo Tobon Uribe ( Site 0405)</name>
+      <address>
+        <city>Medellin</city>
+        <state>Antioquia</state>
+        <zip>050034</zip>
+        <country>Colombia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+5744459753</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Clinica de la Costa Ltda. ( Site 0403)</name>
+      <address>
+        <city>Barranquilla</city>
+        <state>Atlantico</state>
+        <zip>080020</zip>
+        <country>Colombia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+573128335766</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Oncomedica S.A. ( Site 0407)</name>
+      <address>
+        <city>Monteria</city>
+        <state>Cordoba</state>
+        <zip>230002</zip>
+        <country>Colombia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+5747854344</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Caja de Compensación Familiar CAFAM. Sede Centro de Atención en Salud CAFAM Floresta ( Site 0406)</name>
+      <address>
+        <city>Bogota</city>
+        <state>Cundinamarca</state>
+        <zip>111211</zip>
+        <country>Colombia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+5715300470</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Fundacion Cardiovascular de Colombia ( Site 0402)</name>
+      <address>
+        <city>Bucaramanca</city>
+        <state>Santander</state>
+        <zip>680003</zip>
+        <country>Colombia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+573002087183</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Fundacion Valle del Lili ( Site 0401)</name>
+      <address>
+        <city>Cali</city>
+        <state>Valle Del Cauca</state>
+        <zip>760032</zip>
+        <country>Colombia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+5723319090</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Groupe Hospitalier Pellegrin ( Site 0511)</name>
+      <address>
+        <city>Bordeaux</city>
+        <state>Gironde</state>
+        <zip>33000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+33556795679</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>C.H.U. de Toulouse Hopital Purpan ( Site 0501)</name>
+      <address>
+        <city>Toulouse</city>
+        <state>Midi-Pyrenees</state>
+        <zip>31059</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+33561777508</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier de Tourcoing ( Site 0502)</name>
+      <address>
+        <city>Tourcoing</city>
+        <state>Nord</state>
+        <zip>59208</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+33320694619</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Hopital Saint Antoine ( Site 0505)</name>
+      <address>
+        <city>Paris</city>
+        <zip>75012</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+331492833170</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Pitie Salpetriere University Hospital-Infectious Disease - Tropical Diseases ( Site 0504)</name>
+      <address>
+        <city>Paris</city>
+        <zip>75013</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+33142160142</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Bichat Claude Bernard ( Site 0503)</name>
+      <address>
+        <city>Paris</city>
+        <zip>75018</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+33140257803</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Universitaetsklinikum Frankfurt ( Site 2302)</name>
+      <address>
+        <city>Frankfurt a main</city>
+        <state>Hessen</state>
+        <zip>60590</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+49 69 6301 6140</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Universitaetsklinikum Essen ( Site 2305)</name>
+      <address>
+        <city>Essen</city>
+        <state>Nordrhein-Westfalen</state>
+        <zip>45147</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+492017233171</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>ZIBP-Zentrum fur Infektiologie Berlin Prenzlauer Berg GmbH ( Site 2301)</name>
+      <address>
+        <city>Berlin</city>
+        <zip>10439</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+49 304519889415</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hadassah Medical Center. Ein Kerem ( Site 2100)</name>
+      <address>
+        <city>Jerusalem</city>
+        <zip>9112001</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+97226779372</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Lung Center of the Philippines ( Site 0902)</name>
+      <address>
+        <city>Quezon City</city>
+        <state>National Capital Region</state>
+        <zip>1100</zip>
+        <country>Philippines</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+639178999610</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Central Scientific Research Institute of Epidemiology ( Site 1104)</name>
+      <address>
+        <city>Moscow</city>
+        <state>Moskva</state>
+        <zip>111123</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+74959749646</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Central Clinical Hospital with Polyclinic ( Site 1105)</name>
+      <address>
+        <city>Moscow</city>
+        <state>Moskva</state>
+        <zip>121359</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+74955300111</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Medical Research Institute LLC ( Site 1116)</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <state>Sankt-Peterburg</state>
+        <zip>196084</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+7 812 369-24-86</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>St.Petersburg Outpatient Clinic #109 ( Site 1119)</name>
+      <address>
+        <city>Saint-Petersburg</city>
+        <state>Sankt-Peterburg</state>
+        <zip>192289</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>89140791336</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Limited liability company &quot;Scientific research center Eco-safety&quot; ( Site 1117)</name>
+      <address>
+        <city>Saint-Petersburg</city>
+        <state>Sankt-Peterburg</state>
+        <zip>196143</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+78125005203</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Smolensk State Medical University ( Site 1110)</name>
+      <address>
+        <city>Smolensk</city>
+        <state>Smolenskaya Oblast</state>
+        <zip>214019</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+74812450603</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Strategic Medical System LLC ( Site 1114)</name>
+      <address>
+        <city>Saint-Petersburg</city>
+        <zip>192148</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+79219536683</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>IATROS International ( Site 1212)</name>
+      <address>
+        <city>Bloemfontein</city>
+        <state>Free State</state>
+        <zip>9301</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+27514440037</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Mzansi Ethical Research Centre ( Site 1225)</name>
+      <address>
+        <city>Mpumalanga</city>
+        <state>Gauteng</state>
+        <zip>1055</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+27828027555</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Jongaie Research ( Site 1223)</name>
+      <address>
+        <city>Pretoria-West</city>
+        <state>Gauteng</state>
+        <zip>0183</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+27723824021</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Wentworth Provincial Hospital ( Site 1216)</name>
+      <address>
+        <city>Durban</city>
+        <state>Kwazulu-Natal</state>
+        <zip>4001</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+27837471149</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Limpopo Clinical Research Initiative ( Site 1227)</name>
+      <address>
+        <city>Thabazimbi</city>
+        <state>Limpopo</state>
+        <zip>0380</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+27834688998</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Be Part Yoluntu Centre ( Site 1218)</name>
+      <address>
+        <city>Paarl</city>
+        <state>Western Cape</state>
+        <zip>7626</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+27218683990</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Projects Research Centre ( Site 1215)</name>
+      <address>
+        <city>Worcester</city>
+        <state>Western Cape</state>
+        <zip>6850</zip>
+        <country>South Africa</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+27233474485</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital General Universitario Gregorio Maranon ( Site 1302)</name>
+      <address>
+        <city>Madrid</city>
+        <state>Madrid, Comunidad De</state>
+        <zip>28007</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+34637381956</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CAP Sardenya - Barcelona ( Site 1307)</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08025</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>34 93 567 43 84</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clinic ( Site 1304)</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08036</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>34 93 2275708</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitari Germans Trias i Pujol ( Site 1303)</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08916</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+34934978849</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Ramon y Cajal ( Site 1301)</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28034</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+34913369100</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario La Paz ( Site 1300)</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28046</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+34912077384</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ivano-Frankivsk Regional Clinical Infectious Diseases Hospital ( Site 1605)</name>
+      <address>
+        <city>Ivano-Frankivsk</city>
+        <state>Ivano-Frankivska Oblast</state>
+        <zip>76007</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+380342504906</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CNE Central city clinical hospital of Ivano-Frankivsk city council ( Site 1604)</name>
+      <address>
+        <city>Ivano-Frankivsk</city>
+        <state>Ivano-Frankivska Oblast</state>
+        <zip>76018</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+380504332119</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>MNE Ivano-Frankivsk Regional Phthisiology-Pulmonology Center ( Site 1603)</name>
+      <address>
+        <city>Ivano-Frankivsk</city>
+        <state>Ivano-Frankivska Oblast</state>
+        <zip>76018</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+380679796690</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Non profit municipal enterprise City hospital student of Kharkiv city council ( Site 1621)</name>
+      <address>
+        <city>Kharkiv</city>
+        <state>Kharkivska Oblast</state>
+        <zip>61002</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+380505494926</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>LLC &quot;Adonis plus&quot; ( Site 1619)</name>
+      <address>
+        <city>Kyiv</city>
+        <state>Kyivska Oblast</state>
+        <zip>02002</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>0503532006</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Kyiv railway clinical hospital 2 of Branch Health center ( Site 1602)</name>
+      <address>
+        <city>Kyiv</city>
+        <state>Kyivska Oblast</state>
+        <zip>03049</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+380667464061</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>ARTEM. State Holding Company ( Site 1618)</name>
+      <address>
+        <city>Kyiv</city>
+        <state>Kyivska Oblast</state>
+        <zip>04050</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+380444837430</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Layton Medical Centre ( Site 1705)</name>
+      <address>
+        <city>Blackpool</city>
+        <state>Lancashire (England)</state>
+        <zip>FY3 7EN</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+441253951943</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Free London NHS Foundation Trust ( Site 1700)</name>
+      <address>
+        <city>London</city>
+        <state>London, City Of</state>
+        <zip>NW3 2QG</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>442077940500362850</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>King's College Hospital ( Site 1707)</name>
+      <address>
+        <city>London</city>
+        <state>London, City Of</state>
+        <zip>SE5 9RS</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>+442032994015</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Newcastle upon Tyne Hospitals NHS Foundation Trust ( Site 1704)</name>
+      <address>
+        <city>Newcastle upon Tyne</city>
+        <zip>NE1 4LP</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Coordinator</last_name>
+      <phone>0191 233 6161</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+    <country>Canada</country>
+    <country>Chile</country>
+    <country>Colombia</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Israel</country>
+    <country>Philippines</country>
+    <country>Russian Federation</country>
+    <country>South Africa</country>
+    <country>Spain</country>
+    <country>Ukraine</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>September 30, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 2, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 5, 2020</study_first_posted>
+  <last_update_submitted>January 28, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 28, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 29, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>http://engagezone.msd.com/doc/ProcedureAccessClinicalTrialData.pdf</ipd_description>
+    <ipd_url>http://engagezone.msd.com/ds_documentation.php</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

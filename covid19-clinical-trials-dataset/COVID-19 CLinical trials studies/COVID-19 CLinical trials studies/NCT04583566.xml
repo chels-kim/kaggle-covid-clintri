@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="761">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04583566</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CTM_COVID-19</org_study_id>
+    <nct_id>NCT04583566</nct_id>
+  </id_info>
+  <brief_title>Differential Expression of Cytokines, Transcriptome and miRNA in Coronavirus Disease 2019 (COVID-19) Egyptian's Patients</brief_title>
+  <official_title>Studies on the Differential Expression of Cytokines, Transcriptome and miRNA in the Context of COVID-19 Infection in Egyptian Community</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Tanta University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Tanta University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aim of this effort is to study host-pathogen interaction in Egyptian patients infected&#xD;
+      with COVID-19. The investigators will perform genome-wide miRNA and transcriptome screens in&#xD;
+      the infected patients along with healthy ones for comparison. All types of cytokines play&#xD;
+      pivotal roles in immunity, including the responses to different viral infections. Therefore,&#xD;
+      The investigators will study the cytokines profile in response to that infection. By&#xD;
+      comparing miRNA and transcriptome screens along with cytokines profiles, an important&#xD;
+      molecule might be identified that could play role in the inhibition of the COVID-19 outbreak.&#xD;
+      In addition, this information will help us gaining awareness of the immune process and&#xD;
+      knowing about the genes involved in the immune response against COVID-19 with an emphasis on&#xD;
+      the expression of cytokines.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Coronaviruses are a group of viruses that cause diseases in mammals and birds. In humans,&#xD;
+      coronaviruses cause respiratory tract infections that can be mild, such as some cases of the&#xD;
+      common cold, and others that can be lethal, such as severe acute respiratory syndrome (SARS),&#xD;
+      (middle east respiratory syndrome) MERS, and COVID-19. They contain a positive-sense,&#xD;
+      single-stranded RNA genome. The genome size ranges from approximately 27 to 34 kilobases. It&#xD;
+      has a 5' methylated cap &quot;5'leader, UTR&quot;, replicas/transcriptase enzyme, spike (S) protein,&#xD;
+      envelope (E) protein, membrane (M) protein, nucleocapsid (N) protein, 3'untranslated region&#xD;
+      (3'UTR), and a poly (A) tail, respectively. The S protein has a major role in eliciting the&#xD;
+      protective immunity during infection with SARS-corona virus (SARS-CoV) by inducing&#xD;
+      neutralizing-antibodies and T-cell responses. It is also the most mutated part of the&#xD;
+      coronavirus genome. The aim of this effort is to study host-pathogen interaction in Egyptian&#xD;
+      patients infected with COVID-19. The investigators will perform genome-wide miRNA and&#xD;
+      transcriptome screens in the infected patients along with healthy ones for comparison. All&#xD;
+      types of cytokines play pivotal roles in immunity, including the responses to different viral&#xD;
+      infections. Therefore, The investigators will study the cytokines profile in response to that&#xD;
+      infection. By comparing miRNA and transcriptome screens along with cytokines profiles, an&#xD;
+      important molecule might be identified, which could play role in the inhibition of the&#xD;
+      COVID-19 outbreak. In addition, this information will help us gaining awareness of the immune&#xD;
+      process and knowing about the genes involved in the immune response against COVID-19 with an&#xD;
+      emphasis on the expression of cytokines.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 4, 2020</start_date>
+  <completion_date type="Anticipated">October 3, 2022</completion_date>
+  <primary_completion_date type="Anticipated">October 3, 2021</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>2 Months</target_duration>
+  <primary_outcome>
+    <measure>Differential gene expression profile.</measure>
+    <time_frame>3 months</time_frame>
+    <description>The investigators will analysis total gene expression profile between 15 sever and 15 moderate COVID-19 patients in comparison to 10 health ones by using Affymetrix® Microarray Technology. Microarray raw data for whole transcriptome will be extracted and processed for analysis (about 25000 genes) using different software packages in order to dissect the differential expressions that will be correlated to the clinical data; for example (CBC, D-dimer value, ferritin value…..etc.).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Differential miRNA expression profile.</measure>
+    <time_frame>3 months</time_frame>
+    <description>The investigators will analysis total miRNA expression profile between 15 sever and 15 moderate COVID-19 patients in comparison to 10 health ones by using Affymetrix® Microarray Technology. Microarray raw data for whole miRNA expression will be extracted and processed for analysis using different software packages in order to dissect the differential expressions that will be correlated to the clinical data; for example (CBC, D-dimer value, ferritin value…..etc.).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Multiplex Cytokine assay</measure>
+    <time_frame>3 months</time_frame>
+    <description>This assay will be done on plasma of patients. The investigators will analysis the different cytokine profile between 15 sever and 15 moderate COVID-19 patients in comparison to 10 health ones by using xMAP (Multi-Analyte Profiling) technology &amp; Luminex 200. The obtained data will be analyzed using statistical software to study the different profile between the selected participants. The obtained data will be also correlated to the clinical data; for example (CBC, D-dimer value, ferritin value…..etc.).</description>
+  </primary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Corona Virus Infection</condition>
+  <arm_group>
+    <arm_group_label>COVID-19 Severe Symptoms</arm_group_label>
+    <description>Patients with severe symptoms need oxygen and ventilation.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>COVID-19 Mild Symptoms</arm_group_label>
+    <description>Patients with moderate symptoms, like normal flu symptoms. They do not need oxygen or ventilation</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control Healthy</arm_group_label>
+    <description>Healthy group with out any infection or symptoms.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Genetic</intervention_type>
+    <intervention_name>COVID-19 Diagnostic and Assessment Tests</intervention_name>
+    <description>Complete Blood Count (CBC), Differential leukocytes, D-dimer, C-Reactive Protein, Polymerase Chain Reaction (PCR) Test, Ferritin level, Cytokines Profile, Transcriptome Analysis, miRNA Analysis.</description>
+    <arm_group_label>COVID-19 Mild Symptoms</arm_group_label>
+    <arm_group_label>COVID-19 Severe Symptoms</arm_group_label>
+    <arm_group_label>Control Healthy</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The bioinformatics and statistical analyses will be done to differentiat the actual gene&#xD;
+        expression, miRNA expression, and cytokine storm profile between severe, and mild, COVID-19&#xD;
+        patients in comparison to health control.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Confirmed COVID-19 Patients, and patients aged above 18 will be considered in this&#xD;
+             project.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients with more than one of these chronic diseases; diabetes mellitus,&#xD;
+             hypertension, cardiac diseases, and livers diseases grade 2 and 3 will be excluded.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mohammed Eid, Doctor</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Botany and Microbiology Department, Faculty of Science, Tanta University Tanta</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Mohammed El Shanshoury, Professor</last_name>
+    <phone>+201005680834</phone>
+    <email>elshanshory@gmail.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Tanta University Hospital</name>
+      <address>
+        <city>Tanta</city>
+        <state>El Gharbia</state>
+        <zip>31527</zip>
+        <country>Egypt</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mohammed Hanteera, Professor</last_name>
+      <phone>+201141146700</phone>
+      <email>mohamed.hantera@med.tanta.edu.eg</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Center of Excellence in Cancer Research, Tanta University Hospital.</name>
+      <address>
+        <city>Tanta</city>
+        <state>Gharbia</state>
+        <zip>31527</zip>
+        <country>Egypt</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location_countries>
+    <country>Egypt</country>
+  </location_countries>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>October 7, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 8, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 12, 2020</study_first_posted>
+  <last_update_submitted>October 10, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 10, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 14, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Tanta University</investigator_affiliation>
+    <investigator_full_name>Mohammed Ali Ahmed Eid</investigator_full_name>
+    <investigator_title>Dr. Mohammed Eid</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Cytokines Storm</keyword>
+  <keyword>miRNA</keyword>
+  <keyword>Transcriptome</keyword>
+  <keyword>Microarray</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

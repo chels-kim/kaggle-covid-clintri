@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4932">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04448028</url>
+  </required_header>
+  <id_info>
+    <org_study_id>STOPPIT-01</org_study_id>
+    <secondary_id>2019-005008-16</secondary_id>
+    <secondary_id>DRKS00021290</secondary_id>
+    <secondary_id>U1111-1246-0705</secondary_id>
+    <secondary_id>01KG2004</secondary_id>
+    <nct_id>NCT04448028</nct_id>
+  </id_info>
+  <brief_title>Stop of Proton-pump Inhibitor Treatment in Patients With Liver Cirrhosis - a Double-blind, Placebo-controlled Trial</brief_title>
+  <acronym>STOPPIT</acronym>
+  <official_title>Stop of Proton-pump Inhibitor Treatment in Patients With Liver Cirrhosis - a Double-blind, Placebo-controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Universitätsklinikum Hamburg-Eppendorf</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>German Federal Ministry of Education and Research</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University Hospital Heidelberg</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Universitätsklinikum Hamburg-Eppendorf</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Proton-pump inhibitors (PPI) are commonly prescribed in an uncritical manner to patients with&#xD;
+      liver cirrhosis without a clear evidence-based indication. Observational studies suggests&#xD;
+      that PPI use in cirrhotic patients may be a risk factor for the development of infections,&#xD;
+      especially spontaneous bacterial peritonitis (SBP). A possible explanation are PPI-associated&#xD;
+      microbiotic shifts leading to small intestinal bacterial overgrowth with subsequently&#xD;
+      increased bacterial translocation. Furthermore, PPI therapy in cirrhotic patients may lead to&#xD;
+      an increased risk for pneumonia and Clostridium difficile-infections.&#xD;
+&#xD;
+      However, the evidence is ambiguous, as other published studies found no evidence for an&#xD;
+      association of PPI use with an increased risk for SBP or pneumonia.&#xD;
+&#xD;
+      Moreover, an association between episodes of hepatic encephalopathy and PPI use has been&#xD;
+      reported.&#xD;
+&#xD;
+      Infections and hepatic encephalopathy may often lead to a hospitalization of cirrhotic&#xD;
+      patients and PPI use at discharge has also been associated to early re-hospitalization.&#xD;
+&#xD;
+      While some studies found an association of PPI and increased mortality in cirrhotic patients,&#xD;
+      other studies could not observe this association.&#xD;
+&#xD;
+      Thus, some of the current evidence suggests an unfavourable risk profile of PPIs in patients&#xD;
+      with liver cirrhosis. However, this patient population is considered to be at a high risk of&#xD;
+      gastrointestinal haemorrhage from peptic ulcers. Importantly, patients with liver cirrhosis&#xD;
+      have an increased mortality after peptic ulcer bleeding as compared to patients without&#xD;
+      cirrhosis. Therefore, generous PPI use may also have a yet unproven preventive effect against&#xD;
+      upper gastrointestinal bleeding.&#xD;
+&#xD;
+      The STOPPIT trial is the first prospective, randomized, controlled, double-blind trial&#xD;
+      investigating the effect of discontinuation of long-term PPI therapy on hospitalized patients&#xD;
+      with complicated liver cirrhosis with a pre-existing long-term PPI therapy. Importantly,&#xD;
+      patients with an evidence-based indication for PPI therapy are excluded from the trial. All&#xD;
+      study participants (n=476) stop their previous PPI treatment and are then randomized (1:1) to&#xD;
+      receive either placebo (intervention group) or esomeprazole 20mg/day (control group) for 360&#xD;
+      days.&#xD;
+&#xD;
+      The primary hypothesis anticipates a delay of re-hospitalisation and/or death (composite&#xD;
+      endpoint) in patients who discontinue PPI treatment as compared to patients who continue PPI&#xD;
+      therapy. Secondary objectives include the assessment of mortality, re-hospitalisation rates,&#xD;
+      infection rates, rate of acute hepatic decompensation and ACLF, as well as rates of upper and&#xD;
+      lower gastrointestinal bleeding events in both groups. Impact of prolonged or discontinued&#xD;
+      PPI therapy on the intestinal microbiota and pharmacoeconomics will be studied as a secondary&#xD;
+      assessment.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 2021</start_date>
+  <completion_date type="Anticipated">December 2024</completion_date>
+  <primary_completion_date type="Anticipated">December 2024</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Study participants are randomized 1:1 to either discontinue their previous PPI therapy and replace it with placebo (intervention group) or continue pre-existing PPI therapy with esomeprazole 20mg/day. Details for the dose tapering phase are described below.</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Double-blinding is reached through over-encapsulation of the IMP, as well as identical drug packaging in both study arms.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Timepoint of first unplanned re-hospitalization or death (whichever occurs first)</measure>
+    <time_frame>Within 12 months (360 days) after randomization</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Timepoint of death</measure>
+    <time_frame>Within 12 months (360 days) after randomization</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality rate</measure>
+    <time_frame>360 days after randomization</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Timepoint of first unplanned re-hospitalization</measure>
+    <time_frame>Within 12 months (360 days) after randomization</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of unplanned re-hospitalizations</measure>
+    <time_frame>360 days after randomization</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall infection rate</measure>
+    <time_frame>360 days after randomization</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Infection rates differentiated by site</measure>
+    <time_frame>360 days after randomization</time_frame>
+    <description>Infection rates by site of infection (SBP, pneumonia, urinary tract infection, blood stream infection, Clostridium difficile-associated enterocolitis, Norovirus-infection, Sars-CoV-2-infection)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of acute decompensation of liver cirrhosis</measure>
+    <time_frame>360 days after randomization</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of acute-on-chronic liver failure (ACLF)</measure>
+    <time_frame>360 days after randomization</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of upper gastrointestinal bleeding events</measure>
+    <time_frame>360 days after randomization</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of lower gastrointestinal bleeding events</measure>
+    <time_frame>360 days after randomization</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes of intestinal microbiota between baseline and day 90</measure>
+    <time_frame>90 days after randomization</time_frame>
+    <description>The gut microbiota composition will be analyzed by PCR</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Rate of occurence of the safety endpoint (evidence-based indication for open-label re-therapy with PPIs)</measure>
+    <time_frame>360 days after randomization</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Rate of any (serious) adverse events</measure>
+    <time_frame>360 days after randomization</time_frame>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">476</enrollment>
+  <condition>Liver Cirrhosis</condition>
+  <arm_group>
+    <arm_group_label>Intervention group</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Patients randomized to the intervention group discontinue their pre-existing PPI treatment and replace it with placebo (day 15 to 360). During the first 14 days (dose tapering phase) patients in the intervention group will receive placebo on day 1, 3, 5, 7, 9, 10, 12, 13 and esomeprazole 20mg on day 2, 4, 6, 8, 11, 14, to minimize the risk for gastric acid rebound symptoms.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients randomized to the control group continue their pre-existing PPI therapy with esomeprazole 20mg/day (day 15 to 360). During the first 14 days (dose tapering phase) patients in the control group receive esomeprazole 20mg/day on day 1 to 14.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Patients with a pre-existing PPI therapy discontinue PPI therapy and replace it with placebo over a period of 346 days after a 14 day dose tapering phase.</description>
+    <arm_group_label>Intervention group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Esomeprazole 20mg</intervention_name>
+    <description>Patients with a pre-existing PPI therapy stop their prior PPI medication and have it replaced with esomeprazole 20mg/day for 360 days.</description>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_label>Intervention group</arm_group_label>
+    <other_name>Proton-pump inhibitor</other_name>
+    <other_name>Proton-pump-inhibitor</other_name>
+    <other_name>Proton pump inhibitor</other_name>
+    <other_name>PPI</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients with liver cirrhosis. The diagnosis of liver cirrhosis may be based on&#xD;
+             histology or a combination of clinical, laboratory and radiological criteria.&#xD;
+&#xD;
+          -  Hospitalization or recent hospitalization (0 to 42 days prior to the baseline visit)&#xD;
+             with complications of liver cirrhosis.&#xD;
+&#xD;
+          -  Treatment with proton pump inhibitors (PPI) for at least 28 days prior to the&#xD;
+             screening visit.&#xD;
+&#xD;
+          -  PPI treatment with a single standard dose/day or less for at least 7 days prior to the&#xD;
+             screening visit.&#xD;
+&#xD;
+          -  Females/males who agree to comply with the applicable contraceptive requirements of&#xD;
+             the protocol.&#xD;
+&#xD;
+          -  Non-pregnant, non-lactating females.&#xD;
+&#xD;
+          -  Ability to understand the patient information and to personally sign and date the&#xD;
+             informed consent to participate in the study, before completing any study related&#xD;
+             procedures.&#xD;
+&#xD;
+          -  The patient is co-operative and available for the entire study.&#xD;
+&#xD;
+          -  Provided written informed consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Diagnosis of severe reflux esophagitis (LA grade C or D) by EGD &lt; 2 months prior to&#xD;
+             the screening visit without PPI-therapy for at least 8 weeks prior to the screening&#xD;
+             visit.&#xD;
+&#xD;
+          -  Peptic ulcers diagnosed by EGD &lt; 28 days prior to the screening visit.&#xD;
+&#xD;
+          -  History of endoscopic therapy for esophageal varices &lt; 14 days prior to the screening&#xD;
+             visit.&#xD;
+&#xD;
+          -  Life-expectancy &lt; 1 year (at the discretion of the investigator) due to extrahepatic&#xD;
+             malignancies, metastasized hepatocellular carcinoma (HCC) or other severe extrahepatic&#xD;
+             diseases. Importantly, HCC without extrahepatic metastases or a reduced&#xD;
+             life-expectancy of &lt; 1 year due to liver cirrhosis are not regarded as exclusion&#xD;
+             criteria.&#xD;
+&#xD;
+          -  Regular intake of non-steroidal anti-inflammatory drugs (NSAID) on a daily basis with&#xD;
+             the exemption of acetylsalicylic acid (ASS) 100mg/day orally.&#xD;
+&#xD;
+          -  Hypersensitivity or intolerance to esomeprazole, substituted benzimidazoles or other&#xD;
+             excipients of the IMP.&#xD;
+&#xD;
+          -  Ongoing therapy with nelfinavir.&#xD;
+&#xD;
+          -  Participation in a clinical trial or use of an IMP within 30 days or five times the&#xD;
+             half-life of the IMP - whichever is longer - prior to receiving the first dose within&#xD;
+             this study.&#xD;
+&#xD;
+          -  Positive urine pregnancy test at screening or positive serum pregnancy test before the&#xD;
+             first treatment or is breast feeding.&#xD;
+&#xD;
+          -  Patient is not willing to use adequate contraceptive precautions during the study and&#xD;
+             for up to 5 days after the last scheduled dose of IMP.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ansgar W Lohse, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>I. Department of Medicine, University Medical Center Hamburg-Eppendorf</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Johannes Kluwe, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>I. Department of Medicine, University Medical Center Hamburg-Eppendorf</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>STOPPIT Project Team</last_name>
+    <phone>+494074100</phone>
+    <email>STOPPIT@uke.de</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Malte H Wehmeyer, MD</last_name>
+    <phone>+494074100</phone>
+    <email>m.wehmeyer@uke.de</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University Medical Center Hamburg-Eppendorf</name>
+      <address>
+        <city>Hamburg</city>
+        <zip>20246</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Johannes Kluwe, MD</last_name>
+      <phone>+4940741059614</phone>
+      <email>j.kluwe@uke.de</email>
+    </contact>
+    <contact_backup>
+      <last_name>Malte H Wehmeyer, MD</last_name>
+      <phone>+494074100</phone>
+      <email>m.wehmeyer@uke.de</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Ansgar W Lohse, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Johannes Kluwe, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Malte H Wehmeyer, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Thomas Horvatits, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+  </location_countries>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>June 23, 2020</study_first_submitted>
+  <study_first_submitted_qc>June 24, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">June 25, 2020</study_first_posted>
+  <last_update_submitted>November 3, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 3, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 4, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>liver cirrhosis</keyword>
+  <keyword>cirrhosis</keyword>
+  <keyword>fibrosis</keyword>
+  <keyword>complications</keyword>
+  <keyword>drugs</keyword>
+  <keyword>safety</keyword>
+  <keyword>side effects</keyword>
+  <keyword>PPI</keyword>
+  <keyword>proton-pump inhibitors</keyword>
+  <keyword>proton pump inhibitors</keyword>
+  <keyword>pantoprazole</keyword>
+  <keyword>esomeprazole</keyword>
+  <keyword>omeprazole</keyword>
+  <keyword>rabeprazole</keyword>
+  <keyword>lansoprazole</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Liver Cirrhosis</mesh_term>
+    <mesh_term>Fibrosis</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Esomeprazole</mesh_term>
+    <mesh_term>Proton Pump Inhibitors</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>The study protocol will be published in an appropriate scientific journal (open access).&#xD;
+After the end of the trial and publication of the primary results, study data may be given to other scientists upon request. A written request accompanied by a reasonable description of the respective project must be given to the STOPPIT project team, which will ultimately decide whether the data will be shared or not.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_time_frame>The protocol will be published in an appropriate open access journal after approval of the protocol by the responsible ethic board and competent authority.&#xD;
+Patient data will be made accessible upon reasonable request after the publication of the primary results (anticipated 6 months after the end of the trial). There are no planes for limiting the time the data is available on reasonable request.</ipd_time_frame>
+    <ipd_access_criteria>Protocol publication will be open access in an appropriate journal. Anonymized individual patient data will be available upon reasonable request. However, for each respective request, the STOPPIT project team will decide whether the data will be shared or not.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

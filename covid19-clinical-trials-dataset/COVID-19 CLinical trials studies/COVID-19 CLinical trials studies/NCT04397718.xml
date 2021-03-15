@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1869">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04397718</url>
+  </required_header>
+  <id_info>
+    <org_study_id>COVID19-8900-15</org_study_id>
+    <nct_id>NCT04397718</nct_id>
+  </id_info>
+  <brief_title>Hormonal Intervention for the Treatment in Veterans With COVID-19 Requiring Hospitalization</brief_title>
+  <acronym>HITCH</acronym>
+  <official_title>Hormonal Intervention for the Treatment in Veterans With COVID-19 Requiring Hospitalization (HITCH): A Multicenter, Phase 2 Randomized Controlled Trial of Best Supportive Care (BSC) vs BSC Plus Degarelix</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>VA Office of Research and Development</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>VA Office of Research and Development</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to determine if temporary androgen suppression improves the&#xD;
+      clinical outcomes of Veterans who are hospitalized to an acute care ward due to COVID-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      A novel coronavirus, now termed Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2),&#xD;
+      arose late in 2019. The first confirmed cases occurred in December in Wuhan, Hubei province,&#xD;
+      China. It now infects people on six continents, spreading person to person. The World Health&#xD;
+      Organization (WHO) classified it as a global pandemic on March 11, 2020. As of April 6, 2020,&#xD;
+      there are more than 1.2 million confirmed cases and more than 70,000 deaths attributed to&#xD;
+      this virus. Every person on Earth, as well as every United States Veteran, is at risk. This&#xD;
+      is the emergent public health threat of our time.&#xD;
+&#xD;
+      SARS-CoV-2 is a singled stranded RNA virus related to severe acute respiratory&#xD;
+      syndrome-related coronavirus (SARS-CoV-1). SARS-CoV-2 is thought to be transmissible largely&#xD;
+      by respiratory droplets or direct contact, but might also be transmitted through&#xD;
+      aerosolization. SARS-CoV-2 disease severity ranges from no to minimal symptoms, mildly&#xD;
+      symptomatic with cough and dyspnea, to severe respiratory distress with multi-organ failure&#xD;
+      requiring admission to an intensive care unit and emergent ventilator support. Although data&#xD;
+      are evolving, the severity of illness varies with age, co-existing comorbidities, and&#xD;
+      biological sex, with older age, people with pre-existing cardiovascular disease, and males&#xD;
+      manifesting greater disease severity.&#xD;
+&#xD;
+      A worldwide effort is in place to contain and suppress human-to-human transmission. These&#xD;
+      public-health strategies aim to slow the rate of spread and reduce the burden on critical&#xD;
+      care infrastructure. However, there is also a need effective therapeutics. Vaccine trials are&#xD;
+      underway but potential approvals are at least a year away. Development of new drugs de novo&#xD;
+      to treat SARS2-CoV-2 will likely take even longer. Thus, the most expedient therapeutic&#xD;
+      strategy to confront this pandemic will repurpose existing FDA-approved therapeutics. One&#xD;
+      potential strategy targets viral components directly, using existing antivirals and&#xD;
+      anti-infectives currently used for other diseases. Such efforts include trials of&#xD;
+      hydroxychloroquine, remdesivir, and ribavirin. Another strategy involves targeting the human&#xD;
+      proteins, rather than viral proteins, required for SARS CoV-2 entry and replication.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 6, 2020</start_date>
+  <completion_date type="Anticipated">July 6, 2021</completion_date>
+  <primary_completion_date type="Anticipated">July 6, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>A composite endpoint of mortality, ongoing need for hospitalization, or requirement for mechanical ventilation/extracorporeal membrane oxygenation (ECMO) at Day 15 after randomization.</measure>
+    <time_frame>15 days</time_frame>
+    <description>Determine if degarelix + best supportive care (BSC) as compared to placebo + BSC reduces the composite endpoint of mortality, ongoing need for hospitalization, or requirement for mechanical ventilation/extracorporeal membrane oxygenation (ECMO) at Day 15 after randomization.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to clinical improvement</measure>
+    <time_frame>Through study completion/discharge (an average of 30 days with a maximum of 4 months)</time_frame>
+    <description>Determine if degarelix + BSC as compared to placebo + BSC reduces time to clinical improvement as defined by a decline of 2 categories or more from the baseline on the modified 7-category ordinal scale of clinical status of hospitalized influenza patients or hospital discharge whichever comes first.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Inpatient mortality</measure>
+    <time_frame>Through study completion/discharge (an average of 30 days with a maximum of 4 months)</time_frame>
+    <description>Determine if degarelix + BSC as compared to placebo + BSC reduces inpatient mortality.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of hospitalization</measure>
+    <time_frame>Through study completion/discharge (an average of 30 days with a maximum of 4 months)</time_frame>
+    <description>Determine if degarelix + BSC as compared to placebo + BSC shortens the duration of hospitalization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of intubation for mechanical ventilation.</measure>
+    <time_frame>Through study completion/discharge (an average of 30 days with a maximum of 4 months)</time_frame>
+    <description>Determine if degarelix + BSC as compared to placebo + BSC shortens the duration of intubation for mechanical ventilation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to normalization of temperature.</measure>
+    <time_frame>Through study completion/discharge (an average of 30 days with a maximum of 4 months)</time_frame>
+    <description>Determine if degarelix + BSC as compared to placebo + BSC reduces the time to normalization of temperature (T &lt; 37.5 for 48 hours)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Maximum severity of COVID19 illness.</measure>
+    <time_frame>Through study completion/discharge (an average of 30 days with a maximum of 4 months)</time_frame>
+    <description>Determine if degarelix + BSC as compared to placebo + BSC reduces the maximum severity of COVID-19 illness based on the modified 7-category ordinal scale of clinical status of hospitalized influenza patients. Score range 1-7, higher scores equals worse outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>A composite endpoint of mortality, ongoing need for hospitalization, or requirement for mechanical ventilation/extracorporeal membrane oxygenation (ECMO) at Day 30 after randomization.</measure>
+    <time_frame>30 days</time_frame>
+    <description>Determine if degarelix + best supportive care (BSC) as compared to placebo + BSC reduces the composite endpoint of mortality, ongoing need for hospitalization, or requirement for mechanical ventilation/extracorporeal membrane oxygenation (ECMO) at Day 30 after randomization.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">198</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Placebo + BSC</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>No active, only placebo (2 - prefilled syringes containing 3 ml of 0.9% saline) plus best supportive care.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Degarelix + BSC</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Active Degarelix (2 - prefilled syringes containing 3 ml of reconstituted Degarelix concentrated to 40mg/ml) plus best supportive care.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Degarelix</intervention_name>
+    <description>Degarelix is an FDA-approved drug for prostate cancer</description>
+    <arm_group_label>Degarelix + BSC</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Saline</intervention_name>
+    <description>09% Saline</description>
+    <arm_group_label>Placebo + BSC</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Male Veterans admitted to a VA hospital.&#xD;
+&#xD;
+          -  Age 18 and 85; patients &gt; 85 can be enrolled if there is no history of chronic&#xD;
+             obstructive pulmonary disease (COPD), asthma, cardiovascular disease, hypertension,&#xD;
+             diabetes mellitus or active malignancy.&#xD;
+&#xD;
+          -  Hospitalized on an acute care ward due to COVID-19.&#xD;
+&#xD;
+          -  Positive RT-PCR assay for SARS-CoV-2 on a nasopharyngeal swab sample.&#xD;
+&#xD;
+          -  Severity of illness of level 3, 4 or 5 on the influenza severity scale (see Appendix&#xD;
+             A) at the time of randomization.&#xD;
+&#xD;
+          -  The subject (or legally acceptable representative if applicable) must provide written&#xD;
+             informed consent for the trial.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  History of severe hypersensitivity to degarelix or any component of their respective&#xD;
+             formulation.&#xD;
+&#xD;
+          -  History of congenital long QT syndrome or known history of prolonged QT interval&#xD;
+             corrected by the Fridericia correction formula (QTcF) &gt; 500 msec on electrocardiogram&#xD;
+             performed at screening.&#xD;
+&#xD;
+          -  Planned discharge within 24 hours of treatment initiation.&#xD;
+&#xD;
+          -  Subject is planning to conceive or father children within the projected duration of&#xD;
+             the study, starting with the screening visit through 120 days after the last dose of&#xD;
+             study treatment.&#xD;
+&#xD;
+          -  Chronic use of any drug known to prolong QT intervals within 30 days of Day 1. One&#xD;
+             time use will be acceptable as long as there is sufficient time between drug&#xD;
+             administration and initiation of the study drug. This will be determined on a case by&#xD;
+             case basis under the discretion of the PI and/or co-investigators. An&#xD;
+             electrocardiogram will be performed to ensure a normal QTc value (QT interval&#xD;
+             corrected by the Fridericia correction formula (QTcF)&lt;500)&#xD;
+&#xD;
+          -  Baseline electrolyte abnormalities of Grade 3 or higher (based on CTCAE v5.0&#xD;
+             criteria). Patients may be included if baseline electrolyte abnormalities are&#xD;
+             corrected to Grade 2 or lower prior to study drug administration.&#xD;
+&#xD;
+          -  Myocardial infarction in the past 6 months, severe or unstable angina, or New York&#xD;
+             Heart Association (NYHA) Class III or IV heart disease.&#xD;
+&#xD;
+          -  Enrollment in another investigational study within 30 days of Day 1.&#xD;
+&#xD;
+          -  Known psychiatric or substance abuse disorder that would interfere with the&#xD;
+             requirements of the trial.&#xD;
+&#xD;
+          -  Child-Pugh Class C liver disease.&#xD;
+&#xD;
+          -  Use of any of the following hormonal agents within Day 1 of treatment:&#xD;
+&#xD;
+               1. Androgen receptor antagonists or agonists within 4 weeks,&#xD;
+&#xD;
+               2. Ketoconazole or abiraterone acetate within 2 weeks,&#xD;
+&#xD;
+               3. Estrogens or progestins within 2 weeks,&#xD;
+&#xD;
+               4. Herbal products that contain hormonally active agents within 2 weeks.&#xD;
+&#xD;
+          -  Unwilling or unable to comply with the study protocol.&#xD;
+&#xD;
+          -  Any condition, which in the opinion of the investigator, would preclude participation&#xD;
+             in the trial.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Matthew B. Rettig, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>VA Greater Los Angeles Healthcare System, West Los Angeles, CA</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Matthew B Rettig, MD</last_name>
+    <phone>(310) 478-3711</phone>
+    <email>matthew.rettig@va.gov</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Nicholas G Nickols, MD PhD</last_name>
+    <phone>(310) 478-3711</phone>
+    <email>nicholas.nickols@va.gov</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Phoenix VA Health Care System, Phoenix, AZ</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85012</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Samuel Aguayo, MD</last_name>
+      <phone>602-277-5551</phone>
+      <phone_ext>7808</phone_ext>
+      <email>Samuel.Aguayo@va.gov</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Central Arkansas VHS John L. McClellan Memorial Veterans Hospital, Little Rock, AR</name>
+      <address>
+        <city>Little Rock</city>
+        <state>Arkansas</state>
+        <zip>72205-5484</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Spryidoula Maraka</last_name>
+      <phone>501-257-5663</phone>
+      <email>Spyridoula.Maraka@va.gov</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>VA Long Beach Healthcare System, Long Beach, CA</name>
+      <address>
+        <city>Long Beach</city>
+        <state>California</state>
+        <zip>90822</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ellis Levin, MD</last_name>
+      <phone>562-826-8000</phone>
+      <email>Ellis.Levin@va.gov</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>VA Greater Los Angeles Healthcare System, West Los Angeles, CA</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90073</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Matthew B Rettig, MD</last_name>
+      <phone>310-478-3711</phone>
+      <email>matthew.rettig@va.gov</email>
+    </contact>
+    <contact_backup>
+      <last_name>Nicholas G Nickols, MD PhD</last_name>
+      <phone>(310) 478-3711</phone>
+      <email>nicholas.nickols@va.gov</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Matthew B. Rettig, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Miami VA Healthcare System, Miami, FL</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33125</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mehdi Mirsaeidi, MD</last_name>
+      <phone>305-575-7000</phone>
+      <email>Mehdi.Mirsaeidi@va.gov</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Brooklyn Campus of the VA NY Harbor Healthcare System, Brooklyn, NY</name>
+      <address>
+        <city>Brooklyn</city>
+        <state>New York</state>
+        <zip>11209</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Daniel Becker, MD</last_name>
+      <phone>212-686-7500</phone>
+      <phone_ext>3303</phone_ext>
+      <email>Daniel.Becker2@va.gov</email>
+    </contact>
+    <contact_backup>
+      <last_name>Mohammad Al-Jam, MD</last_name>
+      <phone>7186303722</phone>
+      <email>Mohammad.AlJam@va.gov</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Manhattan Campus of the VA NY Harbor Healthcare System, New York, NY</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Daniel Becker, MD</last_name>
+      <phone>212-686-7500</phone>
+      <phone_ext>3303</phone_ext>
+      <email>Daniel.Becker2@va.gov</email>
+    </contact>
+    <contact_backup>
+      <last_name>Tsay Jun-Chieh</last_name>
+      <phone>2126867500</phone>
+      <email>Jun-Chieh@va.gov</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Philadelphia MultiService Center, Philadelphia, PA</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kyle Robinson, MD</last_name>
+      <phone>215-823-5800</phone>
+      <email>Kyle.Robinson3@va.gov</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ralph H. Johnson VA Medical Center, Charleston, SC</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29401-5799</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>John Huggins, MD</last_name>
+      <phone>843-789-6393</phone>
+      <email>John.Huggins@va.gov</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Memphis VA Medical Center, Memphis, TN</name>
+      <address>
+        <city>Memphis</city>
+        <state>Tennessee</state>
+        <zip>38104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Muthiah Muthiah, MD</last_name>
+      <phone>901-523-8990</phone>
+      <email>Muthiah.Muthiah@va.gov</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>VA North Texas Health Care System Dallas VA Medical Center, Dallas, TX</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75216</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Roger Bedimo, MD</last_name>
+      <phone>214-851-0397</phone>
+      <email>Roger.Bedimo@va.gov</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Michael E. DeBakey VA Medical Center, Houston, TX</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Reina Villareal, MD</last_name>
+      <phone>713-794-7534</phone>
+      <email>Reina.Villareal@va.gov</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>VA Puget Sound Health Care System Seattle Division, Seattle, WA</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98108</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Bruce Montgomery, MD</last_name>
+      <phone>206-598-0860</phone>
+      <email>Bruce.Montgomery@va.gov</email>
+    </contact>
+    <contact_backup>
+      <last_name>Elahe Mostaghel, MD</last_name>
+      <phone>2022771657</phone>
+      <email>Elahe.Mostaghel@va.gov</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>May 14, 2020</study_first_submitted>
+  <study_first_submitted_qc>May 19, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 21, 2020</study_first_posted>
+  <last_update_submitted>December 2, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 2, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 4, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

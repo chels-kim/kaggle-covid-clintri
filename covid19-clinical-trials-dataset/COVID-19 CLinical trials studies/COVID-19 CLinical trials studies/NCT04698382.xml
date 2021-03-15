@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2095">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04698382</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BD022384</org_study_id>
+    <nct_id>NCT04698382</nct_id>
+  </id_info>
+  <brief_title>Impact of COVID-19 on the Incidence, Characteristics, Management and Outcome of Sepsis</brief_title>
+  <official_title>Impact of COVID-19 on the Incidence, Characteristics, Management and Outcome of Sepsis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institutes of Health Clinical Center (CC)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Emory University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Institutes of Health Clinical Center (CC)</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study seeks to determine the the impact of COVID-19 on the incidence, characteristics,&#xD;
+      management and outcome of patients admitted to U.S. hospitals with non-COVID-19 related&#xD;
+      sepsis.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Sepsis is the most common cause of death and the most expensive condition among hospitalized&#xD;
+      patients in the U.S. The delivery of high-quality care for sepsis necessitates optimal&#xD;
+      institutional functionality and availability of adequate healthcare personnel and resources.&#xD;
+      However, since the novel coronavirus disease 2019 (COVID-19) pandemic hit the U.S., fear of&#xD;
+      acquisition of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has resulted in&#xD;
+      fewer patients with acute conditions seeking hospitalization. Furthermore, the rapid&#xD;
+      onslaught of COVID-19 admissions has profoundly strained hospital supplies, personnel and&#xD;
+      care processes and left little time to re-calibrate the management of other acute conditions&#xD;
+      that share these resources. As such, the impact on the detection, triage, monitoring,&#xD;
+      resuscitation, and outcome of patients with sepsis is currently unknown. Large administrative&#xD;
+      and clinical data repositories of inpatient discharges that are populated in near-real time&#xD;
+      may enable study of contemporaneous inpatients with COVID-19 and sepsis (without COVID-19)&#xD;
+      respectively.&#xD;
+&#xD;
+      We aim to:&#xD;
+&#xD;
+      Aim 1: Determine the impact of the COVID-19 pandemic on the incidence of hospital admission&#xD;
+      for non-COVID-19-related sepsis and septic shock and the proportion of these patients that&#xD;
+      receive Intensive Care Unit-level care. This analysis will assess for dynamic changes in the&#xD;
+      number of patients developing and/or seeking hospital care for sepsis and septic shock during&#xD;
+      the pandemic and whether the burden of critically ill and mechanically ventilated patients&#xD;
+      with COVID-19 may have impacted the threshold for providing ICU-level care to patients with&#xD;
+      sepsis and septic shock&#xD;
+&#xD;
+      Aim 2: Determine the trend in risk-adjusted mortality among patients admitted with&#xD;
+      non-COVID-19-related sepsis and septic shock during the pandemic. This analysis will indicate&#xD;
+      whether being hospitalized for sepsis/septic shock during vs. prior to the pandemic was&#xD;
+      associated with any change survival. An analysis will be performed to identify prognostic&#xD;
+      factors associated with non-COVID-19-related sepsis and septic shock.&#xD;
+&#xD;
+      Aim 3: Determine the impact of COVID-19-specific center-level characteristics (e.g. case&#xD;
+      volume, multi-ICU status, intubation threshold) on risk-adjusted mortality of&#xD;
+      non-COVID-19-related sepsis and septic shock during the pandemic period. Identification and&#xD;
+      modification of pandemic-related triage and processes that impact survival in sepsis may help&#xD;
+      preserve quality of care when health systems are strained.&#xD;
+&#xD;
+      Aim 4: Determine the impact of COVID-19 on processes of care in the management of sepsis:&#xD;
+      This aim will investigate whether COVID-19 has impacted key quality processes in the&#xD;
+      management of patients with sepsis present on admission (POA).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">August 1, 2020</start_date>
+  <completion_date type="Anticipated">May 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 1, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Prevalence of hospital and ICU Admission</measure>
+    <time_frame>From admission to in-hospital death or discharge to hospice</time_frame>
+    <description>Determine the impact of the COVID-19 pandemic on the incidence of hospital admission for non-COVID-19-related sepsis and septic shock and the proportion of these patients that receive Intensive Care Unit-level care</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>In-hospital Mortality</measure>
+    <time_frame>From admission to in-hospital death or discharge to hospice</time_frame>
+    <description>Determine the trend in risk-adjusted in-hospital mortality (or discharge to hospice) among patients admitted with non-COVID-19-related sepsis and septic shock</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Sepsis management quality metrics</measure>
+    <time_frame>From time of admission to death during the hospitalization</time_frame>
+    <description>Determine the impact of COVID-19 on quality metrics in the management of sepsis patients</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">5000</enrollment>
+  <condition>Sepsis</condition>
+  <condition>Septic Shock</condition>
+  <arm_group>
+    <arm_group_label>Non-COVID-19-related sepsis</arm_group_label>
+    <description>Non-COVID-19 sepsis patients will be identified with sepsis or septic shock without a COVID-19 diagnosis code or a positive COVID-19 laboratory test.&#xD;
+Sepsis patients will be defined as patients with concurrent infection and organ dysfunction. Presumed concurrent infection will be defined as a blood culture order and ≥ 3 days of antibiotics administration, including at least 24h of intravenous antibiotics, or death while on antibiotics within 3 days of admission. Organ dysfunction will be defined by ICD-10-modified acute organ failure score. Sensitivity analyses will use ICD-10 explicit sepsis codes to define non-COVID-19 sepsis instead.&#xD;
+COVID-19 will be identified based on receiving a diagnosis code for COVID-19 (U07.1) or legacy coding (prior to the implementation of a specific COVID-19 code) present-on-admission and/or a positive severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) polymerase chain reaction (PCR) test on admission</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Non-COVID-19, Non-Sepsis Control Population</arm_group_label>
+    <description>This will be defined as patients identified with emergency conditions of interest without a diagnosis code of sepsis, COVID19 or a positive COVID-19 laboratory test.&#xD;
+These include&#xD;
+Acute Gastrointestinal Bleeding (GIB): Patients with at least one GIB ICD-10 code and one relevant CPT intervention codes.&#xD;
+Myocardial Infarction (MI): Patients with at least one MI ICD-10 code and one relevant CPT intervention codes</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Non-COVID-19-related sepsis This will be defined as patients identified with sepsis or&#xD;
+        septic shock without a diagnosis code of COVID-19 or a positive COVID-19 laboratory test.&#xD;
+&#xD;
+        Non-COVID-19, Non-Sepsis Control Population This will be defined as patients identified&#xD;
+        with emergency conditions of interest without a diagnosis code of sepsis, COVID19 or a&#xD;
+        positive COVID-19 laboratory test.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients admitted to U.S hospitals with sepsis (without COVID-19)&#xD;
+&#xD;
+          -  Patients admitted to U.S hospitals with acute gastrointestinal bleeding (without&#xD;
+             COVID-19 or sepsis)&#xD;
+&#xD;
+          -  Patients admitted to U.S hospitals with sepsis myocardial infarction (without COVID-19&#xD;
+             or sepsis)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients admitted to U.S. hospitals with COVID-19&#xD;
+&#xD;
+          -  Patients with acute gastrointestinal bleeding with sepsis or COVID-19&#xD;
+&#xD;
+          -  Patients with myocardial infarction with sepsis or COVID-19&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Sameer S Kadri, MD, MS</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>National Institutes of Health, Clinical</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>National Institutes of Health Clinical Center</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20892</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>January 5, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 5, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 6, 2021</study_first_posted>
+  <last_update_submitted>January 5, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 5, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 6, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>National Institutes of Health Clinical Center (CC)</investigator_affiliation>
+    <investigator_full_name>Sameer Kadri, M.D.</investigator_full_name>
+    <investigator_title>Staff Clinician, Critical Care Medicine Department</investigator_title>
+  </responsible_party>
+  <keyword>sepsis</keyword>
+  <keyword>septic shock</keyword>
+  <keyword>COVID-19</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Sepsis</mesh_term>
+    <mesh_term>Toxemia</mesh_term>
+    <mesh_term>Shock, Septic</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>N/A this data is deidentifed</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

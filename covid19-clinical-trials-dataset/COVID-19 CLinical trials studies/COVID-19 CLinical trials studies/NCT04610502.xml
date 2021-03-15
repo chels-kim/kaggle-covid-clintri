@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="175">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04610502</url>
+  </required_header>
+  <id_info>
+    <org_study_id>R020-SABI-00259</org_study_id>
+    <nct_id>NCT04610502</nct_id>
+  </id_info>
+  <brief_title>Efficacy and Safety of Two Hyperimmune Equine Anti Sars-CoV-2 Serum in COVID-19 Patients</brief_title>
+  <acronym>SECR-01</acronym>
+  <official_title>Randomized, Controlled, Double-blind, Multicenter Clinical Study to Compare the Efficacy and Safety of the Administration of Two Hyperimmune Equine Anti-Sars-CoV-2 (&quot;S&quot; and &quot;M&quot;) Serum Formulations in Hospitalized Patients With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Caja Costarricense de Seguro Social</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Universidad de Costa Rica</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Ministry of Health Costa Rica</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Caja Costarricense de Seguro Social</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Reports of the use of plasma from convalescent patients and purified immunoglobulin&#xD;
+      preparations in respiratory infections by various viral agents and SARS-CoV-2 in severely ill&#xD;
+      patients suggest that specific neutralizing antibodies may benefit their clinical course.&#xD;
+      During the previous SARS-CoV epidemic in 2003, preparations of hyperimmune equine serum were&#xD;
+      produced and demonstrated in vitro viral neutralization. These preparations were also&#xD;
+      successful in several animal models. Taking advantage of the important trajectory of our&#xD;
+      country in the study and use of equine hyperimmune serums with neutralizing antibodies for&#xD;
+      snake venom, preparations of hyperimmune serums against recombinant proteins of SARS-CoV-2&#xD;
+      were produced through repeated immunization of horses, a first group of animals was&#xD;
+      inoculated with the &quot;S&quot; (Spike) protein of the virus and the second group with a mixture &quot;M&quot;&#xD;
+      of the S1 (Spike) proteins, the N (Nucleoprotein) protein and a construct with epitopes of&#xD;
+      the S1, E (Envelope) and M (Membrane) proteins, generating two different pharmaceutical&#xD;
+      preparations.&#xD;
+&#xD;
+      Objective: Evaluate the efficacy and safety of two hyperimmune equine serum anti-Sars-CoV-2&#xD;
+      (&quot;S&quot; and &quot;M&quot;) formulations as an addition to the standard therapeutic approach for&#xD;
+      hospitalized patients with COVID-19 over 18 years of age with the presence of at least 2 risk&#xD;
+      factors and a symptom onset period not exceeding 10 days.&#xD;
+&#xD;
+      A total of 52 patients will be included and randomly divided into two balanced groups. On day&#xD;
+      1, all participants from each group will receive an intravenous infusion containing 10ml (one&#xD;
+      vial) of hyperimmune equine anti-Sars-CoV-2 serum labeled as A or B.&#xD;
+&#xD;
+      Patients will be evaluated clinically, general laboratory, SARS-CoV-2 serologies, SARS-CoV-2&#xD;
+      viral load and cytokines level as well as pulmonary ultrasound. Data will be collected for&#xD;
+      both groups on Days 0 to 7, 10 and 14 or discharge after completion of treatment. The study&#xD;
+      will end for each participant on the day of discharge from the hospital.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">September 6, 2020</start_date>
+  <completion_date type="Anticipated">December 6, 2020</completion_date>
+  <primary_completion_date type="Actual">October 6, 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To evaluate the efficacy and safety of two formulations of equine anti-SARS-CoV-2 immunoglobulins (&quot;S&quot; and &quot;M&quot;).</measure>
+    <time_frame>2,3,4,5,7,10,14 Days</time_frame>
+    <description>Change in clinical status (days requiring supplemental oxygen) between the two treatment groups.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>To evaluate safety of two formulations of equine anti-SARS-CoV-2 immunoglobulins (&quot;S&quot; and &quot;M&quot;).</measure>
+    <time_frame>3 months</time_frame>
+    <description>To identify the adverse effects of anti-Sars-CoV-2 type &quot;S&quot; or type &quot;M&quot; equine immunoglobulins administered to patients diagnosed as SARS-CoV-2 positive, with the presence of at least 2 risk factors and a symptom onset period of no more than 10 days.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Viral load</measure>
+    <time_frame>Days 2,3,4,5,7,10,14</time_frame>
+    <description>Change of viral load (number of copies of SARS Cov2 per ml)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>days 14, 24</time_frame>
+    <description>Change in mortality between the two treatment groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital stay</measure>
+    <time_frame>Day 14, 24</time_frame>
+    <description>Change in the overall hospital stay of patients between the two treatment groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ventilatory support</measure>
+    <time_frame>Day 24</time_frame>
+    <description>Change in duration of ventilation support in the two treatment groups</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>blood levels of immunoglobulins against SARS-CoV-2</measure>
+    <time_frame>Days 2,3,4,5,7,10,14</time_frame>
+    <description>Change in titer of immunoglobulins blood levels (UA/ml) against SARS-CoV-2 between the two treatment groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>inflammatory markers</measure>
+    <time_frame>day 10</time_frame>
+    <description>Rate of virologic clearance by nasopharyngeal swab at day 10</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>thrombotic marker levels</measure>
+    <time_frame>days 2, 3, 4, 7, 10, and 14</time_frame>
+    <description>7. Difference in the decrease of thrombotic marker levels (D-dimer, fibrinogen, prothrombin time, TTP) on study days 2, 3, 4, 7, 10, and 14 or at discharge between the two treatment groups</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>negativization period of RT-PCR on nasopharyngeal swabbing (Reverse transcription polymerase chain reaction)</measure>
+    <time_frame>1 month</time_frame>
+    <description>8. Difference in the number of days elapsed between two negative determinations separated by at least 24 hours in the COVID-19 test by RT-PCR on nasopharyngeal swabbing between the two treatment groups</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SpFI (Partial saturation Oxigen/inspired fraction of Oxigen) gain</measure>
+    <time_frame>Days 2,3,4,5,7,10,14</time_frame>
+    <description>Improvement in SAFI (SatO2/FiO2) between the two treatment groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lung Ultrasound</measure>
+    <time_frame>days 3,10</time_frame>
+    <description>Change in POCUS score between the two treatment groups. (Minimum: 0 = normal; Maximum: 32= Multiple Lungs Consolidations).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse events</measure>
+    <time_frame>days 2,3,4,5,6,7,10,14,24</time_frame>
+    <description>Number of adverse events as measured by CTCAE v. 5.0 between the two groups</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">26</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Equine immunoglobulin anti SARS-CoV-2 formulation S</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Experimental equine Imunoglobulins antiSARSCov&quot; Formuation S</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Equine immunoglobulin anti SARS-CoV-2 formulation M</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Experimental equine Imunoglobulins antiSARSCov&quot; Formuation M</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Administration of Equine immunoglobulin anti SARS-CoV-2</intervention_name>
+    <description>The participants will receive premedication with Acetaminophen 500mg PO, Cimetidine300mg IV and Chlortrimeton 10mg IV. Then the investigators will do the Administration of Equine Imunoglobulin anti SARS Cov 2 on day 1 a vial of 10ml of the drug during 1 hour Intravenously. Then the hospitalized participants will be followed until they are discharged.</description>
+    <arm_group_label>Equine immunoglobulin anti SARS-CoV-2 formulation M</arm_group_label>
+    <arm_group_label>Equine immunoglobulin anti SARS-CoV-2 formulation S</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Agreement to participate in the study by signing the prior informed consent.&#xD;
+&#xD;
+          -  Age over 18 years.&#xD;
+&#xD;
+          -  Inpatient with RT-PCR confirmation of SARS-CoV-2.&#xD;
+&#xD;
+          -  Period of onset of symptoms related to COVID-19 not greater than 10 days&#xD;
+&#xD;
+          -  Presence of at least 2 documented risk factors&#xD;
+&#xD;
+          -  Moderate and severe clinical presentation of the disease.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients who did not sign the Informed Consent.&#xD;
+&#xD;
+          -  Critical patient.&#xD;
+&#xD;
+          -  Patient previously bitten by a snake that was treated with equine hyperimmune serum.&#xD;
+&#xD;
+          -  Patients with COVID-19 on an outpatient basis.&#xD;
+&#xD;
+          -  Pregnant women.&#xD;
+&#xD;
+          -  Patients in Hemodialysis program.&#xD;
+&#xD;
+          -  Patients who have already received plasma from a convalescent COVID-19 patient.&#xD;
+&#xD;
+          -  Patients who were classified prior to the diagnosis of COVID-19 by the treating&#xD;
+             physician as having a reserved prognosis with a short lifespan.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Alfredo Sanabria, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Caja Costarricense de Seguro Social</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Willem Bujan, MBA</last_name>
+    <role>Study Chair</role>
+    <affiliation>UCR</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Centro Especializado de Atención COVID19 (CEACO)</name>
+      <address>
+        <city>San José</city>
+        <country>Costa Rica</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Dr. Rafael Ángel Calderón Guardia</name>
+      <address>
+        <city>San José</city>
+        <country>Costa Rica</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital México</name>
+      <address>
+        <city>San José</city>
+        <country>Costa Rica</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital San Juan de Dios</name>
+      <address>
+        <city>San José</city>
+        <country>Costa Rica</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Costa Rica</country>
+  </location_countries>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>September 15, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 29, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 30, 2020</study_first_posted>
+  <last_update_submitted>November 12, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 12, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 16, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Anti-SARS-CoV-2 Equine Immunoglobulin</keyword>
+  <keyword>Passive Immunotherapy</keyword>
+  <keyword>Neutralizing Equine Antibodies.</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Immunoglobulins</mesh_term>
+    <mesh_term>Immunoglobulins, Intravenous</mesh_term>
+    <mesh_term>Antibodies</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3716">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04699916</url>
+  </required_header>
+  <id_info>
+    <org_study_id>80320</org_study_id>
+    <nct_id>NCT04699916</nct_id>
+  </id_info>
+  <brief_title>EEG-based Sedation Protocol for Patients on Mechanical Ventilation Due to SARS-CoV-2 Pneumonia</brief_title>
+  <official_title>EEG-based Protocol to Guide Deep Sedation Decreases the Days of Mechanical Ventilation in COVID-19 Patients: Randomized Clinical Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Chile</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Chile</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Deep sedation in patients with COVID-19 may be challenging in many aspects. The use of an&#xD;
+      EEG-based protocol to guide deep sedation may be useful in this particular population,&#xD;
+      considering their unusually high sedation requirements.&#xD;
+&#xD;
+      In the present trial, we aim to evaluate an EEG-based protocol to guide deep sedation in&#xD;
+      patients with COVID19, using to EEG derived parameters that are displayed in the BIS monitor:&#xD;
+      Suppression Rate and Spectral Edge Frequency.&#xD;
+&#xD;
+      The protocol is designed to both minimize the suppression rate along with maintaining a&#xD;
+      spectral edge frequency over 10 Hz. The use of this protocol may reduce the amount of&#xD;
+      sedatives administered and, therefore, diminish the time needed for the weaning process.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 4, 2021</start_date>
+  <completion_date type="Anticipated">December 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Ventilator Free Days</measure>
+    <time_frame>Day 30</time_frame>
+    <description>Number of days in which the patient is both alive and out of the invasive mechanical ventilator</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Plasma propofol concentration</measure>
+    <time_frame>Day 5</time_frame>
+    <description>Plasma propofol concentration measure with HPLC</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total administered dose of propofol</measure>
+    <time_frame>Day 5</time_frame>
+    <description>Accumulated Dose of propofol administered in mg/kg</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total administered dose of Fentanyl</measure>
+    <time_frame>Day 5</time_frame>
+    <description>Accumulated Dose of fentanyl administered in mcg/kg</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total administered dose of Norepinephrine</measure>
+    <time_frame>Day 5</time_frame>
+    <description>Accumulated Dose of norepinephrine administered in mcg/kg</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Propofol-Related Infusion Syndrome (PRIS) Incidence</measure>
+    <time_frame>Day 30</time_frame>
+    <description>Diagnosis of PRIS</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Accidental extubation</measure>
+    <time_frame>Day 30</time_frame>
+    <description>Occurrence of a non-planned extubation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Delirium Incidence</measure>
+    <time_frame>Day 30</time_frame>
+    <description>Diagnosis of delirium with CAM-ICU</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ICU length of stay</measure>
+    <time_frame>Day 30</time_frame>
+    <description>Nights spent in the ICU</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital length of stay</measure>
+    <time_frame>Day 90</time_frame>
+    <description>Nights spent in the ICU</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>Day 30</time_frame>
+    <description>Mortality</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Success of the first weaning trial</measure>
+    <time_frame>Day 30</time_frame>
+    <description>Patients who succeed the first weaning trial and are extubated without difficulty, according to the WIND trial definition</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">44</enrollment>
+  <condition>Sedation Complication</condition>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Control (Usual care)</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Sedation will be guided with a standard protocol based on Sedation Agitation Scale already implemented in the Intensive Care Unit</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>EEG-based sedation protocol</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Sedation will be guided using a protocol based on 2 parameters from the EEG: Suppression Rate and Spectral Edge Frequency</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>EEG based protocol for deep sedation</intervention_name>
+    <description>Protocol established to guide sedation drug dosification to maintain the patient with a Suppression Rate (SR) less than 1% and a Spectral Edge Frequency 95 over 10 Hz</description>
+    <arm_group_label>EEG-based sedation protocol</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients over 18 years old&#xD;
+&#xD;
+          -  COVID-19 patient requiring mechanical ventilation&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Contraindication to receive propofol or fentanyl&#xD;
+&#xD;
+          -  Chronic Liver Disease Child C&#xD;
+&#xD;
+          -  End-Stage Kidney Chronic Disease&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Rodrigo Gutiérrez, MD PhD</last_name>
+    <phone>995993665</phone>
+    <email>rodrgutierrez@uchile.cl</email>
+  </overall_contact>
+  <reference>
+    <citation>Bhatraju PK, Ghassemieh BJ, Nichols M, Kim R, Jerome KR, Nalla AK, Greninger AL, Pipavath S, Wurfel MM, Evans L, Kritek PA, West TE, Luks A, Gerbino A, Dale CR, Goldman JD, O'Mahony S, Mikacenic C. Covid-19 in Critically Ill Patients in the Seattle Region - Case Series. N Engl J Med. 2020 May 21;382(21):2012-2022. doi: 10.1056/NEJMoa2004500. Epub 2020 Mar 30.</citation>
+    <PMID>32227758</PMID>
+  </reference>
+  <reference>
+    <citation>Kollef MH, Levy NT, Ahrens TS, Schaiff R, Prentice D, Sherman G. The use of continuous i.v. sedation is associated with prolongation of mechanical ventilation. Chest. 1998 Aug;114(2):541-8.</citation>
+    <PMID>9726743</PMID>
+  </reference>
+  <reference>
+    <citation>Hanidziar D, Bittner EA. Sedation of Mechanically Ventilated COVID-19 Patients: Challenges and Special Considerations. Anesth Analg. 2020 Jul;131(1):e40-e41. doi: 10.1213/ANE.0000000000004887.</citation>
+    <PMID>32392023</PMID>
+  </reference>
+  <reference>
+    <citation>Fahy BG, Chau DF. The Technology of Processed Electroencephalogram Monitoring Devices for Assessment of Depth of Anesthesia. Anesth Analg. 2018 Jan;126(1):111-117. doi: 10.1213/ANE.0000000000002331. Review.</citation>
+    <PMID>28786839</PMID>
+  </reference>
+  <reference>
+    <citation>Jacobi J, Fraser GL, Coursin DB, Riker RR, Fontaine D, Wittbrodt ET, Chalfin DB, Masica MF, Bjerke HS, Coplin WM, Crippen DW, Fuchs BD, Kelleher RM, Marik PE, Nasraway SA Jr, Murray MJ, Peruzzi WT, Lumb PD; Task Force of the American College of Critical Care Medicine (ACCM) of the Society of Critical Care Medicine (SCCM), American Society of Health-System Pharmacists (ASHP), American College of Chest Physicians. Clinical practice guidelines for the sustained use of sedatives and analgesics in the critically ill adult. Crit Care Med. 2002 Jan;30(1):119-41. Erratum in: Crit Care Med 2002 Mar;30(3):726.</citation>
+    <PMID>11902253</PMID>
+  </reference>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>January 6, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 6, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 7, 2021</study_first_posted>
+  <last_update_submitted>January 6, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 6, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Chile</investigator_affiliation>
+    <investigator_full_name>Rodrigo Gutiérrez</investigator_full_name>
+    <investigator_title>Assistant Professor</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

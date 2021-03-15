@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4030">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04582318</url>
+  </required_header>
+  <id_info>
+    <org_study_id>621-CP-102</org_study_id>
+    <nct_id>NCT04582318</nct_id>
+  </id_info>
+  <brief_title>A Phase 1/2 Study to Assess the Safety, Tolerability and Pharmacokinetics of NGM621 in Healthy Subjects, and to Assess the Safety, PK and Efficacy in Subjects With Moderate to Severe ARDS Caused by COVID-19</brief_title>
+  <official_title>A Randomized, Double Blind, Placebo Controlled, Combined Phase 1/2 Single Dose and Multiple Dose Study to Assess the Safety, Tolerability, and Pharmacokinetics of NGM621 in Healthy Volunteers and the Safety, Tolerability, Pharmacokinetics, Pharmacodynamics, and Efficacy in Subjects With Confirmed SARS-CoV-2 Infection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>NGM Biopharmaceuticals, Inc</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>NGM Biopharmaceuticals, Inc</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is a combined Phase 1 and Phase 2 study with IV infusion of NGM621 to evaluate the&#xD;
+      safety, tolerability, and PK in healthy volunteers (Part 1), and safety, tolerability, PK and&#xD;
+      efficacy in subjects with confirmed SARS-CoV-2 infection (Part 2).&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 8, 2020</start_date>
+  <completion_date type="Anticipated">September 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 2021</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Treatment emergent adverse events - Part 1</measure>
+    <time_frame>85 days</time_frame>
+    <description>TEAEs in subjects receiving NGM621 compared to placebo</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Treatment emergent adverse events - Part 2</measure>
+    <time_frame>91 days</time_frame>
+    <description>TEAEs in subjects receiving NGM621 compared to placebo</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Clinical status at Day 15 and Day 29 - Part 2</measure>
+    <time_frame>29 days</time_frame>
+    <description>Clnical status (on an 8-point ordinal scale) in NGM621 group versus placebo group</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Maxiumum Serum Concentration [Cmax]</measure>
+    <time_frame>91 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality at Day 29</measure>
+    <time_frame>29 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Supplemental Oxygen Requirement</measure>
+    <time_frame>91 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Hemolytic Assays (CH50 and AH50) from Baseline</measure>
+    <time_frame>91 days</time_frame>
+  </secondary_outcome>
+  <number_of_arms>8</number_of_arms>
+  <enrollment type="Anticipated">48</enrollment>
+  <condition>SARS-CoV-2 Infection</condition>
+  <arm_group>
+    <arm_group_label>Part 1 Dose Level 1 - Active</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 1 Dose Level 1 - Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 1 Dose Level 2 - Active</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 1 Dose Level 2 - Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 2 Multi-Dose Level 1 - Active</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 2 Multi-Dose Level 1 - Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 2 Multi-Dose Level 2 - Active</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 2 Multi-Dose Level 2 - Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>NGM621</intervention_name>
+    <description>NGM621 will be administered via IV infusion</description>
+    <arm_group_label>Part 1 Dose Level 1 - Active</arm_group_label>
+    <arm_group_label>Part 1 Dose Level 2 - Active</arm_group_label>
+    <arm_group_label>Part 2 Multi-Dose Level 1 - Active</arm_group_label>
+    <arm_group_label>Part 2 Multi-Dose Level 2 - Active</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo will be administered via IV infusion</description>
+    <arm_group_label>Part 1 Dose Level 1 - Placebo</arm_group_label>
+    <arm_group_label>Part 1 Dose Level 2 - Placebo</arm_group_label>
+    <arm_group_label>Part 2 Multi-Dose Level 1 - Placebo</arm_group_label>
+    <arm_group_label>Part 2 Multi-Dose Level 2 - Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Female subjects of childbearing potential must have a negative serum pregnancy test&#xD;
+             result at Screening and a negative urine pregnancy test result prior to dosing.&#xD;
+&#xD;
+          -  Female subjects of childbearing potential and male subjects with a female partner of&#xD;
+             childbearing potential must use an effective method of contraception during the study,&#xD;
+             for at least 1 month following study completion, and must not plan to become pregnant&#xD;
+             for at least 1 month after her last study medication dose.&#xD;
+&#xD;
+          -  BMI 18-32 kg/m2 inclusive&#xD;
+&#xD;
+          -  Ability to understand and provide informed consent&#xD;
+&#xD;
+          -  Subjects confirmed with SARS-CoV-2 infection by PCR and hospitalized&#xD;
+&#xD;
+          -  If on mechanical support, less or equal than 2 days on mechanical ventilation or&#xD;
+             oxygenation&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Currently enrolled in another investigational protocol to treat SARS-CoV-2 infection&#xD;
+&#xD;
+          -  Known history of complement deficiency&#xD;
+&#xD;
+          -  Active infection with, or history of, compllicated pneumococcal or Neisseria&#xD;
+             meningitis infection or history of unexplained, recurrent infection, within the last&#xD;
+             60 days prior to dosing.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>NGM Study Director</last_name>
+    <phone>(650) 243-5555</phone>
+    <email>ngm621@ngmbio.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>NGM Clinical Study Site</name>
+      <address>
+        <city>Brisbane</city>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>NGM Study Site 001</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+  </location_countries>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>October 7, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 8, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 9, 2020</study_first_posted>
+  <last_update_submitted>November 19, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 19, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 23, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>This is a proof-of-concept study assessing the safety, tolerability, PK, and efficacy of systemic use of NGM621 versus placebo in both healthy subjects and subjects confirmed with SARS-CoV-2 infection. We will continue to evaluate whether IPD will be shared with other researchers.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

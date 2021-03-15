@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="442">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04699903</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20-1106</org_study_id>
+    <nct_id>NCT04699903</nct_id>
+  </id_info>
+  <brief_title>Clinical Evaluation of a Point-of-Care (POC), SARS-CoV-2 (COVID-19) IgG Antibody Test in Fingerstick Whole Blood</brief_title>
+  <official_title>Clinical Evaluation of a Point-of-Care (POC), SARS-CoV-2 IgG Antibody Test in Fingerstick Whole Blood</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Rapid Pathogen Screening</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Lumos Diagnostics, Inc</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>RapidPS</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_unapproved_device>Yes</is_unapproved_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Prospective, multi-center, observational, blinded clinical trial to compare a new point of&#xD;
+      care (POC) SARS-CoV-2 IgG antibody test to a reference SARS-CoV-2 PCR test using fingerstick&#xD;
+      whole blood.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Patients with PCR testing in outpatient setting will be screened and asked to participate in&#xD;
+      the study.&#xD;
+&#xD;
+      Subjects with a positive diagnosis of COVID-19 confirmed by a positive, EUA SARS-CoV-2 PCR&#xD;
+      test will be stratified by the number of days since first symptom onset (i.e. 0-7, 8-14, or&#xD;
+      &gt;15 days) in the positive cohort Subjects with a negative diagnosis of COVID-19 confirmed by&#xD;
+      a negative, EUA SARS-CoV-2 PCR test within 0-7 days of PCR sample collection will be included&#xD;
+      in the negative cohort.&#xD;
+&#xD;
+      Treating clinicians, clinical research coordinators and study subjects will be blinded to the&#xD;
+      POC test results.&#xD;
+&#xD;
+      Quality assurance will be assured with site monitoring to check accuracy and completeness of&#xD;
+      data entered.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 28, 2020</start_date>
+  <completion_date type="Anticipated">February 5, 2021</completion_date>
+  <primary_completion_date type="Anticipated">January 22, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>PPA (positive percent agreement) and NPA (negative percent agreement) of POC compared to SARS-CoV-2 reference PCR</measure>
+    <time_frame>0-7 days</time_frame>
+    <description>Determine PPA and NPA of point of care (POC) SARS-CoV-2 IgG antibody test compared to SARS-CoV-2 PCR with EUA (FDA emergency use authorization)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>PPA (positive percent agreement) of POC compared to SARS-CoV-2 reference PCR</measure>
+    <time_frame>8-14 days</time_frame>
+    <description>Determine PPA of point of care (POC) SARS-CoV-2 IgG antibody test compared to SARS-CoV-2 PCR with EUA (FDA emergency use authorization)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>PPA (positive percent agreement) of POC compared to SARS-CoV-2 reference PCR</measure>
+    <time_frame>&gt; 15 - 90 days</time_frame>
+    <description>Determine PPA of point of care (POC) SARS-CoV-2 IgG antibody test compared to SARS-CoV-2 PCR with EUA (FDA emergency use authorization)</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">215</enrollment>
+  <condition>SARS-Cov-2, Covid19</condition>
+  <arm_group>
+    <arm_group_label>Positive SARS-Cov-2 cohort</arm_group_label>
+    <description>Positive diagnosis of COVID-19 confirmed by a positive EUA SARS-CoV-2 PCR will be stratified in three subgroups 0 - 7 days since onset of symptoms 8 - 14 days since onset of symptoms 15 -90 days since onset of symptoms</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Negative SARS-Cov-2 cohort</arm_group_label>
+    <description>Negative diagnosis of COVID-19 confirmed by a negative, EUA SARS-CoV-2 PCR test within 0-7 days of PCR sample collection will be included in the negative cohort.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>POC SARS-Cov-2 IgG Antibody test</intervention_name>
+    <description>All patients will undergo a Point of care (POC) SARS-Cov-2 IgG Antibody test in fingerstick whole blood</description>
+    <arm_group_label>Negative SARS-Cov-2 cohort</arm_group_label>
+    <arm_group_label>Positive SARS-Cov-2 cohort</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Fingerstick whole blood&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients in the outpatient setting with EUA PCR test results who meet inclusion and&#xD;
+        exclusion criteria are eligible for the study.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Positive Cohort&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients with high-sensitive EUA PCR results (positive result)&#xD;
+&#xD;
+          -  Previous diagnostic of SARS-Cov-2&#xD;
+&#xD;
+          -  Signed informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Missing PCR results&#xD;
+&#xD;
+          -  Results from a non-high-sensitive PCR test&#xD;
+&#xD;
+        Negative Cohort&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients with high-sensitive EUA PCR results (negative result)&#xD;
+&#xD;
+          -  Signed informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Missing PCR results&#xD;
+&#xD;
+          -  Results from a non-high-sensitive PCR test&#xD;
+&#xD;
+          -  Previous diagnostic of SARS-Cov-2&#xD;
+&#xD;
+          -  History of a positive SARS-CoV-2 antibody test (IgG, IgM or Total Antibody)&#xD;
+&#xD;
+          -  Negative SARS-Cov-2 PCR result that occurred &gt; 7 days from study visit&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>1 Year</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Annie Bell, MSN, APN</last_name>
+    <phone>7737298954</phone>
+    <email>Annie.Bell@lumosdiagnostics.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Catalina Suarez-Cuervo, MD</last_name>
+    <phone>7277765880</phone>
+    <email>Catalina.Suarez@lumosdiagnostics.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Benchmark - SoCal</name>
+      <address>
+        <city>Colton</city>
+        <state>California</state>
+        <zip>92324</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Brian Bearie, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Comprehensive Clinical Research</name>
+      <address>
+        <city>West Palm Beach</city>
+        <state>Florida</state>
+        <zip>33409</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Ronald Ackerman, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Great Lakes Clinical Trials (GLCT)</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60640</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Manish Jain, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>UCCT- AFC Urgent Care Throgs Neck</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10465</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <investigator>
+      <last_name>Michael Tugetman, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>December 29, 2020</study_first_submitted>
+  <study_first_submitted_qc>January 6, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 7, 2021</study_first_posted>
+  <last_update_submitted>January 6, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 6, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 7, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>IgG</keyword>
+  <keyword>Point of care testing</keyword>
+  <keyword>EUA</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Antibodies</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

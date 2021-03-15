@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2613">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04639466</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20447</org_study_id>
+    <secondary_id>20447</secondary_id>
+    <nct_id>NCT04639466</nct_id>
+  </id_info>
+  <brief_title>A Synthetic MVA-based SARS-CoV-2 Vaccine, COH04S1, for the Prevention of COVID-19</brief_title>
+  <official_title>Phase 1 Dose Escalation Study to Evaluate the Safety and Biologically Effective Dose of COH04S1, a Synthetic MVA-Based SARS-CoV-2 Vaccine, Administered as One or Two Injections to Healthy Adult Volunteers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>City of Hope Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>City of Hope Medical Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase I trial evaluates the side effects and best dose of COH04S1, a synthetic modified&#xD;
+      vaccinia Ankara (MVA)-based SARS-CoV-2 vaccine, for the prevention of COVID-19. COVID-19 is&#xD;
+      caused by the SARS-CoV-2 virus. SARS-CoV-2 has demonstrated the capability to spread rapidly,&#xD;
+      leading to significant impacts on healthcare systems and causing societal disruption. COH04S1&#xD;
+      was created by placing small pieces of SARS-CoV-2 DNA (the chemical form of genes) into&#xD;
+      synthetic MVA, which may be able to induce immunity (the ability to recognize and fight&#xD;
+      against an infection) to SARS-CoV-2. The purpose of this study is to determine the safety and&#xD;
+      the optimal dose of the COH04S1 vaccine.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVE:&#xD;
+&#xD;
+      I. Safety and tolerability of the COH04S1 vaccine at three different dose levels (DL):&#xD;
+      1.0x10e7 plaque-forming unit (PFU)/dose, 1.0x10e8 PFU/dose, and 2.5x10e8 PFU/dose.&#xD;
+&#xD;
+      SECONDARY OBJECTIVES:&#xD;
+&#xD;
+      I. Longitudinal evaluation of humoral immunity. II. Quality and properties of cellular and&#xD;
+      humoral immunity elicited as a result of the vaccination.&#xD;
+&#xD;
+      III. Explore the role of two injections versus one injection, and evaluate a placebo group.&#xD;
+&#xD;
+      EXPLORATORY OBJECTIVE:&#xD;
+&#xD;
+      I. Surveillance for incidental coronavirus disease 2019 (COVID-19) during follow-up (1 year).&#xD;
+&#xD;
+      OUTLINE: This is a dose-escalation study. Participants are randomized to 1 of 3 arms.&#xD;
+&#xD;
+      ARM I: Participants receive COH04S1 intramuscularly (IM) in the non-dominant upper arm on day&#xD;
+      0 and day 28 in the absence of unacceptable toxicity.&#xD;
+&#xD;
+      ARM II: Participants receive COH04S1 IM in the non-dominant upper arm on day 0 and placebo IM&#xD;
+      in the non-dominant upper arm on day 28 in the absence of unacceptable toxicity.&#xD;
+&#xD;
+      ARM III: Participants receive placebo IM in the non-dominant upper arm on day 0 and day 28 in&#xD;
+      the absence of unacceptable toxicity.&#xD;
+&#xD;
+      Participants are followed up at 7, 14, 35, 42, 56, 90, 120, 180, 270, and 365 days.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 11, 2020</start_date>
+  <completion_date type="Anticipated">November 10, 2022</completion_date>
+  <primary_completion_date type="Anticipated">November 10, 2022</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of adverse events</measure>
+    <time_frame>Up to 365 days</time_frame>
+    <description>Evaluated based on the Division of Microbiology and Infectious Diseases criteria.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Humoral immunity</measure>
+    <time_frame>During 1 year of observation</time_frame>
+    <description>Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)-specific IgA, IgG, and IgM measured in serum and saliva by enzyme-linked immunosorbent assay.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Level of SARS-CoV-2-specfic neutralizing antibodies</measure>
+    <time_frame>Up to 365 days</time_frame>
+    <description>Level of neutralizing antibodies and percentage of participants with neutralizing antibodies as determined by a pseudotyped lentivirus-S assay.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Th1 vs Th2 polarization</measure>
+    <time_frame>Up to 365 days</time_frame>
+    <description>SARS-CoV-2-specific IFN-gamma, TNF-alpha, IL-2, IL-4, IL6, IL-13 cytokine levels will be measured to assess Th1 vs Th2 polarization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV-2- antigen specific T cell responses to the COH04S1 vaccine</measure>
+    <time_frame>Up to 365 days</time_frame>
+    <description>Percentage of participants with T cell immunity to SARS-CoV-2 S and N proteins post vaccination.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evolution of activated/cycling and memory phenotype markers on the surface of SARS-CoV-2- specific T cells elicited as a result of the COH04S1 vaccination</measure>
+    <time_frame>Up to 365 days</time_frame>
+    <description>Percentage of participants with activated/cycling and memory phenotype markers on the surface of SARS-CoV-2- specific T cells elicited as a result of the COH04S1 vaccination</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Comparison of one vaccine injection vs two vaccine injections for immunogenicity</measure>
+    <time_frame>Up to 365 days</time_frame>
+    <description>Immunogenicity will be evaluated based on the percentage of participants with SARS-CoV-2 S and N antibodies and T cell immunity post vaccination.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Comparison of one vaccine injection vs two vaccine injections for adverse events</measure>
+    <time_frame>Up to 365 days</time_frame>
+    <description>Safety will be evaluated based on the Division of Microbiology and Infectious Diseases criteria.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Incidence of coronavirus 2019 (COVID-19)</measure>
+    <time_frame>Up to 365 days</time_frame>
+    <description>Number of participants with incidental COVID-19 will be determined during the study follow-up period and correlated with vaccination regimen and placebo.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Severity of COVID-19 and resolution</measure>
+    <time_frame>Up to 365 days</time_frame>
+    <description>Number of participants with mild versus severe COVID-19 will be determined within each vaccine dose level and regimen.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Incidence of COVID-19 in placebo group</measure>
+    <time_frame>Up to 365 days</time_frame>
+    <description>Number of participants with incidental COVID-19 will be determined to provide initial data on acquired COVID-19 in the placebo group as an exploratory objective.</description>
+  </other_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">129</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Arm I (COH04S1)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants receive COH04S1 IM in the non-dominant upper arm on day 0 and day 28 in the absence of unacceptable toxicity.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm II (COH04S1, placebo)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants receive COH04S1 IM in the non-dominant upper arm on day 0 and placebo IM in the non-dominant upper arm on day 28 in the absence of unacceptable toxicity.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm III (placebo)</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants receive placebo IM in the non-dominant upper arm on day 0 and day 28 in the absence of unacceptable toxicity.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo Administration</intervention_name>
+    <description>Given IM in the non-dominant upper arm</description>
+    <arm_group_label>Arm II (COH04S1, placebo)</arm_group_label>
+    <arm_group_label>Arm III (placebo)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Vaccine Therapy</intervention_name>
+    <description>Given COH04S1 IM in the non-dominant upper arm</description>
+    <arm_group_label>Arm I (COH04S1)</arm_group_label>
+    <arm_group_label>Arm II (COH04S1, placebo)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Documented informed consent of the participant&#xD;
+&#xD;
+          -  Ability to read and understand English or Spanish for questionnaires&#xD;
+&#xD;
+          -  Platelets &gt;= 100,000/mm^3 (within 30 days prior to day 0 of protocol therapy unless&#xD;
+             otherwise stated)&#xD;
+&#xD;
+          -  White blood cells (WBCs) 4,500-11,000/mm^3 (within 30 days prior to day 0 of protocol&#xD;
+             therapy unless otherwise stated)&#xD;
+&#xD;
+          -  Total bilirubin &lt; 1.1 x upper limit of normal (ULN) (within 30 days prior to day 0 of&#xD;
+             protocol therapy unless otherwise stated)&#xD;
+&#xD;
+          -  Aspartate aminotransferase (AST) &lt; 1.5 x ULN (within 30 days prior to day 0 of&#xD;
+             protocol therapy unless otherwise stated)&#xD;
+&#xD;
+          -  Alanine aminotransferase (ALT) &lt; 1.5 x ULN (within 30 days prior to day 0 of protocol&#xD;
+             therapy unless otherwise stated)&#xD;
+&#xD;
+          -  Alkaline phosphatase (AP) &lt; 1.1 x ULN (within 30 days prior to day 0 of protocol&#xD;
+             therapy unless otherwise stated)&#xD;
+&#xD;
+          -  Blood urea nitrogen (BUN) &lt; 1.25 x ULN (within 30 days prior to day 0 of protocol&#xD;
+             therapy unless otherwise stated)&#xD;
+&#xD;
+          -  Creatinine normal (within 30 days prior to day 0 of protocol therapy unless otherwise&#xD;
+             stated)&#xD;
+&#xD;
+          -  Sodium 137-145 mEq/L (within 30 days prior to day 0 of protocol therapy unless&#xD;
+             otherwise stated)&#xD;
+&#xD;
+          -  Potassium 3.5-5.1 mEq/L (within 30 days prior to day 0 of protocol therapy unless&#xD;
+             otherwise stated)&#xD;
+&#xD;
+          -  Carbon dioxide 22-30 mmol/L (within 30 days prior to day 0 of protocol therapy unless&#xD;
+             otherwise stated)&#xD;
+&#xD;
+          -  Glucose 60-100 mg/dL (within 30 days prior to day 0 of protocol therapy unless&#xD;
+             otherwise stated)&#xD;
+&#xD;
+          -  Lactate dehydrogenase (LDH) 140-271 U/L (within 30 days prior to day 0 of protocol&#xD;
+             therapy unless otherwise stated)&#xD;
+&#xD;
+          -  Albumin 3.5-5.0 g/dL (within 30 days prior to day 0 of protocol therapy unless&#xD;
+             otherwise stated)&#xD;
+&#xD;
+          -  Hemoglobin (HGB) &gt; 10.5 gm/dL (within 30 days prior to day 0 of protocol therapy&#xD;
+             unless otherwise stated)&#xD;
+&#xD;
+          -  Hematocrit (Hct) (within 30 days prior to day 0 of protocol therapy unless otherwise&#xD;
+             stated)&#xD;
+&#xD;
+               -  For females: 34.4-44.6 %&#xD;
+&#xD;
+               -  For males: 37.6-47.2 %&#xD;
+&#xD;
+          -  Seronegative for human immunodeficiency virus (HIV) antigen (Ag)/antibody (Ab) combo,&#xD;
+             hepatitis C virus (HCV), active hepatitis B virus (HBV) (surface antigen negative)&#xD;
+             (within 30 days prior to day 0 of protocol therapy unless otherwise stated)&#xD;
+&#xD;
+               -  If positive, hepatitis C ribonucleic acid (RNA) quantitation must be performed&#xD;
+&#xD;
+          -  Meets other institutional and federal requirements for infectious disease titer&#xD;
+             requirements&#xD;
+&#xD;
+               -  Note: Infectious disease testing to be performed within 28 days prior to day 1 of&#xD;
+                  protocol therapy&#xD;
+&#xD;
+          -  Seronegative and viremia negative for SARS-CoV2 (within 30 days prior to day 0 of&#xD;
+             protocol therapy unless otherwise stated)&#xD;
+&#xD;
+               -  The viremic test will be performed at City of Hope (COH) on nasal wash samples&#xD;
+                  using the Diasorin Simplexa test&#xD;
+&#xD;
+               -  The serologic test will be performed at TGen using the InBios assay&#xD;
+&#xD;
+          -  A documented electrocardiogram (ECG) and cardiac troponin must be within normal&#xD;
+             institutional limits in the past 30 days; &quot;normal ECG with sinus tachycardia&quot; or&#xD;
+             &quot;normal ECG with sinus bradycardia&quot; is allowable based on a history of absent&#xD;
+             cardiac/exercise related symptoms as determined by the principal investigator (P.I.)&#xD;
+             in consultation with a senior staff cardiologist (within 30 days prior to day 0 of&#xD;
+             protocol therapy unless otherwise stated)&#xD;
+&#xD;
+          -  Women of childbearing potential (WOCBP): negative urine or serum pregnancy test&#xD;
+             (within 30 days prior to day 0 of protocol therapy unless otherwise stated)&#xD;
+&#xD;
+               -  If the urine test is positive or cannot be confirmed as negative, a serum&#xD;
+                  pregnancy test will be required&#xD;
+&#xD;
+          -  Agreement by females and males of childbearing potential to use an effective method of&#xD;
+             birth control or abstain from heterosexual activity for the course of the study&#xD;
+             through at least 6 weeks after the last dose of protocol therapy&#xD;
+&#xD;
+               -  Childbearing potential defined as not being surgically sterilized (men and women)&#xD;
+                  or have not been free from menses for &gt; 1 year (women only)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Subjects at increased risk of exposure to SARS-CoV-2, such as patient-facing health&#xD;
+             care workers and emergency responders are excluded&#xD;
+&#xD;
+          -  Subjects who would be at higher risk for severe COVID-19 according to known risk&#xD;
+             factors are excluded e.g. type 2 diabetes, obesity (body mass index [BMI] &gt;= 35),&#xD;
+             congestive heart failure (New York Heart Association class &gt;= I), history of coronary&#xD;
+             artery disease, or chronic obstructive pulmonary disease&#xD;
+&#xD;
+          -  Subjects using investigational or licensed agents that may prevent or treat SARS-CoV-2&#xD;
+             are excluded&#xD;
+&#xD;
+          -  Subjects are excluded, who have any history of allergic diatheses as defined by a&#xD;
+             history of asthma, anaphylaxis, or generalized urticaria, or by daily use of&#xD;
+             antihistamines, episodic (more than once in past 3 months) inhalational medications&#xD;
+             including steroidal agents, non-steroidal agents, or cromolyn sodium&#xD;
+&#xD;
+          -  Any previous condition, or one that becomes known during the screening period, which&#xD;
+             would suggest that the technicians and health professionals involved in the study&#xD;
+             would be exposed to specific infectious risk&#xD;
+&#xD;
+          -  Surgery in past 6 months that required general anesthesia. Minor procedures, such as&#xD;
+             dental surgery and superficial diagnostic biopsies, are permitted&#xD;
+&#xD;
+          -  No diagnosis which has been associated with immunodeficiency&#xD;
+&#xD;
+          -  Taking daily medications for chronic or intercurrent illness. Medications excluded&#xD;
+             from this rule are: thyroid replacement, estrogen replacement, dietary vitamins and&#xD;
+             protein supplements, mild anti-depressant and anxiety medication, and any medication&#xD;
+             not known or likely to be immunosuppressive, as determined by the P.I.&#xD;
+&#xD;
+          -  Subjects who have had a live vaccine =&lt; 30 days prior to administration of study&#xD;
+             vaccine or subjects who are =&lt; 2 weeks within administration of inactivated vaccines&#xD;
+             (e.g. influenza vaccine). Flu shots are allowed &gt; 2 weeks before the first injection&#xD;
+             and &gt; 2 weeks post 2nd injection&#xD;
+&#xD;
+          -  Treatment with medication for high cholesterol or other lipid abnormality&#xD;
+&#xD;
+          -  History of allergic reactions attributed to compounds of similar chemical or biologic&#xD;
+             composition to study agent&#xD;
+&#xD;
+          -  History of adverse event with a prior smallpox vaccination&#xD;
+&#xD;
+          -  Any previous condition, or one that becomes known during the screening period, that&#xD;
+             would suggest that the individual could be immunologically impaired, or for which this&#xD;
+             study would pose a danger to him/herself or about which the P.I., in evaluating the&#xD;
+             subject for eligibility, determines that this exclusion is appropriate&#xD;
+&#xD;
+          -  Subjects are excluded who have history of cancer other than basal cell skin cancer, or&#xD;
+             any condition, psychiatric or otherwise, that would preclude informed consent,&#xD;
+             consistent follow-up or compliance with any aspect of the study (e.g., untreated&#xD;
+             schizophrenia or other significant cognitive impairment, etc. as determined by the&#xD;
+             P.I.)&#xD;
+&#xD;
+          -  Subjects with severe migraine headaches (more than one per month on average in the&#xD;
+             past 6 months or requiring preventive medication) are excluded&#xD;
+&#xD;
+          -  History of heart disease, e.g. previous treated arrhythmia or myocardial infarction&#xD;
+&#xD;
+          -  Horizontal positioning- induced or activities of normal living exercise-induced&#xD;
+             shortness of breath&#xD;
+&#xD;
+          -  History of stroke or claudication&#xD;
+&#xD;
+          -  Any of the following cardiac findings of ECG abnormality: 1) conduction disturbance&#xD;
+             (complete left or right bundle branch block, intraventricular conduction disturbance&#xD;
+             with QRS &gt; 120 ms, atrioventricular block [AV] block of any degree, and corrected QT&#xD;
+             [QTc] prolongation &gt; 450 msec for men and &gt; 460 msec for women); 2) repolarization (ST&#xD;
+             segment or T wave) abnormality; 3) significant atrial or ventricular arrhythmia,&#xD;
+             including frequent ectopy (e.g., 2 premature ventricular contractions in a row); and&#xD;
+             4) evidence of past myocardial infarction.&#xD;
+&#xD;
+          -  Poxvirus vaccine in the last 12 months&#xD;
+&#xD;
+          -  Any MVA vaccine, or treatment with whole or subunit SARS-CoV-2 or poxvirus vaccine in&#xD;
+             the last 12 months&#xD;
+&#xD;
+          -  History of or prior treatment for diabetes type 1 or diabetes type 2; BMI &lt; 18 or &gt; 30&#xD;
+&#xD;
+          -  Clinically significant uncontrolled illness&#xD;
+&#xD;
+          -  Active infection requiring treatment&#xD;
+&#xD;
+          -  Known history of immunodeficiency virus (HIV) or hepatitis B or hepatitis C infection&#xD;
+&#xD;
+          -  Diagnosis which has been associated with immunodeficiency&#xD;
+&#xD;
+          -  Females only: Pregnant or breastfeeding&#xD;
+&#xD;
+          -  Men with partners of child-bearing potential and women of children-bearing potential&#xD;
+             who are not willing to use medically effective birth control methods, e.g.&#xD;
+             contraceptive pill, condom, or diaphragm, and continue this for 6 weeks after the&#xD;
+             second and last dose of vaccine&#xD;
+&#xD;
+          -  Subjects who are employed by or are a student at City of Hope and are in a chain of&#xD;
+             command that reports directly to persons listed on the protocol as principal&#xD;
+             investigator or co-investigators; or are relatives or partners of the investigators&#xD;
+&#xD;
+          -  Any other condition that would, in the investigator's judgment, contraindicate the&#xD;
+             subject's participation in the clinical study due to safety concerns with clinical&#xD;
+             study procedures&#xD;
+&#xD;
+          -  Prospective participants who, in the opinion of the investigator, may not be able to&#xD;
+             comply with all study procedures (including compliance issues related to&#xD;
+             feasibility/logistics)&#xD;
+&#xD;
+          -  Anyone considered to be in a vulnerable population as defined in 45 CFR §46.111 (a)(3)&#xD;
+             and 45 CFR §46, Subparts B-D&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>John Zaia</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>City of Hope Medical Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>City of Hope Medical Center</name>
+      <address>
+        <city>Duarte</city>
+        <state>California</state>
+        <zip>91010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>John Zaia</last_name>
+      <phone>626-218-1817</phone>
+      <email>jzaia@coh.org</email>
+    </contact>
+    <investigator>
+      <last_name>John Zaia</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>November 4, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 19, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 20, 2020</study_first_posted>
+  <last_update_submitted>January 6, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 6, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 7, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vaccines</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

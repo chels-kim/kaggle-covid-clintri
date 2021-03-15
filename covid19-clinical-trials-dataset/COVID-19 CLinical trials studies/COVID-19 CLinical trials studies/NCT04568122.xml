@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2597">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04568122</url>
+  </required_header>
+  <id_info>
+    <org_study_id>58629</org_study_id>
+    <nct_id>NCT04568122</nct_id>
+  </id_info>
+  <brief_title>Rapid Turnaround, Home-based Saliva Testing for COVID-19</brief_title>
+  <official_title>Rapid Turnaround, Home-based Saliva Testing for COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Stanford University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Stanford University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_unapproved_device>Yes</is_unapproved_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aim of the study is to demonstrate the feasibility and validity of a saliva based home&#xD;
+      surveillance monitoring test for SARS-CoV-2 infection.&#xD;
+&#xD;
+      Participants will be asked to carry out as many tests as are included in the bag they are&#xD;
+      provided, on a daily basis until they are used up.&#xD;
+&#xD;
+      Number of Tests Provided to Participants:&#xD;
+&#xD;
+        1. Five tests to each hospitalized patient&#xD;
+&#xD;
+        2. Two tests to each high risk or positive patient&#xD;
+&#xD;
+        3. Three tests to each participant from the low risk population&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 20, 2020</start_date>
+  <completion_date type="Anticipated">August 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Enrollment is to a single group. Specific eligibility criteria apply depending on whether the participant is a hospitalized patient, in high-risk or infected population, or low-risk population</intervention_model_description>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>An indicator for discrepancy in interpretation of findings by participant versus by technician via photo (interrater reliability)</measure>
+    <time_frame>Up to 5 days per participant</time_frame>
+    <description>Primary Feasibility Outcome</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>An indicator for whether the home saliva test is positive as determined by the patient (to assess sensitivity and specificity by the patient)</measure>
+    <time_frame>Up to 5 days per participant</time_frame>
+    <description>Primary Validity Outcome</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>An indicator for ambiguous findings as measured by percent confidence (if &lt; 80% confident) in interpretation of results by participant and by technician (ease of interpretation)</measure>
+    <time_frame>Up to 5 days per participant</time_frame>
+    <description>Secondary Feasibility Outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>An indicator that the participant appropriately followed instructions for using the kit (≥ 80% confident) (ease of use)</measure>
+    <time_frame>Up to 5 days per participant</time_frame>
+    <description>Secondary Feasibility Outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>An indicator for whether participant called technical support and by reason (e.g., processing was not possible due to broken part) (ease of use)</measure>
+    <time_frame>Up to 5 days per participant</time_frame>
+    <description>Secondary Feasibility Outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>An indicator by participant that the sample was sufficient and reached the indicated line for sample integrity (sample integrity)</measure>
+    <time_frame>Up to 5 days per participant</time_frame>
+    <description>Secondary Feasibility Outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>An indicator for whether the home saliva test is positive as determined by the technician (to assess sensitivity and specificity by the technician)</measure>
+    <time_frame>Up to 5 days per participant</time_frame>
+    <description>Secondary Validity Outcome</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">3015</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Saliva test</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants perform each test assay, noting the results for comparison by technician, and completing survey questionnaires.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Saliva test kit</intervention_name>
+    <description>Kit including tube with closed reagents using loop-mediated isothermal amplification (LAMP) assay to detect SARS-CoV-2 virus.</description>
+    <arm_group_label>Saliva test</arm_group_label>
+    <other_name>SnapDx</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Hospitalized patients&#xD;
+&#xD;
+               -  Hospitalized at Stanford Health Care for COVID-related complications and tested&#xD;
+                  positive for SARS-CoV-2 with a PCR-based test&#xD;
+&#xD;
+               -  Able to understand and consent to study and with a clinical trajectory likely to&#xD;
+                  be consistent with multi-day participation&#xD;
+&#xD;
+          -  High-risk/positive population&#xD;
+&#xD;
+               -  Seeking testing for suspected COVID or a participant in a study of COVID-positive&#xD;
+                  outpatients&#xD;
+&#xD;
+               -  Own an internet-enabled phone or device capable of loading web pages, receiving&#xD;
+                  text messages, and taking/uploading photos.&#xD;
+&#xD;
+               -  Willing to participate in the study for 6 months&#xD;
+&#xD;
+          -  Low-risk population&#xD;
+&#xD;
+               -  Own an internet-enabled phone or device capable of loading web pages, receiving&#xD;
+                  text messages, and taking/uploading photos.&#xD;
+&#xD;
+               -  Willing to participate in the study for 6 months&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  All participants:&#xD;
+&#xD;
+               -  Participants with salivary gland dysfunction (including patients with Sjogren's&#xD;
+                  disease or those with xerostomia associated with lupus or rheumatoid arthritis)&#xD;
+&#xD;
+               -  Participants will not be eligible if they identify any reason they are unable to&#xD;
+                  participate in the study&#xD;
+&#xD;
+          -  High-risk/positive population&#xD;
+&#xD;
+               -  Participants who have color blindness&#xD;
+&#xD;
+               -  Participants unable to operate the SnapDx device&#xD;
+&#xD;
+          -  Low-risk population&#xD;
+&#xD;
+               -  Participants with prior confirmed SARS-CoV-2 infection&#xD;
+&#xD;
+               -  Participants who have color blindness&#xD;
+&#xD;
+               -  Participants unable to operate the SnapDx device&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Manu Prakash, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Stanford University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Manisha Desai, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Stanford University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Euan A Ashley, MRCP, DPhil</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Stanford University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Stanford University</name>
+      <address>
+        <city>Stanford</city>
+        <state>California</state>
+        <zip>94305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Study Team</last_name>
+      <phone>650-374-0085</phone>
+      <email>euan@stanford.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://www.snapdx.org/</url>
+    <description>https://www.snapdx.org/ (for more information and how to enroll)</description>
+  </link>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>September 25, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 26, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 29, 2020</study_first_posted>
+  <last_update_submitted>February 3, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 3, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 5, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

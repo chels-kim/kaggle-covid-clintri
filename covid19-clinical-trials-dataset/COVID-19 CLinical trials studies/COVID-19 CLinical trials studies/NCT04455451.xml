@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3622">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04455451</url>
+  </required_header>
+  <id_info>
+    <org_study_id>DCIR</org_study_id>
+    <nct_id>NCT04455451</nct_id>
+  </id_info>
+  <brief_title>Intensive Care Therapy of Covid-19 Disease in Germany</brief_title>
+  <official_title>Intensive Care Therapy of Covid-19 Disease in Germany an Multi-center Observational Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital Tuebingen</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Hospital Tuebingen</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Multi-center retrospective and prospective observational study of Covid-19 patients with&#xD;
+      severe or critical illness treated on a German ICU&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 6, 2020</start_date>
+  <completion_date type="Anticipated">June 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Other</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>up to 150 days</time_frame>
+    <description>ICU Mortality of patients</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>ICU length of stay</measure>
+    <time_frame>up to 150 days</time_frame>
+    <description>Intensive care unit length of stay</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">2000</enrollment>
+  <condition>COVID</condition>
+  <condition>ARDS</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Adults admitted for ICU therapy due to severe or critical Covid-19&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age above 18 years&#xD;
+&#xD;
+          -  Covid-19 disease (positive SARS-CoV-2 PCR)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        -none&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Peter Rosenberger, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University Hospital Tübingen</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Harry Magunia, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University Hospital Tübingen</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Peter Rosenberger, MD, PhD</last_name>
+    <phone>+4970712986622</phone>
+    <email>peter.rosenberger@med.uni-tuebingen.de</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Harry Magunia, MD</last_name>
+    <phone>+4970712986564</phone>
+    <email>harry.magunia@med.uni-tuebingen.de</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>RWTH Aachen - Department for operative Intensive Care Medicine and intermediate Care</name>
+      <address>
+        <city>Aachen</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Bickenbach Johannes, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Zollernalbklinikum</name>
+      <address>
+        <city>Balingen</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Boris Nohe, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Charité Universitätsmedizin Berlin</name>
+      <address>
+        <city>Berlin</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Claudia Spies</last_name>
+    </contact>
+    <investigator>
+      <last_name>Claudia Spies, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>UH Bochum - Department for Anesthesiology and Intensive Care Medicine</name>
+      <address>
+        <city>Bochum</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tim Rahmel, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsklinikum Bonn</name>
+      <address>
+        <city>Bonn</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Christian Putensen, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsklinikum Carl Gustav Carus Dresden</name>
+      <address>
+        <city>Dresden</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Koch Thea, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ev. Krankenhaus Bethesda Duisburg Klinik für Anästhesiologie und Intensivmedizin</name>
+      <address>
+        <city>Duisburg</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Timur Sellmann, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Univerrsitätsklinikum Düsseldorf</name>
+      <address>
+        <city>Düsseldorf</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Timo Brandenburger, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsklinikum Essen</name>
+      <address>
+        <city>Essen</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Thorsten Brenner, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsklinikum Frankfurt</name>
+      <address>
+        <city>Frankfurt</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Elisabeth Adam, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Freiburg - Department for Anesthesiology and Intensive Care Medicine</name>
+      <address>
+        <city>Freiburg</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Johannes Kalbhenn, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsklinikum Giessen Klinik für Anaesthesiologie und operative Intensivmedizin</name>
+      <address>
+        <city>Gießen</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michael Sander, MD, PhD</last_name>
+    </contact>
+    <contact_backup>
+      <last_name>Christian Koch, MD</last_name>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsklinikum Greifswald</name>
+      <address>
+        <city>Greifswald</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Christian Scheer, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsmedizin Göttingen Klinik für Anästhesiologie</name>
+      <address>
+        <city>Göttingen</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Onnen Mörer, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsklinikum Halle</name>
+      <address>
+        <city>Halle/Saale</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Daniel Sedding, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Heidelberg - Department for Anesthesiologie and Intensive Care Medicine</name>
+      <address>
+        <city>Heidelberg</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Markus Weigand, MD, PhD</last_name>
+    </contact>
+    <contact_backup>
+      <last_name>Mascha Fiedler, MD</last_name>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsklinikum des Saarlandes</name>
+      <address>
+        <city>Homburg/Saar</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Andreas Meiser, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Klinikum der Universität Witten/Herdecke - Köln / Klinik für Anästhesiologie und operative Intensivmedizin</name>
+      <address>
+        <city>Köln</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jerome Michel Defosse, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsklinikum Leipzig</name>
+      <address>
+        <city>Leipzig</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Falk Fichtner, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>UKSH Campus Lübeck - Department for Anesthesiology and Intensive Care Medicine</name>
+      <address>
+        <city>Lübeck</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nau Carla, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Magdeburg - Department for Anesthesiology and Intensive Care Medicine</name>
+      <address>
+        <city>Magdeburg</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lars-Kristian Bartning, MD</last_name>
+    </contact>
+    <contact_backup>
+      <last_name>Florian Praetsch, MD</last_name>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsklinikum Marburg</name>
+      <address>
+        <city>Marburg</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hinnerk Wulf, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Technische Universität München</name>
+      <address>
+        <city>München</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gerhard Schneider, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Oberschwabenklinik Ravensburg Klinik für Anästhesie-, Intensiv-, Notfall- und Schmerzmedizin</name>
+      <address>
+        <city>Ravensburg</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Andreas Straub, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospital Tübingen - Department for Anesthesiology and Intensive Care Medicine</name>
+      <address>
+        <city>Tübingen</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Helene A Haeberle, MD, PhD</last_name>
+    </contact>
+    <contact_backup>
+      <last_name>Michael Koeppen, MD</last_name>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsklinikum Ulm</name>
+      <address>
+        <city>Ulm</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Manfred Weiss, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsklinikum Würzburg Klinik und Poliklinik für Anästhesiologie, Intensivmedizin und Schmerztherapie</name>
+      <address>
+        <city>Würzburg</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Patrick Maybohm, MD, PhD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+  </location_countries>
+  <link>
+    <url>https://www.medizin.uni-tuebingen.de/de/covid-intensivstudie</url>
+    <description>Study Landing Page</description>
+  </link>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>July 1, 2020</study_first_submitted>
+  <study_first_submitted_qc>July 1, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 2, 2020</study_first_posted>
+  <last_update_submitted>December 23, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 23, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 28, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

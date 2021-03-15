@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3207">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04606563</url>
+  </required_header>
+  <id_info>
+    <org_study_id>H20-01984</org_study_id>
+    <nct_id>NCT04606563</nct_id>
+  </id_info>
+  <brief_title>Host Response Mediators in Coronavirus (COVID-19) Infection - Is There a Protective Effect of Losartan on Outcomes of Coronavirus Infection?</brief_title>
+  <acronym>ARBs CORONA II</acronym>
+  <official_title>Host Response Mediators in Coronavirus (COVID-19) Infection - Is There a Protective Effect of Losartan on Outcomes of Coronavirus Infection?</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of British Columbia</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Canadian Institutes of Health Research (CIHR)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of British Columbia</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      SARS-CoV-2 is a member of a class of viruses: angiotensin converting enzyme 2 (ACE2)-binding&#xD;
+      viruses that we call &quot;ABVs&quot;. The World Health Organization (WHO) and others are performing&#xD;
+      randomized controlled trials (RCTs) of vaccines and novel antivirals to address SARS-CoV-2&#xD;
+      directly. However, the critical illness complications of COVID-19 are caused in part by&#xD;
+      SARS-CoV-2's binding and inhibiting ACE2 and the consequent host response.&#xD;
+&#xD;
+      ACE 2 is the receptor for H1N1, H5N1, and SARS-CoV-2. After binding ACE2, SARS-CoV-2 is&#xD;
+      endocytosed, and surface ACE2 is down-regulated, increasing angiotensin II (ATII a potent&#xD;
+      vasoconstrictor) in COVID-19. The original ARB, losartan, limits lung injury in murine&#xD;
+      influenza H7N9 and decreases viral titre and RNA.&#xD;
+&#xD;
+      We have a unique opportunity to complement vaccine and anti-viral RCTs with an RCT modulating&#xD;
+      the host response using an angiotensin II type 1 receptor blocker (ARB, losartan) to decrease&#xD;
+      the mortality of hospitalized COVID-19 patient.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PURPOSE: There is clinical equipoise around the safety and efficacy of ARBs in COVID-19, but&#xD;
+      there are few RCTs of ARBs in COVID-19. Guo and colleagues' meta-analysis showed that&#xD;
+      ARBs/ACE inhibitor use was associated with decreased mortality[29]. Our structured literature&#xD;
+      review (Cheng et al., submitted) shows that SARS-CoV-2 and other viruses that bind ACE2 cause&#xD;
+      acute cardiac injury in nearly 50% of cases. Safety concerns of ARBs in COVID-19 arise&#xD;
+      because ARBs increase cardiac ACE2[30], potentially increasing SARS-CoV-2 cellular uptake and&#xD;
+      worsening outcomes. On the other hand, ARBs block the effects of excess angiotensin II and&#xD;
+      could be beneficial. Our proposed ARBs CORONA II Phase 3 RCT will establish whether losartan&#xD;
+      can decrease mortality in hospitalized COVID-19 patients.&#xD;
+&#xD;
+      HYPOTHESIS:&#xD;
+&#xD;
+      Primary - Losartan (25 to 50 to 100 mg daily) decreases mortality and is safe in hospitalized&#xD;
+      COVID-19 infected adults compared to standard of care.&#xD;
+&#xD;
+      Secondary - ACE pathway proteins (aka RAS components) (ATI, AT1-7, ATII, ACE and ACE2&#xD;
+      levels), cytokines and metabolomics/proteomics predict mortality and efficacy of losartan in&#xD;
+      hospitalized COVID-19 adults&#xD;
+&#xD;
+      RESEARCH DESIGN: We will assess losartan (25-50-100 mg daily) vs. usual care for safety and&#xD;
+      efficacy in decreasing organ dysfunction and mortality of hospitalized adults with COVID-19.&#xD;
+      Dr. Srinivas Murthy, a co-investigator herein and PI of the SOLIDARITY RCT in Canada (CATCO),&#xD;
+      Dr. John Marshall, co-investigator herein and PI of REMAPCAP, and Dr. Russell have&#xD;
+      coordinated alignment by allowing co-enrollment.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 9, 2020</start_date>
+  <completion_date type="Anticipated">June 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+    <masking_description>Our RCT uses blinded randomization and a usual care control.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>28 days</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Hospital Mortality</measure>
+    <time_frame>up to 6 months</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ICU Admission</measure>
+    <time_frame>up to 6 months</time_frame>
+    <description>Location within hospital (ICU or wards)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>days alive and free of vasopressors, ventilation, and renal replacement therapy</measure>
+    <time_frame>up to 14 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SOFA score</measure>
+    <time_frame>28 days</time_frame>
+    <description>Sequential Organ Failure Assessment (SOFA) score</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Acute cardiac injury</measure>
+    <time_frame>6 months</time_frame>
+    <description>Use of inotropic agents and increase(s) of of troponin and/or NT-proBNP from admission level</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Severe adverse events</measure>
+    <time_frame>6 months</time_frame>
+    <description>Severe adverse effects of ARBs and mortality</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>at 1, 3 and 6 months</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">1372</enrollment>
+  <condition>Covid19</condition>
+  <condition>SARS-CoV Infection</condition>
+  <arm_group>
+    <arm_group_label>Losartan</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients will initially receive 25 mg oral losartan, increased to 50 mg after 24 hours and then increased to a max dose of 100 mg after another 24 hours, dependent on tolerance. Patient will remain at dose for duration of hospital (max of 3 months if still hospitalized). Tolerance is defined as having no severe adverse events 24 hours after the first dose. Investigators and/or attending physicians discretion may dictate that dose will not be increased, at which point dose will stay at 25 or 50 mg.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Usual Care Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Usual care for duration of hospitalization for up to 3 months if still hospitalized. Due to the lack of clinical guidance from this emergent disease, this may vary dependent on Institution and/or country</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Losartan</intervention_name>
+    <description>Oral losartan 25 mg, stepped up to 50 mg and then up to 100 mg peak dose, as tolerated.</description>
+    <arm_group_label>Losartan</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  First Hospitalization for acute COVID-19&#xD;
+&#xD;
+          -  Adults 18 years of age or greater&#xD;
+&#xD;
+          -  Laboratory-proven COVID-19 within 24 hours of hospital admission&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Hypotension (SAP &lt; 100 mmHg or DAP &lt; 50 mmHg or MAP &lt; 65 mmHg)&#xD;
+&#xD;
+          -  Hyperkalemia (&gt; 5.5 mmol/l)&#xD;
+&#xD;
+          -  Acute kidney injury (urine output &lt; 0.5 ml/kg/hr and new creatinine &gt; 200 mmol/l, or&#xD;
+             increase &gt; 100 mmol/l, or GFR &lt; 30 ml/min)&#xD;
+&#xD;
+          -  Use of ARB/ACEi within 7 days of presentation&#xD;
+&#xD;
+          -  Pregnant or breastfeeding&#xD;
+&#xD;
+          -  Have a known allergy to losartan or any component of the drug product&#xD;
+&#xD;
+          -  Have written legal document to withhold life-sustaining (patients not wishing to&#xD;
+             receive Cardiopulmonary Resuscitation (CPR) can participate if other medical&#xD;
+             treatments will be given)&#xD;
+&#xD;
+          -  Have signed a Do No Resuscitate (DNR) Form&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>James A Russell, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of British Columbia</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Karen Tran, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of British Columbia</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Puneet Mann</last_name>
+    <phone>604-682-2344</phone>
+    <phone_ext>64734</phone_ext>
+    <email>pmann7@providencehealth.bc.ca</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Lynda Lazosky</last_name>
+    <phone>604-682-2344</phone>
+    <phone_ext>68191</phone_ext>
+    <email>llazosky@providencehealth.bc.ca</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of Nebraska</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68198</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Andre Kalil, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Brown University</name>
+      <address>
+        <city>Providence</city>
+        <state>Rhode Island</state>
+        <zip>02912</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Mitchell Levy, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Vanderbilt University</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37235</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>J. Matthew Luther, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>St. Luc University Hospital</name>
+      <address>
+        <city>Brussels</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Xavier Wittebol, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Clinique Saint-Pierre</name>
+      <address>
+        <city>Ottignies</city>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Thierry Dugernier, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Calgary - Foothills</name>
+      <address>
+        <city>Calgary</city>
+        <state>Alberta</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Brent Winston, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Brent Winston, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Rahim Kachra, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Columbian Hospital</name>
+      <address>
+        <city>New Westminster</city>
+        <state>British Columbia</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Steve Reynolds, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Peter Birks, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Surrey Memorial Hospital</name>
+      <address>
+        <city>Surrey</city>
+        <state>British Columbia</state>
+        <zip>V3V 1Z2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Gregory Haljan, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Anish Mitra, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Omar Sharif, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>St Paul's Hospital</name>
+      <address>
+        <city>Vancouver</city>
+        <state>British Columbia</state>
+        <zip>V6Z1Y6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Puneet Mann, MSc</last_name>
+      <phone>604 682 2344</phone>
+      <phone_ext>64734</phone_ext>
+      <email>pmann7@providencehealth.bc.ca</email>
+    </contact>
+    <investigator>
+      <last_name>Karen Tran, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Keith Walley, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>John Boyd, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Vancouver General Hospital</name>
+      <address>
+        <city>Vancouver</city>
+        <state>British Columbia</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Karen Tran, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>David Sweet, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Queens University</name>
+      <address>
+        <city>Kingston</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>David Maslove, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Santiago Perez, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The Ottawa Hospital</name>
+      <address>
+        <city>Ottawa</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Vicente Corrales-Medina, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>St Michael's Hospital</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>John Marshall, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Sunnybrook Hospital</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Robert Fowler, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>McGill University Health Center</name>
+      <address>
+        <city>Montréal</city>
+        <state>Quebec</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Matthew Cheng, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Université de Sherbrooke</name>
+      <address>
+        <city>Sherbrooke</city>
+        <state>Quebec</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Francois Lamontagne, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Universitaire d'Angers</name>
+      <address>
+        <city>Angers</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Pierre Asfar, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Chiba University</name>
+      <address>
+        <city>Chiba</city>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Taka-aki Nakada, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clínico San Carlos</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Antonio Torres, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+    <country>Canada</country>
+    <country>France</country>
+    <country>Japan</country>
+    <country>Spain</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>October 27, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 27, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 28, 2020</study_first_posted>
+  <last_update_submitted>October 27, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 27, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 28, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of British Columbia</investigator_affiliation>
+    <investigator_full_name>Jim Russell</investigator_full_name>
+    <investigator_title>Study Wide Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>ARBs</keyword>
+  <keyword>angiotensin II type 1 receptor blocker</keyword>
+  <keyword>ACEi</keyword>
+  <keyword>acute respiratory distress syndrome</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>coronavirus</keyword>
+  <keyword>multisite</keyword>
+  <keyword>Global</keyword>
+  <keyword>Canada</keyword>
+  <keyword>Acute kidney injury</keyword>
+  <keyword>acute cardiac injury</keyword>
+  <keyword>shock</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Losartan</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

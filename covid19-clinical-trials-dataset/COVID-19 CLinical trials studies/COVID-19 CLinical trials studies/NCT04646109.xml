@@ -1,0 +1,2834 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1430">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04646109</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IVMC_03</org_study_id>
+    <nct_id>NCT04646109</nct_id>
+  </id_info>
+  <brief_title>Ivermectin for Severe COVID-19 Management</brief_title>
+  <official_title>The Effectiveness and Safety of Ivermectin as add-on Therapy in Severe COVID-19 Management</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Afyonkarahisar Health Sciences University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>NeuTec Pharma</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Afyonkarahisar Health Sciences University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In this multicenter study; it was aimed to investigate the effectiveness and safety of&#xD;
+      ivermectin use in the treatment of patients with severe COVID-19 pneumonia that have no&#xD;
+      mutations which alter ivermectin metabolism and cause side effects.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Patients with severe COVID-19 pneumonia were included in the study. Two groups, the study&#xD;
+      group and the control group, took part in the study.&#xD;
+&#xD;
+      Ivermectin 200 mcg/kg/day for five days (9 mg between 36-50 kg, 12 mg between 51-65 kg, 15 mg&#xD;
+      between 66-79 kg and 200 microgram/kg in &gt; 80 kg) in the form of a solution prepared for&#xD;
+      enteral use added to the reference treatment protocol -hydroxychloroquine (2x400mg loading&#xD;
+      dose followed by 2x200mg, po, 5 days) + favipiravir (2x1600mg loading dose followed by&#xD;
+      2x600mg maintenance dose, po, total 5 days) + azithromycin (first day 500mg followed by 4&#xD;
+      days 250mg/day, po, total 5 days)- of patients included in the study group. Patients in the&#xD;
+      control group were given only reference treatment with 3 other drugs without ivermectin.&#xD;
+&#xD;
+      The mutations in 29 pairs of primers in mdr1/abcab1 gene by sequencing analysis using Sanger&#xD;
+      method, and the haplotypes and mutations of the CYP3A4 gene that cause the function losing&#xD;
+      were investigated among the patients who meet criteria and who were included in the study&#xD;
+      group according to randomization. Mutation screening was done when the first dose of the&#xD;
+      research drug ivermectin was given, ivermectin treatment was not continued in patients with&#xD;
+      mutations detected as a result of genetic examination and these patients were excluded from&#xD;
+      the study.&#xD;
+&#xD;
+      Patients were followed for 5 additional days after treatment. At the end of the treatment and&#xD;
+      follow-up period (At the end of 10th day), clinical response and changes in oxygenation and&#xD;
+      laboratory parameters were evaluated.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">May 11, 2020</start_date>
+  <completion_date type="Actual">September 2, 2020</completion_date>
+  <primary_completion_date type="Actual">September 2, 2020</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Patients who were hospitalised with a pre-diagnosis of severe COVID-19 pneumonia and thereafter diagnosis of COVID-19 was also confirmed microbiologically with polymerase chain reaction (PCR) positivity in respiratory tract samples were included into the study. They were randomized to the study and control group, respectively. Single numbered patients were accepted as study group and double numbered patients as control group</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Gender Distribution of the Patients</measure>
+    <time_frame>At the first day of the study</time_frame>
+    <description>The gender of patients (Male/female) in both groups were recorded at the time of inclusion.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Age Distribution of the Patients</measure>
+    <time_frame>At the first day of the study</time_frame>
+    <description>The age of the patients (years) in both groups were recorded at the time of inclusion.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of Patients With Accompanying Diseases</measure>
+    <time_frame>At the first day of the study</time_frame>
+    <description>At the beginning of the study, the patients were asked whether there were any of the following accompanying diseases and the percentage of patients with accompanying disease in both groups were recorded:&#xD;
+Diabetes mellitus&#xD;
+Hypertension&#xD;
+Coronary artery disease&#xD;
+Cardiac failure&#xD;
+Chronic obstructive pulmonary disease&#xD;
+Malignancy&#xD;
+Immunodeficiency</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of Patients With Baseline Clinical Symptoms</measure>
+    <time_frame>At the first day of the study</time_frame>
+    <description>At the beginning of the study, the patients were asked whether there were any of the following clinical symptoms and the percentage of patients with any of the clinical symptoms in both groups were recorded:&#xD;
+Fever&#xD;
+Cough&#xD;
+Sore throat&#xD;
+Dispnea&#xD;
+Headache&#xD;
+Weakness&#xD;
+Myalgia&#xD;
+Diarrhea&#xD;
+Nausea or vomiting</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Body Temperature Means of the Patients</measure>
+    <time_frame>At the first day of the study</time_frame>
+    <description>At the beginning of the study, the body temperatures (as degree celcius) of the patients were measured and the mean body temperature values of both groups were recorded.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Heart Rate Means of the Patients</measure>
+    <time_frame>At the first day of the study</time_frame>
+    <description>At the beginning of the study, the heart rates (as per minute) of the patients were measured and the mean heart rate values of both groups were recorded.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Respiratory Rate Means of the Patients</measure>
+    <time_frame>At the first day of the study</time_frame>
+    <description>At the beginning of the study, the respiratory rates (as per minute) of the patients were measured and the mean respiratory rate values of both groups were recorded.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Systolic and Diastolic Pressure Means of the Patients</measure>
+    <time_frame>At the first day of the study</time_frame>
+    <description>At the beginning of the study, the systolic and diastolic pressures (as mmHg) of the patients were measured and the mean systolic and diastolic pressure values of both groups were recorded.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants With Clinical Response</measure>
+    <time_frame>From starting to the end of ivermectin therapy (0 to the end of 5th day)</time_frame>
+    <description>The presence of at least two of the following criteria in patients at the end of 5th day were accepted as &quot;clinical response&quot;: Extubation in mechanically ventilated patients, respiratory rate &lt;26/min, SpO2 level in room air &gt;90%, PaO2/FiO2 &gt;300 in patients receiving oxygen, presence of at least two of the 2-point reduction criteria in &quot;Sequential Organ Failure Assessment (SOFA)&quot; score.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in Oxygen Saturation (SpO2) Values</measure>
+    <time_frame>From starting to the end of ivermectin therapy (0 to the end of 5th day)</time_frame>
+    <description>Baseline SpO2 values of the patients were recorded in both groups. Then, their treatments were started and SpO2 values at the end of the 1st (TD1), 3rd (TD3) and 5th days (TD5) were also recorded. The end of the 5th day was accepted as the primary endpoint. While the change in SpO2 values on the 1st, 3rd and 5th days after the basal value calculated graphically, the change in the SpO2 value at the end of the 5th day (primary endpoint) with the baseline value was compared statistically (the results were given as p value).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in the Ratio of Partial Pressure of Oxygen (PaO2) to Fraction of Inspired Oxygen (FiO2) (PaO2/FiO2)</measure>
+    <time_frame>From starting to the end of ivermectin therapy (0 to the end of 5th day)</time_frame>
+    <description>Baseline PaO2/FiO2 ratios of the patients were recorded in both groups. Then, their treatments were started and PaO2/FiO2 ratios at the end of the 1st (TD1), 3rd (TD3) and 5th days (TD5) were also recorded. The end of the 5th day was accepted as the primary endpoint. While the change in PaO2/FiO2 ratios on the 1st, 3rd and 5th days after the basal ratio was calculated graphically, the change in the PaO2/FiO2 ratio at the end of the 5th day (primary endpoint) with the baseline value was compared statistically (the results were given as p value).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in Serum Lymphocyte Counts</measure>
+    <time_frame>From starting to the end of ivermectin therapy (0 to the end of 5th day)</time_frame>
+    <description>Baseline Serum Lymphocyte counts (cell/mm^3) of the patients were recorded in both groups. Then, their treatments were started and Serum Lymphocyte counts at the end of the 1st (TD1), 3rd (TD3) and 5th days (TD5) were also recorded. The end of the 5th day was accepted as the primary endpoint. While the change in Serum Lymphocyte counts on the 1st, 3rd and 5th days after the basal level was calculated graphically, the change in the Serum Lymphocyte count at the end of the 5th day (primary endpoint) with the baseline count was compared statistically (the results were given as p value).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in the Ratio of Polymorphonuclear Leukocyte Count to Lymphocyte Count (PNL/L)</measure>
+    <time_frame>From starting to the end of ivermectin therapy (0 to the end of 5th day)</time_frame>
+    <description>Baseline PNL/L ratio of the patients were recorded in both groups. Then, their treatments were started and PNL/L ratios at the end of the 1st (TD1), 3rd (TD3) and 5th days (TD5) were also recorded. The end of the 5th day was accepted as the primary endpoint. While the change in PNL/L ratios on the 1st, 3rd and 5th days after the basal level was calculated graphically, the change in the PNL/L ratio at the end of the 5th day (primary endpoint) with the baseline ratio was compared statistically (the results were given as p value).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in Serum Ferritin Levels</measure>
+    <time_frame>From starting to the end of ivermectin therapy (0 to the end of 5th day)</time_frame>
+    <description>Baseline serum ferritin levels (mg/dL) of the patients were recorded in both groups. Then, their treatments were started and serum ferritin levels at the end of the 1st (TD1), 3rd (TD3) and 5th days (TD5) were also recorded. The end of the 5th day was accepted as the primary endpoint. While the change in serum ferritin levels on the 1st, 3rd and 5th days after the basal level was calculated graphically, the change in the serum ferritin level at the end of the 5th day (primary endpoint) with the baseline level was compared statistically (the results were given as p value).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in Serum D-dimer Levels</measure>
+    <time_frame>From starting to the end of ivermectin therapy (0 to the end of 5th day)</time_frame>
+    <description>Baseline serum D-dimer levels (mg/L) of the patients were recorded in both groups. Then, their treatments were started and serum D-dimer levels at the end of the 1st (TD1), 3rd (TD3) and 5th days (TD5) were also recorded. The end of the 5th day was accepted as the primary endpoint. While the change in serum D-dimer levels on the 1st, 3rd and 5th days after the basal level was calculated graphically, the change in the serum D-dimer level at the end of the 5th day (primary endpoint) with the baseline level was compared statistically (the results were given as p value).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Genetic Examination of Haplotypes and Mutations That Cause Function Losing for Ivermectin Metabolism</measure>
+    <time_frame>At the first day of ivermectin therapy (1st day)</time_frame>
+    <description>A blood sample was taken from the patients included in the study group, after taking or during the first dose of ivermectin. From the blood samples, haplotypes and mutations that cause the function losing were investigated by performing sequence analysis of multidrug resistance 1 (MDR1)/ABCB1 and CYP3A4 genes with Sanger method. In case of detection of mutation, the patient were excluded from the study and if observed, side effects of ivermectin were noted.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Treatment-Related Adverse Events as Assessed by CTCAE v4.0</measure>
+    <time_frame>At the first 5 days of study</time_frame>
+    <description>Adverse effects of ivermectin and drugs other than ivermectin (Hydroxychloroquine, favipiravir, azithromycin) were evaluated in the patients in the study group and and the number of participants were noted.&#xD;
+Adverse effects of drugs other than ivermectin (Hydroxychloroquine, favipiravir, azithromycin) were evaluated in the patients in the control group and and the number of participants were noted.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants With Clinical Response</measure>
+    <time_frame>10 days (5 days ivermectin therapy plus 5 days follow-up)</time_frame>
+    <description>The presence of at least two of the following criteria in patients on the 10th day were accepted as &quot;clinical response&quot;: Respiration rate between 22-24/min, SpO2 level in room air &gt;95%, absence of oxygen requirement, observation of radiological improvement in control lung tomography and no need for intensive care.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>Through study completion, an average of 3 months</time_frame>
+    <description>The number of died patients were evaluated in study and control groups</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in Oxygen Saturation (SpO2) Values</measure>
+    <time_frame>From 6th to the end of 10th day</time_frame>
+    <description>In both groups, after the treatment period was completed (first 5 days, primary endpoint), patients were followed up for 5 more days (follow-up period). SpO2 values at the end of 6th (FD1), 8th (FD3) and 10th day (FD5) were also recorded. The end of the 10th day was accepted as the secondary endpoint. While the change in SpO2 values on the 6th, 8th and 10th days was calculated graphically, the change in the SpO2 value at the end of the 10th day (secondary endpoint) with the baseline value was compared statistically (the results were given as p value).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in the Ratio of Partial Pressure of Oxygen (PaO2) to Fraction of Inspired Oxygen (FiO2) (PaO2/FiO2)</measure>
+    <time_frame>From 6th to the end of 10th day</time_frame>
+    <description>In both groups, after the treatment period was completed (first 5 days, primary endpoint), patients were followed up for 5 more days (follow-up period). PaO2/FiO2 ratios at the end of 6th (FD1), 8th (FD3) and 10th day (FD5) were also recorded. The end of the 10th day was accepted as the secondary endpoint. While the change in PaO2/FiO2 ratios on the 6th, 8th and 10th days was calculated graphically, the change in the PaO2/FiO2 ratio at the end of the 10th day (secondary endpoint) with the baseline ratio was compared statistically (the results were given as p value).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in Serum Lymphocyte Counts</measure>
+    <time_frame>From 6th to the end of 10th day</time_frame>
+    <description>In both groups, after the treatment period was completed (first 5 days, primary endpoint), patients were followed up for 5 more days (follow-up period). Serum lymphocyte counts (cell/mm^3) at the end of 6th (FD1), 8th (FD3) and 10th day (FD5) were also recorded. The end of the 10th day was accepted as the secondary endpoint. While the change in serum lymphocyte counts on the 6th, 8th and 10th days was calculated graphically, the change in the serum lymphocyte count at the end of the 10th day (secondary endpoint) with the baseline value was compared statistically (the results were given as p value).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in the Ratio of Polymorphonuclear Leukocyte Count to Lymphocyte Count (PNL/L)</measure>
+    <time_frame>From 6th to the end of 10th day</time_frame>
+    <description>In both groups, after the treatment period was completed (first 5 days, primary endpoint), patients were followed up for 5 more days (follow-up period). PNL/L ratios at the end of 6th (FD1), 8th (FD3) and 10th day (FD5) were also recorded. The end of the 10th day was accepted as the secondary endpoint. While the change in PNL/L ratios on the 6th, 8th and 10th days was calculated graphically, the change in the PNL/L ratio at the end of the 10th day (secondary endpoint) with the baseline value was compared statistically (the results were given as p value).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in Serum Ferritin Levels</measure>
+    <time_frame>From 6th to the end of 10th day</time_frame>
+    <description>In both groups, after the treatment period was completed (first 5 days, primary endpoint), patients were followed up for 5 more days (follow-up period). Serum ferritin levels (mg/dL) at the end of 6th (FD1), 8th (FD3) and 10th day (FD5) were also recorded. The end of the 10th day was accepted as the secondary endpoint. While the change in serum ferritin levels on the 6th, 8th and 10th days was calculated graphically, the change in the serum ferritin level at the end of the 10th day (secondary endpoint) with the baseline value was compared statistically (the results were given as p value).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in Serum D-dimer Levels</measure>
+    <time_frame>From 6th to the end of 10th day</time_frame>
+    <description>In both groups, after the treatment period was completed (first 5 days, primary endpoint), patients were followed up for 5 more days (follow-up period). Serum D-dimer levels (mg/L) at the end of 6th (FD1), 8th (FD3) and 10th day (FD5) were also recorded. The end of the 10th day was accepted as the secondary endpoint. While the change in Serum D-dimer levels on the 6th, 8th and 10th days was calculated graphically, the change in the serum D-dimer level at the end of the 10th day (secondary endpoint) with the baseline value was compared statistically (the results were given as p value).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of COVID-19 Polymerase Chain Reaction (PCR) Test Negativity</measure>
+    <time_frame>At the end of 10th day</time_frame>
+    <description>At the end of the follow-up period (10th day), patients in the study and control group were investigated by PCR test for SARS-CoV-2 and the negative results were recorded as percentage for both groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Treatment-Related Adverse Events as Assessed by CTCAE v4.0</measure>
+    <time_frame>From the 6th day of study to the 10th day of study</time_frame>
+    <description>Adverse effects of ivermectin and drugs other than ivermectin (Hydroxychloroquine, favipiravir, azithromycin) were evaluated in the patients in the study group and and the number of participants were noted.&#xD;
+Adverse effects of drugs other than ivermectin (Hydroxychloroquine, favipiravir, azithromycin) were evaluated in the patients in the control group and and the number of participants were noted.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">66</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Control Group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Patients who were hospitalised with a pre-diagnosis of severe COVID-19 pneumonia and thereafter diagnosis of COVID-19 was also confirmed microbiologically with PCR positivity in respiratory tract samples were included into the study. They were randomized to the control and study group, respectively. Hydroxychloroquine, favipiravir and azithromycin (HFA) standard treatment protocol were given to the control group as recommended in the &quot;COVID-19 (SARS-CoV-2 Infection) Guide&quot; prepared by the Republic of Turkey Ministry of Health.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Study Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>In addition to HFA treatment, ivermectin 200 micrograms/kg/day (9mg between 36-50 kg, 12mg between 51-65 kg, 15mg between 66-79 kg and 200 micrograms/kg in &gt; 80 kg) in the form of a solution prepared for enteral use was added (HFA+I) to the treatment protocol of the study group's for five days. Blood sample was taken with the first dose of ivermectin and haplotype analysis was performed in ABCB1 and CYP3A4 genes in the whole study group.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ivermectin</intervention_name>
+    <description>Ivermectin 5mg/5ml solution was manufactured by NEUTEC™ Pharmaceutical Company-Turkey, under &quot;Good Manufacturing Practices&quot; (GMP) certification conditions.</description>
+    <arm_group_label>Study Group</arm_group_label>
+    <other_name>Hydroxychloroquine, favipiravir and azithromycin</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients who were hospitalised with a pre-diagnosis of &quot;severe COVID-19 pneumonia&quot; and&#xD;
+             thereafter diagnosis of COVID-19 was also confirmed microbiologically with PCR&#xD;
+             positivity in respiratory tract samples were included into the study. They were&#xD;
+             randomized to the study and control group, respectively.&#xD;
+&#xD;
+        Patients with at least one of the criteria below were accepted as patients with severe&#xD;
+        COVID-19 pneumonia;&#xD;
+&#xD;
+          1. Presence of tachypnea ≥ 30/minute, SpO2 level &lt; 90% in room air, PaO2/FiO2 &lt;300 in&#xD;
+             oxygen receiving patient&#xD;
+&#xD;
+          2. Presence of specific radiological finding for COVID-19 in lung tomography (bilateral&#xD;
+             lobular, peripherally located, diffuse patchy ground glass opacities)&#xD;
+&#xD;
+          3. Mechanical ventilation requirement&#xD;
+&#xD;
+          4. Acute organ dysfunction findings; patients with SOFA (sepsis-related organ failure&#xD;
+             assessment) score &gt;2&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients with the following characteristics were excluded from the study.&#xD;
+&#xD;
+               1. Pediatric patients; &lt;18 years of old&#xD;
+&#xD;
+               2. Patients with chronic liver or kidney disease&#xD;
+&#xD;
+               3. Pregnant women&#xD;
+&#xD;
+               4. Patients with known ivermectin allergy&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Nurullah Okumuş, Prof. Dr.</last_name>
+    <role>Study Chair</role>
+    <affiliation>Afyonkarahisar Health Science University, Afyonkarahisar, Turkey</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Neşe Demirtürk, A. Prof. Dr.</last_name>
+    <role>Study Director</role>
+    <affiliation>Afyonkarahisar Health Science University, Afyonkarahisar, Turkey</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Rıza A. Çetinkaya, Prof. Dr.</last_name>
+    <role>Study Director</role>
+    <affiliation>Haydarpasa Sultan Abdulhamid Han Training and Research Hospital, Istanbul, Turkey</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Rahmet Güner, Prof. Dr.</last_name>
+    <role>Study Director</role>
+    <affiliation>Yıldırım Beyazıt University, Ankara City Hospital, Ankara, Turkey</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>İsmail Y. Avcı</last_name>
+    <role>Study Director</role>
+    <affiliation>Gulhane Faculty of Medicine, University of Health Sciences, Ankara, Turkey</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Afyonkarahisar Health Science University</name>
+      <address>
+        <city>Afyonkarahisar</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Gulhane Faculty of Medicine, University of Health Sciences</name>
+      <address>
+        <city>Ankara</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Yıldırım Beyazıt University, Ankara City Hospital</name>
+      <address>
+        <city>Ankara</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Haydarpasa Sultan Abdulhamid Han Training and Research Hospital</name>
+      <address>
+        <city>İstanbul</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Turkey</country>
+  </location_countries>
+  <link>
+    <url>https://covid19.who.int/</url>
+    <description>World Health Organization (WHO) Coronavirus Disease (COVID-19) Dashboard</description>
+  </link>
+  <reference>
+    <citation>Guan WJ, Ni ZY, Hu Y, Liang WH, Ou CQ, He JX, Liu L, Shan H, Lei CL, Hui DSC, Du B, Li LJ, Zeng G, Yuen KY, Chen RC, Tang CL, Wang T, Chen PY, Xiang J, Li SY, Wang JL, Liang ZJ, Peng YX, Wei L, Liu Y, Hu YH, Peng P, Wang JM, Liu JY, Chen Z, Li G, Zheng ZJ, Qiu SQ, Luo J, Ye CJ, Zhu SY, Zhong NS; China Medical Treatment Expert Group for Covid-19. Clinical Characteristics of Coronavirus Disease 2019 in China. N Engl J Med. 2020 Apr 30;382(18):1708-1720. doi: 10.1056/NEJMoa2002032. Epub 2020 Feb 28.</citation>
+    <PMID>32109013</PMID>
+  </reference>
+  <reference>
+    <citation>Jean SS, Lee PI, Hsueh PR. Treatment options for COVID-19: The reality and challenges. J Microbiol Immunol Infect. 2020 Jun;53(3):436-443. doi: 10.1016/j.jmii.2020.03.034. Epub 2020 Apr 4. Review.</citation>
+    <PMID>32307245</PMID>
+  </reference>
+  <reference>
+    <citation>Croci R, Bottaro E, Chan KW, Watanabe S, Pezzullo M, Mastrangelo E, Nastruzzi C. Liposomal Systems as Nanocarriers for the Antiviral Agent Ivermectin. Int J Biomater. 2016;2016:8043983. doi: 10.1155/2016/8043983. Epub 2016 May 8.</citation>
+    <PMID>27242902</PMID>
+  </reference>
+  <reference>
+    <citation>Heidary F, Gharebaghi R. Ivermectin: a systematic review from antiviral effects to COVID-19 complementary regimen. J Antibiot (Tokyo). 2020 Sep;73(9):593-602. doi: 10.1038/s41429-020-0336-z. Epub 2020 Jun 12.</citation>
+    <PMID>32533071</PMID>
+  </reference>
+  <reference>
+    <citation>Caly L, Druce JD, Catton MG, Jans DA, Wagstaff KM. The FDA-approved drug ivermectin inhibits the replication of SARS-CoV-2 in vitro. Antiviral Res. 2020 Jun;178:104787. doi: 10.1016/j.antiviral.2020.104787. Epub 2020 Apr 3.</citation>
+    <PMID>32251768</PMID>
+  </reference>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>November 15, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 25, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 27, 2020</study_first_posted>
+  <results_first_submitted>December 3, 2020</results_first_submitted>
+  <results_first_submitted_qc>January 25, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">January 27, 2021</results_first_posted>
+  <last_update_submitted>January 25, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 25, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 27, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Afyonkarahisar Health Sciences University</investigator_affiliation>
+    <investigator_full_name>Nurullah Okumuş</investigator_full_name>
+    <investigator_title>Prof. Dr.</investigator_title>
+  </responsible_party>
+  <keyword>Ivermectin</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>Treatment</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Azithromycin</mesh_term>
+    <mesh_term>Hydroxychloroquine</mesh_term>
+    <mesh_term>Ivermectin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>April 5, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/09/NCT04646109/Prot_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Informed Consent Form</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>April 5, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/09/NCT04646109/ICF_001.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Statistical Analysis Plan</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>April 5, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/09/NCT04646109/SAP_002.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <pre_assignment_details>At the beginning of the study, it was planned to have 30 patients each in the control and study groups. During the study, 6 patients were excluded from the study group because ivermectin treatments were terminated due to the detection of mutations that impairs ivermectin metabolism and new patients were added. As a result, 66 patients were included in the study, 6 patients were excluded due to mutation detection and the study was completed with 30 patients in both groups.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Control Group</title>
+          <description>Patients who were hospitalised with a pre-diagnosis of severe COVID-19 pneumonia and thereafter diagnosis of COVID-19 was also confirmed microbiologically with PCR positivity in respiratory tract samples were included into the study. They were randomized to the control and study group, respectively. Hydroxychloroquine, favipiravir and azithromycin (HFA) standard treatment protocol were given to the control group as recommended in the &quot;COVID-19 (SARS-CoV-2 Infection) Guide&quot; prepared by the Republic of Turkey Ministry of Health.</description>
+        </group>
+        <group group_id="P2">
+          <title>Study Group</title>
+          <description>In addition to HFA treatment, ivermectin 200 micrograms/kg/day (9mg between 36-50 kg, 12mg between 51-65 kg, 15mg between 66-79 kg and 200 micrograms/kg in &gt; 80 kg) in the form of a solution prepared for enteral use was added (HFA+I) to the treatment protocol of the study group's for five days. Blood sample was taken with the first dose of ivermectin and haplotype analysis was performed in ABCB1 and CYP3A4 genes in the whole study group.&#xD;
+Ivermectin: Ivermectin 5mg/5ml solution was manufactured by NEUTEC™ Pharmaceutical Company-Turkey, under &quot;Good Manufacturing Practices&quot; (GMP) certification conditions.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="30"/>
+                <participants group_id="P2" count="36"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="30"/>
+                <participants group_id="P2" count="30"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="6"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Mutation disrupting ivermectin metabolism was found in 6 patients</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="6"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>36 patients were included in the study group. But, 6 patients in the study group were excluded from the study and analysis because ivermectin treatments were terminated due to the detection of a mutation that impairs ivermectin metabolism. As a result, overall number of baseline participants in the study group was 30.</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Control Group</title>
+          <description>Patients who were hospitalised with a pre-diagnosis of severe COVID-19 pneumonia and thereafter diagnosis of COVID-19 was also confirmed microbiologically with PCR positivity in respiratory tract samples were included into the study. They were randomized to the control and study group, respectively. Hydroxychloroquine, favipiravir and azithromycin (HFA) standard treatment protocol were given to the control group as recommended in the &quot;COVID-19 (SARS-CoV-2 Infection) Guide&quot; prepared by the Republic of Turkey Ministry of Health.</description>
+        </group>
+        <group group_id="B2">
+          <title>Study Group</title>
+          <description>In addition to HFA treatment, ivermectin 200 micrograms/kg/day (9mg between 36-50 kg, 12mg between 51-65 kg, 15mg between 66-79 kg and 200 micrograms/kg in &gt; 80 kg) in the form of a solution prepared for enteral use was added (HFA+I) to the treatment protocol of the study group's for five days. Blood sample was taken with the first dose of ivermectin and haplotype analysis was performed in ABCB1 and CYP3A4 genes in the whole study group.&#xD;
+Ivermectin: Ivermectin 5mg/5ml solution was manufactured by NEUTEC™ Pharmaceutical Company-Turkey, under &quot;Good Manufacturing Practices&quot; (GMP) certification conditions.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="30"/>
+            <count group_id="B2" value="30"/>
+            <count group_id="B3" value="60"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age, Customized</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="66.23" spread="13.31"/>
+                    <measurement group_id="B2" value="58.17" spread="11.52"/>
+                    <measurement group_id="B3" value="62.20" spread="13.00"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="11"/>
+                    <measurement group_id="B2" value="9"/>
+                    <measurement group_id="B3" value="20"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="19"/>
+                    <measurement group_id="B2" value="21"/>
+                    <measurement group_id="B3" value="40"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="30"/>
+                    <measurement group_id="B2" value="30"/>
+                    <measurement group_id="B3" value="60"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>Turkey</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="30"/>
+                    <measurement group_id="B2" value="30"/>
+                    <measurement group_id="B3" value="60"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Gender Distribution of the Patients</title>
+        <description>The gender of patients (Male/female) in both groups were recorded at the time of inclusion.</description>
+        <time_frame>At the first day of the study</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Control Group</title>
+            <description>Patients who were hospitalised with a pre-diagnosis of severe COVID-19 pneumonia and thereafter diagnosis of COVID-19 was also confirmed microbiologically with PCR positivity in respiratory tract samples were included into the study. They were randomized to the control and study group, respectively. Hydroxychloroquine, favipiravir and azithromycin (HFA) standard treatment protocol were given to the control group as recommended in the &quot;COVID-19 (SARS-CoV-2 Infection) Guide&quot; prepared by the Republic of Turkey Ministry of Health.</description>
+          </group>
+          <group group_id="O2">
+            <title>Study Group</title>
+            <description>In addition to HFA treatment, ivermectin 200 micrograms/kg/day (9mg between 36-50 kg, 12mg between 51-65 kg, 15mg between 66-79 kg and 200 micrograms/kg in &gt; 80 kg) in the form of a solution prepared for enteral use was added (HFA+I) to the treatment protocol of the study group's for five days. Blood sample was taken with the first dose of ivermectin and haplotype analysis was performed in ABCB1 and CYP3A4 genes in the whole study group.&#xD;
+Ivermectin: Ivermectin 5mg/5ml solution was manufactured by NEUTEC™ Pharmaceutical Company-Turkey, under &quot;Good Manufacturing Practices&quot; (GMP) certification conditions.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Gender Distribution of the Patients</title>
+          <description>The gender of patients (Male/female) in both groups were recorded at the time of inclusion.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="30"/>
+                <count group_id="O2" value="30"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Male</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="19"/>
+                    <measurement group_id="O2" value="21"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Female</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="11"/>
+                    <measurement group_id="O2" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Age Distribution of the Patients</title>
+        <description>The age of the patients (years) in both groups were recorded at the time of inclusion.</description>
+        <time_frame>At the first day of the study</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Control Group</title>
+            <description>Patients who were hospitalised with a pre-diagnosis of severe COVID-19 pneumonia and thereafter diagnosis of COVID-19 was also confirmed microbiologically with PCR positivity in respiratory tract samples were included into the study. They were randomized to the control and study group, respectively. Hydroxychloroquine, favipiravir and azithromycin (HFA) standard treatment protocol were given to the control group as recommended in the &quot;COVID-19 (SARS-CoV-2 Infection) Guide&quot; prepared by the Republic of Turkey Ministry of Health.</description>
+          </group>
+          <group group_id="O2">
+            <title>Study Group</title>
+            <description>In addition to HFA treatment, ivermectin 200 micrograms/kg/day (9mg between 36-50 kg, 12mg between 51-65 kg, 15mg between 66-79 kg and 200 micrograms/kg in &gt; 80 kg) in the form of a solution prepared for enteral use was added (HFA+I) to the treatment protocol of the study group's for five days. Blood sample was taken with the first dose of ivermectin and haplotype analysis was performed in ABCB1 and CYP3A4 genes in the whole study group.&#xD;
+Ivermectin: Ivermectin 5mg/5ml solution was manufactured by NEUTEC™ Pharmaceutical Company-Turkey, under &quot;Good Manufacturing Practices&quot; (GMP) certification conditions.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Age Distribution of the Patients</title>
+          <description>The age of the patients (years) in both groups were recorded at the time of inclusion.</description>
+          <units>Years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="30"/>
+                <count group_id="O2" value="30"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="66.23" spread="13.31"/>
+                    <measurement group_id="O2" value="58.17" spread="11.52"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Percentage of Patients With Accompanying Diseases</title>
+        <description>At the beginning of the study, the patients were asked whether there were any of the following accompanying diseases and the percentage of patients with accompanying disease in both groups were recorded:&#xD;
+Diabetes mellitus&#xD;
+Hypertension&#xD;
+Coronary artery disease&#xD;
+Cardiac failure&#xD;
+Chronic obstructive pulmonary disease&#xD;
+Malignancy&#xD;
+Immunodeficiency</description>
+        <time_frame>At the first day of the study</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Control Group</title>
+            <description>Patients who were hospitalised with a pre-diagnosis of severe COVID-19 pneumonia and thereafter diagnosis of COVID-19 was also confirmed microbiologically with PCR positivity in respiratory tract samples were included into the study. They were randomized to the control and study group, respectively. Hydroxychloroquine, favipiravir and azithromycin (HFA) standard treatment protocol were given to the control group as recommended in the &quot;COVID-19 (SARS-CoV-2 Infection) Guide&quot; prepared by the Republic of Turkey Ministry of Health.</description>
+          </group>
+          <group group_id="O2">
+            <title>Study Group</title>
+            <description>In addition to HFA treatment, ivermectin 200 micrograms/kg/day (9mg between 36-50 kg, 12mg between 51-65 kg, 15mg between 66-79 kg and 200 micrograms/kg in &gt; 80 kg) in the form of a solution prepared for enteral use was added (HFA+I) to the treatment protocol of the study group's for five days. Blood sample was taken with the first dose of ivermectin and haplotype analysis was performed in ABCB1 and CYP3A4 genes in the whole study group.&#xD;
+Ivermectin: Ivermectin 5mg/5ml solution was manufactured by NEUTEC™ Pharmaceutical Company-Turkey, under &quot;Good Manufacturing Practices&quot; (GMP) certification conditions.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage of Patients With Accompanying Diseases</title>
+          <description>At the beginning of the study, the patients were asked whether there were any of the following accompanying diseases and the percentage of patients with accompanying disease in both groups were recorded:&#xD;
+Diabetes mellitus&#xD;
+Hypertension&#xD;
+Coronary artery disease&#xD;
+Cardiac failure&#xD;
+Chronic obstructive pulmonary disease&#xD;
+Malignancy&#xD;
+Immunodeficiency</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="30"/>
+                <count group_id="O2" value="30"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Diabetes Mellitus</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="10"/>
+                    <measurement group_id="O2" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hypertension</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="12"/>
+                    <measurement group_id="O2" value="15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Coronary artery disease</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8"/>
+                    <measurement group_id="O2" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Cardiac failure</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Chronic obstructive pulmonary disease</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Malignancy</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Immunodeficiency</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Percentage of Patients With Baseline Clinical Symptoms</title>
+        <description>At the beginning of the study, the patients were asked whether there were any of the following clinical symptoms and the percentage of patients with any of the clinical symptoms in both groups were recorded:&#xD;
+Fever&#xD;
+Cough&#xD;
+Sore throat&#xD;
+Dispnea&#xD;
+Headache&#xD;
+Weakness&#xD;
+Myalgia&#xD;
+Diarrhea&#xD;
+Nausea or vomiting</description>
+        <time_frame>At the first day of the study</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Control Group</title>
+            <description>Patients who were hospitalised with a pre-diagnosis of severe COVID-19 pneumonia and thereafter diagnosis of COVID-19 was also confirmed microbiologically with PCR positivity in respiratory tract samples were included into the study. They were randomized to the control and study group, respectively. Hydroxychloroquine, favipiravir and azithromycin (HFA) standard treatment protocol were given to the control group as recommended in the &quot;COVID-19 (SARS-CoV-2 Infection) Guide&quot; prepared by the Republic of Turkey Ministry of Health.</description>
+          </group>
+          <group group_id="O2">
+            <title>Study Group</title>
+            <description>In addition to HFA treatment, ivermectin 200 micrograms/kg/day (9mg between 36-50 kg, 12mg between 51-65 kg, 15mg between 66-79 kg and 200 micrograms/kg in &gt; 80 kg) in the form of a solution prepared for enteral use was added (HFA+I) to the treatment protocol of the study group's for five days. Blood sample was taken with the first dose of ivermectin and haplotype analysis was performed in ABCB1 and CYP3A4 genes in the whole study group.&#xD;
+Ivermectin: Ivermectin 5mg/5ml solution was manufactured by NEUTEC™ Pharmaceutical Company-Turkey, under &quot;Good Manufacturing Practices&quot; (GMP) certification conditions.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage of Patients With Baseline Clinical Symptoms</title>
+          <description>At the beginning of the study, the patients were asked whether there were any of the following clinical symptoms and the percentage of patients with any of the clinical symptoms in both groups were recorded:&#xD;
+Fever&#xD;
+Cough&#xD;
+Sore throat&#xD;
+Dispnea&#xD;
+Headache&#xD;
+Weakness&#xD;
+Myalgia&#xD;
+Diarrhea&#xD;
+Nausea or vomiting</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="30"/>
+                <count group_id="O2" value="30"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Fever</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="13"/>
+                    <measurement group_id="O2" value="15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Cough</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="14"/>
+                    <measurement group_id="O2" value="16"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Sore throat</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>dyspnea</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="19"/>
+                    <measurement group_id="O2" value="23"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Headache</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Weakness</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="11"/>
+                    <measurement group_id="O2" value="13"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Myalgia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7"/>
+                    <measurement group_id="O2" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Diarrhea</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Nausea or vomiting</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Body Temperature Means of the Patients</title>
+        <description>At the beginning of the study, the body temperatures (as degree celcius) of the patients were measured and the mean body temperature values of both groups were recorded.</description>
+        <time_frame>At the first day of the study</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Control Group</title>
+            <description>Patients who were hospitalised with a pre-diagnosis of severe COVID-19 pneumonia and thereafter diagnosis of COVID-19 was also confirmed microbiologically with PCR positivity in respiratory tract samples were included into the study. They were randomized to the control and study group, respectively. Hydroxychloroquine, favipiravir and azithromycin (HFA) standard treatment protocol were given to the control group as recommended in the &quot;COVID-19 (SARS-CoV-2 Infection) Guide&quot; prepared by the Republic of Turkey Ministry of Health.</description>
+          </group>
+          <group group_id="O2">
+            <title>Study Group</title>
+            <description>In addition to HFA treatment, ivermectin 200 micrograms/kg/day (9mg between 36-50 kg, 12mg between 51-65 kg, 15mg between 66-79 kg and 200 micrograms/kg in &gt; 80 kg) in the form of a solution prepared for enteral use was added (HFA+I) to the treatment protocol of the study group's for five days. Blood sample was taken with the first dose of ivermectin and haplotype analysis was performed in ABCB1 and CYP3A4 genes in the whole study group.&#xD;
+Ivermectin: Ivermectin 5mg/5ml solution was manufactured by NEUTEC™ Pharmaceutical Company-Turkey, under &quot;Good Manufacturing Practices&quot; (GMP) certification conditions.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Body Temperature Means of the Patients</title>
+          <description>At the beginning of the study, the body temperatures (as degree celcius) of the patients were measured and the mean body temperature values of both groups were recorded.</description>
+          <units>Degree celcius</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="30"/>
+                <count group_id="O2" value="30"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="36.8" spread="0.8"/>
+                    <measurement group_id="O2" value="36.9" spread="0.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Heart Rate Means of the Patients</title>
+        <description>At the beginning of the study, the heart rates (as per minute) of the patients were measured and the mean heart rate values of both groups were recorded.</description>
+        <time_frame>At the first day of the study</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Control Group</title>
+            <description>Patients who were hospitalised with a pre-diagnosis of severe COVID-19 pneumonia and thereafter diagnosis of COVID-19 was also confirmed microbiologically with PCR positivity in respiratory tract samples were included into the study. They were randomized to the control and study group, respectively. Hydroxychloroquine, favipiravir and azithromycin (HFA) standard treatment protocol were given to the control group as recommended in the &quot;COVID-19 (SARS-CoV-2 Infection) Guide&quot; prepared by the Republic of Turkey Ministry of Health.</description>
+          </group>
+          <group group_id="O2">
+            <title>Study Group</title>
+            <description>In addition to HFA treatment, ivermectin 200 micrograms/kg/day (9mg between 36-50 kg, 12mg between 51-65 kg, 15mg between 66-79 kg and 200 micrograms/kg in &gt; 80 kg) in the form of a solution prepared for enteral use was added (HFA+I) to the treatment protocol of the study group's for five days. Blood sample was taken with the first dose of ivermectin and haplotype analysis was performed in ABCB1 and CYP3A4 genes in the whole study group.&#xD;
+Ivermectin: Ivermectin 5mg/5ml solution was manufactured by NEUTEC™ Pharmaceutical Company-Turkey, under &quot;Good Manufacturing Practices&quot; (GMP) certification conditions.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Heart Rate Means of the Patients</title>
+          <description>At the beginning of the study, the heart rates (as per minute) of the patients were measured and the mean heart rate values of both groups were recorded.</description>
+          <units>beats per minute</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="30"/>
+                <count group_id="O2" value="30"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="92" spread="18"/>
+                    <measurement group_id="O2" value="88" spread="12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Respiratory Rate Means of the Patients</title>
+        <description>At the beginning of the study, the respiratory rates (as per minute) of the patients were measured and the mean respiratory rate values of both groups were recorded.</description>
+        <time_frame>At the first day of the study</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Control Group</title>
+            <description>Patients who were hospitalised with a pre-diagnosis of severe COVID-19 pneumonia and thereafter diagnosis of COVID-19 was also confirmed microbiologically with PCR positivity in respiratory tract samples were included into the study. They were randomized to the control and study group, respectively. Hydroxychloroquine, favipiravir and azithromycin (HFA) standard treatment protocol were given to the control group as recommended in the &quot;COVID-19 (SARS-CoV-2 Infection) Guide&quot; prepared by the Republic of Turkey Ministry of Health.</description>
+          </group>
+          <group group_id="O2">
+            <title>Study Group</title>
+            <description>In addition to HFA treatment, ivermectin 200 micrograms/kg/day (9mg between 36-50 kg, 12mg between 51-65 kg, 15mg between 66-79 kg and 200 micrograms/kg in &gt; 80 kg) in the form of a solution prepared for enteral use was added (HFA+I) to the treatment protocol of the study group's for five days. Blood sample was taken with the first dose of ivermectin and haplotype analysis was performed in ABCB1 and CYP3A4 genes in the whole study group.&#xD;
+Ivermectin: Ivermectin 5mg/5ml solution was manufactured by NEUTEC™ Pharmaceutical Company-Turkey, under &quot;Good Manufacturing Practices&quot; (GMP) certification conditions.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Respiratory Rate Means of the Patients</title>
+          <description>At the beginning of the study, the respiratory rates (as per minute) of the patients were measured and the mean respiratory rate values of both groups were recorded.</description>
+          <units>breaths per minute</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="30"/>
+                <count group_id="O2" value="30"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="24.7" spread="0.7"/>
+                    <measurement group_id="O2" value="24" spread="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Systolic and Diastolic Pressure Means of the Patients</title>
+        <description>At the beginning of the study, the systolic and diastolic pressures (as mmHg) of the patients were measured and the mean systolic and diastolic pressure values of both groups were recorded.</description>
+        <time_frame>At the first day of the study</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Control Group</title>
+            <description>Patients who were hospitalised with a pre-diagnosis of severe COVID-19 pneumonia and thereafter diagnosis of COVID-19 was also confirmed microbiologically with PCR positivity in respiratory tract samples were included into the study. They were randomized to the control and study group, respectively. Hydroxychloroquine, favipiravir and azithromycin (HFA) standard treatment protocol were given to the control group as recommended in the &quot;COVID-19 (SARS-CoV-2 Infection) Guide&quot; prepared by the Republic of Turkey Ministry of Health.</description>
+          </group>
+          <group group_id="O2">
+            <title>Study Group</title>
+            <description>In addition to HFA treatment, ivermectin 200 micrograms/kg/day (9mg between 36-50 kg, 12mg between 51-65 kg, 15mg between 66-79 kg and 200 micrograms/kg in &gt; 80 kg) in the form of a solution prepared for enteral use was added (HFA+I) to the treatment protocol of the study group's for five days. Blood sample was taken with the first dose of ivermectin and haplotype analysis was performed in ABCB1 and CYP3A4 genes in the whole study group.&#xD;
+Ivermectin: Ivermectin 5mg/5ml solution was manufactured by NEUTEC™ Pharmaceutical Company-Turkey, under &quot;Good Manufacturing Practices&quot; (GMP) certification conditions.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Systolic and Diastolic Pressure Means of the Patients</title>
+          <description>At the beginning of the study, the systolic and diastolic pressures (as mmHg) of the patients were measured and the mean systolic and diastolic pressure values of both groups were recorded.</description>
+          <units>mmHg</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="30"/>
+                <count group_id="O2" value="30"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Systolic pressure</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="124.61" spread="15.37"/>
+                    <measurement group_id="O2" value="124.39" spread="15.60"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Diastolic pressure</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="73.43" spread="8.47"/>
+                    <measurement group_id="O2" value="75.64" spread="9.79"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants With Clinical Response</title>
+        <description>The presence of at least two of the following criteria in patients at the end of 5th day were accepted as &quot;clinical response&quot;: Extubation in mechanically ventilated patients, respiratory rate &lt;26/min, SpO2 level in room air &gt;90%, PaO2/FiO2 &gt;300 in patients receiving oxygen, presence of at least two of the 2-point reduction criteria in &quot;Sequential Organ Failure Assessment (SOFA)&quot; score.</description>
+        <time_frame>From starting to the end of ivermectin therapy (0 to the end of 5th day)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Control Group</title>
+            <description>Patients who were hospitalised with a pre-diagnosis of severe COVID-19 pneumonia and thereafter diagnosis of COVID-19 was also confirmed microbiologically with PCR positivity in respiratory tract samples were included into the study. They were randomized to the control and study group, respectively. Hydroxychloroquine, favipiravir and azithromycin (HFA) standard treatment protocol were given to the control group as recommended in the &quot;COVID-19 (SARS-CoV-2 Infection) Guide&quot; prepared by the Republic of Turkey Ministry of Health.</description>
+          </group>
+          <group group_id="O2">
+            <title>Study Group</title>
+            <description>In addition to HFA treatment, ivermectin 200 micrograms/kg/day (9mg between 36-50 kg, 12mg between 51-65 kg, 15mg between 66-79 kg and 200 micrograms/kg in &gt; 80 kg) in the form of a solution prepared for enteral use was added (HFA+I) to the treatment protocol of the study group's for five days. Blood sample was taken with the first dose of ivermectin and haplotype analysis was performed in ABCB1 and CYP3A4 genes in the whole study group.&#xD;
+Ivermectin: Ivermectin 5mg/5ml solution was manufactured by NEUTEC™ Pharmaceutical Company-Turkey, under &quot;Good Manufacturing Practices&quot; (GMP) certification conditions.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With Clinical Response</title>
+          <description>The presence of at least two of the following criteria in patients at the end of 5th day were accepted as &quot;clinical response&quot;: Extubation in mechanically ventilated patients, respiratory rate &lt;26/min, SpO2 level in room air &gt;90%, PaO2/FiO2 &gt;300 in patients receiving oxygen, presence of at least two of the 2-point reduction criteria in &quot;Sequential Organ Failure Assessment (SOFA)&quot; score.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="30"/>
+                <count group_id="O2" value="30"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="11"/>
+                    <measurement group_id="O2" value="14"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.43</p_value>
+            <p_value_desc>A p&lt;0.05 value was considered statistically significant</p_value_desc>
+            <method>Chi-squared</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Changes in Oxygen Saturation (SpO2) Values</title>
+        <description>Baseline SpO2 values of the patients were recorded in both groups. Then, their treatments were started and SpO2 values at the end of the 1st (TD1), 3rd (TD3) and 5th days (TD5) were also recorded. The end of the 5th day was accepted as the primary endpoint. While the change in SpO2 values on the 1st, 3rd and 5th days after the basal value calculated graphically, the change in the SpO2 value at the end of the 5th day (primary endpoint) with the baseline value was compared statistically (the results were given as p value).</description>
+        <time_frame>From starting to the end of ivermectin therapy (0 to the end of 5th day)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Control Group</title>
+            <description>Patients who were hospitalised with a pre-diagnosis of severe COVID-19 pneumonia and thereafter diagnosis of COVID-19 was also confirmed microbiologically with PCR positivity in respiratory tract samples were included into the study. They were randomized to the control and study group, respectively. Hydroxychloroquine, favipiravir and azithromycin (HFA) standard treatment protocol were given to the control group as recommended in the &quot;COVID-19 (SARS-CoV-2 Infection) Guide&quot; prepared by the Republic of Turkey Ministry of Health.</description>
+          </group>
+          <group group_id="O2">
+            <title>Study Group</title>
+            <description>In addition to HFA treatment, ivermectin 200 micrograms/kg/day (9mg between 36-50 kg, 12mg between 51-65 kg, 15mg between 66-79 kg and 200 micrograms/kg in &gt; 80 kg) in the form of a solution prepared for enteral use was added (HFA+I) to the treatment protocol of the study group's for five days. Blood sample was taken with the first dose of ivermectin and haplotype analysis was performed in ABCB1 and CYP3A4 genes in the whole study group.&#xD;
+Ivermectin: Ivermectin 5mg/5ml solution was manufactured by NEUTEC™ Pharmaceutical Company-Turkey, under &quot;Good Manufacturing Practices&quot; (GMP) certification conditions.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Changes in Oxygen Saturation (SpO2) Values</title>
+          <description>Baseline SpO2 values of the patients were recorded in both groups. Then, their treatments were started and SpO2 values at the end of the 1st (TD1), 3rd (TD3) and 5th days (TD5) were also recorded. The end of the 5th day was accepted as the primary endpoint. While the change in SpO2 values on the 1st, 3rd and 5th days after the basal value calculated graphically, the change in the SpO2 value at the end of the 5th day (primary endpoint) with the baseline value was compared statistically (the results were given as p value).</description>
+          <units>percentage of peripheral capillary O2</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="30"/>
+                <count group_id="O2" value="30"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="89.67" spread="5.09"/>
+                    <measurement group_id="O2" value="89.93" spread="6.51"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>TD1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="90.50" spread="7.47"/>
+                    <measurement group_id="O2" value="92.85" spread="4.86"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>TD3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="91.90" spread="4.97"/>
+                    <measurement group_id="O2" value="93.07" spread="4.12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>TD5</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="93.00" spread="3.25"/>
+                    <measurement group_id="O2" value="93.52" spread="4.36"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.14</p_value>
+            <p_value_desc>A p&lt;0.05 value was considered statistically significant</p_value_desc>
+            <method>Wilcoxon (Mann-Whitney)</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Changes in the Ratio of Partial Pressure of Oxygen (PaO2) to Fraction of Inspired Oxygen (FiO2) (PaO2/FiO2)</title>
+        <description>Baseline PaO2/FiO2 ratios of the patients were recorded in both groups. Then, their treatments were started and PaO2/FiO2 ratios at the end of the 1st (TD1), 3rd (TD3) and 5th days (TD5) were also recorded. The end of the 5th day was accepted as the primary endpoint. While the change in PaO2/FiO2 ratios on the 1st, 3rd and 5th days after the basal ratio was calculated graphically, the change in the PaO2/FiO2 ratio at the end of the 5th day (primary endpoint) with the baseline value was compared statistically (the results were given as p value).</description>
+        <time_frame>From starting to the end of ivermectin therapy (0 to the end of 5th day)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Control Group</title>
+            <description>Patients who were hospitalised with a pre-diagnosis of severe COVID-19 pneumonia and thereafter diagnosis of COVID-19 was also confirmed microbiologically with PCR positivity in respiratory tract samples were included into the study. They were randomized to the control and study group, respectively. Hydroxychloroquine, favipiravir and azithromycin (HFA) standard treatment protocol were given to the control group as recommended in the &quot;COVID-19 (SARS-CoV-2 Infection) Guide&quot; prepared by the Republic of Turkey Ministry of Health.</description>
+          </group>
+          <group group_id="O2">
+            <title>Study Group</title>
+            <description>In addition to HFA treatment, ivermectin 200 micrograms/kg/day (9mg between 36-50 kg, 12mg between 51-65 kg, 15mg between 66-79 kg and 200 micrograms/kg in &gt; 80 kg) in the form of a solution prepared for enteral use was added (HFA+I) to the treatment protocol of the study group's for five days. Blood sample was taken with the first dose of ivermectin and haplotype analysis was performed in ABCB1 and CYP3A4 genes in the whole study group.&#xD;
+Ivermectin: Ivermectin 5mg/5ml solution was manufactured by NEUTEC™ Pharmaceutical Company-Turkey, under &quot;Good Manufacturing Practices&quot; (GMP) certification conditions.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Changes in the Ratio of Partial Pressure of Oxygen (PaO2) to Fraction of Inspired Oxygen (FiO2) (PaO2/FiO2)</title>
+          <description>Baseline PaO2/FiO2 ratios of the patients were recorded in both groups. Then, their treatments were started and PaO2/FiO2 ratios at the end of the 1st (TD1), 3rd (TD3) and 5th days (TD5) were also recorded. The end of the 5th day was accepted as the primary endpoint. While the change in PaO2/FiO2 ratios on the 1st, 3rd and 5th days after the basal ratio was calculated graphically, the change in the PaO2/FiO2 ratio at the end of the 5th day (primary endpoint) with the baseline value was compared statistically (the results were given as p value).</description>
+          <units>Ratio</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="30"/>
+                <count group_id="O2" value="30"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="197.44" spread="102.31"/>
+                    <measurement group_id="O2" value="158.83" spread="88.15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>TD1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="181.83" spread="99.62"/>
+                    <measurement group_id="O2" value="147.31" spread="74.15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>TD3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="174.77" spread="94.74"/>
+                    <measurement group_id="O2" value="147.74" spread="83.30"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>TD5</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="180.13" spread="95.43"/>
+                    <measurement group_id="O2" value="178.94" spread="98.21"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.68</p_value>
+            <p_value_desc>A p&lt;0.05 value was considered statistically significant</p_value_desc>
+            <method>Wilcoxon (Mann-Whitney)</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Changes in Serum Lymphocyte Counts</title>
+        <description>Baseline Serum Lymphocyte counts (cell/mm^3) of the patients were recorded in both groups. Then, their treatments were started and Serum Lymphocyte counts at the end of the 1st (TD1), 3rd (TD3) and 5th days (TD5) were also recorded. The end of the 5th day was accepted as the primary endpoint. While the change in Serum Lymphocyte counts on the 1st, 3rd and 5th days after the basal level was calculated graphically, the change in the Serum Lymphocyte count at the end of the 5th day (primary endpoint) with the baseline count was compared statistically (the results were given as p value).</description>
+        <time_frame>From starting to the end of ivermectin therapy (0 to the end of 5th day)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Control Group</title>
+            <description>Patients who were hospitalised with a pre-diagnosis of severe COVID-19 pneumonia and thereafter diagnosis of COVID-19 was also confirmed microbiologically with PCR positivity in respiratory tract samples were included into the study. They were randomized to the control and study group, respectively. Hydroxychloroquine, favipiravir and azithromycin (HFA) standard treatment protocol were given to the control group as recommended in the &quot;COVID-19 (SARS-CoV-2 Infection) Guide&quot; prepared by the Republic of Turkey Ministry of Health.</description>
+          </group>
+          <group group_id="O2">
+            <title>Study Group</title>
+            <description>In addition to HFA treatment, ivermectin 200 micrograms/kg/day (9mg between 36-50 kg, 12mg between 51-65 kg, 15mg between 66-79 kg and 200 micrograms/kg in &gt; 80 kg) in the form of a solution prepared for enteral use was added (HFA+I) to the treatment protocol of the study group's for five days. Blood sample was taken with the first dose of ivermectin and haplotype analysis was performed in ABCB1 and CYP3A4 genes in the whole study group.&#xD;
+Ivermectin: Ivermectin 5mg/5ml solution was manufactured by NEUTEC™ Pharmaceutical Company-Turkey, under &quot;Good Manufacturing Practices&quot; (GMP) certification conditions.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Changes in Serum Lymphocyte Counts</title>
+          <description>Baseline Serum Lymphocyte counts (cell/mm^3) of the patients were recorded in both groups. Then, their treatments were started and Serum Lymphocyte counts at the end of the 1st (TD1), 3rd (TD3) and 5th days (TD5) were also recorded. The end of the 5th day was accepted as the primary endpoint. While the change in Serum Lymphocyte counts on the 1st, 3rd and 5th days after the basal level was calculated graphically, the change in the Serum Lymphocyte count at the end of the 5th day (primary endpoint) with the baseline count was compared statistically (the results were given as p value).</description>
+          <units>cell/mm^3</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="30"/>
+                <count group_id="O2" value="30"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1010" spread="438"/>
+                    <measurement group_id="O2" value="932" spread="483"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>TD1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1034" spread="450"/>
+                    <measurement group_id="O2" value="928" spread="607"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>TD3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="977" spread="575"/>
+                    <measurement group_id="O2" value="1021" spread="648"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>TD5</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="968" spread="477"/>
+                    <measurement group_id="O2" value="1273" spread="822"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.15</p_value>
+            <p_value_desc>A p&lt;0.05 value was considered statistically significant</p_value_desc>
+            <method>Wilcoxon (Mann-Whitney)</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Changes in the Ratio of Polymorphonuclear Leukocyte Count to Lymphocyte Count (PNL/L)</title>
+        <description>Baseline PNL/L ratio of the patients were recorded in both groups. Then, their treatments were started and PNL/L ratios at the end of the 1st (TD1), 3rd (TD3) and 5th days (TD5) were also recorded. The end of the 5th day was accepted as the primary endpoint. While the change in PNL/L ratios on the 1st, 3rd and 5th days after the basal level was calculated graphically, the change in the PNL/L ratio at the end of the 5th day (primary endpoint) with the baseline ratio was compared statistically (the results were given as p value).</description>
+        <time_frame>From starting to the end of ivermectin therapy (0 to the end of 5th day)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Control Group</title>
+            <description>Patients who were hospitalised with a pre-diagnosis of severe COVID-19 pneumonia and thereafter diagnosis of COVID-19 was also confirmed microbiologically with PCR positivity in respiratory tract samples were included into the study. They were randomized to the control and study group, respectively. Hydroxychloroquine, favipiravir and azithromycin (HFA) standard treatment protocol were given to the control group as recommended in the &quot;COVID-19 (SARS-CoV-2 Infection) Guide&quot; prepared by the Republic of Turkey Ministry of Health.</description>
+          </group>
+          <group group_id="O2">
+            <title>Study Group</title>
+            <description>In addition to HFA treatment, ivermectin 200 micrograms/kg/day (9mg between 36-50 kg, 12mg between 51-65 kg, 15mg between 66-79 kg and 200 micrograms/kg in &gt; 80 kg) in the form of a solution prepared for enteral use was added (HFA+I) to the treatment protocol of the study group's for five days. Blood sample was taken with the first dose of ivermectin and haplotype analysis was performed in ABCB1 and CYP3A4 genes in the whole study group.&#xD;
+Ivermectin: Ivermectin 5mg/5ml solution was manufactured by NEUTEC™ Pharmaceutical Company-Turkey, under &quot;Good Manufacturing Practices&quot; (GMP) certification conditions.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Changes in the Ratio of Polymorphonuclear Leukocyte Count to Lymphocyte Count (PNL/L)</title>
+          <description>Baseline PNL/L ratio of the patients were recorded in both groups. Then, their treatments were started and PNL/L ratios at the end of the 1st (TD1), 3rd (TD3) and 5th days (TD5) were also recorded. The end of the 5th day was accepted as the primary endpoint. While the change in PNL/L ratios on the 1st, 3rd and 5th days after the basal level was calculated graphically, the change in the PNL/L ratio at the end of the 5th day (primary endpoint) with the baseline ratio was compared statistically (the results were given as p value).</description>
+          <units>Ratio</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="30"/>
+                <count group_id="O2" value="30"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7.48" spread="6.41"/>
+                    <measurement group_id="O2" value="8.77" spread="8.35"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>TD1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7.74" spread="7.47"/>
+                    <measurement group_id="O2" value="10.82" spread="8.55"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>TD3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9.26" spread="7.58"/>
+                    <measurement group_id="O2" value="9.02" spread="13.08"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>TD5</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9.88" spread="8.45"/>
+                    <measurement group_id="O2" value="7.16" spread="4.97"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.37</p_value>
+            <p_value_desc>A p&lt;0.05 value was considered statistically significant</p_value_desc>
+            <method>Wilcoxon (Mann-Whitney)</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Changes in Serum Ferritin Levels</title>
+        <description>Baseline serum ferritin levels (mg/dL) of the patients were recorded in both groups. Then, their treatments were started and serum ferritin levels at the end of the 1st (TD1), 3rd (TD3) and 5th days (TD5) were also recorded. The end of the 5th day was accepted as the primary endpoint. While the change in serum ferritin levels on the 1st, 3rd and 5th days after the basal level was calculated graphically, the change in the serum ferritin level at the end of the 5th day (primary endpoint) with the baseline level was compared statistically (the results were given as p value).</description>
+        <time_frame>From starting to the end of ivermectin therapy (0 to the end of 5th day)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Control Group</title>
+            <description>Patients who were hospitalised with a pre-diagnosis of severe COVID-19 pneumonia and thereafter diagnosis of COVID-19 was also confirmed microbiologically with PCR positivity in respiratory tract samples were included into the study. They were randomized to the control and study group, respectively. Hydroxychloroquine, favipiravir and azithromycin (HFA) standard treatment protocol were given to the control group as recommended in the &quot;COVID-19 (SARS-CoV-2 Infection) Guide&quot; prepared by the Republic of Turkey Ministry of Health.</description>
+          </group>
+          <group group_id="O2">
+            <title>Study Group</title>
+            <description>In addition to HFA treatment, ivermectin 200 micrograms/kg/day (9mg between 36-50 kg, 12mg between 51-65 kg, 15mg between 66-79 kg and 200 micrograms/kg in &gt; 80 kg) in the form of a solution prepared for enteral use was added (HFA+I) to the treatment protocol of the study group's for five days. Blood sample was taken with the first dose of ivermectin and haplotype analysis was performed in ABCB1 and CYP3A4 genes in the whole study group.&#xD;
+Ivermectin: Ivermectin 5mg/5ml solution was manufactured by NEUTEC™ Pharmaceutical Company-Turkey, under &quot;Good Manufacturing Practices&quot; (GMP) certification conditions.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Changes in Serum Ferritin Levels</title>
+          <description>Baseline serum ferritin levels (mg/dL) of the patients were recorded in both groups. Then, their treatments were started and serum ferritin levels at the end of the 1st (TD1), 3rd (TD3) and 5th days (TD5) were also recorded. The end of the 5th day was accepted as the primary endpoint. While the change in serum ferritin levels on the 1st, 3rd and 5th days after the basal level was calculated graphically, the change in the serum ferritin level at the end of the 5th day (primary endpoint) with the baseline level was compared statistically (the results were given as p value).</description>
+          <units>mg/dL</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="30"/>
+                <count group_id="O2" value="30"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="747.05" spread="800.54"/>
+                    <measurement group_id="O2" value="682.75" spread="470.08"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>TD1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="783.03" spread="827.10"/>
+                    <measurement group_id="O2" value="834.94" spread="624.12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>TD3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="881.17" spread="779.95"/>
+                    <measurement group_id="O2" value="875.90" spread="694.52"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>TD5</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1028.24" spread="777.08"/>
+                    <measurement group_id="O2" value="875.12" spread="1193.06"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.12</p_value>
+            <p_value_desc>A p&lt;0.05 value was considered statistically significant</p_value_desc>
+            <method>Wilcoxon (Mann-Whitney)</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Changes in Serum D-dimer Levels</title>
+        <description>Baseline serum D-dimer levels (mg/L) of the patients were recorded in both groups. Then, their treatments were started and serum D-dimer levels at the end of the 1st (TD1), 3rd (TD3) and 5th days (TD5) were also recorded. The end of the 5th day was accepted as the primary endpoint. While the change in serum D-dimer levels on the 1st, 3rd and 5th days after the basal level was calculated graphically, the change in the serum D-dimer level at the end of the 5th day (primary endpoint) with the baseline level was compared statistically (the results were given as p value).</description>
+        <time_frame>From starting to the end of ivermectin therapy (0 to the end of 5th day)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Control Group</title>
+            <description>Patients who were hospitalised with a pre-diagnosis of severe COVID-19 pneumonia and thereafter diagnosis of COVID-19 was also confirmed microbiologically with PCR positivity in respiratory tract samples were included into the study. They were randomized to the control and study group, respectively. Hydroxychloroquine, favipiravir and azithromycin (HFA) standard treatment protocol were given to the control group as recommended in the &quot;COVID-19 (SARS-CoV-2 Infection) Guide&quot; prepared by the Republic of Turkey Ministry of Health.</description>
+          </group>
+          <group group_id="O2">
+            <title>Study Group</title>
+            <description>In addition to HFA treatment, ivermectin 200 micrograms/kg/day (9mg between 36-50 kg, 12mg between 51-65 kg, 15mg between 66-79 kg and 200 micrograms/kg in &gt; 80 kg) in the form of a solution prepared for enteral use was added (HFA+I) to the treatment protocol of the study group's for five days. Blood sample was taken with the first dose of ivermectin and haplotype analysis was performed in ABCB1 and CYP3A4 genes in the whole study group.&#xD;
+Ivermectin: Ivermectin 5mg/5ml solution was manufactured by NEUTEC™ Pharmaceutical Company-Turkey, under &quot;Good Manufacturing Practices&quot; (GMP) certification conditions.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Changes in Serum D-dimer Levels</title>
+          <description>Baseline serum D-dimer levels (mg/L) of the patients were recorded in both groups. Then, their treatments were started and serum D-dimer levels at the end of the 1st (TD1), 3rd (TD3) and 5th days (TD5) were also recorded. The end of the 5th day was accepted as the primary endpoint. While the change in serum D-dimer levels on the 1st, 3rd and 5th days after the basal level was calculated graphically, the change in the serum D-dimer level at the end of the 5th day (primary endpoint) with the baseline level was compared statistically (the results were given as p value).</description>
+          <units>mg/L</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="30"/>
+                <count group_id="O2" value="30"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.32" spread="2.04"/>
+                    <measurement group_id="O2" value="1.25" spread="1.71"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>TD1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2.80" spread="5.66"/>
+                    <measurement group_id="O2" value="1.40" spread="1.73"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>TD3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4.14" spread="9.91"/>
+                    <measurement group_id="O2" value="3.24" spread="11.60"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>TD5</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.58" spread="8.27"/>
+                    <measurement group_id="O2" value="5.85" spread="5.28"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.22</p_value>
+            <p_value_desc>A p&lt;0.05 value was considered statistically significant</p_value_desc>
+            <method>Wilcoxon (Mann-Whitney)</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Genetic Examination of Haplotypes and Mutations That Cause Function Losing for Ivermectin Metabolism</title>
+        <description>A blood sample was taken from the patients included in the study group, after taking or during the first dose of ivermectin. From the blood samples, haplotypes and mutations that cause the function losing were investigated by performing sequence analysis of multidrug resistance 1 (MDR1)/ABCB1 and CYP3A4 genes with Sanger method. In case of detection of mutation, the patient were excluded from the study and if observed, side effects of ivermectin were noted.</description>
+        <time_frame>At the first day of ivermectin therapy (1st day)</time_frame>
+        <population>We aimed to investigate the effectiveness/safety of adding ivermectin to the COVID-19 treatment in patients without mutation. Since ivermectin was not given to the control group, no blood sample was taken from these patients for mutation screening. The reason why there are 36 patients in the study group in this table is to indicate that there are 6 patients who were included in the study group but were removed from the study group because of a mutation and were replaced by additional patients.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Control Group</title>
+            <description>Patients who were hospitalised with a pre-diagnosis of severe COVID-19 pneumonia and thereafter diagnosis of COVID-19 was also confirmed microbiologically with PCR positivity in respiratory tract samples were included into the study. They were randomized to the control and study group, respectively. Hydroxychloroquine, favipiravir and azithromycin (HFA) standard treatment protocol were given to the control group as recommended in the &quot;COVID-19 (SARS-CoV-2 Infection) Guide&quot; prepared by the Republic of Turkey Ministry of Health.</description>
+          </group>
+          <group group_id="O2">
+            <title>Study Group</title>
+            <description>In addition to HFA treatment, ivermectin 200 micrograms/kg/day (9mg between 36-50 kg, 12mg between 51-65 kg, 15mg between 66-79 kg and 200 micrograms/kg in &gt; 80 kg) in the form of a solution prepared for enteral use was added (HFA+I) to the treatment protocol of the study group's for five days. Blood sample was taken with the first dose of ivermectin and haplotype analysis was performed in ABCB1 and CYP3A4 genes in the whole study group.&#xD;
+Ivermectin: Ivermectin 5mg/5ml solution was manufactured by NEUTEC™ Pharmaceutical Company-Turkey, under &quot;Good Manufacturing Practices&quot; (GMP) certification conditions.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Genetic Examination of Haplotypes and Mutations That Cause Function Losing for Ivermectin Metabolism</title>
+          <description>A blood sample was taken from the patients included in the study group, after taking or during the first dose of ivermectin. From the blood samples, haplotypes and mutations that cause the function losing were investigated by performing sequence analysis of multidrug resistance 1 (MDR1)/ABCB1 and CYP3A4 genes with Sanger method. In case of detection of mutation, the patient were excluded from the study and if observed, side effects of ivermectin were noted.</description>
+          <population>We aimed to investigate the effectiveness/safety of adding ivermectin to the COVID-19 treatment in patients without mutation. Since ivermectin was not given to the control group, no blood sample was taken from these patients for mutation screening. The reason why there are 36 patients in the study group in this table is to indicate that there are 6 patients who were included in the study group but were removed from the study group because of a mutation and were replaced by additional patients.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="0"/>
+                <count group_id="O2" value="36"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Mutation positive</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Mutation negative</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="30"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Treatment-Related Adverse Events as Assessed by CTCAE v4.0</title>
+        <description>Adverse effects of ivermectin and drugs other than ivermectin (Hydroxychloroquine, favipiravir, azithromycin) were evaluated in the patients in the study group and and the number of participants were noted.&#xD;
+Adverse effects of drugs other than ivermectin (Hydroxychloroquine, favipiravir, azithromycin) were evaluated in the patients in the control group and and the number of participants were noted.</description>
+        <time_frame>At the first 5 days of study</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Control Group</title>
+            <description>Patients who were hospitalised with a pre-diagnosis of severe COVID-19 pneumonia and thereafter diagnosis of COVID-19 was also confirmed microbiologically with PCR positivity in respiratory tract samples were included into the study. They were randomized to the control and study group, respectively. Hydroxychloroquine, favipiravir and azithromycin (HFA) standard treatment protocol were given to the control group as recommended in the &quot;COVID-19 (SARS-CoV-2 Infection) Guide&quot; prepared by the Republic of Turkey Ministry of Health.</description>
+          </group>
+          <group group_id="O2">
+            <title>Study Group</title>
+            <description>In addition to HFA treatment, ivermectin 200 micrograms/kg/day (9mg between 36-50 kg, 12mg between 51-65 kg, 15mg between 66-79 kg and 200 micrograms/kg in &gt; 80 kg) in the form of a solution prepared for enteral use was added (HFA+I) to the treatment protocol of the study group's for five days. Blood sample was taken with the first dose of ivermectin and haplotype analysis was performed in ABCB1 and CYP3A4 genes in the whole study group.&#xD;
+Ivermectin: Ivermectin 5mg/5ml solution was manufactured by NEUTEC™ Pharmaceutical Company-Turkey, under &quot;Good Manufacturing Practices&quot; (GMP) certification conditions.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Treatment-Related Adverse Events as Assessed by CTCAE v4.0</title>
+          <description>Adverse effects of ivermectin and drugs other than ivermectin (Hydroxychloroquine, favipiravir, azithromycin) were evaluated in the patients in the study group and and the number of participants were noted.&#xD;
+Adverse effects of drugs other than ivermectin (Hydroxychloroquine, favipiravir, azithromycin) were evaluated in the patients in the control group and and the number of participants were noted.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="30"/>
+                <count group_id="O2" value="30"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Nausea and vomiting</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Increase in liver function tests</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Participants With Clinical Response</title>
+        <description>The presence of at least two of the following criteria in patients on the 10th day were accepted as &quot;clinical response&quot;: Respiration rate between 22-24/min, SpO2 level in room air &gt;95%, absence of oxygen requirement, observation of radiological improvement in control lung tomography and no need for intensive care.</description>
+        <time_frame>10 days (5 days ivermectin therapy plus 5 days follow-up)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Control Group</title>
+            <description>Patients who were hospitalised with a pre-diagnosis of severe COVID-19 pneumonia and thereafter diagnosis of COVID-19 was also confirmed microbiologically with PCR positivity in respiratory tract samples were included into the study. They were randomized to the control and study group, respectively. Hydroxychloroquine, favipiravir and azithromycin (HFA) standard treatment protocol were given to the control group as recommended in the &quot;COVID-19 (SARS-CoV-2 Infection) Guide&quot; prepared by the Republic of Turkey Ministry of Health.</description>
+          </group>
+          <group group_id="O2">
+            <title>Study Group</title>
+            <description>In addition to HFA treatment, ivermectin 200 micrograms/kg/day (9mg between 36-50 kg, 12mg between 51-65 kg, 15mg between 66-79 kg and 200 micrograms/kg in &gt; 80 kg) in the form of a solution prepared for enteral use was added (HFA+I) to the treatment protocol of the study group's for five days. Blood sample was taken with the first dose of ivermectin and haplotype analysis was performed in ABCB1 and CYP3A4 genes in the whole study group.&#xD;
+Ivermectin: Ivermectin 5mg/5ml solution was manufactured by NEUTEC™ Pharmaceutical Company-Turkey, under &quot;Good Manufacturing Practices&quot; (GMP) certification conditions.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With Clinical Response</title>
+          <description>The presence of at least two of the following criteria in patients on the 10th day were accepted as &quot;clinical response&quot;: Respiration rate between 22-24/min, SpO2 level in room air &gt;95%, absence of oxygen requirement, observation of radiological improvement in control lung tomography and no need for intensive care.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="30"/>
+                <count group_id="O2" value="30"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="16"/>
+                    <measurement group_id="O2" value="22"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.10</p_value>
+            <p_value_desc>A p&lt;0.05 value was considered statistically significant</p_value_desc>
+            <method>Chi-squared</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Mortality</title>
+        <description>The number of died patients were evaluated in study and control groups</description>
+        <time_frame>Through study completion, an average of 3 months</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Control Group</title>
+            <description>Patients who were hospitalised with a pre-diagnosis of severe COVID-19 pneumonia and thereafter diagnosis of COVID-19 was also confirmed microbiologically with PCR positivity in respiratory tract samples were included into the study. They were randomized to the control and study group, respectively. Hydroxychloroquine, favipiravir and azithromycin (HFA) standard treatment protocol were given to the control group as recommended in the &quot;COVID-19 (SARS-CoV-2 Infection) Guide&quot; prepared by the Republic of Turkey Ministry of Health.</description>
+          </group>
+          <group group_id="O2">
+            <title>Study Group</title>
+            <description>In addition to HFA treatment, ivermectin 200 micrograms/kg/day (9mg between 36-50 kg, 12mg between 51-65 kg, 15mg between 66-79 kg and 200 micrograms/kg in &gt; 80 kg) in the form of a solution prepared for enteral use was added (HFA+I) to the treatment protocol of the study group's for five days. Blood sample was taken with the first dose of ivermectin and haplotype analysis was performed in ABCB1 and CYP3A4 genes in the whole study group.&#xD;
+Ivermectin: Ivermectin 5mg/5ml solution was manufactured by NEUTEC™ Pharmaceutical Company-Turkey, under &quot;Good Manufacturing Practices&quot; (GMP) certification conditions.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Mortality</title>
+          <description>The number of died patients were evaluated in study and control groups</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="30"/>
+                <count group_id="O2" value="30"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9"/>
+                    <measurement group_id="O2" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.37</p_value>
+            <p_value_desc>A p&lt;0.05 value was considered statistically significant</p_value_desc>
+            <method>Chi-squared</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Changes in Oxygen Saturation (SpO2) Values</title>
+        <description>In both groups, after the treatment period was completed (first 5 days, primary endpoint), patients were followed up for 5 more days (follow-up period). SpO2 values at the end of 6th (FD1), 8th (FD3) and 10th day (FD5) were also recorded. The end of the 10th day was accepted as the secondary endpoint. While the change in SpO2 values on the 6th, 8th and 10th days was calculated graphically, the change in the SpO2 value at the end of the 10th day (secondary endpoint) with the baseline value was compared statistically (the results were given as p value).</description>
+        <time_frame>From 6th to the end of 10th day</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Control Group</title>
+            <description>Patients who were hospitalised with a pre-diagnosis of severe COVID-19 pneumonia and thereafter diagnosis of COVID-19 was also confirmed microbiologically with PCR positivity in respiratory tract samples were included into the study. They were randomized to the control and study group, respectively. Hydroxychloroquine, favipiravir and azithromycin (HFA) standard treatment protocol were given to the control group as recommended in the &quot;COVID-19 (SARS-CoV-2 Infection) Guide&quot; prepared by the Republic of Turkey Ministry of Health.</description>
+          </group>
+          <group group_id="O2">
+            <title>Study Group</title>
+            <description>In addition to HFA treatment, ivermectin 200 micrograms/kg/day (9mg between 36-50 kg, 12mg between 51-65 kg, 15mg between 66-79 kg and 200 micrograms/kg in &gt; 80 kg) in the form of a solution prepared for enteral use was added (HFA+I) to the treatment protocol of the study group's for five days. Blood sample was taken with the first dose of ivermectin and haplotype analysis was performed in ABCB1 and CYP3A4 genes in the whole study group.&#xD;
+Ivermectin: Ivermectin 5mg/5ml solution was manufactured by NEUTEC™ Pharmaceutical Company-Turkey, under &quot;Good Manufacturing Practices&quot; (GMP) certification conditions.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Changes in Oxygen Saturation (SpO2) Values</title>
+          <description>In both groups, after the treatment period was completed (first 5 days, primary endpoint), patients were followed up for 5 more days (follow-up period). SpO2 values at the end of 6th (FD1), 8th (FD3) and 10th day (FD5) were also recorded. The end of the 10th day was accepted as the secondary endpoint. While the change in SpO2 values on the 6th, 8th and 10th days was calculated graphically, the change in the SpO2 value at the end of the 10th day (secondary endpoint) with the baseline value was compared statistically (the results were given as p value).</description>
+          <units>percentage of peripheral capillary O2</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="30"/>
+                <count group_id="O2" value="30"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="89.67" spread="5.09"/>
+                    <measurement group_id="O2" value="89.93" spread="6.51"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>FD1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="92.43" spread="2.86"/>
+                    <measurement group_id="O2" value="94.54" spread="2.21"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>FD3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="92.91" spread="2.71"/>
+                    <measurement group_id="O2" value="94.24" spread="2.76"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>FD5</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="93.00" spread="3.93"/>
+                    <measurement group_id="O2" value="95.35" spread="2.72"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.03</p_value>
+            <p_value_desc>A p&lt;0.05 value was considered statistically significant</p_value_desc>
+            <method>Wilcoxon (Mann-Whitney)</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Changes in the Ratio of Partial Pressure of Oxygen (PaO2) to Fraction of Inspired Oxygen (FiO2) (PaO2/FiO2)</title>
+        <description>In both groups, after the treatment period was completed (first 5 days, primary endpoint), patients were followed up for 5 more days (follow-up period). PaO2/FiO2 ratios at the end of 6th (FD1), 8th (FD3) and 10th day (FD5) were also recorded. The end of the 10th day was accepted as the secondary endpoint. While the change in PaO2/FiO2 ratios on the 6th, 8th and 10th days was calculated graphically, the change in the PaO2/FiO2 ratio at the end of the 10th day (secondary endpoint) with the baseline ratio was compared statistically (the results were given as p value).</description>
+        <time_frame>From 6th to the end of 10th day</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Control Group</title>
+            <description>Patients who were hospitalised with a pre-diagnosis of severe COVID-19 pneumonia and thereafter diagnosis of COVID-19 was also confirmed microbiologically with PCR positivity in respiratory tract samples were included into the study. They were randomized to the control and study group, respectively. Hydroxychloroquine, favipiravir and azithromycin (HFA) standard treatment protocol were given to the control group as recommended in the &quot;COVID-19 (SARS-CoV-2 Infection) Guide&quot; prepared by the Republic of Turkey Ministry of Health.</description>
+          </group>
+          <group group_id="O2">
+            <title>Study Group</title>
+            <description>In addition to HFA treatment, ivermectin 200 micrograms/kg/day (9mg between 36-50 kg, 12mg between 51-65 kg, 15mg between 66-79 kg and 200 micrograms/kg in &gt; 80 kg) in the form of a solution prepared for enteral use was added (HFA+I) to the treatment protocol of the study group's for five days. Blood sample was taken with the first dose of ivermectin and haplotype analysis was performed in ABCB1 and CYP3A4 genes in the whole study group.&#xD;
+Ivermectin: Ivermectin 5mg/5ml solution was manufactured by NEUTEC™ Pharmaceutical Company-Turkey, under &quot;Good Manufacturing Practices&quot; (GMP) certification conditions.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Changes in the Ratio of Partial Pressure of Oxygen (PaO2) to Fraction of Inspired Oxygen (FiO2) (PaO2/FiO2)</title>
+          <description>In both groups, after the treatment period was completed (first 5 days, primary endpoint), patients were followed up for 5 more days (follow-up period). PaO2/FiO2 ratios at the end of 6th (FD1), 8th (FD3) and 10th day (FD5) were also recorded. The end of the 10th day was accepted as the secondary endpoint. While the change in PaO2/FiO2 ratios on the 6th, 8th and 10th days was calculated graphically, the change in the PaO2/FiO2 ratio at the end of the 10th day (secondary endpoint) with the baseline ratio was compared statistically (the results were given as p value).</description>
+          <units>Ratio</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="30"/>
+                <count group_id="O2" value="30"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="197.44" spread="102.31"/>
+                    <measurement group_id="O2" value="158.83" spread="88.15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>FD1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="204.28" spread="109.51"/>
+                    <measurement group_id="O2" value="199.83" spread="85.02"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>FD3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="211.75" spread="127.62"/>
+                    <measurement group_id="O2" value="227.43" spread="103.71"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>FD5</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="220.78" spread="127.26"/>
+                    <measurement group_id="O2" value="236.33" spread="85.66"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.39</p_value>
+            <p_value_desc>A p&lt;0.05 value was considered statistically significant</p_value_desc>
+            <method>Wilcoxon (Mann-Whitney)</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Changes in Serum Lymphocyte Counts</title>
+        <description>In both groups, after the treatment period was completed (first 5 days, primary endpoint), patients were followed up for 5 more days (follow-up period). Serum lymphocyte counts (cell/mm^3) at the end of 6th (FD1), 8th (FD3) and 10th day (FD5) were also recorded. The end of the 10th day was accepted as the secondary endpoint. While the change in serum lymphocyte counts on the 6th, 8th and 10th days was calculated graphically, the change in the serum lymphocyte count at the end of the 10th day (secondary endpoint) with the baseline value was compared statistically (the results were given as p value).</description>
+        <time_frame>From 6th to the end of 10th day</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Control Group</title>
+            <description>Patients who were hospitalised with a pre-diagnosis of severe COVID-19 pneumonia and thereafter diagnosis of COVID-19 was also confirmed microbiologically with PCR positivity in respiratory tract samples were included into the study. They were randomized to the control and study group, respectively. Hydroxychloroquine, favipiravir and azithromycin (HFA) standard treatment protocol were given to the control group as recommended in the &quot;COVID-19 (SARS-CoV-2 Infection) Guide&quot; prepared by the Republic of Turkey Ministry of Health.</description>
+          </group>
+          <group group_id="O2">
+            <title>Study Group</title>
+            <description>In addition to HFA treatment, ivermectin 200 micrograms/kg/day (9mg between 36-50 kg, 12mg between 51-65 kg, 15mg between 66-79 kg and 200 micrograms/kg in &gt; 80 kg) in the form of a solution prepared for enteral use was added (HFA+I) to the treatment protocol of the study group's for five days. Blood sample was taken with the first dose of ivermectin and haplotype analysis was performed in ABCB1 and CYP3A4 genes in the whole study group.&#xD;
+Ivermectin: Ivermectin 5mg/5ml solution was manufactured by NEUTEC™ Pharmaceutical Company-Turkey, under &quot;Good Manufacturing Practices&quot; (GMP) certification conditions.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Changes in Serum Lymphocyte Counts</title>
+          <description>In both groups, after the treatment period was completed (first 5 days, primary endpoint), patients were followed up for 5 more days (follow-up period). Serum lymphocyte counts (cell/mm^3) at the end of 6th (FD1), 8th (FD3) and 10th day (FD5) were also recorded. The end of the 10th day was accepted as the secondary endpoint. While the change in serum lymphocyte counts on the 6th, 8th and 10th days was calculated graphically, the change in the serum lymphocyte count at the end of the 10th day (secondary endpoint) with the baseline value was compared statistically (the results were given as p value).</description>
+          <units>cell/mm^3</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="30"/>
+                <count group_id="O2" value="30"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1010" spread="438"/>
+                    <measurement group_id="O2" value="932" spread="483"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>FD1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="916" spread="411"/>
+                    <measurement group_id="O2" value="1403" spread="869"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>FD3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1086" spread="880"/>
+                    <measurement group_id="O2" value="1668" spread="819"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>FD5</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1256" spread="710"/>
+                    <measurement group_id="O2" value="1698" spread="1438"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.24</p_value>
+            <p_value_desc>A p&lt;0.05 value was considered statistically significant</p_value_desc>
+            <method>Wilcoxon (Mann-Whitney)</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Changes in the Ratio of Polymorphonuclear Leukocyte Count to Lymphocyte Count (PNL/L)</title>
+        <description>In both groups, after the treatment period was completed (first 5 days, primary endpoint), patients were followed up for 5 more days (follow-up period). PNL/L ratios at the end of 6th (FD1), 8th (FD3) and 10th day (FD5) were also recorded. The end of the 10th day was accepted as the secondary endpoint. While the change in PNL/L ratios on the 6th, 8th and 10th days was calculated graphically, the change in the PNL/L ratio at the end of the 10th day (secondary endpoint) with the baseline value was compared statistically (the results were given as p value).</description>
+        <time_frame>From 6th to the end of 10th day</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Control Group</title>
+            <description>Patients who were hospitalised with a pre-diagnosis of severe COVID-19 pneumonia and thereafter diagnosis of COVID-19 was also confirmed microbiologically with PCR positivity in respiratory tract samples were included into the study. They were randomized to the control and study group, respectively. Hydroxychloroquine, favipiravir and azithromycin (HFA) standard treatment protocol were given to the control group as recommended in the &quot;COVID-19 (SARS-CoV-2 Infection) Guide&quot; prepared by the Republic of Turkey Ministry of Health.</description>
+          </group>
+          <group group_id="O2">
+            <title>Study Group</title>
+            <description>In addition to HFA treatment, ivermectin 200 micrograms/kg/day (9mg between 36-50 kg, 12mg between 51-65 kg, 15mg between 66-79 kg and 200 micrograms/kg in &gt; 80 kg) in the form of a solution prepared for enteral use was added (HFA+I) to the treatment protocol of the study group's for five days. Blood sample was taken with the first dose of ivermectin and haplotype analysis was performed in ABCB1 and CYP3A4 genes in the whole study group.&#xD;
+Ivermectin: Ivermectin 5mg/5ml solution was manufactured by NEUTEC™ Pharmaceutical Company-Turkey, under &quot;Good Manufacturing Practices&quot; (GMP) certification conditions.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Changes in the Ratio of Polymorphonuclear Leukocyte Count to Lymphocyte Count (PNL/L)</title>
+          <description>In both groups, after the treatment period was completed (first 5 days, primary endpoint), patients were followed up for 5 more days (follow-up period). PNL/L ratios at the end of 6th (FD1), 8th (FD3) and 10th day (FD5) were also recorded. The end of the 10th day was accepted as the secondary endpoint. While the change in PNL/L ratios on the 6th, 8th and 10th days was calculated graphically, the change in the PNL/L ratio at the end of the 10th day (secondary endpoint) with the baseline value was compared statistically (the results were given as p value).</description>
+          <units>Ratio</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="30"/>
+                <count group_id="O2" value="30"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7.48" spread="6.41"/>
+                    <measurement group_id="O2" value="8.77" spread="8.35"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>FD1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="10.49" spread="7.10"/>
+                    <measurement group_id="O2" value="6.90" spread="11.84"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>FD3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9.66" spread="10.99"/>
+                    <measurement group_id="O2" value="5.81" spread="9.99"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>FD5</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6.19" spread="4.85"/>
+                    <measurement group_id="O2" value="7.34" spread="8.09"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.56</p_value>
+            <p_value_desc>A p&lt;0.05 value was considered statistically significant</p_value_desc>
+            <method>Wilcoxon (Mann-Whitney)</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Changes in Serum Ferritin Levels</title>
+        <description>In both groups, after the treatment period was completed (first 5 days, primary endpoint), patients were followed up for 5 more days (follow-up period). Serum ferritin levels (mg/dL) at the end of 6th (FD1), 8th (FD3) and 10th day (FD5) were also recorded. The end of the 10th day was accepted as the secondary endpoint. While the change in serum ferritin levels on the 6th, 8th and 10th days was calculated graphically, the change in the serum ferritin level at the end of the 10th day (secondary endpoint) with the baseline value was compared statistically (the results were given as p value).</description>
+        <time_frame>From 6th to the end of 10th day</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Control Group</title>
+            <description>Patients who were hospitalised with a pre-diagnosis of severe COVID-19 pneumonia and thereafter diagnosis of COVID-19 was also confirmed microbiologically with PCR positivity in respiratory tract samples were included into the study. They were randomized to the control and study group, respectively. Hydroxychloroquine, favipiravir and azithromycin (HFA) standard treatment protocol were given to the control group as recommended in the &quot;COVID-19 (SARS-CoV-2 Infection) Guide&quot; prepared by the Republic of Turkey Ministry of Health.</description>
+          </group>
+          <group group_id="O2">
+            <title>Study Group</title>
+            <description>In addition to HFA treatment, ivermectin 200 micrograms/kg/day (9mg between 36-50 kg, 12mg between 51-65 kg, 15mg between 66-79 kg and 200 micrograms/kg in &gt; 80 kg) in the form of a solution prepared for enteral use was added (HFA+I) to the treatment protocol of the study group's for five days. Blood sample was taken with the first dose of ivermectin and haplotype analysis was performed in ABCB1 and CYP3A4 genes in the whole study group.&#xD;
+Ivermectin: Ivermectin 5mg/5ml solution was manufactured by NEUTEC™ Pharmaceutical Company-Turkey, under &quot;Good Manufacturing Practices&quot; (GMP) certification conditions.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Changes in Serum Ferritin Levels</title>
+          <description>In both groups, after the treatment period was completed (first 5 days, primary endpoint), patients were followed up for 5 more days (follow-up period). Serum ferritin levels (mg/dL) at the end of 6th (FD1), 8th (FD3) and 10th day (FD5) were also recorded. The end of the 10th day was accepted as the secondary endpoint. While the change in serum ferritin levels on the 6th, 8th and 10th days was calculated graphically, the change in the serum ferritin level at the end of the 10th day (secondary endpoint) with the baseline value was compared statistically (the results were given as p value).</description>
+          <units>mg/dL</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="30"/>
+                <count group_id="O2" value="30"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="747.05" spread="800.54"/>
+                    <measurement group_id="O2" value="682.75" spread="470.08"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>FD1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1076.88" spread="704.05"/>
+                    <measurement group_id="O2" value="628.45" spread="580.10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>FD3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1097.57" spread="595.22"/>
+                    <measurement group_id="O2" value="433.48" spread="641.82"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>FD5</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1206.90" spread="782.84"/>
+                    <measurement group_id="O2" value="494.71" spread="349.78"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.005</p_value>
+            <p_value_desc>A p&lt;0.05 value was considered statistically significant</p_value_desc>
+            <method>Wilcoxon (Mann-Whitney)</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Changes in Serum D-dimer Levels</title>
+        <description>In both groups, after the treatment period was completed (first 5 days, primary endpoint), patients were followed up for 5 more days (follow-up period). Serum D-dimer levels (mg/L) at the end of 6th (FD1), 8th (FD3) and 10th day (FD5) were also recorded. The end of the 10th day was accepted as the secondary endpoint. While the change in Serum D-dimer levels on the 6th, 8th and 10th days was calculated graphically, the change in the serum D-dimer level at the end of the 10th day (secondary endpoint) with the baseline value was compared statistically (the results were given as p value).</description>
+        <time_frame>From 6th to the end of 10th day</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Control Group</title>
+            <description>Patients who were hospitalised with a pre-diagnosis of severe COVID-19 pneumonia and thereafter diagnosis of COVID-19 was also confirmed microbiologically with PCR positivity in respiratory tract samples were included into the study. They were randomized to the control and study group, respectively. Hydroxychloroquine, favipiravir and azithromycin (HFA) standard treatment protocol were given to the control group as recommended in the &quot;COVID-19 (SARS-CoV-2 Infection) Guide&quot; prepared by the Republic of Turkey Ministry of Health.</description>
+          </group>
+          <group group_id="O2">
+            <title>Study Group</title>
+            <description>In addition to HFA treatment, ivermectin 200 micrograms/kg/day (9mg between 36-50 kg, 12mg between 51-65 kg, 15mg between 66-79 kg and 200 micrograms/kg in &gt; 80 kg) in the form of a solution prepared for enteral use was added (HFA+I) to the treatment protocol of the study group's for five days. Blood sample was taken with the first dose of ivermectin and haplotype analysis was performed in ABCB1 and CYP3A4 genes in the whole study group.&#xD;
+Ivermectin: Ivermectin 5mg/5ml solution was manufactured by NEUTEC™ Pharmaceutical Company-Turkey, under &quot;Good Manufacturing Practices&quot; (GMP) certification conditions.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Changes in Serum D-dimer Levels</title>
+          <description>In both groups, after the treatment period was completed (first 5 days, primary endpoint), patients were followed up for 5 more days (follow-up period). Serum D-dimer levels (mg/L) at the end of 6th (FD1), 8th (FD3) and 10th day (FD5) were also recorded. The end of the 10th day was accepted as the secondary endpoint. While the change in Serum D-dimer levels on the 6th, 8th and 10th days was calculated graphically, the change in the serum D-dimer level at the end of the 10th day (secondary endpoint) with the baseline value was compared statistically (the results were given as p value).</description>
+          <units>mg/L</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="30"/>
+                <count group_id="O2" value="30"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Baseline</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.32" spread="2.04"/>
+                    <measurement group_id="O2" value="1.25" spread="1.71"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>FD1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.45" spread="6.60"/>
+                    <measurement group_id="O2" value="1.37" spread="2.53"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>FD3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.63" spread="1.38"/>
+                    <measurement group_id="O2" value="0.89" spread="2.45"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>FD5</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.49" spread="2.28"/>
+                    <measurement group_id="O2" value="0.71" spread="0.96"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.03</p_value>
+            <p_value_desc>A p&lt;0.05 value was considered statistically significant</p_value_desc>
+            <method>Wilcoxon (Mann-Whitney)</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Rate of COVID-19 Polymerase Chain Reaction (PCR) Test Negativity</title>
+        <description>At the end of the follow-up period (10th day), patients in the study and control group were investigated by PCR test for SARS-CoV-2 and the negative results were recorded as percentage for both groups.</description>
+        <time_frame>At the end of 10th day</time_frame>
+        <population>PCR test was applied to 8 patients in the control group and 16 patients in the study group at the end of the study (secondary endpoint).</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Control Group</title>
+            <description>Patients who were hospitalised with a pre-diagnosis of severe COVID-19 pneumonia and thereafter diagnosis of COVID-19 was also confirmed microbiologically with PCR positivity in respiratory tract samples were included into the study. They were randomized to the control and study group, respectively. Hydroxychloroquine, favipiravir and azithromycin (HFA) standard treatment protocol were given to the control group as recommended in the &quot;COVID-19 (SARS-CoV-2 Infection) Guide&quot; prepared by the Republic of Turkey Ministry of Health.</description>
+          </group>
+          <group group_id="O2">
+            <title>Study Group</title>
+            <description>In addition to HFA treatment, ivermectin 200 micrograms/kg/day (9mg between 36-50 kg, 12mg between 51-65 kg, 15mg between 66-79 kg and 200 micrograms/kg in &gt; 80 kg) in the form of a solution prepared for enteral use was added (HFA+I) to the treatment protocol of the study group's for five days. Blood sample was taken with the first dose of ivermectin and haplotype analysis was performed in ABCB1 and CYP3A4 genes in the whole study group.&#xD;
+Ivermectin: Ivermectin 5mg/5ml solution was manufactured by NEUTEC™ Pharmaceutical Company-Turkey, under &quot;Good Manufacturing Practices&quot; (GMP) certification conditions.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Rate of COVID-19 Polymerase Chain Reaction (PCR) Test Negativity</title>
+          <description>At the end of the follow-up period (10th day), patients in the study and control group were investigated by PCR test for SARS-CoV-2 and the negative results were recorded as percentage for both groups.</description>
+          <population>PCR test was applied to 8 patients in the control group and 16 patients in the study group at the end of the study (secondary endpoint).</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="8"/>
+                <count group_id="O2" value="16"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="14"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.01</p_value>
+            <p_value_desc>A p&lt;0.05 value was considered statistically significant</p_value_desc>
+            <method>Chi-squared</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Treatment-Related Adverse Events as Assessed by CTCAE v4.0</title>
+        <description>Adverse effects of ivermectin and drugs other than ivermectin (Hydroxychloroquine, favipiravir, azithromycin) were evaluated in the patients in the study group and and the number of participants were noted.&#xD;
+Adverse effects of drugs other than ivermectin (Hydroxychloroquine, favipiravir, azithromycin) were evaluated in the patients in the control group and and the number of participants were noted.</description>
+        <time_frame>From the 6th day of study to the 10th day of study</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Control Group</title>
+            <description>Patients who were hospitalised with a pre-diagnosis of severe COVID-19 pneumonia and thereafter diagnosis of COVID-19 was also confirmed microbiologically with PCR positivity in respiratory tract samples were included into the study. They were randomized to the control and study group, respectively. Hydroxychloroquine, favipiravir and azithromycin (HFA) standard treatment protocol were given to the control group as recommended in the &quot;COVID-19 (SARS-CoV-2 Infection) Guide&quot; prepared by the Republic of Turkey Ministry of Health.</description>
+          </group>
+          <group group_id="O2">
+            <title>Study Group</title>
+            <description>In addition to HFA treatment, ivermectin 200 micrograms/kg/day (9mg between 36-50 kg, 12mg between 51-65 kg, 15mg between 66-79 kg and 200 micrograms/kg in &gt; 80 kg) in the form of a solution prepared for enteral use was added (HFA+I) to the treatment protocol of the study group's for five days. Blood sample was taken with the first dose of ivermectin and haplotype analysis was performed in ABCB1 and CYP3A4 genes in the whole study group.&#xD;
+Ivermectin: Ivermectin 5mg/5ml solution was manufactured by NEUTEC™ Pharmaceutical Company-Turkey, under &quot;Good Manufacturing Practices&quot; (GMP) certification conditions.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Treatment-Related Adverse Events as Assessed by CTCAE v4.0</title>
+          <description>Adverse effects of ivermectin and drugs other than ivermectin (Hydroxychloroquine, favipiravir, azithromycin) were evaluated in the patients in the study group and and the number of participants were noted.&#xD;
+Adverse effects of drugs other than ivermectin (Hydroxychloroquine, favipiravir, azithromycin) were evaluated in the patients in the control group and and the number of participants were noted.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="30"/>
+                <count group_id="O2" value="30"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>From the beginning of the study to the end of the 10th day</time_frame>
+      <desc>In our study, it was also aimed to detect mutations that impair ivermectin metabolism and report side effects that may occur due to these mutations, and these mutations were detected in 6 patients initially included in the study group. Since these patients were excluded from the study on the first day following the mutation detection and their ivermectin treatment was discontinued, they were evaluated separately from the other patients included in the study.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Control Group</title>
+          <description>Patients who were hospitalised with a pre-diagnosis of severe COVID-19 pneumonia and thereafter diagnosis of COVID-19 was also confirmed microbiologically with PCR positivity in respiratory tract samples were included into the study. They were randomized to the control and study group, respectively. Hydroxychloroquine, favipiravir and azithromycin (HFA) standard treatment protocol were given to the control group as recommended in the &quot;COVID-19 (SARS-CoV-2 Infection) Guide&quot; prepared by the Republic of Turkey Ministry of Health.</description>
+        </group>
+        <group group_id="E2">
+          <title>Study Group</title>
+          <description>In addition to HFA treatment, ivermectin 200 micrograms/kg/day (9mg between 36-50 kg, 12mg between 51-65 kg, 15mg between 66-79 kg and 200 micrograms/kg in &gt; 80 kg) in the form of a solution prepared for enteral use was added (HFA+I) to the treatment protocol of the study group's for five days. Blood sample was taken with the first dose of ivermectin and haplotype analysis was performed in ABCB1 and CYP3A4 genes in the whole study group.&#xD;
+Ivermectin: Ivermectin 5mg/5ml solution was manufactured by NEUTEC™ Pharmaceutical Company-Turkey, under &quot;Good Manufacturing Practices&quot; (GMP) certification conditions.</description>
+        </group>
+        <group group_id="E3">
+          <title>Participants With Mutations</title>
+          <description>Patients that were included in the study group and excluded from the study because one or both of the multidrug resistance 1 (MDR1) / ABCB1 and CYP3A4 genes were detected in the blood sample taken at the beginning of ivermectin treatment on the first day</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="9" subjects_at_risk="30"/>
+                <counts group_id="E2" subjects_affected="6" subjects_at_risk="30"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="30"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="30"/>
+                <counts group_id="E3" subjects_affected="5" subjects_at_risk="6"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Encephalopathy</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="30"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="30"/>
+                <counts group_id="E3" subjects_affected="5" subjects_at_risk="6"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>1</frequency_threshold>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="30"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="30"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Nausea and vomiting</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="30"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="30"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+              <event>
+                <sub_title>Increase in liver function tests</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="30"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="30"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="6"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Prof. Dr. Nurullah Okumuş</name_or_title>
+      <organization>Afyonkarahisar Health Sciences University</organization>
+      <phone>+90 532 4372406</phone>
+      <email>drnuri@hotmail.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

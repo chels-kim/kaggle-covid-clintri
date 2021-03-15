@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2888">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04738331</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RECHMPL21_0051</org_study_id>
+    <nct_id>NCT04738331</nct_id>
+  </id_info>
+  <brief_title>Analysing the French COVID-19 Epidemic Using a National SARS-CoV-2 RT-PCR Database</brief_title>
+  <acronym>CovPCR</acronym>
+  <official_title>Analysing the French COVID-19 Epidemic Using a National SARS-CoV-2 RT-PCR Database : CovPCR</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Montpellier</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Hospital, Montpellier</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Analysing ths spread of COVID-19 epidemics in a timely manner is key to implementing public&#xD;
+      health control strategies. The investigators propose to analyse a large set of laboratory&#xD;
+      SARS-CoV-2 RT-PCR data to explore potential links between Ct values and epidemic parameters.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">February 1, 2021</start_date>
+  <completion_date type="Anticipated">June 30, 2022</completion_date>
+  <primary_completion_date type="Anticipated">May 20, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Detecting co-factors associated with Ct values</measure>
+    <time_frame>1 day</time_frame>
+    <description>Detecting co-factors associated with Ct values</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Detecting associations with epidemic spread</measure>
+    <time_frame>1 day</time_frame>
+    <description>Detecting associations with epidemic spread</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">10000000</enrollment>
+  <condition>Covid-19</condition>
+  <condition>SARS-CoV Infection</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        French population with a RT-PCR test for SARS-Cov2 infection&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion criteria:&#xD;
+&#xD;
+        - A SARS-Cov2 RT-PCR result with a known sampling date&#xD;
+&#xD;
+        Exclusion criteria:&#xD;
+&#xD;
+        - Patient refusing to participate in research&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Vincent Foulongne, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>UH MONTPELLIER</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Samuel Alizon, PhD</last_name>
+    <phone>610654902</phone>
+    <phone_ext>33</phone_ext>
+    <email>samuel.alizon@cnrs.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Vincent Foulongne, PhD</last_name>
+    <phone>467 330 254</phone>
+    <phone_ext>33</phone_ext>
+    <email>v-foulongne@chu-montpellier.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Uh Montpellier</name>
+      <address>
+        <city>Montpellier</city>
+        <zip>34295</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Vincent Foulongne, PHD</last_name>
+      <phone>467 330 254</phone>
+      <phone_ext>33</phone_ext>
+      <email>v-foulongne@chu-montpellier.fr</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>February 2, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 2, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 4, 2021</study_first_posted>
+  <last_update_submitted>February 2, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 2, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 4, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>SARS-Cov2 infection</keyword>
+  <keyword>Tested for SARS-Cov2 infection with RT-PCR test</keyword>
+  <keyword>CT</keyword>
+  <keyword>epidemiology</keyword>
+  <keyword>reproduction number</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>NC</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

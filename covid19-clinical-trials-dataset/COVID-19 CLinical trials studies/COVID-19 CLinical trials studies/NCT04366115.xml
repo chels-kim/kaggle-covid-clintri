@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3352">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04366115</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AVM0703-101</org_study_id>
+    <nct_id>NCT04366115</nct_id>
+  </id_info>
+  <brief_title>Evaluating AVM0703 for Treatment of COVID-19 or Influenza-mediated ARDS</brief_title>
+  <acronym>AVM0703</acronym>
+  <official_title>A Randomized, Double-Blind, Placebo-Controlled, Phase 1 Study Evaluating AVM0703 in Patients With Acute Respiratory Distress Syndrome</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>AVM Biotechnology LLC</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Medpace, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>AVM Biotechnology LLC</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a randomized, double-blinded, placebo-controlled study of AVM0703 administered as a&#xD;
+      single intravenous (IV) infusion to patients with moderate or severe immediately&#xD;
+      life-threatening Acute Respiratory Distress Syndrome (ARDS) due to COVID-19 or influenza (A&#xD;
+      or B). The study is designed to evaluate the safety, tolerability, and pharmacokinetics of&#xD;
+      single dose of AVM0703 in these ARDS patients.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The primary objective of the study is to evaluate the safety and tolerability of a single&#xD;
+      dose of AVM0703 in patients with moderate, severe or immediately life-threatening ARDS due to&#xD;
+      COVID-19 or Influenza (A or B) infection.&#xD;
+&#xD;
+      The secondary objectives of the study are to 1) evaluate the pharmacokinetics (PK) and 2)&#xD;
+      evaluate potential clinical findings following a single dose of AVM0703.&#xD;
+&#xD;
+      The exploratory objective of the study is to assess potential biomarkers indicative of&#xD;
+      natural killer T (NKT) cell activity and biomarkers predictive of response to AVM0703 in&#xD;
+      peripheral blood and bronchoalveolar lavage.&#xD;
+&#xD;
+      The results of the Phase 1 study will guide the design of the Phase 2 study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 2021</start_date>
+  <completion_date type="Anticipated">June 2023</completion_date>
+  <primary_completion_date type="Anticipated">June 2022</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>This is a two-armed randomized, double-blinded, placebo control controlled study. Each arm (one arm of COVID-19 mediated ARDS and one arm of influenza (A or B) mediated ARDS will be randomized to 3:1 (active to placebo)</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+    <masking_description>The pharmacist will prepare the infusion solution and medication for delivery to the patient's bedside for administration. The active and placebo medications look identical, preventing care-givers and the participant from breaking the blind.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Dose-Limiting Toxicities</measure>
+    <time_frame>0-12 months</time_frame>
+    <description>The primary endpoint of the Phase 1 portion of the study is to evaluate the safety of AVM0703 in subjects with severe or life-threatening COVID-19 infection, and to identify the RP2D.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>28 day all-cause mortality will be a primary end point for Phase 1 and 2</measure>
+    <time_frame>0-12 months</time_frame>
+    <description>The primary endpoint of the Phase 1/2 portion of the study is to evaluate the efficacy of AVM0703 in subjects with severe or life-threatening COVID-19 infection.</description>
+  </primary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">16</enrollment>
+  <condition>ARDS</condition>
+  <condition>Covid19</condition>
+  <condition>Influenza, Human</condition>
+  <arm_group>
+    <arm_group_label>AVM0703 COVID-19 ARDS - active</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Supra-pharmacologic dexamethasone sodium phosphate</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo COVID-19 ARDS - placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Matching placebo</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>AVM0703 Influenza ARDS - active</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Supra-pharmacologic dexamethasone sodium phosphate</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>AVM0703 Influenza ARDS - placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Matching placebo</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>AVM0703</intervention_name>
+    <description>Single IV infusion at 10 mg/mL in normal saline over 1 hour to patients.</description>
+    <arm_group_label>AVM0703 COVID-19 ARDS - active</arm_group_label>
+    <arm_group_label>AVM0703 Influenza ARDS - active</arm_group_label>
+    <other_name>Suprapharmacologic dexamethasone sodium phosphate</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Single IV infusion in normal saline over 1 hour to patients.</description>
+    <arm_group_label>AVM0703 Influenza ARDS - placebo</arm_group_label>
+    <arm_group_label>Placebo COVID-19 ARDS - placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria&#xD;
+&#xD;
+        Patients who meet all of the following criteria will be eligible to participate in the&#xD;
+        study:&#xD;
+&#xD;
+          1. Age ≥18 years;&#xD;
+&#xD;
+          2. Must have laboratory confirmed COVID-19;&#xD;
+&#xD;
+          3. Must have moderate or severe, immediately life-threatening COVID-19 or Influenza (A or&#xD;
+             B), as follows:&#xD;
+&#xD;
+             a. COVID-19 patients with ARDS (Berlin Criteria) as demonstrated by:&#xD;
+&#xD;
+             i. Chest radiograph or CT scan showing bilateral opacities not fully explained by&#xD;
+             effusions, lobar/lung collapse, or nodules;&#xD;
+&#xD;
+             ii. Respiratory failure not fully explained by cardiac failure or fluid overload; and&#xD;
+&#xD;
+             iii. Impaired oxygenation defined as Moderate (partial pressure of oxygen&#xD;
+             [PaO2]:fraction of inspired oxygen [FiO2] ratio 100 mm Hg to &lt;200 mm Hg with positive&#xD;
+             end-expiratory airway pressure [PEEP] &gt;5 cm H2O) or Severe (PaO2:FiO2 ratio &lt;100 mm Hg&#xD;
+             with PEEP&gt;5 cm H2O) on more than 2 arterial blood gases at least 6 hours apart within&#xD;
+             a 24 hour period;&#xD;
+&#xD;
+             b. Influenza (A or B) patients with ARDS (Berlin Criteria) as demonstrated by:&#xD;
+&#xD;
+             i. Chest radiograph or CT scan showing bilateral opacities not fully explained by&#xD;
+             effusions, lobar/lung collapse, or nodules;&#xD;
+&#xD;
+             ii. Respiratory failure not fully explained by cardiac failure or fluid overload; and&#xD;
+&#xD;
+             iii. Impaired oxygenation defined as Severe (PaO2:FiO2 ratio&lt;100 mm Hg with PEEP &gt;5 cm&#xD;
+             H2O) on more than 2 arterial blood gases at least 6 hours apart within a 24 hour&#xD;
+             period;&#xD;
+&#xD;
+          4. Requires invasive mechanical ventilation or extracorporeal membrane oxygenation (ECMO)&#xD;
+             despite standard of care rescue measures (eg, prone positioning, and/or PEEP ladder,&#xD;
+             and/or inhaled pulmonary vasodilators, and/or recruitment maneuvers and/or&#xD;
+             neuromuscular blockade);&#xD;
+&#xD;
+          5. Females of childbearing potential must have a negative serum pregnancy test at&#xD;
+             screening;&#xD;
+&#xD;
+          6. Females of childbearing potential and nonsterile males must agree to use medically&#xD;
+             effective methods of contraception from the time of informed consent through 1 month&#xD;
+             after study drug infusion; and&#xD;
+&#xD;
+          7. Capable of providing informed consent, or if not capable, a legally authorized&#xD;
+             representative is capable of providing informed consent&#xD;
+&#xD;
+        Exclusion Criteria&#xD;
+&#xD;
+        Patients who meet any of the following criteria will be excluded from participation in the&#xD;
+        study:&#xD;
+&#xD;
+          1. Moribund patient who, in the opinion of the Investigator, is not expected to survive&#xD;
+             at least 24 hours;&#xD;
+&#xD;
+          2. Known hypersensitivity or allergy to the study drug or any of its excipients;&#xD;
+&#xD;
+          3. D-dimer level &gt;3 times above normal range;&#xD;
+&#xD;
+          4. Known gastric or duodenal ulcer;&#xD;
+&#xD;
+          5. Uncontrolled type 1 or type 2 diabetes, per judgment of the Investigator;&#xD;
+&#xD;
+          6. Active and untreated bacterial, fungal, parasitic, or viral infection other than&#xD;
+             COVID-19 or Influenza (A or B). Patients with a history of a positive hepatitis B&#xD;
+             surface antigen and/or hepatitis B core antibody must have a negative hepatitis B&#xD;
+             polymerase chain reaction (PCR) assay result. Patients with history of a positive&#xD;
+             hepatitis C virus antibody test must have a negative hepatitis C PCR assay result;&#xD;
+&#xD;
+          7. Positive testing for tuberculosis during screening;&#xD;
+&#xD;
+          8. Known to have received a live vaccine within the previous 1 month;&#xD;
+&#xD;
+          9. Immunocompromised patients, defined as those who have received a bone marrow or solid&#xD;
+             organ transplant on immunosuppressive therapy; or history of human immunodeficiency&#xD;
+             virus (HIV) infection who have not been taking anti retroviral therapy for at least 6&#xD;
+             months before enrollment and/or with most recent CD4 count &lt;200 cells/mL and/or most&#xD;
+             recent detectable viral load within the previous 6 months;&#xD;
+&#xD;
+         10. Moderate to End-stage liver disease (Childs-Pugh Score &gt;10);&#xD;
+&#xD;
+         11. Dialysis-dependent due to underlying chronic renal disease. Note: patients who require&#xD;
+             dialysis for treatment of renal failure due to complications of COVID-19 or Influenza&#xD;
+             (A or B) infection are not excluded from enrollment;&#xD;
+&#xD;
+         12. Significant cardiovascular disease (eg, myocardial infarction, arterial&#xD;
+             thromboembolism, cerebrovascular thromboembolism) within 3 months prior to the start&#xD;
+             of AVM0703 administration, including: angina requiring therapy, symptomatic peripheral&#xD;
+             vascular disease, New York Heart Association Class III or IV congestive heart failure,&#xD;
+             left ventricular ejection fraction &lt;30%, left ventricular fractional shortening &lt;20%,&#xD;
+             or uncontrolled Grade 3 hypertension (diastolic blood pressure [DBP] &gt;100 mm Hg or&#xD;
+             systolic blood pressure [SBP] &gt;150 mm Hg) despite antihypertensive therapy.&#xD;
+&#xD;
+             Note: patients with heart failure requiring medical support due solely to&#xD;
+             complications of COVID-19 infection are not excluded from enrollment;&#xD;
+&#xD;
+         13. Significant screening 12-lead ECG abnormalities, including unstable cardiac arrhythmia&#xD;
+             requiring medication, atrial fibrillation/flutter, left bundle-branch block, second&#xD;
+             degree atrioventricular (AV) block type 2, third-degree AV block, Grade 2 bradycardia,&#xD;
+             or heart rate corrected QT interval using Fridericia's formula average of triplicate&#xD;
+             ECGs &gt;450 ms;&#xD;
+&#xD;
+         14. Manic-depressive disorder, schizophrenia, or a history of severe depression or&#xD;
+             substance abuse;&#xD;
+&#xD;
+         15. Pregnant or breastfeeding;&#xD;
+&#xD;
+         16. Concurrent enrollment in any other clinical study involving administration of a novel&#xD;
+             (ie, unapproved or not considered standard of care) investigational pharmacological&#xD;
+             agent(s). Concurrent enrollment in observational and device studies and studies&#xD;
+             involving administration of pharmacological agent(s) approved for other indications or&#xD;
+             considered emerging standard of care for treatment of COVID-19 (eg,&#xD;
+             hydroxychloroquine, remdesivir, low-dose dexamethasone), will be allowed if approved&#xD;
+             by the Sponsor;&#xD;
+&#xD;
+         17. Treatment with standard of care or off-label treatments for COVID-19 (eg, remdesivir),&#xD;
+             not administered as part of a formal clinical study, where the first dose was&#xD;
+             initiated within 72 hours of study drug start; and&#xD;
+&#xD;
+         18. Inability to obtain informed consent from the patient or legally authorized&#xD;
+             representative.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Madhavi Malladi, PhD</last_name>
+    <phone>1.513-384-6717</phone>
+    <email>M.Malladi@Medpace.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Bethelhem Lebneh</last_name>
+    <phone>2069069922</phone>
+    <email>blebneh@avmbiotech.com</email>
+  </overall_contact_backup>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>April 26, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 27, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 28, 2020</study_first_posted>
+  <last_update_submitted>January 6, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 6, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 7, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>ARDS</keyword>
+  <keyword>COVID19</keyword>
+  <keyword>Influenza</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Influenza, Human</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dexamethasone</mesh_term>
+    <mesh_term>Dexamethasone acetate</mesh_term>
+    <mesh_term>Dexamethasone 21-phosphate</mesh_term>
+    <mesh_term>BB 1101</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

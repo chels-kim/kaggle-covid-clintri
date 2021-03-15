@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="915">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04689672</url>
+  </required_header>
+  <id_info>
+    <org_study_id>COVID-PEGALUS</org_study_id>
+    <nct_id>NCT04689672</nct_id>
+  </id_info>
+  <brief_title>Predictivity of Hemogasanalysis and Lung UltraSound in Determining COVID-19 Severity</brief_title>
+  <acronym>COVID-PEGALUS</acronym>
+  <official_title>Predictivity of hEmoGasAnalysis Associated to Bedside Lung UltraSound in Determining COVID-19 Severity in the Emergency Departement</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>IRCCS San Raffaele</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>IRCCS San Raffaele</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This retrospective-prospective longitudinal observational study was designed to evaluate the&#xD;
+      role of bedside lung ultrasound per se and in association with hemogasanalysis parameters in&#xD;
+      predicting the severity of COVID-19 patients in the Emergency Departement (ED).&#xD;
+&#xD;
+      Retrospective data regarding patients who presented at the ED of IRCCS San Raffaele Hospital&#xD;
+      from 10/11/2020, together with those acquired by the observation of patients who will access&#xD;
+      to the ED until 10/05/2021 will be collected, configuring a total enrollment period of 6&#xD;
+      months.&#xD;
+&#xD;
+      Clinical informations about patients' medical history will be recorded, with particular focus&#xD;
+      on the type and date of onset of the symptoms. The diagnostic and therapeutic strategy will&#xD;
+      be chosen according to the current standard of care. Results of bedside lung ultrasound,&#xD;
+      together with vital parameters, blood gas analysis, laboratory and other findings will be&#xD;
+      recorded.&#xD;
+&#xD;
+      The primary outcome will be defined as patients' outcome at time of discharge from the ED, in&#xD;
+      terms of intensity of required care (home discharge, low or high-intensity care&#xD;
+      hospitalization, death). Secondary outcomes will be patients' prognosis 30 days after access&#xD;
+      to ED and the required intensity of care (eg need for non-invasive ventilation, oro-tracheal&#xD;
+      intubation).The follow-up 30 days after access to the ED will be evaluated by telephone&#xD;
+      survey or by consulting medical records.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 16, 2020</start_date>
+  <completion_date type="Anticipated">May 10, 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 10, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Other</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Patients' short-term outcome</measure>
+    <time_frame>Up to 7 days</time_frame>
+    <description>Patients' outcome at time of discharge from the Emergency Departement, expressed in terms of intensity of required care (home discharge, low or high-intensity care hospitalization, death).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Patients' long-term outcome</measure>
+    <time_frame>30 days after access to the Emergency Departement</time_frame>
+    <description>Patients' outcome 30 days after access to the Emergency Departement, expressed in terms of intensity of required care (home discharge, low or high-intensity care hospitalization, death).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intensity of care</measure>
+    <time_frame>Up to 7 days</time_frame>
+    <description>Required intensity of care during the observational period in the Emergency Departement (eg need for non-invasive ventilation, oro-tracheal intubation).</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">600</enrollment>
+  <condition>Covid19</condition>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Lung ultrasound</intervention_name>
+    <description>Bedside lung ultrasound</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Adult patients admitted to IRCCS San Raffaele Hospital Emergency Departement with SARS&#xD;
+        CoV-2 documented infection from 10/11/2020 to 10/05/2021.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  SARS - CoV 2 infection confirmed by positive RT-PCR on nasopharyngeal swab&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  impossibility to perform lung ultrasound due to technical limitations.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Paola AM Maffi, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>IRCCS San Raffaele Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Paola AM Maffi, MD, PhD</last_name>
+    <phone>+390226432575</phone>
+    <email>maffi.paola@hsr.it</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>IRCCS San Raffaele</name>
+      <address>
+        <city>Milan</city>
+        <state>MI</state>
+        <zip>20132</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Paola AM Maffi, MD, PhD</last_name>
+      <phone>+390226432575</phone>
+      <email>paola.maffi@hsr.it</email>
+    </contact>
+    <investigator>
+      <last_name>Stefano Tentori, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <results_reference>
+    <citation>Khalili N, Haseli S, Iranpour P. Lung Ultrasound in COVID-19 Pneumonia: Prospects and Limitations. Acad Radiol. 2020 Jul;27(7):1044-1045. doi: 10.1016/j.acra.2020.04.032. Epub 2020 May 3.</citation>
+    <PMID>32444253</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Smith MJ, Hayward SA, Innes SM, Miller ASC. Point-of-care lung ultrasound in patients with COVID-19 - a narrative review. Anaesthesia. 2020 Aug;75(8):1096-1104. doi: 10.1111/anae.15082. Epub 2020 Apr 28. Review.</citation>
+    <PMID>32275766</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Lu X, Zhang M, Qian A, Tang L, Xu S. Lung ultrasound score in establishing the timing of intubation in COVID-19 interstitial pneumonia: A preliminary retrospective observational study. PLoS One. 2020 Sep 3;15(9):e0238679. doi: 10.1371/journal.pone.0238679. eCollection 2020. Retraction in: PLoS One. 2020 Dec 31;15(12):e0245032.</citation>
+    <PMID>32881950</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Manivel V, Lesnewski A, Shamim S, Carbonatto G, Govindan T. CLUE: COVID-19 lung ultrasound in emergency department. Emerg Med Australas. 2020 Aug;32(4):694-696. doi: 10.1111/1742-6723.13546. Epub 2020 Jun 16.</citation>
+    <PMID>32386264</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Dargent A, Chatelain E, Kreitmann L, Quenot JP, Cour M, Argaud L; COVID-LUS study group. Lung ultrasound score to monitor COVID-19 pneumonia progression in patients with ARDS. PLoS One. 2020 Jul 21;15(7):e0236312. doi: 10.1371/journal.pone.0236312. eCollection 2020.</citation>
+    <PMID>32692769</PMID>
+  </results_reference>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>December 24, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 28, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 30, 2020</study_first_posted>
+  <last_update_submitted>December 28, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 28, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 30, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>IRCCS San Raffaele</investigator_affiliation>
+    <investigator_full_name>Paola Maffi</investigator_full_name>
+    <investigator_title>Associate Professor in Internal Medicine; Head of School of Emergency Medicine</investigator_title>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

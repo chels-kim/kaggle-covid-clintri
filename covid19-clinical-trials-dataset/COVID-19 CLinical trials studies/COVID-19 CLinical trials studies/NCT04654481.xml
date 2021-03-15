@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3581">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04654481</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GCO 20-2667</org_study_id>
+    <secondary_id>ISMMS-AFF-20</secondary_id>
+    <nct_id>NCT04654481</nct_id>
+  </id_info>
+  <brief_title>Study of AffloVest in At-Risk Respiratory Patients During COVID-19 Pandemic</brief_title>
+  <official_title>Feasibility of Using a Home-Based High Frequency Chest Wall Oscillation Device (AffloVest) in At-Risk Respiratory Patients to Decrease Acute Respiratory Care Burden During the COVID-19 Pandemic</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Icahn School of Medicine at Mount Sinai</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>International Biophysics Corporation</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>SPARK Healthcare</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Icahn School of Medicine at Mount Sinai</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of the study is to investigate the addition of high frequency chest wall&#xD;
+      oscillation (HFCWO) therapy to the prescribed care regimen to support the diaphragm during&#xD;
+      airway clearance among post-COVID patients with COPD and chronic productive cough as a way to&#xD;
+      limit the advancement of pulmonary symptoms and need for critical services during recovery&#xD;
+      from COVID-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Thirty study participants in New York City who meet inclusion criteria will be recruited from&#xD;
+      Mount Sinai's COVID-19 Post-Recovery Center of Excellence and Respiratory Institute. Fifteen&#xD;
+      subjects (determined by the last digit of their medical record number) will receive a HFCWO&#xD;
+      device (AffloVest), digital thermometer, pulse oximeter, and spirometer at their home.&#xD;
+      Participants will be trained remotely to use the AffloVest and spirometer. In addition all&#xD;
+      subjects will be asked to complete a series of online mental health and respiratory symptom&#xD;
+      assessments via REDCap. A 15 patient control group meeting inclusion criteria will be&#xD;
+      recruited from the Mount Sinai COVID-19 Post-Recovery Center of Excellence and Respiratory&#xD;
+      Institute using the same screening process. This group will not receive the HFCWO&#xD;
+      intervention but will receive a digital thermometer, pulse oximeter, and spirometer at their&#xD;
+      home (with training via telehealth), asked to complete all REDCap and respiratory symptom&#xD;
+      assessments. Consent for both groups will be obtained by a Mount Sinai clinician-researcher.&#xD;
+&#xD;
+      Study Duration Approximately 30 days plus 60 and 90-day check in&#xD;
+&#xD;
+      Objectives To investigate the addition of HFCWO therapy to the prescribed care regimen to&#xD;
+      support the diaphragm during airway clearance among post-COVID patients with COPD and chronic&#xD;
+      productive cough as a way to limit the advancement of pulmonary symptoms and need for&#xD;
+      critical services during recovery from COVID-19.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">December 2020</start_date>
+  <completion_date type="Anticipated">November 2021</completion_date>
+  <primary_completion_date type="Anticipated">February 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+    <masking_description>Statistician and data analysts will be blinded to treatment cohort.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in forced expiratory volume in one second (FEV1)</measure>
+    <time_frame>Baseline and up to 90 Days</time_frame>
+    <description>Change in forced expiratory volume in one second (FEV1) as compared to baseline, measured by home spirometer.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Oxygen Saturation level</measure>
+    <time_frame>Baseline and up to 90 Days</time_frame>
+    <description>Changes in oxygen saturation from baseline as measured by pulse oximeter. Normal oxygen range is 95 to 100 percent and low oxygen range is under 90 percent.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Presence of Fever</measure>
+    <time_frame>Baseline and up to 90 Days</time_frame>
+    <description>Changes in basal temperature as measured by digital thermometer. Fever is indicated at 100.4 F (38 C) or higher.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in Presence of pneumonia symptoms via Community Acquired Pneumonia (CAP) Symptom Questionnaire</measure>
+    <time_frame>Baseline and up to 90 Days</time_frame>
+    <description>CAP Symptom Questionnaire records how much the patient rated the bothersomeness of the symptom. Each item is scored as &quot;0&quot; (Patient did not have this symptom), &quot;1&quot; (Not at All) to &quot;5&quot; (Extremely). Full range scale from 0 to 90, higher score indicating patient experiencing more frequent or more severe symptoms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Quality of life via Quality of Life Questionnaire-Respiratory (QOL-B)</measure>
+    <time_frame>Baseline and up to 90 Days</time_frame>
+    <description>The QOL-B is a disease-specific questionnaire that measures symptoms, functioning, and health-related quality of life relevant to patients with bronchiectasis. Scores are generated from 37 items that fall on 8 domains: Physical Functioning, Role Functioning, Vitality, Emotional Functioning, Social Functioning, Treatment Burden, Health Perceptions, and Respiratory Symptoms. All subscales and the full range scale are standardized to score from 0 to 100, with higher scores indicating better enjoyment and satisfaction with specific life domains.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Mental health screening via Personal Health Questionnaire Depression Scale (PHQ-8)</measure>
+    <time_frame>Baseline and up to 90 Days</time_frame>
+    <description>The PHQ-8 is the depression module, which scores each of the eight DSM-IV criteria as &quot;0&quot; (not at all) to &quot;3&quot; (nearly every day). Full scale from 0-24, with higher score indicating more severe symptoms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Mental health screening via General Anxiety Disorder-7 (GAD-7)</measure>
+    <time_frame>Baseline and up to 90 Days</time_frame>
+    <description>The General Anxiety Disorder 7-item questionnaire (GAD-7) is a 7-item questionnaire that asks user to rank how often they have been bothered by seven problems over the past two weeks from &quot;0&quot; (not at all) to &quot;3&quot; (nearly every day). Full scale from 0-21, with higher score indicating more symptoms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in COVID Symptom Checklist</measure>
+    <time_frame>Baseline and up to 90 Days</time_frame>
+    <description>Eight questions that are specific to recent literature describing patients' experiences of symptoms during COVID. They are rated on a frequency scale from &quot;never&quot; to &quot;always,&quot; using a 1-4 point scale. Full scale range from 8 to 32, with higher scores indicating more frequent symptoms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AffloVest Usage</measure>
+    <time_frame>90 Days</time_frame>
+    <description>Amount of time used per week in minutes</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Chronic Obstructive Pulmonary Disease</condition>
+  <condition>Chronic Cough</condition>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Standard Care Plus Monitoring</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>All subjects will be monitored via home spirometry, pulse oximetry, temperature checks, telehealth check-in and patient-reported outcome assessments.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard Care Plus Monitoring and HCFWO</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>In addition to home spirometry, pulse oximetry, temperature checks, telehealth check-in and patient-reported outcome assessments, subject will receive an Afflovest device for home use.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>HCFWO</intervention_name>
+    <description>The Afflovest device is a High Frequency Chest Wall Oscillation (HFCWO) device, a medical vest that uses vibrations to loosen and mobilize mucus in the lung secretions and help clear the airways.</description>
+    <arm_group_label>Standard Care Plus Monitoring and HCFWO</arm_group_label>
+    <other_name>High Frequency Chest Wall Oscillation</other_name>
+    <other_name>Afflovest</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Standard Care Plus Monitoring</intervention_name>
+    <description>Monitoring via home spirometry, pulse oximetry, temperature checks, telehealth check-in and patient-reported outcome assessments.</description>
+    <arm_group_label>Standard Care Plus Monitoring</arm_group_label>
+    <arm_group_label>Standard Care Plus Monitoring and HCFWO</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adult males and females ≥18 years&#xD;
+&#xD;
+          -  Existing diagnosis of COPD for &gt;6 months&#xD;
+&#xD;
+          -  Chronic productive cough&#xD;
+&#xD;
+          -  Radiographic evidence of flattening of the diaphragm&#xD;
+&#xD;
+          -  Prior COVID-19 diagnosis&#xD;
+&#xD;
+          -  Clinically followed by Mount Sinai COVID-19 Post Recovery and Respiratory Institute.&#xD;
+&#xD;
+          -  Ability to provide informed consent&#xD;
+&#xD;
+          -  Ability to read and fill out survey questionnaires via REDCap (surveys will be&#xD;
+             available in English and Spanish)&#xD;
+&#xD;
+          -  Access to a home computer, tablet, or smartphone&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Presenting with hypoxia (02 sat &lt;90%)&#xD;
+&#xD;
+          -  Acute COVID-19 infection&#xD;
+&#xD;
+          -  Home oxygen dependent&#xD;
+&#xD;
+          -  Established diagnosis of cystic fibrosis&#xD;
+&#xD;
+          -  History of osteoporosis or rib fracture&#xD;
+&#xD;
+          -  Active Hemoptysis&#xD;
+&#xD;
+          -  Pneumothorax&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Patricia Walker, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Icahn School of Medicine at Mount Sinai</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Elinor L Schwind, MS</last_name>
+    <phone>(212) 420-4100</phone>
+    <email>Elinor.Schwind@mountsinai.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Teresa Demarco, PTA</last_name>
+    <phone>212-420-4100</phone>
+    <email>teresa.demarco@mountsinai.org</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Mount Sinai Beth Israel</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10003</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Elinor L Schwind, MS</last_name>
+      <phone>212-420-4100</phone>
+      <email>Elinor.Schwind@mountsinai.org</email>
+    </contact>
+    <investigator>
+      <last_name>Patricia Walker, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>December 3, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 3, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 4, 2020</study_first_posted>
+  <last_update_submitted>December 3, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 3, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 4, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Icahn School of Medicine at Mount Sinai</investigator_affiliation>
+    <investigator_full_name>Patricia Walker</investigator_full_name>
+    <investigator_title>Co-Director, The Cystic Fibrosis Center</investigator_title>
+  </responsible_party>
+  <keyword>Pulmonary Disease</keyword>
+  <keyword>Airway Clearance Therapy</keyword>
+  <keyword>High Frequency Chest Wall Oscillation</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lung Diseases</mesh_term>
+    <mesh_term>Lung Diseases, Obstructive</mesh_term>
+    <mesh_term>Pulmonary Disease, Chronic Obstructive</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3100">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04672564</url>
+  </required_header>
+  <id_info>
+    <org_study_id>TLKLXG202001</org_study_id>
+    <nct_id>NCT04672564</nct_id>
+  </id_info>
+  <brief_title>Study to Evaluate Safety and Efficacy of Carrimycin for Treatment of Severe Coronavirus Disease 2019 (COVID-19) in Hospitalized Patients</brief_title>
+  <official_title>A Phase 3, Randomized, Multicenter, Placebo-controlled, Double-blind Clinical Study of the Safety and Efficacy of Carrimycin for Treatment of Severe COVID-19 in Hospitalized Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Shenyang Tonglian Group CO., Ltd</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Shenyang Tonglian Group CO., Ltd</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a randomized, multicenter, placebo-controlled, double-blind clinical study in&#xD;
+      patients hospitalized due to severe Severe Acute Respiratory Syndrome Coronavirus 2&#xD;
+      (SARS-CoV-2) infection.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Eligible 300 hospitalized patients with confirmed severe SARS-CoV-2 infection will be&#xD;
+      randomly assigned (1:1) to receive 14 days treatment of 400 mg carrimycin and standard of&#xD;
+      care (SOC) or placebo and SOC.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 14, 2021</start_date>
+  <completion_date type="Anticipated">June 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage of patients alive without need for supplemental oxygen and ongoing in patient-medical care (SOC treatment for COVID-19) at Day 28</measure>
+    <time_frame>At Day 28</time_frame>
+    <description>To evaluate the efficacy and safety of carrimycin compared to SOC in patients hospitalized with severe SARS-CoV-2 pneumonia.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to recovery</measure>
+    <time_frame>From screening Day (Day -2 to Day -1) until Day 28</time_frame>
+    <description>To evaluate efficacy of carrimycin administered for treatment of severe COVID-19 in hospitalized patients between patients receiving carrimycin vs placebo. Time to recovery is defined as time point when a patient reaches level 3 or lower on the 8-Category ordinal scale and does not return to a level &gt; 3 during the 28-day period. The 8-Category ordinal scale score ranges from 1 to 8. Score 1: Not hospitalized, no limitations on activities; 2: Not hospitalized, limitation on activities, home oxygen requirement or both; 3: Hospitalized, not requiring supplemental oxygen and no longer requiring ongoing medical care; 4: Hospitalized, not requiring supplemental oxygen but requiring ongoing medical care; 5: Hospitalized, requiring supplemental oxygen; 6: Hospitalized, requiring noninvasive ventilation or high flow oxygen devices; 7: Hospitalized, receiving invasive mechanical ventilation or extracorporeal membrane oxygenation and score 8: Death. Higher scores indicate worse outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean difference from baseline (Days -2 to -1) to Day 28 as per the 8 category ordinal scale</measure>
+    <time_frame>Screening Day (Day -2 to Day -1) until Day 28</time_frame>
+    <description>To evaluate the efficacy of carrimycin administered for the treatment of severe COVID-19 in hospitalized patients between patients receiving carrimycin vs placebo. The 8-Category ordinal scale score ranges from 1 to 8. Score 1 indicates: Not hospitalized, no limitations on activities; 2: Not hospitalized, limitation on activities, home oxygen requirement or both; 3: Hospitalized, not requiring supplemental oxygen and no longer requiring ongoing medical care; 4: Hospitalized, not requiring supplemental oxygen but requiring ongoing medical care; 5: Hospitalized, requiring supplemental oxygen; 6: Hospitalized, requiring noninvasive ventilation or high flow oxygen devices; 7: Hospitalized, receiving invasive mechanical ventilation or extracorporeal membrane oxygenation (ECMO) and score 8 indicates: Death. Higher scores indicate worse outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in lung imaging</measure>
+    <time_frame>Days 7, 14 and 28</time_frame>
+    <description>To evaluate the efficacy of carrimycin administered for the treatment of severe COVID-19 in hospitalized patients between patients receiving carrimycin vs placebo. Radiological imaging (lung computed tomography scan and chest X-ray) will be used to determine change in lung imaging.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Negative conversion ratio of SARS-CoV-2 RNA in nasopharyngeal samples after treatment.</measure>
+    <time_frame>Days 3, 7 and 14</time_frame>
+    <description>To evaluate the efficacy of carrimycin administered for the treatment of severe COVID-19 in hospitalized patients between patients receiving carrimycin vs placebo. To evaluate the change in viral load between treatment arms and to evaluate the relationship between change in viral load over time with time to clinical recovery.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Improvement in sequential organ failure assessment (SOFA) score</measure>
+    <time_frame>Days 3, 7, 10, 14 and 28 after treatment</time_frame>
+    <description>To evaluate the efficacy of carrimycin administered for the treatment of severe COVID-19 in hospitalized patients between patients receiving carrimycin vs placebo. The SOFA score ranges from 0 to 4. Lower score predicts better organ functioning and higher score represents severe organ failure.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of hospital stay (in days)</measure>
+    <time_frame>From Screening Day (Day -2 to Day -1) until Day 60 or Early Withdrawal</time_frame>
+    <description>To evaluate length of hospital stay and to evaluate time to successful discharge between patients receiving carrimycin vs placebo.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of patients with all cause mortality at Days 14 and 28</measure>
+    <time_frame>From Screening Day (Day -2 to Day -1) until Day 60 or Early Withdrawal</time_frame>
+    <description>To evaluate mortality rates between patients receiving carrimycin vs placebo.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of patients with adverse event (AEs) and Serious adverse events (SAEs)</measure>
+    <time_frame>Day 28 and Day 60</time_frame>
+    <description>To evaluate the safety and tolerability of the carrimycin and to describe the safety profile of treatments as reflected by AEs and SAEs.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of patients with changes in routine electrocardiogram (ECG) from Day 1 up to Day 14</measure>
+    <time_frame>Day 1 until Day 14</time_frame>
+    <description>To evaluate the safety and tolerability of the carrimycin and to describe the safety profile of treatments. The routine ECG will include heart rate, QTc interval, ST segment and T wave changes</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">300</enrollment>
+  <condition>Coronavirus Disease 2019</condition>
+  <arm_group>
+    <arm_group_label>Carrimycin</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients will receive oral dose of 400 mg carrimycin once-daily and SOC for 14 days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Patients will receive oral dose of Placebo once-daily and SOC for 14 days.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Carrimycin</intervention_name>
+    <description>Carrimycin (400 mg) will be given once-daily for 14 days (2 x 200 mg tablets) after a meal, if a patient experiences an eating problem, carrimycin will be taken without food.</description>
+    <arm_group_label>Carrimycin</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo will be given once-daily for 14 days (2 tablets) after a meal, if a patient experiences an eating problem, placebo will be taken without food.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patient with SARS-CoV-2 infection as determined by real time polymerase chain reaction&#xD;
+             (RT- PCR) or other commercial or public health assay in any specimen taken ≤ 4 days&#xD;
+             prior to randomization. Patient with a second SARS-CoV-2 episode after resolution of&#xD;
+             the initial infection may be enrolled if the infection is reconfirmed by RT-PCR and&#xD;
+             all other eligibility criteria are met. Patient hospitalized, who are requiring&#xD;
+             supplemental oxygen via nasal cannula, non-invasive ventilation or high-flow oxygen to&#xD;
+             maintain peripheral oxygen saturation of at least 92% at time of Screening&#xD;
+&#xD;
+          -  Female patient of childbearing potential and male patient with female partner of&#xD;
+             childbearing potential must agree to use at least one primary form of contraception&#xD;
+             for the duration of the study&#xD;
+&#xD;
+          -  Ability to provide informed consent personally, or by a legally acceptable&#xD;
+             representative if the patient is unable to do so&#xD;
+&#xD;
+          -  Patient is willing and able to comply with all required study visits and follow up&#xD;
+             required by the protocol&#xD;
+&#xD;
+          -  Patient must agree not to enroll in another study of an investigational agent prior to&#xD;
+             completion of Day 60 of study&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patient diagnosed with viral pneumonia other than COVID-19&#xD;
+&#xD;
+          -  Non-hospitalized patients, limitation of activities and/or requiring home oxygen&#xD;
+             support&#xD;
+&#xD;
+          -  Patient has a creatinine clearance &lt; 50 mL/min using the modification of diet in renal&#xD;
+             disease formula&#xD;
+&#xD;
+          -  Patient has a known allergy to any study medication or macrolides&#xD;
+&#xD;
+          -  Patient with the presence of hepatitis B surface antigen at Screening&#xD;
+&#xD;
+          -  Patient has a positive hepatitis C antibody test result at Screening&#xD;
+&#xD;
+          -  Patient has a positive hepatitis C RNA test result at Screening&#xD;
+&#xD;
+          -  Patient has positive immunodeficiency virus antibody test&#xD;
+&#xD;
+          -  Patient has been treated with anti-tumor therapy in the past 30 days prior to&#xD;
+             Screening&#xD;
+&#xD;
+          -  Patient has used a macrolide in the week prior to Screening&#xD;
+&#xD;
+          -  Patient has used antiviral drugs which are not part of SOC &lt; 24 hours prior to Day 1&#xD;
+&#xD;
+          -  Patient has used medications that are narrow therapeutic index cytochrome P450 (CYP)&#xD;
+             substrates or are strong inhibitors and/or inducers of CYP3A4 or CYP3A5 and organic&#xD;
+             anion transporting polypeptide (OATP)1B1 or OATP1B3 &lt; 2 days prior to Day 1 and/or&#xD;
+             plans to initiate such medications during the treatment period&#xD;
+&#xD;
+          -  Patient who, in the judgment of the Investigator, will be unlikely or unable to comply&#xD;
+             with the requirements of this protocol through Day 60&#xD;
+&#xD;
+          -  Female patient who is pregnant or breastfeeding&#xD;
+&#xD;
+          -  Critical patient with a life expectancy &lt; 48 hours&#xD;
+&#xD;
+          -  Patient who has received an organ transplant in the past 6 months prior to Screening&#xD;
+             or is on the waiting list for organ transplantation&#xD;
+&#xD;
+          -  Patient with evidence of multiorgan failure (defined as two or more organs failing) or&#xD;
+             septic shock&#xD;
+&#xD;
+          -  Patient requiring mechanical ventilation or extracorporeal membrane oxygenation at&#xD;
+             Screening&#xD;
+&#xD;
+          -  Patient has a mean corrected QT interval using Fridericia's formula (QTcF) of &gt; 450&#xD;
+             msec (for male patients) and &gt; 470 msec (for female patients) at Screening&#xD;
+&#xD;
+          -  Patient who has a history of alcohol abuse within 3 months prior to the study as&#xD;
+             judged by the Investigator&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Henry Wang</last_name>
+    <phone>86 188 0403 2009</phone>
+    <email>Hwang0404@hotmail.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>PharmaTex Research, LLC</name>
+      <address>
+        <city>Amarillo</city>
+        <state>Texas</state>
+        <zip>79109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>David Brabham</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto Médico Platense</name>
+      <address>
+        <city>La Plata</city>
+        <state>Buenos Aires</state>
+        <zip>B1900AVG</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Gustavo Chaparro</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Clínica Monte Grande</name>
+      <address>
+        <city>Monte Grande</city>
+        <state>Buenos Aires</state>
+        <zip>B1842DID</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Xavier Bocca Ruiz</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto Medico Rio Cuarto</name>
+      <address>
+        <city>Rio Cuarto</city>
+        <state>Córdoba</state>
+        <zip>5000</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Ana Ceballos</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital General de Agudos Donación F. Santojanni</name>
+      <address>
+        <city>Buenos Aires</city>
+        <zip>C1159AEA</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jose Scapellato</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Sanatorio Mayo Privado SA</name>
+      <address>
+        <city>Córdoba</city>
+        <zip>5000</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Germán Ambasch</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto Goiano de Oncologia e Hematologia - INGOH</name>
+      <address>
+        <city>Aparecida de Goiânia</city>
+        <state>Goiás</state>
+        <zip>74905-410</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Mayler Nunes de Santos</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto de Pesquisa Clínica de Campinas</name>
+      <address>
+        <city>Campinas</city>
+        <state>São Paulo</state>
+        <zip>13060-080</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>José Francisco Saraiva</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Clinica SOMER</name>
+      <address>
+        <city>Rionegro</city>
+        <state>Antioquia</state>
+        <zip>054040</zip>
+        <country>Colombia</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Juliana Castaño Rendon</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Clínica San Rafael</name>
+      <address>
+        <city>Bogota</city>
+        <zip>110411</zip>
+        <country>Colombia</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>David Espinosa</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Paarthiv Lung Care Centre - Internal Medicine</name>
+      <address>
+        <city>Hyderabad</city>
+        <state>Andhra Pradesh</state>
+        <zip>500018</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Nagaraj Boyilla</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>King George Hospital</name>
+      <address>
+        <city>Visakhapatnam</city>
+        <state>Andhra Pradesh</state>
+        <zip>530002</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Yandrapati Raju</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Unity Hospital</name>
+      <address>
+        <city>Surat</city>
+        <state>Gujarat</state>
+        <zip>395010</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Mahesh Sutariya</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Rhythm Heart Institute</name>
+      <address>
+        <city>Vadodara</city>
+        <state>Gujarat</state>
+        <zip>390022</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Nirav Bhalani</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Adichunchanagiri Hospital and Research Centre</name>
+      <address>
+        <city>Mandya</city>
+        <state>Karnataka</state>
+        <zip>571418</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Ravi B Nagarajaiah</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Government Medical College - Department of Internal Medicine</name>
+      <address>
+        <city>Nagpur</city>
+        <state>Maharashtra</state>
+        <zip>440009</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Milind Vyawahre</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Suretech Hospital and Research Centre - Internal Medicine</name>
+      <address>
+        <city>Nagpur</city>
+        <state>Maharashtra</state>
+        <zip>440012</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Nirmal Jaiswal</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Shalinitai Meghe Hospital &amp; Research centre</name>
+      <address>
+        <city>Nagpur</city>
+        <state>Maharashtra</state>
+        <zip>441110</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Saurabh Hadke</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Universal Hospital</name>
+      <address>
+        <city>Pune</city>
+        <state>Maharashtra</state>
+        <zip>4110011</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Rohit Ramrathan Jakhotia</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Sawai Man Singh Medical College &amp; Attached Hospitals</name>
+      <address>
+        <city>Jaipur</city>
+        <state>Rajasthan</state>
+        <zip>302004</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Raman Sharma</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Saveetha Medical College &amp; Hospital</name>
+      <address>
+        <city>Chennai</city>
+        <state>Tamil Nadu</state>
+        <zip>602105</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Rajendran Kannan</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>St.Theresa's Hospital</name>
+      <address>
+        <city>Hyderabad</city>
+        <state>Telangana</state>
+        <zip>500018</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>A Venkateshwar Rao</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Nuevo Hospital Civil de Guadalajara &quot;Juan I. Menchaca&quot;</name>
+      <address>
+        <city>Guadalajara</city>
+        <state>Jalisco</state>
+        <zip>44340</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Daniel Rodríguez</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario &quot;Dr. Jose Eleuterio Gonzalez&quot;</name>
+      <address>
+        <city>Nuevo Leon</city>
+        <state>Nuevo León</state>
+        <zip>64460</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Laura Marina Nuzzolo Shihadeh</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Kohler &amp; Milstein Research</name>
+      <address>
+        <city>Merida</city>
+        <state>Yucatán</state>
+        <zip>97070</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jesus Simon-Campos</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Clinica Ricardo Palma</name>
+      <address>
+        <city>Lima</city>
+        <zip>15036</zip>
+        <country>Peru</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Gonzalo Gianella Malca</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Central FAP</name>
+      <address>
+        <city>Lima</city>
+        <zip>15046</zip>
+        <country>Peru</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Jorge Ravelo Hernandez</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>De La Salle Health Sciences Institute</name>
+      <address>
+        <city>Cavite City</city>
+        <state>Cavite</state>
+        <zip>4114</zip>
+        <country>Philippines</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Loreta Zoleta-de Jesus</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>St. Paul's Hospital of Iloilo, Inc.</name>
+      <address>
+        <city>Iloilo City</city>
+        <state>Iloilo</state>
+        <zip>5000</zip>
+        <country>Philippines</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Amee Lourdes Ponje</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Makati Medical Center - Infectious Diseases</name>
+      <address>
+        <city>Makati City</city>
+        <state>National Capital Region</state>
+        <zip>1229</zip>
+        <country>Philippines</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Carmenchu Echiverri-Villavicencio</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>San Juan De Dios Hospital</name>
+      <address>
+        <city>Pasay City</city>
+        <state>National Capital Region</state>
+        <zip>1300</zip>
+        <country>Philippines</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Camilo Roa Jr</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Veterans Memorial Medical Center</name>
+      <address>
+        <city>Quezon City</city>
+        <state>National Capital Region</state>
+        <zip>1110</zip>
+        <country>Philippines</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Arnold Germar</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>St. Lukes Hospital</name>
+      <address>
+        <city>Quezon City</city>
+        <state>National Capital Region</state>
+        <zip>1112</zip>
+        <country>Philippines</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Ronald Allan Payumo</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Quirino Memorial Medical Center</name>
+      <address>
+        <city>Quezon</city>
+        <state>National Capital Region</state>
+        <zip>1109</zip>
+        <country>Philippines</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Joel Santiaguel</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Chernihivska miska likarnia #2</name>
+      <address>
+        <city>Chernihiv</city>
+        <state>Chernihivs'ka Oblast'</state>
+        <zip>14034</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Valentyna Borovyk</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ivano-Frankivsk Central City Clinical Hospital</name>
+      <address>
+        <city>Ivano-Frankivsk</city>
+        <state>Ivano-Frankivs'ka Oblast'</state>
+        <zip>76018</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Olena Kobrynska</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Oblasnyi klinichnyi ftyziopulmonolohichnyi tsentr</name>
+      <address>
+        <city>Ivano-Frankivsk</city>
+        <state>Ivano-Frankivs'ka Oblast'</state>
+        <zip>76018</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Mykola Ostrovskyi</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Kyivska miska likarnia #8</name>
+      <address>
+        <city>Kyiv</city>
+        <state>Kyïv</state>
+        <zip>04201</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Liliia Romaniuk</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Vinnytskyi natsionalnyi medychnyi universytet imeni M.I. Pyr</name>
+      <address>
+        <city>Vinnytsia</city>
+        <state>Vinnyts'ka Oblast</state>
+        <zip>21029</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Larysa Moroz</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Volyn Regional Clinical Hospital</name>
+      <address>
+        <city>Lutsk</city>
+        <state>Volyns'ka Oblast'</state>
+        <zip>43005</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Oleh Yakovenko</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Argentina</country>
+    <country>Brazil</country>
+    <country>Colombia</country>
+    <country>India</country>
+    <country>Mexico</country>
+    <country>Peru</country>
+    <country>Philippines</country>
+    <country>Ukraine</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>December 16, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 16, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 17, 2020</study_first_posted>
+  <last_update_submitted>January 19, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 19, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 20, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Severe Acute Respiratory Syndrome Coronavirus 2</keyword>
+  <keyword>Safety</keyword>
+  <keyword>Novel coronavirus</keyword>
+  <keyword>Carrimycin</keyword>
+  <keyword>Remdesivir</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

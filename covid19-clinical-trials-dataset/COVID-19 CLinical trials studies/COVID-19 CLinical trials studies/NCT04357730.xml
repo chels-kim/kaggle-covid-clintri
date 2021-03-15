@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3770">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04357730</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20-0880</org_study_id>
+    <nct_id>NCT04357730</nct_id>
+  </id_info>
+  <brief_title>Fibrinolytic Therapy to Treat ARDS in the Setting of COVID-19 Infection</brief_title>
+  <official_title>Fibrinolytic Therapy to Treat ARDS in the Setting of COVID-19 Infection: A Phase 2a Clinical Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Denver Health and Hospital Authority</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Genentech, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Colorado, Denver</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Jewish Health</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Beth Israel Deaconess Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Long Island Jewish Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Scripps Health</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>St. Mary's Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Miami</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Ben Taub Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Methodist Dallas Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Denver Health and Hospital Authority</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The global pandemic COVID-19 has overwhelmed the medical capacity to accommodate a large&#xD;
+      surge of patients with acute respiratory distress syndrome (ARDS). In the United States, the&#xD;
+      number of cases of COVID-19 ARDS is projected to exceed the number of available ventilators.&#xD;
+      Reports from China and Italy indicate that 22-64% of critically ill COVID-19 patients with&#xD;
+      ARDS will die. ARDS currently has no evidence-based treatments other than low tidal&#xD;
+      ventilation to limit mechanical stress on the lung and prone positioning. A new therapeutic&#xD;
+      approach capable of rapidly treating and attenuating ARDS secondary to COVID-19 is urgently&#xD;
+      needed.&#xD;
+&#xD;
+      The dominant pathologic feature of viral-induced ARDS is fibrin accumulation in the&#xD;
+      microvasculature and airspaces. Substantial preclinical work suggests antifibrinolytic&#xD;
+      therapy attenuates infection provoked ARDS. In 2001, a phase I trial 7 demonstrated the&#xD;
+      urokinase and streptokinase were effective in patients with terminal ARDS, markedly improving&#xD;
+      oxygen delivery and reducing an expected mortality in that specific patient cohort from 100%&#xD;
+      to 70%. A more contemporary approach to thrombolytic therapy is tissue plasminogen activator&#xD;
+      (tPA) due to its higher efficacy of clot lysis with comparable bleeding risk 8. We therefore&#xD;
+      propose a phase IIa clinical trial with two intravenous (IV) tPA treatment arms and a control&#xD;
+      arm to test the efficacy and safety of IV tPA in improving respiratory function and&#xD;
+      oxygenation, and consequently, successful extubation, duration of mechanical ventilation and&#xD;
+      survival.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      As the COVID-19 pandemic accelerates, cases have grown exponentially around the world. Other&#xD;
+      countries' experience suggests that 5-16% of COVID-19 in-patients will undergo prolonged&#xD;
+      intensive care with 50-70% needing mechanical ventilation(MV) threatening to overwhelm&#xD;
+      hospital capacity. ARDS has no effective treatment besides supportive care, the use of&#xD;
+      ventilation strategies encompassing low tidal volumes that limit trans-pulmonary pressures,&#xD;
+      and prone positioning in severe disease. Most current trials in clinicaltrials.gov for&#xD;
+      COVID-19-induced ARDS aim at modulating the inflammatory response or test anti-viral drugs.&#xD;
+      Sarilumab and tocilizumab that block IL-6 effects are being tested in RCT for patients&#xD;
+      hospitalized with severe COVID-19 (NCT04317092, NCT04322773, NCT04327388). The World Health&#xD;
+      Organization international trial SOLIDARITY will test remdesivir; chloroquine +&#xD;
+      hydroxychloroquine; lopinavir + ritonavir; and lopinavir + ritonavir and interferon-beta&#xD;
+      (NCT04321616). Yet studies targeting the coagulation system, which is intrinsically&#xD;
+      intertwined with the inflammatory response are lacking.&#xD;
+&#xD;
+      A consistent finding in ARDS is the deposition of fibrin in the airspaces and lung&#xD;
+      parenchyma, along with fibrin-platelet microthrombi in the pulmonary vasculature, which&#xD;
+      contribute to the development of progressive respiratory dysfunction and right heart failure.&#xD;
+      Similar to pathologic findings of ARDS, microthrombi have now been observed in lung specimens&#xD;
+      from patients infected with COVID-19.&#xD;
+&#xD;
+      Inappropriate activation of the clotting system in ARDS results from enhanced activation and&#xD;
+      propagation of clot formation as well as suppression of fibrinolysis. Our group has shown&#xD;
+      that low fibrinolysis is associated with ARDS. Studies starting decades ago have demonstrated&#xD;
+      the systemic and local effects of dysfunctional coagulation in ARDS, specifically related to&#xD;
+      fibrin. This occurs largely because of excessive amounts of tissue factor that is produced by&#xD;
+      alveolar epithelial cells and activated alveolar macrophages, and high levels of plasminogen&#xD;
+      activator inhibitor-1 (PAI-1) produced and released by endothelial cells. Consistent with&#xD;
+      this, generalized derangements of the hemostatic system with prolongation of the prothrombin&#xD;
+      time, elevated D-dimer and fibrin degradation products have been reported in severely ill&#xD;
+      COVID-19 patients, particularly in non-survivors. These laboratory findings, in combination&#xD;
+      with the large clot burden seen in the pulmonary microvasculature, mirrors what is seen in&#xD;
+      human sepsis, experimental endotoxemia, and massive tissue trauma. Targeting the coagulation&#xD;
+      and fibrinolytic systems to improve the treatment of ARDS has been proposed for at least the&#xD;
+      past two decades. In particular, the use of plasminogen activators to limit ARDS progression&#xD;
+      and reduce ARDS-induced death has received strong support from animal models, and a phase 1&#xD;
+      human clinical trial. In 2001, Hardaway and colleagues showed that administration of either&#xD;
+      urokinase or streptokinase to patients with terminal ARDS reduced the expected mortality from&#xD;
+      100% to 70% with no adverse bleeding events. Importantly, the majority of patients who&#xD;
+      ultimately succumbed died from renal or hepatic failure, rather than pulmonary failure.&#xD;
+&#xD;
+      Consideration of therapies that are widely available but not recognized for this indication&#xD;
+      and traditionally considered &quot;high-risk&quot; such as fibrinolytic agents is warranted in this&#xD;
+      unprecedented public health emergency, since the risk of adverse events from tPA is far&#xD;
+      outweighed by the extremely high risk of death in the patient's meeting the eligibility&#xD;
+      criteria for this trial. While the prior studies by Hardaway et al evaluating fibrinolytic&#xD;
+      therapy for treatment of ARDS used urokinase and streptokinase, the more contemporary&#xD;
+      approach to thrombolytic therapy involves the use of tissue-type plasminogen activator (tPA)&#xD;
+      due to higher efficacy of clot lysis with comparable bleeding risk to the other fibrinolytic&#xD;
+      agents.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">May 14, 2020</start_date>
+  <completion_date type="Anticipated">November 2021</completion_date>
+  <primary_completion_date type="Anticipated">September 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>This is a Phase IIa clinical trial, open label, with a modified stepped-wedge design, testing systemic administration of fibrinolytic therapy with alteplase (tPA) versus standard of care for patients infected with COVID-19 resulting in severe respiratory failure. The design is a rapidly adaptive, pragmatic clinical trial, with 3 interim analyses and 1 final look at the data.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>PaO2/FiO2 improvement from pre-to-post intervention</measure>
+    <time_frame>at 48 hours post randomization</time_frame>
+    <description>Ideally, the PaO2/FiO2 will be measured with the patient in the same prone/supine position as in baseline, as change in positions may artificially reduce the improvement attributable to the study drug. However, given the pragmatic nature of the trial, the prone/supine position will be determined by the attending physician, in which case, we will use as an outcome the PaO2/FiO2 closest to the 48 hours obtained prior to the change in position as the outcome.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Achievement of PaO2/FiO2 ≥ 200 or 50% increase in PaO2/FiO2</measure>
+    <time_frame>at 48 hours post randomization</time_frame>
+    <description>Achievement of PaO2/FiO2 ≥ 200 or 50% increase in PaO2/FiO2 (whatever is lower)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>National Early Warning Score 2 (NEWS2)</measure>
+    <time_frame>at 48 hours post randomization</time_frame>
+    <description>This score is based on seven clinical features (respiration rate, hypercapnic respiratory failure, any supplemental oxygen, temperature, systolic blood pressure, heart rate and level of consciousness) and determines the degree of illness of a patient and prompts critical care intervention.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>National Institute of Allergy and Infectious Diseases (NIAID) ordinal scale</measure>
+    <time_frame>at 48 hours post randomization</time_frame>
+    <description>The ordinal scale is an assessment of the clinical status as follows: 1) Death; 2) Hospitalized, on invasive mechanical ventilation or extracorporeal membrane oxygenation (ECMO); 3) Hospitalized, on non-invasive ventilation or high flow oxygen devices; 4) Hospitalized, requiring supplemental oxygen; 5) Hospitalized, not requiring supplemental oxygen - requiring ongoing medical care (COVID-19 related or otherwise); 6) Hospitalized, not requiring supplemental oxygen - no longer requires ongoing medical care; 7) Not hospitalized, limitation on activities and/or requiring home oxygen; 8) Not hospitalized, no limitations on activities. (combined items 7 and 8 as our study is limited to hospital).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>48 hour in-hospital mortality</measure>
+    <time_frame>at 48 hours post randomization</time_frame>
+    <description>48 hour mortality for hospitalized patients</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>14 days in-hospital mortality</measure>
+    <time_frame>14 days post randomization</time_frame>
+    <description>14 days mortality for hospitalized patients</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>28 days in-hospital mortality</measure>
+    <time_frame>28 days post randomization</time_frame>
+    <description>28 days mortality for hospitalized patients</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ICU-free days</measure>
+    <time_frame>28 days of hospital stay or until hospital discharge (whichever comes first)</time_frame>
+    <description>ICU-free days will be calculated based on (28 - number of days spent in the ICU) formula</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>In-hospital coagulation-related event-free (arterial and venous) days</measure>
+    <time_frame>28 days of hospital stay or until hospital discharge (whichever comes first)</time_frame>
+    <description>In-hospital coagulation-related events include bleeding, stroke, myocardial infarction and venous thromboembolism (VTE). In-hospital coagulation-related event-free (arterial and venous) days will be calculated based on (28 - number of days without coagulation-related event) formula.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ventilator-free days</measure>
+    <time_frame>28 days of hospital stay or until hospital discharge (whichever comes first)</time_frame>
+    <description>Ventilator-free days will be calculated based on (28 - number of days on mechanical ventilation) formula.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Successful extubation</measure>
+    <time_frame>Day 4 after initial extubation</time_frame>
+    <description>Calculated for patients who was on a mechanical ventilation any period of time during hospitalization. The extubation will be considered successful if no re-intubation occurred for more than 3 days have passed after the initial extubation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Successful weaning from paralysis</measure>
+    <time_frame>Day 4 after initial termination of paralytics</time_frame>
+    <description>Calculated for patients who was on paralytics at the time of randomization. The weaning will be considered successful if no paralytics were used for more than 3 days have passed after termination of paralytics.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Survival to discharge</measure>
+    <time_frame>28 days of hospital stay or until hospital discharge (whichever comes first)</time_frame>
+    <description>Is counted for the patients who was alive at the time of discharge.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Severe Acute Respiratory Syndrome</condition>
+  <condition>Respiratory Failure</condition>
+  <condition>Acute Respiratory Distress Syndrome</condition>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Patients randomized to Control arm will receive no study medication; the treatment will be standard of care according to the institution's protocol for ARDS.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Alteplase-50 bolus</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients randomized to Alteplase-50 group will receive 50 mg of Alteplase intravenous bolus administration over 2 hours. Re-bolusing of Alteplase, at the same dose, is permitted in those patients who show an initial transient response. The repeat dose will be given between 24 and 36 hours after the initial Alteplase administration.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Alteplase-50 bolus plus drip</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients randomized to Alteplase-50 plus drip group will receive 50 mg of Alteplase intravenous bolus administration over 2 hours. Immediately following this initial Alteplase infusion, a drip of 2 mg/hr of Alteplase will be initiated over the ensuing 24 hours (total 48 mg infusion).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Alteplase 50 MG [Activase]</intervention_name>
+    <description>Patients randomized to Alteplase-50 group will receive 50 mg of Alteplase intravenous bolus administration over 2 hours, given as a 10 mg push followed by the remaining 40 mgs over a total time of 2 hrs. Immediately following the Alteplase infusion, 5000 units (U) of unfractionated heparin (UFH) will be delivered and the heparin drip will be continued to maintain the activated partial thromboplastin time (aPTT) at 60-80sec (2.0 to 2.5 times the upper limit of normal). Re-bolusing of Alteplase, at the same dose, is permitted in the Alteplase-50 intervention group in those patients who show an initial transient response (&gt;20% improvement of PaO2/FiO2 over pre-infusion of Alteplase at any of the measurements at 2, 6, 12 or 18 hours, but &lt;50% improvement of PaO2/FiO2 at 24 hours after randomization); the repeat dose will be given between 24 and 36 hours after the initial Alteplase administration.</description>
+    <arm_group_label>Alteplase-50 bolus</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Alteplase 50 MG [Activase]</intervention_name>
+    <description>wed by the remaining 40 mgs over a total time of 2 hrs. Immediately following this initial Alteplase infusion, we will initiate a drip of 2 mg/hr Alteplase over the ensuing 24 hours (total 48 mg infusion) accompanied by an infusion of 500 units per hour (U/hr) heparin during the Alteplase drip. After this, heparin dose will be increased slowly to maintain aPTT between 60 and 80 sec, titrated per attending's discretion.</description>
+    <arm_group_label>Alteplase-50 bolus plus drip</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria: We will include adult patients ages 18-75 years old with known or&#xD;
+        suspected COVID-19 infection with a PaO2/FiO2 ratio &lt; 150 or inferred PaO2/FiO2 ratio from&#xD;
+        SpO2 if ABG is unavailable (Table) persisting for &gt; 4 hours despite optimal mechanical&#xD;
+        ventilation management according to each institution's ventilation protocols, and a&#xD;
+        neurological exam without focal signs or new deficits at time of enrollment (if patient is&#xD;
+        on paralytics, patient has been aroused sufficiently to allow a neurological examination to&#xD;
+        exclude new focal deficits or has MRI/CT scan in the last 4.5 hours with no evidence of&#xD;
+        stroke. Finally, patients must be on the ventilator for &lt;=10 days to be eligible. Based on&#xD;
+        experience with critically ill patients, longer ventilation time may be associated with&#xD;
+        increased risk of bleeding. Patients will be enrolled based on clinical features, without&#xD;
+        consideration of language (using hospital interpreters and translated consent),&#xD;
+        race/ethnicity, or gender. A neurological exam or CT/MRI scan to demonstrate no evidence of&#xD;
+        an acute stroke is needed due to a recent case-report of large-vessel stroke as a&#xD;
+        presenting feature of COVID-19 in young individuals.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Active bleeding&#xD;
+&#xD;
+          -  Acute myocardial infarction or history of myocardial infarction within the past 3&#xD;
+             weeks or cardiac arrest during hospitalization&#xD;
+&#xD;
+          -  Hemodynamic instability with Noradrenaline &gt;0.2mcg/Kg/min&#xD;
+&#xD;
+          -  Acute renal failure requiring dialysis&#xD;
+&#xD;
+          -  Liver failure (escalating liver failure with total Bilirubin &gt; 3 mg/dL)&#xD;
+&#xD;
+          -  Suspicion of cirrhosis due to history of cirrhosis diagnosis, hepatic encephalopathy,&#xD;
+             documentation of portal hypertension, bleeding from esophageal varices, ascites,&#xD;
+             imaging or operative finding suggestive of liver cirrhosis, or constellation of&#xD;
+             abnormal laboratory test results suggestive of depressed hepatic function&#xD;
+&#xD;
+          -  Cardiac tamponade&#xD;
+&#xD;
+          -  Bacterial endocarditis&#xD;
+&#xD;
+          -  Severe uncontrolled hypertension defined as SBP&gt;185mmHg or DBP&gt;110mmHg&#xD;
+&#xD;
+          -  CVA (stroke), history of severe head injury within prior 3 months, or prior history of&#xD;
+             intracranial hemorrhage&#xD;
+&#xD;
+          -  Seizure during pre-hospital course or during hospitalization for COVID-19&#xD;
+&#xD;
+          -  Diagnosis of brain tumor, arterio-venous malformation (AVM) or ruptured aneurysm&#xD;
+&#xD;
+          -  Currently on ECMO&#xD;
+&#xD;
+          -  Major surgery or major trauma within the past 2 weeks&#xD;
+&#xD;
+          -  GI or GU bleed within the past 3 weeks&#xD;
+&#xD;
+          -  Known bleeding disorder&#xD;
+&#xD;
+          -  P2Y12 receptor inhibitor medication (anti-platelet) within 5 days of enrollment&#xD;
+&#xD;
+          -  Arterial puncture at a non-compressible site within the past 7 days&#xD;
+&#xD;
+          -  Lumbar puncture within past 7 days&#xD;
+&#xD;
+          -  Pregnancy&#xD;
+&#xD;
+          -  INR &gt; 1.7 (with or without concurrent use of warfarin)&#xD;
+&#xD;
+          -  Platelet count &lt; 100 x 109/L or history of HITT&#xD;
+&#xD;
+          -  Fibrinogen &lt; 300mg/dL&#xD;
+&#xD;
+          -  Known abdominal or thoracic aneurysm&#xD;
+&#xD;
+          -  History of CNS malignancy or CNS metastasis within past 5 years&#xD;
+&#xD;
+          -  History of non-CNS malignancy within the past 5 years that commonly metastasizes to&#xD;
+             the brain (lung, breast, melanoma)&#xD;
+&#xD;
+          -  Prisoner status&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ernest E Moore, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Denver Health Medical Center (DHMC)</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ernest E Moore, MD</last_name>
+    <phone>(303) 602-1820</phone>
+    <email>ernest.moore@dhha.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Arsen Ghasabyan, MPH</last_name>
+    <phone>(303) 602-3795</phone>
+    <email>arsen.ghasabyan@dhha.org</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Scripps Memorial Hospital La Jolla</name>
+      <address>
+        <city>La Jolla</city>
+        <state>California</state>
+        <zip>92037</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Walter Biffl, MD</last_name>
+      <phone>720-560-1210</phone>
+      <email>Biffl.Walter@scrippshealth.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Tala DanDan, CCRP</last_name>
+      <phone>858-626-4342</phone>
+      <email>Dandan.Tala@scrippshealth.org</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>University of Colorado, Denver</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Robert McIntyre, MD</last_name>
+      <phone>303-724-2728</phone>
+      <email>ROBERT.MCINTYRE@CUANSCHUTZ.EDU</email>
+    </contact>
+    <contact_backup>
+      <last_name>Tracey MacDermott, BA, BS, CCRC</last_name>
+      <phone>303-724-2757</phone>
+      <email>TRACEY.MACDERMOTT@CUANSCHUTZ.EDU</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Denver Health Medical Center</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80204</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ernest E Moore, MD</last_name>
+      <phone>303-602-1820</phone>
+      <email>ernest.moore@dhha.org</email>
+    </contact>
+    <investigator>
+      <last_name>Ernest E Moore, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>National Jewish Health</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80206</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kenneth Lyn-Kew, MD</last_name>
+      <phone>303-270-2730</phone>
+      <email>lynkewk@njhealth.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Christine Griesmer, RN, BSN, MPH</last_name>
+      <phone>303-398-1325</phone>
+      <email>griesmerc@njhealth.org</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>University of Miami Hospital</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Nicholas Namias, MD</last_name>
+      <phone>305-585-1822</phone>
+      <email>nnamias@med.miami.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Ron Manning, APRN, MSPH</last_name>
+      <phone>305-355-4972</phone>
+      <email>RManning@med.miami.edu</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>St. Mary's Medical Center</name>
+      <address>
+        <city>West Palm Beach</city>
+        <state>Florida</state>
+        <zip>33407</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lawrence Lottenberg, MD</last_name>
+      <phone>561-882-6386</phone>
+      <email>lawrence.lottenberg@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Tracy Rodriguez, CRA, CCRC</last_name>
+      <phone>561-882-6386</phone>
+      <email>Tracy.Rodriguez@tenethealth.com</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Beth Israel Deaconess Medical Center</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Daniel Talmor, MD</last_name>
+      <phone>617-667-2902</phone>
+      <email>dtalmor@bidmc.harvard.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Krystal Capers, BS, MPH</last_name>
+      <phone>908-342-0229</phone>
+      <email>kcapers@bidmc.harvard.edu</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Long Island Jewish Medical Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>11040</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Janice Wang, MD</last_name>
+      <phone>516-465-5400</phone>
+      <email>JWang@northwell.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Ramona Ramdeo, DNP, FNP-C, MBA RRT</last_name>
+      <phone>646-732-5454</phone>
+      <email>RRamdeo@northwell.edu</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Methodist Dallas Medical Center</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Michael Truitt, MD</last_name>
+      <phone>214-947-2315</phone>
+      <email>Purvesh.Patel@bcm.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Heather Grossman Verner, MS</last_name>
+      <phone>214-947-1283</phone>
+      <email>heathergrossmanverner@mhd.com</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Ben Taub Hospital</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Purvesh Patel, MD</last_name>
+      <phone>713-873-2468</phone>
+      <email>Purvesh.Patel@bcm.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Coimbatore Sreevidya, MS, CCRP</last_name>
+      <phone>281-202-3975</phone>
+      <email>Coimbatore.Sreevidya@bcm.edu</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>April 18, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 21, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 22, 2020</study_first_posted>
+  <last_update_submitted>November 17, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 17, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 19, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Denver Health and Hospital Authority</investigator_affiliation>
+    <investigator_full_name>Ernest E. Moore, MD</investigator_full_name>
+    <investigator_title>Director of Surgical Research, Ernest E Moore Shock Trauma Center at Denver Health</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>ARDS</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>Betacoronavirus</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Newborn</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Adult</mesh_term>
+    <mesh_term>Respiratory Insufficiency</mesh_term>
+    <mesh_term>Acute Lung Injury</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Tissue Plasminogen Activator</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>A de-identified dataset will be made available to other investigators who may submit proposals to the PI for additional analyses or validation.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

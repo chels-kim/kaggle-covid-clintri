@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4267">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04659109</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ACT-CS-006</org_study_id>
+    <secondary_id>2020-002733-15</secondary_id>
+    <nct_id>NCT04659109</nct_id>
+  </id_info>
+  <brief_title>Glenzocimab in SARS-Cov-2 Acute Respiratory DistrEss syNdrome Related to COVID-19</brief_title>
+  <acronym>GARDEN</acronym>
+  <official_title>A Randomized, Double Blind, Multicenter, Placebo Controlled, Parallel Group, Exploratory Efficacy and Safety Study of Glenzocimab in SARS-Cov-2-related Acute Respiratory Distress Syndrome</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Acticor Biotech</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Acticor Biotech</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A randomized, double blind, multicenter, placebo-controlled, parallel group, fixed dose,&#xD;
+      phase II study to evaluate the efficacy and safety of glenzocimab in ARDS.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This randomized, double blind, multicenter, placebo-controlled, parallel group, fixed dose,&#xD;
+      phase II study evaluates the efficacy and safety of glenzocimab in ARDS.&#xD;
+&#xD;
+      Patients will be screened for eligibility and all tests should have results prior to any&#xD;
+      randomization, so as to avoid screening failures to a maximum extent. The turn-around time&#xD;
+      for these tests should be comprised within 24hrs to allow for rapid inclusions if needed.&#xD;
+      Eligible patients (n=68) will be randomized in a 1:1 ratio to glenzocimab or placebo. Patient&#xD;
+      inclusions will be fractioned into sequential (3-day apart) cohorts of growing size (2, 4&#xD;
+      then 6 patients), each balanced between glenzocimab and placebo in order to check safety in a&#xD;
+      gradual manner. A Data Safety Monitoring Board (DSMB) will meet after 12 patients will have&#xD;
+      been accrued, and again after the first 30 patients.&#xD;
+&#xD;
+      Glenzocimab will be administered by IV infusion. The dosing regimen will be 1000mg for 3&#xD;
+      days. All patients will receive in parallel the best medical care at the discretion of the&#xD;
+      investigating center, or per local guidelines. The allocation of each patient in any given&#xD;
+      center to an active treatment or placebo will strictly follow a central randomization scheme.&#xD;
+      The study period will be of a maximum of 40 days per patient. Patients will be closely&#xD;
+      monitored during the first 7 days following randomization with complete evaluations being&#xD;
+      performed at 24 hrs, 48 hrs, 72 hrs, then on Days 4 (96 hrs), 5 (120 hrs), 7 (+/-1 day), 14&#xD;
+      (+/-2 days), 20 (+/-2 days), 40 (+/-3 days). Should a patient being discharged before Day 40,&#xD;
+      distant consultations by telemedicine may be undertaken if it is not deemed desirable that&#xD;
+      the patient comes back to the institution.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 2020</start_date>
+  <completion_date type="Anticipated">July 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>A randomized, double blind, multicenter, placebo-controlled, parallel group, fixed dose, phase II study. The study evaluates the efficacy and safety of glenzocimab.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Progression from moderate to severe respiratory distress assessed at Day 4</measure>
+    <time_frame>Day 4</time_frame>
+    <description>Progression from moderate to severe assessed at Day 4 is a composite failure endpoint defined as the occurrence of at least one of the following failure events :&#xD;
+Respiratory rate (RR) ≥ 30/min, or&#xD;
+Oxygen Saturation (SpO2) ≤ 93% in resting state, or&#xD;
+Oxygen Pressure/ Inspired fraction (PaO2/FiO2) ≤ 200mmHg&#xD;
+Death occurring prior to or on Day 4</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>All cause mortality at day 40</measure>
+    <time_frame>Day 40 (maximum)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>WHO-COVID-19 Scale</measure>
+    <time_frame>Up to Day 40</time_frame>
+    <description>WHO COVID-19 Ordinal Scoring Scale is 9 point ordinal scale</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>NEWS-2 Scale</measure>
+    <time_frame>Up to Day 40</time_frame>
+    <description>Determines the degree of illness of a patient and prompts critical care intervention (recommended by NHS over original NEWS): total possible score ranges from 0 to 20. The higher the scores the greater the clinical risk.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Respiratory Rate status (RR)</measure>
+    <time_frame>Up to Day 40</time_frame>
+    <description>Respiratory Rate status defined as:: o Normal:&lt;20/min,&#xD;
+Mild:20/min≤RR&lt;24/min,&#xD;
+Moderate:24/min≤RR&lt;30/min, o Severe:≥30/min,&#xD;
+Death.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hypoxemia status</measure>
+    <time_frame>Up to Day 40</time_frame>
+    <description>Hypoxemia status defined as:: o Normal:&gt;300mmHg,&#xD;
+Mild: 200 mmHg &lt; PaO2/FiO2 ≤ 300 mmHg,&#xD;
+Moderate:100mmHg&lt;PaO2/FIO2≤200mmHg, o Severe:PaO2/FIO2≤100mmHg,&#xD;
+Death.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SpO2 status</measure>
+    <time_frame>Up to Day 40</time_frame>
+    <description>SpO2 status defined as: o Normal:&gt;95%&#xD;
+Mild:93%&lt;SpO2≤95%,&#xD;
+Moderate:90%&lt;SpO2≤93%, o Severe:≤90%,&#xD;
+Death.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CHEST CT-Scan (or in exceptional cases, chest radiogram)</measure>
+    <time_frame>Day 4</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Oxygen-free days</measure>
+    <time_frame>Up to Day 40</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Admission to the ICU</measure>
+    <time_frame>Up to Day 40</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ICU-free days</measure>
+    <time_frame>Up to Day 40</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital-free days</measure>
+    <time_frame>Up to Day 40</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical recovery and Time to Clinical recovery</measure>
+    <time_frame>Up to Day 40</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cure and Time-to-cure</measure>
+    <time_frame>Up to Day 40</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence, nature and severity of Adverse Events, SAEs, SUSARs and Treatment-Emergent Adverse Events (TEAEs)</measure>
+    <time_frame>Up to Day 40</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of bleeding-related events</measure>
+    <time_frame>Up to Day 40</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of hypersensitivity reactions</measure>
+    <time_frame>Up to Day 40</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from baseline on blood pressure</measure>
+    <time_frame>Up to Day 40</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from baseline on heart rate</measure>
+    <time_frame>Up to Day 40</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from baseline on NFS</measure>
+    <time_frame>Up to Day 40</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from baseline on INR/PTT</measure>
+    <time_frame>Up to Day 40</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from baseline on platelet count</measure>
+    <time_frame>Up to Day 40</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from baseline on plasma fibrinogen level</measure>
+    <time_frame>Up to Day 40</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from baseline on plasma D-Dimers level</measure>
+    <time_frame>Up to Day 40</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from baseline on serum-glucose level</measure>
+    <time_frame>Up to Day 40</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from baseline on urea level</measure>
+    <time_frame>Up to Day 40</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from baseline on creatinemia</measure>
+    <time_frame>Up to Day 40</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from baseline on LFTs (ASAT/ALAT)</measure>
+    <time_frame>Up to Day 40</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from baseline on CRP level</measure>
+    <time_frame>Up to Day 40</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from baseline on LDH level</measure>
+    <time_frame>Up to Day 40</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from baseline on IL6 level</measure>
+    <time_frame>Up to Day 40</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from baseline on Tnt</measure>
+    <time_frame>Up to Day 40</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from baseline on NT proBNP</measure>
+    <time_frame>Up to Day 40</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from baseline on procalcitonin level</measure>
+    <time_frame>Up to Day 40</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes from baseline on ferritin level</measure>
+    <time_frame>Up to Day 40</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ECG over the course of the study versus screening</measure>
+    <time_frame>Up to Day 40</time_frame>
+    <description>Changes in one or several of the usual ECG parameters compared to baseline or screening, i.e. sinusal rhythm, cardiac axis, QRS value, QT/QTc segment, Wave direction, and any abnormality.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>SARS-CoV Infection</condition>
+  <condition>Acute Respiratory Distress Syndrome</condition>
+  <condition>COVID-19</condition>
+  <condition>ARDS</condition>
+  <arm_group>
+    <arm_group_label>glenzocimab 1000 mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>glenzocimab</intervention_name>
+    <description>IV administration as a sterile product</description>
+    <arm_group_label>glenzocimab 1000 mg</arm_group_label>
+    <other_name>ACT017</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>IV administration</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Male or female hospitalized patients ≥ 18 years (i.e., at least 18 years old at the&#xD;
+             time of randomization), having given their written consent.&#xD;
+&#xD;
+          2. Having a positive RT-PCR test for COVID-19&#xD;
+&#xD;
+          3. Presenting with symptoms of COVID-19, including:&#xD;
+&#xD;
+               -  Cough OR&#xD;
+&#xD;
+               -  Shortness of breath or difficulty breathing OR at least 2 of the following&#xD;
+&#xD;
+               -  Fever, defined as any body temperature 38°C&#xD;
+&#xD;
+               -  Chills&#xD;
+&#xD;
+               -  Repeated shaking with chills&#xD;
+&#xD;
+               -  Muscle pain&#xD;
+&#xD;
+               -  Headache&#xD;
+&#xD;
+               -  Sore throat&#xD;
+&#xD;
+               -  New loss of taste or smell&#xD;
+&#xD;
+          4. Presenting with signs of moderate but progressive pulmonary disease with:&#xD;
+&#xD;
+               -  respiratory symptoms (cough, dyspnea, etc.),&#xD;
+&#xD;
+               -  uni- or bilateral ground-glass opacities, or pulmonary infiltrates on chest&#xD;
+                  radiograph and/or CT scan,&#xD;
+&#xD;
+               -  clinical and biological evidence of progression over the past 48hrs.&#xD;
+&#xD;
+          5. Effective birth control that should have been in place for at least 2 months in&#xD;
+             non-menopausal women and 4 months for men after IMP administration. Birth control&#xD;
+             methods considered to be highly effective include:&#xD;
+&#xD;
+               -  combined (estrogen-progestogen) hormonal contraception associated with the&#xD;
+                  inhibition of ovulation: oral, intravaginal, transdermal,&#xD;
+&#xD;
+               -  progesterone-only hormonal contraception associated with the inhibition of&#xD;
+                  ovulation: oral, injectable, implantable,&#xD;
+&#xD;
+               -  intrauterine device,&#xD;
+&#xD;
+               -  intrauterine hormone-releasing system,&#xD;
+&#xD;
+               -  bilateral tubal occlusion,&#xD;
+&#xD;
+               -  vasectomized partner.&#xD;
+&#xD;
+          6. Women of child-bearing potential must have negative results of a urinary or plasma&#xD;
+             pregnancy test (serum HCG).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Patients requiring immediate admission to the ICU,&#xD;
+&#xD;
+          2. Patients requiring invasive mechanical ventilation,&#xD;
+&#xD;
+          3. ARDS of another origin,&#xD;
+&#xD;
+          4. Concomitant pulmonary infection (pneumoniae) with another agent, notably bacterial or&#xD;
+             fungal,&#xD;
+&#xD;
+          5. Patients under immunosuppressive agents,&#xD;
+&#xD;
+          6. Childbirth within &lt;10 days,&#xD;
+&#xD;
+          7. Pregnancy or breastfeeding,&#xD;
+&#xD;
+          8. Prior cardiopulmonary resuscitation &lt;10 days,&#xD;
+&#xD;
+          9. Allergy or hypersensitivity to drugs of the same class&#xD;
+&#xD;
+         10. Participation in another interventional clinical trial within 30 days prior to the&#xD;
+             inclusion.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Andrea Comenducci, MD</last_name>
+    <phone>+33631003997</phone>
+    <email>andrea.comenducci@acticor-biotech.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Yannick Pletan, MD</last_name>
+    <phone>+33685946370</phone>
+    <email>yannick.pletan@acticor-biotech.com</email>
+  </overall_contact_backup>
+  <reference>
+    <citation>Renaud L, Lebozec K, Voors-Pette C, Dogterom P, Billiald P, Jandrot Perrus M, Pletan Y, Machacek M. Population Pharmacokinetic/Pharmacodynamic Modeling of Glenzocimab (ACT017) a Glycoprotein VI Inhibitor of Collagen-Induced Platelet Aggregation. J Clin Pharmacol. 2020 Sep;60(9):1198-1208. doi: 10.1002/jcph.1616. Epub 2020 Jun 4.</citation>
+    <PMID>32500636</PMID>
+  </reference>
+  <reference>
+    <citation>Voors-Pette C, Lebozec K, Dogterom P, Jullien L, Billiald P, Ferlan P, Renaud L, Favre-Bulle O, Avenard G, Machacek M, Plétan Y, Jandrot-Perrus M. Safety and Tolerability, Pharmacokinetics, and Pharmacodynamics of ACT017, an Antiplatelet GPVI (Glycoprotein VI) Fab. Arterioscler Thromb Vasc Biol. 2019 May;39(5):956-964. doi: 10.1161/ATVBAHA.118.312314.</citation>
+    <PMID>31017822</PMID>
+  </reference>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>November 30, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 7, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 9, 2020</study_first_posted>
+  <last_update_submitted>December 7, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 7, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 9, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Covid 19</keyword>
+  <keyword>ARDS</keyword>
+  <keyword>SARS-Cov</keyword>
+  <keyword>glenzocimab</keyword>
+  <keyword>Acute Respiratory Distress Syndrome</keyword>
+  <keyword>ACT017</keyword>
+  <keyword>glycoprotein VI</keyword>
+  <keyword>antiplatelet agent</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Newborn</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Adult</mesh_term>
+    <mesh_term>Acute Lung Injury</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

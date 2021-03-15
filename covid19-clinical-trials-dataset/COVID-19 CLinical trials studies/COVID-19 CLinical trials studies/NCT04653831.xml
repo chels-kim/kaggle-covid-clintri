@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2603">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04653831</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SCRC20007</org_study_id>
+    <nct_id>NCT04653831</nct_id>
+  </id_info>
+  <brief_title>Treatment With Pirfenidone for COVID-19 Related Severe ARDS</brief_title>
+  <official_title>Treatment With Pirfenidone for COVID-19 Related Severe ARDS An Open Label Pilot Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Soroka University Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Roche Pharma AG</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Soroka University Medical Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A randomized, open label, two arm, pilot trial of Pirfenidone 2,403 mg administered per&#xD;
+      nasogastric tube or orally as 801mg TID for 4 weeks in addition to Standard of Care (SoC),&#xD;
+      compared to SoC alone, in a population of COVID-19 induced severe ARDS. Patients will be&#xD;
+      randomized according to 1:1 ratio to one of the trial arms: Pirfenidone (intervention arm) or&#xD;
+      SoC (control arm).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The objective of the trial is to evaluate the safety and efficacy of treatment with&#xD;
+      Pirfenidone vs SoC in COVID-19 induced severe Acute Respiratory Distress Syndrome (ARDS)&#xD;
+      requiring mechanical ventilation.&#xD;
+&#xD;
+      Following initial diagnosis of COVID-19, severe ARDS patient will be admitted to a dedicated&#xD;
+      intensive care unit (ICU) at Soroka University Medical Center (Day 0). Upon admission,&#xD;
+      patients will be randomized according to 1:1 ratio to one of the trial arms and receive&#xD;
+      either Pirfenidone 2,403mg administered through nasogastric tube as 801mg TID (intervention&#xD;
+      arm) plus SoC or only SoC treatment (control arm).&#xD;
+&#xD;
+      Patients' vital signs (temperature, blood pressure, pulse rate per minute, breath rate per&#xD;
+      minute, oxygen saturation) urine output, ventilation settings, and respiratory parameters&#xD;
+      will be monitored according to SoC. Symptom will be captured daily from patients as well as&#xD;
+      adverse events (AEs) assessment and recording of the need for any supportive care during the&#xD;
+      period of ICU admission.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 8, 2020</start_date>
+  <completion_date type="Anticipated">December 2021</completion_date>
+  <primary_completion_date type="Anticipated">November 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Following initial diagnosis of COVID-19, severe ARDS patient will be admitted to a dedicated intensive care unit (ICU) at Soroka University Medical Center (Day 0). Upon admission, patients will be randomized according to 1:1 ratio to one of the trial arms and receive either Pirfenidone 2,403mg administered through nasogastric tube as 801mg TID (intervention arm) plus SoC or SoC alone (control arm).</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Ventilation free days to day 28 (VFD28)</measure>
+    <time_frame>Up to 28 days from admission to ICU</time_frame>
+    <description>Measured in number of days</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Severe adverse events (SAEs) rate</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>Number of SAEs divided to number of patients</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>Includes all cause mortality, mortality in the ICU, 28 days mortality, 60 days mortality, in-hospital mortality, and ARDS related mortality. Measured in number of days.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ICU length of stay</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>Measured in number of days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lung compliance</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>Part of mechanical ventilation parameters, calculated as tidal volume divided by the difference between plateau pressure and PEEP. Daily average will be assessed until extubation. Units are mL/cmH2O.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tidal Volume</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>Part of mechanical ventilation parameters, it is the lung volume representing the volume of air displaced between normal inhalation and exhalation. Measured continuously by the ventilator, calculated and represented as area under the curve after omitting extreme values &lt;5 and &gt;95 percentiles. Measured in mL.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Positive End Expiratory Pressure (PEEP)</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>Part of mechanical ventilation parameters, it is the pressure in the lungs above atmospheric pressure that exists at the end of expiration. It is set by the treating physicians according to the clinical situation of the patient, and will be documented daily until extubation. Measured in cmH2O.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Driving Pressure</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>Part of mechanical ventilation parameters, it is the difference between plateau pressure and PEEP. Measured continuously by the ventilator, calculated and represented as area under the curve after omitting extreme values &lt;5 and &gt;95 percentiles.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of life questionnaire</measure>
+    <time_frame>on admission and 6 months after discharge</time_frame>
+    <description>Assessed by St George Respiratory Questionnaire (SGRQ). Scoring range from 0 to 100, with higher scored indicating more limitation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Vital Capacity (VC)</measure>
+    <time_frame>On admission (if possible) and 6 months after discharge</time_frame>
+    <description>Part of pulmonary function tests, it is the maximum amount of air a person can expel from the lungs after a maximum inhalation. Measured on a spirometer in mL.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Forced Vital Capacity (FVC)</measure>
+    <time_frame>On admission (if possible) and 6 months after discharge</time_frame>
+    <description>Part of pulmonary function tests, it is the vital capacity that results from a maximally forced expiratory effort. Measured on a spirometer in mL.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Forced Expiratory Volume at first second (FEV1)</measure>
+    <time_frame>On admission (if possible) and 6 months after discharge</time_frame>
+    <description>Part of pulmonary function tests, it is the volume of air exhaled at the end of the first second of forced expiration. Measured on a spirometer in mL.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Diffusing Capacity for Carbon Monoxide (DLCO)</measure>
+    <time_frame>On admission (if possible) and 6 months after discharge</time_frame>
+    <description>Part of pulmonary function tests, it is the extent to which oxygen passes from the air sacs of the lungs into the blood. Measured on a spirometer in mL/min/kPa.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>6 minutes walking test</measure>
+    <time_frame>6 months after discharge from hospital</time_frame>
+    <description>The distance covered over a time of 6 minutes, measured in meters.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Covid19</condition>
+  <condition>ARDS</condition>
+  <arm_group>
+    <arm_group_label>Standard of Care - Control</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Standard of care (Soc) according to current guidelines and the discretion of treating physician.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Pirfenidone Treatment</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>In addition to SoC, Pirfenidone 2,403 mg administered orally or per nasogastric tube as 801mg TID, for 4 weeks.&#xD;
+Pirfenidone dose will be 2,403mg daily, from day one of admission to the ICU, titrated over 3 days:&#xD;
+Day 1 - 801mg x 1/d (801mg) Day 2 - 801mg x 2/d (1,602 mg) Day 3 - 801mg x 3/d (2,403 mg) Feeding and medication delivery will be upon the discretion of the treating physician according to tolerability. Powdered 801mg tablets will be administered through the nasogastric tube: Each tablet will be crushed and dissolved in 20cc of water. The nasogastric tube will be flushed afterwards to avoid obstruction..&#xD;
+If the patient is able to swallow and the nasogastric tube is removed, pirfenidone will continue to be delivered orally.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pirfenidone</intervention_name>
+    <description>Treatment with Pirfenidone as mentioned in the experimental arm description.</description>
+    <arm_group_label>Pirfenidone Treatment</arm_group_label>
+    <other_name>Intervention Arm</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Standard of care</intervention_name>
+    <description>Treatment with SoC as mentioned in the control arm description.</description>
+    <arm_group_label>Standard of Care - Control</arm_group_label>
+    <other_name>Control Arm</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Men and women between the ages 18-80 years&#xD;
+&#xD;
+          -  Diagnosis of COVID19 with severe ARDS (PaO2/FIO2 &lt;150mmHg)&#xD;
+&#xD;
+          -  Admission to the ICU and in need of mechanical ventilation&#xD;
+&#xD;
+          -  Able to give informed consent according to local regulations. If the patient is unable&#xD;
+             to give written informed consent, the form will be read to them and their verbal&#xD;
+             consent will be documented. If the patient is sedated, an impartial ICU physician will&#xD;
+             approve eligibility.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Previous use of nintedanib or pirfenidone&#xD;
+&#xD;
+          -  Administration of fluvoxamine 7 days prior to admission to ICU&#xD;
+&#xD;
+          -  Severe hepatic impairment (liver enzymes and bilirubin&gt;2 of normal upper limit, at day&#xD;
+             0) or end stage liver disease&#xD;
+&#xD;
+          -  Severe renal impairment (CrCl &lt;30 ml/min) or end stage renal disease requiring&#xD;
+             dialysis&#xD;
+&#xD;
+          -  Pregnancy&#xD;
+&#xD;
+          -  Participation in any other clinical trial 30 days prior to enrollment&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ori Galante, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>ICU physician in SMC</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ori Galante, MD</last_name>
+    <phone>+972507577582</phone>
+    <email>ori.galante@gmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Yasmeen Abu Fraiha, MD</last_name>
+    <phone>+972505607045</phone>
+    <email>yasmeenaf23@gmail.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Soroka Medical Center</name>
+      <address>
+        <city>Be'er Sheva</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yasmeen Abu Fraiha, MD</last_name>
+      <email>yasmeenaf23@gmail.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Israel</country>
+  </location_countries>
+  <link>
+    <url>https://clinicaltrials.gov/ct2/show/NCT04282902</url>
+    <description>A Study to Evaluate the Efficacy and Safety of Pirfenidone With Novel Coronavirus Infection</description>
+  </link>
+  <link>
+    <url>http://www.healthstatus.sgul.ac.uk/SGRQ_download/Original%20English%20version.pdf</url>
+    <description>St. George's respiratory questionnaire original english version</description>
+  </link>
+  <reference>
+    <citation>Koh Y. Update in acute respiratory distress syndrome. J Intensive Care. 2014 Jan 3;2(1):2. doi: 10.1186/2052-0492-2-2. eCollection 2014. Review.</citation>
+    <PMID>25520820</PMID>
+  </reference>
+  <reference>
+    <citation>Bernard GR, Artigas A, Brigham KL, Carlet J, Falke K, Hudson L, Lamy M, Legall JR, Morris A, Spragg R. The American-European Consensus Conference on ARDS. Definitions, mechanisms, relevant outcomes, and clinical trial coordination. Am J Respir Crit Care Med. 1994 Mar;149(3 Pt 1):818-24. Review.</citation>
+    <PMID>7509706</PMID>
+  </reference>
+  <reference>
+    <citation>ARDS Definition Task Force, Ranieri VM, Rubenfeld GD, Thompson BT, Ferguson ND, Caldwell E, Fan E, Camporota L, Slutsky AS. Acute respiratory distress syndrome: the Berlin Definition. JAMA. 2012 Jun 20;307(23):2526-33. doi: 10.1001/jama.2012.5669.</citation>
+    <PMID>22797452</PMID>
+  </reference>
+  <reference>
+    <citation>Combes A, Hajage D, Capellier G, Demoule A, Lavoué S, Guervilly C, Da Silva D, Zafrani L, Tirot P, Veber B, Maury E, Levy B, Cohen Y, Richard C, Kalfon P, Bouadma L, Mehdaoui H, Beduneau G, Lebreton G, Brochard L, Ferguson ND, Fan E, Slutsky AS, Brodie D, Mercat A; EOLIA Trial Group, REVA, and ECMONet. Extracorporeal Membrane Oxygenation for Severe Acute Respiratory Distress Syndrome. N Engl J Med. 2018 May 24;378(21):1965-1975. doi: 10.1056/NEJMoa1800385.</citation>
+    <PMID>29791822</PMID>
+  </reference>
+  <reference>
+    <citation>Meduri GU, Headley S, Kohler G, Stentz F, Tolley E, Umberger R, Leeper K. Persistent elevation of inflammatory cytokines predicts a poor outcome in ARDS. Plasma IL-1 beta and IL-6 levels are consistent and efficient predictors of outcome over time. Chest. 1995 Apr;107(4):1062-73.</citation>
+    <PMID>7705118</PMID>
+  </reference>
+  <reference>
+    <citation>Papazian L, Doddoli C, Chetaille B, Gernez Y, Thirion X, Roch A, Donati Y, Bonnety M, Zandotti C, Thomas P. A contributive result of open-lung biopsy improves survival in acute respiratory distress syndrome patients. Crit Care Med. 2007 Mar;35(3):755-62.</citation>
+    <PMID>17255856</PMID>
+  </reference>
+  <reference>
+    <citation>Keshari RS, Silasi-Mansat R, Zhu H, Popescu NI, Peer G, Chaaban H, Lambris JD, Polf H, Lupu C, Kinasewitz G, Lupu F. Acute lung injury and fibrosis in a baboon model of Escherichia coli sepsis. Am J Respir Cell Mol Biol. 2014 Feb;50(2):439-50. doi: 10.1165/rcmb.2013-0219OC.</citation>
+    <PMID>24066737</PMID>
+  </reference>
+  <reference>
+    <citation>Burnham EL, Janssen WJ, Riches DW, Moss M, Downey GP. The fibroproliferative response in acute respiratory distress syndrome: mechanisms and clinical significance. Eur Respir J. 2014 Jan;43(1):276-85. doi: 10.1183/09031936.00196412. Epub 2013 Mar 21. Review.</citation>
+    <PMID>23520315</PMID>
+  </reference>
+  <reference>
+    <citation>Wu Z, McGoogan JM. Characteristics of and Important Lessons From the Coronavirus Disease 2019 (COVID-19) Outbreak in China: Summary of a Report of 72 314 Cases From the Chinese Center for Disease Control and Prevention. JAMA. 2020 Apr 7;323(13):1239-1242. doi: 10.1001/jama.2020.2648.</citation>
+    <PMID>32091533</PMID>
+  </reference>
+  <reference>
+    <citation>Yang X, Yu Y, Xu J, Shu H, Xia J, Liu H, Wu Y, Zhang L, Yu Z, Fang M, Yu T, Wang Y, Pan S, Zou X, Yuan S, Shang Y. Clinical course and outcomes of critically ill patients with SARS-CoV-2 pneumonia in Wuhan, China: a single-centered, retrospective, observational study. Lancet Respir Med. 2020 May;8(5):475-481. doi: 10.1016/S2213-2600(20)30079-5. Epub 2020 Feb 24. Erratum in: Lancet Respir Med. 2020 Apr;8(4):e26.</citation>
+    <PMID>32105632</PMID>
+  </reference>
+  <reference>
+    <citation>Ichikado K, Muranaka H, Gushima Y, Kotani T, Nader HM, Fujimoto K, Johkoh T, Iwamoto N, Kawamura K, Nagano J, Fukuda K, Hirata N, Yoshinaga T, Ichiyasu H, Tsumura S, Kohrogi H, Kawaguchi A, Yoshioka M, Sakuma T, Suga M. Fibroproliferative changes on high-resolution CT in the acute respiratory distress syndrome predict mortality and ventilator dependency: a prospective observational cohort study. BMJ Open. 2012 Mar 1;2(2):e000545. doi: 10.1136/bmjopen-2011-000545. Print 2012.</citation>
+    <PMID>22382117</PMID>
+  </reference>
+  <reference>
+    <citation>King TE Jr, Bradford WZ, Castro-Bernardini S, Fagan EA, Glaspole I, Glassberg MK, Gorina E, Hopkins PM, Kardatzke D, Lancaster L, Lederer DJ, Nathan SD, Pereira CA, Sahn SA, Sussman R, Swigris JJ, Noble PW; ASCEND Study Group. A phase 3 trial of pirfenidone in patients with idiopathic pulmonary fibrosis. N Engl J Med. 2014 May 29;370(22):2083-92. doi: 10.1056/NEJMoa1402582. Epub 2014 May 18. Erratum in: N Engl J Med. 2014 Sep 18;371(12):1172.</citation>
+    <PMID>24836312</PMID>
+  </reference>
+  <reference>
+    <citation>Conte E, Gili E, Fagone E, Fruciano M, Iemmolo M, Vancheri C. Effect of pirfenidone on proliferation, TGF-β-induced myofibroblast differentiation and fibrogenic activity of primary human lung fibroblasts. Eur J Pharm Sci. 2014 Jul 16;58:13-9. doi: 10.1016/j.ejps.2014.02.014. Epub 2014 Mar 12.</citation>
+    <PMID>24613900</PMID>
+  </reference>
+  <reference>
+    <citation>Schaefer CJ, Ruhrmund DW, Pan L, Seiwert SD, Kossen K. Antifibrotic activities of pirfenidone in animal models. Eur Respir Rev. 2011 Jun;20(120):85-97. doi: 10.1183/09059180.00001111. Review.</citation>
+    <PMID>21632796</PMID>
+  </reference>
+  <reference>
+    <citation>Liu Q, Lv H, Wen Z, Ci X, Peng L. Isoliquiritigenin Activates Nuclear Factor Erythroid-2 Related Factor 2 to Suppress the NOD-Like Receptor Protein 3 Inflammasome and Inhibits the NF-κB Pathway in Macrophages and in Acute Lung Injury. Front Immunol. 2017 Nov 9;8:1518. doi: 10.3389/fimmu.2017.01518. eCollection 2017.</citation>
+    <PMID>29163554</PMID>
+  </reference>
+  <reference>
+    <citation>Liu Y, Lu F, Kang L, Wang Z, Wang Y. Pirfenidone attenuates bleomycin-induced pulmonary fibrosis in mice by regulating Nrf2/Bach1 equilibrium. BMC Pulm Med. 2017 Apr 18;17(1):63. doi: 10.1186/s12890-017-0405-7.</citation>
+    <PMID>28420366</PMID>
+  </reference>
+  <reference>
+    <citation>Li Y, Li H, Liu S, Pan P, Su X, Tan H, Wu D, Zhang L, Song C, Dai M, Li Q, Mao Z, Long Y, Hu Y, Hu C. Pirfenidone ameliorates lipopolysaccharide-induced pulmonary inflammation and fibrosis by blocking NLRP3 inflammasome activation. Mol Immunol. 2018 Jul;99:134-144. doi: 10.1016/j.molimm.2018.05.003. Epub 2018 May 26.</citation>
+    <PMID>29783158</PMID>
+  </reference>
+  <reference>
+    <citation>Chen HC, et al pirfenidone can enhance the patients' recovery from fibrotic phase of ARDS: a case report. https://doi.org/10.1016/j.chest.2019.02.130</citation>
+  </reference>
+  <reference>
+    <citation>Saha A, Vaidya PJ, Chavhan VB, Achlerkar A, Leuppi JD, Chhajed PN. Combined pirfenidone, azithromycin and prednisolone in post-H1N1 ARDS pulmonary fibrosis. Sarcoidosis Vasc Diffuse Lung Dis. 2018;35(1):85-90. doi: 10.36141/svdld.v35i1.6393. Epub 2018 Apr 28.</citation>
+    <PMID>32476885</PMID>
+  </reference>
+  <reference>
+    <citation>Rhodes A, Evans LE, Alhazzani W, Levy MM, Antonelli M, Ferrer R, Kumar A, Sevransky JE, Sprung CL, Nunnally ME, Rochwerg B, Rubenfeld GD, Angus DC, Annane D, Beale RJ, Bellinghan GJ, Bernard GR, Chiche JD, Coopersmith C, De Backer DP, French CJ, Fujishima S, Gerlach H, Hidalgo JL, Hollenberg SM, Jones AE, Karnad DR, Kleinpell RM, Koh Y, Lisboa TC, Machado FR, Marini JJ, Marshall JC, Mazuski JE, McIntyre LA, McLean AS, Mehta S, Moreno RP, Myburgh J, Navalesi P, Nishida O, Osborn TM, Perner A, Plunkett CM, Ranieri M, Schorr CA, Seckel MA, Seymour CW, Shieh L, Shukri KA, Simpson SQ, Singer M, Thompson BT, Townsend SR, Van der Poll T, Vincent JL, Wiersinga WJ, Zimmerman JL, Dellinger RP. Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock: 2016. Intensive Care Med. 2017 Mar;43(3):304-377. doi: 10.1007/s00134-017-4683-6. Epub 2017 Jan 18.</citation>
+    <PMID>28101605</PMID>
+  </reference>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>October 27, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 3, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 4, 2020</study_first_posted>
+  <last_update_submitted>December 3, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 3, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 4, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Soroka University Medical Center</investigator_affiliation>
+    <investigator_full_name>Yasmeen Abu Fraiha</investigator_full_name>
+    <investigator_title>Internal Medicine resident, MD</investigator_title>
+  </responsible_party>
+  <keyword>Covid-19</keyword>
+  <keyword>ARDS</keyword>
+  <keyword>Pirfenidone</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pirfenidone</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

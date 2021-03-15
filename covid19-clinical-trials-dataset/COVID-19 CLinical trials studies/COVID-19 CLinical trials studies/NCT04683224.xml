@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4113">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04683224</url>
+  </required_header>
+  <id_info>
+    <org_study_id>UB-612-301</org_study_id>
+    <nct_id>NCT04683224</nct_id>
+  </id_info>
+  <brief_title>A Study to Evaluate the Safety, Immunogenicity, and Efficacy of UB-612 COVID-19 Vaccine</brief_title>
+  <official_title>A Phase 2/3 Randomized, Multicenter, Double-Blind, Placebo Controlled, Dose-Response Study to Evaluate the Safety, Immunogenicity, and Efficacy of UB-612 Vaccine in Adults</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>COVAXX</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Diagnósticos da América S/A (DASA)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>COVAXX</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a Phase 2/3, randomized, multicenter, double-blind, dose-response study to evaluate&#xD;
+      the safety, immunogenicity, and efficacy of UB 612 in 2 age groups, adults 18 to 59 and ≥60&#xD;
+      years of age with or without comorbidities.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This Phase 2/3 trial will enroll a total of 7320 male and female subjects randomized in a&#xD;
+      double-blind manner to receive either UB-612 or placebo. Assignment will be stratified by age&#xD;
+      (18 to 59 years and ≥60 years) and by presence/absence of comorbidities.&#xD;
+&#xD;
+      All subjects will receive 2 doses of the study vaccine, separated by 28 days, as an&#xD;
+      intramuscular (IM) injection.&#xD;
+&#xD;
+      Phase 2 and Phase 3 will start simultaneously; Phase 2 will enroll all Strata #1 to #4; Phase&#xD;
+      3 will enroll Stratum #1 until the Data and Safety Monitoring Board (DSMB) has reviewed Phase&#xD;
+      2 data through Day 43 and endorsed enrolment of Strata #2 to #4. All subjects in Phase 2 and&#xD;
+      Phase 3 will be followed for safety and efficacy.&#xD;
+&#xD;
+      This Phase 2/3 study also contains a Safety and Immunogenicity Cohort (N=1300) consisting of&#xD;
+      1000 SARS-CoV-2 seronegative subjects (320 subjects enrolled in Phase 2 and 680 subjects&#xD;
+      enrolled in Phase 3) and 300 SARS-CoV-2 seropositive subjects enrolled in Phase 3.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 1, 2021</start_date>
+  <completion_date type="Anticipated">March 22, 2023</completion_date>
+  <primary_completion_date type="Anticipated">March 22, 2023</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The incidence of local reactions, solicited systemic events, AEs, MAAEs, SAEs and AESIs</measure>
+    <time_frame>Day 1 to 24 months</time_frame>
+    <description>Safety and Tolerability</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in safety chemistry blood lab values for assessment of risk in Phase 3</measure>
+    <time_frame>Phase 2 -Day 1 to Day 36</time_frame>
+    <description>Percentage of subjects with changes in lab values at different time points</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in safety hematology blood lab values for assessment of risk in Phase 3</measure>
+    <time_frame>Phase 2 -Day 1 to Day 36</time_frame>
+    <description>Percentage of subjects with changes in lab values at different time points</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Prevention of SARS-CoV-2 infection in adults</measure>
+    <time_frame>Day 29 to 24 Month</time_frame>
+    <description>SARS-CoV-2 incidence based on qPCR nasopharyngeal swab</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change after second dose through the end of study in antibody titers</measure>
+    <time_frame>Month 1, 6, 12 and 24 following Dose 2</time_frame>
+    <description>Immunogenicity of UB-612 vaccine</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Prevention of COVID-19 in adults</measure>
+    <time_frame>Day 42 to 24 Month</time_frame>
+    <description>COVID-19 incidence confirmed by qPCR nasopharyngeal swab</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Reduction in severity of COVID-19 in adults</measure>
+    <time_frame>Day 42 to 24 Month</time_frame>
+    <description>Efficacy of UB-612 vaccine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prevention of COVID-19 death in adults</measure>
+    <time_frame>Day 42 to 24 Month</time_frame>
+    <description>Efficacy of UB-612 vaccine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in SARS CoV-2 shedding</measure>
+    <time_frame>Day 42 to 24 Month</time_frame>
+    <description>Measured by comparing the SARS-CoV-2 shedding in vaccine and placebo subjects</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Immunogenicity of UB-612 vaccine in young and older adults, with or without comorbidities, and no serological or virological evidence of past infection with SARS-CoV-2</measure>
+    <time_frame>baseline, 7 days, 6, 12, and 24 months after Dose 2</time_frame>
+    <description>Number of cytokine secreting spots</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Change in SARS CoV-2 infection</measure>
+    <time_frame>Month 1, 6, 12 and 24 following Dose 2</time_frame>
+    <description>Efficacy of UB-612 vaccine</description>
+  </other_outcome>
+  <number_of_arms>8</number_of_arms>
+  <enrollment type="Anticipated">7320</enrollment>
+  <condition>Covid-19</condition>
+  <condition>SARS-CoV-2</condition>
+  <condition>Coronavirus</condition>
+  <arm_group>
+    <arm_group_label>Placebo Stratum 1: 18 to 59 age group without comorbidities</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo by intramuscular injection at Day 1 and 29</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>UB-612 Stratum 1: 18 to 59 age group without comorbidities</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>UB-612 by intramuscular injection at Day 1 and 29</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo Stratum 2: ≥60 age group without comorbidities</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo by intramuscular injection at Day 1 and 29</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>UB-612 Stratum 2: ≥60 age group without comorbidities</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>UB-612 by intramuscular injection at Day 1 and 29</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo Stratum 3: 18 to 59 age group with comorbidities</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo by intramuscular injection at Day 1 and 29</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>UB-612 Stratum 3: 18 to 59 age group with comorbidities</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>UB-612 by intramuscular injection at Day 1 and 29</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo Stratum 4: ≥60 age group with comorbidities</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo by intramuscular injection at Day 1 and 29</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>UB-612 Stratum 4: ≥60 age group with comorbidities</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>UB-612 by intramuscular injection at Day 1 and 29</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>UB-612</intervention_name>
+    <description>100 µg [microgram] of an experimental study vaccine</description>
+    <arm_group_label>UB-612 Stratum 1: 18 to 59 age group without comorbidities</arm_group_label>
+    <arm_group_label>UB-612 Stratum 2: ≥60 age group without comorbidities</arm_group_label>
+    <arm_group_label>UB-612 Stratum 3: 18 to 59 age group with comorbidities</arm_group_label>
+    <arm_group_label>UB-612 Stratum 4: ≥60 age group with comorbidities</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo is a 0.9% sodium chloride (normal saline) injection</description>
+    <arm_group_label>Placebo Stratum 1: 18 to 59 age group without comorbidities</arm_group_label>
+    <arm_group_label>Placebo Stratum 2: ≥60 age group without comorbidities</arm_group_label>
+    <arm_group_label>Placebo Stratum 3: 18 to 59 age group with comorbidities</arm_group_label>
+    <arm_group_label>Placebo Stratum 4: ≥60 age group with comorbidities</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Understands and agrees to comply with the study procedures and provides written&#xD;
+             informed consent.&#xD;
+&#xD;
+          2. Passes written comprehension test outlining study procedures.&#xD;
+&#xD;
+          3. Male or female, aged 18 to 59 years or aged &gt;60 years at randomization.&#xD;
+&#xD;
+          4. Canadian Frailty Scale score of 0 to 6 (see Appendix 1).&#xD;
+&#xD;
+          5. Women of childbearing potential (WOCBP) and men must agree to practice medically&#xD;
+             effective contraception from 28 days before the first vaccination until 1 month after&#xD;
+             the last vaccination (i.e., a 3-month period). The acceptable effective contraception&#xD;
+             methods include the following:&#xD;
+&#xD;
+               1. Barrier method (such as condoms, diaphragm, or cervical cap) used in conjunction&#xD;
+                  with spermicide&#xD;
+&#xD;
+               2. Intrauterine device&#xD;
+&#xD;
+               3. Prescription hormonal contraceptive taken or administered via oral (pill),&#xD;
+                  transdermal (patch), subdermal, or IM route&#xD;
+&#xD;
+               4. Sterilization of a female participant's monogamous male partner prior to entry&#xD;
+                  into the study&#xD;
+&#xD;
+               5. Abstinence&#xD;
+&#xD;
+          6. For WOCBP, serum pregnancy test must be negative at screening; urine pregnancy test&#xD;
+             must be negative within 24 hours before vaccination.&#xD;
+&#xD;
+          7. Lactating female participants must agree not to breastfeed or store breast milk for 3&#xD;
+             days after each vaccination. A substituted formula is recommended during these&#xD;
+             periods.&#xD;
+&#xD;
+          8. Negative serum antibodies (IgG) against SARS-CoV-2 N protein at screening except for&#xD;
+             300 subjects in the seropositive cohort (Phase 3 only).&#xD;
+&#xD;
+          9. Negative result for RT-PCR screening of saliva or nasal mid-turbinate sample for&#xD;
+             SARS-CoV-2 within 2 days before vaccination.&#xD;
+&#xD;
+         10. At high risk of SARS-CoV-2 exposure due to occupation (e.g., health care providers,&#xD;
+             first responders, service industry workers, etc.), residence (multi-generational home,&#xD;
+             long-term care facilities, etc.), or environment with high incidence (e.g., public&#xD;
+             transportation), including geographic area.&#xD;
+&#xD;
+         11. Judged to be healthy or stable with pre-existing medical condition that did not&#xD;
+             require significant change in medication or hospitalization in 3 months before&#xD;
+             enrollment or who, in the judgement of the investigator are unlikely to require a&#xD;
+             significant change in therapy or hospitalization for worsening disease in the 3 months&#xD;
+             after enrollment.&#xD;
+&#xD;
+         12. Must be able to read, understand, and complete questionnaires in the electronic&#xD;
+             clinical outcome assessment (eCOA) system.&#xD;
+&#xD;
+         13. Plans to reside within study area for the duration of the study.&#xD;
+&#xD;
+         14. Able to comply with study procedures, in the opinion of the investigator.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Positive for SARS-CoV-2 shedding or self-reported history of prior infection with SARS&#xD;
+             CoV-2.&#xD;
+&#xD;
+          2. Seropositive for SARS-CoV-2, except for 300 subjects in the seropositive cohort in&#xD;
+             Phase 3 only.&#xD;
+&#xD;
+          3. Moderate or severe illness and/or fever &gt;100.4°F/38°C within 1 week before&#xD;
+             vaccination. Screening and/or study vaccination may be rescheduled at the discretion&#xD;
+             of the investigator.&#xD;
+&#xD;
+          4. Canadian Frailty Scale score of ≥7 (see Appendix 1).&#xD;
+&#xD;
+          5. History of severe local or systemic reactions to any vaccination or a history of&#xD;
+             severe allergic reactions.&#xD;
+&#xD;
+          6. Coronavirus vaccines: Previous receipt of SARS-CoV-2 vaccine or other investigational&#xD;
+             coronavirus vaccine (SARS-CoV, MERS-CoV) at any time.&#xD;
+&#xD;
+          7. Investigational non-coronavirus vaccines: Previous receipt of an investigational&#xD;
+             vaccine (non-coronavirus) within 1 year before the planned administration of the first&#xD;
+             dose of study vaccine.&#xD;
+&#xD;
+          8. Licensed vaccines: Participant received or plans to receive: (a) licensed live&#xD;
+             attenuated vaccines or licensed adjuvanted (non-aluminum compound) vaccine within 28&#xD;
+             days before or after planned administration of study vaccine, and (b) other licensed&#xD;
+             (not noted above) vaccines within 14 days before or after planned administration of&#xD;
+             study vaccine.&#xD;
+&#xD;
+          9. Immunosuppressive or immunodeficient state, autoimmune diseases, chronic kidney&#xD;
+             disease (with dialysis), asplenia, recurrent severe infections.&#xD;
+&#xD;
+         10. Individuals who receive treatment with immunosuppressive therapy, including cytotoxic&#xD;
+             agents or systemic corticosteroids, e.g., for cancer or an autoimmune disease, or&#xD;
+             planned receipt throughout the study.&#xD;
+&#xD;
+         11. Has received systemic immunosuppressants or immune-modifying drugs for &gt;14 days in&#xD;
+             total within 6 months prior to screening (for corticosteroids ≥20 mg/day of prednisone&#xD;
+             equivalent).&#xD;
+&#xD;
+         12. Has received systemic immunoglobulins or blood products within 3 months prior to the&#xD;
+             day of screening.&#xD;
+&#xD;
+         13. Has donated ≥450 mL of blood products within 28 days prior to screening.&#xD;
+&#xD;
+         14. Participant received an investigational drug (including investigational drugs for&#xD;
+             prophylaxis of COVID-19) or used an invasive investigational medical device within 30&#xD;
+             days. However, participants who received specific anti-SARS-CoV-2 monoclonal antibody&#xD;
+             products (e.g., REGN-COV2) at any time are permanently excluded, even if such product&#xD;
+             was given as part of a normal volunteer study.&#xD;
+&#xD;
+         15. Currently enrolled or plans to participate in another investigational study (drug,&#xD;
+             vaccine, or device) during this study.&#xD;
+&#xD;
+         16. Pregnant.&#xD;
+&#xD;
+         17. Lactating women who are unwilling or unable to withhold breastfeeding and storing milk&#xD;
+             for 3 days after each vaccination.&#xD;
+&#xD;
+         18. Bleeding disorder considered a contraindication to intramuscular injection or&#xD;
+             phlebotomy.&#xD;
+&#xD;
+         19. Tattoos or scars at the deltoid sites of IM injection that would obscure injection&#xD;
+             site reactions.&#xD;
+&#xD;
+         20. Behavioral, cognitive, or psychiatric disease that, in the opinion of the Principal&#xD;
+             Investigator or his or her representative physician, affects the participant's ability&#xD;
+             to understand and cooperate with all study protocol requirements.&#xD;
+&#xD;
+         21. Any alcohol or drug abuse over the 12 months prior to enrollment in the study that has&#xD;
+             caused medical, professional or family problems, indicated by clinical history.&#xD;
+&#xD;
+         22. Any other condition that, in the opinion of the Principal Investigator or his/her&#xD;
+             representative physician, could put the safety/rights of potential participants at&#xD;
+             risk or prevent them from complying with the study protocol.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Gray Heppner</last_name>
+    <role>Study Chair</role>
+    <affiliation>Chief Medical Officer</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Tracy Kemp</last_name>
+    <phone>508-292-9337</phone>
+    <email>tracy@covaxx.com</email>
+  </overall_contact>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>December 10, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 23, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 24, 2020</study_first_posted>
+  <last_update_submitted>December 23, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 23, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 24, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

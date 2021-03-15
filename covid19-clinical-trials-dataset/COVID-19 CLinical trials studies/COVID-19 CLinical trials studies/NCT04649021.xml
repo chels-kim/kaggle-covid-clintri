@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2685">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04649021</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BNT162-06</org_study_id>
+    <nct_id>NCT04649021</nct_id>
+  </id_info>
+  <brief_title>Safety and Immunogenicity of SARS-CoV-2 mRNA Vaccine (BNT162b2) in Chinese Healthy Population</brief_title>
+  <official_title>Safety and Immunogenicity of SARS-CoV-2 mRNA Vaccine (BNT162b2) in Chinese Healthy Population: A Phase II, Randomized, Placebo-controlled, Observer-blinded Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>BioNTech SE</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Shanghai Fosun Pharmaceutical Development Co, Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>BioNTech SE</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a phase II, randomized, placebo-controlled, observer-blinded study of the safety and&#xD;
+      immunogenicity of SARS-CoV-2 messenger RNA (mRNA) vaccine (BNT162b2) in Chinese healthy&#xD;
+      population. After randomization, the trial for each participant will last for approximately&#xD;
+      13 months. Screening period is 2 weeks prior to randomization (Day -14 to Day 0), and two&#xD;
+      doses of either SARS-CoV-2 vaccine (BNT162b2) or placebo will be given intramuscularly (IM)&#xD;
+      separated by 21 days.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 4, 2020</start_date>
+  <completion_date type="Anticipated">December 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>SARS-CoV-2 serum neutralizing titers - Seroconversion rates (SCR)</measure>
+    <time_frame>1 Month after Dose 2</time_frame>
+    <description>SCR of SARS-CoV-2 serum neutralizing titers at 1-month after dose 2. Seroconversion is defined as ≥4-fold rise from before vaccination to 1-month post dose 2.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The geometric mean titer (GMT) of SARS-CoV-2 serum neutralizing titers at 1 month after dose 2</measure>
+    <time_frame>1 Month after Dose 2</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV-2 serum neutralizing titers - SCR</measure>
+    <time_frame>1 Week, 6 and 12 Months after Dose 2</time_frame>
+    <description>Compared with baseline before Vaccination 1, SCR of SARS-CoV-2 serum neutralizing titers at 1 week, 6 and 12 months after dose 2.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV-2 serum neutralizing titers - GMT</measure>
+    <time_frame>1 Week, 6 and 12 Months after Dose 2</time_frame>
+    <description>GMT of SARS-CoV-2 serum neutralizing titers at 1 week, 6 and 12 months after dose 2.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV-2 anti-S1 immunoglobulin G (IgG) antibody level - SCR</measure>
+    <time_frame>1 Week, 1, 6 and 12 Months after Dose 2</time_frame>
+    <description>Compared with baseline before Vaccination 1, SCR of SARS-CoV-2 anti-S1 IgG antibody level at 1 week, 1, 6 and 12 months after dose 2.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV-2 anti-S1 IgG antibody level - GMT</measure>
+    <time_frame>1 Week, 1, 6 and 12 Months after Dose 2</time_frame>
+    <description>GMT of SARS-CoV-2 anti-S1 IgG antibody level at 1 week, 1, 6 and 12 months after dose 2.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV-2 serum neutralizing antibody level - Geometric mean fold rise (GMFR)</measure>
+    <time_frame>1 Week, 1, 6 and 12 Months after Dose 2</time_frame>
+    <description>Compared with baseline before Vaccination 1, the GMFR of SARS-CoV-2 serum neutralizing antibody titers at 1 week, 1, 6 and 12 months after dose 2.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV-2 anti-S1 IgG antibody level - GMFR</measure>
+    <time_frame>1 Week, 1, 6 and 12 Months after Dose 2</time_frame>
+    <description>Compared with baseline before Vaccination 1, GMFR of SARS-CoV-2 anti-S1 IgG antibody level at 1 week, 1, 6 and 12 months after dose 2.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of participants reporting local reactions</measure>
+    <time_frame>Within 7 Days and 14 Days after each vaccination</time_frame>
+    <description>Pain at the injection site, redness, and swelling as self-reported on diary cards.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of participants reporting systemic events</measure>
+    <time_frame>Within 7 Days and 14 Days after each vaccination</time_frame>
+    <description>Fever, fatigue, headache, chills, vomiting, diarrhea, new or worsened muscle pain, and new or worsened joint pain as self-reported on diary cards.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hematology laboratory assessments</measure>
+    <time_frame>Day 1 and 7 Days after Dose 1, before Dose 2, and 7 Days after Dose 2</time_frame>
+    <description>Percentage of participants with abnormal hematology laboratory values 1 and 7 days after dose 1, before dose 2, and 7 days after dose 2.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Chemistry laboratory assessments</measure>
+    <time_frame>Day 1 and 7 Days after Dose 1, before Dose 2, and 7 Days after Dose 2</time_frame>
+    <description>Percentage of participants with abnormal chemistry laboratory values 1 and 7 days after dose 1, before dose 2, and 7 days after dose 2.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hematology laboratory assessments</measure>
+    <time_frame>Day 1 and 7 Days after Dose 1; and before Dose 2 and 7 Days after Dose 2</time_frame>
+    <description>Percentage of participants with grading shifts in hematology laboratory assessments between baseline and 1 and 7 days after dose 1; and before dose 2 and 7 days after dose 2.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Chemistry laboratory assessments</measure>
+    <time_frame>Day 1 and 7 Days after Dose 1; and before Dose 2 and 7 Days after Dose 2</time_frame>
+    <description>Percentage of participants with grading shifts in chemistry laboratory assessments between baseline and 1 and 7 days after dose 1; and before dose 2 and 7 days after dose 2.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse events (AEs)</measure>
+    <time_frame>From Dose 1 through 1 Month after the last Dose</time_frame>
+    <description>AEs from dose 1 to 1 month after the last dose.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serious AEs (SAEs)</measure>
+    <time_frame>From Dose 1 through 6 Months after the last Dose</time_frame>
+    <description>SAEs from dose 1 to 6 months after the last dose.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">960</enrollment>
+  <condition>SARS-CoV-2</condition>
+  <arm_group>
+    <arm_group_label>BNT162b2 18-85 years of age</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo 18-85 years of age</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>BNT162b2</intervention_name>
+    <description>Intramuscular injection</description>
+    <arm_group_label>BNT162b2 18-85 years of age</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Intramuscular injection</description>
+    <arm_group_label>Placebo 18-85 years of age</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Male or female participants between the ages of 18 and 85 years, inclusive, at&#xD;
+             randomization.&#xD;
+&#xD;
+          -  Participants who are willing and able to comply with all scheduled visits, vaccination&#xD;
+             plan, laboratory tests, lifestyle considerations, and other study procedures.&#xD;
+&#xD;
+          -  Healthy participants who are determined by medical history, physical examination (if&#xD;
+             required), and clinical judgment of the investigator to be eligible for inclusion in&#xD;
+             the study. Note: Healthy participants with preexisting stable disease, defined as&#xD;
+             disease not requiring significant change in therapy or hospitalization for worsening&#xD;
+             disease during the 6 weeks before enrollment, can be included.&#xD;
+&#xD;
+          -  Capable of giving personal signed informed consent, which includes compliance with the&#xD;
+             requirements and restrictions listed in the informed consent form and this protocol.&#xD;
+&#xD;
+          -  SARS-CoV-2 antibody test screening is negative.&#xD;
+&#xD;
+          -  Negative SARS-CoV-2 test in throat swabs by reverse transcription-polymerase chain&#xD;
+             reaction (RT-PCR) (only for the first approximately 150 subjects).&#xD;
+&#xD;
+          -  Normal in chest computed tomography (CT) scans (no imaging features of coronavirus&#xD;
+             disease 2019 (COVID-19), only for the first approximately 150 subjects).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Other medical or psychiatric condition including recent (within the past year) or&#xD;
+             active suicidal ideation/behavior or laboratory abnormality that may increase the risk&#xD;
+             of study participation or, in the investigator's judgment, make the participant&#xD;
+             inappropriate for the study.&#xD;
+&#xD;
+          -  Known infection with human immunodeficiency virus (HIV), hepatitis C virus (HCV), or&#xD;
+             hepatitis B virus (HBV).&#xD;
+&#xD;
+          -  History of severe adverse reaction associated with a vaccine and/or severe allergic&#xD;
+             reaction (eg, anaphylaxis) to any component of the study intervention(s).&#xD;
+&#xD;
+          -  Receipt of medications intended to prevent COVID-19.&#xD;
+&#xD;
+          -  Immunocompromised individuals with known or suspected immunodeficiency, determined by&#xD;
+             history and/or laboratory/physical examination.&#xD;
+&#xD;
+          -  Bleeding diathesis or condition associated with prolonged bleeding that would, in the&#xD;
+             opinion of the investigator, contraindicate intramuscular injection.&#xD;
+&#xD;
+          -  Women who are pregnant or breastfeeding.&#xD;
+&#xD;
+          -  Previous vaccination with any coronavirus vaccine.&#xD;
+&#xD;
+          -  Individuals who receive treatment with immunosuppressive therapy, including cytotoxic&#xD;
+             agents or systemic corticosteroids, eg, for cancer or an autoimmune disease, or&#xD;
+             planned receipt throughout the study. If systemic corticosteroids have been&#xD;
+             administered short term (&lt;14 days) for treatment of an acute illness, participants&#xD;
+             should not be enrolled into the study until corticosteroid therapy has been&#xD;
+             discontinued for at least 28 days before study intervention administration.&#xD;
+             Inhaled/nebulized, intra-articular, intrabursal, or topical (skin or eyes)&#xD;
+             corticosteroids are permitted.&#xD;
+&#xD;
+          -  Receipt of blood/plasma products or immunoglobulin, from 60 days before study&#xD;
+             intervention administration or planned receipt throughout the study.&#xD;
+&#xD;
+          -  Participation in other studies involving study intervention within 28 days prior to&#xD;
+             study entry and/or during study participation.&#xD;
+&#xD;
+          -  Previous participation in other studies involving study intervention containing lipid&#xD;
+             nanoparticles.&#xD;
+&#xD;
+          -  Have had contact with confirmed COVID-19 patients or persons tested positive for&#xD;
+             SARS-CoV-2 within the 30 days prior to Screening Visit.&#xD;
+&#xD;
+          -  Travel or live in any country or region with a high SARS-CoV-2 infection risk (as&#xD;
+             defined at Screening Visit) within the 14 days prior to Screening Visit.&#xD;
+&#xD;
+          -  Symptoms of COVID-19, e.g., respiratory symptoms, fever, cough, shortness of breath&#xD;
+             and breathing difficulties.&#xD;
+&#xD;
+          -  Fever, defined as axillary temperature ≥37.3ºC or oral temperature ≥38ºC.&#xD;
+&#xD;
+          -  History of SARS, SARS-CoV-2 or middle east respiratory syndrome (MERS) infection.&#xD;
+             Suspected SARS patients should be screened for SARS antibodies.&#xD;
+&#xD;
+          -  Investigator site staff or Fosun employees directly involved in the conduct of the&#xD;
+             study, site staff otherwise supervised by the investigator, and their respective&#xD;
+             family members.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>BioNTech Responsible Person</last_name>
+    <role>Study Director</role>
+    <affiliation>BioNTech SE</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>BioNTech clinical trials patient information</last_name>
+    <phone>+49 6131 9084</phone>
+    <phone_ext>1919</phone_ext>
+    <email>patients@biontech.de</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>BioNTech clinical trial information desk</last_name>
+    <phone>+49 6131 9084</phone>
+    <phone_ext>0</phone_ext>
+    <email>info@biontech.de</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Jiangsu Provincial Center for Disease Control and Prevention</name>
+      <address>
+        <city>Jiangsu</city>
+        <zip>210009</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>November 17, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 30, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 2, 2020</study_first_posted>
+  <last_update_submitted>January 26, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 26, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 28, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Coronavirus Disease 2019</keyword>
+  <keyword>Coronavirus infection</keyword>
+  <keyword>Vaccine</keyword>
+  <keyword>Protection against COVID-19</keyword>
+  <keyword>Covid19</keyword>
+  <keyword>SARS (Severe Acute Respiratory Syndrome)</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

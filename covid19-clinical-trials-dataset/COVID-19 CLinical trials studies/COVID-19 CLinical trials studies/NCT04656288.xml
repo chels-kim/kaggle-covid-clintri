@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4749">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04656288</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1434-0010</org_study_id>
+    <secondary_id>2020-004757-79</secondary_id>
+    <nct_id>NCT04656288</nct_id>
+  </id_info>
+  <brief_title>A Study in Healthy Men to Test if Different Formulations of BI 764198 With or Without Food Influence the Amount of BI 764198 in the Blood</brief_title>
+  <official_title>A Two-part Phase I Trial Investigating the Relative Bioavailability and Food Effect of Different Oral Formulations of BI 764198 in Healthy Subjects (an Open-label, Single-dose, Randomised, Crossover Study)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Boehringer Ingelheim</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Boehringer Ingelheim</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      BI 764198 is intended to be used in patients hospitalized for COVID-19 at risk of respiratory&#xD;
+      complications. The present trial will investigate the relative bioavailability of BI 764198&#xD;
+      administered as capsules versus tablets in a first part, and the relative bioavailability and&#xD;
+      food effect of four oral formulations: the newly developed tablet formulation under fed and&#xD;
+      fasted conditions as well as suspension from capsules and suspension from tablets in a second&#xD;
+      part.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 15, 2021</start_date>
+  <completion_date type="Anticipated">March 15, 2021</completion_date>
+  <primary_completion_date type="Anticipated">March 15, 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Part 1: AUC0-tz (area under the concentration-time curve of the analyte in plasma over the time interval from 0 to the last quantifiable data point)</measure>
+    <time_frame>up to 4 days per period</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Part 1: Cmax (maximum measured concentration of the analyte in plasma)</measure>
+    <time_frame>up to 4 days per period</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Part 2: AUC0-tz (area under the concentration-time curve of the analyte in plasma over the time interval from 0 to the last quantifiable data point)</measure>
+    <time_frame>up to 5 days per period</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Part 2: Cmax (maximum measured concentration of the analyte in plasma)</measure>
+    <time_frame>up to 5 days per period</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Part 1: AUC0-∞ (area under the concentration-time curve of the analyte in plasma over the time interval from 0 extrapolated to infinity)</measure>
+    <time_frame>up to 4 days per period</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Part 2: AUC0-∞ (area under the concentration-time curve of the analyte in plasma over the time interval from 0 extrapolated to infinity)</measure>
+    <time_frame>up to 5 days per period</time_frame>
+  </secondary_outcome>
+  <number_of_arms>6</number_of_arms>
+  <enrollment type="Anticipated">28</enrollment>
+  <condition>Healthy</condition>
+  <arm_group>
+    <arm_group_label>Formula A under fasted conditions - Part 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Formula B under fasted conditions - Part 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Formula B under fasted conditions - Part 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Formula C under fasted conditions - Part 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Formula D under fasted conditions - Part 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Formula B under fed conditions - Part 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>BI 764198 - Formula A</intervention_name>
+    <description>BI 764198</description>
+    <arm_group_label>Formula A under fasted conditions - Part 1</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>BI 764198 - Formula B</intervention_name>
+    <description>BI 764198</description>
+    <arm_group_label>Formula B under fasted conditions - Part 1</arm_group_label>
+    <arm_group_label>Formula B under fasted conditions - Part 2</arm_group_label>
+    <arm_group_label>Formula B under fed conditions - Part 2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>BI 764198 - Formula C</intervention_name>
+    <description>BI 764198</description>
+    <arm_group_label>Formula C under fasted conditions - Part 2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>BI 764198 - Formula D</intervention_name>
+    <description>BI 764198</description>
+    <arm_group_label>Formula D under fasted conditions - Part 2</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Healthy male subjects according to the assessment of the investigator, as based on a&#xD;
+             complete medical history including a physical examination, vital signs (blood pressure&#xD;
+             (BP), pulse rate (PR)), 12-lead Electrocardiogram (ECG), and clinical laboratory tests&#xD;
+&#xD;
+          -  Age of 18 to 50 years (inclusive) at screening&#xD;
+&#xD;
+          -  Body mass index (BMI) of 18.5 to 29.9 kg/m2 (inclusive) at screening&#xD;
+&#xD;
+          -  Signed and dated written informed consent prior to admission to the study, in&#xD;
+             accordance with Good Clinical Practice (GCP) and local legislation&#xD;
+&#xD;
+          -  Male subjects who meet any of the following criteria from first administration of&#xD;
+             trial medication until 30 days after trial completion:&#xD;
+&#xD;
+               -  Use of adequate contraception by the female partners, e.g. any of the following&#xD;
+                  methods plus condom: implants, injectables, combined oral or vaginal&#xD;
+                  contraceptives, intrauterine device that started at least 2 months prior to first&#xD;
+                  drug administration to the male subject, or barrier method (e.g. diaphragm with&#xD;
+                  spermicide), or surgically sterilised (including bilateral tubal occlusion,&#xD;
+                  hysterectomy or bilateral oophorectomy), or postmenopausal, defined as at least 1&#xD;
+                  year of spontaneous amenorrhea&#xD;
+&#xD;
+               -  Sexually abstinent&#xD;
+&#xD;
+               -  Vasectomised (vasectomy at least 1 year prior to enrolment) in combination with a&#xD;
+                  barrier method (e.g. condom) Sperm donation is not allowed from first study drug&#xD;
+                  administration until 30 days after trial completion.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Any finding in the medical examination (including BP, PR or ECG) deviating from normal&#xD;
+             and assessed as clinically relevant by the investigator&#xD;
+&#xD;
+          -  Repeated measurement of systolic blood pressure outside the range of 90 to 140 mmHg,&#xD;
+             diastolic blood pressure outside the range of 50 to 90 mmHg, or pulse rate outside the&#xD;
+             range of 45 to 90 beats per minute (bpm)&#xD;
+&#xD;
+          -  Any laboratory value outside the reference range that the investigator considers to be&#xD;
+             of clinical relevance&#xD;
+&#xD;
+          -  Any evidence of a concomitant disease assessed as clinically relevant by the&#xD;
+             investigator&#xD;
+&#xD;
+          -  Gastrointestinal, hepatic, renal, respiratory, cardiovascular, metabolic,&#xD;
+             immunological or hormonal disorders&#xD;
+&#xD;
+          -  Cholecystectomy or other surgery of the gastrointestinal tract that could interfere&#xD;
+             with the pharmacokinetics of the trial medication (except appendectomy or simple&#xD;
+             hernia repair)&#xD;
+&#xD;
+          -  Diseases of the central nervous system (including but not limited to any kind of&#xD;
+             seizures or stroke), and other relevant neurological or psychiatric disorders&#xD;
+&#xD;
+          -  History of relevant orthostatic hypotension, fainting spells, or blackouts Further&#xD;
+             exclusion criteria apply.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>50 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Boehringer Ingelheim</last_name>
+    <phone>1-800-243-0127</phone>
+    <email>clintriage.rdg@boehringer-ingelheim.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>SGS Belgium NV Research Unit Stuivenberg</name>
+      <address>
+        <city>Antwerpen</city>
+        <zip>2060</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Bram Volckaert</last_name>
+      <phone>+32 (0)3 217 25 67</phone>
+      <email>bram.volckaert@sgs.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+  </location_countries>
+  <link>
+    <url>https://www.mystudywindow.com/</url>
+    <description>Related Info</description>
+  </link>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>December 1, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 1, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 7, 2020</study_first_posted>
+  <last_update_submitted>January 28, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 28, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 29, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Clinical studies sponsored by Boehringer Ingelheim, phases I to IV, interventional and non-interventional, are in scope for sharing of the raw clinical study data and clinical study documents, except for the following exclusions:&#xD;
+studies in products where Boehringer Ingelheim is not the license holder;&#xD;
+studies regarding pharmaceutical formulations and associated analytical methods, and studies pertinent to pharmacokinetics using human biomaterials;&#xD;
+studies conducted in a single center or targeting rare diseases (because of limitations with anonymization).&#xD;
+For more details refer to: http://trials.boehringer-ingelheim.com/</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

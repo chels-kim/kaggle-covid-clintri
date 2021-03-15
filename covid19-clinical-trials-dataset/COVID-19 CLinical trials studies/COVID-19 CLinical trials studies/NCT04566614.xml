@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4690">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04566614</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CCR 5292</org_study_id>
+    <nct_id>NCT04566614</nct_id>
+  </id_info>
+  <brief_title>Preventing Viral Pandemic Associated Risk of Cancer Death Using Less Invasive Diagnostic Tests- Liquid Biopsies</brief_title>
+  <acronym>PREVAILctDNA</acronym>
+  <official_title>Preventing Viral Pandemic Associated Risk of Cancer Death Using Less Invasive Diagnostic Tests- Liquid Biopsies</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Royal Marsden NHS Foundation Trust</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Royal Marsden NHS Foundation Trust</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to investigate the feasibility of using ctDNA to support cancer&#xD;
+      diagnosis and risk stratification where invasive aerosol generating testing (and/or tissue&#xD;
+      biopsy) is challenging due to infection risk, technical impracticalities and resource&#xD;
+      limitations, such as during the COVID-19 pandemic and the subsequent recovery period.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a prospective, single-centre cohort pilot study using ctDNA informed treatment&#xD;
+      decisions. If the pilot study is successful within certain tumour types then this protocol&#xD;
+      may be extended to investigate further the benefit of ctDNA informed treatment decision in&#xD;
+      those tumour types.&#xD;
+&#xD;
+      Patients with suspected malignancy for whom invasive biopsy for definitive histological&#xD;
+      diagnosis is challenging either due to COVID-19-related resource limitations, infection&#xD;
+      control or technical feasibility will be considered for this study. In this setting liquid&#xD;
+      biopsy may be used in lieu of tissue biopsy to facilitate treatment or may be used to&#xD;
+      prioritise standard of care invasive diagnostic tests. The former includes patients who&#xD;
+      require repeat biopsies for genomic analysis following non-informative results where these&#xD;
+      would inform standard of care treatment (i.e. NICE (National Institute for Health and Care&#xD;
+      Excellence)/Cancer Drug Fund (CDF) approved drugs). Tumour types included in this study are&#xD;
+      therefore those where invasive aerosol generating diagnostic tests such as bronchoscopy,&#xD;
+      gastrointestinal endoscopy (including endoscopic ultrasound (EUS)) are part of the standard&#xD;
+      diagnostic pathway and where capacity for these tests has become severely constrained during&#xD;
+      (and likely after) the COVID-19 pandemic. Tumour types affected include some suspected&#xD;
+      biliary tract, bladder, colorectal, GIST, lung and pancreatic cancers.&#xD;
+&#xD;
+      The study is planned to continue until a total of 112 patients have been enrolled. This is&#xD;
+      anticipated to take up to 12-18 months. Follow-up will continue until patients have diagnosis&#xD;
+      made (based on ctDNA result) and treatment decision made (deferred or immediate).&#xD;
+&#xD;
+      Potential patients will be identified in and will usually at the multidisciplinary team (MDT)&#xD;
+      meeting. They will give consent to participate in the trial and offered a liquid biopsy&#xD;
+      (ctDNA) in lieu of a tissue biopsy if considered suitable for PREVAIL - ctDNA. This may&#xD;
+      include patients who require repeat biopsies for further genomic analyses when repeat&#xD;
+      biopsies are not feasible where liquid biopsy may support prioritisation for invasive&#xD;
+      diagnostics earlier. ctDNA analysis will involve copy number variant detection and low&#xD;
+      coverage whole genomic sequencing. ctDNA gene panels have already been validated against&#xD;
+      tissue based molecular diagnostics for paediatrics (ct_PAED) and colorectal cancer (ct_GI).&#xD;
+&#xD;
+      This analysis will be performed in an accredited clinical diagnostic laboratory&#xD;
+      (Translational Research Laboratory, Institute of Cancer Research). Patients will be&#xD;
+      stratified for treatment or further investigation based on their ctDNA result (either&#xD;
+      positive or negative), suspected tumour type, radiological (including PREVAIL-imaging risk&#xD;
+      stratification pathway) and clinical characteristics.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 18, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>ctDNA detection rate within different cancer types (and overall)</measure>
+    <time_frame>Throughout study completion, up to one year</time_frame>
+    <description>The primary endpoint, ctDNA detection rate, overall and within different cancer types will be presented as a proportion of patients with a positive ctDNA test out of those tested, with 90% confidence intervals</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients with a positive ctDNA result which identified a diagnosis and/or commenced treatment</measure>
+    <time_frame>Throughout study completion, up to one year</time_frame>
+    <description>All secondary endpoints will be analysed in the patients diagnosed with suspected cancer, i.e. positive ctDNA result, unless stated. They will also be presented overall and by cancer type. The proportion of patients with positive ctDNA result which identified a diagnosis and/or commenced treatment will be presented as a proportion with 90% confidence intervals</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients with a positive ctDNA result which assisted in prioritising invasive diagnostic tests</measure>
+    <time_frame>Throughout study completion, up to one year</time_frame>
+    <description>Proportion of patients with positive ctDNA result which assisted in prioritising invasive diagnostic tests will be presented as a proportion with 90% confidence intervals</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The association of ctDNA result (positive versus negative) and the PREVAIL-imaging pathway scoring result</measure>
+    <time_frame>Throughout study completion, up to one year</time_frame>
+    <description>The association between ctDNA result (positive versus negative) and the PREVAIL-imaging pathway scoring result will be assessed descriptively by presenting cross-tabulations and relevant proportions</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Estimation of the cost of liquid biopsy in lieu of tissue biopsy as compared to standard of care investigations and treatments prioritisation</measure>
+    <time_frame>Throughout study completion, up to one year</time_frame>
+    <description>Simple estimation of the cost of liquid biopsy in lieu of tissue biopsy as compared to standard of care investigations and treatments prioritisation will be performed</description>
+  </secondary_outcome>
+  <number_of_groups>6</number_of_groups>
+  <enrollment type="Anticipated">112</enrollment>
+  <condition>Neoplasm, Colorectal</condition>
+  <condition>Neoplasm of Lung</condition>
+  <condition>Neoplasm, Bladder</condition>
+  <condition>Neoplasms Pancreatic</condition>
+  <condition>Biliary Tract Neoplasms</condition>
+  <condition>Gastro Intestinal Stromal Tumour</condition>
+  <arm_group>
+    <arm_group_label>Biliary Tract Cohort</arm_group_label>
+    <description>Patients with suspected biliary tract cancer will be offered ctDNA to support a diagnosis in patients with suspected early stage, locally advanced and advanced disease. This includes patients with tumours that are technically challenging to access with invasive biopsy or due to limitations in endoscopic ultrasound due to the COVID-19 pandemic. Patients with histological diagnosis will not be eligible for this study. Patients with suspected cancer will have ctDNA result (positive or negative) discussed at MDT in conjunction with PREVAIL-imaging risk stratification pathway to risk stratify in terms of cancer risk (low, intermediate and high risk), serum tumour markers and patient presentation which will dictate the appropriate treatment. Those with metastatic disease will have their treatment decision based on ctDNA result, radiology and patient characteristics after discussion between the treating clinician and patient</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Bladder Cancer Cohort</arm_group_label>
+    <description>Patients with suspected bladder cancer (localised and metastatic) will be offered ctDNA to support their diagnosis, in cases where cystoscopy and biopsy are difficult to obtain due to the COVID-19 pandemic. Patients with histological diagnosis will not be eligible for this study. A positive ctDNA result will be supportive of a diagnosis of bladder cancer, their treatment may be prioritised and decided based on this result in conjunction with radiological findings, patient presentation and after discussion between the treating physician and patient</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Pancreatic Cancer Cohort</arm_group_label>
+    <description>Patients with suspected pancreatic cancer will be offered ctDNA to support a diagnosis in patients with suspected early stage, locally advanced and advanced disease. This includes patients with tumours that are technically challenging to access with invasive biopsy or due to limitations in endoscopic ultrasound due to the COVID-19 pandemic. Patients with histological diagnosis will not be eligible for this study. Patients with suspected cancer will have ctDNA result (positive or negative) discussed at MDT in conjunction with PREVAIL-imaging risk stratification pathway to risk stratify in terms of cancer risk (low, intermediate and high risk), serum tumour markers and patient presentation which will dictate the appropriate treatment. Those with metastatic disease will have their treatment decision based on ctDNA result, radiology and patient characteristics after discussion between the treating clinician and patient</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Gastrointestinal Stromal Tumour Cohort</arm_group_label>
+    <description>Those with suspected Gastrointestinal Stromal Tumour Cohort (GIST) are eligible for this study. KIT and PDGFR mutation detected using ctDNA in conjunction with radiological features will be supportive of a diagnosis of GIST. This may allow for the use of directed targeted therapy, or prioritise surgical resection in some cases. Patients with histological diagnosis will not be eligible for this study. However, patients with inadequate tissue for KIT/PDGFR analysis will be eligible for PREVAIL-ctDNA to confirm the diagnosis of GIST and help guide treatment decisions</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Lung Cancer Cohort</arm_group_label>
+    <description>The use of ctDNA in the diagnosis and adaptive management of patients with lung cancer is well established, however not funded by NHS. As aerosol-generating bronchoscopy procedures have reduced due to the COVID-19 pandemic, patients with suspected lung cancer may be offered ctDNA to support the diagnosis. A positive ctDNA result in conjunction with radiological findings will assist in prioritising those suitable for upfront surgical resection, radiotherapy or systemic anti-cancer treatment. It may provide sufficient genotypic information to guide standard of care targeted therapies (usually two tests are required - biopsy and then next generation sequencing of extracted DNA), including in patients without sufficient tissue for EGFR and ALK testing which can be detected using ctDNA. The use of ctDNA to guide treatment decisions in this cohort will not require signed consent as it is considered a standard approach (not yet NHS funded)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Colorectal Cancer Cohort</arm_group_label>
+    <description>Patients with suspected colorectal cancer will often be referred following either suspicion on imaging or faecal immunochemical testing (FIT). FIT testing results will be used to prioritise patients for screening colonoscopy, in conjunction with the PREVAIL-imaging risk stratification pathway</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>ctDNA blood sampling</intervention_name>
+    <description>Screening/baseline blood sample to be analysed for ctDNA</description>
+    <arm_group_label>Biliary Tract Cohort</arm_group_label>
+    <arm_group_label>Bladder Cancer Cohort</arm_group_label>
+    <arm_group_label>Colorectal Cancer Cohort</arm_group_label>
+    <arm_group_label>Gastrointestinal Stromal Tumour Cohort</arm_group_label>
+    <arm_group_label>Lung Cancer Cohort</arm_group_label>
+    <arm_group_label>Pancreatic Cancer Cohort</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients with suspected malignancy for whom invasive biopsy for definitive histological&#xD;
+        diagnosis is challenging either due to COVID-19-related resource limitations, infection&#xD;
+        control or technical feasibility will be considered for this study&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Participants aged ≥18 years old&#xD;
+&#xD;
+          -  Patients with suspected malignancies of early stage colorectal cancer (FIT&#xD;
+             intermediate and high risk), early and late stage pancreatic cancer, biliary tract&#xD;
+             cancer, gastro-intestinal stromal tumours, lung cancer or bladder cancer, without a&#xD;
+             definitive histological diagnosis (including those with inconclusive biopsy result) or&#xD;
+&#xD;
+          -  Patients with histological diagnosis of lung cancer without adequate tissue for NHS&#xD;
+             genomic test directory predictive biomarker testing&#xD;
+&#xD;
+          -  Ability to provide informed consent.&#xD;
+&#xD;
+          -  Patients with performance status suitable for oncological treatments (ECOG performance&#xD;
+             status 0-2).&#xD;
+&#xD;
+        Exclusion criterion:&#xD;
+&#xD;
+        • Patients with an established histological diagnosis adequate to support standard of care&#xD;
+        treatment&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Justin Mencel, MBBS</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Royal Marsden Hospital NHS Foundation Trust</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Naureen Starling, MBBS MRCP MD</last_name>
+    <phone>0208664778</phone>
+    <email>Naureen.Starling@rmh.nhs.uk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Scot Davies, CIBiol</last_name>
+    <phone>02086426011</phone>
+    <email>scot.davies@rmh.nhs.uk</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Royal Marsden Hospital</name>
+      <address>
+        <city>Sutton</city>
+        <state>Surrey</state>
+        <zip>SM2 5PT</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Naureen Starling</last_name>
+      <phone>+44 020 7352 8171</phone>
+      <email>naureen.starling@rmh.nhs.uk</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>June 2, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 25, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 28, 2020</study_first_posted>
+  <last_update_submitted>September 25, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 25, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 28, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasms</mesh_term>
+    <mesh_term>Biliary Tract Neoplasms</mesh_term>
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Colorectal Neoplasms</mesh_term>
+    <mesh_term>Gastrointestinal Stromal Tumors</mesh_term>
+    <mesh_term>Urinary Bladder Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

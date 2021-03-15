@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2496">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04647604</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020-002293-28</org_study_id>
+    <nct_id>NCT04647604</nct_id>
+  </id_info>
+  <brief_title>Resolving Inflammatory Storm in COVID-19 Patients by Omega-3 Polyunsaturated Fatty Acids -</brief_title>
+  <official_title>Resolving Inflammatory Storm in COVID-19 Patients by Omega-3 Polyunsaturated Fatty Acids - A Single-blind, Randomized, Placebo-controlled Feasibility Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Karolinska University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Karolinska University Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A study on patients who are hospitalized and tested positive for COVID-19 or have a typical&#xD;
+      CT image of COVID-19 infection, to establish if omega-3 Polyunsaturated Fatty Acid (PUFA)&#xD;
+      supplementation by intravenous route is a possible treatment option in COVID-19 with minimal&#xD;
+      risks to the patients.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 23, 2020</start_date>
+  <completion_date type="Anticipated">April 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 30, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Participant)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Changes in inflammatory biomarkers</measure>
+    <time_frame>5 days</time_frame>
+    <description>white blood cell counts</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in inflammatory biomarkers</measure>
+    <time_frame>5 days</time_frame>
+    <description>CRP</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in inflammatory biomarkers</measure>
+    <time_frame>5 days</time_frame>
+    <description>lipidomic profiling</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in inflammatory biomarkers</measure>
+    <time_frame>5 days</time_frame>
+    <description>cytokines</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in inflammatory biomarkers</measure>
+    <time_frame>5 days</time_frame>
+    <description>metabolomic profiling</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Changes in proresolving mediators</measure>
+    <time_frame>5 days</time_frame>
+    <description>lipidomics</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in fatty acids in the erythrocyte fraction</measure>
+    <time_frame>5 days</time_frame>
+    <description>fatty acid profile</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in cardiac biomarkers</measure>
+    <time_frame>5 days</time_frame>
+    <description>Troponin, NTproBNP</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in biomarkers of organ damage</measure>
+    <time_frame>5 days</time_frame>
+    <description>LD, creatinine</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in thrombosis parameters</measure>
+    <time_frame>5 days</time_frame>
+    <description>platelet count, D-dimer,</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in coagulation parameters</measure>
+    <time_frame>5 days</time_frame>
+    <description>fibrinogen</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in markers of infection</measure>
+    <time_frame>5 days</time_frame>
+    <description>procalcitonin concentrations</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in infection load</measure>
+    <time_frame>5 days</time_frame>
+    <description>SARS-CoV2-RNAemia</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in clinical parameters</measure>
+    <time_frame>through study completion, on average 10 days</time_frame>
+    <description>National Early Warning Score (NEWS2)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of hospital stay</measure>
+    <time_frame>through study completion, on average 10 days</time_frame>
+    <description>Days of hospital stay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Complications</measure>
+    <time_frame>through study completion, on average 10 days</time_frame>
+    <description>ICU need, mortality</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Omega</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Omegaven® (2 mL/kg/day, equivalent to 6 g Docosahexaenoic Acid (DHA)+Eicosapentaenoic Acid (EPA) in a 70 kg individual) once daily for 5 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sodium chloride (NaCl)</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>2 mL/kg/day) once daily for 5 days</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Omegaven®</intervention_name>
+    <description>A highly refined fish oil in an emulsion for infusion with purified egg phosphatides and glycerol.</description>
+    <arm_group_label>Omega</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Sodium chloride</intervention_name>
+    <description>intravenously administered 2 mL/kg/day</description>
+    <arm_group_label>Sodium chloride (NaCl)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Provision of signed informed consent prior to any study specific procedures.&#xD;
+&#xD;
+          2. Female and male patients ≥18 years of age.&#xD;
+&#xD;
+          3. COVID-19 positive or typical CT image of COVID-19 infection.&#xD;
+&#xD;
+          4. Clinical status requiring hospitalization.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. According to Omegaven® contraindications (serious bleeding disorders, acute&#xD;
+             life-threatening condition, including acute shock, acute myocardial infarction, acute&#xD;
+             stroke, acute emboli, and coma).&#xD;
+&#xD;
+          2. Known hypersensitivity to Omegaven® or any of the ingredients.&#xD;
+&#xD;
+          3. Participation in any clinical research study evaluating an investigational medicinal&#xD;
+             product (IMP) within 3 months prior to screening.&#xD;
+&#xD;
+          4. Pregnancy and breastfeeding.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Magnus Bäck, Professor</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Karolinska University Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Magnus Bäck, Professor</last_name>
+    <phone>+46-8-585 800 00</phone>
+    <email>magnus.back@ki.se</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Robin Hofmann, MD, PhD</last_name>
+    <phone>+46-8-616 10 00</phone>
+    <email>robin.hofmann@sll.se</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Karolinska Universitetssjuhuset</name>
+      <address>
+        <city>Stockholm</city>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Magnus Bäck, Professor</last_name>
+      <email>magnus.back@sll.se</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Södersjukhuset</name>
+      <address>
+        <city>Stockholm</city>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Robin Hoffmann, MD, PhD</last_name>
+      <email>robin.hofmann@sll.se</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Sweden</country>
+  </location_countries>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>June 12, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 27, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 1, 2020</study_first_posted>
+  <last_update_submitted>November 27, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 27, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 1, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Karolinska University Hospital</investigator_affiliation>
+    <investigator_full_name>Magnus Bäck</investigator_full_name>
+    <investigator_title>Professor of Cardiology</investigator_title>
+  </responsible_party>
+  <keyword>Inflammatory Storm</keyword>
+  <keyword>COVID-19 infection</keyword>
+  <keyword>Omega-3 fatty acids</keyword>
+  <keyword>Inflammatory biomarkers</keyword>
+  <keyword>Omega-3 index</keyword>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Individual participant data that underlie the results reported will be shared, after deidentification, with researchers who provide a methodologically sound proposal.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_time_frame>Beginning 9 months following article publication and finishing 36 months following article publication.</ipd_time_frame>
+    <ipd_access_criteria>Study protocol will be published. Investigators interested in data should contact the principal investigator.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

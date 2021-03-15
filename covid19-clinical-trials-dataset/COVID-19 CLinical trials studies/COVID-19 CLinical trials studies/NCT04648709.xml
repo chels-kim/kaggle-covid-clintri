@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1223">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04648709</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20CH207</org_study_id>
+    <nct_id>NCT04648709</nct_id>
+  </id_info>
+  <brief_title>Evaluation and Longitudinal Follow-up of Biomarkers Predictive of Severe Forms of COVID-19</brief_title>
+  <acronym>COVIMMUNITY</acronym>
+  <official_title>Evaluation and Longitudinal Follow-up of Biomarkers Predictive of Severe Forms of COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Centre Hospitalier Universitaire de Saint Etienne</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Centre Hospitalier Universitaire de Saint Etienne</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Current data in the literature demonstrate that the immune response to CoV-2-SARS is much&#xD;
+      more complex than initially assumed. In fact, beyond the humoral response, including the&#xD;
+      existence of neutralizing CAs, the adaptive lymphocyte T-type immune response also appears to&#xD;
+      play an important role in controlling the infection and reducing the severity of the disease.&#xD;
+      At this stage, the analysis of this T response is still rudimentary and underdeveloped, but&#xD;
+      it seems crucial to be able to analyze it effectively in COVID-19 patients, which could help&#xD;
+      predict the evolution of the infection. It is also currently difficult to know the evolution&#xD;
+      of this response over time and especially after the resolution of the infection.&#xD;
+&#xD;
+      To this end, we will analyze the T lymphocyte response (ELISPOT and QUANTIFERON) based on the&#xD;
+      secretion of IFN (Th1) and IL-4 (Th2) by CoV-2-SARS specific T cells from COVID-19 patients.&#xD;
+      We will compare the T response to the quality of the systemic and mucosal humoral response.&#xD;
+      Finally, we will evaluate in parallel two new biomarkers of the severity of COVID-19: plasma&#xD;
+      calprotectin and the presence of antibodies to type 1 IFN antibodies.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 1, 2021</start_date>
+  <completion_date type="Anticipated">December 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">June 1, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>T cell immune response</measure>
+    <time_frame>from baseline to 18 months</time_frame>
+    <description>Characterize T-cell immune response in patient with COVID 19 infection</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>B cell immune response</measure>
+    <time_frame>from baseline to 18 months</time_frame>
+    <description>Characterize B-cell immune response in patient with COVID 19 infection</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Platelet immune response</measure>
+    <time_frame>from baseline to 18 months</time_frame>
+    <description>Characterize platelet immune response in patient with COVID 19 infection</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Immune response and chronic forms</measure>
+    <time_frame>from baseline to 18 months</time_frame>
+    <description>Determine if there is a correlation between the pattern of immune response and the risk of reinfection or with persistence of symptoms in chronic forms of COVID-19.</description>
+  </secondary_outcome>
+  <number_of_groups>5</number_of_groups>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>asymptomatic patients</arm_group_label>
+    <description>asymptomatic patients with PCR-positive PCR</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>mild symptoms patients</arm_group_label>
+    <description>patients with mild symptoms and PCR positive</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>seriously symptomatic patients</arm_group_label>
+    <description>seriously symptomatic patients with PCR positive</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>patients in resuscitation</arm_group_label>
+    <description>patients in resuscitation with positive PCR</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>heathly volunteer</arm_group_label>
+    <description>heathly volunteer as control</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>ELISPOT</intervention_name>
+    <description>measure of immune response by ELISPOT</description>
+    <arm_group_label>asymptomatic patients</arm_group_label>
+    <arm_group_label>heathly volunteer</arm_group_label>
+    <arm_group_label>mild symptoms patients</arm_group_label>
+    <arm_group_label>patients in resuscitation</arm_group_label>
+    <arm_group_label>seriously symptomatic patients</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>QUANTIFERON</intervention_name>
+    <description>measure of immune response by QUANTIFERON</description>
+    <arm_group_label>asymptomatic patients</arm_group_label>
+    <arm_group_label>heathly volunteer</arm_group_label>
+    <arm_group_label>mild symptoms patients</arm_group_label>
+    <arm_group_label>patients in resuscitation</arm_group_label>
+    <arm_group_label>seriously symptomatic patients</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      blood&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        haemoglobin &lt; 8g/dL Pregnancy woman&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  - Social security affiliation&#xD;
+&#xD;
+          -  Signed informed consent&#xD;
+&#xD;
+          -  Patients with COVID infection documented by PCR and/or serological testing&#xD;
+&#xD;
+          -  Patients belonging to the following groups:&#xD;
+&#xD;
+               -  asymptomatic patients with PCR-positive PCR&#xD;
+&#xD;
+               -  patients with mild symptoms and PCR positive&#xD;
+&#xD;
+               -  seriously symptomatic patients with PCR positive&#xD;
+&#xD;
+               -  patients in resuscitation with positive PCR&#xD;
+&#xD;
+               -  Healthy individuals as controls&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        -&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>Stéphane Paul, PHD</last_name>
+    <role>Study Director</role>
+    <affiliation>CHU Saint-Etienne</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Stéphane Paul, PHD</last_name>
+    <phone>0477828975</phone>
+    <phone_ext>+33</phone_ext>
+    <email>stephane.paul@chu-st-etienne.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Florence Rancon</last_name>
+    <phone>04778259458</phone>
+    <phone_ext>+33</phone_ext>
+    <email>florence.rancon@chu-st-etienne.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>CHU Saint-Etienne</name>
+      <address>
+        <city>Saint-Étienne</city>
+        <zip>42055</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Stéphane PAUL</last_name>
+    </contact>
+    <investigator>
+      <last_name>Anne-Emmanuelle BERGER, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>November 27, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 27, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 1, 2020</study_first_posted>
+  <last_update_submitted>January 15, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 15, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 19, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>T cells</keyword>
+  <keyword>B cells</keyword>
+  <keyword>immune response</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

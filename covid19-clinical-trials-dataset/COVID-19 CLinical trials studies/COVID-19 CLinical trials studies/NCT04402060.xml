@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3997">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04402060</url>
+  </required_header>
+  <id_info>
+    <org_study_id>APL9-COV-201</org_study_id>
+    <nct_id>NCT04402060</nct_id>
+  </id_info>
+  <brief_title>A Study of APL-9 in Adults With Mild to Moderate ARDS Due to COVID-19</brief_title>
+  <official_title>A Randomized, Double-Blinded, Vehicle-Controlled, Multicenter, Parallel-Group Study of APL-9 in Mild to Moderate Acute Respiratory Distress Syndrome Due to COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Apellis Pharmaceuticals, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Apellis Pharmaceuticals, Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate the safety and effectiveness of APL-9 in adults with&#xD;
+      mild to moderate ARDS (acute respiratory distress syndrome) caused by COVID-19 who are&#xD;
+      hospitalized and require supplemental oxygen therapy with or without mechanical ventilation.&#xD;
+&#xD;
+      It is thought that COVID-19 activates the complement system, part of the immune system that&#xD;
+      responds to infection or tissue damage, and increases inflammation in the lungs. APL-9 has&#xD;
+      been designed to inhibit or block activation of part of the complement pathway, and&#xD;
+      potentially reduce inflammation in the lungs.&#xD;
+&#xD;
+      Part 1 of the study is open-label to evaluate safety; all participants will receive APL-9&#xD;
+      plus standard of care. Part 2 of the study is double-blind, randomized; participants will&#xD;
+      receive either APL-9 or the vehicle-control plus standard of care.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">May 28, 2020</start_date>
+  <completion_date type="Anticipated">January 2021</completion_date>
+  <primary_completion_date type="Anticipated">January 2021</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Cumulative incidence of treatment-emergent serious adverse events and treatment-emergent adverse events.</measure>
+    <time_frame>Day 1 through Day 51</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Hospital length of stay</measure>
+    <time_frame>Day 1 through Day 21</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Any cause of mortality</measure>
+    <time_frame>Day 1 through day 58</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sequential Organ Failure Assessment</measure>
+    <time_frame>Day 1 through day 21</time_frame>
+    <description>The minimum value is 0 and maximum value is 24. The higher a score the worse the outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total duration of mechanical ventilation and/or oxygen therapy</measure>
+    <time_frame>Day 1 through day 21</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Total duration of oxygen therapy</measure>
+    <time_frame>Day 1 through day 21</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">66</enrollment>
+  <condition>COVID</condition>
+  <condition>Covid-19</condition>
+  <condition>Coronavirus</condition>
+  <condition>Coronavirus Infection</condition>
+  <condition>Severe Acute Respiratory Syndrome</condition>
+  <condition>Severe Acute Respiratory Syndrome Coronavirus 2</condition>
+  <condition>Sars-CoV2</condition>
+  <condition>Ards</condition>
+  <condition>Acute Respiratory Distress Syndrome</condition>
+  <arm_group>
+    <arm_group_label>180 mg APL-9 IV plus SOC</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Isotonic saline</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>APL-9</intervention_name>
+    <description>Complement (C3) Inhibitor</description>
+    <arm_group_label>180 mg APL-9 IV plus SOC</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Vehicle Control</intervention_name>
+    <description>Normal saline of equal volume to active arm</description>
+    <arm_group_label>Isotonic saline</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Be at least 18 years of age at time of informed consent&#xD;
+&#xD;
+          -  Diagnosis of active SARS CoV 2 infection using viral RNA or viral antigen within 7&#xD;
+             days of screening&#xD;
+&#xD;
+          -  Respiratory failure requiring oxygen supplementation or either invasive or noninvasive&#xD;
+             mechanical ventilation with PaO2/FiO2 ratio &gt;100 mm Hg. Respiratory failure cannot be&#xD;
+             fully explained by cardiac failure or fluid overload.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Treatment with immune checkpoint inhibitors, or other immunomodulators within 3 months&#xD;
+             prior to study enrollment (however, treatment with convalescent plasma, steroids, IL-6&#xD;
+             inhibitors, and antiviral agents is NOT excluded)&#xD;
+&#xD;
+          -  Active bacterial, fungal, or parasitic infection&#xD;
+&#xD;
+          -  History of neuromuscular degenerative disease (eg, amyotrophic lateral sclerosis,&#xD;
+             Duchenne muscular dystrophy, or multiple sclerosis)&#xD;
+&#xD;
+          -  Current participation in an interventional clincial trial&#xD;
+&#xD;
+          -  Subjects who have, at screening, been on mechanical ventilation for &gt;7 days Have&#xD;
+             evidence of kidney and liver failure at screening&#xD;
+&#xD;
+          -  Have a hereditary complement deficiency&#xD;
+&#xD;
+          -  Pregnancy or breastfeeding&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Apellis Clinical Trial Information Line</last_name>
+    <phone>1-833-284-6361</phone>
+    <email>clinicaltrials@apellis.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of California at San Francisco - Fresno</name>
+      <address>
+        <city>Fresno</city>
+        <state>California</state>
+        <zip>93701</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>California Pacific Medical Center</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Baptist Medical Center Beaches</name>
+      <address>
+        <city>Jacksonville Beach</city>
+        <state>Florida</state>
+        <zip>32250</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Westchester General Hospital</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>40241</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Northwestern University, Feinberg School of Medicine</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Loyola University Medical Center</name>
+      <address>
+        <city>Maywood</city>
+        <state>Illinois</state>
+        <zip>60153</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Lutheran Health Physicians</name>
+      <address>
+        <city>Fort Wayne</city>
+        <state>Indiana</state>
+        <zip>46804</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Iowa Hospitals and Clinics</name>
+      <address>
+        <city>Iowa City</city>
+        <state>Iowa</state>
+        <zip>52242</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Norton Women's and Children's Hospital</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40207</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Norton Audobon Hospital</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40217</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Cambridge Medical Trials</name>
+      <address>
+        <city>Alexandria</city>
+        <state>Louisiana</state>
+        <zip>71301</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ascension Providence Hospital</name>
+      <address>
+        <city>Southfield</city>
+        <state>Michigan</state>
+        <zip>48075</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Rutgers University - Robert Wood Johnson Medical School</name>
+      <address>
+        <city>New Brunswick</city>
+        <state>New Jersey</state>
+        <zip>08903</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University at Buffalo</name>
+      <address>
+        <city>Buffalo</city>
+        <state>New York</state>
+        <zip>14203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Columbia University</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Texas A&amp;M College of Medicine - Scott and White</name>
+      <address>
+        <city>Temple</city>
+        <state>Texas</state>
+        <zip>76508</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Angelina Caron</name>
+      <address>
+        <city>Campina Grande Do Sul</city>
+        <state>Paraná</state>
+        <zip>83430-000</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Irmandade da Santa Casa de Misericordia de Porto Alegre</name>
+      <address>
+        <city>Porto Alegre</city>
+        <state>Rio Grande Do Sul</state>
+        <zip>90020-090</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital São Lucas da PUCRS</name>
+      <address>
+        <city>Porto Alegre</city>
+        <state>Rio Grande Do Sul</state>
+        <zip>91530-001</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Estadual Mario Covas</name>
+      <address>
+        <city>Santo André</city>
+        <state>Sao Paulo</state>
+        <zip>09190-615</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>CEMEC - Centro Multidisciplinar de Estudos Clinicos LTDA EPP</name>
+      <address>
+        <city>São Bernardo Do Campo</city>
+        <state>Sao Paulo</state>
+        <zip>0917-090</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Alemao Oswaldo Cruz</name>
+      <address>
+        <city>São Paulo</city>
+        <state>Sao Paulo</state>
+        <zip>01323-020</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Santa Marcelina</name>
+      <address>
+        <city>São Paulo</city>
+        <state>Sao Paulo</state>
+        <zip>08270-120</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UPECLIN - Unidade de Pesquisa Clínica da Faculdade de Medicina de Botucatu - FMB/UNESP</name>
+      <address>
+        <city>Botucatu</city>
+        <state>São Paulo</state>
+        <zip>18618-686</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>May 22, 2020</study_first_submitted>
+  <study_first_submitted_qc>May 22, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 26, 2020</study_first_posted>
+  <last_update_submitted>December 16, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 16, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 19, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Newborn</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Adult</mesh_term>
+    <mesh_term>Acute Lung Injury</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

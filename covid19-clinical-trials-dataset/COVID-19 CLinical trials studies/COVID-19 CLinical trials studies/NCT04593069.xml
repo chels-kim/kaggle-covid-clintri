@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2883">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04593069</url>
+  </required_header>
+  <id_info>
+    <org_study_id>COGCOV</org_study_id>
+    <nct_id>NCT04593069</nct_id>
+  </id_info>
+  <brief_title>The COGCOV Study in ICU Patients</brief_title>
+  <acronym>COGCOV</acronym>
+  <official_title>Long-term Cognitive Impairment in ICU Patients, Admitted for COVID-19 Pneumonia: a Single Centre, Prospective Cohort Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ziekenhuis Oost-Limburg</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Ziekenhuis Oost-Limburg</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Acute Respiratory Distress syndrome (ARDS) is a pulmonary systematic inflammatory response,&#xD;
+      leading to acute respiratory failure with hypoxia and/or hypercarbia. COVID-19 evokes a viral&#xD;
+      pneumonia, which may result in ARDS as well. It is not yet clear if COVID-19 disease behaves&#xD;
+      like the typical ARDS. Corona virus causes primarily deep hypoxia. Hypoxia, on its own, can&#xD;
+      lead to long term cognitive impairment. However, critical illness also affects long-term&#xD;
+      neurocognitive functioning. The investigators will be researching the possibility of&#xD;
+      long-term cognitive impairment in COVID-19 ICU patients, in comparison with reference values&#xD;
+      of a healthy population as well as the values measured in critically ill patients, admitted&#xD;
+      not only for respiratory reasons.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The investigators will conduct a single centre, prospective cohort study. COVID-19 patients&#xD;
+      from the Ziekenhuis Oost-Limburg cohort will be contacted by phone 6 months after admission&#xD;
+      at the ICU. Patients will be asked to participate in a study surrounding long term symptoms&#xD;
+      of COVID-19. When consent is given by the patiënt, the experimenter will conduct a short&#xD;
+      questionnaire over the phone with the patient or relative that is present at the time of the&#xD;
+      call. If the participant is fluent in Dutch, the experimenter will ask permission to visit&#xD;
+      their home to conduct more testing.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 7, 2020</start_date>
+  <completion_date type="Anticipated">February 28, 2021</completion_date>
+  <primary_completion_date type="Anticipated">February 28, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>All patients enrolled in the study will be contacted to answer additional questions regarding cognitive impairment</intervention_model_description>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+    <masking_description>masking is not applicable for this study</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Neurocognitive impairment measured by RBANS</measure>
+    <time_frame>6 months after admission at the intensive care unit</time_frame>
+    <description>the Repeatable Battery for the Assessment of Neuropsychological Statusis (RBANS) is a neuropsychological test that provides information about 5 domains of cognition (1) immediate and (2) delayed memory, (3) attention, (4) visuospatial construction and (5) language) and provides a total score. It is a test that takes about 30 minutes and consists of twelve tests. These are: (1) List Learning, (2) Story Memory, (3) Figure Copy, (4) Line Orientation, (5) Picture Naming, (6) Semantic Fluency, (7) Digit Span, (8) Coding, (9) List Recall, (10) List Recognition, (11) Story Recall and (12) Figure Recall. According to the RBANS manual, the possible values for the RBANS scores at the item, domain, and scale level are 0 to 89, 40 to 154, and 40 to 160</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Neurocognitive impairment measured by TMT</measure>
+    <time_frame>6 months after admission at the intensive care unit</time_frame>
+    <description>Trail Making Test (TMT) is a test of executive functioning, visual search speed, scanning, speed of processing and mental flexibility. The total score is the time in seconds spent to complete each part.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neurocognitive impairment by the short IQCODE</measure>
+    <time_frame>6 months after admission at the intensive care unit</time_frame>
+    <description>The short IQCODE is a 16 question long questionnaire that assesses cognitive impairment in elderly patients. An informant is required to rate a patient's cognitive changes over a 10 year time period. Each question is scored from 1 (much improved over time) to 5 (much worse).</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Covid19</condition>
+  <condition>Cognitive Impairment</condition>
+  <arm_group>
+    <arm_group_label>COVID-19 patients</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Neurocognitive impairment in COVID-19 patients</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Neurocognitive assessment</intervention_name>
+    <description>6 months after admission to the intensive care unit of Ziekenhuis Oost-Limburg, the patients will be tested on cognitive impairment</description>
+    <arm_group_label>COVID-19 patients</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Admitted to the intensive care unit of Ziekenhuis Oost-Limburg&#xD;
+&#xD;
+          -  Being hospitalized between March 2020 and May 2020, and therefore being admitted 6&#xD;
+             months prior to the study&#xD;
+&#xD;
+          -  The reason of hospitalization was COVID-19 disease&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  No willingness to participate, and therefore not having signed the informed consent&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Dieter Mesotten, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Ziekenhuis Oost-Limburg</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Elly Vandermeulen, PhD</last_name>
+    <phone>+3289325407</phone>
+    <email>elly.vandermeulen@zol.be</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Ziekenhuis Oost-Limburg</name>
+      <address>
+        <city>Genk</city>
+        <zip>3600</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Elly Vandermeulen</last_name>
+      <phone>+3289325407</phone>
+      <email>elly.vandermeulen@zol.be</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+  </location_countries>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>October 12, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 12, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 19, 2020</study_first_posted>
+  <last_update_submitted>October 20, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 20, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 22, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cognitive Dysfunction</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

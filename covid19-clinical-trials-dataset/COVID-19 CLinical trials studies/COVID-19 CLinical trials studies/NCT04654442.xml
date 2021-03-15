@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="923">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04654442</url>
+  </required_header>
+  <id_info>
+    <org_study_id>38RC20.378</org_study_id>
+    <secondary_id>2020-A03087-32</secondary_id>
+    <nct_id>NCT04654442</nct_id>
+  </id_info>
+  <brief_title>Feasibility and Analytic Performance of TestNPass (IVDMD) for CoViD-19 Diagnosis on Saliva Sample</brief_title>
+  <acronym>GraphealNpas</acronym>
+  <official_title>Evaluation of the Feasibility and Analytic Performance of TestNPass (In Vitro Diagnosis Medical Device) for CoViD-19 Diagnosis on Saliva Sample. : a Pilot Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Grenoble</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Grapheal</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University Hospital, Grenoble</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      COVID19 pandemic and SARS-CoV-2 rapid progression worldwide are already historical landmarks&#xD;
+      of the 21st century owing to the magnitude of the event and the collective response that&#xD;
+      populations have adopted to face such threat. This menace has imposed an unprecedented&#xD;
+      reactivity to promptly deliver answers in various fields and specifically in termes of&#xD;
+      diagnostic capabilities.&#xD;
+&#xD;
+      The very first tests to be used were based on PCR reactions and on deep nasopharyngeal&#xD;
+      sampling. But this has shown to be insufficient to prevent contaminations and limit the&#xD;
+      progression of the disease. This approach requires important infrastructure thus limiting the&#xD;
+      extent to which it can be delivered. Moreover, nasopharyngeal swab is highly intrusive and&#xD;
+      therefore is not suitable for repeated testing of asymptomatic patients in surveillance&#xD;
+      programs.&#xD;
+&#xD;
+      Actual need is based on new tests offering new capabilities both in terms of wide range&#xD;
+      availability, ease of use and reduced time-to-result duration. Such tests, affordable and&#xD;
+      that can be performed outside the lab would ultimately relief pressure on healthcare workers&#xD;
+      and laboratory facilities as well as help test massively wide range of populations thus&#xD;
+      limiting viral dissemination&#xD;
+&#xD;
+      Such innovating test device has been developped by the start-up &quot;Grapheal&quot; and the present&#xD;
+      study will ultimately demonstrate the feasibility of COVID-19 diagnostic using this test.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      ACTUAL KNOWLEDGE ABOUT DIAGNOSTIC STRATEGIES Actual strategy for rapid and accurate&#xD;
+      diagnostic relies heavily (almost solely) on RT-PCR based tests. The French Scientific Board&#xD;
+      advising the national government in the management of this epidemic has brought back on&#xD;
+      September, 3rd the three-axis policy : &quot; Test - Track - Isolate &quot; as the central response to&#xD;
+      the COVID-19 progression. This strategy is also the response promoted by WHO since March. If&#xD;
+      properly applied, this approach allows high-performance in identifying positive cases and&#xD;
+      spotting transmission chains, thus allowing to specifically isolate and quarantine infectious&#xD;
+      patients. The expected outcome is a halting epidemic allowing economic recovery and&#xD;
+      protection of populations.&#xD;
+&#xD;
+      Rise in French laboratory capacities regarding their ability to perform the required tests&#xD;
+      has been achieved since the early days of COVID-19. Since August, 10th we have reached the&#xD;
+      pace of 100.000 daily tests nationwide and peaked above 300.000 tests per day as of October,&#xD;
+      26th (Santé Publique France).&#xD;
+&#xD;
+      However, the need to lockdown the entire French population for a second time is the&#xD;
+      demonstration of the limits of this strategy. Issues can be summarized in a few key points:&#xD;
+&#xD;
+        -  The hassle of performing as many tests as needed over the whole national territory has&#xD;
+           proven difficult and does not allow control of local epidemic bursts&#xD;
+&#xD;
+        -  Repetitive sampling for asymptomatic patients to confirm viral clearance and lack of&#xD;
+           viral shedding raises strong questions regarding its feasibility&#xD;
+&#xD;
+        -  The need for high quality sampling for RT-PCR tests accurately reaching nasopharyngeal&#xD;
+           cavity requires trained staff whose availability is limited. Swab collection remains an&#xD;
+           important bottleneck nationwide.&#xD;
+&#xD;
+        -  Important consumption of PPE (personal protective equipment) for sampling staff adds an&#xD;
+           unnecessary tension in supply chains In the light of these issues, there is an urgent&#xD;
+           need to transition from RT-PCR tests to novel diagnostic techniques capable of&#xD;
+           addressing the above-mentioned key problems. Rapid Antigenic Tests are being evaluated&#xD;
+           and used already in some facilities and in very controlled settings. However, these&#xD;
+           tests do have important limitations and their relatively low sensibility in real-life&#xD;
+           setting (around 60% of positive agreement with RT-PCR for best-performing tests) is an&#xD;
+           issue that need to be quickly addressed to avoid jeopardizing efforts made to widespread&#xD;
+           tests and keep public confidence. Moreover, Rapid Antigenic Tests deliver results in 15&#xD;
+           to 30 minutes' time, much faster than traditional RT-PCR, but still inadequate for&#xD;
+           massive population test in crowded places and public gathering (airports, shows and&#xD;
+           sporting events).&#xD;
+&#xD;
+      ABOUT MEDICAL DEVICE INVOLVED&#xD;
+&#xD;
+      Vincent BOUCHIAT is a team leader, former research senior and principal investigator from&#xD;
+      French science agency CNRS in the field of material science and physics, and he established&#xD;
+      in 2019 a start-up (Grapheal) in Grenoble to upcycle his fundamental work on the unique&#xD;
+      properties of graphene, allowing the synthesis of electronic polymers with bio-compatibility&#xD;
+      and biological detection capacities. This work is patent-protected in cooperation with local&#xD;
+      university (UGA) which grants sustainability in the development of such technology.&#xD;
+&#xD;
+      Since March 2020, Grapheal has been working on a single-use specific biosensor called&#xD;
+      'TestNPass digital Covid Ag test strip' thus allowing the rapid detection of SARS-CoV-2. This&#xD;
+      biosensor uses the electronic detection of the biochemical matching between specific&#xD;
+      antibodies directed against the virus. The docking of the virus by stabilized antibodies&#xD;
+      leads to a change in conductance within the sensor electronic circuit, similar to Seo and&#xD;
+      colleague's work. This variation in electric conductance is measured by an ultraportable and&#xD;
+      autonomous circuit that can be paired with either a computer or a smartphone in order to be&#xD;
+      further analyzed.&#xD;
+&#xD;
+      Proof of concept of the device has been realized by in vitro experiments putting together&#xD;
+      commercial samples containing recombinant structural proteins of the SARS-CoV-2 virus with&#xD;
+      the detection electrodes of the disposable antigenic test strip after dilution in a saline&#xD;
+      solution (PBS). Tested samples with Nucleocapsid and Spike proteins were able to trigger a&#xD;
+      change in conductance, thus allowing detection of the viral surrogate. Protein concentrations&#xD;
+      have been adjusted to match in vivo concentrations and an important work has been performed&#xD;
+      to ensure signal processing is robust, reliable and repeatability of the measure.&#xD;
+&#xD;
+      Encryption of the result within the on-board processing circuits of the device allow the&#xD;
+      development of a device fully compliant with personal data protection and grating GDPR&#xD;
+      compliance from the start.&#xD;
+&#xD;
+      FEASIBILITY AND PAST EXPERIENCE OF INVOLVED TEAMS:&#xD;
+&#xD;
+      The team from Grapheal is hosted within the BioPolis incubator facility which presence close&#xD;
+      to Grenoble Teaching Hospital (CHUGA) allows for narrow collaborations. This start-up&#xD;
+      highlight the performances of bio sensing technologies based on graphene polymers. Grapheal&#xD;
+      team has 7 members, all of them holding PhDs in biological sciences or physics. The team is&#xD;
+      led by Vincent BOUCHIAT, who is a former principal investigator from French national agency&#xD;
+      for scientific research (CNRS). The team has been granted with prizes and rewards among which&#xD;
+      the i-lab 2020 contest held by the French Ministry of Scientific Research and Higher&#xD;
+      Education for innovating technologies.&#xD;
+&#xD;
+      For this project, the team has joined its forces with specialists of IVD and medical devices&#xD;
+      as well as knowledgeable support from regulation specialists. Ultimately the team has been&#xD;
+      requesting the help from the virology team from Grenoble University Hospital (CHUGA) in order&#xD;
+      to set up the present proof-of-concept study, the first of its kind to be performed in human&#xD;
+      samples.&#xD;
+&#xD;
+      The virology team from Grenoble University hospital (CHUGA) is a pioneer in the development&#xD;
+      of molecular based assays for viral diagnostic. Some of the now classical PCR and RT-PCR&#xD;
+      widely used for routine diagnostic in France have been set up within our team and laboratory.&#xD;
+      These techniques and PCR kits now branded by BioMérieux company have been developed by&#xD;
+      collaborators from our lab, thus granting us with a wide experience in diagnostic technique&#xD;
+      and molecular based technologies.&#xD;
+&#xD;
+      The diagnostic of SARS-CoV-2 infection is performed within our laboratory since the early&#xD;
+      days of the pandemic. We have been dealing with the very first infected patients from France&#xD;
+      as early as February, 8th 2020. The diagnostic of these patients has greatly improved since&#xD;
+      then and SAR-CoV-2 detection is now performed as a regular daily test at an unprecedented&#xD;
+      rate. Along with the development of cutting edge techniques including pseudo-virus&#xD;
+      neutralization assays, our team now holds a highly skilled expertise regarding to COVID-19&#xD;
+      questions.&#xD;
+&#xD;
+      Both microbiological and clinical teams from CHUGA have been producing research projects and&#xD;
+      data about COVID-19 pandemic. More than 10 clinical studies have been set-up and half of&#xD;
+      these protocols now enroll patients on a daily basis. One of those has closed after inclusion&#xD;
+      of more than 200 subjects. Moreover, cooperation has been developed to reach more than 50&#xD;
+      shared research projects with collaborators in France. Among those, the nation-wide projects&#xD;
+      DISCoVery and French-COVID have been main protocols where we matched expected targets.&#xD;
+&#xD;
+      Altogether, these past experiences are key for future success in the present study.&#xD;
+&#xD;
+      RESEARCH HYPOTHESIS&#xD;
+&#xD;
+      The present study has a main target of demonstrating the feasibility of the Grapheal&#xD;
+      TestNPass device to accurately distinguish SARS-CoV-2 infections in a tested population. If&#xD;
+      conclusive, the evaluated test could help detect and therefore limit the spread of the virus&#xD;
+      upon national territory.&#xD;
+&#xD;
+      The root hypothesis is as following: the bond between the antibody directed against viral&#xD;
+      proteins and the virus itself is enough to generate within a graphene base semi-conductor a&#xD;
+      change in conductance that is measurable and repeatable. This electric current can therefore&#xD;
+      be used as a surrogate of viral infection, viral shedding and viral infectiousness. Obtained&#xD;
+      result being an electric impulse, it will be easily transferred to a device for digital&#xD;
+      display.&#xD;
+&#xD;
+      Simultaneously, the present study will bring to light some of the following elements:&#xD;
+&#xD;
+        -  Crucial information about ergonomic of the device for future development and improving.&#xD;
+           This study being the first use outside of Grapheal's team, the feedbacks from users will&#xD;
+           be of great help to support future development of the device.&#xD;
+&#xD;
+        -  Preliminary data on analytical performances. Will the main goal of the present study is&#xD;
+           to demonstrate the feasibility of COVID-19 diagnosis with the device, key performance&#xD;
+           date such as sensitivity, specificity, positive agreement and negative agreement will be&#xD;
+           estimated. This will serve as a strong basis for both future studies and approval from&#xD;
+           regulatory agencies&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 15, 2020</start_date>
+  <completion_date type="Anticipated">March 15, 2021</completion_date>
+  <primary_completion_date type="Anticipated">February 15, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Feasibility of TestNPass IVDMD for CoViD19 diagnosis on saliva samples.</measure>
+    <time_frame>DAY0 (single visit study, day of COVID19 diagnosis)</time_frame>
+    <description>Electric signal obtained in TestNPass Graphene Biosensor for samples collected from known COVID19 positive patients.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>TestNPass IVDMD swiftness</measure>
+    <time_frame>DAY0 (single visit study, day of COVID19 diagnosis)</time_frame>
+    <description>Number of failure to obtain data form TestNPass IVDMD in 10 minutes.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>TestNPass IVDMD ease of use</measure>
+    <time_frame>DAY0 (single visit study, day of COVID19 diagnosis)</time_frame>
+    <description>Number of &quot;ease of use&quot; score below 22 (included).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Analytics performance (sensibility) of TestNPass IVDMD</measure>
+    <time_frame>DAY0 (single visit study, day of COVID19 diagnosis)</time_frame>
+    <description>TestNPass IVDMD sensibility (in %)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Analytics performance (specificity) of TestNPass IVDMD</measure>
+    <time_frame>DAY0 (single visit study, day of COVID19 diagnosis)</time_frame>
+    <description>TestNPass IVDMD specificity (in %)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation of TestNPass electric signal intensity with RT-PCR Cycle threshold</measure>
+    <time_frame>DAY0 (single visit study, day of COVID19 diagnosis)</time_frame>
+    <description>TestNPass electric signal amplitude (in %) versus RT-PCR Ct (in AU)</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Covid19</condition>
+  <condition>SARS-CoV-2</condition>
+  <arm_group>
+    <arm_group_label>Cases</arm_group_label>
+    <description>30 cases will be recruited : Patient diagnosed by RT-PCR for a COVID19 at Grenoble University Hospital</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Controls</arm_group_label>
+    <description>30 controls will be recruited : Patient suspected for a COVID-19 but negative by RT-PCR for a COVID19 at Grenoble University Hospital</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>TestNPass</intervention_name>
+    <description>Patients will undergo saliva sampling. Grenoble University Hospital lab will perform diagnosis using TestNPass IVDMD. Results won't be used for patient care (only recorded for RESEARCH purpose).</description>
+    <arm_group_label>Cases</arm_group_label>
+    <arm_group_label>Controls</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Saliva Nasopharyngeal swab&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patient suspected of a COVID19&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Men or Women over 18 years old&#xD;
+&#xD;
+          -  suspect of COVID19 and consulting for a diagnosis at Grenoble University Hospital.&#xD;
+&#xD;
+          -  Duly informed and not opposed to participation at GraphealNPass' study&#xD;
+&#xD;
+          -  Affiliated to french social security.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Patients protected by law (minors, pregnant or breastfeeding woman, patient under&#xD;
+        guardianship or deprived of his/her liberty or hospitalized without his/her consent)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Benjamin Némoz, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University Hospital, Grenoble</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Benjamin Némoz, Némoz</last_name>
+    <phone>+33 4 76 76 63 16</phone>
+    <email>BNemoz1@chu-grenoble.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Pierre AUDOIN, MS</last_name>
+    <phone>+334 76 76 95 98</phone>
+    <email>paudoin@chu-grenoble.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Grenoble University Hospital</name>
+      <address>
+        <city>Grenoble cedex 9</city>
+        <zip>38043</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Benjamin Némoz, MD</last_name>
+      <phone>+334 76 76 63 16</phone>
+      <email>BNemoz1@chu-grenoble.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Marion Le Maréchal, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <link>
+    <url>https://patents.google.com/patent/US9105793B2/en</url>
+    <description>Dipankar, K., Bouchiat, V., Marty, L., &amp; Bendiab, N. (2016). Method of forming a graphene device (Patent No. WO2016142400A1).</description>
+  </link>
+  <link>
+    <url>https://www.santepubliquefrance.fr/dossiers/coronavirus-covid-19/coronavirus-chiffres-cles-et-evolution-de-la-covid-19-en-france-et-dans-le-monde</url>
+    <description>Santé Publique France. (2020). Coronavirus : chiffres clés et évolution de la COVID-19 en France.</description>
+  </link>
+  <link>
+    <url>https://dx.doi.org/10.17504/protocols.io.bk6fkzbn</url>
+    <description>Bouchiat, V. (2020). Instruction for Use of the SARS-Cov-2 Diagnostic test kit / TestNPass / GRAPHEAL.</description>
+  </link>
+  <link>
+    <url>https://solidarites-sante.gouv.fr/IMG/pdf/avis_conseil_scientifique_3_septembre_2020.pdf</url>
+    <description>Conseil Scientifique. (2020). Avis n°9 du Conseil scientifique COVID-19.</description>
+  </link>
+  <link>
+    <url>https://covid19.who.int/</url>
+    <description>WHO. (2020a). Coronavirus Disease (COVID-19) Dashboard.</description>
+  </link>
+  <link>
+    <url>https://www.who.int/director-general/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---16-march-2020</url>
+    <description>WHO. (2020b). WHO Media Briefing on COVID-19 - 16 March 2020.</description>
+  </link>
+  <link>
+    <url>https://doi.org/10.1101/2020.10.15.20209817</url>
+    <description>WHO SOLIDARITY trial consortium. (2020). Repurposed antiviral drugs for COVID-19 -interim WHO SOLIDARITY trial results WHO. MedRxiv.</description>
+  </link>
+  <reference>
+    <citation>Brengel-Pesce K, Morand P, Schmuck A, Bourgeat MJ, Buisson M, Barguès G, Bouzid M, Seigneurin JM. Routine use of real-time quantitative PCR for laboratory diagnosis of Epstein-Barr virus infections. J Med Virol. 2002 Mar;66(3):360-9.</citation>
+    <PMID>11793388</PMID>
+  </reference>
+  <reference>
+    <citation>Danis K, Epaulard O, Bénet T, Gaymard A, Campoy S, Botelho-Nevers E, Bouscambert-Duchamp M, Spaccaferri G, Ader F, Mailles A, Boudalaa Z, Tolsma V, Berra J, Vaux S, Forestier E, Landelle C, Fougere E, Thabuis A, Berthelot P, Veil R, Levy-Bruhl D, Chidiac C, Lina B, Coignard B, Saura C; Investigation Team. Cluster of Coronavirus Disease 2019 (COVID-19) in the French Alps, February 2020. Clin Infect Dis. 2020 Jul 28;71(15):825-832. doi: 10.1093/cid/ciaa424.</citation>
+    <PMID>32277759</PMID>
+  </reference>
+  <reference>
+    <citation>Le Maréchal M, Morand P, Epaulard O, Némoz B. COVID-19 in clinical practice: A narrative synthesis. Med Mal Infect. 2020 Nov;50(8):639-647. doi: 10.1016/j.medmal.2020.09.012. Epub 2020 Sep 29. Review.</citation>
+    <PMID>33007400</PMID>
+  </reference>
+  <reference>
+    <citation>Seo G, Lee G, Kim MJ, Baek SH, Choi M, Ku KB, Lee CS, Jun S, Park D, Kim HG, Kim SJ, Lee JO, Kim BT, Park EC, Kim SI. Rapid Detection of COVID-19 Causative Virus (SARS-CoV-2) in Human Nasopharyngeal Swab Specimens Using Field-Effect Transistor-Based Biosensor. ACS Nano. 2020 Apr 28;14(4):5135-5142. doi: 10.1021/acsnano.0c02823. Epub 2020 Apr 20. Erratum in: ACS Nano. 2020 Sep 22;14(9):12257-12258.</citation>
+    <PMID>32293168</PMID>
+  </reference>
+  <reference>
+    <citation>Wu Z, McGoogan JM. Characteristics of and Important Lessons From the Coronavirus Disease 2019 (COVID-19) Outbreak in China: Summary of a Report of 72 314 Cases From the Chinese Center for Disease Control and Prevention. JAMA. 2020 Apr 7;323(13):1239-1242. doi: 10.1001/jama.2020.2648.</citation>
+    <PMID>32091533</PMID>
+  </reference>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>December 3, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 3, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 4, 2020</study_first_posted>
+  <last_update_submitted>December 4, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 4, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 8, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>saliva</keyword>
+  <keyword>IVDMD (in vitro diagnosis medical device)</keyword>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>Grapheal and Grenoble University Hospital will decide to share IPD if possible according to GPDR regulation.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

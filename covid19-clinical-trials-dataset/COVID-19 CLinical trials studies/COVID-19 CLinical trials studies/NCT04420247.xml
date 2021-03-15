@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2490">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04420247</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CLOROTRIAL</org_study_id>
+    <nct_id>NCT04420247</nct_id>
+  </id_info>
+  <brief_title>Efficacy of Chloroquine or Hydroxychloroquine in Treating Pneumonia Caused by SARS-Cov-2 - COVID-19</brief_title>
+  <official_title>Multicentric Pragmatic Randomized Controled Trial to Evaluate the Efficacy Chloroquine or Hydroxychloroquine for Five Days in Treating Pneumonia Caused by SARS-Cov-2 - COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Centro de Estudos e Pesquisa em Emergencias Medicas e Terapia Intensiva</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Centro de Estudos e Pesquisa em Emergencias Medicas e Terapia Intensiva</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Facing the challenge of finding an efficient treatment for COVID-19, the viral pneumonia&#xD;
+      caused by the Coronavirus SARS-Cov-2, this study intended to test if Chloroquine or&#xD;
+      Hydroxychloroquine, two drugs with strong in-vitro antiviral role proven by numerous studies&#xD;
+      and with a well defined safety profile established, for efficacy in treating COVID-19 and&#xD;
+      improving an ordinal primary outcome composed by a 9-levels scale, which was recomended by&#xD;
+      the World Health Organization.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a Phase 3, Pragmatic, Multicentric Randomized Controled Trial of efficacy to test the&#xD;
+      effect of either Chloroquine or Hydroxychloroquine for 5 days in the recomended dose&#xD;
+      standardized by brazilian Ministry of Health.&#xD;
+&#xD;
+      Patients were randomized (1:1) using stratified randomization by hospital and severity at the&#xD;
+      moment of randomization (stipulated by use of mechanical ventilation or not) into two arms:&#xD;
+      Intervention and Control. Intervention group recieved a loading dose of 900mg of Chloroquine&#xD;
+      or 800mg of Hydroxycloroquine in the first day, followed by 450mg of chloroquine of 400mg of&#xD;
+      hydroxychloroquine. Primary and secondary outcomes were evaluated on the 5th, 7th, 10th,&#xD;
+      14th, 28th day after randomization.&#xD;
+&#xD;
+      Although the outcomes presented in the latest version were updated late on&#xD;
+      ClinicalTrials.org, on October 23, 2020, these outcomes were already present in the trial&#xD;
+      protocol approved by the Brazilian National Commission for Ethics in Research on April 8,&#xD;
+      2020 (approval number: 3960331) and amending the protocol, approved by the same National&#xD;
+      Commission on May 25, 2020 (approval number: 4044848)&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">April 16, 2020</start_date>
+  <completion_date type="Actual">September 3, 2020</completion_date>
+  <primary_completion_date type="Actual">August 20, 2020</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Two arms - Intervention and Control Intervention received unblinded treatment with Chloroquine or Hyroxycloroquine for 5 days, as well as standard treatment available and recomended by the Brazilian Guidelines for COVID-19.&#xD;
+Control group received just the standard treatment available and recomended by the Brazilian Guidelines for COVID-19.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>World Health Organization (WHO) 9-levels ordinal scale (from 0-8)</measure>
+    <time_frame>14 days after randomization</time_frame>
+    <description>Evaluation of the clinical status of patients on the 14th day after randomization defined by the 9-levels ordinal scale, with lower scores meaning better outcomes.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>World Health Organization (WHO) 9-levels ordinal scale (from 0-8)</measure>
+    <time_frame>5, 7, 10 and 28 days after randomization</time_frame>
+    <description>Evaluation of the clinical status of patients on the 5th, 7th, 10th and 28th day after randomization defined by the 9-levels ordinal scale, with lower scores meaning better outcomes.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>28 days after randomization</time_frame>
+    <description>All-cause mortality at 28 days after randomization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ventilation free days</measure>
+    <time_frame>28 days after randomization</time_frame>
+    <description>Number of days without need of Mechanical Ventilation at 28 days after randomization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ICU Lenght of Stay</measure>
+    <time_frame>28 days after randomization</time_frame>
+    <description>ICU Lenght of Stay on survivors at 28 days after randomization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital Lenght of Stay</measure>
+    <time_frame>28 days after randomization</time_frame>
+    <description>Hospital Lenght of Stay on survivors at 28 days after randomization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Acute Kidney Disease incidence</measure>
+    <time_frame>28 days after randomization</time_frame>
+    <description>Acute Kidney Disease incidence measured by Kidney Disease Improving Global Outcomes (KDIGO) stage 3 sometime until the 28th day after randomization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of patients needing dialysis</measure>
+    <time_frame>28 days after randomization</time_frame>
+    <description>Percentage of patients needing dialysis sometime until the 28th day.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Coagulopathy incidence</measure>
+    <time_frame>28 days after randomization</time_frame>
+    <description>Presence of coagulopathy sometime until the 28th day (platelets &lt; 150000 and/or INR &gt;1.5 and/or KPTT &gt; 35 seconds).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean of C Reactive Protein Levels</measure>
+    <time_frame>5, 7, 10, 14 and 28 days after randomization</time_frame>
+    <description>Mean of C Reactive Protein Levels on the 5th, 7th, 10th, 14th and 28th day after randomization, during period of hospitalization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sequential Organ Failure Assessment (SOFA) scores</measure>
+    <time_frame>5, 7, 10, 14 and 28 days after randomization</time_frame>
+    <description>Sequential Organ Failure Assessment (SOFA) scores (range, 0-24, with higher scores indicating greater organ dysfunction) on the 5th, 7th, 10th, 14th and 28th day after randomization, during period of hospitalization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neutrophils/lymphocytes ratio</measure>
+    <time_frame>5, 7, 10, 14 and 28 days after randomization</time_frame>
+    <description>Neutrophils/lymphocytes ratio on the 5th, 7th, 10th, 14th and 28th day after randomization, during period of hospitalization.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Arrhythmia</measure>
+    <time_frame>28 days after randomization</time_frame>
+    <description>Safety outcome: Any kind of arrhythmia identified by the attending physician at the time of the intercurrence, confirmed by an electrocardiogram (ECG), sometime until the 28th day</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">142</enrollment>
+  <condition>COVID</condition>
+  <condition>COVID-19</condition>
+  <condition>SARS-CoV 2</condition>
+  <condition>Coronavirus</condition>
+  <condition>Corona Virus Infection</condition>
+  <arm_group>
+    <arm_group_label>Intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Treatment with either Chloroquine or Hydroxychloroquine according to what was available in the hospital:&#xD;
+Chloroquine - 900mg on the first day, followed by 450mg in the next 4 days. Hydroxychloroquine - 800mg on the first day, followed by 450mg in the next 4 days.&#xD;
++&#xD;
+Standard treatment available and recomended by the Brazilian Guidelines for COVID-19.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Standard treatment available and recomended by the Brazilian Guidelines for COVID-19.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Chloroquine</intervention_name>
+    <description>5 days of treatment with Chloroquine + Standard Care</description>
+    <arm_group_label>Intervention</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Hydroxychloroquine</intervention_name>
+    <description>5 days of treatment with Hydroxychloroquine + Standard Care</description>
+    <arm_group_label>Intervention</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>standard care</intervention_name>
+    <description>Standard Care according to Brazilian Guidelines for treating COVID-19</description>
+    <arm_group_label>Control</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adult Males and non-pregnant females that accept and sign the informed consent.&#xD;
+&#xD;
+          -  Hospitalized with COVID-19 suspection that has collected the confirmatory test&#xD;
+&#xD;
+          -  To have at least one of thes symptoms: Fever, coughing, throat ache or runny nose.&#xD;
+&#xD;
+          -  To have at least one of these findings: radiological findings that indicates COVID-10&#xD;
+             (bilatareal ground grass images); O2 saturation lower than 94% without supplementation&#xD;
+             and crackles in lung auscultation; Need of O2 supplementation; Need of Mechanical&#xD;
+             Ventilation.&#xD;
+&#xD;
+          -  Female patients must also agree to use efficient counterceptive methods during the&#xD;
+             evaluation period.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients with psoriasis or other exfoliative disease, porphyria, epilepsy, myasthenia&#xD;
+             gravis, advanced liver failure or glucose-6-phosphate dehydrogenase deficiency.&#xD;
+&#xD;
+          -  ALT / AST&gt; 5 times the upper limit of normal.&#xD;
+&#xD;
+          -  Severe chronic kidney disease in stage 4 or requiring dialysis (ie, eGFR &lt;30).&#xD;
+&#xD;
+          -  Pregnancy or breastfeeding.&#xD;
+&#xD;
+          -  Early transfer to another hospital that is not a study site within 72 hours.&#xD;
+&#xD;
+          -  Severe heart disease and / or a history of cardiac arrhythmia.&#xD;
+&#xD;
+          -  Allergy to Chloroquine and / or Hydroxychloroquine.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Centro de Estudos e Pesquisa em Emergencias Clinicas e Terapia Intensiva</name>
+      <address>
+        <city>Curitiba</city>
+        <state>Parana</state>
+        <zip>82530200</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+  </location_countries>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>June 2, 2020</study_first_submitted>
+  <study_first_submitted_qc>June 5, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">June 9, 2020</study_first_posted>
+  <last_update_submitted>October 23, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 23, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 27, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Centro de Estudos e Pesquisa em Emergencias Medicas e Terapia Intensiva</investigator_affiliation>
+    <investigator_full_name>ALVARO REA-NETO, MD</investigator_full_name>
+    <investigator_title>Director of the Reseach Center</investigator_title>
+  </responsible_party>
+  <keyword>VIRAL PNEUMONIA</keyword>
+  <keyword>CORONAVIRUS</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>COVID</keyword>
+  <keyword>SARS-COV-2</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+    <mesh_term>Pneumonia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hydroxychloroquine</mesh_term>
+    <mesh_term>Chloroquine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1471">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04627194</url>
+  </required_header>
+  <id_info>
+    <org_study_id>76.29.31_48.04.06-01</org_study_id>
+    <nct_id>NCT04627194</nct_id>
+  </id_info>
+  <brief_title>Characteristics of COVID-19 Patients in Kazakhstan in Early 2020</brief_title>
+  <official_title>Epidemiological and Clinical Characteristics of COVID-19 Patients in Kazakhstan in Early 2020: a Retrospective, Observational Cohort Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Semey State Medical University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Semey State Medical University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aim of this study is to assess the epidemiological and clinical features of patients&#xD;
+      diagnosed with COVID-19 in Kazakhstan at the onset of the pandemic.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      There is a paucity of data available on the epidemiological and clinical characteristics of&#xD;
+      coronavirus disease 2019 (COVID-19) in Kazakhstan. While a global effort in search for&#xD;
+      effective treatments and vaccines against COVID-19 is in effect, it is important that high&#xD;
+      quality and up-to-date information be available from a broad variety of populations on the&#xD;
+      dynamics of infection. This is especially important in regions where, due to resource&#xD;
+      shortage, epidemiologic surveillance may have gaps. To address the current gaps, medical&#xD;
+      records will be obtained for patients with confirmed COVID-19 during the first months of the&#xD;
+      pandemic (February-April 2020). The epidemiologic and clinical features including the&#xD;
+      demographics, clinical manifestation, laboratory parameters, radiologic assessments and&#xD;
+      clinical outcomes will be analyzed. The results of this study will facilitate the clinical&#xD;
+      management of COVID-19 patients in Kazakhstan and ultimately inform the ongoing efforts to&#xD;
+      curb the spread of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in the&#xD;
+      region.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">February 20, 2020</start_date>
+  <completion_date type="Anticipated">December 1, 2020</completion_date>
+  <primary_completion_date type="Actual">April 30, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Clinical and demographic predictors of disease severity among hospitalized COVID-19 patients.</measure>
+    <time_frame>approximately 70 days</time_frame>
+    <description>Risk factors associated with disease severity and their odds ratios (ORs) will be assessed by the univariable and multivariable logistic regression models.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Clinical and demographic predictors of mortality among hospitalized COVID-19 patients.</measure>
+    <time_frame>approximately 70 days</time_frame>
+    <description>Risk factors associated with death and their odds ratios (ORs) will be assessed by the univariable and multivariable logistic regression models.</description>
+  </primary_outcome>
+  <number_of_groups>5</number_of_groups>
+  <enrollment type="Anticipated">1000</enrollment>
+  <condition>Covid19</condition>
+  <condition>Pneumonia, Viral</condition>
+  <arm_group>
+    <arm_group_label>Mild and asymptomatic COVID-19 patients</arm_group_label>
+    <description>Symptomatic patients meeting the World Health Organization (WHO) case definition for COVID-19 without evidence of viral pneumonia or hypoxia, who have a laboratory-confirmed SARS-CoV-2 infection, or asymptomatic patients with a laboratory-confirmed SARS-CoV-2 infection at the time of hospitalization.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Moderate severity COVID-19 patients</arm_group_label>
+    <description>Symptomatic patients with a laboratory-confirmed SARS-CoV-2 infection, meeting the WHO case definition for moderate COVID-19 disease severity [including clinical signs of pneumonia e.g. fever, cough, dyspnoea, fast breathing, but no signs of severe pneumonia] at the time of hospitalization.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Severe-to-critical COVID-19 patients</arm_group_label>
+    <description>Symptomatic patients with a laboratory-confirmed SARS-CoV-2 infection, meeting the WHO case definition(s) for severe COVID-19 disease presentation [including clinical signs of pneumonia e.g. fever, cough, dyspnoea, fast breathing, and one of the following: respiratory rate &gt; 30 breaths/min; severe respiratory distress; or oxygen saturation (SpO2) &lt; 90% on room air] or for critical COVID-19 disease presentation [including acute respiratory distress syndrome (ARDS), sepsis, septic shock or other complications such as acute pulmonary embolism, acute coronary syndrome, acute stroke and delirium] at the time of hospitalization.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>COVID-19 survivors</arm_group_label>
+    <description>Patients diagnosed with a laboratory-confirmed COVID-19, who survived.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>COVID-19 non-survivors</arm_group_label>
+    <description>Patients diagnosed with a laboratory-confirmed COVID-19, who did not survive.</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Medical records will be obtained for all subjects, who presented with COVID-19-like&#xD;
+        symptoms or had a suspected exposure to SARS-CoV-2 between Feb 20 and April 30, 2020 as&#xD;
+        reported to the Republican Centre for Health Development by regional hospitals. Only those&#xD;
+        patients who had a positive SARS-CoV-2 PCR test result will be included in the analysis of&#xD;
+        primary and secondary outcome measures.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Laboratory confirmation of SARS-CoV-2 infection by polymerase chain reaction.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Yersin Zhunussov, MD, D.M.S.</last_name>
+    <role>Study Chair</role>
+    <affiliation>Semey Medical University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Raifa Ivanova, MD, D.M.S.</last_name>
+    <role>Study Director</role>
+    <affiliation>Semey Medical University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Maiya Goremykina, M.D, C.M.S</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Semey Medical University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Sergey Yegorov, Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Nazarbayev University, School of Sciences and Humanities</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Semey Medical University</name>
+      <address>
+        <city>Semey</city>
+        <state>East Kazakhstan</state>
+        <country>Kazakhstan</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Kazakhstan</country>
+  </location_countries>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>November 6, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 12, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 13, 2020</study_first_posted>
+  <last_update_submitted>November 12, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 12, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 13, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia, Viral</mesh_term>
+    <mesh_term>Pneumonia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

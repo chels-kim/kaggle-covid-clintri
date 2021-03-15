@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4784">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04542863</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020KT102</org_study_id>
+    <nct_id>NCT04542863</nct_id>
+  </id_info>
+  <brief_title>The Molecular Imaging Research of F-18 Labeled DX600 PET Probe</brief_title>
+  <official_title>The Molecular Imaging Research of F-18 Labeled DX600 PET Probe</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Beijing Cancer Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Beijing Cancer Hospital</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Angiotensin-converting enzyme 2 (ACE2) plays an important role in renin-angiotensin system&#xD;
+      (RAS) and has been reported to relate with cancer. Recently, it has also been proved as the&#xD;
+      key target for COVID-19 infection.&#xD;
+&#xD;
+      DX600 is a polypeptide that can specific binding to ACE2 specifically with nanomolar affinity&#xD;
+      reported in literature. This study constrcuted a radio-tracer, DX600 Labeled by PET&#xD;
+      Radionuclide, to monitoring biodistribution ACE2 in human beings, evaluate the detection&#xD;
+      ability of radio-tracer in ACE2 over-expression tumors and dynamic changes of ACE2 expression&#xD;
+      under therapy.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 11, 2020</start_date>
+  <completion_date type="Anticipated">September 2022</completion_date>
+  <primary_completion_date type="Anticipated">September 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Standard uptake value (SUV)</measure>
+    <time_frame>2 years</time_frame>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Solid Tumor</condition>
+  <arm_group>
+    <arm_group_label>Imaging cohort</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>All study participants will be allocated to this arm (single-arm study). Study participants will undergo 18F-DX600 PET/CT scans.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>18F-DX600 PET/CT</intervention_name>
+    <description>DX600, labeled with 18F will be used as a molecular imaging tracer for PET/CT scanning</description>
+    <arm_group_label>Imaging cohort</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age &gt;3 years old; both sex;&#xD;
+&#xD;
+          -  ECoG 0 or 1;&#xD;
+&#xD;
+          -  Patients that would undergo biopsy or surgical operation with high ACE2 expression&#xD;
+             tumors such as colorectal cancer, renal cancer, pancreatic cancer, gastric cancer,&#xD;
+             liver cancer, lung cancer, brain cancer or suspected tumor.&#xD;
+&#xD;
+          -  use 18F-FDG PET/CT as baseline evaluation&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Significant hepatic or renal dysfunction;&#xD;
+&#xD;
+          -  Is Pregnant or ready to pregnant;&#xD;
+&#xD;
+          -  Cannot lie on their back for half an hour;&#xD;
+&#xD;
+          -  Suffering from claustrophobia or other mental diseases;&#xD;
+&#xD;
+          -  Refusal to join the clinical study;&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>3 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Hua Zhu</last_name>
+    <phone>010-88196495</phone>
+    <email>zhuhuabch@pku.edu.cn</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Beijing Cancer Hospital</name>
+      <address>
+        <city>Beijing</city>
+        <state>Beijing</state>
+        <zip>100142</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Shunlian Zhou</last_name>
+      <email>zhoushunlian@163.com</email>
+    </contact>
+    <investigator>
+      <last_name>Hua Zhu</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>September 2, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 2, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 9, 2020</study_first_posted>
+  <last_update_submitted>October 21, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 21, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 22, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Beijing Cancer Hospital</investigator_affiliation>
+    <investigator_full_name>Hua Zhu</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

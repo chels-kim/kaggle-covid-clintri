@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3031">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04640181</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020-001708-41</org_study_id>
+    <nct_id>NCT04640181</nct_id>
+  </id_info>
+  <brief_title>Factor Xa Inhibitor Versus Standard of Care Heparin in Hospitalized Patients With COVID-19 (XACT)</brief_title>
+  <acronym>XACT</acronym>
+  <official_title>A Phase 2-3, Multi-Center, Randomized Trial to Study the Potential Benefit of Factor Xa Inhibitor (Rivaroxaban) Versus Standard of Care Low Molecular Weight Heparin (Lovenox) in Hospitalized Patients With COVID-19 (XACT)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>St. David's HealthCare</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>St. David's HealthCare</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is a multicenter, randomized trial to study the potential benefit of treatments&#xD;
+      with a direct FXa inhibitor (rivaroxaban) versus standard of care dose subcutaneous low&#xD;
+      molecular weight heparin (LMWH) (Lovenox) in hospitalized subjects with COVID-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      As clinicians learn how to better care for hospitalized COVID-19 patients, the clinical&#xD;
+      picture of a hypercoagulable state with abnormal blood clotting has emerged. Fulminant heart,&#xD;
+      lung, kidney, and liver failure are hallmarks of COVID-19 non-survivors and have been&#xD;
+      associated with abnormal blood coagulation parameters, such as elevated D-Dimer levels. The&#xD;
+      current standard of care using prophylactic levels of subcutaneous heparin has not&#xD;
+      significantly mitigated the risk of patients entering a hypercoagulable state, however the&#xD;
+      dysregulated thrombotic and inflammatory events that drive poor outcomes in many COVID-19&#xD;
+      patients may be amenable to early treatment with a factor Xa (FXa) inhibitor. The purpose of&#xD;
+      this study is to study the potential benefit of treatments with a direct FXa inhibitor&#xD;
+      (rivaroxaban) versus standard of care dose subcutaneous LMWH (Lovenox) in hospitalized&#xD;
+      subjects with COVID-19.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 1, 2020</start_date>
+  <completion_date type="Anticipated">July 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Open-label Multicenter Prospective Randomized Trial in hospitalized patients with severe acute respiratory syndrome (SARS)-CoV-2 infection. Patients will be randomized 1:1 to subcutaneous enoxaparin (Lovenox) versus rivaroxaban after hospitalization, with the exact dosing is based on an adaptive strategy.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+    <masking_description>Open label</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Death or 30-day all cause mortality</measure>
+    <time_frame>30 days</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Mechanical ventilation, intubation</measure>
+    <time_frame>30 days</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Transfer to an ICU setting</measure>
+    <time_frame>30 days</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>New requirement for hemodialysis (HD) or continuous renal replacement therapy (CRRT) or extracorporeal membrane oxygenation (ECMO)</measure>
+    <time_frame>30 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>New thrombotic events</measure>
+    <time_frame>30 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Major bleeding event</measure>
+    <time_frame>30 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to recovery (defined as no limitation or minor limitation in activity level or hospitalized but require no oxygen)</measure>
+    <time_frame>30 days</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Adaptive Dosing: Enoxaparin</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Low 40mg subcutaneous (SQ) daily, or&#xD;
+Intermediate 40mg SQ q12 hours, or&#xD;
+Therapeutic 1mg/kg SQ q12 hours</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Adaptive Dosing: Rivaroxaban</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Low 10mg po daily&#xD;
+Intermediate 10mg po daily&#xD;
+Therapeutic 20mg po daily</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Enoxaparin</intervention_name>
+    <description>Subcutaneous enoxaparin While hospitalized only.</description>
+    <arm_group_label>Adaptive Dosing: Enoxaparin</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Rivaroxaban</intervention_name>
+    <description>Oral rivaroxaban While hospitalized and through discharge for a total of 28 days.</description>
+    <arm_group_label>Adaptive Dosing: Rivaroxaban</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients age 18-100 admitted to hospital with laboratory-confirmed SARS-CoV-2&#xD;
+             infection&#xD;
+&#xD;
+          -  Not be intubated or mechanically ventilated or imminently at risk for same or ICU&#xD;
+             admission within 24 hours of enrollment.&#xD;
+&#xD;
+          -  Not be admitted for central nervous system (CNS) diagnosis&#xD;
+&#xD;
+          -  Not have a current history of a condition requiring full therapeutic anticoagulation&#xD;
+             such as venous thromboembolism, atrial fibrillation.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Medical Conditions&#xD;
+&#xD;
+          -  Life expectancy of less than 6 months&#xD;
+&#xD;
+          -  Active or recent gastrointestinal bleeding in the past 6 months&#xD;
+&#xD;
+          -  Intracranial bleeding in the past 6 months&#xD;
+&#xD;
+          -  Major trauma or head trauma in the past 2 months&#xD;
+&#xD;
+          -  Major surgery in the past 2 months or planned within 2 weeks after completion of the&#xD;
+             study&#xD;
+&#xD;
+          -  Recent spinal or epidural procedures in the past 2 weeks&#xD;
+&#xD;
+          -  Ischemic stroke in the past 2 weeks&#xD;
+&#xD;
+          -  History of intracranial neoplasm, arteriovenous malformation or aneurysm&#xD;
+&#xD;
+          -  History of acquired or spontaneous impairment of hemostasis such as but not limited to&#xD;
+             hemophilia, idiopathic thrombocytopenic purpura (ITP), thrombotic thrombocytopenic&#xD;
+             purpura (TTP), von Willebrand disease&#xD;
+&#xD;
+          -  Allergy to heparin or rivaroxaban or any factor Xa inhibitors, including a history of&#xD;
+             heparin-induced thrombocytopenia&#xD;
+&#xD;
+          -  History of antiphospholipid syndrome&#xD;
+&#xD;
+          -  End-stage renal failure requiring dialysis&#xD;
+&#xD;
+          -  Valvular heart disease requiring chronic anticoagulation&#xD;
+&#xD;
+          -  History of atrial fibrillation, atrial flutter or venous thromboembolic event (VTE)&#xD;
+             currently requiring anticoagulation&#xD;
+&#xD;
+          -  History of solid organ transplant requiring immunosuppressant therapy&#xD;
+&#xD;
+          -  Cancer requiring ongoing anticoagulation&#xD;
+&#xD;
+          -  History of cirrhosis or liver failure, hepatorenal syndrome&#xD;
+&#xD;
+          -  History of baseline bronchiectasis&#xD;
+&#xD;
+          -  History of systemic lupus erythematosus or other autoimmune diseases requiring&#xD;
+             immunosuppressant therapy.&#xD;
+&#xD;
+        Vital signs&#xD;
+&#xD;
+          -  Uncontrolled hypertension: systolic blood pressure (SBP) &gt; 180 mm Hg or diastolic&#xD;
+             blood pressure (DBP) &gt; 105mm Hg. Subjects who have a transient, higher blood pressure&#xD;
+             elevation (SBP 180-200 mm Hg) may enter the study if a repeat confirmation is back in&#xD;
+             range prior to enrollment.&#xD;
+&#xD;
+        Laboratory&#xD;
+&#xD;
+          -  PT INR &gt; 2.0.&#xD;
+&#xD;
+          -  Platelet &lt; 90 10^3/µL&#xD;
+&#xD;
+          -  Total bilirubin &gt; 3.0 mg/dL&#xD;
+&#xD;
+          -  Hemoglobin &lt; 9.0 g/dL&#xD;
+&#xD;
+          -  Urine with gross hematuria (not due to menses)&#xD;
+&#xD;
+          -  Estimated glomerular filtration rate (GFR) less than 30 mL/min calculated with the&#xD;
+             Cockcroft-Gault formula&#xD;
+&#xD;
+        Medications&#xD;
+&#xD;
+          -  Patients on dual anti-platelet therapy&#xD;
+&#xD;
+          -  Patients taking hypoxia-inducible factor prolyl hydroxylase inhibitors (such as&#xD;
+             roxadustat.)&#xD;
+&#xD;
+          -  Erythropoiesis-stimulating agents (such as epoetin alfa, darbepoetin alfa)&#xD;
+&#xD;
+        Other COVID-19 drug studies or trials&#xD;
+&#xD;
+          -  Any COVID19 vaccination trials&#xD;
+&#xD;
+          -  Experimental COVID drug trial except for treatment(s) that has become accepted&#xD;
+             standard of care.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Edward Chafizadeh, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Cardio Texas, PLLC</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Theresa Pham, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>PPD Austin</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Matt Cowperthwaite, PhD</last_name>
+    <phone>512-544-2626</phone>
+    <email>info@stdavidsresearch.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Theresa Pham, MD</last_name>
+    <email>theresa.pham@ppdi.com</email>
+  </overall_contact_backup>
+  <link>
+    <url>https://druginfo.nlm.nih.gov/drugportal/name/Enoxaparin+sodium</url>
+    <description>Drug information for Enoxaparin sodium provided by the National Library of Medicine</description>
+  </link>
+  <link>
+    <url>http://www.janssenlabels.com/package-insert/product-monograph/prescribing-information/XARELTO-pi.pdf</url>
+    <description>Xarelto (rivaroxaban) full prescribing information</description>
+  </link>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>November 19, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 19, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 23, 2020</study_first_posted>
+  <last_update_submitted>November 19, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 19, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 23, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Coronavirus</keyword>
+  <keyword>Enoxaparin</keyword>
+  <keyword>Rivaroxaban</keyword>
+  <keyword>Anticoagulants</keyword>
+  <keyword>Anti-inflammatory</keyword>
+  <keyword>Anti-viral</keyword>
+  <keyword>ARDS</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Enoxaparin</mesh_term>
+    <mesh_term>Rivaroxaban</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

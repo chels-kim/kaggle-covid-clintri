@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4285">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04742842</url>
+  </required_header>
+  <id_info>
+    <org_study_id>COV101</org_study_id>
+    <nct_id>NCT04742842</nct_id>
+  </id_info>
+  <brief_title>The Safety and Immunogenicity of a DNA-based Vaccine (COVIGEN) in Healthy Volunteers</brief_title>
+  <acronym>COVALIA</acronym>
+  <official_title>A Phase I, Double-blind, Dose-ranging, Randomised, Placebo-controlled Trial to Study the Safety and Immunogenicity of a DNA-based Vaccine Against COVID-19 (COVIGEN) in Healthy Participants Aged 18 to 75 Years Old</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Sydney</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Bionet Co., Ltd</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Technovalia</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Telethon Kids Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Institute for Clinical Pathology and Medical Research</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Sydney</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In this trial, we are evaluating the safety and tolerability of a new investigational DNA&#xD;
+      vaccine to protect against SARS CoV-2 virus, called COVIGEN, that is developed by a company&#xD;
+      called BioNet-Asia.&#xD;
+&#xD;
+      A device will be used to inject the vaccine that does not require the use of a needle&#xD;
+      (needle-free injection made by a company called Pharmajet). For delivery into the skin&#xD;
+      (intradermally) a device called &quot;Tropis&quot; will be used, and for delivery into the muscle&#xD;
+      (intramuscularly) a device called &quot;Stratis&quot; will be used.&#xD;
+&#xD;
+      Each participant will be given 2 vaccinations, either two active vaccines or two placebo&#xD;
+      vaccines on Day 1 and Day 29.&#xD;
+&#xD;
+      Participants will be followed up using a combination of on-site and telephone visits for&#xD;
+      assessment of safety and immunogenicity for 12 months from 1st vaccination.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 15, 2021</start_date>
+  <completion_date type="Anticipated">December 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2022</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Non-blind staff preparing and administering vaccine or placebo do not participate in any other aspects of the study. Remaining trial staff and participant are blinded.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Frequency of solicited local reactogenicity AEs</measure>
+    <time_frame>Through 7 days post-vaccination</time_frame>
+    <description>Percentage of participants with any local reaction (pain, swelling/induration, erythema/redness) for 7 days following each vaccination</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Frequency of solicited systemic reactogenicity AEs</measure>
+    <time_frame>Through 7 days post-vaccination</time_frame>
+    <description>Percentage of participants with any systemic reaction (fever, fatigue, chills, myalgia, arthralgia, headache, nausea/vomiting and diarrhea) for 7 days following each vaccination</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Frequency of any unsolicited AEs</measure>
+    <time_frame>Day 1 to Day 57</time_frame>
+    <description>Percentage of participants with unsolicited AEs up to Day 57</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Frequency of any serious adverse events (SAEs)</measure>
+    <time_frame>Day 1 to 12 months after 1st vaccination</time_frame>
+    <description>Percentage of participants with SAEs from Day 1 to 12 months after 1st vaccination</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Frequency of any medically attended adverse events (MAAES)</measure>
+    <time_frame>From Day 1 to 12 months after the 1st vaccination</time_frame>
+    <description>Measured by MedDRA classification, severity score and relatedness.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in safety laboratory values from baseline</measure>
+    <time_frame>From Day1 to Day 36</time_frame>
+    <description>Number of participants with abnormal laboratory values (haematology, chemistry and urinalysis) by FDA toxicity scoring.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>GMTs for serum neutralizing antibody response</measure>
+    <time_frame>At day1, day 29 and day 57</time_frame>
+    <description>Level of neutralizing antibodies as measured by SARS-CoV-2 Neutralization assay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>GMFR from baseline for serum neutralizing antibody response</measure>
+    <time_frame>At day 57</time_frame>
+    <description>Measured by SARS-CoV-2 Neutralization assay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Seroconversion rate for serum neutralizing antibody response</measure>
+    <time_frame>At day 57 compare to baseline</time_frame>
+    <description>Defined as proportion of participants with a with a ≥4-fold rise</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>GMTs for serum S1- and RBD-specific IgG antibody responses</measure>
+    <time_frame>At day 1, day 29 and day 57</time_frame>
+    <description>SARS-CoV-2 anti-S1 and anti-RBD IgG antibody ELISAs</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>GMFR from baseline for serum S1- and RBD-specific IgG antibody responses</measure>
+    <time_frame>At day 57</time_frame>
+    <description>As measured by ELISA</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Seroconversion rate serum S1- and RBD-specific IgG antibody responses</measure>
+    <time_frame>At day 57 compare to baseline</time_frame>
+    <description>Defined as the proportion of participants with a ≥ 4-fold rise</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Geometric means of T-cells (spot-forming cells) producing IFNγ, IL-2, or both for S protein specific IFN-γ and IL-2 T-cell responses</measure>
+    <time_frame>At day 1, day 29, and day 57</time_frame>
+    <description>SARS-CoV-2 Spike Protein dual IFN-γ and IL-2 T-cell ELISpot (FluoroSpot)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fold rise of T-cells (spot-forming cells) producing IFNγ, IL-2, or both for S protein specific IFN-γ and IL-2 T-cell responses</measure>
+    <time_frame>At day 57 compared to baseline</time_frame>
+    <description>SARS-CoV-2 Spike Protein dual IFN-γ and IL-2 T-cell ELISpot (FluoroSpot)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants with significant T-cell responses for S protein specific IFN-γ and IL-2 T-cell responses</measure>
+    <time_frame>At day 57</time_frame>
+    <description>IL-2 T-cell ELISpot (FluoroSpot)</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>SARS-CoV2 COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Arm1 (COVIGEN 0.8 mg ID or Placebo ID)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will be randomized to receive either COVIGEN (0.8 mg) given by ID (n=40) or saline placebo (n=10), administered in a two dose regimen, 28 days apart.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm2 (COVIGEN 2.0 mg IM or Placebo IM)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will be randomized to receive either COVIGEN (2 mg) given by IM (n=40) or saline placebo (n=10), administered in a two dose regimen, 28 days apart.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm3 (COVIGEN 4.0 mg IM or Placebo IM)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will be randomized to receive either COVIGEN (4 mg) given by IM (n=40) or saline placebo (n=10), administered in a two dose regimen, 28 days apart</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>COVIGEN 0.8 mg ID or Placebo ID</intervention_name>
+    <description>2 doses of COVIGEN 0.8 mg ID or Placebo ID will be given at Day 1 and Day 29.</description>
+    <arm_group_label>Arm1 (COVIGEN 0.8 mg ID or Placebo ID)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>COVIGEN 2.0 mg IM or Placebo IM</intervention_name>
+    <description>2 doses of COVIGEN 2.0 mg IM or Placebo IM will be given at Day 1 and Day 29.</description>
+    <arm_group_label>Arm2 (COVIGEN 2.0 mg IM or Placebo IM)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>COVIGEN 4.0 mg IM or Placebo IM</intervention_name>
+    <description>2 doses of COVIGEN 4.0 mg IM or Placebo IM will be given at Day 1 and Day 29.</description>
+    <arm_group_label>Arm3 (COVIGEN 4.0 mg IM or Placebo IM)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Willing and capable of providing written informed consent prior to the performance of&#xD;
+             any study-specific procedure.&#xD;
+&#xD;
+          -  Male or female, ≥18.0 to ≤75.0 years of age, at the time of consent.&#xD;
+&#xD;
+          -  The participant must be in good health, as established by pertinent medical history,&#xD;
+             physical examination and vital signs assessments performed at Screening.&#xD;
+&#xD;
+          -  Body mass index (BMI) of 18 to 35 kg/m2, inclusive, at screening.&#xD;
+&#xD;
+          -  Women of childbearing potential must have a negative urine pregnancy test at Screening&#xD;
+             and pre-dose on Day 1, and must agree to remain sexually abstinent, use medically&#xD;
+             effective contraception (see Section 4.3.10), or have a partner who is sterile or&#xD;
+             same-sex, from Screening until at least 90 days after the 2nd vaccination.&#xD;
+&#xD;
+          -  Females with natural amenorrhea for &lt;2 years (without an alternative medical cause)&#xD;
+             and who are not surgically sterile, i.e. tubal ligation, bilateral oophorectomy, or&#xD;
+             complete hysterectomy will only be considered not to be of childbearing potential if&#xD;
+             they have a documented follicle-stimulating hormone (FSH) value in the postmenopausal&#xD;
+             range.&#xD;
+&#xD;
+          -  Sexually active male participants who are considered sexually fertile must agree to&#xD;
+             use either a barrier method of contraception from the time of 1st vaccination until at&#xD;
+             least 90 days after the 2nd vaccination, or have a same sex partner, or have a partner&#xD;
+             who is permanently sterile or unable to become pregnant.&#xD;
+&#xD;
+          -  Both male and female participants must agree to refrain from sperm and egg donation&#xD;
+             from the day of the 1st vaccination until at least 90 days after the 2nd vaccination.&#xD;
+&#xD;
+          -  Clinical safety laboratory evaluations at Screening must be toxicity Grade 0 or 1 and&#xD;
+             deemed not clinically significant by the Investigator.&#xD;
+&#xD;
+          -  The participant must agree to refrain from donating blood or plasma during the study&#xD;
+             for non-study purposes.&#xD;
+&#xD;
+          -  The participant must agree to have study samples retained for secondary research&#xD;
+             including exploratory analyses.&#xD;
+&#xD;
+          -  The participant must be able to attend all scheduled visits and to understand and&#xD;
+             comply with planned study procedures, in the Investigator's judgement.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Female participant who is breastfeeding or intends to become pregnant from Screening&#xD;
+             until at least 90 days after the 2nd vaccination.&#xD;
+&#xD;
+          -  History of any major (per Investigator's discretion) cardiovascular, renal,&#xD;
+             neurological, metabolic, gastrointestinal, hepato-biliary, uncontrolled hypertension&#xD;
+             and diabetes, clinically significant chronic pulmonary disease, asthma (with the&#xD;
+             exception of history of resolved childhood asthma), immunological and autoimmune&#xD;
+             diseases or any condition which, in the opinion of the Investigator, might interfere&#xD;
+             with the evaluation of the study objectives.&#xD;
+&#xD;
+          -  Chronic use (more than 14 continuous days) of systemic corticosteroids within 30 days&#xD;
+             prior to Screening. Intra-articular, intra-bursal, or topical (skin or eyes)&#xD;
+             corticosteroids are permitted.&#xD;
+&#xD;
+          -  History of any haematological malignancy or active neoplastic disease (excluding&#xD;
+             non-melanoma skin cancer that was successfully treated). Active is defined as having&#xD;
+             received treatment within the past 5 years.&#xD;
+&#xD;
+          -  History of demyelinating disease or Guillain Barre syndrome.&#xD;
+&#xD;
+          -  Eczema or other significant skin lesion, infection or tattoo at the site of&#xD;
+             vaccination (left or right upper arm).&#xD;
+&#xD;
+          -  History of blood dyscrasia or significant disorder of coagulation that, in the opinion&#xD;
+             of the Investigator, contraindicates IM injection.&#xD;
+&#xD;
+          -  History of known or suspected hypersensitivity to Kanamycin or any vaccine component,&#xD;
+             or any severe allergic reaction including anaphylaxis, generalized urticaria,&#xD;
+             angioedema, and other significant reaction.&#xD;
+&#xD;
+          -  Presence of active viral or bacterial infection, with or without fever (tympanic&#xD;
+             temperature ≥38.0 °C) at Screening or within 72 hours prior to each vaccination, if&#xD;
+             determined by the Investigator to be of clinical significance (enrolment [provided&#xD;
+             Screening period does not exceed 30 days] or dosing [see Section 4.3.5.2] may be&#xD;
+             delayed for full recovery if acceptable to the Investigator).&#xD;
+&#xD;
+          -  Positive serological test for Hepatitis B surface antigen (HBsAg), Hepatitis C&#xD;
+             antibody or HIV (Type 1 or 2) antibody at Screening.&#xD;
+&#xD;
+          -  Known current or previous laboratory confirmed SARS-CoV-2 infection/COVID-19, or&#xD;
+             positive for SARS-CoV-2 infection, either by SARS-CoV-2-specific IgG antibody or&#xD;
+             RT-PCR, at Screening.&#xD;
+&#xD;
+          -  Suspected SARS-CoV-2 infection/COVID-19, including individuals who are required to&#xD;
+             self-isolate.&#xD;
+&#xD;
+          -  Individuals currently working in occupations with high risk of exposure to SARSCoV-2,&#xD;
+             e.g. healthcare workers in direct care of COVID-19 patients, emergency responders or&#xD;
+             front-line workers.&#xD;
+&#xD;
+          -  Receipt of any other SARS-CoV-2 or other experimental coronavirus vaccine at any time&#xD;
+             prior to the study or planned receipt of any other SARS-CoV-2 or other experimental&#xD;
+             vaccine within 57 days of receipt of the 1st study vaccination&#xD;
+&#xD;
+          -  Participating in any other clinical study and have received any other investigational&#xD;
+             product (i.e. study vaccine, drug, biologic or device) within 30 days or 5 half-lives&#xD;
+             (whichever is longer) prior to Screening, or are taking part in a non-medication study&#xD;
+             which, in the opinion of the Investigator, would interfere with the interpretation of&#xD;
+             the assessments in this study&#xD;
+&#xD;
+          -  Received or plans to receive a live-attenuated vaccine within 4 weeks before or after&#xD;
+             each study vaccination.&#xD;
+&#xD;
+          -  Received or plans to receive an inactivated vaccine within 2 weeks before or after&#xD;
+             each study vaccination (including influenza vaccines).&#xD;
+&#xD;
+          -  Received immunoglobulins and/or any blood or blood products within 3 months before the&#xD;
+             1st vaccination or plans to receive any blood or blood products at any time during the&#xD;
+             study.&#xD;
+&#xD;
+          -  Has a history of alcohol abuse, or other drug abuse assessed as a dependency problem&#xD;
+             by the Investigator within 6 months before the 1st vaccination.&#xD;
+&#xD;
+          -  Has any psychiatric or cognitive disease that, in the opinion of the Investigator, may&#xD;
+             interfere with the participant's ability to participate in the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Nicholas WOOD, MB BS FRACP PhD.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Sydney</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Nicholas WOOD, MB BS FRACP PhD.</last_name>
+    <phone>+61 2 98451429</phone>
+    <email>nicholas.wood@health.nsw.gov.au</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Julie Romanin</last_name>
+    <phone>+61 2 9011 6266</phone>
+    <email>jromanin@southernstarresearch.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Scientia Clinical Research</name>
+      <address>
+        <city>Randwick</city>
+        <state>New South Wales</state>
+        <zip>2031</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Dr. Christopher Argent, MB BS</last_name>
+      <email>christopher.argent@scientiaclinicalresearch.com</email>
+    </contact>
+    <investigator>
+      <last_name>Dr. Christopher Argent</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Vaccinology and Immunology Research Trials Unit, Women's and Children's Hospital</name>
+      <address>
+        <city>Adelaide</city>
+        <state>South Australia</state>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Professor Helen Marshall, MB BS</last_name>
+      <phone>+61 8 8161 8115</phone>
+      <email>helen.marshall@adelaide.edu.au</email>
+    </contact>
+    <contact_backup>
+      <last_name>Meredith Krieg</last_name>
+      <phone>+61 8 8161 7349</phone>
+      <email>meredith.krieg@adelaide.edu.au</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Professor Helen Marshall</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Wesfarmers Centre of Vaccines and Infectious Diseases Telethon Kids Institute</name>
+      <address>
+        <city>Perth</city>
+        <state>Western Australia</state>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Professor Peter Richmond, MB BS</last_name>
+      <phone>+61 8 6319 1850</phone>
+      <email>peter.richmond@uwa.edu.au</email>
+    </contact>
+    <contact_backup>
+      <last_name>Jennifer Kent</last_name>
+      <phone>+61 8 6319 1850</phone>
+      <email>jennifer.kent@telethonkids.org.au</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Professor Peter Richmond</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>January 28, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 3, 2021</study_first_submitted_qc>
+  <study_first_posted type="Estimate">February 8, 2021</study_first_posted>
+  <last_update_submitted>February 3, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 3, 2021</last_update_submitted_qc>
+  <last_update_posted type="Estimate">February 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

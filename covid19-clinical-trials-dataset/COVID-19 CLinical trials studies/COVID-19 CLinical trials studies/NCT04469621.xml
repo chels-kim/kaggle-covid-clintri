@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4240">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04469621</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PDY16879</org_study_id>
+    <secondary_id>2020-002104-39</secondary_id>
+    <secondary_id>U1111-1250-1185</secondary_id>
+    <nct_id>NCT04469621</nct_id>
+  </id_info>
+  <brief_title>A Phase 1b Trial to Evaluate Safety and Effect of SAR443122 on Immune System in Severe COVID-19</brief_title>
+  <official_title>A Phase 1b, Randomized, Double-blinded, Placebo-controlled Study to Evaluate the Safety and Immunomodulatory Effect of the RIPK1 Inhibitor SAR443122 in Hospitalized Patients With Severe COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sanofi</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Sanofi</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Primary Objective:&#xD;
+&#xD;
+      To evaluate the effect of SAR443122 relative to the control arm on the hyperinflammatory&#xD;
+      state as measured by C-reactive protein (CRP) levels in adult patients hospitalized with&#xD;
+      severe coronavirus disease 2019 (COVID-19)&#xD;
+&#xD;
+      Secondary Objectives:&#xD;
+&#xD;
+        -  To evaluate the time to onset of effect of SAR443122 relative to the control arm on the&#xD;
+           hyperinflammatory state as measured by CRP levels&#xD;
+&#xD;
+        -  To evaluate the time to onset of effect of SAR443122 relative to the control arm on&#xD;
+           oxygenation status&#xD;
+&#xD;
+        -  To evaluate the effect of SAR443122 relative to the control arm on oxygenation status&#xD;
+&#xD;
+        -  To evaluate the effect of SAR443122 relative to the control arm on total duration of&#xD;
+           supplemental oxygen requirement&#xD;
+&#xD;
+        -  To evaluate the effect of SAR443122 relative to the control arm on length of ventilator&#xD;
+           support needed&#xD;
+&#xD;
+        -  To evaluate the effect of SAR443122 relative to the control arm on laboratory markers of&#xD;
+           severe COVID-19&#xD;
+&#xD;
+        -  To evaluate the effect of SAR443122 relative to the control arm on mortality&#xD;
+&#xD;
+        -  To evaluate the effect of SAR443122 relative to the control arm on need for thrombolytic&#xD;
+           therapy&#xD;
+&#xD;
+        -  To evaluate the effect of SAR443122 relative to the control arm on need for vasopressor&#xD;
+           treatment&#xD;
+&#xD;
+        -  To evaluate the safety of SAR443122 as compared to the control arm up to End of Study&#xD;
+&#xD;
+        -  To evaluate the effect of SAR443122 relative to the control arm on total duration&#xD;
+           without high flow supplemental oxygen requirements&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Study duration per participant is approximatively 32 days including a 14-day treatment period&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">July 17, 2020</start_date>
+  <completion_date type="Actual">October 23, 2020</completion_date>
+  <primary_completion_date type="Actual">October 23, 2020</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Relative change from baseline in CRP level</measure>
+    <time_frame>Day 7</time_frame>
+    <description>Relative change from baseline in CRP level on Day 7</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to 50% decrease from baseline in CRP level</measure>
+    <time_frame>Baseline to Day 28</time_frame>
+    <description>The time to 50% decrease from baseline in CRP level</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to improvement of oxygenation</measure>
+    <time_frame>Baseline to Day 28</time_frame>
+    <description>The time to improvement of oxygenation as measured by oxygen saturation &gt;/=92% breathing room air over 48 hrs or until discharge</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in SPO2/FiO2 ratio</measure>
+    <time_frame>Day 7</time_frame>
+    <description>Change from baseline in SPO2/FiO2 ratio at Day 7</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Days without need for oxygen support and alive</measure>
+    <time_frame>Baseline to Day 28</time_frame>
+    <description>Number of Days without need for oxygen support and alive (oxygen saturation &gt;=92% breathing room air) up to Day 28</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Numbers of Ventilator-free days and alive</measure>
+    <time_frame>Baseline to Day 28</time_frame>
+    <description>Numbers of Ventilator-free days and alive up to Day 28</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in markers of inflammation: white blood cell count and differential blood lymphocytes</measure>
+    <time_frame>Day 7 and Day 15</time_frame>
+    <description>Change from baseline in white blood cell count and differential blood lymphocytes at Day 7 and End of treatment (EOT)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in marker of inflammation: neutrophil to lymphocyte ratio</measure>
+    <time_frame>Day 7 and Day 15</time_frame>
+    <description>Change from baseline in neutrophil to lymphocyte ratio at Day 7 and EOT</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in marker of inflammation: interleukin 6 (IL-6)</measure>
+    <time_frame>Day 7 and Day 15</time_frame>
+    <description>Change from baseline in IL-6 at Day 7 and EOT</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in D-Dimer</measure>
+    <time_frame>Day 7 and Day 15</time_frame>
+    <description>Change from baseline in D-Dimer at Day 7 and EOT</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of Deaths</measure>
+    <time_frame>Baseline to Day 28</time_frame>
+    <description>Incidence of Deaths up to Day 28</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of participants receiving thrombolytic treatment</measure>
+    <time_frame>Baseline to Day 28</time_frame>
+    <description>Percentage of participants receiving thrombolytic treatment up to Day 28</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of participants receiving vasopressor treatment</measure>
+    <time_frame>Baseline to Day 28</time_frame>
+    <description>Percentage of participants receiving vasopressor treatment up to Day 28</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of serious adverse events (SAEs), adverse events of special interest (AESI) and treatment-emergent adverse events (TEAEs) leading to treatment discontinuation</measure>
+    <time_frame>Baseline to Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of TEAEs leading to study discontinuation (primary reason)</measure>
+    <time_frame>Baseline to Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Numbers of Respiratory Failure-Free Days (RFFD) and alive</measure>
+    <time_frame>Baseline to Day 28</time_frame>
+    <description>Numbers of Respiratory Failure-Free Days (RFFD) and alive up to Day 28</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">68</enrollment>
+  <condition>Corona Virus Infection</condition>
+  <arm_group>
+    <arm_group_label>SAR443122</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>SAR443122 dose 1, twice daily for 14 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>matching placebo</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>SAR443122</intervention_name>
+    <description>Pharmaceutical form:capsule Route of administration: oral</description>
+    <arm_group_label>SAR443122</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Pharmaceutical form:capsule Route of administration: oral</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion criteria:&#xD;
+&#xD;
+          -  Participant must be ≥18 years and ≤80 years of age inclusive, at the time of signing&#xD;
+             the informed consent.&#xD;
+&#xD;
+          -  Hospitalized (or documentation of a plan to admit to the hospital if the participant&#xD;
+             is in an emergency department) with evidence of COVID-19 lung disease diagnosed by&#xD;
+             chest radiograph, chest computed tomography or chest auscultation (rales, crackles)&#xD;
+             and with severe disease defined as follows: The participant requires supplemental&#xD;
+             oxygen administered by nasal cannula, simple face mask, or other similar oxygen&#xD;
+             delivery device (ie, increase in oxygen requirement following SARS-CoV-2 infection).&#xD;
+&#xD;
+          -  SARS-CoV-2 infection confirmed by RT-PCR, or other commercial or public health assay&#xD;
+             in any specimen, within 3 weeks prior to randomization, and no alternative explanation&#xD;
+             for current clinical condition.&#xD;
+&#xD;
+          -  At time of randomization, have demonstrated laboratory signs consistent with systemic&#xD;
+             inflammation.&#xD;
+&#xD;
+          -  Male and/or female participants, including women of childbearing potential (WOCBP).&#xD;
+&#xD;
+          -  Capable of giving signed informed consent.&#xD;
+&#xD;
+        Exclusion criteria:&#xD;
+&#xD;
+          -  In the opinion of the investigator, unlikely to survive after 48 hours, or unlikely to&#xD;
+             remain at the investigational site beyond 48 hours&#xD;
+&#xD;
+          -  Participants requiring use of invasive or non-invasive positive pressure ventilation&#xD;
+             at randomization.&#xD;
+&#xD;
+          -  Presence of significant liver enzyme abnormalities, thrombocytopenia or anemia at&#xD;
+             screening.&#xD;
+&#xD;
+          -  Any prior or concurrent use or plans to receive during the study period of&#xD;
+             immunomodulatory therapies (other than interventional drug) at screening.&#xD;
+&#xD;
+          -  Use of chronic systemic corticosteroids for a non-COVID-19-related condition in a dose&#xD;
+             higher than prednisone 10 mg or equivalent per day at screening.&#xD;
+&#xD;
+          -  Exclusion criteria related to tuberculosis (TB) and non-tuberculous mycobacterial&#xD;
+             (NTM) infections.&#xD;
+&#xD;
+          -  Participants with suspected or known active systemic bacterial or fungal infections&#xD;
+             within 4 weeks of screening.&#xD;
+&#xD;
+          -  Pregnant or breastfeeding women.&#xD;
+&#xD;
+          -  In the opinion of the study investigator, might confound the results of the study or&#xD;
+             pose an undue risk to the safety of the participant.&#xD;
+&#xD;
+        The above information is not intended to contain all considerations relevant to a patient's&#xD;
+        potential participation in a clinical trial.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Clinical Sciences &amp; Operations</last_name>
+    <role>Study Director</role>
+    <affiliation>Sanofi</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Investigational Site Number 0320001</name>
+      <address>
+        <city>Caba</city>
+        <zip>1430</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 0760003</name>
+      <address>
+        <city>Porto Alegre</city>
+        <zip>90035 003</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 0760001</name>
+      <address>
+        <city>São José Do Rio Preto</city>
+        <zip>15090-000</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 0760002</name>
+      <address>
+        <city>São Paulo</city>
+        <zip>04321-120</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 1520001</name>
+      <address>
+        <city>Santiago</city>
+        <zip>750-0691</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 1520003</name>
+      <address>
+        <city>Santiago</city>
+        <zip>8900085</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 1520002</name>
+      <address>
+        <city>Talca</city>
+        <zip>3460001</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 4840001</name>
+      <address>
+        <city>Monterrey</city>
+        <zip>64460</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 6430001</name>
+      <address>
+        <city>Moscow</city>
+        <zip>111539</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Investigational Site Number 6430002</name>
+      <address>
+        <city>Moscow</city>
+        <zip>123182</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Argentina</country>
+    <country>Brazil</country>
+    <country>Chile</country>
+    <country>Mexico</country>
+    <country>Russian Federation</country>
+  </location_countries>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>June 28, 2020</study_first_submitted>
+  <study_first_submitted_qc>July 12, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 14, 2020</study_first_posted>
+  <last_update_submitted>November 10, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 10, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 13, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Qualified researchers may request access to patient level data and related study documents including the clinical study report, study protocol with any amendments, blank case report form, statistical analysis plan, and dataset specifications. Patient level data will be anonymized and study documents will be redacted to protect the privacy of trial participants. Further details on Sanofi's data sharing criteria, eligible studies, and process for requesting access can be found at: https://www.clinicalstudydatarequest.com/</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

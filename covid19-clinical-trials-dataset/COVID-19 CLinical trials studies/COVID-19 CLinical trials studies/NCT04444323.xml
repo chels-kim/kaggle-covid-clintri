@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4129">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04444323</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GN20HS300</org_study_id>
+    <nct_id>NCT04444323</nct_id>
+  </id_info>
+  <brief_title>3D Telemedicine During COVID-19: Cohort Study</brief_title>
+  <official_title>3D Telemedicine During COVID-19: Cohort Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>NHS Greater Glasgow and Clyde</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Jean Brown Bequest Fund, Glasgow</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>NHS Greater Glasgow and Clyde</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      It is critical to establish an effective form of telemedicine during the Covid 19 pandemic,&#xD;
+      that will allow safe social distancing of clinicians and patients. Canniesburn Regional&#xD;
+      Plastic Surgery and Burns Unit serves as the regional plastic, burns and reconstructive&#xD;
+      centre for West of Scotland, population 3 million. All face to face clinics have been&#xD;
+      cancelled and converted to telephone/telemedicine only consultations. The research will&#xD;
+      establish both 2D and 3D telemedicine as normal patient follow up practice during this&#xD;
+      period.The project therefore aims to implement a 3D telemedicine system to facilitate patient&#xD;
+      follow up and remote physiotherapy, that will act as if the patient is physically 'present'&#xD;
+      in the room. Physiotherapy is crucial to patient outcomes after burns contractures, hand&#xD;
+      trauma and cancer reconstruction. The 3D telemedicine system will be built by an industrial&#xD;
+      partner, with CE marked equipment, specifically to help during the Covid-19 Pandemic.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      1. Background:&#xD;
+&#xD;
+           Telemedicine is critical during Covid pandemic. A seismic shift in clinical practice has&#xD;
+           occurred in the UK, with nearly all medical clinics cancelled or converted to telephone&#xD;
+           or telemedicine clinics (Attend Anywhere or Zoom). These fail to adequately substitute&#xD;
+           for a face-to-face consultation, with the National Health Service (NHS) needing higher&#xD;
+           quality, more clinically effective methods of remote patient interaction. This project&#xD;
+           will be the world's first evaluation of a novel, potentially transformative form of 3D&#xD;
+           telemedicine, facilitating telepresence as if the patient were in the room. This&#xD;
+           state-of-the-art system has been developed by an industrial partner, specifically to&#xD;
+           help with remote patient communication during Covid pandemic. This uses an array of 3D&#xD;
+           cameras connected to fusion and render servers, allowing reconstruction of a 3D image in&#xD;
+           real time. This may give more information about a patient's condition, particularly in&#xD;
+           more visual specialties such as Plastic Surgery&#xD;
+&#xD;
+           The research will fulfil criteria for the European Commission's Model for Assessment of&#xD;
+           Telemedicine applications (MAST, Kidholm 2012). This will include participatory design,&#xD;
+           and evaluation with a preliminary cohort study, to shape the follow on research. This&#xD;
+           will assess clinicians' and patients' perception of system usability, delivery of&#xD;
+           therapies, clinical accuracy and interaction. On project completion, fulfilment of MAST&#xD;
+           criteria will enable upscaling and lead onto a randomized trial. The study design will&#xD;
+           be informed by participatory design prior to the start of the clinical study. This will&#xD;
+           include clinical stakeholders (specialist nurses, doctors and physiotherapists), the&#xD;
+           digital research team, and patient groups. The focus groups will collate user groups&#xD;
+           opinions about the 3D system, functionality, risks, and applicability.&#xD;
+&#xD;
+           The clinical study will be a feasibility study involving clinician and patient feedback&#xD;
+           on 3D telemedicine, and will additionally collect safety, reliability and fidelity data.&#xD;
+           The study will be a mixed methods analysis assessing measures of usability,&#xD;
+           satisfaction, presence, task load index, and accuracy. Clinicians and patients will&#xD;
+           complete questionnaires and undergo a short interview on the use of both forms of&#xD;
+           telemedicine. There are no data regarding the use of 3D telemedicine, but this will&#xD;
+           leverage study design and validated questionnaires from other similar studies (Buvik&#xD;
+           2016). The study will continue as post covid services are being established.&#xD;
+&#xD;
+        2. Aims&#xD;
+&#xD;
+           This study will refine and pilot the feasibility of introducing 3D telemedicine into&#xD;
+           plastic surgery clinics and gain pilot data on the comparative efficacy and&#xD;
+           acceptability compared to face-to-face clinics, from both a patient and clinician&#xD;
+           perspective. The feasibility study will then inform the design and size of larger&#xD;
+           randomised study to compare 2D and 3D telemedicine.&#xD;
+&#xD;
+        3. Research Questions Primary&#xD;
+&#xD;
+           • Understand the feasibility and acceptability of introducing 3D telemedicine into&#xD;
+           plastic surgery clinics, in particular assessing safety, reliability and feedback data.&#xD;
+&#xD;
+           Secondary&#xD;
+&#xD;
+             -  Provide preliminary evidence regarding how 3D telemedicine compares to face-to-face&#xD;
+                consultations using clinician and patient assessments&#xD;
+&#xD;
+             -  Assess the appropriate rating scales/instruments to take forward to a RCT&#xD;
+&#xD;
+             -  Provide preliminary objective data to assess the accuracy of 3D telemedicine to&#xD;
+                determine clinical measurements (where applicable e.g. angles of contracture in&#xD;
+                hand) and outcome scoring scales (where applicable e.g. validated Unilateral Cleft&#xD;
+                Score Surgical Outcomes Evaluation Scale - UCLSOE)&#xD;
+&#xD;
+             -  Provide preliminary data for machine learning training to Strathclyde University&#xD;
+&#xD;
+             -  Safety and reliability measures of the system (number of failed and interrupted 3D&#xD;
+                telemedicine consultations).&#xD;
+&#xD;
+             -  To assess if clinical outcomes determined by 3D Telemedicine are similar to&#xD;
+                face-to-face&#xD;
+&#xD;
+        4. Study Design&#xD;
+&#xD;
+      Pre-study Protocol Optimisation Focus groups will co-design the features and functionality of&#xD;
+      the 3D Telemedicine, and inform clinical/patient feedback questionnaires. Clinical&#xD;
+      stakeholders (specialist nurses, doctors and physiotherapists), the digital research team and&#xD;
+      patient groups (existing user groups in breast cancer, sarcoma, cleft, hand surgery and&#xD;
+      physiotherapy) will be invited to participate in focus groups. The discussion will explore&#xD;
+      user groups opinions and ideas about the 3D system, functions that they would like to see&#xD;
+      implemented, and scenarios where this may be advantageous over a standard 2D system, and&#xD;
+      potential risks, using open ended questions. The patient group will consist of 40 patients&#xD;
+      sampled from existing user groups and will include patients already known to the research&#xD;
+      team. Given the need for social distancing, these focus groups will be carried out by&#xD;
+      telephone.&#xD;
+&#xD;
+      Survey of Current Telemedicine Clinics A clinician survey will be performed of current&#xD;
+      telemedicine clinics in Plastic Surgery, that are part of normal practice (e.g. Attend&#xD;
+      Anywhere). This will not require patient recruitment or patient involvement, and will use the&#xD;
+      same clinician questionnaire as described for the cohort study below. No patient&#xD;
+      questionnaires will be used. Consultations will be carried as normal clinical practice with&#xD;
+      no additional measurements or interventions.&#xD;
+&#xD;
+      Cohort Study&#xD;
+&#xD;
+      Patient Identification Patients will be recruited for this study from plastic surgery&#xD;
+      clinics, including breast cancer, sarcoma, head &amp; neck reconstruction, flap reconstruction,&#xD;
+      limb reconstruction, hand trauma, burns and cleft lip. Clinicians recruited to the study be&#xD;
+      from Canniesburn Regional Plastic Surgery and Burns Unit. The wide spectrum of clinical cases&#xD;
+      including in this cohort trial will allow increased generalizability of the results.&#xD;
+&#xD;
+      Inclusion criteria&#xD;
+&#xD;
+        -  Patients 1-95 years old (children will include post-cleft lip repair)&#xD;
+&#xD;
+        -  Patients able to read and understand English&#xD;
+&#xD;
+        -  Patients able to give informed consent&#xD;
+&#xD;
+      Exclusion criteria&#xD;
+&#xD;
+        -  Patients not meeting the inclusion criteria&#xD;
+&#xD;
+        -  Patients who do not have capacity to consent&#xD;
+&#xD;
+        -  Patients who are registered blind or deaf&#xD;
+&#xD;
+      Consent The patient information sheets (PIS) will be sent to the patients for their&#xD;
+      consideration prior to them attending their clinic appointment. The nurse will then take the&#xD;
+      patient into a private telemedicine clinic room to go through the PIS with them and answer&#xD;
+      any questions. If the patient wishes to participate, the nurse will provide a consent form&#xD;
+      which has some statements to agree to and sign. The patient can keep a copy of the signed&#xD;
+      consent form as well as the PIS.&#xD;
+&#xD;
+      Additional consent will be taken for opting into photo or video recordings. Telemedicine data&#xD;
+      may be used in further research, including machine learning. The PIS will make it clear to&#xD;
+      the patient that a copy of their identifiable images will be held for research purposes.&#xD;
+&#xD;
+      The PIS and consent will also explain that the our industrial partner will have access to the&#xD;
+      data, system and images (covered by a data processing agreement and 3rd Party Access&#xD;
+      agreement) to resolve any image quality, render, fusion, or transmission problems.&#xD;
+&#xD;
+      Study procedures&#xD;
+&#xD;
+      All patients will be assessed first face-to-face, and subsequently with 3D telemedicine by a&#xD;
+      separate clinician. In addition to the standard consultation, all patients will have the&#xD;
+      range of motion of the right and left elbows measured face-to-face with blinded (scales&#xD;
+      hidden) goniometers, and on the 3D system with a blinded on-screen goniometer. Patients will&#xD;
+      fill in a questionnaire and undertake a short exit interview after completion of&#xD;
+      consultations. Clinicians involved in this study will be asked to fill in a clinician consent&#xD;
+      form, and will be provided with a clinician information sheet prior to the study. The&#xD;
+      clinician fills in a questionnaire on the use of telemedicine for each patient, and undergoes&#xD;
+      an exit interview just once at the end of the study. The data for the elbow range of motion&#xD;
+      will be stored on computer and the clinician will re-measure at 1 week (patient does not need&#xD;
+      to return).&#xD;
+&#xD;
+      The Clinician telemedicine questionnaire will be filled in once per patient and comprises 71&#xD;
+      items from the following rating scales.&#xD;
+&#xD;
+      Mental Effort Rating Scale - single instrument Likert scale (Paas 1996) University of North&#xD;
+      Northway - 5 item - telemedicine questionnaire (UNN, Buvik 2016) System Usability Scale - 10&#xD;
+      item industry standard technology scale Presence Questionnaire - 29 item scale - assessment&#xD;
+      of presence in the system/virtual environment (PQ, Witmer 2005).&#xD;
+&#xD;
+      Telehealth Usability Questionnaire - 21 item scale - assessment of telemedicine (TUQ,&#xD;
+      Parmanto 2016) NASA task load index (NASA TLX) - 5 item modified scale - an indication of the&#xD;
+      ease of performing a task and frustration levels.&#xD;
+&#xD;
+      Semi Structured exit interview - will discuss with participant their views on the&#xD;
+      telemedicine system, what went well, and what can be improved.&#xD;
+&#xD;
+      The clinician conducting the face-to-face will complete a shortened questionnaire with the&#xD;
+      UNN scale only. The patient will fill also fill in a shortened questionnaire with a maximum&#xD;
+      of 37 items, including the Mental Effort Rating Scale, Telehealth Usability Questionnaire,&#xD;
+      NASA TLX and System Usability Scale.&#xD;
+&#xD;
+      The telemedicine consultation will include clinical outcome scales (where applicable e.g.&#xD;
+      unilateral cleft outcome scoring) recorded as part of normal practice. This will be compared&#xD;
+      to actual clinical outcomes taken in clinic on the same day (to provide &quot;ground truth&quot; for&#xD;
+      comparison with telemedicine measurements).&#xD;
+&#xD;
+      Safety and reliability data will be collected throughout the study, incuding:&#xD;
+&#xD;
+        1. Failed 3D telemedicine visits - failure and interruption, including reasons e.g.&#xD;
+           network/ software/ hardware. In event of failure a face to face consultation will still&#xD;
+           take place.&#xD;
+&#xD;
+        2. Image aberration - record of subjective distortion/ noise.&#xD;
+&#xD;
+        3. Correlation of face-to-face and telemedicine patient outcomes and findings&#xD;
+&#xD;
+      The 3D system will be permanently set up in a locked clinic room in a non-covid hospital. The&#xD;
+      system can be switched to 2D if required.&#xD;
+&#xD;
+      The 3D telemedicine system will comprise:&#xD;
+&#xD;
+        -  80/20 aluminium frame support for cameras&#xD;
+&#xD;
+        -  8 3D cameras&#xD;
+&#xD;
+        -  2 Patient LED screens&#xD;
+&#xD;
+        -  Fusion and render computers&#xD;
+&#xD;
+        -  At 'receiving' end - standard computer and LED screen&#xD;
+&#xD;
+      The system will be simple to use - 3D images will be viewed on a screen and can be&#xD;
+      manipulated in space, enlarged, and frozen using mouse controls. The research team's&#xD;
+      industrial partner will have provided training of clinic staff on how to operate the&#xD;
+      equipment and support of the equipment during the data collection activity. Training of the&#xD;
+      participating clinicians will take the form of a short introductory session by the research&#xD;
+      team at the start of each research clinic. The patient will likewise be shown how to use the&#xD;
+      system, but there will be no need for the patient to use any controls or interface.&#xD;
+&#xD;
+      Follow Up&#xD;
+&#xD;
+      There is no follow up required - patients are only required to attend an extended clinic&#xD;
+      visit and complete the study questionnaires.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">September 1, 2020</start_date>
+  <completion_date type="Anticipated">January 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">January 1, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Single cohort patients seen face-to-face and then by 3D telemedicine</intervention_model_description>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+    <masking_description>Data analysis will be masked</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Presence Questionnaire</measure>
+    <time_frame>Single time point at day 1 (Clinician assesses telemedicine system once after seeing patient) ]</time_frame>
+    <description>Version 3 of PQ, 29 item rating scale of &quot;presence&quot;. Witmer 2005</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>University Hospital of North Northway Questionnaire</measure>
+    <time_frame>Single time point at day 1 (Clinician assesses telemedicine system once after seeing patient) ]</time_frame>
+    <description>5 item questionnaire on telemedicine quality. UNN Buvik 2016.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Telehealth Usability Questionnaire</measure>
+    <time_frame>Single time point at day 1 (Clinician assesses telemedicine system once after seeing patient) ]</time_frame>
+    <description>21 item scale - assessment of telemedicine (TUQ, Parmanto 2016)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>System Usability Scale</measure>
+    <time_frame>Single time point at day 1 (Clinician assesses telemedicine system once after seeing patient) ]</time_frame>
+    <description>10 item industry standard technology scale</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mental Effort Rating Scale</measure>
+    <time_frame>Single time point at day 1 (Clinician assesses telemedicine system once after seeing patient) ]</time_frame>
+    <description>Single instrument Likert scale (Paas 1996)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>NASA TLX</measure>
+    <time_frame>Single time point at day 1 (Clinician assesses telemedicine system once after seeing patient) ]</time_frame>
+    <description>Measure of task load index - 5 item modified scale - an indication of the ease of performing a task and frustration levels.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Range of Motion measurements for elbow joint</measure>
+    <time_frame>Single time point at day 1 (Clinician assesses telemedicine system once after seeing patient) ]</time_frame>
+    <description>Range of Motion measurements for elbow joint measured with face-to-face goniometer or on computer (telemedicine)</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Reliability</measure>
+    <time_frame>Single time point at day 1 (whether telemedicine is successful)</time_frame>
+    <description>Proportion of completed, successful telemedicine consultations</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Image distortion</measure>
+    <time_frame>Single time point at day 1 (whether telemedicine has distortion)</time_frame>
+    <description>Proportion of telemedicine consultations suffering image quality distortion</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Telemedicine</condition>
+  <condition>Surgery, Plastic</condition>
+  <arm_group>
+    <arm_group_label>3D Telemedicine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Single arm. All patient seen face-to-face and then with 3D telemedicine.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>3D Telemedicine</intervention_name>
+    <description>The intervention is a consultation conducted using a 3D form of telemedicine</description>
+    <arm_group_label>3D Telemedicine</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients with breast cancer reconstruction&#xD;
+&#xD;
+          -  Patients with sarcoma&#xD;
+&#xD;
+          -  Patients with head &amp; neck reconstruction&#xD;
+&#xD;
+          -  Patients with flap reconstruction&#xD;
+&#xD;
+          -  Patients with limb reconstruction&#xD;
+&#xD;
+          -  Patients with hand trauma&#xD;
+&#xD;
+          -  Patients with burns&#xD;
+&#xD;
+          -  Patients with cleft lip&#xD;
+&#xD;
+          -  Patients able to read and understand English&#xD;
+&#xD;
+          -  Patients able to give informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients not meeting the inclusion criteria&#xD;
+&#xD;
+          -  Patients who do not have capacity to consent&#xD;
+&#xD;
+          -  Patients who are registered blind or deaf&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>1 Year</minimum_age>
+    <maximum_age>95 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Canniesburn Regional Plastic Surgery and Burns Unit</name>
+      <address>
+        <city>Glasgow</city>
+        <state>Scotland</state>
+        <zip>G4 0SF</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>July 2020</verification_date>
+  <study_first_submitted>June 20, 2020</study_first_submitted>
+  <study_first_submitted_qc>June 20, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">June 23, 2020</study_first_posted>
+  <last_update_submitted>July 3, 2020</last_update_submitted>
+  <last_update_submitted_qc>July 3, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 7, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>3-D</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>No plan to share data</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

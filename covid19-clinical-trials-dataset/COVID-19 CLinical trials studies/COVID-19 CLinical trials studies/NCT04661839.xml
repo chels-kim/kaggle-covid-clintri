@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2122">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04661839</url>
+  </required_header>
+  <id_info>
+    <org_study_id>EBS-CVH-003</org_study_id>
+    <nct_id>NCT04661839</nct_id>
+  </id_info>
+  <brief_title>Phase 1 Study to Evaluate Safety and Pharmacokinetics of COVID-HIGIV Administered as a Single Dose or a Repeat Dose in Healthy Adults</brief_title>
+  <official_title>A Phase 1, Double-blind, Randomized, Placebo-controlled Study to Evaluate Safety and Pharmacokinetics of Anti-SARS-CoV-2 Immunoglobulin Intravenous (Human) Investigational Product (COVID-HIGIV) Administered as a Single Dose or a Repeat Dose Regimen to Healthy Adults</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Emergent BioSolutions</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>United States Department of Defense</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Emergent BioSolutions</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is designed to evaluate three dose levels of Anti-SARS-CoV-2 Immunoglobulin&#xD;
+      Intravenous (Human) (COVID-HIGIV) for safety and pharmacokinetics (PK) in healthy adults. Two&#xD;
+      cohorts of healthy adult subjects will be enrolled into the study, cohort A (single dose) and&#xD;
+      cohort B (repeat dose); cohort A enrollment will be initiated first, and after the enrolled&#xD;
+      cohort A subjects complete up to 28 days of safety and PK follow-up and an interim analysis&#xD;
+      of that data has been completed, cohort B enrollment will be initiated.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study will be a Phase 1, single-center, randomized, double-blind, placebo-controlled&#xD;
+      design to assess safety and PK of COVID-HIGIV in healthy adults.&#xD;
+&#xD;
+      In total, 56 healthy adult subjects are planned to be enrolled and randomized into two&#xD;
+      cohorts of healthy adult subjects; 28 subjects in cohort A and 28 subjects in cohort B. The&#xD;
+      enrollment/randomization of study subjects will be first initiated for cohort A. Once all&#xD;
+      subjects from cohort A complete Day 29 visit, an interim analysis will be performed to assess&#xD;
+      initial safety and PK of a single IV infusion of three dose levels of COVID-HIGIV in healthy&#xD;
+      adults.&#xD;
+&#xD;
+      Eligible subjects for cohort A will be randomized 2:2:2:1 to four study treatment arms to&#xD;
+      receive a single IV infusion of one of three COVID-HIGIV dose levels or saline placebo,&#xD;
+      respectively.&#xD;
+&#xD;
+      Eligible subjects for cohort B will be randomized 2:2:2:1 to four study treatment arms to&#xD;
+      receive two IV doses (28 days apart) of one of three COVID-HIGIV dose levels or saline&#xD;
+      placebo, respectively. Enrollment of subjects for cohort B will be initiated following cohort&#xD;
+      A interim Day 29 analysis.&#xD;
+&#xD;
+      The enrollment/dosing of the first seven subjects in the study (from cohort A) will be&#xD;
+      staggered. Available safety data will be reviewed by Study Monitoring Committee (SMC) after&#xD;
+      seven subjects from cohort A have completed at least 72 hours of safety follow-up.&#xD;
+&#xD;
+      Subjects in cohort A will be followed up for safety and PK up to 84 days post-administration&#xD;
+      of a single dose, while subjects in cohort B will be followed up for safety and PK up to 28&#xD;
+      days post-administration of the initial dose and up to 56 days post-administration of the&#xD;
+      repeat dose.&#xD;
+&#xD;
+      The SMC will perform overall ongoing review of safety data during the study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">December 2020</start_date>
+  <completion_date type="Anticipated">September 2021</completion_date>
+  <primary_completion_date type="Anticipated">September 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Subjects with Adverse Events (AEs) post-dosing</measure>
+    <time_frame>Day 1 through Day 3</time_frame>
+    <description>Incidence and severity of AEs up to 3 days post-dosing.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Subjects with Adverse Events that Led to Discontinuation or Temporary Suspension of IV Infusion</measure>
+    <time_frame>0 hours to 2.5 hours</time_frame>
+    <description>Incidence and severity of AEs that led to discontinuation or temporary suspension of IV infusion.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Subjects with AEs after a Single IV Infusion</measure>
+    <time_frame>Day 1 through Day 85</time_frame>
+    <description>Incidence and severity of AEs up to 84 days after a single IV infusion.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Subjects with SAEs after a Single IV Infusion</measure>
+    <time_frame>Day 1 through Day 85</time_frame>
+    <description>Incidence and severity of SAEs up to 84 days after a single IV infusion.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Subjects with AEs after a Repeat IV Infusion</measure>
+    <time_frame>Day 1 through Day 57</time_frame>
+    <description>Incidence and Severity of AEs up to 56 days after a repeat IV infusion.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Subjects with SAEs after a Repeat IV infusion</measure>
+    <time_frame>Day 1 through Day 57</time_frame>
+    <description>Incidence and Severity of SAEs up to 56 days after a repeat IV infusion.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics parameter of area under the concentration-time curve (AUC) from time 0 to the last quantifiable concentration (AUC0-t) of SARS-CoV-2 antibodies after a single dose of COVID-HIGIV</measure>
+    <time_frame>Day 1 through Day 85</time_frame>
+    <description>The area under the concentration-time curve from time 0 to the last quantifiable concentration after a single dose of COVID-HIGIV.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics parameter of area under the concentration-time (AUC) from time 0 to the last quantifiable concentration (AUC0-t) of SARS-CoV-2 antibodies plus the additional area extrapolated to infinity (AUC0-inf) after a single dose of COVID-HIGIV</measure>
+    <time_frame>Day 1 through Day 85</time_frame>
+    <description>AUC0-t plus the additional area extrapolated to infinity after a single dose of COVID-HIGIV.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics parameter of area under the concentration-time curve (AUC) from time 0 to 14 days (AUC0-14d) after a single dose of COVID-HIGIV</measure>
+    <time_frame>Day 1 through Day 15</time_frame>
+    <description>AUC from time 0 to 14 days after a single dose of COVID-HIGIV.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics parameter of area under the concentration-time curve (AUC) from time 0 to 28 days (AUC0-28d) after a single dose of COVID-HIGIV</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+    <description>AUC from time 0 to 28 days after a single dose of COVID-HIGIV.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics parameter of maximum observed concentration (Cmax) of SARS-CoV-2 antibodies observed after a single dose of COVID-HIGIV</measure>
+    <time_frame>Day 1 through Day 85</time_frame>
+    <description>The Cmax observed after a single dose of COVID-HIGIV.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics parameter of time at which Cmax occurs after a single dose of COVID-HIGIV</measure>
+    <time_frame>Day 1 through Day 85</time_frame>
+    <description>Time at which Cmax occurs after a single dose of COVID-HIGIV at each dose level.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics parameter of trough concentration of SARS-CoV-2 antibodies observed 28 days after a single dose (Cmin28d) of COVID-HIGIV</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+    <description>The observed trough concentration 28 days after a single dose of COVID-HIGIV.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics parameter of terminal elimination constant after a single dose of COVID-HIGIV</measure>
+    <time_frame>Day 1 through Day 85</time_frame>
+    <description>The terminal elimination rate constant after a single dose of COVID-HIGIV.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics parameter of apparent terminal elimination half-life after a single dose of COVID-HIGIV</measure>
+    <time_frame>Day 1 through Day 85</time_frame>
+    <description>The apparent terminal elimination half-life after a single dose of COVID-HIGIV.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics parameter of systemic clearance after a single dose of COVID-HIGIV</measure>
+    <time_frame>Day 1 through Day 85</time_frame>
+    <description>The systemic clearance after a single dose of COVID-HIGIV.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics parameter of volume of distribution after a single dose of COVID-HIGIV</measure>
+    <time_frame>Day 1 through Day 85</time_frame>
+    <description>The volume of distribution after a single dose of COVID-HIGIV.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics parameter of area under the concentration-time curve (AUC) from time 0 to 14 days (AUC0-14d) after initial and repeat dose of COVID-HIGIV</measure>
+    <time_frame>Day 1 to Day 15, Day 29 to Day 43</time_frame>
+    <description>The AUC from time 0 to 14 days after the initial dose and after the repeat dose of COVID-HIGIV.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics parameter of area under the concentration-time curve (AUC) from time 0 to 28 days (AUC0-28d) after initial and repeat dose of COVID-HIGIV</measure>
+    <time_frame>Day 1 to Day 29, Day 29 to Day 57</time_frame>
+    <description>The AUC from time 0 to 28 days after the initial dose and after the repeat dose of COVID-HIGIV.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics parameter of maximum observed concentration (Cmax) of SARS-CoV-2 antibodies observed after initial dose and repeat dose of COVID-HIGIV.</measure>
+    <time_frame>Day 1 through Day 85</time_frame>
+    <description>Cmax observed after the initial dose and after the repeat dose of COVID-HIGIV.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics parameter of time at which Cmax occurs after initial and repeat dose of COVID-HIGIV</measure>
+    <time_frame>Day 1 through Day 85</time_frame>
+    <description>The time at which Cmax occurs after the initial dose and after the repeat dose of COVID-HIGIV.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics parameter of trough concentration of SARS-CoV-2 antibodies observed 28 days after initial and repeat dose of COVID-HIGIV</measure>
+    <time_frame>Day 1 through Day 57</time_frame>
+    <description>The observed trough concentration 28 days after the initial dose and after the repeat dose of COVID-HIGIV.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics parameter of accumulation ratios after repeat dose over initial dose of COVID-HIGIV</measure>
+    <time_frame>Day 1 through Day 85</time_frame>
+    <description>Accumulation ratios expressed as ratios of AUC0-14d, AUC0-28d, Cmin28d (trough) and Cmax after repeat dose over initial dose of COVID-HIGIV</description>
+  </primary_outcome>
+  <number_of_arms>8</number_of_arms>
+  <enrollment type="Anticipated">56</enrollment>
+  <condition>SARS-CoV-2</condition>
+  <arm_group>
+    <arm_group_label>Cohort A, Single COVID-HIGIV Dose Level 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Eligible subjects will be randomized to receive a single IV infusion of COVID-HIGIV dose level 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort A, Single COVID-HIGIV Dose Level 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Eligible subjects will be randomized to receive a single IV infusion of COVID-HIGIV dose level 2.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort A, Single COVID-HIGIV Dose Level 3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Eligible subjects will be randomized to receive a single IV infusion of COVID-HIGIV dose level 3.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort A, Single Dose Placebo (saline)</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Eligible subjects will be randomized to receive a single IV infusion of saline placebo.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort B, Repeat COVID-HIGIV Dose Level 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Eligible subjects will be randomized to receive two IV infusions (28 days apart) of COVID-HIGIV dose level 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort B, Repeat COVID-HIGIV Dose Level 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Eligible subjects will be randomized to receive two IV infusions (28 days apart) of COVID-HIGIV dose level 2.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort B, Repeat COVID-HIGIV Dose Level 3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Eligible subjects will be randomized to receive two IV infusions (28 days apart) of COVID-HIGIV dose level 3.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort B, Repeat Dose Placebo (saline)</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Eligible subjects will be randomized to receive two IV infusions (28 days apart) of saline placebo.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>COVID-HIGIV</intervention_name>
+    <description>COVID-HIGIV is a purified immunoglobulin G (IgG) liquid preparation containing antibodies (including neutralizing antibodies) to SARS-CoV-2. COVID-HIGIV will be administered via intravenous infusion.</description>
+    <arm_group_label>Cohort A, Single COVID-HIGIV Dose Level 1</arm_group_label>
+    <arm_group_label>Cohort A, Single COVID-HIGIV Dose Level 2</arm_group_label>
+    <arm_group_label>Cohort A, Single COVID-HIGIV Dose Level 3</arm_group_label>
+    <arm_group_label>Cohort B, Repeat COVID-HIGIV Dose Level 1</arm_group_label>
+    <arm_group_label>Cohort B, Repeat COVID-HIGIV Dose Level 2</arm_group_label>
+    <arm_group_label>Cohort B, Repeat COVID-HIGIV Dose Level 3</arm_group_label>
+    <other_name>NP-028</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo (saline)</intervention_name>
+    <description>The reference product is a liquid solution of normal saline (0.9% weight per unit volume (w/v) sodium chloride). Placebo will be administered via intravenous infusion.</description>
+    <arm_group_label>Cohort A, Single Dose Placebo (saline)</arm_group_label>
+    <arm_group_label>Cohort B, Repeat Dose Placebo (saline)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Able and willing to provide written informed consent (voluntarily signed by the&#xD;
+             subject) prior to performing study procedures.&#xD;
+&#xD;
+          2. Females and males 18-60 years of age, inclusive.&#xD;
+&#xD;
+          3. Have a body mass index (BMI) less than or equal to 35.0 kg/m2.&#xD;
+&#xD;
+          4. Women who are either:&#xD;
+&#xD;
+             A) Not of childbearing potential: either surgically sterile (at least six weeks post&#xD;
+             bilateral tubal ligation, bilateral oophorectomy or hysterectomy); or post-menopausal&#xD;
+             (defined as ≥50 years of age with a history of ≥12 months without menses prior to&#xD;
+             randomization in the absence of other pathologic or physiologic causes, following&#xD;
+             cessation of exogenous sex-hormonal treatment); OR&#xD;
+&#xD;
+             B) Women of childbearing potential (WOCBP) who are not planning to be pregnant during&#xD;
+             the study period and meet all of the following criteria:&#xD;
+&#xD;
+             Negative serum pregnancy test (PT) at Screening; and Negative PT prior to dosing at&#xD;
+             Day 1; and&#xD;
+&#xD;
+             Use of a highly effective contraception during the study period:&#xD;
+&#xD;
+               -  Hormonal contraceptives (e.g., implants, pills, patches) initiated ≥30 days prior&#xD;
+                  to Day 1; or&#xD;
+&#xD;
+               -  Intrauterine device (IUD) inserted ≥30 days prior to Day 1; or&#xD;
+&#xD;
+               -  Double barrier type of birth control (e.g., male condom with female diaphragm,&#xD;
+                  male condom with cervical cap).&#xD;
+&#xD;
+          5. Subject understands and agrees to comply with planned study procedures.&#xD;
+&#xD;
+          6. Healthy as determined by the Principal Investigator based on medical history, physical&#xD;
+             exam, vital signs, urinalysis, blood chemistry and hematology test results at&#xD;
+             Screening and evidence of no prior exposure to SARS-CoV-2 (i.e., RT-PCR negative for&#xD;
+             SARS-CoV-2 and negative for SARS-CoV-2 antibodies) at Screening.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Use of any investigational product, within 30 days prior to Screening, or use of&#xD;
+             investigational SARS-CoV-2 vaccines, SARS-CoV-2 monoclonal antibodies or COVID-19&#xD;
+             convalescent plasma at any time prior to Screening or during the study follow-up&#xD;
+             period, or subject plans to participate in another clinical study during the study&#xD;
+             period.&#xD;
+&#xD;
+          2. Screening clinical laboratory test result greater than the laboratory's upper limit of&#xD;
+             normal (ULN) for alanine aminotransferase (ALT), aspartate aminotransferase (AST),&#xD;
+             random glucose, total and/or bilirubin, blood urea nitrogen (BUN), or creatinine.&#xD;
+             Other serum chemistry parameters that are not within the reference range will not be&#xD;
+             considered exclusionary unless deemed clinically significant by the Principal&#xD;
+             Investigator.&#xD;
+&#xD;
+          3. History of allergy or hypersensitivity to blood or plasma products or to COVID-HIGIV&#xD;
+             excipients (proline, PS80).&#xD;
+&#xD;
+          4. History of allergy to latex or rubber.&#xD;
+&#xD;
+          5. History of hemolytic anemia.&#xD;
+&#xD;
+          6. History of IgA deficiency.&#xD;
+&#xD;
+          7. Receipt of any blood product within the past 12 months.&#xD;
+&#xD;
+          8. Plasma donation within 7 days or significant blood loss or blood donation within 56&#xD;
+             days of randomization/dosing.&#xD;
+&#xD;
+          9. History of known congenital or acquired immunodeficiency or receipt of&#xD;
+             immunosuppressive therapy (e.g., prednisone or equivalent for more than two&#xD;
+             consecutive weeks within the past three months).&#xD;
+&#xD;
+         10. History of thrombosis or hypercoagulable state with increased risk of thrombosis.&#xD;
+&#xD;
+         11. History of clinically significant chronic illness (e.g., requiring hospitalization in&#xD;
+             the past three months) such as cardiac, pulmonary, renal, hepatic or other chronic&#xD;
+             conditions.&#xD;
+&#xD;
+         12. Receipt of a live vaccine within 28 days prior to screening or anticipated receipt of&#xD;
+             a live vaccine during the study period.&#xD;
+&#xD;
+         13. Currently pregnant, breastfeeding, or planning to become pregnant during the study.&#xD;
+&#xD;
+         14. History of, or suspected substance abuse problem (including alcohol).&#xD;
+&#xD;
+         15. Failure of urine drug test at Screening.&#xD;
+&#xD;
+         16. Other medical condition which may place subject at increased risk due to participation&#xD;
+             in the study as determined by the investigator.&#xD;
+&#xD;
+         17. Any planned elective surgery during the study period.&#xD;
+&#xD;
+         18. An opinion of the investigator that it would be unwise to allow the individual to be&#xD;
+             randomized into the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>60 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Clinical Trial Manager</last_name>
+    <phone>703-754-1082</phone>
+    <email>covidpk003@ebsi.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Icahn School of Medicine at Mount Sinai</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10029</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Judith A. Aberg, MD, FIDSA, FACP</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>December 9, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 9, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 10, 2020</study_first_posted>
+  <last_update_submitted>December 9, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 9, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 10, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Coronavirus disease 2019</keyword>
+  <keyword>Severe acute respiratory syndrome coronavirus 2</keyword>
+  <keyword>Immunoglobulins</keyword>
+  <keyword>Immunoglobulins, Intravenous</keyword>
+  <keyword>Antibodies</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

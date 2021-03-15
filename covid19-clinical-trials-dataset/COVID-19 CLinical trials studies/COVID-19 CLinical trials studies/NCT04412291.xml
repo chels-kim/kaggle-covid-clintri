@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2579">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04412291</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020-001748-24</org_study_id>
+    <nct_id>NCT04412291</nct_id>
+  </id_info>
+  <brief_title>A Study in Patients With COVID-19 and Respiratory Distress Not Requiring Mechanical Ventilation, to Compare Standard-of-care With Anakinra and Tocilizumab Treatment The Immunomodulation-CoV Assessment (ImmCoVA) Study</brief_title>
+  <official_title>A Single-center, Randomized, Open-label Study in Patients With COVID-19 and Respiratory Distress Not Requiring Mechanical Ventilation, to Compare Standard-of-care With Anakinra and Tocilizumab Treatment The Immunomodulation-CoV Assessment (ImmCoVA) Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Karolinska University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Karolinska Institutet</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Karolinska University Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study is designed as a randomized, controlled, single-center open-label trial to compare&#xD;
+      standard-of-care (SOC) treatment with SOC + anakinra or SOC + tocilizumab treatment in&#xD;
+      hospitalized adult subjects who are diagnosed with severe COVID 19.&#xD;
+&#xD;
+      Arm A: Standard-of-care Treatment (SOC) Arm B: Anakinra + SOC Arm C: Tocilizumab + SOC.&#xD;
+&#xD;
+      All subjects will be treated with standard-of-care treatment and broad spectrum antibiotics&#xD;
+      initiated before or latest 24 hours after initiation of treatment with study drug.&#xD;
+&#xD;
+      The primary follow up period of the study is 29 days&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 11, 2020</start_date>
+  <completion_date type="Anticipated">February 2021</completion_date>
+  <primary_completion_date type="Anticipated">August 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Time to recovery</measure>
+    <time_frame>Day 1 through Day 29</time_frame>
+    <description>Day of recovery is defined as the first day on which the subject satisfies one of the following three categories from the ordinal scale:1) Hospitalized, not requiring supplemental oxygen - no longer requires ongoing medical care 1; 2) Not hospitalized, limitation on activities and/or requiring home oxygen; 3) Not hospitalized, no limitations on activities.&#xD;
+1 LMWH-injections (Fragmin, Innohep) do not count as medical care</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>Up to day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Days on mechanical ventilation</measure>
+    <time_frame>Up to day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of days of supplemental oxygen use</measure>
+    <time_frame>Up to day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of patients requiring initiation of mechanical ventilation</measure>
+    <time_frame>Up to day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to improvement in oxygenation for at least 48 hours</measure>
+    <time_frame>Up to day 29</time_frame>
+    <description>Definition of improvement in oxygenation: Increase in SpO2/FiO2 of 50 or greater compared to the nadir SpO2/FiO2</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change in the 8-point ordinal scale</measure>
+    <time_frame>Up to day 29</time_frame>
+    <description>8-point Ordinal Scale:&#xD;
+Death&#xD;
+Hospitalized, on invasive mechanical ventilation or ECMO;&#xD;
+Hospitalized, on non-invasive ventilation or high flow nasal cannula;&#xD;
+Hospitalized, requiring supplemental oxygen&#xD;
+Hospitalized, not requiring supplemental oxygen&#xD;
+Hospitalized, not requiring supplemental oxygen - no longer requires ongoing medical care&#xD;
+Not hospitalized, limitation on activities and/or requiring home oxygen;&#xD;
+Not hospitalized</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients on level e-h on the 8-point ordinal scale at day 15</measure>
+    <time_frame>Day 15</time_frame>
+    <description>8-point Ordinal Scale:&#xD;
+Death&#xD;
+Hospitalized, on invasive mechanical ventilation or ECMO;&#xD;
+Hospitalized, on non-invasive ventilation or high flow nasal cannula;&#xD;
+Hospitalized, requiring supplemental oxygen&#xD;
+Hospitalized, not requiring supplemental oxygen&#xD;
+Hospitalized, not requiring supplemental oxygen - no longer requires ongoing medical care&#xD;
+Not hospitalized, limitation on activities and/or requiring home oxygen;&#xD;
+Not hospitalized</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to improvement in one category from admission using the 8-point ordinal scale</measure>
+    <time_frame>Up to day 29</time_frame>
+    <description>8-point Ordinal Scale:&#xD;
+Death&#xD;
+Hospitalized, on invasive mechanical ventilation or ECMO;&#xD;
+Hospitalized, on non-invasive ventilation or high flow nasal cannula;&#xD;
+Hospitalized, requiring supplemental oxygen&#xD;
+Hospitalized, not requiring supplemental oxygen&#xD;
+Hospitalized, not requiring supplemental oxygen - no longer requires ongoing medical care&#xD;
+Not hospitalized, limitation on activities and/or requiring home oxygen;&#xD;
+Not hospitalized</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change in Sequential organ failure assessment score (SOFA)</measure>
+    <time_frame>Up to day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to resolution of fever for at least 48 hours by clinical severity</measure>
+    <time_frame>Up to day 29</time_frame>
+    <description>Defined as ≤36.6°C (axilla), ≤37.2°C (oral) or ≤37.8°C (rectal or tympanic)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to change in National Early Warning Score 2 (NEWS2) scoring system</measure>
+    <time_frame>Up to day 29</time_frame>
+    <description>NEWS2 consists of: Physiological Parameters: Respiration rate (per minute), SpO2 Scale 1 (%), SpO2 Scale 2 (%), Use of air or oxygen, Systolic blood pressure (mmHg), Pulse (per minute), Consciousness, Temperature (°C)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to score of &lt;2 maintained for 24 hours in NEWS2 scoring system (National Early Warning Score)</measure>
+    <time_frame>Up to day 29</time_frame>
+    <description>NEWS2 consists of: Physiological Parameters: Respiration rate (per minute), SpO2 Scale 1 (%), SpO2 Scale 2 (%), Use of Air or oxygen, Systolic blood pressure (mmHg), Pulse (per minute), Consciousness, Temperature (°C)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change in NEWS2 scoring system (National Early Warning Score)</measure>
+    <time_frame>Up to day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of days with fever</measure>
+    <time_frame>Up to day 29</time_frame>
+    <description>Fever defined as &gt;36.6°C (axilla), &gt;37.2°C (oral) or &gt;37.8°C (rectal or tympanic)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of days of resting respiratory rate &gt;24 breaths/min</measure>
+    <time_frame>Up to day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to saturation ≥94% on room air</measure>
+    <time_frame>Up to day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of serious adverse events</measure>
+    <time_frame>Up to day 60</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of severe or life-threatening bacterial, invasive fungal, or opportunistic infection</measure>
+    <time_frame>Up to day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of severe or life-threatening bacterial, invasive fungal, or opportunistic infection in patients with grade 4 neutropenia</measure>
+    <time_frame>Up to day 60</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of hypersensitivity reactions</measure>
+    <time_frame>Up to day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of infusion reactions</measure>
+    <time_frame>Up to day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of ventilator free days in the first 28 days</measure>
+    <time_frame>Baseline to day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of patients requiring non-invasive ventilation</measure>
+    <time_frame>Up to day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of patients requiring the use of high flow nasal cannula</measure>
+    <time_frame>Up to day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of patients requiring Extracorporeal membrane oxygenation (ECMO)</measure>
+    <time_frame>Up to day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of patients that have been admitted into an intensive care unit (ICU)</measure>
+    <time_frame>Up to day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of days of hospitalization in survivors</measure>
+    <time_frame>Up to day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of deaths due to any cause</measure>
+    <time_frame>Up to day 60</time_frame>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>Covid-19</condition>
+  <arm_group>
+    <arm_group_label>Standard-of-care Treatment (SOC)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>SOC according to local recommendations at the Karolinska University Hospital:&#xD;
+Oxygen supplementation so to achieve SpO2&gt;93%. Antipyretic treatment (paracetamol) Thrombosis prophylaxis (Fragmin or Innohep) Antibiotics for seven days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Anakinra + SOC</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Anakinra: A total dose of 400mg per day (divided in 4 doses of 100 mg iv every 6 hours) for 7 days.&#xD;
+SOC according to local recommendations at the Karolinska University Hospital. Oxygen supplementation so to achieve SpO2&gt;93%. Antipyretic treatment (paracetamol) Thrombosis prophylaxis (Fragmin or Innohep) Antibiotics for seven days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Tocilizumab + SOC.</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Tocilizumab: 8mg/kg for a single infusion iv up to max 800 mg. If no clinical response is obtained, another dose of 8mg/kg may be administered after earliest 2 days SOC according to local recommendations at the Karolinska University Hospital. Oxygen supplementation so to achieve SpO2&gt;93%. Antipyretic treatment (paracetamol) Thrombosis prophylaxis (Fragmin or Innohep) Antibiotics for seven days.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Anakinra Prefilled Syringe</intervention_name>
+    <description>A total dose of 400mg per day (divided in 4 doses of 100 mg iv every 6 hours) for 7 days.</description>
+    <arm_group_label>Anakinra + SOC</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Tocilizumab Prefilled Syringe</intervention_name>
+    <description>8mg/kg for a single infusion iv up to max 800 mg. If no clinical response is obtained, another dose of 8mg/kg may be administered after earliest 2 days</description>
+    <arm_group_label>Tocilizumab + SOC.</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Standard-of-care treatment</intervention_name>
+    <description>SOC according to local recommendations at the Karolinska University Hospital. Oxygen supplementation so to achieve SpO2&gt;93%. Antipyretic treatment (paracetamol) Thrombosis prophylaxis (Fragmin or Innohep). Antibiotics (in all arms)</description>
+    <arm_group_label>Anakinra + SOC</arm_group_label>
+    <arm_group_label>Standard-of-care Treatment (SOC)</arm_group_label>
+    <arm_group_label>Tocilizumab + SOC.</arm_group_label>
+    <other_name>Oxygen supplementation</other_name>
+    <other_name>Thrombosis prophylaxis</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Laboratory-confirmed SARS-CoV-2 infection as determined by polymerase chain reaction&#xD;
+             (PCR) or other commercial or public health assay&#xD;
+&#xD;
+          2. SARS-CoV-2 infection with duration at least 7 days (as determined by onset of&#xD;
+             symptoms)&#xD;
+&#xD;
+          3. PaO2 (or SpO2)/FiO2 &lt; 26,8 kPa (200 mm Hg) for at least 8 hours, corresponding to 5&#xD;
+             liters/minute of Oxygen to maintain SpO2 at 94%.&#xD;
+&#xD;
+          4. CRP &gt; 70 mg/L with no non-SARS-Cov2 infections.&#xD;
+&#xD;
+          5. Ferritin &gt; 500 µg/L&#xD;
+&#xD;
+          6. At least two points on a scale of 0-3 where 1 point is awarded for each value of;&#xD;
+             lymphocytes &lt; 1x 10(9)/L; D-dimer ≥ 0.5 mg/L and; Lactate Dehydrogenase ≥ 8&#xD;
+             microkatal/L.&#xD;
+&#xD;
+          7. Ability to provide informed consent signed by study patient&#xD;
+&#xD;
+          8. Willingness and ability to comply with study-related procedures/assessments&#xD;
+&#xD;
+          9. In fertile females, willing to comply with effective contraceptive methods for up to 3&#xD;
+             months after last dose of study drug. These may include birth control pills, surgical&#xD;
+             sterilization of patient or partner or intrauterine device. Non-fertile woman is&#xD;
+             defined as more than 12 months of amenorrhea without an alternative medical cause or,&#xD;
+             in case of ambiguities, an FSH level in the postmenopausal range.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Pregnancy or breast feeding.&#xD;
+&#xD;
+          2. Ongoing or completed mechanical ventilation.&#xD;
+&#xD;
+          3. In the opinion of the investigator, unlikely to survive for &gt;48 hours from screening.&#xD;
+&#xD;
+          4. In the opinion of the investigator, expected overall survival due to other&#xD;
+             comorbidities less than 3 months.&#xD;
+&#xD;
+          5. Chronic impairment of cardiac function NYHA II or higher.&#xD;
+&#xD;
+          6. Severe renal dysfunction eGFR &lt; 30 ml/min.&#xD;
+&#xD;
+          7. Medical history including chronic liver disease with inflammation, fibrosis or&#xD;
+             cirrhosis including underlying diseases such as alcoholic liver disease, non-alcoholic&#xD;
+             fatty liver disease, chronic viral hepatitis, alcoholic liver disease, autoimmune&#xD;
+             liver disease, hemochromatosis, Wilson's disease, alpha-1 antitrypsin deficiency,&#xD;
+             cholangitis, or carcinoma.&#xD;
+&#xD;
+          8. Uncontrolled hypertension Systolic BP &gt;180 mm Hg, Diastolic BP &gt; 110 mm Hg&#xD;
+&#xD;
+          9. History of hypersensitivity to the study drugs&#xD;
+&#xD;
+         10. Presence of any of the following abnormal laboratory values at screening: absolute&#xD;
+             neutrophil count (ANC) less than 2 x 109/L, aspartate aminotransferase (AST) or&#xD;
+             alanine aminotransferase (ALT) greater than 5 x upper limit of normal (ULN), platelets&#xD;
+             &lt;100 x 109/L&#xD;
+&#xD;
+         11. Treatment with anakinra, anti-IL 6, anti-IL-6R antagonists, Janus kinase inhibitors&#xD;
+             (JAKi) in the past 30 days or plans to receive during the study period&#xD;
+&#xD;
+         12. Current treatment with conventional synthetic disease-modifying antirheumatic drugs&#xD;
+             (DMARDs)/immunosuppressive agents&#xD;
+&#xD;
+         13. Use of chronic oral corticosteroids for a non-COVID-19-related condition in a dose&#xD;
+             higher than prednisone 10 mg or equivalent per day&#xD;
+&#xD;
+         14. History of, or current autoimmune or inflammatory systemic or localized disease(s)&#xD;
+             other than rheumatoid arthritis&#xD;
+&#xD;
+         15. Acute systemic infection; verified by blood cultures systemic bacterial infection,&#xD;
+             systemic fungi-infection or prosthesis-related infection&#xD;
+&#xD;
+         16. History of stem-cell or solid organ transplantation&#xD;
+&#xD;
+         17. Known active tuberculosis (TB), history of incompletely treated TB, suspected or known&#xD;
+             extrapulmonary TB, suspected or known systemic bacterial or fungal infections&#xD;
+&#xD;
+         18. Diagnosis of, or suspicion of HIV infection, acute hepatitis A and/or chronic&#xD;
+             hepatitis B and/or C&#xD;
+&#xD;
+         19. Previous history of gastrointestinal ulceration or diverticulitis.&#xD;
+&#xD;
+         20. Patients who have received immunosuppressive antibody therapy within the past 3&#xD;
+             months, including intravenous immunoglobulin or plans to receive during the study&#xD;
+             period&#xD;
+&#xD;
+         21. Participation in any clinical research study evaluating an investigational product&#xD;
+             (IP) or therapy within 3 months and less than 5 half-lives of IP prior to the&#xD;
+             screening visit. The use of remdesivir in the context of a single-arm remdesivir&#xD;
+             compassionate use protocol is permitted)&#xD;
+&#xD;
+         22. Any physical examination findings and/or history of any illness that, in the opinion&#xD;
+             of the study investigator, might confound the results of the study or pose an&#xD;
+             additional risk to the patient by their participation in the study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Investigator Jonas Sundén-Cullberg, MD PhD</last_name>
+    <phone>+46-8-58580000</phone>
+    <email>Jonas.sunden-cullberg@sll.se</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Jon Lampa, MD PhD</last_name>
+    <phone>+46-8-58580000</phone>
+    <email>jon.lampa@sll.se</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Karolinska University Hospital</name>
+      <address>
+        <city>Huddinge</city>
+        <state>Stockholm</state>
+        <zip>141 86</zip>
+        <country>Sweden</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jonas Sundén-Cullberg, MD, PHD</last_name>
+      <email>jonas.sunden-cullberg@sll.se</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Sweden</country>
+  </location_countries>
+  <verification_date>June 2020</verification_date>
+  <study_first_submitted>June 1, 2020</study_first_submitted>
+  <study_first_submitted_qc>June 1, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">June 2, 2020</study_first_posted>
+  <last_update_submitted>June 24, 2020</last_update_submitted>
+  <last_update_submitted_qc>June 24, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 26, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Karolinska University Hospital</investigator_affiliation>
+    <investigator_full_name>Jonas Sundén-Cullberg</investigator_full_name>
+    <investigator_title>MD, PhD</investigator_title>
+  </responsible_party>
+  <keyword>Coronavirus 2</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>Anakinra</keyword>
+  <keyword>Tocilizumab</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Interleukin 1 Receptor Antagonist Protein</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

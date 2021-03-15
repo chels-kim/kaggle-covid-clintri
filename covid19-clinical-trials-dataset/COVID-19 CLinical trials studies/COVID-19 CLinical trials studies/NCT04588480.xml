@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2745">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04588480</url>
+  </required_header>
+  <id_info>
+    <org_study_id>C4591005</org_study_id>
+    <nct_id>NCT04588480</nct_id>
+  </id_info>
+  <brief_title>Study to Evaluate the Safety, Tolerability, and Immunogenicity of an RNA Vaccine Candidate Against COVID-19 in Healthy Japanese Adults</brief_title>
+  <official_title>A PHASE 1/2, PLACEBO-CONTROLLED, RANDOMIZED, AND OBSERVER-BLIND STUDY TO EVALUATE THE SAFETY, TOLERABILITY, AND IMMUNOGENICITY OF A SARS-COV-2 RNA VACCINE CANDIDATE AGAINST COVID-19 IN HEALTHY JAPANESE ADULTS</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>BioNTech SE</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Pfizer</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>BioNTech SE</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a Phase 1/2, randomized, placebo-controlled, and observer-blind study in healthy&#xD;
+      Japanese adults.&#xD;
+&#xD;
+      The study will evaluate the safety, tolerability, and immunogenicity of the SARS-CoV-2 RNA&#xD;
+      vaccine candidate against COVID-19:&#xD;
+&#xD;
+        -  As 2 doses, separated by 21 days&#xD;
+&#xD;
+        -  At a single dose level&#xD;
+&#xD;
+        -  In adults 20 to 85 years of age&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">October 21, 2020</start_date>
+  <completion_date type="Anticipated">November 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">November 30, 2021</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage of participants reporting local reactions</measure>
+    <time_frame>For 7 days after dose 1 and dose 2</time_frame>
+    <description>Pain at the injection site, redness, and swelling as self-reported on electronic diaries.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of participants reporting systemic events</measure>
+    <time_frame>For 7 days after dose 1 and dose 2</time_frame>
+    <description>Fever, fatigue, headache, chills, vomiting, diarrhea, new or worsened muscle pain, and new or worsened joint pain as self-reported on electronic diaries.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of participants reporting adverse events</measure>
+    <time_frame>From dose 1 through 1 month after the last dose</time_frame>
+    <description>As elicited by investigational site staff</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of participants reporting serious adverse events</measure>
+    <time_frame>From dose 1 through 12 months after the last dose</time_frame>
+    <description>As elicited by investigational site staff</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of subset participants with abnormal hematology and chemistry laboratory values</measure>
+    <time_frame>1 day after dose 1</time_frame>
+    <description>As measured at the local laboratory</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of subset participants with abnormal hematology and chemistry laboratory values</measure>
+    <time_frame>7 days after dose 1</time_frame>
+    <description>As measured at the local laboratory</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of subset participants with abnormal hematology and chemistry laboratory values</measure>
+    <time_frame>7 days after dose 2</time_frame>
+    <description>As measured at the local laboratory</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of subset participants with grading shifts in hematology and chemistry laboratory assessments</measure>
+    <time_frame>Between baseline and 1 day after dose 1</time_frame>
+    <description>As measured at the local laboratory</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of subset participants with grading shifts in hematology and chemistry laboratory assessments</measure>
+    <time_frame>Between baseline and 7 days after dose 1</time_frame>
+    <description>As measured at the local laboratory</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of subset participants with grading shifts in hematology and chemistry laboratory assessments</measure>
+    <time_frame>Between before dose 2 and 7 days after dose 2</time_frame>
+    <description>As measured at the local laboratory</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>SARS-CoV-2 serum neutralizing antibody levels, expressed as GMTs</measure>
+    <time_frame>1 month after dose 2</time_frame>
+    <description>As measured at the central laboratory</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>GMFR in SARS-CoV-2 serum neutralizing titers</measure>
+    <time_frame>From before vaccination to 1 month after dose 2</time_frame>
+    <description>As measured at the central laboratory</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>SARS-CoV-2 S1-binding IgG levels, expressed as GMCs</measure>
+    <time_frame>1 month after dose 2</time_frame>
+    <description>as measured at the central laboratory</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>GMFR in SARS-CoV-2 S1-binding IgG levels</measure>
+    <time_frame>From before vaccination to 1 month after dose 2</time_frame>
+    <description>as measured at the central laboratory</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV-2 serum neutralizing antibody levels, expressed as GMTs</measure>
+    <time_frame>Through 1 year after dose 2</time_frame>
+    <description>As measured at the central laboratory</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>GMFR in SARS-CoV-2 serum neutralizing titers from before vaccination to each subsequent time point</measure>
+    <time_frame>Through 1 year after dose 2 from baseline</time_frame>
+    <description>As measured at the central laboratory</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV-2 S1-binding IgG levels, expressed as GMCs</measure>
+    <time_frame>Through 1 year after dose 2</time_frame>
+    <description>As measured at the central laboratory</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>GMFR in SARS-CoV-2 S1-binding IgG levels from before vaccination to each subsequent time point</measure>
+    <time_frame>Through 1 year after dose 2 from baseline</time_frame>
+    <description>As measured at the central laboratory</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>GMR of the geometric mean of SARS-CoV-2 serum neutralizing titers to the geometric mean of SARS CoV 2 S1-binding IgG levels</measure>
+    <time_frame>Through 1 year after dose 2</time_frame>
+    <description>As measured at the central laboratory</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">160</enrollment>
+  <condition>SARS-CoV-2 Infection</condition>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>BNT162b2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>BNT162b2 (intramuscular injection)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo (intramuscular injection)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>BNT162b2</intervention_name>
+    <description>BNT162b2 (intramuscular injection)</description>
+    <arm_group_label>BNT162b2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo (intramuscular injection)</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Japanese male or female participants between the ages of 20 and 85 years, inclusive,&#xD;
+             at randomization.&#xD;
+&#xD;
+          -  Participants who are willing and able to comply with all scheduled visits, vaccination&#xD;
+             plan, laboratory tests, lifestyle considerations, and other study procedures.&#xD;
+&#xD;
+          -  Healthy participants who are determined by medical history, physical examination, and&#xD;
+             clinical judgment of the investigator to be eligible for inclusion in the study.&#xD;
+&#xD;
+          -  Capable of giving personal signed informed consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Other medical or psychiatric condition including recent (within the past year) or&#xD;
+             active suicidal ideation/behavior or laboratory abnormality that may increase the risk&#xD;
+             of study participation or, in the investigator's judgment, make the participant&#xD;
+             inappropriate for the study.&#xD;
+&#xD;
+          -  Known infection with human immunodeficiency virus (HIV), hepatitis C virus (HCV), or&#xD;
+             hepatitis B virus (HBV).&#xD;
+&#xD;
+          -  History of severe adverse reaction associated with a vaccine and/or severe allergic&#xD;
+             reaction (eg, anaphylaxis) to any component of the study intervention(s).&#xD;
+&#xD;
+          -  Receipt of medications intended to prevent COVID-19.&#xD;
+&#xD;
+          -  Previous confirmed diagnosis of COVID-19.&#xD;
+&#xD;
+          -  Immunocompromised individuals with known or suspected immunodeficiency, as determined&#xD;
+             by history and/or laboratory/physical examination.&#xD;
+&#xD;
+          -  Bleeding diathesis or condition associated with prolonged bleeding that would, in the&#xD;
+             opinion of the investigator, contraindicate intramuscular injection.&#xD;
+&#xD;
+          -  Women who are pregnant or breastfeeding.&#xD;
+&#xD;
+          -  Previous vaccination with any coronavirus vaccine.&#xD;
+&#xD;
+          -  Individuals who receive treatment with immunosuppressive therapy, including cytotoxic&#xD;
+             agents or systemic corticosteroids, eg, for cancer or an autoimmune disease, or&#xD;
+             planned receipt throughout the study.&#xD;
+&#xD;
+          -  Receipt of blood/plasma products or immunoglobulin, from 60 days before study&#xD;
+             intervention administration or planned receipt throughout the study.&#xD;
+&#xD;
+          -  Participation in other studies involving study intervention within 28 days prior to&#xD;
+             study entry and/or during study participation.&#xD;
+&#xD;
+          -  Previous participation in other studies involving study intervention containing lipid&#xD;
+             nanoparticles.&#xD;
+&#xD;
+          -  Subset only: Any screening hematology and/or blood chemistry laboratory value that&#xD;
+             meets the definition of a ≥ Grade 1 abnormality.&#xD;
+&#xD;
+          -  Investigator site staff or Pfizer employees directly involved in the conduct of the&#xD;
+             study, site staff otherwise supervised by the investigator, and their respective&#xD;
+             family members.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>20 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Pfizer CT.gov Call Center</last_name>
+    <role>Study Director</role>
+    <affiliation>Pfizer</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>SOUSEIKAI Sumida Hospital</name>
+      <address>
+        <city>Sumida-ku</city>
+        <state>Tokyo</state>
+        <zip>130-0004</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>SOUSEIKAI PS Clinic</name>
+      <address>
+        <city>Fukuoka</city>
+        <zip>812-0025</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Japan</country>
+  </location_countries>
+  <link>
+    <url>https://pmiform.com/clinical-trial-info-request?StudyID=C4591005</url>
+    <description>To obtain contact information for a study center near you, click here.</description>
+  </link>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>October 14, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 14, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 19, 2020</study_first_posted>
+  <last_update_submitted>November 18, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 18, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 19, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Pfizer will provide access to individual de-identified participant data and related study documents (e.g. protocol, Statistical Analysis Plan (SAP), Clinical Study Report (CSR)) upon request from qualified researchers, and subject to certain criteria, conditions, and exceptions. Further details on Pfizer's data sharing criteria and process for requesting access can be found at: https://www.pfizer.com/science/clinical_trials/trial_data_and_results/data_requests.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3689">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04660422</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20-600</org_study_id>
+    <secondary_id>UH3AG060626-03S1</secondary_id>
+    <nct_id>NCT04660422</nct_id>
+  </id_info>
+  <brief_title>Advance Care Planning: Communicating With Outpatients for Vital Informed Decision</brief_title>
+  <acronym>ACP-COVID</acronym>
+  <official_title>Advance Care Planning: Communicating With Outpatients for Vital Informed Decisions</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Dana-Farber Cancer Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Dana-Farber Cancer Institute</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This Pre-Post, open-cohort design, pragmatic trial with 150 clinicians and will evaluate the&#xD;
+      effectiveness of the use of telehealth Advanced Care Planning (ACP) Program by comparing ACP&#xD;
+      documentation among 13,000 patients over 65&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study is investigating if the use of telehealth ACP Program will improve and sustain&#xD;
+      rates of ACP from the time that the intervention is implemented compared to two time periods&#xD;
+      prior to the intervention. The Comprehensive ACP Program combines two widely disseminated&#xD;
+      interventions to assess impact when used concurrently.&#xD;
+&#xD;
+        -  One is VitalTalk clinician communication skills training (www.vitaltalk.org) during&#xD;
+           which the primary care clinicians will practice ACP with simulated patient actors under&#xD;
+           the guidance of a trained VitalTalk facilitator.&#xD;
+&#xD;
+        -  The second is the ACP Decisions video decision aids (www.acpdecisions.org) which are&#xD;
+           directed to patients and provide education about ACP. This inclusive ACP approach treats&#xD;
+           patients and clinicians as equal stakeholders providing both with the communication&#xD;
+           skills and tools needed to make decisions about COVID-19 medical care before the&#xD;
+           toughest choices arise.&#xD;
+&#xD;
+        -  The training is four cumulative hours, most of which is spent in communication skills&#xD;
+           work, and the remainder learning how to introduce the videos into one's practice. No&#xD;
+           patients participate in the training. The ambulatory practices included in this&#xD;
+           intervention gain access to the ACP Decisions videos, which can be introduced to&#xD;
+           patients. Videos may be seen in clinic or sent to patients' homes via an electronic or&#xD;
+           paper code.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 15, 2020</start_date>
+  <completion_date type="Anticipated">May 14, 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 14, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Other</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Rate for Advanced Care Planning (ACP) documentation</measure>
+    <time_frame>2 Years</time_frame>
+    <description>This study tests the effects of an ACP Program that trains clinicians and provides patients with a video decision aid on rates of ACP among 13,000 patients at risk, or with, COVID-19. All patients over 65 engaged with the enrolled clinics over the course of each time period in each of the three study periods will be included in the analysis. Rates of ACP are determined by natural language processing data extraction of electronic health records. Generalized linear mixed models will be used to compare outcomes between intervention and control periods.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Rate of orders for resuscitation preferences</measure>
+    <time_frame>2 years</time_frame>
+    <description>Same methodology as Primary Outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of palliative care consultation</measure>
+    <time_frame>2 years</time_frame>
+    <description>Same methodology as Primary Outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of referral to hospice</measure>
+    <time_frame>2 years</time_frame>
+    <description>Same methodology as Primary Outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Advanced Care Planning (ACP) documentation rates among under-represented minority groups.</measure>
+    <time_frame>2 Years</time_frame>
+    <description>The analysis will use a difference in differences approach comparing the changes from the control period to the intervention period between White and non-White racial minority and between non-Medicaid and Medicaid patients.</description>
+  </secondary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">13150</enrollment>
+  <condition>Advanced Care Planning</condition>
+  <condition>Shared Decision Making</condition>
+  <condition>Video Decision Aids</condition>
+  <condition>Communication Skills</condition>
+  <condition>Advance Directives</condition>
+  <condition>Natural Language Processing</condition>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Pre-COVID-19 ACP baseline</arm_group_label>
+    <description>Two six-month control periods prior to the wide-scale implementation of the intervention, allow us to measure a baseline rate of ACP activity and identify the &quot;pre-COVID-19 ACP baseline rate&quot; and a &quot;COVID-19 ACP baseline rate.&#xD;
+September 15, 2019 - March 14, 2020,</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>COVID-19 rate</arm_group_label>
+    <description>Two six-month control periods prior to the wide-scale implementation of the intervention, allow us to measure a baseline rate of ACP activity and identify the &quot;pre-COVID-19 ACP baseline rate&quot; and a &quot;COVID-19 ACP baseline rate.&#xD;
+March 15, 2020 - September 14, 2020</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>ACP rate</arm_group_label>
+    <description>ACP rate during the implementation period, which begins December 15, 2020 and continues for six months, to the rates in the previous two control periods December 15, 2020-June 15, 2021</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>VitalTalk communication skills training</intervention_name>
+    <description>Clinicians will receive VitalTalk intensive communication skills training via highly structured Zoom conference. They will learn skills relevant to discussions about ACP and COVID-19 including delivering serious news, eliciting goals of care, and managing difficult conversations via telehealth platforms.</description>
+    <arm_group_label>ACP rate</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>ACP Decisions Video Program</intervention_name>
+    <description>All clinicians will also be trained remotely on the ACP Decisions Video Program using the ACP app. Training will instruct clinicians on how to: 1. Introduce the COVID-19 videos to patients and caregivers; 2. Select the appropriate video(s) from the entire suite according to patients' needs; and, 3. Prescribe videos for patients and caregivers using the electronic platform. The suite of ACP videos is designed to address common ACP decisions confronting patients at risk or with COVID-19 and the caregivers.</description>
+    <arm_group_label>ACP rate</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Intervention training:</intervention_name>
+    <description>Training will instruct the clinicians on how to: i. more effectively communicate with patients regarding COVID- 19, ii. have ACP conversations with patients, iii. introduce the videos to patients and families, iv. use the videos as an adjunct to ACP counseling by clinicians, v. select the appropriate video(s) from the entire suite as according to patients' needs, and, vi. use the app or electronic platform for prescribing videos to be seen at home (telehealth visits), or to be viewed in clinic with an iPad.</description>
+    <arm_group_label>ACP rate</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Medical Record Review</intervention_name>
+    <description>13,000 (total) patients aged 65 or older for our primary (completed advance care plans) outcome. ACP can include designating a health care proxy, discussion of advance directives, goals-of-care discussions, CPR discussions, palliative care discussions and referrals, as well as hospice. Each of these ACP outcomes will also be compared in secondary analyses using NLP. These data will be obtained from the EHR. All patient participants will only be included for medical record review.</description>
+    <arm_group_label>ACP rate</arm_group_label>
+    <arm_group_label>COVID-19 rate</arm_group_label>
+    <arm_group_label>Pre-COVID-19 ACP baseline</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        To be eligible for this study, individuals must be aged 65 or over, affiliated with the&#xD;
+        Northwell Health clinic. For each of the three periods of the study, those patients over&#xD;
+        the age of 65 who are engaged (e.g., seen in person, telehealth, etc.) with the clinic&#xD;
+        during that time period will be included in that time period.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Clinic Eligibility: Clinics affiliated with Northwell Health may be included in the&#xD;
+             study.&#xD;
+&#xD;
+          -  Clinician, Staff Eligibility: Any staff member identified by the site-PIs are&#xD;
+             affiliated with Northwell Health.&#xD;
+&#xD;
+          -  Patient Eligibility: To be eligible for this study, individuals must be aged 65 or&#xD;
+             over, affiliated with the Northwell Health clinic. For each of the three periods of&#xD;
+             the study, those patients over the age of 65 who are engaged (e.g., seen in person,&#xD;
+             telehealth, etc.) with the clinic during that time period will be included in that&#xD;
+             time period&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Individuals who are not yet adults (infants, children, teenagers)&#xD;
+&#xD;
+          -  Pregnant women&#xD;
+&#xD;
+          -  Prisoners&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>65 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>James A. Tulsky, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Dana-Farber Cancer Institute</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>James A. Tulsky, MD</last_name>
+    <phone>617-582-9317</phone>
+    <email>JamesA_Tulsky@dfci.harvard.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Northwell Health</name>
+      <address>
+        <city>New Hyde Park</city>
+        <state>New York</state>
+        <zip>11040</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Edith Burns, MD</last_name>
+      <email>eburns4@northwell.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Edith Burns, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>December 3, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 3, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 9, 2020</study_first_posted>
+  <last_update_submitted>January 4, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 4, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 5, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Dana-Farber Cancer Institute</investigator_affiliation>
+    <investigator_full_name>James A. Tulsky</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Covid 19</keyword>
+  <keyword>Advanced Care Planning</keyword>
+  <keyword>Shared decision making</keyword>
+  <keyword>Video decision aids</keyword>
+  <keyword>Communication skills</keyword>
+  <keyword>Serious illness decision making</keyword>
+  <keyword>Health care proxy</keyword>
+  <keyword>Advance directives</keyword>
+  <keyword>Natural language processing</keyword>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>The Dana-Farber / Harvard Cancer Center encourages and supports the responsible and ethical sharing of data from clinical trials. De-identified participant data from the final research dataset used in the published manuscript may only be shared under the terms of a Data Use Agreement. Requests may be directed to Sponsor Investigator or designee. The protocol and statistical analysis plan will be made available on Clinicaltrials.gov only as required by federal regulation or as a condition of awards and agreements supporting the research.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>Data can be shared no earlier than 1 year following the date of publication</ipd_time_frame>
+    <ipd_access_criteria>Contact the Belfer Office for Dana-Farber Innovations (BODFI) at innovation@dfci.harvard.edu</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

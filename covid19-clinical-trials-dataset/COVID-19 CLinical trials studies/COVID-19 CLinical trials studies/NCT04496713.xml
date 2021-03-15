@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4765">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04496713</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB00257994</org_study_id>
+    <nct_id>NCT04496713</nct_id>
+  </id_info>
+  <brief_title>Pilot Study of Video and Telephone Primary Care Visits</brief_title>
+  <official_title>Pilot Study - Randomized Controlled Trial of Video and Telephone Primary Care Visits</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Johns Hopkins University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Johns Hopkins University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The inability to access and use smartphones or camera-outfitted internet-connected devices&#xD;
+      during the COVID-19 pandemic relegates certain patients to receive audio-only telemedicine&#xD;
+      instead of audio/video-based telemedicine. The investigators are conducting a randomized&#xD;
+      controlled trial in order to characterize patient and provider attitudes towards these two&#xD;
+      modalities of care and to test the feasibility of a new model to make tablets for video-based&#xD;
+      care accessible to those who need that. The investigators hypothesize that patient and&#xD;
+      provider satisfaction will be higher with video-based telehealth when compared to phone-based&#xD;
+      telehealth.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 24, 2021</start_date>
+  <completion_date type="Anticipated">August 24, 2023</completion_date>
+  <primary_completion_date type="Anticipated">May 24, 2023</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Provider rating as assessed by the Consumer Assessment of Healthcare Providers and Systems question on provider rating</measure>
+    <time_frame>Within 2 weeks of the study visit</time_frame>
+    <description>Provider rating will be assessed with the Consumer Assessment of Healthcare Providers and Systems question on provider rating of 0-10; 0 being worst provider possible and 10 being best provider possible.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Satisfaction with telemedicine visit for patient as assessed by a Likert scale</measure>
+    <time_frame>Within 2 weeks of the study visit</time_frame>
+    <description>Satisfaction with telemedicine visit for patient will be assessed with Likert-scale questions related to satisfaction.&#xD;
+Satisfaction (1=strongly disagree to 5=strongly agree).&#xD;
+In general, I was satisfied with using a video or phone call for this visit&#xD;
+I could explain my medical problems well enough&#xD;
+Talking to the doctor was as satisfying as talking in person&#xD;
+Overall score 3 to 15 with higher scores signifying better satisfaction.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Satisfaction with telemedicine visit for provider as assessed by a Likert scale</measure>
+    <time_frame>Within 2 weeks of the study visit</time_frame>
+    <description>Satisfaction with telemedicine visit for provider will be assessed with Likert-scale questions related to satisfaction.&#xD;
+[1=Strongly Disagree. 5=Strongly Agree].&#xD;
+In general, I was satisfied with using telemedicine for this visit&#xD;
+Talking to the patient was as satisfying as talking in person.&#xD;
+Overall score 2 to 10 with higher scores signifying better satisfaction.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Efficacy of telemedicine visit for provider as assessed by a Likert scale</measure>
+    <time_frame>Within 2 weeks of the study visit</time_frame>
+    <description>Efficacy of telemedicine visit for provider will be assessed with Likert-scale questions related to efficacy.&#xD;
+[1=Strongly Disagree. 5=Strongly Agree]. b. I was able to understand the patient's explanation of their medical problems well enough.&#xD;
+c. In general, this telemedicine visit was effective in improving this patient's medical care d. An in-person visit would likely have provided additional clinically-relevant information e. An in-person visit would likely have led to a change in management</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Provider communication as assessed by yes/no question</measure>
+    <time_frame>Within 2 weeks of the study visit</time_frame>
+    <description>The ability of a provider to communicate will be assessed by patients with the yes/no question of a modified version of the Consumer Assessment of Healthcare Providers and Systems questionnaire related to communication.&#xD;
+Did this provider explain things in a way that was easy to understand? Yes/No</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Provider listening as assessed by yes/no question</measure>
+    <time_frame>Within 2 weeks of the study visit</time_frame>
+    <description>Provider listening will be assessed by patients with the yes/no question of a modified version of the Consumer Assessment of Healthcare Providers and Systems questionnaire related to listening.&#xD;
+Did this provider listen carefully to you? Yes/No</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Provider respect as assessed by yes/no question</measure>
+    <time_frame>Within 2 weeks of the study visit</time_frame>
+    <description>Provider respect will be assessed by patients with the yes/no question of a modified version of the Consumer Assessment of Healthcare Providers and Systems questionnaire relating to respect.&#xD;
+Did this provider show respect for what you had to say? Yes/No</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Provider time spent as assessed by yes/no question</measure>
+    <time_frame>Within 2 weeks of the study visit</time_frame>
+    <description>Provider time spent will be assessed by patients with the yes/no question of a modified version of the Consumer Assessment of Healthcare Providers and Systems questionnaire relating to time spent during the clinical encounter.&#xD;
+Did this provider spend enough time with you? Yes/No</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient health rating as assessed by a likert scale</measure>
+    <time_frame>Within 2 weeks of the study visit</time_frame>
+    <description>Patient health will be assessed with Likert-scale questions related to patient health.&#xD;
+In general, how would you rate your overall health?&#xD;
+Excellent&#xD;
+Very good&#xD;
+Good&#xD;
+Fair&#xD;
+Poor&#xD;
+In general, how would you rate your overall mental or emotional health?&#xD;
+Excellent&#xD;
+Very good&#xD;
+Good&#xD;
+Fair&#xD;
+Poor&#xD;
+Overall score 2 to 10 with lower scores signifying better health.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Telemedicine</condition>
+  <arm_group>
+    <arm_group_label>Telemedicine - Phone</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Patients will continue with their telephone-based telemedicine visit as scheduled. There will be no change to their care. Patients will receive a survey by mail about the visit.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Telemedicine - Audio/Video</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients will be given an internet-connected tablet to have their upcoming visit with their physician by audio/video. A survey can be completed on the tablet. The devices will be sent back to the research time after their single use.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Internet-connected computer tablet</intervention_name>
+    <description>An internet-connected tablet provided to patient for upcoming visit with physician by audio/video which can also be used to complete a survey.</description>
+    <arm_group_label>Telemedicine - Audio/Video</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adult patients scheduled for telephone-based visits who are doing so because of a lack&#xD;
+             of ability to conduct a video visit (i.e. no tablet/laptop; no access to internet) who&#xD;
+             live in Baltimore City&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients with significant visual or hearing impairment&#xD;
+&#xD;
+          -  Patients that have legal guardians or who are marked as lacking healthcare&#xD;
+             decision-making capacity&#xD;
+&#xD;
+          -  Patients that have not selected English as their preferred language&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jeremy A Epstein, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Johns Hopkins University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Casey Overby Taylor, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Johns Hopkins University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jeremy A Epstein, MD</last_name>
+    <phone>410-955-9753</phone>
+    <email>epstein@jhmi.edu</email>
+  </overall_contact>
+  <verification_date>July 2020</verification_date>
+  <study_first_submitted>July 29, 2020</study_first_submitted>
+  <study_first_submitted_qc>July 29, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 3, 2020</study_first_posted>
+  <last_update_submitted>January 14, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 14, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 19, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>telemedicine</keyword>
+  <keyword>audio/video</keyword>
+  <keyword>telephone</keyword>
+  <keyword>primary care</keyword>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Protocol and analysis plan, without any protected health information (PHI), can be shared on request via email.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

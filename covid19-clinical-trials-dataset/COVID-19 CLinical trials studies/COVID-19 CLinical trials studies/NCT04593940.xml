@@ -1,0 +1,886 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="781">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04593940</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Pro00106301</org_study_id>
+    <nct_id>NCT04593940</nct_id>
+  </id_info>
+  <brief_title>Immune Modulators for Treating COVID-19</brief_title>
+  <acronym>ACTIV-1 IM</acronym>
+  <official_title>Randomized Master Protocol for Immune Modulators for Treating COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Daniel Benjamin</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Center for Advancing Translational Science (NCATS)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Biomedical Advanced Research and Development Authority</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Duke University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      ACTIV-1 IM is a master protocol designed to evaluate multiple investigational agents for the&#xD;
+      treatment of moderately or severely ill patients infected with severe acute respiratory&#xD;
+      syndrome coronavirus 2 (SARS-CoV-2). The research objectives are to evaluate each agent with&#xD;
+      respect to speed of recovery, mortality, illness severity, and hospital resource utilization.&#xD;
+      Each agent will be evaluated as add-on therapy to the standard of care (SoC) in use at the&#xD;
+      local clinics, including remdesivir (provided). The SoC may change during the course of the&#xD;
+      study based on other research findings. Comparisons of the agents among themselves is not a&#xD;
+      research objective.&#xD;
+&#xD;
+      The study population corresponds to moderately and severely ill patients infected with the&#xD;
+      coronavirus disease 2019 (COVID-19) virus. Recruitment will target patients already&#xD;
+      hospitalized for treatment of COVID-19 infection as well as patients being treated for&#xD;
+      COVID-19 infection in Emergency Departments while waiting to be admitted to the hospital.&#xD;
+      Patients both in and out of the ICU are included in the study population.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      ACTIV-1 IM is a master protocol designed to evaluate immune modulators for the treatment of&#xD;
+      moderately or severely ill hospitalized patients infected with COVID-19. Trial participants&#xD;
+      will be assessed daily while hospitalized. If the participants are discharged from the&#xD;
+      hospital prior to Day 29, they will have follow-up study visits at Days 8, 11, 15, 22, and&#xD;
+      29. For discharged participants, it is preferred that the Day 8, 11, 15, and 29 visits are in&#xD;
+      person to obtain safety laboratory tests and blood (serum/plasma) samples for secondary&#xD;
+      research as well as clinical outcome data. However, infection control or other restrictions&#xD;
+      may limit the ability of the participant to return to the clinic. In this case, these visits&#xD;
+      may be conducted by phone, and only clinical data will be obtained. The Day 22 visit does not&#xD;
+      have laboratory tests or collection of samples and is conducted by phone. The Day 60&#xD;
+      assessment will be conducted by phone.&#xD;
+&#xD;
+      The effectiveness of each therapeutic agent as add-on therapy to SoC plus remdesivir&#xD;
+      (provided) will be evaluated based on the primary endpoint of time to recovery by Day 29. The&#xD;
+      sample size requirements are based on the ability to detect a moderate improvement in time to&#xD;
+      recovery (3-4 fewer days) for each agent. A total of 788 recoveries are required for each&#xD;
+      comparison to provide approximately 85% power to detect a recovery rate ratio of 1.25.&#xD;
+      Assuming 73% of participants achieve recovery in 28 days, consistent with the ACTT-1 results,&#xD;
+      the total sample size to evaluate 1, 2, and 3 agents in ACTIV-1 IM is approximately 1080,&#xD;
+      1620, and 2160, respectively. Because each agent is being compared to SoC with no&#xD;
+      between-agent comparisons, no multiplicity adjustments for multiple agents are planned.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 15, 2020</start_date>
+  <completion_date type="Anticipated">September 2021</completion_date>
+  <primary_completion_date type="Anticipated">February 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>ACTIV-1 IM builds upon findings and the model used for other network COVID studies. Including multiple therapeutic agents under a single protocol avoids duplication of effort in terms of infrastructure, trial governance, information systems (EDC, web-based randomization, etc.) and other aspects of study management. Implementation of the master protocol facilitates discontinuation of less promising agents and addition of possibly newly emergent agents that become available after the study begins, without stopping and starting the study itself for extended pauses.&#xD;
+All test agents are evaluated as add-on therapies to the local SoC at each clinic. The master protocol design allows for the efficacy and safety of each agent to be determined based on comparisons with a pooled control group, consisting of patients receiving SoC plus placebo. Sharing control patients across all test agents substantially reduces the sample size requirements for the study.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Study Drug and Matching Placebo</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of patients that recovered from COVID-19</measure>
+    <time_frame>days 1-29</time_frame>
+    <description>time to recovery by Day 29</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in number of patients hospitalized on invasive mechanical ventilation</measure>
+    <time_frame>Days 15 and 29</time_frame>
+    <description>Number of patients hospitalized on invasive mechanical ventilation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>number of patients that improved clinically</measure>
+    <time_frame>Days 3, 5, 8, 11, 15, 29, and 60</time_frame>
+    <description>8-point ordinal clinical scale assessed</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of patient deaths</measure>
+    <time_frame>Day 14</time_frame>
+    <description>mortality rate</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of patients with decreased supplemental oxygenation needed</measure>
+    <time_frame>Day 29</time_frame>
+    <description>compared to baseline the amount of supplementation oxygen</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in number of patients needing non-invasive ventilation/ high flow oxygen</measure>
+    <time_frame>Day 29</time_frame>
+    <description>assessment of non-invasive ventilation/ high flow oxygen up to day 29</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of days patients are in the hospital</measure>
+    <time_frame>Days 3, 5, 8, 11, 15, 22, and 29</time_frame>
+    <description>number of days in the hospital</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of SAEs and AEs of grade 3 and 4</measure>
+    <time_frame>Days 3, 5, 8, 11, 15, 22, and 29</time_frame>
+    <description>Cumulative incidence of SAEs and AEs of grade 3 and 4</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of patients with changes in abnormal WBC counts</measure>
+    <time_frame>Days 3, 5, 8, 11, 15, and 29</time_frame>
+    <description>Number of patients with changes in abnormal WBC counts</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Number of patients with National Early Warning Scores (NEWS) &lt;=2</measure>
+    <time_frame>Days 3, 5, 8, 11, 15, and 29</time_frame>
+    <description>time to discharge or to a NEWS of &lt;=2 and maintained for 24 hours</description>
+  </other_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">2160</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Remdesivir + infliximab or matching placebo</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>infliximab (single dose IV 5mg/kg given on day 1) or matching placebo</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Remdesivir + abatacept or matching placebo</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>abatacept (single dose IV 10 mg/kg up to 1,000 mg given on day 1) or matching placebo</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Remdesivir + cenicriviroc or matching placebo</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>cenicriviroc [tablet, Day 1/Loading Dose: 450 mg (300mg morning and 150mg evening) Day 2 - 29/Maintenance Dose: 300 mg (150 mg BID) through Day 29]. or matching placebo</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Infliximab</intervention_name>
+    <description>study drug or matching placebo</description>
+    <arm_group_label>Remdesivir + infliximab or matching placebo</arm_group_label>
+    <other_name>remicade</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Abatacept</intervention_name>
+    <description>study drug or matching placebo</description>
+    <arm_group_label>Remdesivir + abatacept or matching placebo</arm_group_label>
+    <other_name>orencia</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Remdesivir</intervention_name>
+    <description>Standard of Care</description>
+    <arm_group_label>Remdesivir + abatacept or matching placebo</arm_group_label>
+    <arm_group_label>Remdesivir + cenicriviroc or matching placebo</arm_group_label>
+    <arm_group_label>Remdesivir + infliximab or matching placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>cenicriviroc</intervention_name>
+    <description>study drug or matching placebo</description>
+    <arm_group_label>Remdesivir + cenicriviroc or matching placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Admitted to a hospital or awaiting admission in the ED with symptoms suggestive of&#xD;
+             COVID-19.&#xD;
+&#xD;
+          2. Subject (or legally authorized representative) provides informed consent prior to&#xD;
+             initiation of any study procedures.&#xD;
+&#xD;
+          3. Subject (or legally authorized representative) understands and agrees to comply with&#xD;
+             planned study procedures.&#xD;
+&#xD;
+          4. Male or non-pregnant female adults ≥18 years of age at time of enrollment.&#xD;
+&#xD;
+          5. Has laboratory-confirmed (within 14 days prior to enrollment) SARS-CoV-2 infection as&#xD;
+             determined by PCR or other commercial or public health assay in any specimen.&#xD;
+&#xD;
+          6. Ongoing illness of any duration, and at least one of the following:&#xD;
+&#xD;
+               -  Radiographic infiltrates by imaging (chest x-ray, CT scan, etc.), OR&#xD;
+&#xD;
+               -  Blood oxygen saturation (SpO2) ≤94% on room air, OR&#xD;
+&#xD;
+               -  Requiring supplemental oxygen, OR&#xD;
+&#xD;
+               -  Requiring mechanical ventilation or ECMO.&#xD;
+&#xD;
+          7. Women of childbearing potential must agree to either abstinence or use at least one&#xD;
+             primary form of contraception not including hormonal contraception from the time of&#xD;
+             screening through Day 60.&#xD;
+&#xD;
+          8. Agrees to not participate in another intervention trial for the treatment of COVID-19&#xD;
+             through Day 60.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. ALT or AST &gt;5 times the upper limit of normal.&#xD;
+&#xD;
+          2. Estimated glomerular filtration rate (eGFR) &lt;30 mL/min (including patients receiving&#xD;
+             hemodialysis or hemofiltration).&#xD;
+&#xD;
+          3. Neutropenia (absolute neutrophil count &lt;1000 cells/μL) (&lt;1.0 x 103/μL or &lt;1.0 GI/L).&#xD;
+&#xD;
+          4. Lymphopenia (absolute lymphocyte count &lt;200 cells/μL) (&lt;0.20 x 103/μL or &lt;0.20 GI/L)&#xD;
+&#xD;
+          5. Pregnancy or breast feeding.&#xD;
+&#xD;
+          6. Anticipated discharge from the hospital or transfer to another hospital which is not a&#xD;
+             study site within 72 hours.&#xD;
+&#xD;
+          7. Known Allergy to any study medication.&#xD;
+&#xD;
+          8. Received cytotoxic or biologic treatments (such as anti-interleukin-1 [IL-1],&#xD;
+             anti-IL-6 [tocilizumab or sarilumab], IL-17, or T-cell or B-cell targeted therapies&#xD;
+             (e.g., rituximab), tyrosine kinase inhibitors including baricitinib, TNF inhibitors,&#xD;
+             or interferon within 4 weeks or 5 half-lives prior to screening. Steroid dependency&#xD;
+             defined as need for prednisone at a dose &gt;10 mg (or equivalent) for &gt;1 month within 2&#xD;
+             weeks of screening is exclusionary. Note 1: Dexamethasone (at a dose of 6 mg per day&#xD;
+             for up to 10 days) is permitted for the treatment of COVID-19 in patients who are&#xD;
+             already mechanically ventilated and in patients who require supplemental oxygen at&#xD;
+             screening, but who are not mechanically ventilated in accordance with national&#xD;
+             guidelines. Note 2: Infusion of convalescent plasma is also allowed.&#xD;
+&#xD;
+          9. Based on medical history and concomitant therapies that would suggest infection, have&#xD;
+             suspected clinical diagnosis of current active tuberculosis (TB) or, if known, latent&#xD;
+             TB treated for less than 4 weeks with appropriate anti-tuberculosis therapy per local&#xD;
+             guidelines (by history only, no screening required).&#xD;
+&#xD;
+         10. Based on medical history and concomitant therapies that would suggest infection,&#xD;
+             suspected serious, active bacterial, fungal, viral (including, but not limited to,&#xD;
+             active HBV, HCV, or HIV/AIDS).&#xD;
+&#xD;
+         11. Have received any live vaccine (that is, live attenuated) within 3 months before&#xD;
+             screening, or intend to receive a live vaccine (or live attenuated) during the study.&#xD;
+             Note: Use of non-live (inactivated) vaccinations is allowed for all participants.&#xD;
+&#xD;
+         12. Severe hepatic impairment (defined as liver cirrhosis Child stage C).&#xD;
+&#xD;
+         13. Current severe heart failure (New York Heart Association [NYHA] III-IV).&#xD;
+&#xD;
+         14. In the Investigator's judgment, the patient has any advanced organ dysfunction that&#xD;
+             would not make participation appropriate.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Daniel K Benjamin, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Duke University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Bill Powderly, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Washington University School of Medicine</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Theresa Jasion, MS</last_name>
+    <phone>919-338-4307</phone>
+    <email>theresa.jasion@duke.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Lori Hudson, PhD</last_name>
+    <phone>919-259-5579</phone>
+    <email>lori.hudson@duke.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of Arkansas Medical Sciences</name>
+      <address>
+        <city>Little Rock</city>
+        <state>Arkansas</state>
+        <zip>72205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Cindy Witkowski</last_name>
+      <phone>501-526-5282</phone>
+      <email>witkowskicynthial@uams.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Ryan Dare, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Scripps Clinical Medical Group</name>
+      <address>
+        <city>La Jolla</city>
+        <state>California</state>
+        <zip>92037</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Shelly Meese</last_name>
+      <phone>636-893-4407</phone>
+      <email>meese.shelly@scrippshealth.org</email>
+    </contact>
+    <investigator>
+      <last_name>Stuti Jaiswal, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Stanford University Medical Center</name>
+      <address>
+        <city>Palo Alto</city>
+        <state>California</state>
+        <zip>94303</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ali Dehnad</last_name>
+      <phone>650-724-6887</phone>
+      <email>alid@stanford.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Philip Grant, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Medstar Washington Hospital Center</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Laira Baez Quintana</last_name>
+      <phone>202-877-7133</phone>
+      <email>laira.m.baezquintana@medstar.net</email>
+    </contact>
+    <investigator>
+      <last_name>Seife Yohannes, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Northwestern University</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Robert Shepard</last_name>
+      <phone>312-503-2486</phone>
+      <email>robert-shepard@northwestern.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Michael Ison, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Kansas</name>
+      <address>
+        <city>Kansas City</city>
+        <state>Kansas</state>
+        <zip>66160</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Carolina Aguiar</last_name>
+      <phone>913-945-9295</phone>
+      <email>caguiar@kumc.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Kimberly Lovell</last_name>
+      <email>klovell@kumc.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Matthias Salathe, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Kentucky</name>
+      <address>
+        <city>Lexington</city>
+        <state>Kentucky</state>
+        <zip>40536</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Evan Cassity</last_name>
+      <phone>859-218-6633</phone>
+      <email>evan.cassity@uky.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Peter Morris, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Johns Hopkins Medical Center</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Eugene Bosworth</last_name>
+      <phone>443-974-8071</phone>
+      <email>eboswor1@jhmi.edu</email>
+    </contact>
+    <investigator>
+      <last_name>R. Scott Stephens, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Boston Medical Center</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02118</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ridiane Denis</last_name>
+      <phone>617-358-7561</phone>
+      <email>ridianed@bu.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Benjamin Linas, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>MidMichigan Medical Center - Midland</name>
+      <address>
+        <city>Midland</city>
+        <state>Michigan</state>
+        <zip>48670</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Roberta Thrush</last_name>
+      <phone>989-631-2469</phone>
+      <email>roberta.thrush@midmichigan.org</email>
+    </contact>
+    <investigator>
+      <last_name>John Blamoun, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Mississippi Medical Center</name>
+      <address>
+        <city>Jackson</city>
+        <state>Mississippi</state>
+        <zip>39216</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Cathy Hudgins</last_name>
+      <phone>601-815-5000</phone>
+      <email>chudgins@umc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Gailen Marshall, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Washington University School of Medicine</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lisa Kessels</last_name>
+      <phone>314-747-1096</phone>
+      <email>lkessels@wustl.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Jane O'Halloran, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Rutgers New Jersey Medical School</name>
+      <address>
+        <city>New Brunswick</city>
+        <state>New Jersey</state>
+        <zip>08901</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Deborah McCloskey</last_name>
+      <phone>732-418-8484</phone>
+      <email>mcclosda@rwjms.rutgers.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Reynold Panettieri, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Weill Cornell Medicine</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Britta Witting</last_name>
+      <phone>212-746-7587</phone>
+      <email>bmw4002@med.cornell.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Matthew McCarthy, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>St Lawrence Health System</name>
+      <address>
+        <city>Potsdam</city>
+        <state>New York</state>
+        <zip>13676</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Daniel Jaremczuk</last_name>
+      <phone>315-261-6013</phone>
+      <email>djaremczuk@cphospital.org</email>
+    </contact>
+    <investigator>
+      <last_name>Eyal Kedar, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Rochester Medical Center-Strong Memorial Hospital</name>
+      <address>
+        <city>Rochester</city>
+        <state>New York</state>
+        <zip>14642</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Amanda Howell</last_name>
+      <phone>585-273-1725</phone>
+      <email>amanda_howell@urmc.rochester.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Christopher Palma, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of North Carolina - Chapel Hill</name>
+      <address>
+        <city>Chapel Hill</city>
+        <state>North Carolina</state>
+        <zip>27599</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nayeem Choudhury</last_name>
+      <phone>417-379-6389</phone>
+      <email>nayeem_choudhury@med.unc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Anne Lachiewicz, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Duke University</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jacob Craven</last_name>
+      <phone>919-681-9997</phone>
+      <email>jacob.craven@duke.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Wolfe Cameron, MBBS</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Wake Forest University</name>
+      <address>
+        <city>Winston-Salem</city>
+        <state>North Carolina</state>
+        <zip>27157</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Elizabeth Zieser-Misenheimer</last_name>
+      <phone>336-716-5685</phone>
+      <email>ezieserm@wakehealth.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Lashaunda Holmes</last_name>
+      <phone>1-336-716-4267</phone>
+      <email>laholmes@wakehealth.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Caryn Morse, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Oregon Health and Science University</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97239</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Olivia Krol</last_name>
+      <phone>503-494-6994</phone>
+      <email>krolo@ohsu.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Akram Khan, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Texas Health Science Center at San Antonio</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Robin Tragus</last_name>
+      <phone>210-567-5262</phone>
+      <email>tragus@uthscsa.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Thomas Patterson, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Trinity Mother Frances Hospital</name>
+      <address>
+        <city>Tyler</city>
+        <state>Texas</state>
+        <zip>75701</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Amanda Baker</last_name>
+      <phone>903-606-3536</phone>
+      <email>amanda.baker3@christushealth.org</email>
+    </contact>
+    <investigator>
+      <last_name>Suman Sinha, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Utah</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84108</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Macy Barrios</last_name>
+      <phone>801-581-5811</phone>
+      <email>macy.barrios@hsc.utah.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Estelle Harris, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Virginia Commonwealth University Medical Center</name>
+      <address>
+        <city>Richmond</city>
+        <state>Virginia</state>
+        <zip>23298</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rebecca Collen</last_name>
+      <phone>804-628-4376</phone>
+      <email>rebecca.collen@vcuhealth.org</email>
+    </contact>
+    <investigator>
+      <last_name>Arun Sanyal, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Providence Medical Research Center</name>
+      <address>
+        <city>Spokane</city>
+        <state>Washington</state>
+        <zip>99204</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Carissa Urbat</last_name>
+      <phone>509-474-4345</phone>
+      <email>carissa.urbat@providence.org</email>
+    </contact>
+    <investigator>
+      <last_name>Radica Alicic, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Gundersen Health System</name>
+      <address>
+        <city>La Crosse</city>
+        <state>Wisconsin</state>
+        <zip>54601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Cindy Murphy</last_name>
+      <phone>608-775-6782</phone>
+      <email>camurphy@gundersenhealth.org</email>
+    </contact>
+    <investigator>
+      <last_name>Arick Sabin, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>September 23, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 19, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 20, 2020</study_first_posted>
+  <last_update_submitted>January 11, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 11, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 12, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Duke University</investigator_affiliation>
+    <investigator_full_name>Daniel Benjamin</investigator_full_name>
+    <investigator_title>Kiser-Arena Distinguished Professor, Duke University Pediatrics</investigator_title>
+  </responsible_party>
+  <keyword>COVID19</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>TAK-652</mesh_term>
+    <mesh_term>Infliximab</mesh_term>
+    <mesh_term>Abatacept</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4486">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04683484</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NNG26</org_study_id>
+    <nct_id>NCT04683484</nct_id>
+  </id_info>
+  <brief_title>A Clinical Trial to Assess the Safety and Immunogenicity of Nanocovax in Heathy Volunteers</brief_title>
+  <official_title>Clinical Trials of Phase 1, 2 of Nanocovax Manufactured by Nanogen</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Nanogen Pharmaceutical Biotechnology Joint Stock Company</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Nanogen Pharmaceutical Biotechnology Joint Stock Company</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to assess the safety, tolerability, and immunization of&#xD;
+      Nanocovax in healthy volunteers.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The clinical trial Phase 1, open-label, dose-escalation to evaluate the safety, tolerability,&#xD;
+      and initial assessment of immunogenicity of the vaccine Nanocovax intramuscularly in healthy&#xD;
+      Vietnamese adult volunteers.&#xD;
+&#xD;
+      The clinical trial Phase 2, randomization, double-blind, multicenter, placebo-controlled to&#xD;
+      evaluate the safety, immunogenicity, and determined the optimal dose of the Vaccine Nanocovax&#xD;
+      intramuscularly in healthy volunteers.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 10, 2020</start_date>
+  <completion_date type="Anticipated">August 10, 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 10, 2021</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Solicited adverse events</measure>
+    <time_frame>7 days after each dose</time_frame>
+    <description>Percentage and severity level of participants reporting Solicited adverse events</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Anti-S IgG</measure>
+    <time_frame>0, 7, 28, 35, 56, 180 days after the first dose</time_frame>
+    <description>Geometric mean concentrations of Anti-S IgG at each time points</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV-2 neutralizing titers</measure>
+    <time_frame>0, 7, 28, 35, 56, 180 days after the first dose</time_frame>
+    <description>Geometric mean titers of SARS-CoV-2 Neutralization antibody at each time points</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Participants achieving ≥4-fold rise of Anti-S IgG</measure>
+    <time_frame>0, 7, 28, 35, 56, 180 days after the first dose</time_frame>
+    <description>Proportion of participants achieving ≥4-fold rise of Anti-S IgG from before vaccination at each time points</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cellular immune response (IFNγ)</measure>
+    <time_frame>28, 35, 56 days after the first dose</time_frame>
+    <description>Change of IFNγ from baseline after vaccination</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cellular immune response (T CD4)</measure>
+    <time_frame>28, 35, 56 days after the first dose</time_frame>
+    <description>Change of T CD4 from baseline after vaccination</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cellular immune response (T CD8)</measure>
+    <time_frame>28, 35, 56 days after the first dose</time_frame>
+    <description>Change of T CD8 from baseline after vaccination</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serious adverse events</measure>
+    <time_frame>28 days after each dose</time_frame>
+    <description>Percentage of participants reporting Serious adverse events</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Unsolicited adverse events</measure>
+    <time_frame>28 days after each dose</time_frame>
+    <description>Percentage of participants reporting Unsolicited adverse events</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">620</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Low dose of Nanocovax</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Intramuscular injection, two doses given 28 days apart</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Middle dose of Nanocovax</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Intramuscular injection, two doses given 28 days apart</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>High dose of Nanocovax</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Intramuscular injection, two doses given 28 days apart</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Intramuscular injection, two doses given 28 days apart</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Nanocovax</intervention_name>
+    <description>Recombinant Protein spike (s) SARS-CoV-2 and adjuvant (0,5 mg Al PO4)</description>
+    <arm_group_label>High dose of Nanocovax</arm_group_label>
+    <arm_group_label>Low dose of Nanocovax</arm_group_label>
+    <arm_group_label>Middle dose of Nanocovax</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>0,5 mg Al PO4</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  From 18 to 50 years old in phase 1, from 12 to 75 years old in phase 2&#xD;
+&#xD;
+          -  Body Mass Index (BMI) between 18 and 28 kg/m2&#xD;
+&#xD;
+          -  The subject has good health, is assessed through medical history, clinical&#xD;
+             examination, and laboratory tests (such as hematology, biochemistry, urine ...) within&#xD;
+             the normal range evaluated by the clinician.&#xD;
+&#xD;
+          -  Subjects aged potentially pregnant should use effective contraceptive methods 4 weeks&#xD;
+             prior to screening and during the study and last until 6 months after the last&#xD;
+             injection.&#xD;
+&#xD;
+          -  Able and willing to participate in all activities in the clinical trial, including&#xD;
+             6-month follow-up after vaccination.&#xD;
+&#xD;
+          -  Sign the consent form. For a subject from 12 to 17 years old, it is necessary to have&#xD;
+             a legal guardian sign the consent form to participate in the study&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Insufficient civil act capacity.&#xD;
+&#xD;
+          -  Subjects at high risk of SARS-CoV-2 infection.&#xD;
+&#xD;
+          -  Subject is/has ever had any acute or chronic medical condition, including but not&#xD;
+             limited to:&#xD;
+&#xD;
+               -  Have any inflammatory disease, respiratory tract infection, have any respiratory&#xD;
+                  symptoms such as: cough, sore throat, difficulty breathing, wheezing due to&#xD;
+                  respiratory symptoms within 07 days before screening. Fever (armpit temperature ≥&#xD;
+                  37°C) for 3 days before vaccination.&#xD;
+&#xD;
+               -  History of any chronic respiratory illness such as bronchial asthma, chronic&#xD;
+                  bronchitis, cystic fibrosis, chronic obstructive pulmonary disease (COPD).&#xD;
+&#xD;
+               -  Malignant disease&#xD;
+&#xD;
+               -  Immune disorders, using immunosuppressive therapy.&#xD;
+&#xD;
+               -  Cardiovascular diseases (including high blood pressure requiring drug treatment),&#xD;
+                  liver disease, chronic kidney disease, endocrine diseases (including diabetes),&#xD;
+                  hemoglobin disease ...&#xD;
+&#xD;
+               -  Neurological, psychiatric, epilepsy, or Guillian-Barré disorders.&#xD;
+&#xD;
+               -  Pathology of hemostasis.&#xD;
+&#xD;
+               -  Having any surgery for 8 weeks before screening.&#xD;
+&#xD;
+               -  History of organ transplantation.&#xD;
+&#xD;
+          -  Examination and testing results at the time of screening:&#xD;
+&#xD;
+               -  Systolic pressure above 140 mmHg and/or diastolic pressure over 90mmHg;&#xD;
+&#xD;
+               -  Systolic blood pressure less than 90 mmHg and/or diastolic pressure below 50 mmHg&#xD;
+&#xD;
+               -  Real-Time nasopharyngeal fluid test - PCR (positive) and/or anti S - IgG&#xD;
+                  (positive) with SARS-CoV-2.&#xD;
+&#xD;
+               -  Women of potential pregnancy, a positive urine beta-hCG test at the time of&#xD;
+                  screening.&#xD;
+&#xD;
+               -  Positive with HIV, hepatitis B (HBsAg), hepatitis C (ANTI-HCV) tests&#xD;
+&#xD;
+               -  WBC less than 3.5 x 10^9 cells / L&#xD;
+&#xD;
+               -  Lymphocytes of less than 1.0 x 10^9 cells / L.&#xD;
+&#xD;
+               -  Neutrophils less than 2.0 x 10^9 cells / L&#xD;
+&#xD;
+               -  Platelets below 140 x 10^9 cells / l&#xD;
+&#xD;
+               -  Hb less than 120 g/L for men and less than 100 g/L for women&#xD;
+&#xD;
+               -  ALT or AST is over 2 times the normal limit&#xD;
+&#xD;
+               -  eGFR of 90 mL/min/ 1.73m2 or less.&#xD;
+&#xD;
+               -  Abnormal ECG of clinical significance.&#xD;
+&#xD;
+          -  The Subject who have taken any drugs or treatments simultaneously and before:&#xD;
+&#xD;
+               -  Any drug or treatment that affects the immune system such as injectable&#xD;
+                  anti-allergenic drugs, Globulin, Interferon, immunomodulators, cytotoxic drugs,&#xD;
+                  or any other drug toxic to the body, for 90 days before screening.&#xD;
+&#xD;
+               -  Systemic steroids (oral or injectable; including intra-articular injection)&#xD;
+                  regardless of dose except for topical form, for 28 days prior to screening.&#xD;
+&#xD;
+               -  Any vaccine within 28 days prior to screening or planned for in-study vaccination&#xD;
+                  or after 6 months after the first vaccination.&#xD;
+&#xD;
+               -  Receive or donate blood/serum during the 8 weeks prior to the screening, or plan&#xD;
+                  to receive or donate blood/serum during the study period.&#xD;
+&#xD;
+          -  The Subject that participated in any clinical trial 28 days prior to the screening&#xD;
+             date or intends to participate in another clinical study at any point in the study.&#xD;
+&#xD;
+          -  Women who are pregnant and breastfeeding or planning to become pregnant for the next 6&#xD;
+             months from the time of the study 2 vaccines.&#xD;
+&#xD;
+          -  The Subject has a history of allergy to any of the vaccine components understudying or&#xD;
+             has a history of at least one past history of allergic or hypersensitivity reactions.&#xD;
+&#xD;
+          -  The Subject addicted to alcohol (drinking from 5 cups of alcohol daily, glasses of&#xD;
+             alcohol/can of beer), tobacco/water pipe addicts (smoking from 5 or more cigarettes),&#xD;
+             drug addiction, opioid dependence&#xD;
+&#xD;
+          -  The Subject is a member of the research team, sponsor employee, producer (Nanogen),&#xD;
+             and a person related by family (wife, husband, child, father, mother) with those&#xD;
+             subjects.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>12 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Nhan Ho, PhD</last_name>
+    <phone>(+84) 28 7108 9688</phone>
+    <email>clinicaltrial@nanogenpharma.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Military Medical Academy</name>
+      <address>
+        <city>Hanoi</city>
+        <state>Ha Dong</state>
+        <country>Vietnam</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Men chu, MD</last_name>
+      <phone>+84 388 959 096</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Vietnam</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>December 18, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 20, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 24, 2020</study_first_posted>
+  <last_update_submitted>December 24, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 24, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 29, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

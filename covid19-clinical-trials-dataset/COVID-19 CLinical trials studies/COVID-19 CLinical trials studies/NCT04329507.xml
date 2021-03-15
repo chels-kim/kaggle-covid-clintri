@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="950">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04329507</url>
+  </required_header>
+  <id_info>
+    <org_study_id>282014</org_study_id>
+    <nct_id>NCT04329507</nct_id>
+  </id_info>
+  <brief_title>Non-invasive Detection of Pneumonia in Context of Covid-19 Using Gas Chromatography - Ion Mobility Spectrometry (GC-IMS)</brief_title>
+  <official_title>Non-invasive Detection of Pneumonia in Context of Covid-19 Using Gas Chromatography - Ion Mobility Spectrometry (GC-IMS)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>NHS Lothian</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>NHS Lothian</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      On Dec 31, 2019, a number of viral pneumonia cases were reported in China. The virus causing&#xD;
+      pneumonia was then identified as a new coronavirus called SARS-CoV-2. Since this time, the&#xD;
+      infection called coronavirus disease 2019 (COVID-19) has spread around the world, causing&#xD;
+      huge stress for health care systems. To diagnose this infection, throat and nose swabs are&#xD;
+      taken. Unfortunately, the results often take more than 24 hrs to return from a laboratory.&#xD;
+      Speeding diagnosis up would be of great help.&#xD;
+&#xD;
+      This study aims to look at the breath to find signs that might allow clinicians to diagnose&#xD;
+      the coronavirus infection at the bedside, without needing to send samples to the laboratory.&#xD;
+      To do this, the team will be using a machine called a BreathSpec which has been adapted to&#xD;
+      fit in the hospital for this purpose.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Analysis of volatile organic compounds (VOCs) in exhaled breath is of increasing interest in&#xD;
+      the diagnosis of lung infection. Over 2,000 VOCs can be detected through gas chromatography&#xD;
+      and mass spectrometry (GC-MS); patterns of VOC detected can offer information on chronic&#xD;
+      obstructive pulmonary disease, asthma, lung cancer and interstitial lung disease.&#xD;
+      Unfortunately, GC-MS while highly sensitive cannot be done at the bedside and at best takes&#xD;
+      hours to prepare samples, run the analysis and then interpret the results.&#xD;
+&#xD;
+      Compared with other methods of breath analysis, ion mobility spectrometry (IMS) offers a&#xD;
+      tenfold higher detection rate of VOCs. By coupling an ion mobility spectrometer with a GC&#xD;
+      column, GC-IMS offers immediate twofold separation of VOCs with visualisation in a&#xD;
+      three-dimensional chromatogram. The total analysis time is about 300 seconds and the&#xD;
+      equipment has been miniaturised to allow bedside analysis.&#xD;
+&#xD;
+      The BreathSpec machine has been previously used to study both radiation injury in patients&#xD;
+      undergoing radiotherapy at the Edinburgh Cancer Centre (REC ref 16-SS-0059, as part of the&#xD;
+      H2020 TOXI-triage project, http://www.toxi-triage.eu/) and pneumonia in patients presenting&#xD;
+      to the ED of the Royal Infirmary of Edinburgh (REC ref 18-LO-1029). This work has developed&#xD;
+      artificial intelligence methodology that allows rapid analysis of the vast amount of data&#xD;
+      collected from these breath samples to identify signatures that may indicate a particular&#xD;
+      pathological process such as pneumonia or radiation injury.&#xD;
+&#xD;
+      The TOXI-triage project showed that the BreathSpec GC-IMS could rapidly triage individuals to&#xD;
+      identify those who had been exposed to particular volatile liquids in a mass casualty&#xD;
+      situation (http://www.toxi-triage.eu/).&#xD;
+&#xD;
+      A pilot trial assessed chest infections at the Acute Medical Unit of the Royal Liverpool&#xD;
+      University Hospital. The final diagnostic model permitted fair discrimination between&#xD;
+      bacterial chest infections and chest infections due to other agents with an area under the&#xD;
+      receiver operator characteristic curve (AUC-ROC) of 0.73 (95% CI 0.61-0.86). The summary test&#xD;
+      characteristics were a sensitivity of 62% (95% CI 41-80%) and specificity of 80% (95% CI 64 -&#xD;
+      91%) [8].&#xD;
+&#xD;
+      This was expanded in the EU H2020 funded &quot;Breathspec Study&quot; which aimed to differentiate&#xD;
+      breath samples from patients with bacterial or viral upper or lower respiratory tract&#xD;
+      infection. Over 1220 patients were recruited, with 191 patients identified as definitely&#xD;
+      bacterial infection and 671 classed as definitely not bacterial. Virology was undertaken on&#xD;
+      all patients, with 259 patients confirmed viral infection. Date processing is still on going&#xD;
+      to determine how well they can be distinguished using this methodology. More than 100&#xD;
+      patients were recruited to this study in Edinburgh. Since then, artificial intelligence has&#xD;
+      been incorporated into our analytical processes, permitting faster and more refined analysis.&#xD;
+&#xD;
+      Our ambition is that this technology will identify a signature of Covid-19 pneumonia or&#xD;
+      within 10 min in non-invasively collected breath samples to allow triage of patients into&#xD;
+      high and low risk categories for Covid-19. This will allow targeting of scarce resources and&#xD;
+      complex protocols associated with high risk patients including personal protective equipment&#xD;
+      (PPE), cohorting, and dedicated medical and nursing personel.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 25, 2020</start_date>
+  <completion_date type="Anticipated">March 25, 2021</completion_date>
+  <primary_completion_date type="Anticipated">March 25, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To perform a study in patients with clinical features of pneumonia/chest infection to identify a signature of Covid-19 pneumonia in patients exposed to SARS-CoV-2, compared to unexposed patients or those without.</measure>
+    <time_frame>up to daily during hospital admission</time_frame>
+    <description>breath sample collection</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Detection of markers of Covid-19 pneumonia in non-invasive breath samples.</measure>
+    <time_frame>multiple samples up to 60 days</time_frame>
+    <description>breath sample collection</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Relationship of this biomarker signature to the presence of SARS-CoV-2 in nasal and throat swabs.</measure>
+    <time_frame>multiple samples up to 60 days</time_frame>
+    <description>breath sample collection</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Subsequently, the signature's relationship to other biomarkers of SARS-CoV-2 infection which are currently being explored</measure>
+    <time_frame>multiple samples up to 60 days</time_frame>
+    <description>breath sample collection</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>In a smaller group of participants, ideally daily non-invasive breath samples will be collected to determine if there are changes between SARS-CoV-2 positive patients and those that are negative until hospital discharge or undue participant burden .</measure>
+    <time_frame>multiple samples up to 60 days</time_frame>
+    <description>breath sample collection</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>COVID-19</condition>
+  <condition>Respiratory Disease</condition>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Breath test</intervention_name>
+    <description>collection of an exhaled breath sample</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients presenting to hospital with respiratory signs and tested for SARS-CoV-2&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  ≥18 years old with clinical features consistent with pneumonia or chest infection due&#xD;
+             to SARS-CoV-2 AND&#xD;
+&#xD;
+               -  presenting to the Royal Infirmary of Edinburgh where they are swabbed and triaged&#xD;
+                  for Covid-19.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Inability to provide informed consent&#xD;
+&#xD;
+          -  Age 17 years or less&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <overall_contact>
+    <last_name>Michael Eddleston</last_name>
+    <phone>0131 242 3867</phone>
+    <email>m.eddleston@ed.ac.uk</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>NHS Lothian</name>
+      <address>
+        <city>Edinburgh</city>
+        <zip>EH16 4SA</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rachel O'Brien, BA BN</last_name>
+      <phone>01312423867</phone>
+      <email>rachel.obrien@nhslothian.scot.nhs.uk</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>March 2020</verification_date>
+  <study_first_submitted>March 26, 2020</study_first_submitted>
+  <study_first_submitted_qc>March 30, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 1, 2020</study_first_posted>
+  <last_update_submitted>September 10, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 10, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 14, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia</mesh_term>
+    <mesh_term>Respiration Disorders</mesh_term>
+    <mesh_term>Respiratory Tract Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>no plan made as yet - this research needs to be expedited during the pandemic</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

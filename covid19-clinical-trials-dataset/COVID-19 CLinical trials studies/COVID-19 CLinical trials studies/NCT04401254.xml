@@ -1,0 +1,821 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="871">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04401254</url>
+  </required_header>
+  <id_info>
+    <org_study_id>COVID-Recovery V1.0 01May2020</org_study_id>
+    <nct_id>NCT04401254</nct_id>
+  </id_info>
+  <brief_title>Recovery of Patients From COVID-19 After Critical Illness</brief_title>
+  <acronym>COVID-Recovery</acronym>
+  <official_title>The COVID-Recovery Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Australian and New Zealand Intensive Care Research Centre</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>The Alfred</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Australian and New Zealand Intensive Care Research Centre</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Patients who are critically ill with COVID-19 requiring life support in an intensive care&#xD;
+      unit (ICU) have increased risk of morbidity and mortality. Currently the ICU community does&#xD;
+      not know what effect the disease, the ICU admission, physiotherapy interventions and life&#xD;
+      support have on their long-term quality of life and whether they can return to their&#xD;
+      pre-illness level of function following ICU.&#xD;
+&#xD;
+      COVID-Recovery will describe the physiotherapy interventions delivered to critically ill&#xD;
+      patients with COVID-19. In survivors, COVID-Recovery will utilise telephone follow-up of ICU&#xD;
+      survivors to assess disability-free survival and quality of life at 6 months after ICU&#xD;
+      admission. Additionally, COVID-Recovery will identify if there are predictors of&#xD;
+      disability-free survival. COVID-Recovery will aim to select up to 300 patients diagnosed with&#xD;
+      COVID-19 from ICUs in Australia. If they survive to hospital discharge, patients will be&#xD;
+      invited to receive a telephone questionnaire at 6 months after the ICU admission that aims to&#xD;
+      assess their long-term outcomes, including physical, cognitive and emotional function,&#xD;
+      quality of life, and whether they have been able to return to work following ICU discharge.&#xD;
+&#xD;
+      COVID-Recovery will also aim to investigate the human aspect of COVID-19 by further&#xD;
+      investigating a sub-set of patients. COVID-Recovery will recruit between 15-30 of these&#xD;
+      patients and a family member, so COVID-Recovery can explore the patient experience of being&#xD;
+      admitted to the ICU and treated for COVID-19, as well as illuminate and explore the&#xD;
+      experience of having a close relative admitted and treated for COVID-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 1, 2020</start_date>
+  <completion_date type="Anticipated">April 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Disability-free survival</measure>
+    <time_frame>6 months</time_frame>
+    <description>a composite measure of WHODAS 2.0 - 12 level and hospital survival</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Physiotherapy intervention</measure>
+    <time_frame>During the ICU stay until 3 months</time_frame>
+    <description>The physiotherapy interventions provided to patients with COVID-19 admitted to the ICU and health outcomes</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Health status</measure>
+    <time_frame>6 months</time_frame>
+    <description>Health related quality of life measured with EQ5D-5L score from 0 to 100</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Global function</measure>
+    <time_frame>6 months</time_frame>
+    <description>World Health Organization Disability Assessment Schedule 2.0 12L</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cognitive function</measure>
+    <time_frame>6 months</time_frame>
+    <description>Montreal Cognitive Assessment Blind</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anxiety and depression</measure>
+    <time_frame>6 months</time_frame>
+    <description>Hospital Anxiety and Depression Scale</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Screening for post-traumatic distress</measure>
+    <time_frame>6 months</time_frame>
+    <description>Impact of Events Scale Revised</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Work Status</measure>
+    <time_frame>6 months</time_frame>
+    <description>WHODAS 2.0</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients with COVID-19 who received physiotherapy in ICU</measure>
+    <time_frame>During the ICU stay until 28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The reported barriers to delivering physiotherapy interventions</measure>
+    <time_frame>During the ICU stay until 28 days</time_frame>
+    <description>Physiotherapist reported barriers to delivering the intervention</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse events during physiotherapy interventions</measure>
+    <time_frame>During the ICU stay until 28 days</time_frame>
+    <description>Adverse events that require the intervention to be ceased for medical intervention</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phenomenological data of the patient and family experience</measure>
+    <time_frame>6 months</time_frame>
+    <description>Qualitative interviews</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">300</enrollment>
+  <condition>COVID-19</condition>
+  <condition>Critical Illness</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Critically ill patients with COVID-19 admitted to an intensive care unit&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. COVID-19 patients who have been admitted to ICU for &gt; 24 hours&#xD;
+&#xD;
+          2. Patients aged over17 years&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Previous enrolment in this study in a prior ICU admission&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Carol Hodgson, PhD</last_name>
+    <phone>+61448674532</phone>
+    <email>carol.hodgson@monash.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Natalie Linke, RN</last_name>
+    <email>natalie.link@monash.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Canberra Hospital</name>
+      <address>
+        <city>Garran</city>
+        <state>Australian Capital Territory</state>
+        <zip>2605</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <email>Sumeet.Rai@act.gov.au</email>
+    </contact>
+    <investigator>
+      <last_name>Summet Rai, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Prince Alfred Hospital</name>
+      <address>
+        <city>Camperdown</city>
+        <state>New South Wales</state>
+        <zip>2050</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <email>heidi.buhr@health.nsw.gov.au</email>
+    </contact>
+    <investigator>
+      <last_name>Richard Totaro</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Concord Hospital</name>
+      <address>
+        <city>Concord</city>
+        <state>New South Wales</state>
+        <zip>2139</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <email>yasmin.silva@healh.nsw.gov.au</email>
+    </contact>
+    <investigator>
+      <last_name>Yasmin Silva</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>St Vincent's Hospital Sydney</name>
+      <address>
+        <city>Darlinghurst</city>
+        <state>New South Wales</state>
+        <zip>2010</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <email>claire.reynolds@svha.org.au</email>
+    </contact>
+    <investigator>
+      <last_name>George Ntoumenopoulos</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Nepean Hospital</name>
+      <address>
+        <city>Kingswood</city>
+        <state>New South Wales</state>
+        <zip>2747</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <email>christina.whitehead@health.nsw.gov.au</email>
+    </contact>
+    <investigator>
+      <last_name>Stuart Lane</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>St George Hospital</name>
+      <address>
+        <city>Kogarah</city>
+        <state>New South Wales</state>
+        <zip>2217</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <email>adeline.kintono@health.nsw.gov.au</email>
+    </contact>
+    <investigator>
+      <last_name>Wendy Chaseling</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>John Hunter Hospital</name>
+      <address>
+        <city>New Lambton Heights</city>
+        <state>New South Wales</state>
+        <zip>2305</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Dustin Bush</last_name>
+      <email>dustin.bush@health.nsw.gov.ay</email>
+    </contact>
+    <investigator>
+      <last_name>Lauren Thomas</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Prince of Wales Hospital</name>
+      <address>
+        <city>Randwick</city>
+        <state>New South Wales</state>
+        <zip>2031</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <email>peter.trewin@health.nsw.gov.au</email>
+    </contact>
+    <investigator>
+      <last_name>Peter Trewin</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Royal North Shore Hospital</name>
+      <address>
+        <city>Saint Leonards</city>
+        <state>New South Wales</state>
+        <zip>2065</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <email>elizabeth.yarad@health.nsw.gov.au</email>
+    </contact>
+    <investigator>
+      <last_name>Amanda Sukkar</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Westmead Hospital</name>
+      <address>
+        <city>Westmead</city>
+        <state>New South Wales</state>
+        <zip>2145</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <email>Rachel.ross@health.nsw.gov.au</email>
+    </contact>
+    <investigator>
+      <last_name>Cadi Fanning</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The Prince Charles Hospital</name>
+      <address>
+        <city>Chermside</city>
+        <state>Queensland</state>
+        <zip>4032</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <email>oystein.tronstad@health.qld.gov.au</email>
+    </contact>
+    <investigator>
+      <last_name>Oystein Tronstad</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Brisbane and Women's Hospital</name>
+      <address>
+        <city>Herston</city>
+        <state>Queensland</state>
+        <zip>4029</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <email>peterj.thomas@health.qld.gov.au</email>
+    </contact>
+    <investigator>
+      <last_name>Peter Thomas</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Ipswich Hospital</name>
+      <address>
+        <city>Ipswich</city>
+        <state>Queensland</state>
+        <zip>4305</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <email>thomas.mcinnes@health.qld.gov.au</email>
+    </contact>
+    <investigator>
+      <last_name>Thomas McInnes</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Redcliffe Hospital</name>
+      <address>
+        <city>Redcliffe</city>
+        <state>Queensland</state>
+        <zip>4020</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <email>maree.duroux@health.qld.gov.au</email>
+    </contact>
+    <investigator>
+      <last_name>Morag Shealy</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Gold Coast Hospital</name>
+      <address>
+        <city>Southport</city>
+        <state>Queensland</state>
+        <zip>4215</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <email>lauren.Oconnor@health.qld.gov.au</email>
+    </contact>
+    <investigator>
+      <last_name>Lauren O'Connor</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Princess Alexandra Hospital</name>
+      <address>
+        <city>Woolloongabba</city>
+        <state>Queensland</state>
+        <zip>4102</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <email>jason.meyer@health.qld.gov.au</email>
+    </contact>
+    <investigator>
+      <last_name>Marc Nickels</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Adelaide Hospital</name>
+      <address>
+        <city>Adelaide</city>
+        <state>South Australia</state>
+        <zip>5000</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stephanie O'Connor</last_name>
+      <email>stephanie.o'connor@sa.gov.au</email>
+    </contact>
+    <investigator>
+      <last_name>Marianne Chapman</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Launceston Hospital</name>
+      <address>
+        <city>Launceston</city>
+        <state>Tasmania</state>
+        <zip>7250</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <email>sarah.mineall@ths.tas.gov.au</email>
+    </contact>
+    <investigator>
+      <last_name>Ianthe Boden</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Casey Hospital</name>
+      <address>
+        <city>Berwick</city>
+        <state>Victoria</state>
+        <zip>3806</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <email>michelle.paton@monashhealth.org</email>
+    </contact>
+    <investigator>
+      <last_name>Michelle Paton</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Box Hill Hospital (Eastern Health)</name>
+      <address>
+        <city>Box Hill</city>
+        <state>Victoria</state>
+        <zip>3128</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <email>kirsty.hearn@easternhealth.org.au</email>
+    </contact>
+    <investigator>
+      <last_name>Kirsty Hearn</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Monash Medical Centre</name>
+      <address>
+        <city>Clayton</city>
+        <state>Victoria</state>
+        <zip>3168</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michelle Paton, MPhysio</last_name>
+      <phone>+61 3 9594 2250</phone>
+      <email>michelle.paton@monashhealth.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Dandenong Hospital</name>
+      <address>
+        <city>Dandenong</city>
+        <state>Victoria</state>
+        <zip>3175</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michelle Paton, MPhysio</last_name>
+      <phone>+61 3 9594 2250</phone>
+      <email>michelle.paton@moanshhealth.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Northern Health</name>
+      <address>
+        <city>Epping</city>
+        <state>Victoria</state>
+        <zip>3076</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <email>simone.said@nh.org.au</email>
+    </contact>
+    <investigator>
+      <last_name>Florian Zimmerman</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>St Vincent's Hospital Melbourne</name>
+      <address>
+        <city>Fitzroy</city>
+        <state>Victoria</state>
+        <zip>3065</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <email>gemma.pound@svha.org.au</email>
+    </contact>
+    <investigator>
+      <last_name>Gemma Pound</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Footscray Hospital</name>
+      <address>
+        <city>Footscray</city>
+        <state>Victoria</state>
+        <zip>3011</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <email>jenna.lang@wh.org.au</email>
+    </contact>
+    <investigator>
+      <last_name>Kimberley Haines</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Frankston Hospital</name>
+      <address>
+        <city>Frankston</city>
+        <state>Victoria</state>
+        <zip>3199</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <email>mwang@phcn.vic.gov.au</email>
+    </contact>
+    <investigator>
+      <last_name>Michael Wang</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Austin Hospital</name>
+      <address>
+        <city>Heidelberg</city>
+        <state>Victoria</state>
+        <zip>3084</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Rinaldo Bellomo</last_name>
+      <phone>+61 3 9496 5992</phone>
+      <email>Rinaldo.bellomo@austin.org.au</email>
+    </contact>
+    <investigator>
+      <last_name>Rinaldo Bellomo</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Cabrini Health</name>
+      <address>
+        <city>Malvern</city>
+        <state>Victoria</state>
+        <zip>3144</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Enrolling by invitation</status>
+  </location>
+  <location>
+    <facility>
+      <name>Australian New Zealand Intensive Care Research Centre</name>
+      <address>
+        <city>Melbourne</city>
+        <state>Victoria</state>
+        <zip>3004</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Carol Hodgson, Bsc(phys), PhD</last_name>
+      <phone>(03) 9903 0598</phone>
+      <email>carol.hodgson@monash.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Natalie Linke, BN</last_name>
+      <phone>(03) 99030995</phone>
+      <email>natalie.linke@monash.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Carol Hodgson, Bsc(phys), PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Michelle Patton, BExSci, MPhty</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Melbourne Hospital</name>
+      <address>
+        <city>Parkville</city>
+        <state>Victoria</state>
+        <zip>3050</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <email>lisa.beach@mh.org.au</email>
+    </contact>
+    <investigator>
+      <last_name>Lisa Beach</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Alfred Hospital</name>
+      <address>
+        <city>Prahran</city>
+        <state>Victoria</state>
+        <zip>3004</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jasmin Board</last_name>
+      <phone>+61 3 90768343</phone>
+      <email>J.Board2@alfred.org.au</email>
+    </contact>
+    <investigator>
+      <last_name>Scott Bradley, Dr</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Epworth Richmond</name>
+      <address>
+        <city>Richmond</city>
+        <state>Victoria</state>
+        <zip>3121</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sunshine Hospital</name>
+      <address>
+        <city>St Albans</city>
+        <state>Victoria</state>
+        <zip>3021</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <email>jenna.lang@wh.org.au</email>
+    </contact>
+    <investigator>
+      <last_name>Kimberley Haines</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+  </location_countries>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>May 7, 2020</study_first_submitted>
+  <study_first_submitted_qc>May 22, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 26, 2020</study_first_posted>
+  <last_update_submitted>October 21, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 21, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 23, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>recovery</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Critical Illness</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>IPD will be shared if approved by the steering committee and with ethical approvals.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>12 months after completion of the study for 12 months</ipd_time_frame>
+    <ipd_access_criteria>Email the Chief Investigator</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

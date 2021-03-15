@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4488">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04413877</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GerULiege/SG/DSR/ICOPE</org_study_id>
+    <nct_id>NCT04413877</nct_id>
+  </id_info>
+  <brief_title>Implementation of the Integrated Care of Older People App and ICOPE Monitor in Primary Care (ICOPE)</brief_title>
+  <acronym>ICOPE</acronym>
+  <official_title>Implementation of the Integrated Care of Older People App and ICOPE Monitor in Primary Care (ICOPE)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Liege</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University Hospital, Toulouse</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Liege</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Introduction: The World Health Organization has launched the INSPIRE-ICOPE-CARE program&#xD;
+      towards healthy aging. It includes &quot;intrinsic capacity&quot;, defined as &quot;the composite of all the&#xD;
+      physical and mental capacities of an individual&quot;, which has a positive value towards&#xD;
+      prevention, and is constructed by five domains: cognition, vitality/nutrition, sensory,&#xD;
+      psychology, and mobility. ICOPE App and ICOPE Monitor are applications for the&#xD;
+      self-assessment and monitoring of intrinsic capacity.&#xD;
+&#xD;
+      Hypothesis: Intrinsic capacity self-assessed by the ICOPE Apps could be associated with the&#xD;
+      incidence of frailty and health outcomes. ICOPE Apps might support geriatric and primary care&#xD;
+      during the COVID-19 pandemic and beyond.&#xD;
+&#xD;
+      Objectives: To assess the association between intrinsic capacity measured by the ICOPE Apps&#xD;
+      at baseline and the incidence of frailty in community-dwelling older adults during 1-year&#xD;
+      follow-up. Secondarily, to assess the association of intrinsic capacity and pre-frailty,&#xD;
+      falls, functional decline, institutionalization, and mortality (COVID-19-related/not&#xD;
+      related).&#xD;
+&#xD;
+      Methods: Protocol for a cohort study of community-dwelling adults ≥65-year-old, with no other&#xD;
+      exclusion criteria than the inability to use the Apps or communicate by telephone/video-call&#xD;
+      for any reason (cognitive or limited access to telephone/video-call). Intrinsic capacity&#xD;
+      measured by the ICOPE Apps and Rockwood's clinical frailty scale will be assessed at&#xD;
+      baseline, 4-, 8- and 12-month follow-up by telephone/video-call. Assuming a prevalence of&#xD;
+      frailty of 10.7%, and incidence of 13% (alpha-risk=0.05), 400 participants at 12-month&#xD;
+      end-point (relative precision=0.10) and 600 participants at baseline will be required.&#xD;
+&#xD;
+      Associations among the decrease in intrinsic capacity, incidence of frailty, and occurrence&#xD;
+      of health adverse outcomes during 1-year follow-up are expected. ICOPE Apps might identify&#xD;
+      individuals at higher risk of frailty and health adverse consequences. The implementation of&#xD;
+      the ICOPE Apps into clinical practice might help to bring the practitioners closer to their&#xD;
+      patients, deliver efficient person-centered care-plans, and benefit the healthcare systems&#xD;
+      during the COVID-19 pandemic and beyond.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      INTRODUCTION The World Health Organization aims at promoting initiatives focused on the&#xD;
+      preservation of individuals' physical and mental capacities to achieve older ages in a good&#xD;
+      health status (Healthy Aging). The INSPIRE Integrated Care for Older People (ICOPE)-CARE is&#xD;
+      an European program for healthy aging and geroscience research developed by the WHO and&#xD;
+      coordinated by Gérontopôle of Toulouse (France) in the Occitania Region since 2019. The&#xD;
+      INSPIRE ICOPE-CARE program will provide evidence about trajectories of life (Normograms for&#xD;
+      Healthy Ageing Standards), going from animal models to humans and the healthcare systems. As&#xD;
+      a second step, the French government is aligned with the strategy of WHO 2020-2030 for the&#xD;
+      continuity of this line of research (https://www.who.int/ageing/en/) and the French&#xD;
+      Presidential Plan Grand Age has scheduled the implementation of the program INSPIRE&#xD;
+      ICOPE-CARE in France. This is aligned with other European national healthcare plans, where&#xD;
+      the implementation of new technologies is considered as an efficient resource to improve&#xD;
+      patients' health.&#xD;
+&#xD;
+      INSPIRE ICOPE-CARE includes the assessment of &quot;intrinsic capacity&quot;, a new term launched in&#xD;
+      the WHO in the plan of action 2016-2020. The operational definition of &quot;intrinsic capacity&quot;&#xD;
+      is &quot;the composite of all the physical and mental capacities of an individual&quot; and is&#xD;
+      constructed by 5 domains: locomotion, vitality, sensory (vision and hearing), cognition, and&#xD;
+      psychological domain. Intrinsic capacity has a positive values focusing on disease&#xD;
+      prevention, and influencing the viewpoint from a negative paradigm of ageing (diseases,&#xD;
+      disability, frailty, etc.) towards the positive focus of a &quot;healthy aging&quot;.&#xD;
+&#xD;
+      The INSPIRE ICOPE-CARE program involves the self-assessment of intrinsic capacity by new&#xD;
+      technologies. Indeed, the ICOPE application (App) is self-administered for the screening of&#xD;
+      intrinsic capacity, and, the ICOPE Monitor is aimed on the diagnosis and 4-month monitoring&#xD;
+      of intrinsic capacity. The two Apps, already in use as part of the INSPIRE ICOPE-CARE&#xD;
+      program, are available free-of-charge in Apple or Android Store. Frailty, defined as a&#xD;
+      &quot;syndrome characterized by a clinical state in which there is an increase in an individual's&#xD;
+      vulnerability for developing an increased dependency and/or mortality when exposed to a&#xD;
+      stressor&quot;, is also a construct of several domains. However, there are wide differences among&#xD;
+      frailty and intrinsic capacity, i.e. frailty is driven by deficits, while intrinsic capacity&#xD;
+      is driven by reserves; frailty is an approach towards treatment usually measured in clinical&#xD;
+      settings, while intrinsic capacity is a preventive approach focused on the community setting;&#xD;
+      frailty has wide evidence about its prognosis capacity, while intrinsic capacity is quite&#xD;
+      new; and finally, frailty assessment requires the administration of comprehensive geriatric&#xD;
+      assessment by a healthcare professional, while intrinsic capacity could be self-assessed. It&#xD;
+      would be expected that intrinsic capacity, measured by the Apps is associated to frailty, but&#xD;
+      this association remains unexplored.&#xD;
+&#xD;
+      The onset of the COVID-19 pandemic due to a novel coronavirus (SARS-CoV-2) in December 2019&#xD;
+      has drastically change the world and clinical practice. Older patients are one of the&#xD;
+      populations most affected by COVID-19, with a mortality rate of 8% in patients&#xD;
+      70-79-year-old, 14.8% in those aged ≥80 years, and higher mortality in frail older&#xD;
+      individuals, as frailty increases probability of all-cause mortality and death by infectious&#xD;
+      diseases. The limited availability of primary care resources and the cancellation/delay of&#xD;
+      visits in outpatients' clinics is hindering the control of chronic diseases, and increases&#xD;
+      the risk of acute decompensation of chronic diseases in the short and medium term. These&#xD;
+      patients would lose their health status and become frail, entering in the so called new&#xD;
+      &quot;COVID Spiraling Frailty Syndrome&quot;. Despite healthy general population is finishing&#xD;
+      quarantine since May 2020, it is still unclear the duration of the isolation measures in&#xD;
+      safety conditions in older population, particularly in presence of frailty. It seems timely&#xD;
+      to unleash the potential of academic discoveries to help older people to maintain a good&#xD;
+      health status and survive.&#xD;
+&#xD;
+      The investigators hypothesize that intrinsic capacity, self-assessed by the ICOPE App and&#xD;
+      Monitor at baseline, could identify individuals at higher risk of developing frailty and&#xD;
+      health adverse outcomes during 1-year follow-up. If these hypotheses are confirmed, ICOPE&#xD;
+      Apps could be incorporated into clinical practice during the pandemic of COVID-19 and beyond.&#xD;
+&#xD;
+      OBJECTIVES The primary objective is to assess the relationship between intrinsic capacity&#xD;
+      assessed with the ICOPE Apps (ICOPE App and ICOPE Monitor) at baseline and the incidence of&#xD;
+      frailty in community-dwelling older adults during 1-year follow up. Secondarily, the&#xD;
+      association between intrinsic capacity measured by the ICOPE Apps at baseline and the risk of&#xD;
+      1-year mortality (COVID-19-related or not), pre-frailty, falls, functional decline,&#xD;
+      institutionalization, and loss of quality of life in this population during 1-year follow-up&#xD;
+      will be assessed.&#xD;
+&#xD;
+      METHODS Design Protocol for a prospective cohort study, designed to determine the incidence&#xD;
+      of frailty in community-dwelling older people during 1-year follow-up, starting the&#xD;
+      recruitment at a certain point of the COVID-19 pandemic and beyond. The Strengthening the&#xD;
+      Reporting of Observational Studies in Epidemiology (STROBE) statement will be followed.&#xD;
+      Subjects who volunteer and meet eligibility criteria will be consecutively included.&#xD;
+&#xD;
+      Settings Volunteers will be recruited from 1) the Geriatric Department, 2) Outpatient clinics&#xD;
+      of primary care, and 3) Local press, television, and radio advertisements. In the first two&#xD;
+      options, the clinicians in the Geriatrics or primary care department that collaborate with&#xD;
+      the study, would identify a potential candidate and send an electronic mail with contact&#xD;
+      details to the personal from the study. In the third option, volunteers will receive&#xD;
+      instructions to proactively contact by telephone or electronic mail (e-mail) with the&#xD;
+      personal from the study. After receiving the e-mails, a telephone or video-call between the&#xD;
+      volunteer and the personal from the study will be scheduled in a maximum of 1 week. During&#xD;
+      the first interview, subjects will be assessed for eligibility, receive detailed information&#xD;
+      about the study, and sign the informed consent. Technical assistance in downloading the two&#xD;
+      Apps, signing the informed consent, the baseline assessment, and schedule next follow-up will&#xD;
+      be given during the first interview. The 4-, 8-, and 12-month follow-up will be conducted in&#xD;
+      a similar way. The Geriatric and primary care Department count with the technical devices and&#xD;
+      facilities to conduct the proposed test, and the Apps are free-of-charge (Apple /Android&#xD;
+      Store https://www.youtube.com/watch?v=gLva4ReV9KA). Data will be analysed at the Research&#xD;
+      Unit in Biostatistics, Public Health Department, University of Liege, Belgium. Table 1&#xD;
+      summarizes study settings, variables, and timeline of the study.&#xD;
+&#xD;
+      Population Prospective cohort study of community-dwelling adults ≥65-year-old living at home,&#xD;
+      with no other exclusion criteria than the inability to use the ICOPE Apps or communicate by&#xD;
+      telephone/video-call for any reason (cognitive or limited access to technologies like&#xD;
+      telephone/video-call).&#xD;
+&#xD;
+      Intrinsic capacity assessment Will be administered by the two Apps, screening by the ICOPE&#xD;
+      App and diagnosis and monitoring by ICOPE Monitor.&#xD;
+&#xD;
+      Screening by the ICOPE App: The screening includes polar questions (yes/no) about the 5&#xD;
+      domains of intrinsic capacity. Two results are possible: positive (probable decrease in&#xD;
+      intrinsic capacity) or negative (intrinsic capacity not decreased). The App includes&#xD;
+      possibility to record the summary of the screening, download it in pdf, or send it by mail.&#xD;
+&#xD;
+      Diagnosis and monitoring by the ICOPE Monitor: ICOPE Monitor includes identification and&#xD;
+      informed consent of both the professional and the participant, detailed intrinsic capacity&#xD;
+      assessment of the 5 domains. The results obtained in the 5 domains are provided as a&#xD;
+      checklist (&quot;right&quot; or &quot;wrong&quot; in each domain). Updated advice for each domain and a link for&#xD;
+      further information is also provided. The App automatically schedules the date for the next&#xD;
+      4-month follow-up and sends the informed consent by mail to the volunteer.&#xD;
+&#xD;
+      Outcome measures Primary outcome measure: Incidence of frailty assessed by Rockwood's&#xD;
+      clinical frailty scale (CFS) will be assessed at 12-month follow-up by telephone/video-call.&#xD;
+      An score &lt;4 will indicate robustness, 4-6 pre-frailty status, and ≥ 6 frailty. Secondary&#xD;
+      outcome measures: Death (cause, COVID-19-related or not, and date), incidence of pre-frailty,&#xD;
+      falls (number and date), functional decline (≥20 points in Barthel index),&#xD;
+      institutionalization (date), and quality of life (EuroQol) at 12-month follow-up by a&#xD;
+      telephone/video-call with the volunteer or a contact person.&#xD;
+&#xD;
+      Mortality Cause (COVID-19-related or not) and date of death will be recorded, reported by the&#xD;
+      contact person if the participant did not respond to the scheduled follow-up. Gagne&#xD;
+      comorbidity score and Walter index will be recorded at baseline and 12-month follow-up by&#xD;
+      telephone/video call. Recent serum albumin levels required to fulfill the Walter index will&#xD;
+      be provided by the geriatric and primary care physicians.&#xD;
+&#xD;
+      Falls Number and date) will be recorded by the volunteers on a personal dairy book.&#xD;
+&#xD;
+      Functional decline It will be defined by a decrease in ≥20 points of Barthel index. Barthel&#xD;
+      index will be administered by telephone/video call at baseline and12-month follow-up.&#xD;
+&#xD;
+      Quality of life It will be measured by self-reported EuroQol (ranging from 0 -the worst&#xD;
+      possible health status- to 1 -the best possible health status-) by telephone/video-call at&#xD;
+      baseline and 12-month follow-up.&#xD;
+&#xD;
+      Covariate data collection Demographic and clinical data will be collected during the&#xD;
+      telephone/video calls and used as covariates. Instrumental activities of daily living (IADL)&#xD;
+      (maximum score 8 points). The ratio of the total score obtained / total score of the&#xD;
+      applicable items will be used to avoid any discrimination based on usual housework&#xD;
+      distribution among couple. E.g. if one of the members of a couple does not usually perform an&#xD;
+      activity, that item will not account for that individual, then, the total score of the&#xD;
+      applicable items will be 7 instead of 8.&#xD;
+&#xD;
+      Feasibility of the ICOPE App and ICOPE Monitor Feasibility will be defined as &quot;the state or&#xD;
+      degree of being easily or conveniently done&quot; and explored by the Technological, Economical,&#xD;
+      Legal, Operational, Schedule (TELOS)-feasibility score, which assesses the potential of&#xD;
+      implementation of new systems, and considers them feasible if TELOS-feasibility score ≥3). It&#xD;
+      will be administered to the geriatric and primary care practitioners who collaborate with the&#xD;
+      study.&#xD;
+&#xD;
+      Sample size calculation Sample size has been calculated in terms of the ICOPE study primary&#xD;
+      objective: to identify incidence of frailty in community-dwelling older patients. Table 2&#xD;
+      shows the sample size calculation determined by a power calculation based on the width of the&#xD;
+      confidence interval for a proportion and on the estimation of an incidence rate. Assuming a&#xD;
+      prevalence of frailty of 10.7%, an incidence of 13% with an alpha risk of 0.05, the&#xD;
+      investigators estimated that 400 participants at the 12-month end-point of the study would be&#xD;
+      necessary to meet a degree of certainness regarding the incidence (relative precision of&#xD;
+      0.10) meaning a sample of 600 volunteers at baseline should be cover a potential large&#xD;
+      dropout regarding the characteristics of this study (observational, 1-year follow-up,&#xD;
+      potential frail people, unknown adherence rate to the follow-up).&#xD;
+&#xD;
+      Statistical plan Descriptive analysis will be performed for each variable of the study.&#xD;
+      Qualitative variables will be described by absolute numbers and relative frequencies (%).&#xD;
+      Quantitative variables will be summarized by the use of means and standard deviation (SD) for&#xD;
+      symmetrical distribution or median and the interquartile deviation for asymmetrical&#xD;
+      distributions. Normality of variables will be checked graphically with histograms and&#xD;
+      quantile-quantile plots, and tested by the Shapiro-Wilk test. A logarithmic transformation of&#xD;
+      the data might be performed, if needed. The association between intrinsic capacity and the&#xD;
+      outcomes measured during 1 year (frailty, autonomy decline, falls, hospitalization,&#xD;
+      institutionalization, and death) will be studied by a binary logistic regression for binary&#xD;
+      outcomes, by a multinomial logistic regression for the qualitative outcomes and by multiple&#xD;
+      regression for quantitative outcomes. For logistic regressions, Odds ratio and 95% confidence&#xD;
+      interval (CI) will be obtained.&#xD;
+&#xD;
+      The evolution of intrinsic capacity during the 1-year follow-up will be analyzed by&#xD;
+      Generalized Linear Mixte Model (GLMM). These models will be also used to study the&#xD;
+      association between intrinsic capacity and vital prognosis. Kaplan-Meier methods and Cox&#xD;
+      proportional hazard model will be use to include the notion of time occurrence of frailty.&#xD;
+      Finally, the association between survival and intrinsic capacity will be analyzed by a joint&#xD;
+      model; the same analysis might be performed for other variables of interest, if required.&#xD;
+      Multiple imputations methods would be applied to deal with missing data. The data will be&#xD;
+      processed using SAS 9.4 (©SAS Institute Inc., Cary, NC, USA) and R (version 3.5) (R Core&#xD;
+      Team) software packages. The level of statistical significance will be set as α = 5% (p &lt;&#xD;
+      0.05).&#xD;
+&#xD;
+      Ethics National and International research Ethics guidelines will be followed, including the&#xD;
+      1964 Declaration of Helsinki and its further amendments, and the Committee on Publication&#xD;
+      Ethics (COPE) guidelines. Data will be treated according to the law of data protection in&#xD;
+      Belgium and the Regulation (EU) 2016/679 of the European Parliament and of the Council of 27&#xD;
+      April 2016 on the protection of natural persons with regard to the processing of personal&#xD;
+      data. The approval of the Ethics Committee (Comité d'Ethique Hospitalo-Facultaire&#xD;
+      Universitaire de Liège) will be obtained. Written and oral information will be provided and&#xD;
+      informed consent will be signed by all participants. The study has been registered at&#xD;
+      www.clinicaltrials.gov on May, 2020).&#xD;
+&#xD;
+      Our study will determine the associations among decrease in intrinsic capacity, incidence of&#xD;
+      frailty, and occurrence of health adverse outcomes in community-dwelling older people during&#xD;
+      1-year follow-up, in the COVID-19 pandemic and beyond. If these associations are observed in&#xD;
+      the study, the ICOPE Apps would be ready to be implemented in daily practice, following the&#xD;
+      experience of the INSPIRE ICOPE-CARE in France (NCT04224038).&#xD;
+&#xD;
+      Several aspects of the study should be highlighted. First, it will include intrinsic capacity&#xD;
+      assessment. Indeed, even if the association of intrinsic capacity with mortality, functional&#xD;
+      decline, and falls was recently shown in older people in nursing homes, there is still very&#xD;
+      few data in community-dwelling population. The rationale to select intrinsic capacity,&#xD;
+      instead of using other syndromes or diseases, for example, sarcopenia, malnutrition, or&#xD;
+      dementia, is due to the multidimensional characteristics of older people, which require a&#xD;
+      global assessment. A single point of view might not be complete enough to take complex&#xD;
+      decisions in clinical practice.&#xD;
+&#xD;
+      Second, the study will provide evidence about the relationship between intrinsic capacity and&#xD;
+      frailty, which is a different multidimensional construct. Mortality has been selected as&#xD;
+      clinically meaningful outcome of the study, as recommended by the Common data elements (CDE)&#xD;
+      and core outcome measures (COMs) in Frailty research consensus and the Physical Frailty:&#xD;
+      ICFSR International Clinical Practice Guidelines for Identification and Management. Frailty&#xD;
+      has shown association with 2-fold higher all-cause mortality (HR 2.17, 95%CI 1.90-2.48),&#xD;
+      including infectious diseases (HR 1.79, 95%CI 1.03-3.11). Sample size calculation was based&#xD;
+      on a prevalence of frailty of 10.7% and incidence 13%. Despite lower incidence rates (3.9%,&#xD;
+      8%), have been shown in other large cohorts, the highest one was selected for our sample size&#xD;
+      calculation, due to the high probability of developing frailty during the pandemic (&quot;COVID&#xD;
+      Spiraling Frailty Syndrome&quot;). Providing data about the relationship between intrinsic&#xD;
+      capacity and frailty will pave the path towards the change in the negative paradigm of aging,&#xD;
+      and a person-centred model focused on prevention and Healthy Aging.&#xD;
+&#xD;
+      Third, our study will include the use of new technologies by older people, which is an&#xD;
+      emerging field with promising results. Several projects on the use of technologies to support&#xD;
+      health status of older people are currently ongoing, e.g. the J48 supervised machine learning&#xD;
+      algorithm is identifies future fallers among otherwise healthy, independent older adults;&#xD;
+      eMIND is a randomized controlled trial that includes web-based multidomain interventions; and&#xD;
+      the ALLEGRO living lab is an experimental hospital-based room for the testing of devices by&#xD;
+      frail hospitalized older people. The International Network of Agencies for Health Technology&#xD;
+      Assessment (INAHTA) provides high quality evidence about new technologies to help health care&#xD;
+      suppliers and policy makers in their decisions. The Belgian Health Care Knowledge Centre&#xD;
+      (KCE) has recently joined the INAHTA in 2020, which might be promising for this line of&#xD;
+      research.&#xD;
+&#xD;
+      Finally, some limitations related to the cohort design should be acknowledged. The inclusion&#xD;
+      of healthy community-dwelling older volunteers will be considered as a selection bias, as it&#xD;
+      has been previously reported in other cohorts of community-dwelling older people. The&#xD;
+      characteristics of voluntary older participants (motivation, involvement in self-care&#xD;
+      management, etc.) might differ from those who refused to get involved in a research study.&#xD;
+      Moreover, volunteers who are able to use online resources might be relatively younger at&#xD;
+      baseline, and their health status might be better than the population of the same age. This&#xD;
+      relatively healthy overall status expected at baseline will be a strength of our study, as&#xD;
+      the findings will have higher external validity for general population.&#xD;
+&#xD;
+      In summary, this study will apply the &quot;Action-research philosophy&quot; to bridge the gap between&#xD;
+      research and clinical practice. It will provide evidence to implement the ICOPE App and ICOPE&#xD;
+      Monitor, deliver efficient person-centered care-plans, and benefit older adults,&#xD;
+      professionals, and the healthcare systems during the COVID-19 pandemic and beyond.&#xD;
+&#xD;
+      Funding No funding has received to conduct this research.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 2020</start_date>
+  <completion_date type="Anticipated">November 2021</completion_date>
+  <primary_completion_date type="Anticipated">October 2021</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>1 Year</target_duration>
+  <primary_outcome>
+    <measure>Incidence of frailty</measure>
+    <time_frame>1 year</time_frame>
+    <description>Incidence of frailty assessed by Rockwood's clinical frailty scale (CFS) will be assessed at baseline and 12-month follow-up by telephone/video-call. An score &lt;4 will indicate robustness, 4-6 pre-frailty status, and ≥6 frailty</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">600</enrollment>
+  <condition>Frailty Syndrome</condition>
+  <condition>COVID-19</condition>
+  <condition>Healthy Aging</condition>
+  <condition>Old Age; Debility</condition>
+  <arm_group>
+    <arm_group_label>Descriptive cohort study</arm_group_label>
+    <description>Prospective cohort study of community-dwelling adults ≥65-year-old living at home, with no other exclusion criteria than the inability to use the ICOPE Apps or communicate by telephone/video-call for any reason (cognitive or limited access to technologies like telephone/video-call).&#xD;
+Cohort study, designed to determine the incidence of frailty in community-dwelling older people during 1-year follow-up, starting the recruitment at a certain point of the COVID-19 pandemic and beyond.</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Volunteers will be community-dwelling adults ≥65-year-old living at home&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        -  Inclusion criteria Community-dwelling adults ≥65-year-old living at home&#xD;
+&#xD;
+          -  Exclusion criteria Inability to use the ICOPE Apps Inability to communicate by&#xD;
+             telephone/video-call for any reason (cognitive or limited access to technologies like&#xD;
+             telephone/video-call).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>65 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Dolores Sanchez-Rodriguez, MD PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Division of Public Health, University of Liège, Liège, Belgium</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Dolores Sanchez-Rodriguez, MD PhD</last_name>
+    <phone>0032493432750</phone>
+    <email>dolores.sanchez@uliege.be</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Sophie Gillain, MD PhD</last_name>
+    <phone>0032485645836</phone>
+    <email>sgillain@chuliege.be</email>
+  </overall_contact_backup>
+  <results_reference>
+    <citation>Sanchez-Rodriguez D, Annweiler C, Gillain S, Vellas B. Implementation of the Integrated Care of Older People (ICOPE) App in Primary Care: New Technologies in Geriatric Care During Quarantine of COVID-19 and Beyond. J Frailty Aging. 2020 May 6;1-2.</citation>
+  </results_reference>
+  <results_reference>
+    <citation>de Kerimel J, Tavassoli N, Lafont C, Soto M, Pedra M, Nourhashemi F, Lagourdette C, Bouchon L, Chaléon A, Sourdet S, Rolland Y, Cesari M, Vellas B. How to Manage Frail Older Adults in the Community? Proposal of a Health Promotion Program Experienced in a City of 16,638 Inhabitants in France. J Frailty Aging. 2018;7(2):120-126. doi: 10.14283/jfa.2017.47.</citation>
+    <PMID>29741197</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Takeda C, Guyonnet S, Sumi Y, Vellas B, Araujo de Carvalho I. Integrated Care for Older People and the Implementation in the INSPIRE Care Cohort. J Prev Alzheimers Dis. 2020;7(2):70-74. doi: 10.14283/jpad.2020.8.</citation>
+    <PMID>32236394</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Cesari M, Araujo de Carvalho I, Amuthavalli Thiyagarajan J, Cooper C, Martin FC, Reginster JY, Vellas B, Beard JR. Evidence for the Domains Supporting the Construct of Intrinsic Capacity. J Gerontol A Biol Sci Med Sci. 2018 Nov 10;73(12):1653-1660. doi: 10.1093/gerona/gly011. Review.</citation>
+    <PMID>29408961</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Belloni G, Cesari M. Frailty and Intrinsic Capacity: Two Distinct but Related Constructs. Front Med (Lausanne). 2019 Jun 18;6:133. doi: 10.3389/fmed.2019.00133. eCollection 2019.</citation>
+    <PMID>31275941</PMID>
+  </results_reference>
+  <verification_date>May 2020</verification_date>
+  <study_first_submitted>May 25, 2020</study_first_submitted>
+  <study_first_submitted_qc>May 28, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">June 4, 2020</study_first_posted>
+  <last_update_submitted>May 28, 2020</last_update_submitted>
+  <last_update_submitted_qc>May 28, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 4, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Liege</investigator_affiliation>
+    <investigator_full_name>Dolores Sanchez-Rodriguez</investigator_full_name>
+    <investigator_title>MD PhD</investigator_title>
+  </responsible_party>
+  <keyword>Integrated Care for Older People (ICOPE)</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>Intrinsic capacity</keyword>
+  <keyword>Frailty syndrome</keyword>
+  <keyword>App</keyword>
+  <keyword>Older people</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Frailty</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

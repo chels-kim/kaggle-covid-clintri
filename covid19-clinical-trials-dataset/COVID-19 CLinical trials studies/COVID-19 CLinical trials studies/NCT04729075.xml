@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1491">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04729075</url>
+  </required_header>
+  <id_info>
+    <org_study_id>19-0598</org_study_id>
+    <nct_id>NCT04729075</nct_id>
+  </id_info>
+  <brief_title>Associations Between COVID-19 ARDS Treatment, Clinical Trajectories and Liberation From Mechanical Ventilator - an Analysis of the NorthCARDS Dataset</brief_title>
+  <acronym>NorthCARDS</acronym>
+  <official_title>Towards Precision Medicine for COVID-19 ARDS - An Analysis of the NorthCARDS (Northwell Health COVID-19 ARDS) Dataset to Identify Associations Between Patient-level Factors, Inpatient Treatment and Clinical Trajectories on Mechanical Ventilation Liberation and Survival</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Northwell Health</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>BioSymetrics</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Feinstein Institute for Medical Research</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Northwell Health</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The mortality rates associated with COVID-19 related ARDS (COVIDARDS) have varied from&#xD;
+      observational reports from around the world. This has ranged from 44% (28 day mortality) in&#xD;
+      the UK to 36% (28 day mortality from ICU admission) in Italian studies, to 32% (all-cause 28&#xD;
+      day mortality) in Spain. Predictive models have identified risk factors for COVID-19&#xD;
+      hospitalized patients' mortality to include male sex, obesity, age, obesity, comorbidities&#xD;
+      including chronic lung disease and hypertension, as well as biomarkers including high levels&#xD;
+      of D-Dimer, LDH and CRP. In addition, practice patterns, such as drugs that were&#xD;
+      administered, timing of mechanical ventilation and adherence to established lung protective&#xD;
+      ventilation protocols are known to be variable across sites and have changed over time.&#xD;
+&#xD;
+      The investigators propose to analyze outcomes for patients with COVIDARDS within the&#xD;
+      NorthCARDS dataset (a dataset of over 1500 patients with COVID-19 related ARDS across the&#xD;
+      Northwell Health System in the NYC metropolitan region and Long Island, NY) to understand&#xD;
+      differences in hospital survival and in the time to liberation from mechanical ventilation,&#xD;
+      specifically looking at the associations between baseline patient factors, changes in&#xD;
+      biomarkers, respiratory function and hemodynamics over time, and treatments administered. The&#xD;
+      analyses will be based on three hypotheses:&#xD;
+&#xD;
+      H.1. Worsening trajectories of: oxygenation index (OI), respiratory system compliance (C),&#xD;
+      and inflammatory markers will be associated with lower hospital survival.&#xD;
+&#xD;
+      H.2. Higher duration of deep sedation and paralytics will be associated with greater time to&#xD;
+      liberation from mechanical ventilation. This risk will be increased in patients with&#xD;
+      worsening trajectories of OI, C, and inflammatory markers over time.&#xD;
+&#xD;
+      H.3. Type of mechanical ventilator, specifically the time on portable mechanical ventilator,&#xD;
+      is associated with hospital mortality and with inability to liberate from mechanical&#xD;
+      ventilator despite controlling for risk factors of changes in OI, C and Inflammatory markers&#xD;
+      over time, and the use of paralytics and deep sedation.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The investigators will leverage the NorthCARDS dataset for this analysis. This dataset&#xD;
+      includes over 1500 persons admitted to the Northwell Health System who had PCR positive&#xD;
+      COVID19 testing and were invasively mechanically ventilated for ARDS. Registry development&#xD;
+      was initiated in April 2020 and continues with prospective data collection for all&#xD;
+      mechanically ventilated COVID19 ARDS patients among the Northwell Health hospitals. Data&#xD;
+      structuring and engineering is informed by weekly multi-disciplinary review including&#xD;
+      frontline clinicians, data scientists, biostatisticians and data engineers within medical&#xD;
+      informatics. Random selection of patients for individual 'manual' chart review occurs for&#xD;
+      data assumptions and recording.&#xD;
+&#xD;
+      The two outcomes to be modeled using multivariable regression analyses will be:&#xD;
+&#xD;
+        1. Index hospital survival and&#xD;
+&#xD;
+        2. Time to liberation from mechanical ventilation.&#xD;
+&#xD;
+      Liberation from mechanical ventilation will be defined as non-palliative extubation and&#xD;
+      persistent extubation for greater than one week. Outcomes will be obtained from electronic&#xD;
+      health record queries. Patients in whom the investigators do not have outcomes data by&#xD;
+      November 30,2020 will be censored in analyses, and descriptive statistics will be summarized&#xD;
+      and presented separately.&#xD;
+&#xD;
+      The investigators will approach this analysis using both hypothesis-driven methods wherein&#xD;
+      known risk factors for poor outcomes will be included in the multivariable regression models&#xD;
+      (logistic regression for Model 1, and Cox Proportional Hazards for Model 2); and&#xD;
+      investigators will also perform data-driven variable selection for the models. A priori&#xD;
+      defined risk factors that will be included in the models will be: Age, Gender, BMI,&#xD;
+      functional status at baseline (nursing home versus community admission), Comorbidities&#xD;
+      (coronary artery disease, Chronic Kidney Disease, Neurologic disorders, COPD, Diabetes,&#xD;
+      Active cancer, Hypertension); Inpatient treatments (for continuous values will be (max,&#xD;
+      median, trajectory)) including PEEP levels, Driving Pressure, FiO2, hypoxemia (Pao2:Fio2),&#xD;
+      type of mechanical ventilator (portable versus not), COVID-targeted medications (e.g.,&#xD;
+      azithromycin, hydroxychloroquine, corticosteroids); and end-organ damage in-hospital: liver&#xD;
+      dysfunction, Kidney dysfunction, coagulopathy, (captured via SOFA scores), cardiac&#xD;
+      dysfunction, and shock requiring vasopressor/inotrope. Calendar-time, hospital type&#xD;
+      (community versus tertiary hospital) and hospital capacity (measured as number of hospital&#xD;
+      beds filled and time from admission order in ER to being transferred to an inpatient bed)&#xD;
+      will also be included in the analyses to account for temporal and systemic influences of&#xD;
+      outcomes.&#xD;
+&#xD;
+      The final models will include variables selected through a backward selection process,&#xD;
+      together with variables ranked highly through data-driven methods including a logistic&#xD;
+      regression model regularized by Lasso penalty and Cox Proportional Hazards Model regularized&#xD;
+      by Lasso penalty. Model performance will be assessed for Model 1 (hospital survival) using&#xD;
+      the C-statistic.&#xD;
+&#xD;
+      Model performance for Model 2 (time to mechanical ventilator liberation) will be based on the&#xD;
+      C-statistic adapted for censored data.&#xD;
+&#xD;
+      Missing Data management: When the outcome data is missing for Model (1) (hospital survival),&#xD;
+      if there is less than 5% of outcomes missing, complete case analysis will be used; if there&#xD;
+      is more than 5% missing, sensitivity analysis will be performed by assuming all the missing&#xD;
+      outcomes to be either expired or alive to see if the results are similar to those using&#xD;
+      complete case analysis.&#xD;
+&#xD;
+      When the outcome data is missing for Model (2) (liberation from mechanical ventilation) the&#xD;
+      missing outcome will be considered as censored.&#xD;
+&#xD;
+      If overall &lt; 5% of our cohort has missing data for any risk factors, only patients with&#xD;
+      complete values for all risk factors will be included (others will be discarded).&#xD;
+&#xD;
+      If &gt; 5% of the cohort is missing data for any risk factor, the missing data will be imputed&#xD;
+      using multiple imputation.&#xD;
+&#xD;
+      If a risk factor is missing in &gt; 50% of patients the variable will not be included in the&#xD;
+      analysis.&#xD;
+&#xD;
+      Feature Engineering/Data Reduction: We will also test whether combinations of covariables&#xD;
+      considered as one covariable increases model performance. This will include COVID-19 illness&#xD;
+      index (combination of hyperinflammatory markers, PaO2:FiO2 index at the time of intubation,&#xD;
+      requiring vasopressors at the time of intubation, and Oxygenation Index) and adherence to&#xD;
+      standard ARDS treatment protocols (Driving Pressure, whether receiving less than 6-8 cc/kg&#xD;
+      predicted body weight and whether or not proned).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">January 19, 2021</start_date>
+  <completion_date type="Actual">January 19, 2021</completion_date>
+  <primary_completion_date type="Actual">January 19, 2021</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Other</time_perspective>
+  </study_design_info>
+  <target_duration>6 Months</target_duration>
+  <primary_outcome>
+    <measure>Index Hospital Survival</measure>
+    <time_frame>up to 1 year</time_frame>
+    <description>Through duration of hospital stay for up to 1 year</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Time to Mechanical Ventilator Liberation</measure>
+    <time_frame>6 months</time_frame>
+    <description>Censored at 6-months of follow-up; Liberation from mechanical ventilation will be defined as non-palliative extubation and persistent extubation for greater than one week.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Hospital Readmission</measure>
+    <time_frame>6 months</time_frame>
+    <description>Within 6 months of follow up after index hospitalization</description>
+  </secondary_outcome>
+  <enrollment type="Actual">1800</enrollment>
+  <condition>ARDS, Human</condition>
+  <condition>Covid19</condition>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>ARDS and COVID19 treatments</intervention_name>
+    <description>Interventions that will be analyzed will include: immunomodulation; oxygen supplementation type, duration and level; mechanical ventilation type, duration; diuresis; inotrope/vasopressors; prone positioning</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        COVID-19 ARDS patients receiving mechanical ventilation&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Inpatients at any of the hospitals within the Northwell Health system&#xD;
+&#xD;
+          -  COVID19 PCR positive&#xD;
+&#xD;
+          -  meeting ARDS criteria (defined as)&#xD;
+&#xD;
+               -  PaO2:FiO2 &lt;300 for at least 2 consecutive values (including 2 S/F values)&#xD;
+&#xD;
+               -  bilateral infiltrates&#xD;
+&#xD;
+               -  mechanical ventilation (NIMV or IMV with PEEP 5)&#xD;
+&#xD;
+          -  Timeframe March 1, 2020 until December 30, 2020&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients admitted for surgical procedures&#xD;
+&#xD;
+          -  infiltrates described as being due to cardiogenic pulmonary edema without COVID-19&#xD;
+             pneumonia&#xD;
+&#xD;
+          -  improvement of paO2:FiO2 to &gt; 300 within 48 hours&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Negin Hajizadeh, MD, MPH</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Northwell Health</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Feinstein Institutes for Medical Research</name>
+      <address>
+        <city>Manhasset</city>
+        <state>New York</state>
+        <zip>11030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>January 19, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 27, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 28, 2021</study_first_posted>
+  <last_update_submitted>January 27, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 27, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 28, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Distress Syndrome, Adult</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>Access to the NorthCARDS Registry is planned via DUA</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

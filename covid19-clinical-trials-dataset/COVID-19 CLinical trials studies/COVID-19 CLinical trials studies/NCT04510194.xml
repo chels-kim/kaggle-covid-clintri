@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1928">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04510194</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GIM-2020-29324</org_study_id>
+    <nct_id>NCT04510194</nct_id>
+  </id_info>
+  <brief_title>MET-COVID -- Outpatient Metformin Use for COVID-19</brief_title>
+  <official_title>MET-COVID Trial - Metformin for Outpatient Treatment and Post-exposure Prophylaxis (PEP) of COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Minnesota</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Minnesota</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this trial is to conduct a Stage 1 Substudy powered to detect a difference in&#xD;
+      continuous laboratory outcomes:&#xD;
+&#xD;
+        1. Test if metformin treatment in non-hospitalized adults with SARS-CoV-2 can improve&#xD;
+           laboratory outcomes associated with Covid-19 severity&#xD;
+&#xD;
+        2. Test if metformin treatment in non-hospitalized adults with SARS-CoV-2 infection can&#xD;
+           prevent emergency department utilization for Covid-19.&#xD;
+&#xD;
+        3. Test if metformin treatment in non-hospitalized adults with SARS-CoV-2 disease can&#xD;
+           prevent Covid-19 disease progression.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is a rapidly spreading viral&#xD;
+      infection causing COVID-19 disease. There currently is no preventive or outpatient treatment&#xD;
+      therapy for Covid-19. Six observational studies have found decreased severity of Covid-19&#xD;
+      disease among persons with metformin use before diagnosis with Covid-19:&#xD;
+&#xD;
+        1. Cariou et al, Diabetologia, adults with diabetes (DM) in France: OR mortality 0.59&#xD;
+           (0.42, 0.84)&#xD;
+&#xD;
+        2. Crouse et al, medrxiv.org adults with DM at Univ of Alabama Birmingham: OR mortality&#xD;
+           0.33 (0.13-0.84)&#xD;
+&#xD;
+        3. Bramante et al, Lancet Healthy Longevity, females with DM or obesity, claims data from&#xD;
+           50 US5 states: OR mortality 0.759 (0.601, 0.960) by propensity matching; OR 0.785&#xD;
+           (0.650, 0.951) by Cox model.&#xD;
+&#xD;
+        4. Lou et al, Am J Trop Med, adults with diabetes in China, OR for survival: 4.36&#xD;
+           (1.22-15.59)&#xD;
+&#xD;
+        5. Bramante et al. Under review, in adults with non-alcoholic fatty liver disease and&#xD;
+           +SARS-CoV-2, OR for admission: 0.42 (0.18-1.01, p=0.05).&#xD;
+&#xD;
+        6. Bramante et al. Under review, in adults with Covid-19, OR for admission 0.46&#xD;
+           (0.27-0.80), p&lt;0.01; mortality, OR 0.49 (0.26-0.94); and metformin was associated with&#xD;
+           lower IL-6 (non-significant) lower neutrophil/lymphocyte ratio and CPR, and equivalent&#xD;
+           lactate and bicarbonate as non-metformin.&#xD;
+&#xD;
+      Kow, J Med Virol conducted a meta analysis, with an overall odds ratio for mortality of 0.62&#xD;
+      (0.43-0.89).&#xD;
+&#xD;
+      Gordon et al found decreased SARS-CoV-2 and increased cell viability with metformin in vitro.&#xD;
+      (Gordon et al, Nature). While anti-viral activity may be contributing to the observational&#xD;
+      associations of reduced severity of Covid-19, metformin has a proven history of beneficial&#xD;
+      immune-modulatory effects, including on CRP, IL-6 and TNF-alpha, neutrophil extracellular&#xD;
+      traps, and improved T cell immunity. Outpatient metformin use has now been associated with&#xD;
+      lower IL-6, CRP, and neutrophil-lymphocyte ratio in persons with Covid-19.&#xD;
+&#xD;
+      While vaccine development for SARS-CoV-2 has been promising, there may be reduced willingness&#xD;
+      among the public to receive a vaccine developed so quickly. This is a substudy with&#xD;
+      laboratory outcomes (70 patients will be enrolled). The intervention is metformin, a&#xD;
+      biguanide, administered in its immediate release formation, 1,500mg daily.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 1, 2021</start_date>
+  <completion_date type="Anticipated">September 2021</completion_date>
+  <primary_completion_date type="Anticipated">September 2021</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>The fully powered trial is a parallel enrolling treatment and post-exposure prophylaxis trial.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in C-Reactive Protein</measure>
+    <time_frame>10 days</time_frame>
+    <description>This is one of the primary outcomes for the stage 1 trial. Outcome is reported as the change in serum concentrations of c-reactive protein (mg/L) from baseline to 5 days and baseline to 10 days.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Albumin</measure>
+    <time_frame>10 days</time_frame>
+    <description>This is one of the primary outcomes for the stage 1 trial. Outcome is reported as the change in serum concentrations of albumin (g/dL) from baseline to 5 days and baseline to 10 days.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in Viral load</measure>
+    <time_frame>10 days</time_frame>
+    <description>This is one of the primary outcomes for the stage 1 trial. Outcome is reported as the change in serum viral load (copies per ml of blood) from baseline to 5 days and baseline to 10 days.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Emergency Department Utilization</measure>
+    <time_frame>14 days, 28 days</time_frame>
+    <description>For Covid-19 Symptoms (as defined by current CDC definition of Covid-19 symptoms).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of Possible COVID-19 Symptoms</measure>
+    <time_frame>14 days, 28 days</time_frame>
+    <description>Assessed with Symptom Scale Recommended by FDA for Industry 2) Hospitalized, on invasive mechanical ventilation or extracorporeal membrane oxygenation (ECMO); 3) Hospitalized, on non-invasive ventilation or high flow oxygen devices; 4) Hospitalized, requiring supplemental oxygen; 5) Hospitalized, not requiring supplemental oxygen - requiring ongoing medical care (COVID-19 related or otherwise); 6) Hospitalized, not requiring supplemental oxygen - no longer requires ongoing medical care; 7) Not hospitalized, limitation on activities and/or requiring home oxygen; 8) Not hospitalized, no limitations on activities.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>WHO Disease Progression Scale</measure>
+    <time_frame>14 days, 28 days.</time_frame>
+    <description>Incidence of hospitalization for Covid-19&#xD;
+Incidence of oxygen therapy needed&#xD;
+Incidence of mechanical ventilation&#xD;
+Incidence of death</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">70</enrollment>
+  <condition>Covid19</condition>
+  <condition>SARS-CoV Infection</condition>
+  <arm_group>
+    <arm_group_label>PEP Cohort - Treatment Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in the PEP cohort of the trial are those who do not test positive for SARS-COV-2 infection at the time of screening but had a close exposure to SARS-CoV-2 infected person (defined by current CDC definition of close contact). Participants in this arm and group will receive metformin.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>PEP Cohort - Placebo Group</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants in the PEP cohort of the trial are those who do not test positive for SARS-COV-2 infection at the time of screening but had a close exposure to SARS-CoV-2 infected person (defined by current CDC definition of close contact). Participants in this arm and group will receive placebo.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Treatment Arm - Treatment Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in the treatment arm of the trial are those who test positive for SARS-COV-2 infection at the time of screening. Participants in this arm and group will receive the metformin.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Treatment Arm - Placebo Group</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants in the treatment arm of the trial are those who test positive for SARS-COV-2 infection at the time of screening. Participants in this arm and group will receive the placebo.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Metformin</intervention_name>
+    <description>Metformin; immediate release formation; 1,500mg daily</description>
+    <arm_group_label>PEP Cohort - Treatment Group</arm_group_label>
+    <arm_group_label>Treatment Arm - Treatment Group</arm_group_label>
+    <other_name>glucophage</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>placebo; size-matched to study drug</description>
+    <arm_group_label>PEP Cohort - Placebo Group</arm_group_label>
+    <arm_group_label>Treatment Arm - Placebo Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria, Stage 1 Treatment Trial:&#xD;
+&#xD;
+          -  Positive laboratory test for active SARS-CoV-2 viral infection based on local&#xD;
+             laboratory standard (i.e. +PCR) within 3 days of randomization; negative antibody test&#xD;
+             not required.&#xD;
+&#xD;
+          -  Age &gt;=30 years and &lt; 85 years&#xD;
+&#xD;
+          -  GFR&gt;45ml/min within 2 weeks of enrollment&#xD;
+&#xD;
+          -  Patient has medical record visible within the EHR of participating sites&#xD;
+&#xD;
+          -  BMI &gt;= 25kg/m2 by self-report height/weight or &gt;= 23kg/m2 in patients who&#xD;
+             self-identify in S. Asian or Latinx background.59-61&#xD;
+&#xD;
+          -  Willing and able to comply with study procedures&#xD;
+&#xD;
+          -  Has an address and electronic device for communication&#xD;
+&#xD;
+        Exclusion Criteria, Stage 1 Treatment Trial:&#xD;
+&#xD;
+          -  Symptom onset greater than 7 days before randomization (symptoms not required for&#xD;
+             inclusion).&#xD;
+&#xD;
+          -  Currently taking metformin&#xD;
+&#xD;
+          -  Electronic medical record history of kidney disease, i.e.:&#xD;
+&#xD;
+          -  Estimated Glomerular Filtration Rate (eGFR) of &lt; 45ml/min/1.73 m2&#xD;
+&#xD;
+          -  Other kidney disease that in the opinion of the investigator would affect clearance&#xD;
+&#xD;
+          -  Electronic medical record history of severe liver disease&#xD;
+&#xD;
+          -  Other liver disease that in the opinion of the investigator, would affect metformin&#xD;
+             clearance&#xD;
+&#xD;
+          -  Documented AST or ALT &gt; 3 times the upper limit of normal within 3 months of&#xD;
+             randomization (if available in electronic medical record)&#xD;
+&#xD;
+          -  EHR of NYHA Stage 3 or 4 heart failure&#xD;
+&#xD;
+          -  Inability to obtain informed consent&#xD;
+&#xD;
+          -  Enrollment in another blinded RCT for COVID&#xD;
+&#xD;
+          -  Alcohol use disorder&#xD;
+&#xD;
+          -  Patients taking these medications: cimetidine, hydroxychloroquine, insulin,&#xD;
+             sulfonylurea, dolutegravir, patiromer, ranolazine, tafenoquine&#xD;
+&#xD;
+          -  Hospitalized, for COVID-19 or other reasons.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>30 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Carolyn Bramante, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Minnesota</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Carolyn Bramante, MD</last_name>
+    <phone>612-624-5624</phone>
+    <email>metstudy@umn.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of Minnesota</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55455</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Carolyn Bramante, MD, MPH</last_name>
+      <email>metstudy@umn.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Gordon DE, Jang GM, Bouhaddou M, Xu J, Obernier K, White KM, O'Meara MJ, Rezelj VV, Guo JZ, Swaney DL, Tummino TA, Hüttenhain R, Kaake RM, Richards AL, Tutuncuoglu B, Foussard H, Batra J, Haas K, Modak M, Kim M, Haas P, Polacco BJ, Braberg H, Fabius JM, Eckhardt M, Soucheray M, Bennett MJ, Cakir M, McGregor MJ, Li Q, Meyer B, Roesch F, Vallet T, Mac Kain A, Miorin L, Moreno E, Naing ZZC, Zhou Y, Peng S, Shi Y, Zhang Z, Shen W, Kirby IT, Melnyk JE, Chorba JS, Lou K, Dai SA, Barrio-Hernandez I, Memon D, Hernandez-Armenta C, Lyu J, Mathy CJP, Perica T, Pilla KB, Ganesan SJ, Saltzberg DJ, Rakesh R, Liu X, Rosenthal SB, Calviello L, Venkataramanan S, Liboy-Lugo J, Lin Y, Huang XP, Liu Y, Wankowicz SA, Bohn M, Safari M, Ugur FS, Koh C, Savar NS, Tran QD, Shengjuler D, Fletcher SJ, O'Neal MC, Cai Y, Chang JCJ, Broadhurst DJ, Klippsten S, Sharp PP, Wenzell NA, Kuzuoglu-Ozturk D, Wang HY, Trenker R, Young JM, Cavero DA, Hiatt J, Roth TL, Rathore U, Subramanian A, Noack J, Hubert M, Stroud RM, Frankel AD, Rosenberg OS, Verba KA, Agard DA, Ott M, Emerman M, Jura N, von Zastrow M, Verdin E, Ashworth A, Schwartz O, d'Enfert C, Mukherjee S, Jacobson M, Malik HS, Fujimori DG, Ideker T, Craik CS, Floor SN, Fraser JS, Gross JD, Sali A, Roth BL, Ruggero D, Taunton J, Kortemme T, Beltrao P, Vignuzzi M, García-Sastre A, Shokat KM, Shoichet BK, Krogan NJ. A SARS-CoV-2 protein interaction map reveals targets for drug repurposing. Nature. 2020 Jul;583(7816):459-468. doi: 10.1038/s41586-020-2286-9. Epub 2020 Apr 30.</citation>
+    <PMID>32353859</PMID>
+  </reference>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>August 7, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 10, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 12, 2020</study_first_posted>
+  <last_update_submitted>January 15, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 15, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 19, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Metformin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

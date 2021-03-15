@@ -1,0 +1,1778 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3175">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04526990</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CS-CTP-AD5NCOV-Ⅲ</org_study_id>
+    <nct_id>NCT04526990</nct_id>
+  </id_info>
+  <brief_title>Phase III Trial of A COVID-19 Vaccine of Adenovirus Vector in Adults 18 Years Old and Above</brief_title>
+  <official_title>A Global Multicenter, Randomized, Double-blind, Placebo -Controlled, Adaptive Designed Phase Ⅲ Clinical Trial to Evaluate the Efficacy, Safety and Immunogenicity of Ad5-nCoV in Adults 18 Years of Age and Older</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>CanSino Biologics Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Beijing Institute of Biotechnology</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>CanSino Biologics Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is a global multicenter, randomized, double-blind, placebo -controlled, adaptive&#xD;
+      designed phase Ⅲ clinical trial, in order to evaluate the efficacy, safety and immunogenicity&#xD;
+      of Recombinant Novel Coronavirus Vaccine (Adenovirus Type 5 Vector) in adults 18 years old&#xD;
+      and above.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a global phase III clinical trial to evaluate efficacy,safety, immuogenicity of&#xD;
+      Ad5-nCoV manufactured by Cansino and Beijing Institute of Biotechnology in health adults aged&#xD;
+      18 years old and above.&#xD;
+&#xD;
+      The study will be double-blind, placebo-controlled trial with participants randomly allocated&#xD;
+      1:1 to placebo and experimental vaccine cohorts.&#xD;
+&#xD;
+      The immunization schedule is one doses intramuscular injections (deltoid).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 15, 2020</start_date>
+  <completion_date type="Anticipated">January 30, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 30, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of COVID-19 cases</measure>
+    <time_frame>day 28 to 12 months post vaccination</time_frame>
+    <description>The efficacy of Ad5-nCoV in preventing virologically confirmed (PCR positive) COVID-19 disease</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of SAE</measure>
+    <time_frame>Within 12 months</time_frame>
+    <description>Evaluate the incidence of severe adverse events (SAE)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of severe COVID-19 cases</measure>
+    <time_frame>Day 14 to 12 months post vaccination</time_frame>
+    <description>Evaluate the efficacy of Ad5-nCoV in preventing severe COVID-19 disease caused by SARS-CoV-2 infection</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of solicited adverse reactions</measure>
+    <time_frame>Day 0-7 post vaccination</time_frame>
+    <description>Incidence of solicited adverse reactions within 7 days after vaccination, in a subset</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of unsolicited adverse events</measure>
+    <time_frame>Day 0-28 post vaccination</time_frame>
+    <description>Incidence of unsolicited adverse events within 28 days after vaccination in a subset</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Immunogencity of S-RBD IgG antibody (ELISA method)</measure>
+    <time_frame>Day 28 post vaccination</time_frame>
+    <description>The seroconversion rate of S-RBD IgG antibody post vaccination</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Immunogencity of neutralizing antibody</measure>
+    <time_frame>Day 28 post vaccination</time_frame>
+    <description>The seroconversion rate of neutralizing antibody</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cell-mediated immune profile</measure>
+    <time_frame>Day 28 post vaccination</time_frame>
+    <description>Number of cell-mediated immune response against SARS-CoV-2</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">40000</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Experimental group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>20000 participants, Ad5-nCoV , single dose, Intramuscular administration</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo group</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>20000 participants, placebo, single dose, Intramuscular administration</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Recombinant Novel Coronavirus Vaccine (Adenovirus Type 5 Vector)</intervention_name>
+    <description>Intramuscular administration</description>
+    <arm_group_label>Experimental group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Intramuscular administration</description>
+    <arm_group_label>Placebo group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adults of 18 years old and above.&#xD;
+&#xD;
+          -  Participants who are at high risk of SARS-CoV-2 infection.&#xD;
+&#xD;
+          -  Able and willing (in the Investigator's opinion) to comply with all study&#xD;
+             requirements.&#xD;
+&#xD;
+          -  Willing to allow the investigators to discuss the volunteer's medical history with&#xD;
+             their General Practitioner/personal doctor and access all medical records when&#xD;
+             relevant to study procedures.&#xD;
+&#xD;
+          -  Agreement to refrain from blood donation during the study.&#xD;
+&#xD;
+          -  provide written informed consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Participation in any other COVID-19 prophylactic drug trials for the duration of the&#xD;
+             study.&#xD;
+&#xD;
+          -  Participation in SARS-CoV-2 serological surveys where participants are informed of&#xD;
+             their serostatus for the duration of the study.&#xD;
+&#xD;
+          -  Planned receipt of any vaccine (licensed or investigational), other than the study&#xD;
+             intervention, within 14 days before and after study vaccination.&#xD;
+&#xD;
+          -  Prior receipt of an investigational or licensed vaccine likely to impact on the&#xD;
+             interpretation of the trial data.&#xD;
+&#xD;
+          -  Administration of immunoglobulins and/or any blood products within the three months&#xD;
+             prior to the planned administration of the vaccine candidate.&#xD;
+&#xD;
+          -  Planned receipt of any vaccine (licensed or investigational), other than the study&#xD;
+             intervention, within 14 days before and after study vaccination&#xD;
+&#xD;
+          -  Prior receipt of an investigational or licensed vaccine likely to impact on the&#xD;
+             interpretation of the trial data (e.g. Adenovirus vectored vaccines, any coronavirus&#xD;
+             or SARS vaccines)&#xD;
+&#xD;
+          -  Administration of immunoglobulins and/or any blood products within the three months&#xD;
+             prior to the planned administration of the vaccine candidate&#xD;
+&#xD;
+          -  Any confirmed or suspected immunosuppressive or immunodeficient state; positive HIV&#xD;
+             status; asplenia; recurrent severe infections and chronic use.&#xD;
+&#xD;
+          -  History of allergic disease or reactions likely to be exacerbated by any component of&#xD;
+             Ad5-nCoV&#xD;
+&#xD;
+          -  Any history of angioedema&#xD;
+&#xD;
+          -  Any history of anaphylaxis to any vaccine component&#xD;
+&#xD;
+          -  Pregnancy, lactation or willingness/intention to become pregnant during the study&#xD;
+&#xD;
+          -  Current diagnosis of or treatment for cancer (except basal cell carcinoma of the skin&#xD;
+             and cervical carcinoma in situ)&#xD;
+&#xD;
+          -  History of serious psychiatric condition likely to affect participation in the study&#xD;
+&#xD;
+          -  Suspected or known current alcohol or drug dependency&#xD;
+&#xD;
+          -  Severe and/or uncontrolled cardiovascular disease, respiratory disease,&#xD;
+             gastrointestinal disease, liver disease, renal disease, endocrine disorder and&#xD;
+             neurological illness&#xD;
+&#xD;
+          -  History of laboratory-confirmed COVID-19&#xD;
+&#xD;
+          -  Any other significant disease, disorder or finding which may significantly increase&#xD;
+             the risk to the volunteer because of participation in the study, affect the ability of&#xD;
+             the volunteer to participate in the study or impair interpretation of the study data.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Scott A Halperin, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Canadian Center for Vaccinology</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Fengcai Zhu</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Jiangsu Provincial Center for Disease Control and Prevention</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Joanne M angley, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Canadian Center for Vaccinology</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jinbo Gou, MD</last_name>
+    <phone>+86-022-58213600-6051</phone>
+    <email>jinbo.gou@cansinotech.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Fundación Socolinsky Centro de Vacunación Proteger - Recoleta</name>
+      <address>
+        <city>Caba</city>
+        <state>Buenos Aires</state>
+        <zip>C1023AAO</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Eduardo López, phD</last_name>
+      <phone>54 9 11 6129 4987</phone>
+      <email>sonia.berta@protogervacunacion.com</email>
+    </contact>
+    <investigator>
+      <last_name>Pedro Enrique Cahn, phD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Pirovano</name>
+      <address>
+        <city>Caba</city>
+        <state>Buenos Aires</state>
+        <zip>C1430BKC</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Ricardo Teijeiro, phD</last_name>
+      <phone>54 9 1151094222</phone>
+      <email>riteijeiro@hotmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Pedro Enrique Cahn, phD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Htal de Alta Complejidad Cuenca Alta Néstor Kirchner</name>
+      <address>
+        <city>Cañuelas</city>
+        <state>Buenos Aires</state>
+        <zip>1814</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Javier Farina, phD</last_name>
+      <phone>54 9 1152734700</phone>
+      <email>dr.javierfarina@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Pedro Enrique Cahn, phD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Interzonal de Agudos &quot;San Juan de Dios&quot; de La Plata</name>
+      <address>
+        <city>La Plata</city>
+        <state>Buenos Aires</state>
+        <zip>1900</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Natalia Fantoni, phD</last_name>
+      <phone>54 9 221 5678015</phone>
+      <email>natyfantoni@hotmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Pedro Enrique Cahn, phD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Rossi</name>
+      <address>
+        <city>La Plata</city>
+        <state>Buenos Aires</state>
+        <zip>1900</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Graciela Maria Guerrini, phD</last_name>
+      <phone>54 9 221 5373425</phone>
+      <email>gramaria.guerrini@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Pedro Enrique Cahn, phD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Inst. Médico Platense</name>
+      <address>
+        <city>La Plata</city>
+        <state>Buenos Aires</state>
+        <zip>1900</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>María Fernanda Alzogaray, phD</last_name>
+      <phone>54 9221-412-0900</phone>
+      <email>mfalzogaray@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Pedro Enrique Cahn, phD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto de Investigaciones Clínicas</name>
+      <address>
+        <city>Mar Del Plata</city>
+        <state>Buenos Aires</state>
+        <zip>7600</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Gonzalo Corral, phD</last_name>
+      <phone>54 9 2234365218</phone>
+      <email>gonzalocorral@hotmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Pedro Enrique Cahn, phD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Htal Mariano y Luciano de la Vega</name>
+      <address>
+        <city>Moreno</city>
+        <state>Buenos Aires</state>
+        <zip>1744</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Natalia Diaz, phD</last_name>
+      <phone>54 9 1136714601</phone>
+      <email>dr.javierfarina@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Pedro Enrique Cahn, phD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Houssay</name>
+      <address>
+        <city>Vicente López</city>
+        <state>Buenos Aires</state>
+        <zip>999071</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Gustavo Lopardo, phD</last_name>
+      <phone>54 11 47967230</phone>
+      <email>glopardo@intramed.net</email>
+    </contact>
+    <investigator>
+      <last_name>Pedro Enrique Cahn, phD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Zonal General de Agudos &quot;Cetrangolo&quot;</name>
+      <address>
+        <city>Vicente López</city>
+        <state>Buenos Aires</state>
+        <zip>999071</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Mariano Fernandez Acquier, phD</last_name>
+      <phone>54 11 47912090</phone>
+      <email>acquier@hotmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Pedro Enrique Cahn, phD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto Cer</name>
+      <address>
+        <city>Vicente López</city>
+        <state>Quilmes</state>
+        <zip>1878</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Gustavo Cañete, phD</last_name>
+      <phone>54 9 1151631366</phone>
+      <email>monica.coronel@institutocer.com</email>
+    </contact>
+    <investigator>
+      <last_name>Pedro Enrique Cahn, phD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Previvax Centro de Vacunación</name>
+      <address>
+        <city>Córdoba</city>
+        <zip>5000</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Ricardo Teijeiro, phD</last_name>
+      <phone>54 9 1151094222</phone>
+      <email>rteijeiro@previvax.com.ar</email>
+    </contact>
+    <investigator>
+      <last_name>Pedro Enrique Cahn, phD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Dr. Hernan Henriquez Aravena Temuco</name>
+      <address>
+        <city>Temuco</city>
+        <state>IX Region</state>
+        <zip>4780000</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Fernando Lanas, phD</last_name>
+      <phone>996411508</phone>
+      <email>lanastomas@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Fernando Lanas Zanetti, phD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Sergio Raúl Muñoz Navarro, phD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CIMER Centro de Investigaciones Medicas Respiratorias Santiago</name>
+      <address>
+        <city>Providencia</city>
+        <state>Region Metropolitana</state>
+        <zip>7500000</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rosa Maria Feijoo, phD</last_name>
+      <phone>998268855</phone>
+      <email>rmfeijoo@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Fernando Lanas Zanetti, phD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Sergio Raúl Muñoz Navarro, phD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital San Borja Arriarán Santiago</name>
+      <address>
+        <city>Santiago</city>
+        <state>Region Metropolitana</state>
+        <zip>8320000</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Gabriel Maluenda, phD</last_name>
+      <phone>971075435</phone>
+      <email>gabrielmaluenda@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Fernando Lanas Zanetti, phD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Sergio Raúl Muñoz Navarro, phD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Clínica Andes Salud Concepción</name>
+      <address>
+        <city>Concepción</city>
+        <state>VII Región</state>
+        <zip>4030000</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Alvaro Llancaqueo, phD</last_name>
+      <phone>998479076</phone>
+      <email>allancaqueo@vtr.net</email>
+    </contact>
+    <investigator>
+      <last_name>Fernando Lanas Zanetti, phD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Sergio Raúl Muñoz Navarro, phD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de Puerto Montt Dr. Eduardo Schütz Schoroeder Puerto Montt</name>
+      <address>
+        <city>Puerto Montt</city>
+        <state>X Región De Los Lagos</state>
+        <zip>5480000</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Loreto Twele Montecinos, phD</last_name>
+      <phone>991391703</phone>
+      <email>loreto.twele@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Fernando Lanas Zanetti, phD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Sergio Raúl Muñoz Navarro, phD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Base de Osorno</name>
+      <address>
+        <city>Osorno</city>
+        <state>XIV Región</state>
+        <zip>5290000</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Bernardo Goecke H., phD</last_name>
+      <phone>998182110</phone>
+      <email>bgoecke@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Fernando Lanas Zanetti, phD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Sergio Raúl Muñoz Navarro, phD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Clinica Alemana de Valdivia Valdivia</name>
+      <address>
+        <city>Valdivia</city>
+        <state>XIV Región</state>
+        <zip>5090000</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mario Calvo Gil, phD</last_name>
+      <phone>996414890</phone>
+      <email>macalvo@uach.cl</email>
+    </contact>
+    <investigator>
+      <last_name>Fernando Lanas Zanetti, phD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Sergio Raúl Muñoz Navarro, phD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centro de investigación Médica Aguascalientes (CIMA)</name>
+      <address>
+        <city>Aguascalientes</city>
+        <state>Ags</state>
+        <zip>999085</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Francisco Javier Gaytán Delgadillo, phD</last_name>
+      <phone>998 197 5599</phone>
+      <email>franciscogaytan.cima@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Guillermo M. Ruiz-Palacios, phD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto de Servicios de Salud del Estado de Baja California</name>
+      <address>
+        <city>Mexicali</city>
+        <state>Baja California Norte</state>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Diego Fernando Ovalle Marroquín, PhD</last_name>
+      <phone>6861575693</phone>
+      <email>dovalle@saludbc.gob.mx</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Instuto de Ciencias Médicas y de la Nutrición Salvador Subirán (INCMNSZ)</name>
+      <address>
+        <city>Tlalpan</city>
+        <state>Cdmx</state>
+        <zip>14080</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Guillermo Miguel Ruíz-Palacios y Santos, phD</last_name>
+      <phone>5554 19 1661</phone>
+      <email>guillermo.ruizp@incmnsz.mx</email>
+    </contact>
+    <investigator>
+      <last_name>Guillermo M. Ruiz-Palacios, phD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto Nacional de Medicina Genómica</name>
+      <address>
+        <city>Tlalpan</city>
+        <state>Cdmx</state>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Alfredo Hidalgo Miranda, PhD</last_name>
+      <email>ahidalgo@inmegen.gob.mx</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centro de Investigacion Integral MEDIVEST SC</name>
+      <address>
+        <city>Chihuahua</city>
+        <state>Chhihuahia</state>
+        <zip>31203</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Adriana Torres Zagarnaga, phD</last_name>
+      <phone>52 614 1194 907</phone>
+      <email>adrytorres26@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Guillermo M. Ruiz-Palacios, phD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centro de Investigacion Clinica Chapultepec SA de CV (Hidra)</name>
+      <address>
+        <city>Coyoacán</city>
+        <state>Ciudad De Mexico</state>
+        <zip>04100</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Fernando Lozano Patino, phD</last_name>
+      <phone>553981 0319</phone>
+      <email>fernadno.lozano@hidarainvestigacion.com</email>
+    </contact>
+    <investigator>
+      <last_name>Guillermo M. Ruiz-Palacios, phD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto Mexicano del Seguro Social (IMSS)</name>
+      <address>
+        <city>Cuahtemoc</city>
+        <state>Ciudad De Mexico</state>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Niiels Agustin Hansen Wacher Rodarte, PhD</last_name>
+      <phone>5538996130</phone>
+      <email>wacherniels@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Institute Saltillo SA de CV</name>
+      <address>
+        <city>Saltillo</city>
+        <state>Cuahuila</state>
+        <zip>25020</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alicia Elhain de la Garza Lopez, phD</last_name>
+      <phone>52 8444 128731</phone>
+      <email>alicia.cris.gl@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Guillermo M. Ruiz-Palacios, phD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centro de Investigación Clínica del Pacifico S.A. de C.V. (CICPA)</name>
+      <address>
+        <city>Acapulco</city>
+        <state>Guerrero</state>
+        <zip>39670</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rafael Aguirre Rivero, phD</last_name>
+      <phone>744 175 1561 y 744 178 5367</phone>
+      <email>dr.aguirrerivero@cicpa.com.mx</email>
+    </contact>
+    <investigator>
+      <last_name>Guillermo M. Ruiz-Palacios, phD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Asociación Mexicana para la investigación clínica (AMIC)</name>
+      <address>
+        <city>Pachuca de Soto</city>
+        <state>Hidalgo</state>
+        <zip>42070</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Joselito Hernández Pichardo, phD</last_name>
+      <phone>777 7137453</phone>
+      <email>hpjoseliano@yahoocom.mx</email>
+    </contact>
+    <investigator>
+      <last_name>Guillermo M. Ruiz-Palacios, phD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto Jaliscience de Metabolismo, S. C.</name>
+      <address>
+        <city>Guadalajara</city>
+        <state>Jalisco</state>
+        <zip>44670</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rogelio Cesar Peralta Lepe, phD</last_name>
+      <phone>33 34 67 1065</phone>
+      <email>peralta.rogelio@gail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Guillermo M. Ruiz-Palacios, phD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Asociación de investigación pediátrica y adultos (AINPAD)</name>
+      <address>
+        <city>Morelia</city>
+        <state>Mochoacán De Ocampo</state>
+        <zip>58350</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jorge Alejandro Vázquez Narváez, phD</last_name>
+      <phone>443 3181 411</phone>
+      <email>dr.jorge.vazquez@icloud.com</email>
+    </contact>
+    <investigator>
+      <last_name>Guillermo M. Ruiz-Palacios, phD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>JM Research</name>
+      <address>
+        <city>Cuernavaca</city>
+        <state>Morelos</state>
+        <zip>62290</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>José Flores Figueroa, phD</last_name>
+      <phone>7772145678</phone>
+      <email>jose@jmresearch.org</email>
+    </contact>
+    <investigator>
+      <last_name>Guillermo M. Ruiz-Palacios, phD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Metropolitano &quot;Dr. Bernardo Sepúlveda&quot;</name>
+      <address>
+        <city>San Nicolás De Los Garza</city>
+        <state>Nuevo León</state>
+        <zip>66480</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Amalia Guadalupe Becerra Aquino, phD</last_name>
+      <phone>52 844 410 5524</phone>
+      <email>amalia_becerra@hotmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Guillermo M. Ruiz-Palacios, phD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Oaxaca site management organization (OSMO)</name>
+      <address>
+        <city>Oaxaca</city>
+        <state>Oax</state>
+        <zip>68000</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Norma Eréndira Rivera, phD</last_name>
+      <phone>951 243 14 92</phone>
+      <email>Norma.rivera@osmomexico.com</email>
+    </contact>
+    <investigator>
+      <last_name>Guillermo M. Ruiz-Palacios, phD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centro de Investigación y Avances Médicos Especializados (CIAME)</name>
+      <address>
+        <city>Cancún</city>
+        <state>Quintana Roo</state>
+        <zip>999085</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alejandro José Muñíz Carvajal, phD</last_name>
+      <phone>951 22 69379</phone>
+      <email>amuniz.ciame@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Guillermo M. Ruiz-Palacios, phD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>FAICIC</name>
+      <address>
+        <city>Veracruz</city>
+        <state>Veracrua</state>
+        <zip>91900</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hector Javier Gomez Sarmiento, phD</last_name>
+      <phone>228 14 00 537</phone>
+      <email>hector.sarmiento@faicic.com.mx</email>
+    </contact>
+    <investigator>
+      <last_name>Guillermo M. Ruiz-Palacios, phD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Kohler &amp; Milstein Research</name>
+      <address>
+        <city>Mérida</city>
+        <state>Yucatan</state>
+        <zip>97070</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jesus Abrham Simon Campos, phD</last_name>
+      <phone>999 163 11 246</phone>
+      <email>jabrahamsimon@yahoo.com.mx</email>
+    </contact>
+    <investigator>
+      <last_name>Guillermo M. Ruiz-Palacios, phD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>PEMEX</name>
+      <address>
+        <city>Ciudad de mexico</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Adirana Hernandez Alarcon, PhD</last_name>
+      <phone>5585814430</phone>
+      <email>adriana.hernandezal@pemex.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto Nacional de Pediatría (INP)</name>
+      <address>
+        <city>Ciudad de México</city>
+        <zip>04530</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mercedes Macías Parra, phD</last_name>
+      <phone>55 2560 0809</phone>
+      <email>mercmarcpar@hotmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Guillermo M. Ruiz-Palacios, phD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto de Investigaciones aplicada a las Neurociencias (IIAN)</name>
+      <address>
+        <city>Durango</city>
+        <zip>34000</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>José Roberto Lazcano Soto, phD</last_name>
+      <phone>6181527904</phone>
+      <email>dr.lazcano.soto@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Guillermo M. Ruiz-Palacios, phD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Administración de Especialistas de Puebla S.C. (UDEP)</name>
+      <address>
+        <city>Puebla</city>
+        <zip>72160</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Maricruz Gutiérrez Brito, phD</last_name>
+      <phone>2221395624</phone>
+      <email>maricruz.gutierrez1910@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Guillermo M. Ruiz-Palacios, phD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Shifa International Hospital</name>
+      <address>
+        <city>Islamabad</city>
+        <state>Islamabad Capital Territory</state>
+        <zip>30001</zip>
+        <country>Pakistan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ejaz Ahmed Khan, phD</last_name>
+      <phone>+92518464646</phone>
+      <email>ejazkhan99@hotmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Aamer Ikram SI, phD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Shaukat Khanum Memorial Cancer Hospital and Research Centre</name>
+      <address>
+        <city>Lahore</city>
+        <state>Punajb</state>
+        <zip>54000</zip>
+        <country>Pakistan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Salma Abbas, phD</last_name>
+      <phone>+92323445110</phone>
+      <email>salmaabbas@skm.org.pk</email>
+    </contact>
+    <investigator>
+      <last_name>Aamer Ikram SI, phD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Health Scinces, Lahore</name>
+      <address>
+        <city>Lahore</city>
+        <state>Punjab</state>
+        <zip>999010</zip>
+        <country>Pakistan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Javed Akram, phD</last_name>
+      <phone>+9242111333366</phone>
+      <email>vc@uhs.edu.pk</email>
+    </contact>
+    <investigator>
+      <last_name>Aamer Ikram SI, phD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Aga Khan University Hospital</name>
+      <address>
+        <city>Karachi</city>
+        <state>Sindh</state>
+        <zip>999010</zip>
+        <country>Pakistan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Syed Faisal Mahmood, phD</last_name>
+      <phone>+92213486 2307</phone>
+      <email>faisal.mahmood@aku.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Aamer Ikram SI, phD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The Indus Hospital</name>
+      <address>
+        <city>Karachi</city>
+        <state>Sindh</state>
+        <zip>999010</zip>
+        <country>Pakistan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Naseem Salahudin, phD</last_name>
+      <phone>922135112709</phone>
+      <email>naseem.salahuddin@tih.org.pk</email>
+    </contact>
+    <investigator>
+      <last_name>Aamer Ikram SI, phD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Research Center Eco-safety</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <state>Saint-Petersburg</state>
+        <zip>191119</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Vasilyuk Vasily, PhD</last_name>
+      <phone>+7(812)500-5203</phone>
+      <email>vasi-vasilyk@yandex.ru</email>
+    </contact>
+    <investigator>
+      <last_name>Dmitry A Lioznov, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>OOO Meditsinskie Tekhnologii</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <state>Saint-Petersburg</state>
+        <zip>192148</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Nezabudkina Anna, PhD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Dmitry A Lioznov, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>OOO &quot;Baltijskaya Meditsina&quot;</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <state>Saint-Petersburg</state>
+        <zip>194356</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Bushara Maksim, PhD</last_name>
+      <phone>+7 812 670-03-03</phone>
+      <email>gcp@gcp.center</email>
+    </contact>
+    <investigator>
+      <last_name>Dmitry A Lioznov, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Research Center Eco-safety</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <state>Saint-Petersburg</state>
+        <zip>196143</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Zakharov Konstantin, PhD</last_name>
+      <phone>+7(812)500-5203</phone>
+      <email>konstantin.zakharov@mail.ru</email>
+    </contact>
+    <investigator>
+      <last_name>Dmitry A Lioznov, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Federal State Budgetary Institution &quot;Scientific Research Institute of Influenza named after A. A. Smorodintsev&quot; of the Ministry of Healthcare of the Russian Federation named after A. A. Smorodintsev&quot; of the Ministry of Healthcare of the Russian Federation</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <state>Saint-Petersburg</state>
+        <zip>197376</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lioznov Dmitry, PhD</last_name>
+      <phone>+7-921-909-51-03</phone>
+      <email>dlioznov@yandex.ru</email>
+    </contact>
+    <investigator>
+      <last_name>Dmitry A Lioznov, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Petersburg State Budgetary Healthcare Institution &quot;City Polyclinic #106&quot;</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <state>Saint-Petersburg</state>
+        <zip>198328</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Chizhov Danila, PhD</last_name>
+      <phone>+79219484438</phone>
+      <email>danila@chizhov.me</email>
+    </contact>
+    <investigator>
+      <last_name>Dmitry A Lioznov, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Saint-Petersburg State Healthcare Institution &quot;Nikolaev Hospital&quot;</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <state>Saint-Petersburg</state>
+        <zip>198510</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Malikov Alexey, PhD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Dmitry A Lioznov, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>OOO &quot;Piterclinica&quot;</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <state>Saint-Petersburg</state>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Pak Tatyana, PhD</last_name>
+      <phone>+7 (812) 309 57 56</phone>
+      <email>pte@list.ru</email>
+    </contact>
+    <investigator>
+      <last_name>Dmitry A Lioznov, PhD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>State Budgetary Healthcare Institution of Sverdlovsk Region &quot;Aramil City Hospital&quot;</name>
+      <address>
+        <city>Aramil</city>
+        <state>Sverdlovsk</state>
+        <zip>624002</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Evsina Mariya, PhD</last_name>
+      <phone>+7(34374) 3-18-98</phone>
+      <email>evsinam@mail.ru</email>
+    </contact>
+    <investigator>
+      <last_name>Dmitry A Lioznov, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Non-state Institution of Healthcare &quot;Road Clinical Hospital at Chelyabinsk station of open corporate society &quot;Russian Railways&quot;</name>
+      <address>
+        <city>Chelyabinsk</city>
+        <zip>454000</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Krasnopeeva Nata'ya, PhD</last_name>
+      <phone>7 (351) 906-77-21</phone>
+      <email>22natali88@mail.ru</email>
+    </contact>
+    <investigator>
+      <last_name>Dmitry A Lioznov, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>State Budgetary Educational Institution of Higher Professional Education &quot;Chita State Medical Academy&quot; of the Ministry of Healthcare of the Russian Federation</name>
+      <address>
+        <city>Chita</city>
+        <zip>672000</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Natalia Laryeva, PhD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Dmitry A Lioznov, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Federal State Budgetary Institution &quot;Main Military Clinical Hospital n.a. N.N. Burdenko&quot; Ministry of Defense of Russian Federation</name>
+      <address>
+        <city>Moscow</city>
+        <zip>105229</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Zaitsev Andrej, PhD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Dmitry A Lioznov, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Moscow State Budgetary Healthcare Institution &quot;City Polyclinic #2 of the Moscow City Healthcare Department&quot;</name>
+      <address>
+        <city>Moscow</city>
+        <zip>117556</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Fitilev Sergey, PhD</last_name>
+      <phone>+74997231630</phone>
+      <email>fitilevsb@yandex.ru</email>
+    </contact>
+    <investigator>
+      <last_name>Dmitry A Lioznov, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Health Central Clinical Hospital of Russian Academy of Sciences</name>
+      <address>
+        <city>Moscow</city>
+        <zip>117593</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Aleksandr Gofman, PhD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Dmitry A Lioznov, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Federal State Autonomous Educational Institution of Higher Education I.M. Sechenov First Moscow State Medical University of Ministry of Healthcare of the Russian Federation (Sechenovsky University)</name>
+      <address>
+        <city>Moscow</city>
+        <zip>119435</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Smolyarchuk Elena, PhD</last_name>
+      <phone>79164533274</phone>
+      <email>smolyarchuk@mail.ru</email>
+    </contact>
+    <investigator>
+      <last_name>Dmitry A Lioznov, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Private Healthcare Institution &quot;Central Clinical Hospital &quot;RZhD-Medicine&quot;</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Popov Vladimir, PhD</last_name>
+      <phone>+7 (495) 925-02-02</phone>
+      <email>clinpharmcb6@mail.ru</email>
+    </contact>
+    <investigator>
+      <last_name>Dmitry A Lioznov, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>State Regional Budgetary Healthcare Institution &quot;Murmansk Regional Clinical Hospital n.a.P.A. Bayandin&quot;</name>
+      <address>
+        <city>Murmansk</city>
+        <zip>183047</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Natalia Bakhtina, PhD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Dmitry A Lioznov, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>State Regional Autonomous Healthcare Institution &quot;Monchegorsk Central District Hospital&quot;</name>
+      <address>
+        <city>Murmansk</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Tatiana Zubkova, PhD</last_name>
+      <phone>7 (81536) 3-02-31</phone>
+      <email>tanya_l@bk.ru</email>
+    </contact>
+    <investigator>
+      <last_name>Dmitry A Lioznov, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Private Healthcare Institution &quot;Clinical Hospital &quot;RZHD-Meditsina&quot; of Nizhniy Novgorod&quot;</name>
+      <address>
+        <city>Nizhniy Novgorod</city>
+        <zip>603140</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Eremina Natalia, PhD</last_name>
+      <phone>8(831)2488705</phone>
+      <email>natalie.eremina@yandex.ru</email>
+    </contact>
+    <investigator>
+      <last_name>Dmitry A Lioznov, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>&quot;Life Benefits Service, Ltd'</name>
+      <address>
+        <city>Novosibirsk</city>
+        <zip>630091</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rybina Olga, PhD</last_name>
+      <phone>+79139513674</phone>
+      <email>olga.vic.rybina@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Dmitry A Lioznov, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Budgetary Institution of Heathcare of Omsk region &quot;City Clinical Hospital #1 n.a. Kabanova A.N.&quot;</name>
+      <address>
+        <city>Omsk</city>
+        <zip>644112</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Petrov Dmitrij, PhD</last_name>
+      <phone>+7-913-968-6947</phone>
+      <email>dmitrpetrov@bk.ru</email>
+    </contact>
+    <investigator>
+      <last_name>Dmitry A Lioznov, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Federal State Budgetary Educational Institution of Higher Education &quot;Perm State Medical University named after E.A. Vagnera&quot; Ministry of Healthcare of Russian Federation</name>
+      <address>
+        <city>Perm</city>
+        <zip>614070</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Feldblum Irina, PhD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Dmitry A Lioznov, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>OOO Zvyezdnaya Klinika</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <zip>196158</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sergeenko Artem, PhD</last_name>
+      <phone>8(872)407-32-32</phone>
+      <email>sergeenko.artem.md@list.ru</email>
+    </contact>
+    <investigator>
+      <last_name>Dmitry A Lioznov, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Limited Liability Company &quot;Hospital &quot;OrKli&quot;</name>
+      <address>
+        <city>Saint-Petersburg</city>
+        <zip>199178</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Zaitsev Andrej, PhD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Dmitry A Lioznov, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>OOO &quot;Tsentr DNK issledivaniy&quot;</name>
+      <address>
+        <city>Saratov</city>
+        <zip>410005</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Inna Gamova, PhD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Dmitry A Lioznov, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Federal State Budgetary Educational Institution of Higher Education &quot;Saratov State Medical University named after V.I. Razumovsky&quot; the Ministry of Health of the Russian Federation - Clinical hospital n.a. S.R.Mirotvortseva</name>
+      <address>
+        <city>Saratov</city>
+        <zip>410054</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Shvarts Yury, PhD</last_name>
+      <phone>+7 8452 56 02 95</phone>
+      <email>shwartz58@yandex.ru</email>
+    </contact>
+    <investigator>
+      <last_name>Dmitry A Lioznov, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>OOO &quot;Zdorovye&quot;</name>
+      <address>
+        <city>Tomsk</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Vorobyeva Elena, PhD</last_name>
+      <phone>+ 7 3822 90 22 13</phone>
+      <email>evvotob@mail.ru</email>
+    </contact>
+    <investigator>
+      <last_name>Dmitry A Lioznov, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>State Autonomous Healthcare Institution of Yaroslavl region &quot;Clinical Emergency Hospital named after N.V. Solovyev&quot;</name>
+      <address>
+        <city>Yaroslavl</city>
+        <zip>150003</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ershova Olga, PhD</last_name>
+      <phone>7-915-960-42-46</phone>
+      <email>yarosteoporosis@list.ru</email>
+    </contact>
+    <investigator>
+      <last_name>Dmitry A Lioznov, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Argentina</country>
+    <country>Chile</country>
+    <country>Mexico</country>
+    <country>Pakistan</country>
+    <country>Russian Federation</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>August 22, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 22, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">August 26, 2020</study_first_posted>
+  <last_update_submitted>January 21, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 21, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 22, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>vaccine</keyword>
+  <keyword>Ad5</keyword>
+  <keyword>Safety</keyword>
+  <keyword>Immunogencity</keyword>
+  <keyword>efficacy</keyword>
+  <keyword>adaptive design</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>Adenovirus Vector</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

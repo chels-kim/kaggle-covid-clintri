@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3553">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04581889</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Coro-Buddy</org_study_id>
+    <nct_id>NCT04581889</nct_id>
+  </id_info>
+  <brief_title>Prevalence of Antibodies Against SARS-CoV-2 Virus That Causes COVID-19 in Tübingen Children</brief_title>
+  <acronym>Coro-Buddy</acronym>
+  <official_title>Prospective, Seroepidemiological, Non-invasive Cohort Study in Tübingen Children Age-stratified by Nursery and School Attendance</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital Tuebingen</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Hospital Tuebingen</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a prospective, longitudinal study to determine the incidence of SARS-COV-2 infection&#xD;
+      in children and adolescents by measuring specific antibodies in non-invasive saliva sampled&#xD;
+      in kindergartens and schools in a defined city area. The study includes an additional arm to&#xD;
+      validate the ELISA for anti-SARS-COV-2 reactive antibody measurements in saliva compared&#xD;
+      against blood collected in adult volunteers in a bimonthly follow-up period for 12 months.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The world is confronting Coronavirus Disease-2019 (COVID-19) pandemic caused by SARS-CoV-2&#xD;
+      virus, which is causing many deaths and burden on intensive care facilities. Data regarding&#xD;
+      epidemiologic characteristics in children and young adults is limited, especially in the&#xD;
+      context of educational settings. Due to mild symptoms or even asymptomatic cases in children,&#xD;
+      the rate of SARS-CoV-2 infected children is underestimated. Therefore, the present study aims&#xD;
+      to determine the incidence of SARS-CoV-2 infection in children at 3 timepoints during 12&#xD;
+      months expressed as seroconversion measured in non-invasive saliva sampling in Tübingen, a&#xD;
+      defined study area. Children and adolescents (N = 1850) in the age of 1 to 17 years will be&#xD;
+      recruited via child-care, kindergarten and primary and secondary schools and followed-up for&#xD;
+      12 months: shortly after release of lock-down measures in summer 2020, before winter and&#xD;
+      after the winter. An adult cohort (adult comparator group) is sampled at the same time points&#xD;
+      for incidence comparisons. To validate the ELISA for SARS-CoV-2 antibody measurements in&#xD;
+      saliva compared to blood, and to understand the half-life of SARS-CoV-2 antibodies in&#xD;
+      respective body fluids, peripheral blood and in saliva will be sampled every 2 months in an&#xD;
+      additional adult group (adult validation group).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 2, 2020</start_date>
+  <completion_date type="Anticipated">December 2021</completion_date>
+  <primary_completion_date type="Anticipated">July 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of SARS-CoV-2 infection in infants, children and adolescents</measure>
+    <time_frame>12 months</time_frame>
+    <description>Identification of children that have been infected over different periods of time (summer, before winter and after winter) based on saliva samples</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of SARS-CoV-2</measure>
+    <time_frame>12 months</time_frame>
+    <description>Change of incidence of SARS-CoV-2 infection in children during 2020/2021</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>SARS-CoV-2 antibody persistence</measure>
+    <time_frame>12 months</time_frame>
+    <description>SARS-CoV-2 antibodies persistence in peripheral blood and saliva</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Antibodies presence in saliva samples</measure>
+    <time_frame>18 months</time_frame>
+    <description>Saliva samples as alternative for the detection of antibodies against SARS-CoV-2</description>
+  </other_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">2380</enrollment>
+  <condition>Severe Acute Respiratory Syndrome</condition>
+  <arm_group>
+    <arm_group_label>Children</arm_group_label>
+    <description>Children from1 to 18 years, enrolled in kindergartens, primary, or secondary school located in city of Tübingen, Germany.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Adult comparator</arm_group_label>
+    <description>Adults of unknown status of previous SARSCoV-2 infection.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Adult validation</arm_group_label>
+    <description>Adults who report a history of SARS-CoV-2 infections between 1. February 2020 and the time point of sampling.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Diagnostic test</intervention_name>
+    <description>Presence of antibodies in saliva</description>
+    <arm_group_label>Children</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Saliva, whole blood&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Group A: Kita cohort (any age, usually 1-3 years): N = 350 Group B: Kindergarten cohort&#xD;
+        (any age, usually 3-6 years): N = 350 Group C: Primary school cohort (any age, usually,&#xD;
+        6-10 years): N = 350 Group D: Secondary school, young cohort (class 5-8, any age, usually&#xD;
+        10 - 14 years): N =400 Group E: Secondary school, adolescent cohort (class 9-12, any age,&#xD;
+        usually 14 - 18 years): N = 400 Group F: Tübinger adults (&gt; 18 years): N = 400 (adult&#xD;
+        comparator group)&#xD;
+&#xD;
+        Adults (n = 80). Specifically, 40 adult individuals who had a previous confirmed SARS-CoV-2&#xD;
+        infection as well as 40 adults without previous SARS-CoV-2 infection at the start of the&#xD;
+        study.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Children from 1 months to 18 years&#xD;
+&#xD;
+          -  Written informed consent of the parent/legal guardian (study population is minor)&#xD;
+&#xD;
+          -  Written assent when children are ≥ 12 years&#xD;
+&#xD;
+          -  Enrolled in a kita, kindergarden, primary, or secondary school located in Tübingen&#xD;
+&#xD;
+        Adult population:&#xD;
+&#xD;
+          -  Individuals &gt;18 years who recovered from a confirmed SARS-CoV-2 infection.&#xD;
+&#xD;
+          -  Or individuals &gt; 18 years with an unknown status of previous SARS-CoV-2 infection&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Unwilling to give consent&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>1 Year</minimum_age>
+    <maximum_age>18 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Andrea Kreidenweiss, Dr.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University Hospital Tübingen</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Jana Held, Dr</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University Hospital Tübingen</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Yudi Tatiana Röckl-Pinilla, Dr.</last_name>
+    <phone>01762844311</phone>
+    <email>tatiana.roeckl-pinilla@uni-tuebingen.de</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Andrea Kreidenweiss, Dr.</last_name>
+    <phone>+4907071 2985569</phone>
+    <email>andrea.kreidenweiss@uni-tuebingen.de@uni-tuebingen.de</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Institute of Tropical Medicine</name>
+      <address>
+        <city>Tübingen</city>
+        <state>Deutschland</state>
+        <zip>72074</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yudi Tatiana Röckl-Pinilla, Dr.</last_name>
+      <phone>+49070712844311</phone>
+      <email>tatiana.roeckl-pinilla@uni-tuebingen.de</email>
+    </contact>
+    <contact_backup>
+      <last_name>Andrea Kreidenweiss, Dr.</last_name>
+      <phone>+4907071 2585569</phone>
+      <email>andrea.kreidenweiss@uni-tuebingen.de</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Andrea Kreidenweiss, Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Jana Held, Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Rolf Fendel, Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+  </location_countries>
+  <reference>
+    <citation>Hong H, Wang Y, Chung HT, Chen CJ. Clinical characteristics of novel coronavirus disease 2019 (COVID-19) in newborns, infants and children. Pediatr Neonatol. 2020 Apr;61(2):131-132. doi: 10.1016/j.pedneo.2020.03.001. Epub 2020 Mar 10.</citation>
+    <PMID>32199864</PMID>
+  </reference>
+  <reference>
+    <citation>Zimmermann P, Curtis N. COVID-19 in Children, Pregnancy and Neonates: A Review of Epidemiologic and Clinical Features. Pediatr Infect Dis J. 2020 Jun;39(6):469-477. doi: 10.1097/INF.0000000000002700. Review.</citation>
+    <PMID>32398569</PMID>
+  </reference>
+  <reference>
+    <citation>Bi Q, Wu Y, Mei S, Ye C, Zou X, Zhang Z, Liu X, Wei L, Truelove SA, Zhang T, Gao W, Cheng C, Tang X, Wu X, Wu Y, Sun B, Huang S, Sun Y, Zhang J, Ma T, Lessler J, Feng T. Epidemiology and transmission of COVID-19 in 391 cases and 1286 of their close contacts in Shenzhen, China: a retrospective cohort study. Lancet Infect Dis. 2020 Aug;20(8):911-919. doi: 10.1016/S1473-3099(20)30287-5. Epub 2020 Apr 27. Erratum in: Lancet Infect Dis. 2020 Jul;20(7):e148.</citation>
+    <PMID>32353347</PMID>
+  </reference>
+  <reference>
+    <citation>Macartney K, Quinn HE, Pillsbury AJ, Koirala A, Deng L, Winkler N, Katelaris AL, O'Sullivan MVN, Dalton C, Wood N; NSW COVID-19 Schools Study Team. Transmission of SARS-CoV-2 in Australian educational settings: a prospective cohort study. Lancet Child Adolesc Health. 2020 Nov;4(11):807-816. doi: 10.1016/S2352-4642(20)30251-0. Epub 2020 Aug 3.</citation>
+    <PMID>32758454</PMID>
+  </reference>
+  <reference>
+    <citation>Perera RA, Mok CK, Tsang OT, Lv H, Ko RL, Wu NC, Yuan M, Leung WS, Chan JM, Chik TS, Choi CY, Leung K, Chan KH, Chan KC, Li KC, Wu JT, Wilson IA, Monto AS, Poon LL, Peiris M. Serological assays for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), March 2020. Euro Surveill. 2020 Apr;25(16). doi: 10.2807/1560-7917.ES.2020.25.16.2000421.</citation>
+    <PMID>32347204</PMID>
+  </reference>
+  <reference>
+    <citation>To KK, Tsang OT, Yip CC, Chan KH, Wu TC, Chan JM, Leung WS, Chik TS, Choi CY, Kandamby DH, Lung DC, Tam AR, Poon RW, Fung AY, Hung IF, Cheng VC, Chan JF, Yuen KY. Consistent Detection of 2019 Novel Coronavirus in Saliva. Clin Infect Dis. 2020 Jul 28;71(15):841-843. doi: 10.1093/cid/ciaa149.</citation>
+    <PMID>32047895</PMID>
+  </reference>
+  <reference>
+    <citation>Azzi L, Carcano G, Gianfagna F, Grossi P, Gasperina DD, Genoni A, Fasano M, Sessa F, Tettamanti L, Carinci F, Maurino V, Rossi A, Tagliabue A, Baj A. Saliva is a reliable tool to detect SARS-CoV-2. J Infect. 2020 Jul;81(1):e45-e50. doi: 10.1016/j.jinf.2020.04.005. Epub 2020 Apr 14.</citation>
+    <PMID>32298676</PMID>
+  </reference>
+  <reference>
+    <citation>Hettegger P, Huber J, Paßecker K, Soldo R, Kegler U, Nöhammer C, Weinhäusel A. High similarity of IgG antibody profiles in blood and saliva opens opportunities for saliva based serology. PLoS One. 2019 Jun 20;14(6):e0218456. doi: 10.1371/journal.pone.0218456. eCollection 2019.</citation>
+    <PMID>31220138</PMID>
+  </reference>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>October 7, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 8, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 9, 2020</study_first_posted>
+  <last_update_submitted>October 12, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 12, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 14, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>antibodies</keyword>
+  <keyword>saliva</keyword>
+  <keyword>children</keyword>
+  <keyword>epidemiology</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

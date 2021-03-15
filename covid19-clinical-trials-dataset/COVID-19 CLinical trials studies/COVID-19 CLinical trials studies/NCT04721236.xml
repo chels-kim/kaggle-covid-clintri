@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1797">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04721236</url>
+  </required_header>
+  <id_info>
+    <org_study_id>100490/2020</org_study_id>
+    <nct_id>NCT04721236</nct_id>
+  </id_info>
+  <brief_title>Early Use of Hyperimmune Plasma in COVID-19</brief_title>
+  <acronym>COV-II-PLA</acronym>
+  <official_title>COVID-19 Wave II Study for Assessing the Early Use of Hyperimmune Plasma for the Treatment of COVID-19 Patients Needing Non-invasive or Invasive Mechanical Ventilation</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Catherine Klersy</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Policlinico San Matteo Pavia Fondazione IRCCS</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>IRCCS Policlinico S. Matteo</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study assesses the efficacy of early administration of hyperimmune plasma in covid-19&#xD;
+      patients who are on CPAP or intubated. Efficacy is measured as a 2 point decrease in the WHO&#xD;
+      scale&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Patients who satisfy eligibility criteria and in particular have started positive pressure&#xD;
+      respiratory support not more than no more than 48 hours are administered 200 to 300 ml in 2&#xD;
+      or 3 times administered over a time window of 5 days. . Plasma titration will depend on the&#xD;
+      availability in the local Plasma Bank; any titre ≥ 1:80 will be acceptable. primary endpoint&#xD;
+      will be assessed at 28 days; vital status will be further investigated at 3 and 6 months.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 19, 2020</start_date>
+  <completion_date type="Anticipated">May 19, 2022</completion_date>
+  <primary_completion_date type="Anticipated">November 19, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>a multiple center, one arm clinical trial</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Clinical improvement (efficacy)</measure>
+    <time_frame>28 days</time_frame>
+    <description>Clinical improvement is obtained when a patient decreases his/her score by 2 points on the ten-category ordinal WHO scale or is discharged alive from the hospital, whichever comes first. The WHO scale is chosen in accordance with the &quot;Clinical Characterisation and Management Working Group of the WHO Research and Development Blueprint programme&quot; recently published in Lancet Infectious Diseases (WHO, 2020).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>ventilation</measure>
+    <time_frame>Days: from 0 to 7, 14 and 28</time_frame>
+    <description>Ventilator-free days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>WHO (World Health Organization) scale</measure>
+    <time_frame>From day 0 to 28 days</time_frame>
+    <description>WHO scale score reached. Minimum score is 0: unifected (no viral RNA detected); maximum score 10 (dead)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SOFA (Sequential Organ Failure Assessment) score</measure>
+    <time_frame>Days: from 0 to 7, 14 and 28</time_frame>
+    <description>Sequential Organ Failure Assessment Score (SOFA score). This score is used to determine the extent of a person's organ function or rate of failure, from 0 to 24, with severity increasing with higher the scores</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>naso-pharyngeal swab</measure>
+    <time_frame>Days: from 0 to 7, 14 and 28</time_frame>
+    <description>Time to a negative SARS-COV2 naso-pharyngeal swab for upper respiratory tract or BAL/BRASP for lower respiratory</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV2</measure>
+    <time_frame>28 days</time_frame>
+    <description>Log10 change in SARS-CoV2</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>P/F</measure>
+    <time_frame>Days: from 0 to 7, 14 and 28</time_frame>
+    <description>P/F ratio. P/F is the ratio of arterial oxygen partial pressure (PaO2 in mmHg) to fractional inspired oxygen (FiO2 expressed as a fraction, not a percentage)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>thrombosis</measure>
+    <time_frame>Days: from 0 to 7, 14 and 28</time_frame>
+    <description>Occurrence of deep vein thrombosis or pulmonary embolism assessed using the most appropriate imaging approach</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>curarization</measure>
+    <time_frame>Days: from 0 to 7, 14 and 28</time_frame>
+    <description>Total duration of mechanical ventilation, ventilatory weaning and curarisation in days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>complication kidney</measure>
+    <time_frame>Days: from 0 to 7, 14 and 28</time_frame>
+    <description>KDIGO score Kidney Disease: Improving Global Outcomes (KDIGO)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>complication lung</measure>
+    <time_frame>Days: from 0 to 7, 14 and 28</time_frame>
+    <description>Occurrence of ventilator-acquired pneumonia - Radiological and clinical context associated with a bacteriological sampling in culture of tracheal secretions, bronchiolar-alveolar lavage or a protected distal sampling</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Leucocytes</measure>
+    <time_frame>Days: from 0 to 7, 14 and 28</time_frame>
+    <description>Biological efficacy endpoints: Leucocytes (x10^3/ul)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lymphocytes</measure>
+    <time_frame>Days: from 0 to 7, 14 and 28</time_frame>
+    <description>Biological efficacy endpoints: Lymphocytes (x10^3/ul)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>C-reactive protein</measure>
+    <time_frame>Days: from 0 to 7, 14 and 28</time_frame>
+    <description>Biological efficacy endpoints: C-reactive protein (mg/dL)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>D-dimer</measure>
+    <time_frame>Days: from 0 to 7, 14 and 28</time_frame>
+    <description>Biological efficacy endpoints: D-dimer (ug/L)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Troponin I (TnI)</measure>
+    <time_frame>Days: from 0 to 7, 14 and 28</time_frame>
+    <description>Biological efficacy endpoints: TNI (ng/L)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PCTI (Procalcitonin) (ng/mL)</measure>
+    <time_frame>Days: from 0 to 7, 14 and 28</time_frame>
+    <description>Biological efficacy endpoints: PCTI (Procalcitonin) (ng/mL)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ferritin</measure>
+    <time_frame>Days: from 0 to 7, 14 and 28</time_frame>
+    <description>Biological efficacy endpoints: Ferritin (ng/ml)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Albumin</measure>
+    <time_frame>Days: from 0 to 7, 14 and 28</time_frame>
+    <description>Biological efficacy endpoints: Albumin (mg/dL)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>LDH</measure>
+    <time_frame>Days: from 0 to 7, 14 and 28</time_frame>
+    <description>Biological efficacy endpoints: LDH (mU/mL)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lung Ultrasound Score (LUS)</measure>
+    <time_frame>Days: from 0 to 7, 14 , 28 and 6 months</time_frame>
+    <description>Total Lung Ultrasound Score S score</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ecmo</measure>
+    <time_frame>28 days</time_frame>
+    <description>Occurrence of ECMO implant</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>death</measure>
+    <time_frame>28 days, 3 and 6 months</time_frame>
+    <description>All cause mortality</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>hospitalization</measure>
+    <time_frame>28 days</time_frame>
+    <description>days total hospitalization and of ICU hospitalization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lung Function tests</measure>
+    <time_frame>6 months</time_frame>
+    <description>Lung Function tests</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>High resolution computed tomography (HRCT)</measure>
+    <time_frame>6 months</time_frame>
+    <description>HRCT findings of the thorax</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Improvement mortality</measure>
+    <time_frame>28 days</time_frame>
+    <description>rate of clinical improvement and mortality between the patients in the study and the cohort enrolled in the local SMACORE registry</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">300</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Single</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>hyperimmune plasma with titre 1:80 or more</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>hyperimmune plasma</intervention_name>
+    <description>plasma collected from convalescent Covid-19 donors with titre 1:80 or more</description>
+    <arm_group_label>Single</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Written informed consent prior to performing study procedures. Witnessed oral consent&#xD;
+             will be accepted in order to avoid paper handling. Written consent by patient or&#xD;
+             representatives will be obtained as soon as possible.&#xD;
+&#xD;
+          2. Male or female adult patient ≥18 years of age at time of enrolment.&#xD;
+&#xD;
+          3. Laboratory-confirmed SARS-CoV-2 infection as determined by real-time RT-PCR in&#xD;
+             naso/oropharyngeal swabs or any other relevant specimen..&#xD;
+&#xD;
+          4. Patient is hospitalized for COVID-19, is severely hypoxic with a P/F ≤ 200 while&#xD;
+             breathing room air or supplemental oxygen and requires positive pressure respiratory&#xD;
+             support, either non-invasive (helmet/mask CPAP or NIV) or invasive (endotracheal&#xD;
+             intubation and mechanical ventilation)&#xD;
+&#xD;
+          5. No more than 48 hours between the onset of positive pressure respiratory support and&#xD;
+             treatment administration day&#xD;
+&#xD;
+          6. Evidence of pulmonary infiltrates at chest imaging (chest x-ray, CT scan or LUS)&#xD;
+&#xD;
+          7. The patient is not eligible in the Tsunami trial.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Participation in any other clinical trial of an experimental treatment for COVID-19.&#xD;
+&#xD;
+          2. In the opinion of the clinical team, progression to death is imminent and inevitable&#xD;
+             within the next 24 hours, irrespective of the provision of treatments.&#xD;
+&#xD;
+          3. Stage 4 severe chronic kidney disease or requiring dialysis (i.e. eGFR &lt;30).&#xD;
+&#xD;
+          4. Pregnancy&#xD;
+&#xD;
+          5. Current documented and uncontrolled bacterial infection.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Francesco Mojoli, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Fondazione IRCCS Policlinico San Matteo</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>catherine klersy, MD</last_name>
+    <phone>+390382503557</phone>
+    <email>c.klersy@smatteo.pv.it</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Valeria Musella, PhD</last_name>
+    <phone>+390382503017</phone>
+    <email>v.musella@smatteo.pv.it</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Catherine Klersy</name>
+      <address>
+        <city>Pavia</city>
+        <zip>27100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>catherine klersy</last_name>
+      <phone>+390382503557</phone>
+      <email>c.klersy@smatteo.pv.it</email>
+    </contact>
+    <contact_backup>
+      <last_name>Valeria Musella</last_name>
+      <phone>+390382503017</phone>
+      <email>v.musella@smatteo.pv.it</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Francesco Mojoli, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>January 20, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 21, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 22, 2021</study_first_posted>
+  <last_update_submitted>January 21, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 21, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 22, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>IRCCS Policlinico S. Matteo</investigator_affiliation>
+    <investigator_full_name>Catherine Klersy</investigator_full_name>
+    <investigator_title>Study Statistician</investigator_title>
+  </responsible_party>
+  <keyword>hyperimmune plasma</keyword>
+  <keyword>positive pressure respiratory support</keyword>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>may be available upon motivated requesto to PI</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3426">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04720378</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ST266-CRS-101</org_study_id>
+    <nct_id>NCT04720378</nct_id>
+  </id_info>
+  <brief_title>Safety and Tolerability Study of IV ST266 in COVID-19 Subjects</brief_title>
+  <official_title>A Phase 1, Multi-Center, Open-Label, Safety and Tolerability Study of Intravenous Administration of ST266 in Subjects With Confirmed COVID-19 Infection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Noveome Biotherapeutics, formerly Stemnion</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>IQVIA Biotech</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Noveome Biotherapeutics, formerly Stemnion</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary aim of the study is to evaluate the safety and tolerability of open-label ST266&#xD;
+      given to subjects with confirmed COVID-19 infection through IV administration once a day of 5&#xD;
+      consecutive days.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This clinical trial will utilize a 3+3 enrollment design with sentinel approach.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 2021</start_date>
+  <completion_date type="Anticipated">August 2021</completion_date>
+  <primary_completion_date type="Anticipated">August 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence and Severity of Treatment-Emergent Adverse Events</measure>
+    <time_frame>3 months</time_frame>
+    <description>Determine the incidence and severity of treatment-emergent adverse events related to the IV administration of ST266 based on findings from physical examinations, laboratory evaluations, vital signs, and ECG measurements.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Pulse Oximetry</measure>
+    <time_frame>14 days</time_frame>
+    <description>Percent improvement in pulse oximetry from Baseline to Day 14</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fever</measure>
+    <time_frame>14 days</time_frame>
+    <description>Time to resolution of fever</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical Status on Ordinal Scale</measure>
+    <time_frame>14 days</time_frame>
+    <description>Improvement or absence of worsening in clinical status on WHO 7-point ordinal scale from baseline to Day 14</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>TNFα at Day 6</measure>
+    <time_frame>6 days</time_frame>
+    <description>Change in TNFα from Baseline through Day 6</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>IL- 1β at Day 6</measure>
+    <time_frame>6 days</time_frame>
+    <description>Change in IL- 1β from Baseline through Day 6</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>IL-6 at Day 6</measure>
+    <time_frame>6 days</time_frame>
+    <description>Change in IL-6 from Baseline through Day 6</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>TNFα at Day 14</measure>
+    <time_frame>14 days</time_frame>
+    <description>Change in TNFα from Baseline through Day 14</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>IL- 1β at Day 14</measure>
+    <time_frame>14 days</time_frame>
+    <description>Change in IL- 1β from Baseline through Day 14</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>IL-6 at Day 14</measure>
+    <time_frame>14 days</time_frame>
+    <description>Change in IL-6 from Baseline through Day 14</description>
+  </other_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">12</enrollment>
+  <condition>Cytokine Release Syndrome</condition>
+  <arm_group>
+    <arm_group_label>Cohort 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>0.1 ml/kg IV ST266 once a day for 5 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>0.25 ml/kg IV ST266 once a day for 5 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>0.5 ml/kg IV ST266 once a day for 5 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 4</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>1.0 ml/kg IV ST266 once a day for 5 days</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>ST266</intervention_name>
+    <description>1X ST266</description>
+    <arm_group_label>Cohort 1</arm_group_label>
+    <arm_group_label>Cohort 2</arm_group_label>
+    <arm_group_label>Cohort 3</arm_group_label>
+    <arm_group_label>Cohort 4</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Males and non-pregnant/non-breastfeeding females age 18-70 years of age.&#xD;
+&#xD;
+          2. Laboratory confirmed SARS-CoV-2 infection determined by PCR or other commercial/public&#xD;
+             health assay (test results must be obtained during the 7-day screening visit window).&#xD;
+&#xD;
+          3. BMI between 18 and 39 inclusive, with a maximum weight of 150 kg (330lbs).&#xD;
+&#xD;
+          4. Asymptomatic or mildly symptomatic COVID-19 positive subject with a score of 1 or 2 on&#xD;
+             the WHO 7-point ordinal scale&#xD;
+&#xD;
+          5. Subjects with pulse oximetry of &gt; 94% on room air&#xD;
+&#xD;
+          6. Subjects have controlled blood pressure of &lt; 160/100 mmHg or systolic BP &gt; 90 mmHg (or&#xD;
+             20 mmHg less than usual range, whichever is higher)&#xD;
+&#xD;
+          7. Subjects with pulse &lt; 120 bpm&#xD;
+&#xD;
+          8. Willingness and ability to comply with study-related procedures and assessments.&#xD;
+&#xD;
+          9. If female, subjects must use an effective method of birth control or abstain from&#xD;
+             sexual relations with a male partner (unless has undergone tubal ligation or is 1 year&#xD;
+             postmenopausal) for their duration of study participation.&#xD;
+&#xD;
+         10. If male, subjects must use an effective method of birth control or abstain from sexual&#xD;
+             relations with a female partner (unless has undergone a vasectomy and it has been more&#xD;
+             than 6 months) for their duration of study participation.&#xD;
+&#xD;
+         11. Subject or subject's legal representative provides written consent prior to the&#xD;
+             initiation of any Screening or study specific procedures.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Subjects requiring immediate admission to the hospital due to complications of&#xD;
+             COVID-19 infection.&#xD;
+&#xD;
+          2. Subject has an untreated active bacterial, fungal, viral or other infection not&#xD;
+             related to COVID-19 infection.&#xD;
+&#xD;
+          3. Subjects with chronic lung diseases of any etiology including idiopathic pulmonary&#xD;
+             fibrosis, Tuberculosis, COPD, persistent asthma, and pulmonary hypertension.&#xD;
+&#xD;
+          4. Subjects with a severe history of cardiac disease (such as congestive heart failure,&#xD;
+             coronary artery disease, cardiac arrythmia)&#xD;
+&#xD;
+          5. Subjects with a history of neurological disorders (such as epilepsy, stroke,&#xD;
+             encephalopathy, Guillain-Barré syndrome)&#xD;
+&#xD;
+          6. Subjects with D-dimer &gt; 2 ug/mL&#xD;
+&#xD;
+          7. Subjects with fibrinogen &gt; 5g/L&#xD;
+&#xD;
+          8. Subjects with a history of coagulopathy or currently taking anti-coagulation&#xD;
+             medication&#xD;
+&#xD;
+          9. Subjects with PTT ≥ 100s or INR ≥ 2.75&#xD;
+&#xD;
+         10. Malignancy in the last 5 years (except successfully treated basal cell carcinoma).&#xD;
+&#xD;
+         11. Stage 4 severe chronic kidney disease or requiring dialysis (i.e., eGFR &lt; 30).&#xD;
+&#xD;
+         12. Subjects with a reactive or positive screening test result For Hepatitis A virus&#xD;
+             immunoglobulin M (HAV IgM), Hepatitis B Surface Antigen (HBsAg), Hepatitis C Virus&#xD;
+             Antibody (HCVAb) or Human Immunodeficiency Virus Antibody (HIVAb).&#xD;
+&#xD;
+         13. TBIL&gt; 2×ULN, ALT &gt; 3×ULN, AST&gt; 3×ULN, or ALP&gt; 3×ULN.&#xD;
+&#xD;
+         14. Neutrophils &lt;1000/mm3, PLT&lt;50×10^9/L, or HGB&lt;8g/L&#xD;
+&#xD;
+         15. Previous participation in any other clinical trial for the treatment for COVID-19.&#xD;
+&#xD;
+         16. Subject actively participating in any other clinical study (with the exception of&#xD;
+             observational studies where there is no intervention with an investigational product&#xD;
+             or device)&#xD;
+&#xD;
+         17. Use of anti-cancer or immunomodulatory biological drug or kinase inhibitor (e.g.,&#xD;
+             tocilizumab, sarilumab) or, JAK inhibitors (within 30 days of enrollment or five times&#xD;
+             the half-life [whichever is longer]).&#xD;
+&#xD;
+         18. Chronic glucocorticosteroid use equivalent to daily oral prednisone &gt; 10 mg per day&#xD;
+             (10 mg oral prednisone every other day is allowed).&#xD;
+&#xD;
+         19. Live (live-attenuated) vaccines are not permitted within 2 weeks prior to enrollment&#xD;
+             or during the study treatment and safety follow-up periods (with the exception of the&#xD;
+             Flu vaccine which is allowed at any time)&#xD;
+&#xD;
+         20. Subject is pregnant or breastfeeding or plans to become pregnant within 12 months.&#xD;
+&#xD;
+         21. Subjects with a history of alcohol or drug abuse or dependence, or the use of illicit&#xD;
+             drugs such as medical marijuana within the 12 months prior to Screening.&#xD;
+&#xD;
+         22. Subject is considered by the Investigator, for any reason, to be an unsuitable&#xD;
+             candidate for the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>David L Steed, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Noveome Biotherapeutics, Inc</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>David L Steed, MD</last_name>
+    <phone>4124029913</phone>
+    <email>dsteed@noveome.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Anne Urling</last_name>
+    <phone>4124029976</phone>
+    <email>aurling@noveome.com</email>
+  </overall_contact_backup>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>January 21, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 21, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 22, 2021</study_first_posted>
+  <last_update_submitted>January 21, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 21, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 25, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

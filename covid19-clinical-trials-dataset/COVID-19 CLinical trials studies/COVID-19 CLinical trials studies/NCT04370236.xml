@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2118">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04370236</url>
+  </required_header>
+  <id_info>
+    <org_study_id>INB03-COVID-19_01</org_study_id>
+    <nct_id>NCT04370236</nct_id>
+  </id_info>
+  <brief_title>INB03 for the Treatment of Pulmonary Complications From COVID-19</brief_title>
+  <official_title>A Multicenter, Double-Blind, Randomized, Placebo-Controlled Trial of INB03 in the Treatment of Participants With Pulmonary Complications From Coronavirus Disease (COVID-19)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Inmune Bio, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Inmune Bio, Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to determine whether XPro1595 can prevent the progression of&#xD;
+      respiratory complications in COVID19 patients.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The trial is a Phase 2, double-blind, randomized, placebo-controlled clinical trial of INB03&#xD;
+      in participants with pulmonary complications due to COVID-19 infection.&#xD;
+&#xD;
+      Patients with COVID-19 infection and low blood oxygen levels with at least one high risk&#xD;
+      factor (see below) are eligible to participate in a 40-day study to determine whether INB03&#xD;
+      can prevent the progression of pulmonary complications.&#xD;
+&#xD;
+      Eligible participants will be randomized (1:1) to receive either INB03 + standard of care&#xD;
+      (SOC) or Placebo + SOC. Participants randomized to INB03 + SOC will receive a 1mg/kg&#xD;
+      injection of INB03 after randomization. Patients that remain in the hospital 7 days after the&#xD;
+      first dose will receive a second dose. A final safety visit will occur on Day 70.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 21, 2020</start_date>
+  <completion_date type="Anticipated">February 2021</completion_date>
+  <primary_completion_date type="Anticipated">February 2021</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Placebo + Standard of Care vs. INB03 + Standard of Care</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of participants with disease progression from randomization to 28 days post-randomization</measure>
+    <time_frame>28 days</time_frame>
+    <description>Disease progression is defined by the development of need for mechanical ventilation or death. Mechanical ventilation includes CPAP, BIPAP or mechanical ventilation requiring intubation.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants with all-cause mortality</measure>
+    <time_frame>28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants who transfer to ICU level care by Day 28 (ICU level care is defined as a hospital setting where patient to nurse ratio is &lt; 4);</measure>
+    <time_frame>28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants with a new onset of neurologic disease (requiring medical intervention), including stroke by Day 28;</measure>
+    <time_frame>28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants with evidence of new CHF or new MI requiring medical intervention by Day 28;</measure>
+    <time_frame>28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants with a new onset embolus or thrombus by Day 28;</measure>
+    <time_frame>28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants who develop a need for renal replacement therapy (defined as need for any type of dialysis including intermittent or continuous peritoneal or hemodialysis) by Day 28;</measure>
+    <time_frame>28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants with an increase in the WHO Ordinal Scale of Clinical Improvement score at any time during the study;</measure>
+    <time_frame>28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of hospital stay defined as the number of days in hospital from time of randomization to time of discharge or death, whichever occurs first;</measure>
+    <time_frame>28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in inflammation markers over time.</measure>
+    <time_frame>28 days</time_frame>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Incidence of adverse events and serious adverse events not due to underlying disease</measure>
+    <time_frame>28 days</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Incidence of abnormal findings in clinical safety laboratory parameters, vital signs, and ECGs.</measure>
+    <time_frame>28 days</time_frame>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">366</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Placebo + Standard of Care</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Patients will receive placebo + standard medical care</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>INB03 + Standard of Care</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients will receive INB03 + standard medical care</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>INB03</intervention_name>
+    <description>Patients will receive up to two once per week subcutaneous injections of 1mg/kg INB03</description>
+    <arm_group_label>INB03 + Standard of Care</arm_group_label>
+    <other_name>DN-TNF, XPro1595, XENP345, Quellor</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Patients will receive up to two once per week subcutaneous injections of Placebo</description>
+    <arm_group_label>Placebo + Standard of Care</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Have one or more of the following comorbidities:&#xD;
+&#xD;
+               1. Age ≥ 65 years;&#xD;
+&#xD;
+               2. Obesity (BMI ≥ 30);&#xD;
+&#xD;
+               3. Hypertension (on one or more drugs for treatment of hypertension);&#xD;
+&#xD;
+               4. Diabetes (on one or more drugs for Type I or Type II diabetes);&#xD;
+&#xD;
+               5. Cardiovascular disease (on one or more drugs for treatment of cardiovascular&#xD;
+                  disease, other than aspirin);&#xD;
+&#xD;
+               6. History of congestive heart failure (CHF) or myocardial infarction (MI);&#xD;
+&#xD;
+               7. Black or African-American race (at least one parent identifies as Black or&#xD;
+                  African-American);&#xD;
+&#xD;
+               8. Hispanic or Latino ethnicity.&#xD;
+&#xD;
+          2. Have a positive COVID-19 test in the last 28 days;&#xD;
+&#xD;
+          3. Have room air SaO2 &lt; 96%, or SpO2 &lt; 96% on room air at sea level, or PaO2/FiO2 &lt; 300;&#xD;
+&#xD;
+          4. Have abnormal chest X-ray, MRI or CT scan consistent with pulmonary complications from&#xD;
+             COVID-19;&#xD;
+&#xD;
+          5. Provide written informed consent prior to any study related procedures being&#xD;
+             performed.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Participants will be excluded from the study if 1 or more of the following criteria are&#xD;
+        applicable at Screening:&#xD;
+&#xD;
+          1. Age &lt; 18 years;&#xD;
+&#xD;
+          2. Require immediate intubation due to advanced respiratory failure - including&#xD;
+             continuous positive airway pressure (CPAP) and bi-level positive airway pressure&#xD;
+             (BIPAP);&#xD;
+&#xD;
+          3. Require immediate admission to an Intensive Care Unit (ICU) for any reason;&#xD;
+&#xD;
+          4. On therapy with approved TNF inhibitor (eg: infliximab, etanercept, adalimumab,&#xD;
+             certolizumab pegol, golimumab, thalidomide, etc) in the last 6 months;&#xD;
+&#xD;
+          5. Being treated with dexamethasone (IV or PO) at a dose of &gt;15mg per day or solumedrol&#xD;
+             or equivalent corticosteroid at a dose of &gt;75mg per day;&#xD;
+&#xD;
+          6. Taking any medication known to be CCR5 receptor antagonist (eg: leronlimab, aplaviroc,&#xD;
+             vicriviroc or maraviroc) in the last 6 months;&#xD;
+&#xD;
+          7. Taking any medication known to inhibit the cytokine pathway (eg: anakinra,&#xD;
+             tocilizumab, siltuximab, etc) in the last 6 months;&#xD;
+&#xD;
+          8. Known to be pregnant;&#xD;
+&#xD;
+          9. Has known HIV, HCV or HBV infection;&#xD;
+&#xD;
+         10. Has known Mycobacterium tuberculosis infection or evidence of infection on chest&#xD;
+             X-ray;&#xD;
+&#xD;
+         11. Significant hepatic disease (ALT/AST&gt; 4 times the ULN);&#xD;
+&#xD;
+         12. On therapy for cancer in the last 6 months;&#xD;
+&#xD;
+         13. On therapy for organ transplant in the last 6 months or on a waiting list for organ&#xD;
+             transplant, including patients on renal replacement therapy for any reason;&#xD;
+&#xD;
+         14. Known hypersensitivity to investigational product or its excipients;&#xD;
+&#xD;
+         15. Participating in an investigational drug or device trial;&#xD;
+&#xD;
+         16. Congestive heart failure (CHF) or myocardial infarction (MI) diagnosed in the last 2&#xD;
+             months.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Raymond Tesi, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Inmune Bio, Inc.</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Christopher Barnum, PhD</last_name>
+    <phone>+1 (858) 964-3720</phone>
+    <email>trials@inmunebio.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>NEA Baptist</name>
+      <address>
+        <city>Jonesboro</city>
+        <state>Arkansas</state>
+        <zip>72401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Steven Stroud</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>St. Bernard's</name>
+      <address>
+        <city>Jonesboro</city>
+        <state>Arkansas</state>
+        <zip>72401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>John Norwood</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Jewish Hospital</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Naresh Solankhi</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Mississippi Baptist</name>
+      <address>
+        <city>Kosciusko</city>
+        <state>Mississippi</state>
+        <zip>39090</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Maria Rappai</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Baptist Memorial Hospital-DeSoto</name>
+      <address>
+        <city>Southard</city>
+        <state>Missouri</state>
+        <zip>38671</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Istvan Wollak</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Richmond University Medical Center</name>
+      <address>
+        <city>Staten Island</city>
+        <state>New York</state>
+        <zip>10312</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jay Nfonoyim</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Baptist Clinical Research Institute</name>
+      <address>
+        <city>Memphis</city>
+        <state>Tennessee</state>
+        <zip>38120</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jeffrey Wright</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Hermann</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Alan Skolnick</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Hermann Southeast</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77089</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Adnan Rafiq</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.inmunebio.com</url>
+    <description>Related Info</description>
+  </link>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>April 29, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 29, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 30, 2020</study_first_posted>
+  <last_update_submitted>February 3, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 3, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 5, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>TNF</keyword>
+  <keyword>XPro1595</keyword>
+  <keyword>DN-TNF</keyword>
+  <keyword>cytokine storm</keyword>
+  <keyword>Quellor</keyword>
+  <keyword>Anti-TNF</keyword>
+  <keyword>Anti-TNF therapy</keyword>
+  <keyword>TNF inhibitor</keyword>
+  <keyword>INB03</keyword>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1391">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04721535</url>
+  </required_header>
+  <id_info>
+    <org_study_id>DW_DWJ1248303</org_study_id>
+    <nct_id>NCT04721535</nct_id>
+  </id_info>
+  <brief_title>A Study of DWJ1248 in Prevention of COVID-19 Infection After the Exposure of SARS-COV-2</brief_title>
+  <official_title>A Randomized Double-blinded Controlled Clinical Trial of DWJ1248 in Prevention of COVID-19 Infection After the Exposure of SARS-COV-2</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Daewoong Pharmaceutical Co. LTD.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Daewoong Pharmaceutical Co. LTD.</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To evaluate the prevention of SARS-COV-2 infection after administration of DWJ1248 in person&#xD;
+      who contact from COVID-19 confirmed patient compared to the placebo.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 2021</start_date>
+  <completion_date type="Anticipated">July 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage of subjects with COVID-19</measure>
+    <time_frame>Up to 14 days</time_frame>
+    <description>positive result in RT-PCR test</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of subjects with hospitalization</measure>
+    <time_frame>Days 3, 7, 14, and 28</time_frame>
+    <description>hospitalization due to COVID-19</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of subjects who experience intensive care unit (ICU)</measure>
+    <time_frame>Days 3, 7, 14, and 28</time_frame>
+    <description>ICU requirement due to COVID-19</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">1012</enrollment>
+  <condition>Covid19</condition>
+  <condition>SARS-COV-2 Infection</condition>
+  <arm_group>
+    <arm_group_label>DWJ1248</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Camostat mesilate 200mg</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>DWJ1248</intervention_name>
+    <description>Orally, 1 tablet of DWJ1248 TID, up to 14 days</description>
+    <arm_group_label>DWJ1248</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Orally, 1 tablet of placebo TID, up to 14 days</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adults over the age of 19 as of the signed date in written consent&#xD;
+&#xD;
+          -  Subjects in self-quarantine who contact from COVID-19 confirmed patient&#xD;
+&#xD;
+          -  Subjects who have COVID-19 negative RT-PCR result&#xD;
+&#xD;
+          -  Subjects with no symptoms of COVID-19&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Subjects who cannot orally administer the investigational products&#xD;
+&#xD;
+          -  Subjects who need administration of immunosuppressants&#xD;
+&#xD;
+          -  Subjects who are allergic or sensitive to investigational products or its ingredients&#xD;
+&#xD;
+          -  Subjects who have a history of drug and/or alcohol abuse within 12 months before&#xD;
+             screening&#xD;
+&#xD;
+          -  Subjects who have been identified with uncontrolled concomitant diseases or&#xD;
+             conditions, including significant mental illness and social conditions, that may&#xD;
+             affect compliance with clinical trial procedures according to the determination of the&#xD;
+             investigators&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>19 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>January 20, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 20, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 22, 2021</study_first_posted>
+  <last_update_submitted>January 27, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 27, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

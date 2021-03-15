@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3277">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04707820</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020/0100/HP</org_study_id>
+    <nct_id>NCT04707820</nct_id>
+  </id_info>
+  <brief_title>Antiviral T Lymphocyte Immunity During Acute COVID-19 Infection</brief_title>
+  <acronym>ImmuCoV</acronym>
+  <official_title>Antiviral T Lymphocyte Immunity During Acute COVID-19 Infection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Rouen</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Hospital, Rouen</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The SARS-CoV-2 (COVID-19) infection is causing a global pandemic and a major health crisis in&#xD;
+      France.&#xD;
+&#xD;
+      Immunity is the body's ability to defend itself against infectious agents such as viruses.&#xD;
+      The progressive acquisition by a large part of the population of immunity to defend itself&#xD;
+      against the COVID-19 virus is one of the main mechanisms by which a resolution of this&#xD;
+      pandemic is hoped for. Recovery from infection and protection from the virus is likely to&#xD;
+      depend on the development of antibodies (proteins produced by the body to neutralize&#xD;
+      infectious agents) and T-cells (a type of white blood cell in the immune system) that can&#xD;
+      stop the virus from multiplying and killing it.&#xD;
+&#xD;
+      To date, the way and speed at which the T-lymphocytes active against the virus appear are not&#xD;
+      known. The development of biological tests to detect T-cells active against the virus in the&#xD;
+      blood of infected patients is therefore necessary.&#xD;
+&#xD;
+      In this context, we propose you to participate in a study that will study the immune system's&#xD;
+      response against the sars-CoV-2 virus during and after COVID-19 infection.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 16, 2020</start_date>
+  <completion_date type="Anticipated">June 10, 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 10, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Evolution of the number of gamma interferon (IFN) producing T lymphocytes in response to the S protein</measure>
+    <time_frame>for 56 days</time_frame>
+    <description>The evolution of the number of interferon-gamma producing T lymphocytes (IFN) in response to protein S (Spike glycoprotein) will be assessed by enumeration in ELISPOT method</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Numbers of T lymphocytes producing IFN in response to other CoV-2-SARS viral</measure>
+    <time_frame>for 56 days</time_frame>
+    <description>Numbers of T lymphocytes producing IFN in response to other CoV-2-SARS viral proteins (nucleoprotein, membrane proteins E (FEV1) and M (FEV1), proteins 3a, 9b, ORF10, non-structural proteins 6, 7a, 7b, 8, protein14) measured by ELISPOT</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anti-SARS-CoV-2 IgG and IgM levels</measure>
+    <time_frame>for 56 days</time_frame>
+    <description>Anti-SARS-CoV-2 IgG and IgM levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV-2 viral load in nasopharyngeal swab</measure>
+    <time_frame>for 56 days</time_frame>
+    <description>SARS-CoV-2 viral load in nasopharyngeal swab</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">80</enrollment>
+  <condition>Corona Virus Infection</condition>
+  <arm_group>
+    <arm_group_label>Patient group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>- Patient with an acute SARS-CoV-2 infection, confirmed by PCR or typical CT images, requiring hospitalization in a COVID unit at Rouen University Hospital.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>control group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>- Rouen University Hospital staff free of any symptomatology compatible with an SARS-CoV-2 infection (fever, cough, fatigue, loss of taste, loss of smell) since February 1, 2020</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>ELISPOT</intervention_name>
+    <description>The evolution of the number of gamma interferon (IFN) producing T lymphocytes in response to Spike glycoprotein (Spike glycoprotein) will be assessed by enumeration in ELISPOT method at 4 measurement times: D0 (confirmation of infection by PCR), D+7, D+14 or at hospital departure (D+Departure) and D+56±14 days.&#xD;
+The ELISPOT method consists in stimulating peripheral blood mononuclear cells (isolated by density gradient and containing a known CD3+ T lymphocyte count) over a short period of time (16 to 20 hours) with a pool of 15 amino acid peptides (overlapping on 11 amino acids) representative of the S protein.</description>
+    <arm_group_label>Patient group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patient with an acute SARS-CoV-2 infection, confirmed by PCR or typical CT images,&#xD;
+             requiring hospitalization in a COVID unit at the Rouen University Hospital (pneumonic&#xD;
+             form requiring oxygen therapy &lt; 4 L/min.)&#xD;
+&#xD;
+          -  Rouen University Hospital staff free of any symptomatology compatible with an&#xD;
+             SARS-CoV-2 infection (fever, cough, fatigue, loss of taste, loss of smell) since&#xD;
+             February 1, 2020&#xD;
+&#xD;
+          -  Age ≥ 18 years old&#xD;
+&#xD;
+          -  Adult patient who has read and understood the information letter and signed the&#xD;
+             consent form&#xD;
+&#xD;
+          -  Affiliation to a social security scheme&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patient with PCR-confirmed SARS-CoV-2 infection and hospitalized in intensive care&#xD;
+             units (acute respiratory distress and/or organ failure, whose pathogenesis may differ&#xD;
+             from the more frequently described forms with secondary aggravation (5)).&#xD;
+&#xD;
+          -  Patient with PCR-confirmed but non-hospitalized SARS-CoV-2 infection (non-acute form,&#xD;
+             managed by confinement)&#xD;
+&#xD;
+          -  A person participating in a therapeutic trial that may interfere with the procedures&#xD;
+             being investigated, including lymphocyte response prior to D+56±14 days.&#xD;
+&#xD;
+          -  Known Pregnancy&#xD;
+&#xD;
+          -  Person deprived of liberty by an administrative or judicial decision or person placed&#xD;
+             under judicial protection / subtutorship or guardianship&#xD;
+&#xD;
+          -  Staff at the Rouen University Hospital with SARS-CoV-2 infection confirmed by PCR&#xD;
+             and/or typical scan images during the epidemic period.&#xD;
+&#xD;
+          -  Hospital staff who were exposed to the virus (working in a Covid unit)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Nell Marty, PhD</last_name>
+    <phone>0033 02 32 88 82 65</phone>
+    <email>Nell.Marty@chu-rouen.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>David Mallet</last_name>
+    <phone>0033 02 32 88 82 65</phone>
+    <email>secretariat.drc@chu-rouen.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Rouen University Hospital</name>
+      <address>
+        <city>Rouen</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mathilde LEMOINE, Doctor</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>December 29, 2020</study_first_submitted>
+  <study_first_submitted_qc>January 12, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 13, 2021</study_first_posted>
+  <last_update_submitted>January 12, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 12, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 13, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4286">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04638673</url>
+  </required_header>
+  <id_info>
+    <org_study_id>00101270</org_study_id>
+    <secondary_id>U54GM104941-08</secondary_id>
+    <nct_id>NCT04638673</nct_id>
+  </id_info>
+  <brief_title>NeuroCovid Rehab and Recovery Related to COVID-19 Diagnosis</brief_title>
+  <official_title>Testing a Wearable Telemedicine-controllable taVNS Device for NeuroCovid Recovery and Rehab</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Medical University of South Carolina</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institutes of Health (NIH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institute of General Medical Sciences (NIGMS)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Medical University of South Carolina</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of the research is to test out a new form of treatment that examines stimulation&#xD;
+      of a nerve in the participant's ear. This is called transcutaneous (through the skin)&#xD;
+      auricular (ear) vagus nerve stimulation (taVNS) which means that the participant will receive&#xD;
+      stimulation through the ear. The taVNS device looks like an ear bud used with a smart phone&#xD;
+      or computer. The study team is investigating whether or not taVNS can treat neurologic&#xD;
+      symptoms of COVID-19 which are termed NEUROCOVID. Some symptoms the participant may&#xD;
+      experience are new onset anxiety, depression, vertigo, loss of smell, headaches, fatigue,&#xD;
+      irritability, etc. This study is entirely online and all assessments will be completed&#xD;
+      virtually.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 19, 2020</start_date>
+  <completion_date type="Anticipated">June 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Score of Patient Health Questionnaire-9</measure>
+    <time_frame>Baseline and week 4 (End of Treatment)</time_frame>
+    <description>The Patient Health Questionnaire-9 (PHQ-9) is a 9-question instrument given to patients in a primary care setting to screen for the presence and severity of depression. Scores range from 0-27. Higher scores mean worse symptoms.&#xD;
+Remission -minimal to absence of symptoms; PHQ-9 score &lt; 5. Response -50% or greater decrease in PHQ-9 baseline severity; residual symptoms remain. Partial Response -26% to 49% decrease in PHQ-9 baseline severity. Non-response -less than 25% decrease in PHQ-9 baseline severity.</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Coronavirus</condition>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Active-Active Stimulation Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This group will be randomized into the active stimulation group for weeks 1&amp;2 of stimulation and active stimulation during weeks 3&amp;4 of stimulation of study participation.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sham-Active Stimulation Group</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>This group will be randomized into the sham stimulation group for weeks 1&amp;2 of stimulation and active stimulation for weeks 3&amp;4 of stimulation of study participation.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Soterix taVNS model 0125-LTE Stimulator - Active-Active Group</intervention_name>
+    <description>Participants will receive active taVNS stimulation for weeks 1-4 of the stimulation portion of this study.</description>
+    <arm_group_label>Active-Active Stimulation Group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Soterix taVNS model 0125-LTE Stimulator - Sham-Active Group</intervention_name>
+    <description>Participants will receive sham taVNS stimulation for weeks 1&amp;2 and active stimulation for weeks 3&amp;4 of the stimulation portion of this study.</description>
+    <arm_group_label>Sham-Active Stimulation Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  COVID positive&#xD;
+&#xD;
+          -  At home&#xD;
+&#xD;
+          -  Afebrile&#xD;
+&#xD;
+          -  Anxiety&#xD;
+&#xD;
+          -  Depression&#xD;
+&#xD;
+          -  Vertigo&#xD;
+&#xD;
+          -  Anosmia&#xD;
+&#xD;
+          -  Headaches&#xD;
+&#xD;
+          -  Irritability&#xD;
+&#xD;
+          -  Cognitive Processing&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Damage to left ear anatomy&#xD;
+&#xD;
+          -  Unstable hemodynamic effects&#xD;
+&#xD;
+          -  Ischemic or hemorrhagic stroke after developing COVID&#xD;
+&#xD;
+          -  Unable to give consent, follow instructions&#xD;
+&#xD;
+          -  Unable to read or write or speak English&#xD;
+&#xD;
+          -  No access to home WiFi&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mark S George, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Medical University of South Carolina</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Sarah Huffman, BA</last_name>
+    <phone>843-792-8672</phone>
+    <email>huffmans@musc.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Morgan Dancy, BA</last_name>
+    <phone>843-876-5141</phone>
+    <email>maddoxm@musc.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Medical University of South Carolina</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29425</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sarah Huffman, BA</last_name>
+      <phone>843-792-8672</phone>
+      <email>huffmans@musc.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Morgan Dancy, BA</last_name>
+      <phone>843-876-5141</phone>
+      <email>maddoxm@musc.edu</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>November 18, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 19, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 20, 2020</study_first_posted>
+  <last_update_submitted>December 4, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 4, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 7, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Medical University of South Carolina</investigator_affiliation>
+    <investigator_full_name>Mark S. George</investigator_full_name>
+    <investigator_title>Distinguished University Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

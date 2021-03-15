@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2162">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04588441</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB202002127</org_study_id>
+    <secondary_id>OCR39505</secondary_id>
+    <nct_id>NCT04588441</nct_id>
+  </id_info>
+  <brief_title>The ARCTIC Trial: Aerosolized Inhaled Adenosine Treatment in Patients With Acute Respiratory Distress Syndrome (ARDS) Caused by COVID-19</brief_title>
+  <official_title>Aerosolized Inhaled Adenosine Treatment in Patients With Acute Respiratory Distress Syndrome (ARDS) Caused by COVID-19 (The ARCTIC Trial)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Florida</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Florida</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a phase II study to test adenosine efficacy for down-regulation of the overwhelming&#xD;
+      inflammation of COVID-19 in the lungs as reflected by clinical recovery of lung function;&#xD;
+      resolution of clinically relevant markers of lung function, and resolution of systemic&#xD;
+      markers of inflammation and coagulation.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 2021</start_date>
+  <completion_date type="Anticipated">December 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 2022</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Testing will be applied to patients with deteriorating pulmonary function and who are newly intubated (within 24 hours) with rising oxygen requirements.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Improved COVID-19 symptoms</measure>
+    <time_frame>Day 50</time_frame>
+    <description>Improved COVID-19 symptoms measured by alive v. mortality, not hospitalized, or free of respiratory failure.</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Acute Respiratory Distress</condition>
+  <arm_group>
+    <arm_group_label>Adenosine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Treatment consists of 9 mg adenosine in 5ml normal saline (NS) administered over 5-10 min via an Aerogen™ nebulizer</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Adenosine</intervention_name>
+    <description>Adenosine will be given like an inhaled asthma medication two times daily for one week (7 days). Treatment consists of 9 mg adenosine in 5ml normal saline (NS) administered over 5-10 min via an Aerogen™ nebulizer.</description>
+    <arm_group_label>Adenosine</arm_group_label>
+    <other_name>Aerogen</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adult (≥ 18 years old) male and female patients with diagnosed COVID-19 respiratory&#xD;
+             infection, verified by culture/swab RNA. Impending ARDS respiratory collapse with&#xD;
+             progressive increasing oxygen requirements, and in line with sub-study as defined&#xD;
+             below.&#xD;
+&#xD;
+          -  Patients intubated within the prior 24 hours.&#xD;
+&#xD;
+          -  Hemodynamically stable (not requiring vasopressors or catecholamine agents to support&#xD;
+             systemic blood pressure; no existing shock defined as BP &lt; 100 mmHg systolic).&#xD;
+&#xD;
+          -  In-place continuous arterial line for blood sampling.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Younger than 18 years old.&#xD;
+&#xD;
+          -  Prisoners&#xD;
+&#xD;
+          -  Pregnant women.&#xD;
+&#xD;
+          -  Unable to obtain next of kin consent.&#xD;
+&#xD;
+          -  End-stage cardiac disease with COVID-19.&#xD;
+&#xD;
+          -  Non COVID-related causes of ARDS/respiratory failure, septic shock, or post trauma&#xD;
+             shock, respiratory failure after blood transfusion or surgery.&#xD;
+&#xD;
+          -  Unstable asthma or history of frequent/poorly controlled asthmatic attacks.&#xD;
+&#xD;
+          -  Not expected to live more than 6 months due to underlying condition such as cancer.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>105 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Bruce Spiess</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Florida</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Amy Gunnett</last_name>
+    <phone>(352) 273-8911</phone>
+    <email>agunnett@anest.ufl.edu</email>
+  </overall_contact>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>October 13, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 13, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 19, 2020</study_first_posted>
+  <last_update_submitted>January 21, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 21, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 22, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>ARDS</keyword>
+  <keyword>Adenosine</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Distress Syndrome, Newborn</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Adult</mesh_term>
+    <mesh_term>Acute Lung Injury</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Adenosine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

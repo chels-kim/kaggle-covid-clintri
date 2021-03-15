@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2503">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04673149</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CoV2-001</org_study_id>
+    <nct_id>NCT04673149</nct_id>
+  </id_info>
+  <brief_title>GLS-5310 Vaccine for the Prevention of SARS-CoV-2 (COVID-19)</brief_title>
+  <official_title>Multicenter, Randomized, Combined Phase I Dose-escalation and Phase IIa Double-blind, Placebo-controlled Study of the Safety, Tolerability, and Immunogenicity of GLS-5310 DNA Vaccine, Administered Intradermally Against SARS-CoV-2 in Healthy Adults</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>GeneOne Life Science, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>GeneOne Life Science, Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This clinical trial will evaluate the safety, tolerability and immunogenicity of GLS-5310 DNA&#xD;
+      vaccine against SARS-CoV-2(COVID-19) in healthy volunteers.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This Phase I / IIa study will assess the safety, tolerability, and immunogenicity of GLS-5310&#xD;
+      DNA vaccine.&#xD;
+&#xD;
+      The Phase I portion of this study is an open-label, dose escalation study to assess two dose&#xD;
+      levels of GLS-5310 DNA vaccine (0.6 and 1.2 mg) as part of two vaccination regimens (0-8&#xD;
+      weeks and 0-12 weeks).&#xD;
+&#xD;
+      The Phase IIa portion of this study is designed as a randomized, double-blind,&#xD;
+      placebo-controlled study with only a single active study drug arm. Subjects will be&#xD;
+      randomized to receive either placebo or GLS-5310 vaccine in a 1:2 ratio.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 23, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">July 31, 2022</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of adverse events</measure>
+    <time_frame>Through 48 weeks post vaccination</time_frame>
+    <description>solicited/unsolicited local and systemic AEs after vaccination</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Geometric mean titer (GMT) of antigen-specific binding antibody titers</measure>
+    <time_frame>Through 48 weeks post vaccination</time_frame>
+    <description>Endpoint titer of binding antibody in serum</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation of positive response rate of T cell responses induced by GLS-5310 DNA vaccine</measure>
+    <time_frame>Through 48 weeks post vaccination</time_frame>
+    <description>T-cell response of antigen-specific interferon - gamma (IFN-γ) secretion in PBMC at each timepoint</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Geometric mean titer (GMT) of neutralizing antibody titers</measure>
+    <time_frame>Through 48 weeks post vaccination</time_frame>
+    <description>Plaque-reduction neutralizing titer(PRNT) in serum at each timepoint</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Determine IgG antibody responses after a single dose of vaccine related to treatment arm</measure>
+    <time_frame>Through 1 year post vaccination</time_frame>
+    <description>Endpoint titer of binding antibody in serum at each timepoint</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Measure survival rate of animals administered immune serum from vaccinated individuals and later challenged with SARS-CoV-2.</measure>
+    <time_frame>Through 1 year post vaccination</time_frame>
+    <description>Survival rate</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Persistence of immune responses following vaccination with GLS-5310</measure>
+    <time_frame>Through 1 year post vaccination</time_frame>
+    <description>Endpoint titer of binding antibody in serum at each timepoint&#xD;
+Plaque-reduction neutralizing titer in serum at each timepoint&#xD;
+T-cell response of antigen-specific interferon - gamma (IFN-γ) secretion in PBMC at each timepoint</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Determine the extent of immune boosting for participants who are seropositive at baseline following vaccination with GLS-5310</measure>
+    <time_frame>Through 1 year post vaccination</time_frame>
+    <description>Change from baseline in binding antibody titers&#xD;
+Change from baseline in T-cell response of antigen-specific interferon - gamma (IFN-γ)&#xD;
+Change from baseline in plaque-reduction neutralizing titer(PRNT) in serum</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Measure viral load in organs, including blood, of animals administered immune serum from vaccinated individuals and later challenged with SARS-CoV-2.</measure>
+    <time_frame>Through 1 year post vaccination</time_frame>
+    <description>viral load measurement of blood and major organs</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Perform histologic examination of organs of animals administered immune serum from vaccinated individuals and later challenged with SARS-CoV-2.</measure>
+    <time_frame>Through 1 year post vaccination</time_frame>
+    <description>pathological examination of organs</description>
+  </other_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Anticipated">345</enrollment>
+  <condition>SARS-CoV-2</condition>
+  <arm_group>
+    <arm_group_label>GLS-5310 0.6mg [Group 1a]</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>0.6mg of GLS-5310 will be intradermally administered on Day 0 and Week 8.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>GLS-5310 1.2mg [Group 1b]</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>1.2mg of GLS-5310 will be intradermally administered on Day 0 and Week 8.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>GLS-5310 1.2mg [Group 1c]</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>1.2mg of GLS-5310 will be intradermally administered on Day 0 and Week 12.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo [Group 2a]</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo will be intradermally administered on Day 0 and Week 8 (or Week 12).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>GLS-5310 1.2mg [Group 2b]</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>1.2mg of GLS-5310 will be intradermally administered on Day 0 and Week 8 (or Week 12).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>GLS-5310</intervention_name>
+    <description>GLS-5310 DNA plasmid vaccine</description>
+    <arm_group_label>GLS-5310 0.6mg [Group 1a]</arm_group_label>
+    <arm_group_label>GLS-5310 1.2mg [Group 1b]</arm_group_label>
+    <arm_group_label>GLS-5310 1.2mg [Group 1c]</arm_group_label>
+    <arm_group_label>GLS-5310 1.2mg [Group 2b]</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo</description>
+    <arm_group_label>Placebo [Group 2a]</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Age 19 to 65 years of age (Phase I will be restricted to an upper age limit of 50&#xD;
+             years of age)&#xD;
+&#xD;
+          2. Able to provide informed consent&#xD;
+&#xD;
+          3. Able and willing to comply with study procedures&#xD;
+&#xD;
+          4. For women of childbearing potential, able and willing to use an approved form of&#xD;
+             pregnancy prevention through to 4 weeks post boost vaccination&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Current or planned pregnancy through to 4 weeks post-boost vaccination for women of&#xD;
+             childbearing potential&#xD;
+&#xD;
+          2. Currently breastfeeding&#xD;
+&#xD;
+          3. Current or past participation in a coronavirus (MERS-CoV, SARS-CoV-2) vaccine study&#xD;
+&#xD;
+          4. Administration of an investigational agent within 6 months of the 1st dose&#xD;
+&#xD;
+          5. Administration of a vaccine within 4 weeks prior to the 1st dose&#xD;
+&#xD;
+          6. Administration of immune globulin within 16 weeks of enrollment&#xD;
+&#xD;
+          7. Administration of an anti-TNFα inhibitor such as infliximab, adalimumab, etanercept,&#xD;
+             or anti-CD20 monoclonal antibody rituximab within 24 weeks prior to enrollment&#xD;
+&#xD;
+          8. Current daily treatment of systemic corticosteroids of 20 mg of prednisone or greater,&#xD;
+             dexamethasone of 3 mg or greater; or the equivalent dose of other systemic&#xD;
+             corticosteroids&#xD;
+&#xD;
+          9. Administration of any Immunosuppressive Drug or Immunomodulator within 3 months of the&#xD;
+             first dose&#xD;
+&#xD;
+         10. History of bone marrow transplantation&#xD;
+&#xD;
+         11. Current or planned chemotherapy treatment for hematologic or solid tumor during study&#xD;
+             period or treatment during the 5 years prior to enrollment&#xD;
+&#xD;
+         12. Respiratory disease (ex. Asthma, Chronic obstructive lung disease)&#xD;
+&#xD;
+         13. Cardiovascular disease (ex. myocardial ischemia, congestive heart failure,&#xD;
+             cardiomyopathy, clinically significant arrhythmia)&#xD;
+&#xD;
+         14. Hypertension (Systolic pressure &gt;150mmHg or Diastolic pressure &gt;95mmHg)&#xD;
+&#xD;
+         15. Confirmed Diabetes&#xD;
+&#xD;
+         16. Severe allergic reaction or anaphylactic reaction after vaccination in the past&#xD;
+&#xD;
+         17. Immunosuppresion including immunodeficiency disease or family history&#xD;
+&#xD;
+         18. Positive of serum test at screening (Hepatitis B, Hepatitis A, HIV, Hepatitis C)&#xD;
+&#xD;
+         19. Baseline screening lab(s) with Non Clinical Significant abnormality&#xD;
+&#xD;
+         20. Serious adverse reaction to a drug containing Investigational Product (GLS-5310) or&#xD;
+             other ingredients of the same categories or to a vaccine or antibiotic, nonsteroidal&#xD;
+             anti-inflammatory disease control, etc. or an allergic history&#xD;
+&#xD;
+         21. History of hypersensitivity to vaccination such as Guillain-Barre syndrome&#xD;
+&#xD;
+         22. History of PCR-confirmed infection with SARS-CoV-2 at screening&#xD;
+&#xD;
+         23. Subjects who have been contact with COVID-19 infections in the past prior to&#xD;
+             administration, have been classified as COVID-19 confirmed patients, medical patients&#xD;
+             or patients with symptoms or have been identified with SARS and MERS infection history&#xD;
+             in the past&#xD;
+&#xD;
+         24. 37.5 degrees, cough, difficulty breathing, chills, muscle aches, headache, sore&#xD;
+             throat, loss of smell, or loss of taste within 72 hours prior to administration&#xD;
+&#xD;
+         25. Healthcare workers participating in the medical examination of patients infected with&#xD;
+             COVID-19&#xD;
+&#xD;
+         26. Not willing to allow storage and future use of samples for SARS-CoV-2 related research&#xD;
+&#xD;
+         27. Prisoner or subjects who are compulsorily detained for treatment of a psychiatric&#xD;
+             illness&#xD;
+&#xD;
+         28. Any illness or condition that, in the opinion of the investigator, may affect the&#xD;
+             safety of the subject or the evaluation of a study endpoint&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>19 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Joel N Maslow, MD. Ph.D.</last_name>
+    <phone>+1-610-707-5671</phone>
+    <email>jmaslow@geneonels-us.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Hyojin Lee, M.S.</last_name>
+    <phone>+82-2-6004-3468</phone>
+    <email>hjlee@genels.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Korea University Guro Hospital</name>
+      <address>
+        <city>Seoul</city>
+        <zip>08308</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Woo Joo Kim, MD, Ph.D.</last_name>
+      <phone>+82-2-2626-1114</phone>
+      <email>wjkim@korea.ac.kr</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>December 11, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 15, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 17, 2020</study_first_posted>
+  <last_update_submitted>December 23, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 23, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 24, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

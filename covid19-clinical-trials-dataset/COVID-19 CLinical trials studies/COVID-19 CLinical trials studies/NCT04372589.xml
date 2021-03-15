@@ -1,0 +1,931 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3439">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04372589</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ATTACC</org_study_id>
+    <secondary_id>OZM-113</secondary_id>
+    <nct_id>NCT04372589</nct_id>
+  </id_info>
+  <brief_title>Antithrombotic Therapy to Ameliorate Complications of COVID-19 (ATTACC)</brief_title>
+  <acronym>ATTACC</acronym>
+  <official_title>Antithrombotic Therapy to Ameliorate Complications of COVID-19 (ATTACC), in Collaboration With Accelerating COVID-19 Therapeutic Interventions and Vaccines (ACTIV-4)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Manitoba</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University Health Network, Toronto</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Manitoba</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Endothelial injury as a consequence of SARS-CoV-2 infection leads to a dysregulated host&#xD;
+      inflammatory response and activation of coagulation pathways. Macro- and micro-vascular&#xD;
+      thrombosis may contribute to morbidity, organ failure, and death. Therapeutic anticoagulation&#xD;
+      with heparin may improve clinical outcomes in patients with COVID-19 through anti-thrombotic,&#xD;
+      anti-inflammatory, and anti-viral activities of heparins. This pragmatic, Bayesian adaptive&#xD;
+      randomized controlled trial will determine whether therapeutic anticoagulation with heparin&#xD;
+      (subcutaneous low molecular weight heparin or intravenous unfractionated heparin) versus&#xD;
+      usual care reduces the need for intubation or death in hospitalized patients with COVID-19.&#xD;
+      The trial uses an adaptive design which was chosen to overcome limitations in available data&#xD;
+      to inform a priori estimation of event rates and possible effect sizes. The adaptive design&#xD;
+      also includes response-adaptive randomization based on baseline D-dimer level, probing for&#xD;
+      differential efficacy across subgroups defined based on initial D-dimer level. This Bayesian&#xD;
+      adaptive randomized trial will stop at a conclusion 1) when the posterior probability that&#xD;
+      the proportional odds ratio is greater than 1.0 reaches 99% (definition of benefit); 2) when&#xD;
+      the posterior probability that the proportional odds ratio is greater than 1.2 is less than&#xD;
+      10% (definition of futility) or; 3) when the posterior probability that the proportional odds&#xD;
+      ratio is less than 1.0 is greater than 90% (definition of harm). The trial will enroll a&#xD;
+      maximum of 3,000 patients, although in many simulations the trial may require fewer patients.&#xD;
+      The trial is strategically aligned with the international REMAP-CAP/COVID platform trial to&#xD;
+      accelerate evidence generation.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a prospective, open-label, multicentre, Bayesian adaptive randomized clinical trial&#xD;
+      to establish whether therapeutic-dose parenteral anticoagulation improves outcomes for&#xD;
+      patients hospitalized with COVID-19 (e.g., reduces intubation or mortality). Participants&#xD;
+      will be randomized either to the investigational arm (therapeutic anticoagulation with&#xD;
+      heparin for 14 days or until &quot;recovery&quot; [defined as hospital discharge or liberation from&#xD;
+      supplemental oxygen if initially required], whichever comes first), or to the control arm&#xD;
+      (usual care, including thromboprophylactic dose anticoagulation according to local practice).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">May 20, 2020</start_date>
+  <completion_date type="Anticipated">January 2021</completion_date>
+  <primary_completion_date type="Anticipated">January 2021</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Pragmatic, Bayesian adaptive randomized controlled trial</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Mortality and days free of organ support</measure>
+    <time_frame>21 days</time_frame>
+    <description>The primary endpoint in the trial is days alive and free of organ support at day 21. This endpoint is defined as the number of days that a patient is alive and free of organ support through the first 21 days after trial entry. Organ support is defined as receipt of invasive or non-invasive mechanical ventilation, high flow nasal oxygen (&gt;30 L/min), vasopressor therapy, or ECMO support. Death at any time (including beyond 21 days) during the index hospital stay is assigned the worst possible score of -1.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Arterial and venous thrombotic conditions</measure>
+    <time_frame>28 days and 90 days</time_frame>
+    <description>A composite endpoint of death, deep vein thrombosis, pulmonary embolism, systemic arterial thromboembolism, myocardial infarction, or ischemic stroke collected during hospitalization or at 28 days and 90 days after enrollment (whichever is earlier).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intubation and mortality</measure>
+    <time_frame>30 days</time_frame>
+    <description>Ordered categorical endpoint with three possible outcomes based on the worst status of each patient through day 30 following randomization: no invasive mechanical ventilation, invasive mechanical ventilation, or death.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>All-cause mortality</measure>
+    <time_frame>28 days and 90 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intubation</measure>
+    <time_frame>30 days</time_frame>
+    <description>Invasive mechanical ventilation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital-free days</measure>
+    <time_frame>28 days</time_frame>
+    <description>Days alive outside of the hospital through 28 days following randomization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ventilator-free days</measure>
+    <time_frame>28 days</time_frame>
+    <description>Days alive not on a ventilator assessed at 28 days following randomization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Myocardial infarction</measure>
+    <time_frame>28 days and 90 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ischaemic stroke</measure>
+    <time_frame>28 days and 90 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Venous thromboembolism</measure>
+    <time_frame>28 days and 90 days</time_frame>
+    <description>Symptomatic proximal venous thromboembolism (DVT or PE).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Vasopressor-free days</measure>
+    <time_frame>28 days</time_frame>
+    <description>Days alive not on a vasopressor assessed at 28 days following randomization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Renal replacement free days</measure>
+    <time_frame>28 days</time_frame>
+    <description>Days alive not on renal replacement assessed at 28 days following randomization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital re-admission</measure>
+    <time_frame>28 days</time_frame>
+    <description>Hospital re-admission within 28 days.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Acute kidney injury</measure>
+    <time_frame>Duration of study</time_frame>
+    <description>As defined by KDIGO criteria.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Systemic arterial thrombosis or embolism</measure>
+    <time_frame>28 days and 90 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ECMO support</measure>
+    <time_frame>Duration of study</time_frame>
+    <description>Use of extracorporeal membrane oxygenation (ECMO) support.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mechanical circuit thrombosis</measure>
+    <time_frame>Duration of study</time_frame>
+    <description>Dialysis or ECMO.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>WHO ordinal scale</measure>
+    <time_frame>28 days</time_frame>
+    <description>Peak scale over 28 days, scale at 14 days, and proportion with improvement by at least 2 categories compared to enrollment, at 28 days.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Major bleeding</measure>
+    <time_frame>Intervention period (maximum 14 days)</time_frame>
+    <description>As defined by the International Society on Thrombosis and Haemostasis (ISTH).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Heparin-induced thrombocytopenia (HIT)</measure>
+    <time_frame>Intervention period (maximum 14 days)</time_frame>
+    <description>Laboratory-confirmed.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">1203</enrollment>
+  <condition>COVID-19</condition>
+  <condition>Pneumonia</condition>
+  <arm_group>
+    <arm_group_label>Investigational arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants randomized to the investigational arm will receive therapeutic anticoagulation for 14 days (or until hospital discharge or liberation from supplemental oxygen &gt;24 hours if previously required, whichever comes first) with heparin, with preference for subcutaneous low molecular weight heparin (enoxaparin preferred, although dalteparin or tinzaparin are also acceptable, as available) if no contraindication is present; alternatively, intravenous unfractionated heparin infusion may be used.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control arm</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Participants will receive usual care of thromboprophylactic dose anticoagulation according to local practice.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Heparin</intervention_name>
+    <description>Low molecular weight heparin (LMWH) Preferred therapeutic anticoagulant is enoxaparin. Generally regimens: 1.5 mg/kg subcutaneous once daily or 1 mg/kg subcutaneous twice daily. Alternatively, other subcutaneous LMWH used, including tinzaparin (175 anti-Xa IU/kg subcutaneous once daily) or dalteparin (200 IU/kg subcutaneous once daily or 100 IU/kg subcutaneous twice a day).&#xD;
+Unfractionated heparin (UFH) Commenced, administered, and monitored according to local hospital policy, and guidelines that are used for the treatment of venous thromboembolism (i.e. not for acute coronary syndrome). Intravenous infusion of UFH is according to total body weight and pragmatically adjusted according to local institutional policy to achieve an activated partial thromboplastin time (aPTT) of 1.5-2.5x the reference value. If UFH is used, the availability of a local hospital policy that has specifies an aPTT target in this range or an anti-Xa value is a requirement.</description>
+    <arm_group_label>Investigational arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        1. Patients ≥18 years of age providing (possibly through a substitute decision maker)&#xD;
+        informed consent who require hospitalization anticipated to last ≥72 hours, for&#xD;
+        microbiologically-confirmed COVID-19, enrolled &lt; 72 hours of hospital admission or of&#xD;
+        COVID-19 confirmation&#xD;
+&#xD;
+        • If the patient is already hospitalized and the COVID-19 diagnosis is due to an outbreak&#xD;
+        or an incidental finding, then enrollment can occur within 72 hours of a clinical syndrome&#xD;
+        attributable to COVID-19 that requires continued hospitalization (e.g. new or worsening&#xD;
+        oxygen requirements or acute kidney injury) which is further anticipated to extend the&#xD;
+        hospital admission by an additional 72 hours from randomization.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Patients admitted to an ICU AND receiving organ support (i.e. high flow nasal oxygen,&#xD;
+             receiving non-invasive or invasive mechanical ventilation, or are requiring&#xD;
+             vasopressor/inotrope)&#xD;
+&#xD;
+          2. Patients for whom the intent is to not use pharmacologic thromboprophylaxis&#xD;
+&#xD;
+          3. Active bleeding&#xD;
+&#xD;
+          4. Risk factors for bleeding, including:&#xD;
+&#xD;
+               1. intracranial surgery or stroke within 3 months;&#xD;
+&#xD;
+               2. history of intracerebral arteriovenous malformation;&#xD;
+&#xD;
+               3. cerebral aneurysm or mass lesions of the central nervous system;&#xD;
+&#xD;
+               4. intracranial malignancy&#xD;
+&#xD;
+               5. history of intracranial bleeding&#xD;
+&#xD;
+               6. history of bleeding diatheses (e.g., hemophilia)&#xD;
+&#xD;
+               7. history of gastrointestinal bleeding within previous 3 months&#xD;
+&#xD;
+               8. thrombolysis within the previous 7 days&#xD;
+&#xD;
+               9. presence of an epidural or spinal catheter&#xD;
+&#xD;
+              10. recent major surgery &lt;14 days&#xD;
+&#xD;
+              11. uncontrolled hypertension (sBP &gt;200 mmHg, dBP &gt;120 mmHg)&#xD;
+&#xD;
+              12. other physician-perceived contraindications to anticoagulation&#xD;
+&#xD;
+          5. Platelet count &lt;50 x10^9/L, INR &gt;2.0, or baseline aPTT &gt;50 (if available per SOC&#xD;
+             testing)&#xD;
+&#xD;
+          6. Hemoglobin &lt;80 g/L (to minimize the likelihood of requiring red blood cell transfusion&#xD;
+             if potential bleeding were to occur)&#xD;
+&#xD;
+          7. Acute or subacute bacterial endocarditis&#xD;
+&#xD;
+          8. History of heparin induced thrombocytopenia (HIT) or other heparin allergy including&#xD;
+             hypersensitivity&#xD;
+&#xD;
+          9. Current use of dual antiplatelet therapy&#xD;
+&#xD;
+         10. Patients with an independent indication for therapeutic anticoagulation&#xD;
+&#xD;
+         11. Patients in whom imminent demise is anticipated and there is no commitment to active&#xD;
+             ongoing intervention&#xD;
+&#xD;
+         12. Anticipated transfer to another hospital that is not a study site within 72 hours&#xD;
+&#xD;
+         13. Enrollment in other trials related to anticoagulation or antiplatelet therapy&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Patrick R. Lawler, MD, MPH</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Peter Munk Cardiac Centre/University Health Network</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Ewan C. Goligher, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University Health Network, Toronto</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Ryan Zarychanski, MD, MSc</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Manitoba</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Emory University Hospital Midtown</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30308</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Chicago</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60637</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ochsner Clinic</name>
+      <address>
+        <city>Jefferson</city>
+        <state>Louisiana</state>
+        <zip>70121</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Maine Medical Center</name>
+      <address>
+        <city>Portland</city>
+        <state>Maine</state>
+        <zip>04102</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Henry Ford University</name>
+      <address>
+        <city>Dearborn</city>
+        <state>Michigan</state>
+        <zip>48128</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Beaumont Hospital</name>
+      <address>
+        <city>Royal Oak</city>
+        <state>Michigan</state>
+        <zip>48336</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mayo Clinic</name>
+      <address>
+        <city>Rochester</city>
+        <state>Minnesota</state>
+        <zip>55905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Louis University School of Medicine/Saint Louis Veterans Affairs Medical Center</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cooper University Health Care</name>
+      <address>
+        <city>Camden</city>
+        <state>New Jersey</state>
+        <zip>08103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hackensack University Medical Center</name>
+      <address>
+        <city>Hackensack</city>
+        <state>New Jersey</state>
+        <zip>07601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Barnabas Medical Center</name>
+      <address>
+        <city>Livingston</city>
+        <state>New Jersey</state>
+        <zip>07039</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Montefiore-Einstein Center for Heart and Vascular Care</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10467</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Vanderbilt University Medical Center</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Santa Casa de Misericordia de Itabuna</name>
+      <address>
+        <city>Itabuna</city>
+        <state>BA</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Unimed do Cariri</name>
+      <address>
+        <city>Juazeiro do Norte</city>
+        <state>CE</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto Goiano de Oncologia e Hematologia - INGOH</name>
+      <address>
+        <city>Goiania</city>
+        <state>Goias</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centro de Pesquisas Clínicas Humap - UFMS</name>
+      <address>
+        <city>Campo Grande</city>
+        <state>Mato Grosso Do Sul</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Felício Rocho</name>
+      <address>
+        <city>Belo Horizonte</city>
+        <state>MG</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clinica de Campo Grande S/A</name>
+      <address>
+        <city>Campo Grande</city>
+        <state>MS</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Unimed Campo Grande</name>
+      <address>
+        <city>Campo Grande</city>
+        <state>MS</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Agamenon Magalhaes</name>
+      <address>
+        <city>Recife</city>
+        <state>Pernanbuco</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital das Clinicas da UFPR</name>
+      <address>
+        <city>Curitiba</city>
+        <state>PR</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Pontifícia Universidade Católica do Paraná</name>
+      <address>
+        <city>Curitiba</city>
+        <state>PR</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Parana Medical Research Center</name>
+      <address>
+        <city>Maringa</city>
+        <state>PR</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Sao Vicente de Paulo</name>
+      <address>
+        <city>Passo Fundo</city>
+        <state>Rio Grande Do Sul</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Pedro Ernesto</name>
+      <address>
+        <city>Rio de Janeiro</city>
+        <state>RJ</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de Clinicas de Porto Alegre</name>
+      <address>
+        <city>Porto Alegre</city>
+        <state>RS</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto de Cardiologia do Rio Grande do Sul</name>
+      <address>
+        <city>Porto Alegre</city>
+        <state>RS</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto de Medicina Vascular</name>
+      <address>
+        <city>Porto Alegre</city>
+        <state>RS</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>AngioCor Blumenau</name>
+      <address>
+        <city>Blumenau</city>
+        <state>Santa Catarina</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto de Cardiologia de Santa Catarina</name>
+      <address>
+        <city>Sao Jose</city>
+        <state>Santa Catarina</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto de Pesquisa Clínica de Campinas</name>
+      <address>
+        <city>Campinas</city>
+        <state>Sao Paulo</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Praxis Pesquisa Medica</name>
+      <address>
+        <city>Santo Andre</city>
+        <state>Sao Paulo</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Santa Casa de Votuporanga</name>
+      <address>
+        <city>Votuporanga</city>
+        <state>Sao Paulo</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Casa de Saúde Santa Marcelina</name>
+      <address>
+        <city>Sao Paulo</city>
+        <state>SP</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto de Molestias Cardio Vasculares de Tatui</name>
+      <address>
+        <city>Tatui</city>
+        <state>SP</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital 9 de Julho</name>
+      <address>
+        <city>São Paulo</city>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital das Clinicas da Faculdade de Medicina da Universidade de São Paulo</name>
+      <address>
+        <city>São Paulo</city>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto de Infectologia Emilio Ribas</name>
+      <address>
+        <city>São Paulo</city>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto do Coração do Estado de São Paulo</name>
+      <address>
+        <city>São Paulo</city>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sociedade Beneficente Israelita Hospital Albert Einstein</name>
+      <address>
+        <city>São Paulo</city>
+        <country>Brazil</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Victoria General Hospital</name>
+      <address>
+        <city>Victoria</city>
+        <state>British Columbia</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Health Sciences Center Winnipeg</name>
+      <address>
+        <city>Winnipeg</city>
+        <state>Manitoba</state>
+        <zip>R3A 1R9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Grace General Hospital</name>
+      <address>
+        <city>Winnipeg</city>
+        <state>Manitoba</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>St. Boniface General Hospital</name>
+      <address>
+        <city>Winnipeg</city>
+        <state>Manitoba</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hamilton Health Sciences</name>
+      <address>
+        <city>Hamilton</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>St. Joseph's Healthcare Hamilton</name>
+      <address>
+        <city>Hamilton</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Montfort</name>
+      <address>
+        <city>Ottawa</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Ottawa Hospital</name>
+      <address>
+        <city>Ottawa</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University Health Network</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M5G2C4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>McGill University Health Centre</name>
+      <address>
+        <city>Montréal</city>
+        <state>Quebec</state>
+        <zip>H4A3J1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier de l'université de Montréal (CHUM)</name>
+      <address>
+        <city>Montréal</city>
+        <state>Quebec</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Jewish General Hospital</name>
+      <address>
+        <city>Montréal</city>
+        <state>Quebec</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Quebec-University Laval</name>
+      <address>
+        <city>Québec</city>
+        <state>Quebec</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Institut universitaire de cardiologie et de pneumologie de Québec (CRIUCPQ)</name>
+      <address>
+        <city>Québec</city>
+        <state>Quebec</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Universitaire de Sherbrooke</name>
+      <address>
+        <city>Sherbrooke</city>
+        <state>Quebec</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Regina General Hospital</name>
+      <address>
+        <city>Regina</city>
+        <state>Saskatchewan</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de Infectolog´ñia Centro Médico Nacional La Raza</name>
+      <address>
+        <city>Azcapotzalco</city>
+        <state>Mexico City</state>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital General Regional 1 Carlos MacGregor Sánchez Navarro</name>
+      <address>
+        <city>Benito Juárez</city>
+        <state>Mexico City</state>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital General regional 2 El Marqués</name>
+      <address>
+        <city>Querétaro</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+    <country>Canada</country>
+    <country>Mexico</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>April 24, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 30, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 4, 2020</study_first_posted>
+  <last_update_submitted>January 28, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 28, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Heparin</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

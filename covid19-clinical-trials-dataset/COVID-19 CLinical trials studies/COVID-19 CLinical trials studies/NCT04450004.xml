@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2282">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04450004</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CP-PRO-COVLP-019</org_study_id>
+    <nct_id>NCT04450004</nct_id>
+  </id_info>
+  <brief_title>Safety, Tolerability and Immunogenicinity of a Coronavirus-Like Particle COVID-19 Vaccine in Adults Aged 18-55 Years.</brief_title>
+  <official_title>A Randomized, Partially-Blinded, Dose-Ranging Phase 1 Study to Assess the Safety, Tolerability, and Immunogenicity of a Recombinant Coronavirus-Like Particle COVID 19 Vaccine in Adults 18-55 Years of Age</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Medicago</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Medicago</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study will be a randomized, partially-blinded, prime-boost, staggered dose-escalation&#xD;
+      Phase 1 study intended to assess the safety, tolerability, and immunogenicity of the&#xD;
+      Coronavirus-Like Particle COVID-19 Vaccine at three dose levels (3.75 µg, 7.5 µg, and 15 µg&#xD;
+      VLP) unadjuvanted or adjuvanted with either CpG 1018 or AS03 in healthy adults 18 to 55 years&#xD;
+      of age, who have been tested for the absence of SARS-CoV-2 antibodies.&#xD;
+&#xD;
+      At each dose level, the vaccine will initially be administered to a small number of subjects.&#xD;
+      Vaccinations of the first 6 subjects at the lowest dose level will be staggered so that each&#xD;
+      vaccination must be performed at least 30 minutes apart. Vaccination of the remaining&#xD;
+      subjects at the same dose level and the next higher vaccine dose level will be administered&#xD;
+      with approval of the Independent Data Monitoring Committee (IDMC). The same process will be&#xD;
+      followed for the second vaccine administration. All subjects will be followed for a period of&#xD;
+      12 months after the second administration of the vaccine for safety and immunogenicity&#xD;
+      testing at the end of the follow-up period.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">July 10, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">September 20, 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+    <masking_description>Partially-blinded</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Immediate adverse event (AEs)</measure>
+    <time_frame>30 minutes</time_frame>
+    <description>Percentage, intensity, and relationship to vaccination of immediate adverse events (AEs)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Solicited local and systemic adverse events (AEs)</measure>
+    <time_frame>7 days</time_frame>
+    <description>Percentage, intensity, and relationship to vaccination of solicited local and systemic adverse events (AEs) following each vaccination</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Unsolicited adverse events (AEs)</measure>
+    <time_frame>21 days</time_frame>
+    <description>Percentage, intensity, and relationship of unsolicited adverse events (AEs) following each vaccine administration</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Serious adverse events (SAEs), adverse events (AEs) leading to withdrawal, adverse event of special interest (AESI) (including vaccine-enhanced disease) and deaths</measure>
+    <time_frame>21 days</time_frame>
+    <description>Occurrences of serious adverse events (SAEs), adverse events (AEs) leading to withdrawal, adverse event of special interest (AESIs) (including vaccine-enhanced disease (VED)), and deaths following each vaccine administration</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety labs</measure>
+    <time_frame>3 days</time_frame>
+    <description>Number and percentage of subjects with normal and abnormal clinically significant urine, haematological and biochemical values prior to and 3 days following each vaccination.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Neutralizing antibody (Nab assay) response</measure>
+    <time_frame>21 days</time_frame>
+    <description>Nab response induced by the vaccine against the SARS-CoV-2 virus</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Specific Th1 cell-mediated immunity (CMI) response</measure>
+    <time_frame>21 days</time_frame>
+    <description>Cell-mediated immunity (CMI) response induced by the vaccine against the SARS-CoV-2 virus after each vaccination, as measured by Interferon-gamma (IFN-γ) enzyme-linked immunospot (ELISpot)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Specific Th2 cell-mediated immunity (CMI) response</measure>
+    <time_frame>21 days</time_frame>
+    <description>Cell-mediated immunity (CMI) response induced by the vaccine against the SARS-CoV-2 virus after each vaccination, as measured by Interleukin-4 (IL-4) ELISpot</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Serious adverse events (SAEs), adverse events (AEs) leading to withdrawal, adverse event of special interest (AESI) (including vaccine-enhanced disease) and deaths</measure>
+    <time_frame>Day 42 to 386</time_frame>
+    <description>Occurrences of serious adverse events (SAEs), adverse events (AEs) leading to withdrawal, adverse event of special interest (AESIs) (including vaccine-enhanced disease (VED)), and deaths from 22 days after the last vaccination up to the end of the study</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Specific antibody response induced by the vaccine against the SARS-CoV-2 virus measured by total IgG and/or IgM levels</measure>
+    <time_frame>Day 21, 42, 201 and 386</time_frame>
+    <description>Specific antibody response induced by the vaccine against the SARS-CoV-2 virus, as measured by total IgG and/or IgM levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neutralizing antibody (Nab assay) response induced by the treatment groups against the SARS-CoV-2 virus</measure>
+    <time_frame>Day 201 and 386</time_frame>
+    <description>Neutralizing antibody (Nab assay) response induced by the treatment groups against the SARS-CoV-2 virus</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Specific Th1 cell-mediated immunity (CMI) response induced by the vaccine against the SARS-CoV-2 virus</measure>
+    <time_frame>Day 201 and 386</time_frame>
+    <description>Specific Th1 cell-mediated immunity (CMI) response induced by the vaccine against the SARS-CoV-2 virus measured by IFN- γ ELISpot</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Specific Th2 cell-mediated immunity (CMI) response induced by the vaccine against the SARS-CoV-2 virus</measure>
+    <time_frame>Days 201 and 386</time_frame>
+    <description>Specific Th2 cell-mediated immunity (CMI) response induced by the vaccine against the SARS-CoV-2 virus measured by IL-4 ELISpot.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Specific cell-mediated immunity (CMI) response induced by the vaccine against the SARS-CoV-2 virus</measure>
+    <time_frame>Day 21, 201 and 386</time_frame>
+    <description>Specific cell-mediated immunity (CMI) response induced by the vaccine against the SARS-CoV-2 virus measured by the percentage of CD4+ T cells expressing functional markers</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Specific antibody response induced by the vaccine against plant glycans</measure>
+    <time_frame>Day 21, 201 and 386</time_frame>
+    <description>Specific antibody response induced by the vaccine against plant glycans as measured by serum IgE levels directed against Cross-reactive Carbohydrate Determinants (CCD) MUXF3 using bromelain glycoprotein</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Further characterization of the immune response and the safety profile of the Coronavirus-Like Particle COVID-19 Vaccine</measure>
+    <time_frame>Day 21, 42, 201, 386</time_frame>
+    <description>If deemed necessary, further characterization of the immune response and the safety profile of the Coronavirus-Like Particle COVID-19 Vaccine</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Laboratory-confirmed SARS-CoV-2 infection</measure>
+    <time_frame>Day 0 to 386</time_frame>
+    <description>Occurrence(s) of laboratory-confirmed (virologic or serologic methods) SARS-CoV-2 infection (with or without symptoms</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Characterization of the immune response of the Coronavirus-Like Particle COVID-19 Vaccine</measure>
+    <time_frame>Up to day 386</time_frame>
+    <description>• If deemed necessary, further characterization of the immune response of the Coronavirus-Like Particle COVID-19 Vaccine.</description>
+  </other_outcome>
+  <number_of_arms>9</number_of_arms>
+  <enrollment type="Anticipated">180</enrollment>
+  <condition>SARS-CoV 2</condition>
+  <arm_group>
+    <arm_group_label>Vaccine (3.75 µg) unadjuvanted</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>• Group 1: 3.75 µg of the Coronavirus-Like Particle COVID-19 Vaccine</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Vaccine (3.75 µg) adjuvanted with CpG 1018</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>• Group 2: 3.75 µg of the Coronavirus-Like Particle COVID-19 Vaccine adjuvanted with CpG 1018</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Vaccine (3.75 µg) adjuvanted with AS03</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>• Group 3: 3.75 µg of the Coronavirus-Like Particle COVID-19 Vaccine adjuvanted with AS03</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Vaccine (7.5 µg) unadjuvanted</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>• Group 4: 7.5 µg of the Coronavirus-Like Particle COVID-19 Vaccine unadjuvanted</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Vaccine (7.5 µg) adjuvanted with CpG 1018</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>• Group 5: 7.5 µg of the Coronavirus-Like Particle COVID-19 Vaccine adjuvanted with CpG 1018</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Vaccine (7.5 µg) adjuvanted with AS03</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>• Group 6: 7.5 µg of the Coronavirus-Like Particle COVID-19 Vaccine adjuvanted with AS03</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Vaccine (15 µg) unadjuvanted</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>• Group 7: 15 µg of the Coronavirus-Like Particle COVID-19 Vaccine unadjuvanted</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Vaccine (15 µg) adjuvanted with CpG 1018</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>• Group 8: 15 µg of the Coronavirus-Like Particle COVID-19 Vaccine adjuvanted with CpG 1018</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Vaccine (15 µg) adjuvanted with AS03</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>• Group 9: 15 µg of the Coronavirus-Like Particle COVID-19 Vaccine adjuvanted with AS03</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Intramuscular Vaccine</intervention_name>
+    <description>Subjects will receive two intramuscular (IM) injections 21 days apart (Day 0 and Day 21), into the deltoid region of the alternating arm (each arm will be injected once), with their assigned vaccine.</description>
+    <arm_group_label>Vaccine (15 µg) adjuvanted with AS03</arm_group_label>
+    <arm_group_label>Vaccine (15 µg) adjuvanted with CpG 1018</arm_group_label>
+    <arm_group_label>Vaccine (15 µg) unadjuvanted</arm_group_label>
+    <arm_group_label>Vaccine (3.75 µg) adjuvanted with AS03</arm_group_label>
+    <arm_group_label>Vaccine (3.75 µg) adjuvanted with CpG 1018</arm_group_label>
+    <arm_group_label>Vaccine (3.75 µg) unadjuvanted</arm_group_label>
+    <arm_group_label>Vaccine (7.5 µg) adjuvanted with AS03</arm_group_label>
+    <arm_group_label>Vaccine (7.5 µg) adjuvanted with CpG 1018</arm_group_label>
+    <arm_group_label>Vaccine (7.5 µg) unadjuvanted</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Subjects must meet all of the following inclusion criteria at the Screening (Visit 1)&#xD;
+        and/or Vaccination (Visit 2) visits to be eligible for participation in this study; no&#xD;
+        protocol waivers are allowed. All Investigator assessment-based judgements must be&#xD;
+        carefully and fully documented in the source documents:&#xD;
+&#xD;
+          1. Subjects must have read, understood, and signed the informed consent form (ICF) prior&#xD;
+             to participating in the study; subjects must also complete study-related procedures&#xD;
+             and communicate with the study staff at visits and by phone during the study;&#xD;
+&#xD;
+          2. At the Screening visit (Visit 1), male and female subjects must be 18 to 55 (has not&#xD;
+             yet had his/her 56th birthday) years of age, inclusive;&#xD;
+&#xD;
+          3. At Screening (Visit 1) and Vaccination (Visit 2), subject must have a body mass index&#xD;
+             (BMI) of ≥ 18.5 and &lt; 25 kg/m2;&#xD;
+&#xD;
+          4. Subjects are considered by the Investigator to be reliable and likely to cooperate&#xD;
+             with the assessment procedures and be available for the duration of the study;&#xD;
+&#xD;
+          5. Subjects must be healthy (no clinically significant health concerns) as determined by&#xD;
+             medical history, physical examination, vital signs, and clinical laboratory tests.&#xD;
+             Investigator discretion will be permitted with this inclusion criterion;&#xD;
+&#xD;
+          6. Female subjects of childbearing potential must have a negative serum pregnancy test&#xD;
+             result at Screening (Visit 1) and a negative urine pregnancy test result at&#xD;
+             Vaccination (Visit 2 and Visit 4).&#xD;
+&#xD;
+             Non-childbearing females are defined as:&#xD;
+&#xD;
+               -  Surgically-sterile (defined as bilateral tubal ligation, hysterectomy or&#xD;
+                  bilateral oophorectomy performed more than one month prior to the first study&#xD;
+                  vaccination); or&#xD;
+&#xD;
+               -  Post-menopausal (absence of menses for 12 consecutive months and age consistent&#xD;
+                  with natural cessation of ovulation);&#xD;
+&#xD;
+          7. Female subjects of childbearing potential must use an effective method of&#xD;
+             contraception for one month prior to vaccination (Visit 2) and agree to continue&#xD;
+             employing highly effective birth control measures for at least one month after the&#xD;
+             last administration of the investigational product (or in the case of early&#xD;
+             termination, she must not plan to become pregnant for at least one month after her&#xD;
+             last study vaccination). The following relationship or methods of contraception are&#xD;
+             considered to be highly effective:&#xD;
+&#xD;
+               -  Combined (estrogen and progestogen containing) hormonal contraception associated&#xD;
+                  with inhibition of ovulation:&#xD;
+&#xD;
+               -  Oral;&#xD;
+&#xD;
+               -  Intravaginal;&#xD;
+&#xD;
+               -  Transdermal;&#xD;
+&#xD;
+               -  Progestogen-only hormonal contraception associated with inhibition of ovulation:&#xD;
+&#xD;
+               -  Oral;&#xD;
+&#xD;
+               -  Injectable;&#xD;
+&#xD;
+               -  Implantable;&#xD;
+&#xD;
+               -  Intra-uterine device with or without hormonal release;&#xD;
+&#xD;
+               -  Vasectomised partner, provided that this partner is the sole sexual partner of&#xD;
+                  the study participant and that the vasectomised partner has received a medical&#xD;
+                  assessment of the surgical success;&#xD;
+&#xD;
+               -  Credible self-reported history of heterosexual vaginal intercourse abstinence&#xD;
+                  prior to and for at least one month after the last administration of the&#xD;
+                  investigational product ;&#xD;
+&#xD;
+               -  Female partner.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Subjects who meet any of the following criteria at the Screening (Visit 1) and/or&#xD;
+        Vaccination (Visit 2) visits will not be eligible for participation in this study; no&#xD;
+        protocol waivers are allowed. All Investigator assessment-based judgements must be&#xD;
+        thoroughly documented in the source documents:&#xD;
+&#xD;
+          1. Clinically significant acute or chronic pulmonary (including but not limited to&#xD;
+             chronic obstructive pulmonary disease or asthma), cardiovascular (including but not&#xD;
+             limited to arterial hypertension, coronary artery disease, or congestive heart&#xD;
+             failure), renal, metabolic (including but not limited to type 2 diabetes), or other&#xD;
+             somatic (medical) or neuropsychiatric illness within 3 months prior to Screening&#xD;
+             (Visit 1), excessive alcohol use or drug abuse, as determined by medical history,&#xD;
+             physical examination, vital signs, and clinical laboratory tests.&#xD;
+&#xD;
+             Investigator discretion is permitted with this exclusion criterion and must be&#xD;
+             carefully and fully documented in the source documents;&#xD;
+&#xD;
+          2. Any unexplained clinical syndrome (including, but not limited to, chronic fatigue&#xD;
+             syndrome, Raynaud's syndrome, unexplained pain syndromes such as fibromyalgia, etc.);&#xD;
+&#xD;
+          3. Acute disease defined as presence of any moderate or severe acute illness with or&#xD;
+             without a fever within 48 hours prior to Vaccination (Visit 2);&#xD;
+&#xD;
+          4. Prior exposure to SARS-CoV-2 as determined by detection of IgM or IgG antibodies&#xD;
+             against SARS-CoV-2 at Screening (Visit 1) and Vaccination (Visit 2);&#xD;
+&#xD;
+          5. Any confirmed or suspected current immunosuppressive condition or immunodeficiency,&#xD;
+             including cancer, human immunodeficiency virus (HIV), hepatitis B or C infection&#xD;
+             (subjects with a history of cured hepatitis B or C infection without any signs of&#xD;
+             immunodeficiency at present time are allowed). Investigator discretion is permitted&#xD;
+             with this exclusion criterion;&#xD;
+&#xD;
+          6. Current autoimmune disease (such as rheumatoid arthritis, systemic lupus erythematosus&#xD;
+             or multiple sclerosis). Investigator discretion is permitted with this exclusion&#xD;
+             criterion, and subjects may be eligible to participate with appropriate written&#xD;
+             justification in the source document (i.e. subjects with a history of autoimmune&#xD;
+             disease who are disease-free without treatment for three years or more, or on stable&#xD;
+             thyroid replacement therapy, mild psoriasis [i.e. a small number of minor plaques&#xD;
+             requiring no systemic treatment], etc.);&#xD;
+&#xD;
+          7. Administration of any medication or treatment that may alter the vaccine immune&#xD;
+             responses, such as:&#xD;
+&#xD;
+               -  Systemic glucocorticoids within one month prior to Vaccination (Visit 2).&#xD;
+                  Inhaled, nasal, dermal, intraarticular, ophthalmic and other topical&#xD;
+                  glucocorticoids are permitted;&#xD;
+&#xD;
+               -  Cytotoxic, antineoplastic, or immunosuppressant drugs - within 36 months prior to&#xD;
+                  Vaccination (Visit 2);&#xD;
+&#xD;
+               -  Any immunoglobulin preparations or blood products, blood transfusion - within 6&#xD;
+                  months prior to Vaccination (Visit 2);&#xD;
+&#xD;
+          8. Administration of any vaccine within 30 days prior to Vaccination (Visit 2); planned&#xD;
+             administration of any vaccine during the study (up to blood sampling on Day 42 of the&#xD;
+             study). Immunization on an emergency basis during the study will be evaluated on&#xD;
+             case-by-case basis by the Investigator;&#xD;
+&#xD;
+          9. Administration of any other SARS-CoV-2 / COVID-19, or other experimental coronavirus&#xD;
+             vaccine at any time prior to or during the study;&#xD;
+&#xD;
+         10. Known current or previous laboratory-confirmed SARS-CoV-1 or SARS-CoV-2 / COVID 19&#xD;
+             infection as documented by a positive PCR test or positive serological test;&#xD;
+&#xD;
+         11. Subjects at high risk of contracting SARS-CoV-2/COVID-19 infection, including but not&#xD;
+             limited to the individuals with known close contact of anyone with&#xD;
+             laboratory-confirmed SARS-CoV-2 / COVID-19 infection within 2 weeks prior to vaccine&#xD;
+             administration, those who traveled outside Canada for any duration within 30 days&#xD;
+             before the study vaccination, healthcare workers in acute care hospitals,&#xD;
+             rehabilitation hospitals, mental health hospitals, long term care facilities,&#xD;
+             emergency departments, and others who through their work must come into close&#xD;
+             face-to-face contact with their clients or patients (including, but not limited to,&#xD;
+             physiotherapists, dentists, hair dressers/barbers, etc.);&#xD;
+&#xD;
+         12. Use of any investigational or non-registered product within 30 days or 5 half-lives,&#xD;
+             whichever is longer, prior to Vaccination (Visit 2) or planned use during the study&#xD;
+             period;&#xD;
+&#xD;
+         13. Have a rash, dermatological condition, tattoos, muscle mass, or any other&#xD;
+             abnormalities at injection site that may interfere with injection site reaction&#xD;
+             rating. Investigator discretion will be permitted with this exclusion criterion;&#xD;
+&#xD;
+         14. Use of any prescription medication on a regular basis for more than 30 continuous days&#xD;
+             within the last 3 months, with the following exceptions:&#xD;
+&#xD;
+               -  Medications listed among the methods of contraception in inclusion criterion 7;&#xD;
+&#xD;
+               -  Subjects on stable thyroid replacement therapy, as noted in exclusion criterion&#xD;
+                  6.&#xD;
+&#xD;
+         15. Use of any prescription antiviral drugs with the intention of COVID-19 prophylaxis,&#xD;
+             including those that are thought to be effective for prevention of COVID-19 but have&#xD;
+             not been licensed for this indication, within one month prior to Vaccination (Visit&#xD;
+             2);&#xD;
+&#xD;
+         16. Use of prophylactic medications (e.g. antihistamines [H1 receptor antagonists],&#xD;
+             nonsteroidal anti-inflammatory drugs [NSAIDs], systemic and topical glucocorticoids,&#xD;
+             non-opioid and opioid analgesics) within 24 hours prior to the Vaccination (Visit 2)&#xD;
+             to prevent or pre-empt symptoms due to vaccination;&#xD;
+&#xD;
+         17. History of allergy to any of the constituents of the Coronavirus-Like Particle&#xD;
+             COVID-19 Vaccine, vaccine adjuvants, or tobacco;&#xD;
+&#xD;
+         18. History of anaphylactic allergic reactions to plants or plant components (including&#xD;
+             fruits and nuts);&#xD;
+&#xD;
+         19. Currently smoke more than 10 cigarettes per month or any use of vaping products;&#xD;
+&#xD;
+         20. Subjects with a history of Guillain-Barré Syndrome;&#xD;
+&#xD;
+         21. Any female subject who has a positive or doubtful pregnancy test result prior to&#xD;
+             vaccination or who is lactating;&#xD;
+&#xD;
+         22. Subjects identified as an Investigator or employee of the Investigator or clinical&#xD;
+             site with direct involvement in the proposed study, or identified as an immediate&#xD;
+             family member (i.e. parent, spouse, natural or adopted child) of the Investigator or&#xD;
+             employee with direct involvement in the proposed study, or any employees of Medicago.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Brian J Ward, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Medicago</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Syneos Health</name>
+      <address>
+        <city>Montréal</city>
+        <state>Quebec</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Syneos Health</name>
+      <address>
+        <city>Québec</city>
+        <state>Quebec</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>June 18, 2020</study_first_submitted>
+  <study_first_submitted_qc>June 25, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">June 29, 2020</study_first_posted>
+  <last_update_submitted>October 21, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 21, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 23, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

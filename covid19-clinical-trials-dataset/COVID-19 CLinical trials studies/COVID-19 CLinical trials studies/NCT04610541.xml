@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2287">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04610541</url>
+  </required_header>
+  <id_info>
+    <org_study_id>REM-ENY-01</org_study_id>
+    <nct_id>NCT04610541</nct_id>
+  </id_info>
+  <brief_title>REMdesivir-HU Clinical Study and Severe Covid-19 Patients</brief_title>
+  <official_title>Open-label Study to Assess the Safety of REMdesivir-HU as Eligible Novel therapY for Moderate and Severe Covid-19 Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Pecs</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>HECRIN Consortium</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hungarian Ministry of Innovation and Technology</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Pecs</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a Phase 3, open-label, multi-center, interventional safety study of REM therapy in&#xD;
+      participants 12 years of age or older with COVID-19, pneumonia and oxygen supplementation.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">October 12, 2020</start_date>
+  <completion_date type="Anticipated">November 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">October 30, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>open-label, multi-center, interventional safety study</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To assess the safety and tolerability of REM use in Hungary in the conditionally approved indication (EMA)</measure>
+    <time_frame>30 days</time_frame>
+    <description>The primary endpoint of the study is the proportion of patients with at least one treatment-emergent AESI (hypersensitivity including infusion-related reaction, anaphylactic reaction, acute respiratory failure, hypotension, hepatic toxicity and nephrotoxicity).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The proportion of patients with at least 1 treatment-emergent adverse event</measure>
+    <time_frame>30 days</time_frame>
+    <description>Secondary safety endpoint</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients with treatment-emergent clinical</measure>
+    <time_frame>30 days</time_frame>
+    <description>Secondary safety endpoint laboratory abnormalities (separately for the following parameters: ALT, AST, INR, HGB, Bilirubin, ALP, Creatinine, eGFR)</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Time to recovery (days)</measure>
+    <time_frame>30 days</time_frame>
+    <description>Secondary efficacy endpoint</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Time to discharge from hospital (days)</measure>
+    <time_frame>30 days</time_frame>
+    <description>Secondary efficacy endpoint</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Number and proportion of patients at prespecified timepoints in each category of the WHO Ordinal Scale for Clinical Improvement</measure>
+    <time_frame>30 days</time_frame>
+    <description>Secondary efficacy endpoint</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Number and proportion of patients at prespecified in each category</measure>
+    <time_frame>30 days</time_frame>
+    <description>Secondary efficacy endpoint - timepoints in each category (Ambient air, Low flow, Medium Flow, High Flow, Non invasive ventilation, Invasive ventilation, ECMO)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Proportion of participants with normalization of fever</measure>
+    <time_frame>30 days</time_frame>
+    <description>Secondary efficacy endpoint</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Proportion of participants with normalization of oxygen saturation</measure>
+    <time_frame>30 days</time_frame>
+    <description>Secondary efficacy endpoint - proportion of participants with normalization of oxygen saturation (&gt;=95%) through Day 10 with 14 days follow-up after the last dose</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Number and proportion of patients</measure>
+    <time_frame>30 days</time_frame>
+    <description>Exploratory endpoints - Number and proportion of patients at prespecified timepoints in each category of the 8-point ordinal scale of disease severity.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Proportion of patients with clinically relevant improvement in radiological findings</measure>
+    <time_frame>30 days</time_frame>
+    <description>Exploratory endpoints - Proportion of patients with clinically relevant improvement in radiological findings as assessed by the investigator at discharge from hospital</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Proportion of patients with COVID19 complications/remaining symptoms</measure>
+    <time_frame>30 days</time_frame>
+    <description>Exploratory endpoints - Proportion of patients with COVID19 complications/remaining symptoms as assessed by the investigator at discharge from hospital</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Proportion of patients with at least one treatment- or intervention-related adverse event</measure>
+    <time_frame>30 days</time_frame>
+    <description>Exploratory endpoints</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">2000</enrollment>
+  <condition>SARS-CoV-2 Infection</condition>
+  <arm_group>
+    <arm_group_label>Remdesivir-HU</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Day 1 - single loading dose of remdesivir-HU 200 mg given by intravenous infusion&#xD;
+• Day 2 onwards - 100 mg given once daily by intravenous infusion.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Remdesivir-HU</intervention_name>
+    <description>Remdesivir-HU 100 mg concentrate for solution for infusion</description>
+    <arm_group_label>Remdesivir-HU</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Males or females aged 12yrs and older with body weight at least 40kg&#xD;
+&#xD;
+          -  Hospitalized with COVID-19 confirmed by PCR and/or COVID-19 typical symptoms with&#xD;
+             pneumonia:&#xD;
+&#xD;
+             ▪ In case of no confirmed PCR test result available at screening, typical symptoms can&#xD;
+             also apply&#xD;
+&#xD;
+          -  requiring supplemental oxygen at screening&#xD;
+&#xD;
+             ▪ at the discretion of the investigator, any form of O2 support can apply&#xD;
+&#xD;
+          -  Do not have access to Veklury treatment&#xD;
+&#xD;
+             ▪ Patient may be under other treatment against COVID-19 (except for&#xD;
+             chloroquine/hydroxychloroquine)&#xD;
+&#xD;
+          -  Willing and able to provide valid written informed consent prior to performing study&#xD;
+             procedures (for those &lt;18yrs of age, parental consent and patient assent is required).&#xD;
+             For an unconscious or comatose patient written informed consent given by next of kin&#xD;
+             or a legal representative is also accepted. If none of the above consents are&#xD;
+             available the investigator can enroll the patient as described in 21 CFR 50.24&#xD;
+             (involving emergency research).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Known liver disease, hepatic impairment and/or Alanine Transaminase (ALT) or Aspartate&#xD;
+        Transaminase (AST) ≥ 5 times the upper limit of normal&#xD;
+&#xD;
+          -  Known severe renal disease (including patients receiving hemodialysis or&#xD;
+             hemofiltration) and/or estimated glomerular filtration rate (eGFR) &lt; 30 ml/min.&#xD;
+&#xD;
+          -  Pregnancy or breast feeding at the discretion of the investigator&#xD;
+&#xD;
+          -  Anticipated discharge from the hospital or transfer to another hospital which is not a&#xD;
+             study site within 120 hours&#xD;
+&#xD;
+          -  Know allergy to any anti-viral medication&#xD;
+&#xD;
+          -  Hypersensitivity to the active substance(s) or to any of the excipients&#xD;
+&#xD;
+          -  Current (or 48 hours prior) treatment with chloroquine/hydroxychloroquine Other&#xD;
+             investigationsl treatment up to 2x the &quot;emptying&quot; time of treatment, or if this is not&#xD;
+             known for 60 days, except in the case of a favipiravir study. In case of the clinical&#xD;
+             trial of favipiravir the petinents can be enrolled in the study if afterthe end of&#xD;
+             study / early termination visit.&#xD;
+&#xD;
+          -  Any medical condition that the examining physician deems unsuitable for the patient to&#xD;
+             participate in the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>12 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Department of Pulmonology Semmelweis University</name>
+      <address>
+        <city>Budapest</city>
+        <zip>1083</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>National Korányi Institute for Pulmonology</name>
+      <address>
+        <city>Budapest</city>
+        <zip>1121</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>North - Central Buda Center New St. János Hospital</name>
+      <address>
+        <city>Budapest</city>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Institute of Infectology, University of Debrecen</name>
+      <address>
+        <city>Debrecen</city>
+        <zip>4031</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>1st Department of Medicine, University of Pécs</name>
+      <address>
+        <city>Pécs</city>
+        <zip>7624</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Department of Internal Medicine University of Szeged</name>
+      <address>
+        <city>Szeged</city>
+        <zip>6720</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>First Department of Internal Medicine, University of Szeged</name>
+      <address>
+        <city>Szeged</city>
+        <zip>6720</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Hungary</country>
+  </location_countries>
+  <link>
+    <url>https://www.who.int/news-room/detail</url>
+    <description>World Health Organization (WHO) 2020</description>
+  </link>
+  <link>
+    <url>https://www.medrxiv.org/content/10.1101/2020.03.09.20032896v1</url>
+    <description>Kujawski et al., First 12 patients with coronavirus disease 2019 (COVID-19) in the United States,</description>
+  </link>
+  <link>
+    <url>http://www.nejm.org/doi/full/10.1056/NEJMoa2007764</url>
+    <description>Beigel et al., Remdesivir for the Treatment of Covid-19 - Final Report,</description>
+  </link>
+  <link>
+    <url>https://www.nejm.org/doi/full/10.1056/NEJMoa2015301</url>
+    <description>Goldman et al., Remdesivir for 5 or 10 Days in Patients with Severe Covid-19</description>
+  </link>
+  <link>
+    <url>https://www.nejm.org/doi/full/10.1056/NEJMoa1910993</url>
+    <description>Mulangu et al., A Randomized, Controlled Trial of Ebola Virus Disease Therapeutics,</description>
+  </link>
+  <link>
+    <url>https://www.nejm.org/doi/10.1056/NEJMoa2001191</url>
+    <description>Holshue et al., First Case of 2019 Novel Coronavirus in the United States</description>
+  </link>
+  <link>
+    <url>https://www.ema.europa.eu/en</url>
+    <description>European Medicines Agency - Velury</description>
+  </link>
+  <link>
+    <url>https://www.ema.europa.eu/en</url>
+    <description>COVID-19 Therapeutic Trial Synopsis, Draft February 18, 2020</description>
+  </link>
+  <results_reference>
+    <citation>Wang Y, Zhang D, Du G, Du R, Zhao J, Jin Y, Fu S, Gao L, Cheng Z, Lu Q, Hu Y, Luo G, Wang K, Lu Y, Li H, Wang S, Ruan S, Yang C, Mei C, Wang Y, Ding D, Wu F, Tang X, Ye X, Ye Y, Liu B, Yang J, Yin W, Wang A, Fan G, Zhou F, Liu Z, Gu X, Xu J, Shang L, Zhang Y, Cao L, Guo T, Wan Y, Qin H, Jiang Y, Jaki T, Hayden FG, Horby PW, Cao B, Wang C. Remdesivir in adults with severe COVID-19: a randomised, double-blind, placebo-controlled, multicentre trial. Lancet. 2020 May 16;395(10236):1569-1578. doi: 10.1016/S0140-6736(20)31022-9. Epub 2020 Apr 29. Erratum in: Lancet. 2020 May 30;395(10238):1694.</citation>
+    <PMID>32423584</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Holshue ML, DeBolt C, Lindquist S, Lofy KH, Wiesman J, Bruce H, Spitters C, Ericson K, Wilkerson S, Tural A, Diaz G, Cohn A, Fox L, Patel A, Gerber SI, Kim L, Tong S, Lu X, Lindstrom S, Pallansch MA, Weldon WC, Biggs HM, Uyeki TM, Pillai SK; Washington State 2019-nCoV Case Investigation Team. First Case of 2019 Novel Coronavirus in the United States. N Engl J Med. 2020 Mar 5;382(10):929-936. doi: 10.1056/NEJMoa2001191. Epub 2020 Jan 31.</citation>
+    <PMID>32004427</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Lescure FX, Bouadma L, Nguyen D, Parisey M, Wicky PH, Behillil S, Gaymard A, Bouscambert-Duchamp M, Donati F, Le Hingrat Q, Enouf V, Houhou-Fidouh N, Valette M, Mailles A, Lucet JC, Mentre F, Duval X, Descamps D, Malvy D, Timsit JF, Lina B, van-der-Werf S, Yazdanpanah Y. Clinical and virological data of the first cases of COVID-19 in Europe: a case series. Lancet Infect Dis. 2020 Jun;20(6):697-706. doi: 10.1016/S1473-3099(20)30200-0. Epub 2020 Mar 27. Erratum in: Lancet Infect Dis. 2020 May 19;:. Lancet Infect Dis. 2020 Jun;20(6):e116.</citation>
+    <PMID>32224310</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>de Wit E, Feldmann F, Cronin J, Jordan R, Okumura A, Thomas T, Scott D, Cihlar T, Feldmann H. Prophylactic and therapeutic remdesivir (GS-5734) treatment in the rhesus macaque model of MERS-CoV infection. Proc Natl Acad Sci U S A. 2020 Mar 24;117(12):6771-6776. doi: 10.1073/pnas.1922083117. Epub 2020 Feb 13.</citation>
+    <PMID>32054787</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Sheahan TP, Sims AC, Graham RL, Menachery VD, Gralinski LE, Case JB, Leist SR, Pyrc K, Feng JY, Trantcheva I, Bannister R, Park Y, Babusis D, Clarke MO, Mackman RL, Spahn JE, Palmiotti CA, Siegel D, Ray AS, Cihlar T, Jordan R, Denison MR, Baric RS. Broad-spectrum antiviral GS-5734 inhibits both epidemic and zoonotic coronaviruses. Sci Transl Med. 2017 Jun 28;9(396). pii: eaal3653. doi: 10.1126/scitranslmed.aal3653.</citation>
+    <PMID>28659436</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Sheahan TP, Sims AC, Leist SR, Schäfer A, Won J, Brown AJ, Montgomery SA, Hogg A, Babusis D, Clarke MO, Spahn JE, Bauer L, Sellers S, Porter D, Feng JY, Cihlar T, Jordan R, Denison MR, Baric RS. Comparative therapeutic efficacy of remdesivir and combination lopinavir, ritonavir, and interferon beta against MERS-CoV. Nat Commun. 2020 Jan 10;11(1):222. doi: 10.1038/s41467-019-13940-6.</citation>
+    <PMID>31924756</PMID>
+  </results_reference>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>October 11, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 29, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 30, 2020</study_first_posted>
+  <last_update_submitted>November 23, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 23, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 27, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>SARS-CoV-2, COVID-19</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

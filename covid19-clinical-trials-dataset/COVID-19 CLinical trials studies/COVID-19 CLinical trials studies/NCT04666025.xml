@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2089">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04666025</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20153</org_study_id>
+    <secondary_id>NCI-2020-11156</secondary_id>
+    <secondary_id>20153</secondary_id>
+    <secondary_id>P30CA033572</secondary_id>
+    <nct_id>NCT04666025</nct_id>
+  </id_info>
+  <brief_title>SARS-CoV-2 Donor-Recipient Immunity Transfer</brief_title>
+  <official_title>Observational Study of SARS-CoV-2 Donor-Recipient Immunity Transfer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>City of Hope Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>City of Hope Medical Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study investigates whether donors with previous exposure to COVID-19 can pass their&#xD;
+      immunity by hematopoietic (blood) stem cell transplant (HCT) donation to patients that have&#xD;
+      not been exposed. Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is the virus&#xD;
+      that causes the COVID19 infection. This study may provide critical information for medical&#xD;
+      decision-making and possible immunotherapy interventions in immunocompromised transplant&#xD;
+      recipients, who are at high risk for COVID19 severe illness.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVE:&#xD;
+&#xD;
+      I. To establish the possibility of anti-SARS-CoV-2 adaptive immunity transfer from matched&#xD;
+      related (MRD) or unrelated (MUD) HCT donor to HCT recipient.&#xD;
+&#xD;
+      SECONDARY OBJECTIVES:&#xD;
+&#xD;
+      I. To explore anti-SARS-CoV-2 adaptive immunity transfer in the haploidentical (haplo) HCT&#xD;
+      setting.&#xD;
+&#xD;
+      II. To assess the prevalence and change over time of SARS-CoV-2 seropositive donors among all&#xD;
+      consented donors.&#xD;
+&#xD;
+      OUTLINE:&#xD;
+&#xD;
+      DONORS: Prior to HCT, sibling donors (MRD and haplo) undergo a nasopharyngeal swab per&#xD;
+      standard of care for SARS-Cov-2 testing. For MUD donors, initial testing may consist of a&#xD;
+      questionnaire. All donors undergo collection of blood and saliva at the time of&#xD;
+      granulocyte-colony stimulating factor (G-CSF). Donors' medical charts are also reviewed.&#xD;
+&#xD;
+      RECIPIENTS: Patients undergo a nasopharyngeal swab for SARS-Cov-2 testing at 30, 60, 90, 120&#xD;
+      days post-HCT, and afterwards as deemed necessary by the treating physician. Patients also&#xD;
+      undergo the collection of blood and saliva specimens at days 30, 60, 90, 120, 150, and 180&#xD;
+      post-HCT. Recipients' medical charts are also reviewed.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 23, 2020</start_date>
+  <completion_date type="Anticipated">September 23, 2022</completion_date>
+  <primary_completion_date type="Anticipated">September 23, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Severe acute respiratory syndrome (SARS)-Coronavirus 2 (CoV-2) Spike protein (S)-specific IgG concentration and T cell levels</measure>
+    <time_frame>Up to 180 days post-hematopoietic stem cell transplant (HCT)</time_frame>
+    <description>Testing for SARS-CoV-2 antibodies will be performed on serum samples using in house developed enzyme-linked immunosorbent assay (ELISA). The qualitative assays will be developed to investigate Spike subunit 1 (S1)-specific antibodies of the IgG, IgM and IgA subclasses in serum and saliva samples. All SARS-Cov-2 seropositive donor-HCT recipient pairs patients will undergo cellular immunogenicity evaluations using flow cytometry. The data analysis for estimating the effect of donor immunity transfer on functional cellular immunity through time will be exploratory in nature and will focus on graphical display and summary statistics. Longitudinal levels of T cells specific for SARS-CoV-2 S will be measured as a correlate of immunity transfer efficiency.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>SARS-CoV-2 nucleocapsid protein (N) -specific IgG concentration and T cell levels</measure>
+    <time_frame>Up to 180 days post-HCT</time_frame>
+    <description>Testing for SARS-CoV-2 antibodies will be performed on serum samples using in house developed ELISA. The qualitative assays will be developed to investigate nucleocapsid (N)-specific antibodies of the IgG, IgM and IgA subclasses in serum and saliva samples. All SARS-Cov-2 seropositive donor-HCT recipient pairs patients will undergo cellular immunogenicity evaluations using flow cytometry. The data analysis for estimating the effect of donor immunity transfer on functional cellular immunity through time will be exploratory in nature and will focus on graphical display and summary statistics. Longitudinal levels of T cells specific for SARS-CoV-2 N antigens will be measured as a correlate of immunity transfer efficiency.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>SARS-CoV-2 neutralizing antibodies</measure>
+    <time_frame>Up to 180 days post-HCT</time_frame>
+    <description>Evaluation of SARS-CoV-2 neutralizing antibody titers in serum samples will be performed using SARS-CoV-2 lentiviral-pseudovirus based on published protocols. Spike incorporation into the pseudovirus will be verified and quantified by western blot using Spike-specific antibodies (Sino Biological) and by ELISA using Spike Detection kit (Sino Biological), respectively.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV-2 IgA concentration</measure>
+    <time_frame>Up to 180 days post-HCT</time_frame>
+    <description>Testing for SARS-CoV-2 antibodies will be performed on serum samples using in house developed ELISA.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>SARS-CoV-2 -specific T cell memory profile and associated function</measure>
+    <time_frame>Up to 180 days post-HCT</time_frame>
+    <description>The data analysis for estimating the effect of donor immunity transfer on functional cellular immunity through time will be exploratory in nature and will focus on graphical display and summary statistics. Longitudinal levels of T cells specific for SARS-CoV-2 S or SARS-CoV-2 N antigens will be measured as a correlate of immunity transfer efficiency.</description>
+  </other_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">36</enrollment>
+  <condition>Accelerated Phase CML, BCR-ABL1 Positive</condition>
+  <condition>Acute Lymphoblastic Leukemia</condition>
+  <condition>Acute Myeloid Leukemia</condition>
+  <condition>Chronic Lymphocytic Leukemia</condition>
+  <condition>Chronic Phase CML, BCR-ABL1 Positive</condition>
+  <condition>COVID-19 Infection</condition>
+  <condition>Hematopoietic and Lymphoid Cell Neoplasm</condition>
+  <condition>Hodgkin Lymphoma</condition>
+  <condition>Lymphoblastic Lymphoma</condition>
+  <condition>Myelodysplastic Syndrome</condition>
+  <condition>Myelofibrosis</condition>
+  <condition>Myeloproliferative Neoplasm</condition>
+  <condition>Non-Hodgkin Lymphoma</condition>
+  <arm_group>
+    <arm_group_label>Observational (biospecimen collection, medical chart review)</arm_group_label>
+    <description>DONORS: Prior to HCT, sibling donors (MRD and haplo) undergo a nasopharyngeal swab per standard of care for SARS-Cov-2 testing. For MUD donors, initial testing may consist of a questionnaire. All donors undergo collection of blood and saliva at the time of granulocyte-colony stimulating factor (G-CSF). Donors' medical charts are also reviewed.&#xD;
+RECIPIENTS: Patients undergo a nasopharyngeal swab for SARS-Cov-2 testing at 30, 60, 90, 120 days post-HCT, and afterwards as deemed necessary by the treating physician. Patients also undergo the collection of blood and saliva specimens at days 30, 60, 90, 120, 150, and 180 post-HCT. Recipients' medical charts are also reviewed.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Biospecimen Collection</intervention_name>
+    <description>Undergo collection of nasopharyngeal swabs, blood, and saliva samples</description>
+    <arm_group_label>Observational (biospecimen collection, medical chart review)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Diagnostic Laboratory Biomarker Analysis</intervention_name>
+    <description>Correlative studies</description>
+    <arm_group_label>Observational (biospecimen collection, medical chart review)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Electronic Health Record Review</intervention_name>
+    <description>Medical charts are reviewed</description>
+    <arm_group_label>Observational (biospecimen collection, medical chart review)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Questionnaire Administration</intervention_name>
+    <description>Complete questionnaire</description>
+    <arm_group_label>Observational (biospecimen collection, medical chart review)</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Nasopharyngeal swabs, blood, saliva&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients (donors and recipients) scheduled to undergo a standard of care donor HCT&#xD;
+        procedure.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  ALL COHORTS: Documented written informed consent of the participant&#xD;
+&#xD;
+          -  ALL COHORTS: Recipients must have a planned allogeneic HCT procedure. MRD, MUD, and&#xD;
+             haplo HCT allowed. Usage of post-transplant cyclophosphamide (PTCy) permitted only in&#xD;
+             haplo setting&#xD;
+&#xD;
+          -  ALL COHORTS: GCSF-mobilized peripheral blood stem cell (PBSC) only as graft source&#xD;
+&#xD;
+          -  ALL COHORTS: Planned HCT with minimal to no-T cell depletion of graft for the&#xD;
+             treatment of the following hematologic malignancies:&#xD;
+&#xD;
+               -  Lymphoma (Hodgkin and non-Hodgkin)&#xD;
+&#xD;
+               -  Myelodysplastic syndrome&#xD;
+&#xD;
+               -  Acute lymphoblastic leukemia in first or second remission (for acute&#xD;
+                  lymphoblastic leukemia/lymphoblastic lymphoma, the disease status must be in&#xD;
+                  hematologic remission by bone marrow and peripheral blood. Persistent&#xD;
+                  lymphadenopathy on computed tomography [CT] or CT/positron emission tomography&#xD;
+                  [PET] scan without progression is allowed)&#xD;
+&#xD;
+               -  Acute myeloid leukemia in first or second remission&#xD;
+&#xD;
+               -  Chronic myelogenous leukemia in first chronic or accelerated phase, or in second&#xD;
+                  chronic phase&#xD;
+&#xD;
+               -  Other hematologic malignancies including chronic lymphocytic leukemia,&#xD;
+                  myeloproliferative disorders and myelofibrosis&#xD;
+&#xD;
+          -  ALL COHORTS: Willingness to&#xD;
+&#xD;
+               -  Provide blood samples and saliva specimens&#xD;
+&#xD;
+               -  Permit medical record review&#xD;
+&#xD;
+          -  ADDITIONAL CRITERIA FOR RECIPIENTS IN THE MAIN COHORT:&#xD;
+&#xD;
+               -  Absence of documented COVID-19 history and active COVID-19 infection&#xD;
+&#xD;
+          -  ADDITIONAL CRITERIA FOR RECIPIENTS IN THE REFERENCE COHORT: Active COVID-19 infection&#xD;
+             during HCT&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Monzr M Al Malki</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>City of Hope Comprehensive Cancer Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>City of Hope Medical Center</name>
+      <address>
+        <city>Duarte</city>
+        <state>California</state>
+        <zip>91010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Monzr M. Al Malki</last_name>
+      <email>malmalki@coh.org</email>
+    </contact>
+    <contact_backup>
+      <phone>626-359-8111</phone>
+    </contact_backup>
+    <investigator>
+      <last_name>Monzr M. Al Malki</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>December 10, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 10, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 14, 2020</study_first_posted>
+  <last_update_submitted>December 10, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 10, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 14, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Leukemia</mesh_term>
+    <mesh_term>Neoplasms</mesh_term>
+    <mesh_term>Precursor Cell Lymphoblastic Leukemia-Lymphoma</mesh_term>
+    <mesh_term>Leukemia, Lymphocytic, Chronic, B-Cell</mesh_term>
+    <mesh_term>Myelodysplastic Syndromes</mesh_term>
+    <mesh_term>Myeloproliferative Disorders</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

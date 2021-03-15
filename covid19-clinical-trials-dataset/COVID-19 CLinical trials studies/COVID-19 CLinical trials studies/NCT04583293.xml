@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3021">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04583293</url>
+  </required_header>
+  <id_info>
+    <org_study_id>UHDB/2020/076</org_study_id>
+    <nct_id>NCT04583293</nct_id>
+  </id_info>
+  <brief_title>Acute kIDnEy Injury in coviD-19</brief_title>
+  <acronym>AIDED</acronym>
+  <official_title>Long-term Outcomes After Acute Kidney Injury in Coronavirus Disease (COVID-19)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospitals of Derby and Burton NHS Foundation Trust</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Hospitals of Derby and Burton NHS Foundation Trust</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a prospective observational parallel group cohort study that will aim to recruit 220&#xD;
+      participants who were admitted to the hospital with COVID-19 between 1st March 2020 and 30th&#xD;
+      June 2020 (Group A - 110 participants who had COVID-19 with AKI; Group B - 110 participants&#xD;
+      who had COVID-19 without AKI). Data from groups A and B will be compared with AKI and non-AKI&#xD;
+      groups from an existing study database (ARID study, n=1125) who were recruited before the&#xD;
+      outbreak of the COVID-19 pandemic (recruitment 2013-2016) and who have all completed at least&#xD;
+      three years of follow up. Participants who have recovered from COVID-19 will be matched for&#xD;
+      analysis to participants from the ARID study for AKI status, baseline estimated glomerular&#xD;
+      filtration rate (eGFR) stage, age (± 5 years) and presence of diabetes. Potential&#xD;
+      participants will receive a letter of invitation along with a comprehensive participant&#xD;
+      information sheet (PIS).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      After the participants have read and understand the PIS, and had sufficient time (at least 24&#xD;
+      hours) to consider their participation in this study, the investigators will ask them to sign&#xD;
+      a consent form, which shows their willingness to take part. The investigators will then&#xD;
+      collect information from their medical records about their hospital admission with COVID-19,&#xD;
+      including their age, ethnicity, medical conditions, length of hospital stay, tablets or any&#xD;
+      other treatments they received, as well as details of their stay in the intensive care unit.&#xD;
+&#xD;
+      For the two groups - COVID AKI and COVID non-AKI, telephone follow-up with a study&#xD;
+      questionnaire will be performed at recruitment, 6-9 months and 12-15 months after hospital&#xD;
+      discharge. The study questionnaire will include the following:&#xD;
+&#xD;
+        1. Details of any medical event and date of medical event since last study follow-up.&#xD;
+&#xD;
+        2. Details of any hospital re-admission.&#xD;
+&#xD;
+        3. Details of current medication.&#xD;
+&#xD;
+      In addition, at the same time points, participants will be asked to attend their general&#xD;
+      practitioner surgery or other clinic to have simple clinical measurements (height, weight and&#xD;
+      blood pressure), blood and urine tests.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 8, 2020</start_date>
+  <completion_date type="Anticipated">October 2022</completion_date>
+  <primary_completion_date type="Anticipated">October 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of kidney disease progression at 12 months.</measure>
+    <time_frame>12 months after hospital discharge.</time_frame>
+    <description>Kidney disease progression will be defined as a decline in estimated glomerular filtration rate (eGFR; ml/min/1.73m2) of ≥30%</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of albuminuria at 6-9 months.</measure>
+    <time_frame>6-9 months after hospital discharge.</time_frame>
+    <description>Albuminuria will be defined as a urine albumin to creatinine ratio (UACR) of &gt;30mg/mmol.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of albuminuria at 12-15 months.</measure>
+    <time_frame>12-15 months after hospital discharge.</time_frame>
+    <description>Albuminuria will be defined as a urine albumin to creatinine ratio (UACR) of &gt;30mg/mmol.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of combined kidney disease progression and albuminuria at 6-9 months.</measure>
+    <time_frame>6-9 months after hospital discharge.</time_frame>
+    <description>Combined kidney disease progression outcome of ≥30% decline in eGFR (ml/min.1.73m2) and/or albuminuria (UACR&gt;30mg/mmol).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of combined kidney disease progression and albuminuria at 12-15 months.</measure>
+    <time_frame>12-15 months after hospital discharge.</time_frame>
+    <description>Combined kidney disease progression outcome of ≥30% decline in eGFR (ml/min.1.73m2) and/or albuminuria (UACR&gt;30mg/mmol).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Factors associated with all-cause mortality at 6-9 months.</measure>
+    <time_frame>6-9 months after hospital discharge.</time_frame>
+    <description>Multi-variable Cox proportional hazards models will be used to assess the factors associated with all-cause mortality</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Factors associated with all-cause mortality at 12-15 months.</measure>
+    <time_frame>12-15 months after hospital discharge.</time_frame>
+    <description>Multi-variable Cox proportional hazards models will be used to assess the factors associated with all-cause mortality</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of hospital readmissions at 6-9 months</measure>
+    <time_frame>6-9 months after hospital discharge.</time_frame>
+    <description>Number of hospital readmissions</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of hospital readmissions at 12-15 months</measure>
+    <time_frame>12-15 months after hospital discharge.</time_frame>
+    <description>Number of hospital readmissions</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">220</enrollment>
+  <condition>Acute Kidney Injury</condition>
+  <arm_group>
+    <arm_group_label>COVID AKI</arm_group_label>
+    <description>Participants who were admitted to the hospital with COVID-19 and developed AKI during their hospital stay.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>COVID non-AKI</arm_group_label>
+    <description>Participants who were admitted to the hospital with COVID-19 and did not develop AKI during their hospital stay.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>No intervention</intervention_name>
+    <description>This study does not involve any intervention or new treatment.</description>
+    <arm_group_label>COVID AKI</arm_group_label>
+    <arm_group_label>COVID non-AKI</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        People who were admitted to the hospital with COVID-19:&#xD;
+&#xD;
+          -  Group A: people who had COVID-19 with AKI.&#xD;
+&#xD;
+          -  Group B: people who had COVID-19 without AKI.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Adult patients greater or equal to 18 years of age.&#xD;
+&#xD;
+          2. Swab results positive for SARS-CoV-2.&#xD;
+&#xD;
+          3. Patients admitted to the hospital for ≥24hrs.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Paediatric patients as defined by age of &lt;18 years of age.&#xD;
+&#xD;
+          2. Patients &gt;90 years of age.&#xD;
+&#xD;
+          3. Swab results negative for SARS-CoV-2.&#xD;
+&#xD;
+          4. Patients on haemodialysis or peritoneal dialysis, pre-existing CKD stage 5 (eGFR&#xD;
+             &lt;15ml/min/1.73m2), solid organ transplant.&#xD;
+&#xD;
+          5. Inability/refusal to give informed consent to participate.&#xD;
+&#xD;
+          6. Death during the same hospital admission that AKI occurred.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>Nitin V Kolhe, Doctor</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University Hospitals of Derby and Burton NHS Foundation Trust</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Nitin V Kolhe, Doctor</last_name>
+    <phone>01332788266</phone>
+    <email>nitin.kolhe@nhs.net</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Maarten W Taal, Professor</last_name>
+    <phone>01332789344</phone>
+    <email>m.taal@nottingham.ac.uk</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University Hospitals of Derby and Burton NHS Foundation Trust</name>
+      <address>
+        <city>Derby</city>
+        <state>Derbyshire</state>
+        <zip>DE22 3DT</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nitin Kolhe, Dr</last_name>
+      <email>nitin.kolhe@nhs.net</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>October 6, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 9, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 12, 2020</study_first_posted>
+  <last_update_submitted>December 14, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 14, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 17, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Acute Kidney Injury</mesh_term>
+    <mesh_term>Wounds and Injuries</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

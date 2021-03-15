@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="136">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04614883</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020_0143</org_study_id>
+    <nct_id>NCT04614883</nct_id>
+  </id_info>
+  <brief_title>Analysis of Volatile Organic Compounds in Exhaled Air and in Sweat in the Context of Suspicion of COVID-19 Infection</brief_title>
+  <acronym>VOC-COVID-Diag</acronym>
+  <official_title>Analysis of Volatile Organic Compounds in Exhaled Air and in Sweat in Patients Referred to the Emergency Reception Service for Suspected COVID-19 Infection: Diagnostic Value and for Rapid Screening</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hopital Foch</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hopital Foch</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In the context of the actual pandemia of the Severe acute respiratory syndrome coronavirus 2&#xD;
+      (SARS-CoV-2) which requires a better diagnostic strategy for the management of patients.&#xD;
+&#xD;
+      The study of volatile organic compounds (VOC) detected in exhaled air or in sweat, is an&#xD;
+      innovative research area for respiratory diseases. The analysis of VOC can be done either by&#xD;
+      the technique of the mass spectrometry which allows the identification of each VOC in the&#xD;
+      exhaled air or by the technique of electronic nose, simpler and faster, which provides an&#xD;
+      idea of the general profile of the VOC without identifying them. The VOC have shown their&#xD;
+      interest in some situations, such as diagnostic or prognostic tool in patients followed for&#xD;
+      thoracic tumorous pathology or bronchial or pulmonary vascular diseases.&#xD;
+&#xD;
+      Moreover, it has recently been shown that properly trained dogs would be able to detect an&#xD;
+      olfactory signature of SARS-CoV-2 infection with a specificity greater than 90%; this&#xD;
+      olfactory signature corresponds to VOCs detectable by the flair of dogs (Nosaïs-Covid19&#xD;
+      study).&#xD;
+&#xD;
+      Validation of the diagnostic value of VOC analyzes by non-invasive and rapid methods&#xD;
+      (electronic nose analysis or mass spectrometry; detection by the scent of dogs) for the rapid&#xD;
+      detection and early diagnosis of a SARS-CoV-2 infection warrants the performance of this&#xD;
+      clinical study.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 21, 2020</start_date>
+  <completion_date type="Anticipated">October 2021</completion_date>
+  <primary_completion_date type="Anticipated">October 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Validate the interest of VOCs analyzed by electronic noses and / or mass spectrometry for the diagnosis of a COVID-19 infection</measure>
+    <time_frame>1 day</time_frame>
+    <description>Comparison of variation of Volatile Organic Compound (VOC) profiles in exhaled air of patients between patients with symptoms suggestive of COVID and infection confirmed by Reverse Transcriptase Polymerase Chain Reaction (RT-PCR) and those whose infection is ruled out based on the negativity of RT-PCR and clinical data</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Identify the nature of VOCs associated with infection by SARS-CoV-2 by mass spectrometry in exhaled air and in sweat</measure>
+    <time_frame>1 day</time_frame>
+    <description>The equivalences and differences in nature of VOCs associated with infection with SARS-CoV-2 between exhaled air and sweat.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of the specificity and sensitivity of canine olfactory detection of COVs associated with infection by SARS-CoV-2 (COVID-19)</measure>
+    <time_frame>1 day</time_frame>
+    <description>Proportion of success in detecting samples from patients with symptoms suggestive of COVID and infection confirmed by PCR.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Asymptomatic patients</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Patient with no symptom of COVID-19 infection but for whom a PCR test needs to be done because he has been in contact with a COVID-19 positive person</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Symptomatic patients with positive PCR</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Patients with symptoms of COVID-19 and whose PCR result is positive</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Symptomatic patients with negative PCR but with seroconversion within 4 to 8 weeks</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Patients with symptoms of COVID-19 and whose PCR result is negative at inclusion but presents a seroconversion within 4 to 8 weeks post inclusion</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Volatile Organic Compounds analysis</intervention_name>
+    <description>VOC analysis in exhaled air with e-noses and mass spectrometry. VOC analysis in sweat with mass spectrometry.</description>
+    <arm_group_label>Asymptomatic patients</arm_group_label>
+    <arm_group_label>Symptomatic patients with negative PCR but with seroconversion within 4 to 8 weeks</arm_group_label>
+    <arm_group_label>Symptomatic patients with positive PCR</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Canine odor detection of Volatile Organic Compounds</intervention_name>
+    <description>VOC analysis in sweat by trained dogs.</description>
+    <arm_group_label>Asymptomatic patients</arm_group_label>
+    <arm_group_label>Symptomatic patients with negative PCR but with seroconversion within 4 to 8 weeks</arm_group_label>
+    <arm_group_label>Symptomatic patients with positive PCR</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients treated in the emergency admission department for suspected SARS-CoV-2&#xD;
+             infection&#xD;
+&#xD;
+          -  Patients must be 18 years of age or older&#xD;
+&#xD;
+          -  Fluent in the French language&#xD;
+&#xD;
+          -  Have signed a consent form&#xD;
+&#xD;
+          -  Being affiliated with healthcare insurance&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Pregnant woman&#xD;
+&#xD;
+          -  Patient deprived of liberty by judicial or administrative decision&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Helene Salvator, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hopital Foch</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Hélène Salvator, MD</last_name>
+    <phone>01 46 25 29 55</phone>
+    <email>h.salvator@hopital-foch.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Elisabeth Hulier-Ammar, PhD</last_name>
+    <phone>01 46 25 11 75</phone>
+    <email>drci-promotion@hopital-foch.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Foch hospital</name>
+      <address>
+        <city>Suresnes</city>
+        <zip>92151</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hélène Salvator, MD</last_name>
+      <phone>01 46 25 29 55</phone>
+      <email>h.salvator@hopital-foch.com</email>
+    </contact>
+    <investigator>
+      <last_name>Philippe Devillierr, MD PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>November 2, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 3, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 4, 2020</study_first_posted>
+  <last_update_submitted>November 3, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 3, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 4, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3659">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04670003</url>
+  </required_header>
+  <id_info>
+    <org_study_id>WP-2020-05</org_study_id>
+    <nct_id>NCT04670003</nct_id>
+  </id_info>
+  <brief_title>Spread Analysis of COVID-19 Outbreak in France by Self-assessment Web-application</brief_title>
+  <acronym>SourceCOVID</acronym>
+  <official_title>Spread Analysis of COVID-19 Outbreak in France by Self-assessment Web-application: an Observational Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Weprom</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Kelindi</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Weprom</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A coronavirus pandemic began on 12/31/2019 with a first Chinese patient. As of 04/04/2020,&#xD;
+      the epidemic affects more than 190 countries with more than 50 million official&#xD;
+      contaminations and 1,251,000 deaths. (Univ J Hopkins). This virus causes a pathology ranging&#xD;
+      from simple flu-like symptoms in 80% of cases to acute respiratory distress syndromes&#xD;
+      requiring intensive care in 5% of cases and a death rate of 1.4 to 4% of cases.&#xD;
+&#xD;
+      Viral contamination is airborne and fecal A first epidemic wave crossed France in March /&#xD;
+      April 2020 then a second in October / November with a source of contamination which began in&#xD;
+      mid-August 2020. The sources of propagation are not well known (what places, what times, what&#xD;
+      contacts…? ) In the context of the health crisis linked to the coronavirus, knowledge of the&#xD;
+      sources of propagation of this 2nd wave is an important issue to guide end of lockdown and&#xD;
+      second lockdown policies.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 2021</start_date>
+  <completion_date type="Anticipated">March 2021</completion_date>
+  <primary_completion_date type="Anticipated">March 2021</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>3 Months</target_duration>
+  <primary_outcome>
+    <measure>Description of the methods of contamination of patients</measure>
+    <time_frame>2 months</time_frame>
+    <description>Data and symptomes collected by the web applications self-questionnaire (patient reported outcome)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation in time of the spread of the virus during the 2nd epidemic wave.</measure>
+    <time_frame>2 months</time_frame>
+    <description>Data and symptomes collected by the web applications self-questionnaire (patient reported outcome)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation in space of the spread of the virus during the 2nd epidemic wave.</measure>
+    <time_frame>2 months</time_frame>
+    <description>Data and symptomes collected by the web applications self-questionnaire according to ZIP code (patient reported outcome)</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">20000</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>users</arm_group_label>
+    <description>users of web-application</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>users</intervention_name>
+    <description>Data of users of the web-application</description>
+    <arm_group_label>users</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All users of the application contaminated with COVID 19 who have not objected to the use of&#xD;
+        their data&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion criteria:&#xD;
+&#xD;
+          -  users of the application&#xD;
+&#xD;
+          -  not having objected to the use of their data&#xD;
+&#xD;
+        Exclusion criteria:&#xD;
+&#xD;
+        - user who does not have a complete questionnaire&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Fabrice DENIS, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Institut Interrégional de Cancerologie et Kelindi</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Magali BALAVOINE</last_name>
+    <phone>0241682940</phone>
+    <phone_ext>0033</phone_ext>
+    <email>m.balavoine@weprom.fr</email>
+  </overall_contact>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>December 14, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 15, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 17, 2020</study_first_posted>
+  <last_update_submitted>December 15, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 15, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 17, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

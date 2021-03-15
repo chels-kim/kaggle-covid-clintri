@@ -1,0 +1,1650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2848">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04397575</url>
+  </required_header>
+  <id_info>
+    <org_study_id>GCO002 CACOVID-19</org_study_id>
+    <nct_id>NCT04397575</nct_id>
+  </id_info>
+  <brief_title>The GCO-002 CACOVID-19 Cohort: a French Nationwide Multicenter Study of COVID-19 Infected Cancer Patients</brief_title>
+  <acronym>CACOVID-19</acronym>
+  <official_title>Cohorte Non Interventionnelle Ambispective Nationale Multicentrique de Patients Suivis Pour Cancer et infectés Par le SARS-CoV-2</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Federation Francophone de Cancerologie Digestive</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>ARCAGY/ GINECO GROUP</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>GERCOR - Multidisciplinary Oncology Cooperative Group</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>GORTEC</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>IFCT</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Association de Neuro-Oncologues d'Expression Francaise</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Federation Francophone de Cancerologie Digestive</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Since December 2019, China and then the rest of the world have been affected by the rapid&#xD;
+      development of a new coronavirus, SARS-CoV-2 (severe acute respiratory syndrome corona virus&#xD;
+      2). The disease caused by this coronavirus (COVID-19), which is transmitted by air via&#xD;
+      droplets, is potentially responsible for a severe respiratory syndrome but also for a&#xD;
+      multivisceral deficiency that can lead to death.&#xD;
+&#xD;
+      Cancer patients are generally more susceptible to infections than people without cancer due&#xD;
+      to immunosuppression caused by their tumor disease and/or conventional anti-cancer treatments&#xD;
+      used such as cytotoxic chemotherapy, several targeted therapies, radiotherapy or recent&#xD;
+      surgery. These patients may therefore be at particular risk for COVID-19.&#xD;
+&#xD;
+      This is suggested by the very first analysis on the subject, which reports data from the&#xD;
+      Chinese prospective database of 2007 patients with proven COVID-19 infection in 575 hospitals&#xD;
+      in 31 Chinese provinces. The authors of this publication conclude with 3 measures to be&#xD;
+      proposed to patients undergoing cancer follow-up: 1/ consider postponing adjuvant&#xD;
+      chemotherapy or surgery in the case of localized and stable cancer, 2/ reinforce protective&#xD;
+      measures for these patients, and 3/ monitor very closely and treat these patients more&#xD;
+      intensively when they have a COVID-19.&#xD;
+&#xD;
+      However, the increased risk of SARS-CoV-2 infection and severe forms of COVID-19 in cancer&#xD;
+      patients suggested by this first study remains to be demonstrated given its limitations,&#xD;
+      already highlighted by other authors. Indeed, the number of patients is small and the&#xD;
+      population of cancer patients is very heterogeneous, with in particular 12 patients out of 16&#xD;
+      who had recovered from initial cancer treatments (therefore without immunosuppression), half&#xD;
+      of whom had a disease course of more than 4 years.&#xD;
+&#xD;
+      Nevertheless, a second Chinese study has just recently been published, reporting COVID-19&#xD;
+      data among 1524 cancer patients admitted between December 30, 2019 and February 17, 2020 in&#xD;
+      the Department of Radiotherapy and Medical Oncology of the University Hospital of Wuhan, the&#xD;
+      source city of the COVID-19 epidemic. Although the rate of CoV-2 SARS infection was lower&#xD;
+      than that reported in the first study, it was still 0.79% (n=12), which is much higher than&#xD;
+      the rate of COVID-19 diagnosed in Wuhan City during the same period (0.37%, 41 152/11 081&#xD;
+      000). Again, lung cancer was the main tumour location observed in 7 patients (58%), of which&#xD;
+      5 (42%) were undergoing chemotherapy +/- immunotherapy. Three deaths (25%) were reported.&#xD;
+      Patients over 60 years of age with lung cancer had a higher incidence of COVID-19 (4.3% vs.&#xD;
+      1.8%). Thus, it appears that the risk of COVID-19 is actually increased in cancer patients,&#xD;
+      although again, less than half of the patients with lung cancer had a higher incidence of&#xD;
+      COVID-19.&#xD;
+&#xD;
+      Moreover, two more recent studies performed in patients treated in Hubei Province of China&#xD;
+      and in New-York city found that patients with cancer had significantly increased risk of&#xD;
+      death compared to non-cancer COVID-19 patients, especially patients with metastatic cancer&#xD;
+      and those who had recent surgery.&#xD;
+&#xD;
+      Therefore, many questions remain to date on the level of risk and the severity of COVID-19 in&#xD;
+      patients with active cancer, in particular those under anti-cancer treatment and in patients&#xD;
+      recently operated for localized cancer.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Since December 2019, China and then the rest of the world have been affected by the rapid&#xD;
+      development of a new coronavirus, SARS-CoV-2 (severe acute respiratory syndrome corona virus&#xD;
+      2). The disease caused by this coronavirus (COVID-19), which is transmitted by air via&#xD;
+      droplets, is potentially responsible for a severe respiratory syndrome but also for a&#xD;
+      multivisceral deficiency that can lead to death.&#xD;
+&#xD;
+      In less than 3 months, the COVID-19 epidemic has already affected more than 440,000 persons&#xD;
+      and has been responsible for more than 20,000 deaths worldwide.&#xD;
+&#xD;
+      Cancer patients are generally more susceptible to infections than people without cancer due&#xD;
+      to immunosuppression caused by their tumor disease and/or conventional anti-cancer treatments&#xD;
+      used such as cytotoxic chemotherapy, several targeted therapies, radiotherapy or recent&#xD;
+      surgery. These patients may therefore be at particular risk for COVID-19.&#xD;
+&#xD;
+      This is suggested by the very first analysis on the subject, which reports data from the&#xD;
+      Chinese prospective database of 2007 patients with proven COVID-19 infection in 575 hospitals&#xD;
+      in 31 Chinese provinces. After exclusion of 417 cases without sufficient available clinical&#xD;
+      data, 1590 cases of patients infected with COVID-19 were analysed, of which 18 (1%) had a&#xD;
+      personal history of cancer. This prevalence was higher than that of COVID-19 in the general&#xD;
+      Chinese population since the beginning of the epidemic (0.29%). Lung cancer (n=5, 28%) and&#xD;
+      colorectal cancer (n=5, 28%) were the 2 most common cancers. Four (25%) of the 16 patients&#xD;
+      for whom treatment was known had received chemotherapy or had surgery in the month prior to&#xD;
+      COVID-19 infection, while the majority (n=12, 75%) were patients in remission or cured of&#xD;
+      their cancer after primary surgery. Compared to patients without cancer, patients with cancer&#xD;
+      were older (63 years vs. 48 years) and had a more frequent history of smoking (22% vs. 7%).&#xD;
+      Most importantly, patients with cancer had more severe forms of COVID-19 than patients&#xD;
+      without cancer (7/18 or 39% vs. 124/1572 or 8%, p=0.0003). Patients who had chemotherapy or&#xD;
+      surgery in the month preceding the diagnosis of COVID-19 had a significantly increased risk&#xD;
+      of the severe form (3/4 or 75% vs. 6/14 or 43%), which was confirmed in multivariate analysis&#xD;
+      after adjustment on other risk factors such as age, smoking and other comorbidities, with a&#xD;
+      relative risk of 5.34 (95% CI: 1.80-16.18;p=0.0026). Finally, patients with cancer&#xD;
+      deteriorated more rapidly than patients without cancer (13 days vs. 43 days, p&lt;0.0001). The&#xD;
+      authors of this publication conclude with 3 measures to be proposed to patients undergoing&#xD;
+      cancer follow-up: 1/ consider postponing adjuvant chemotherapy or surgery in the case of&#xD;
+      localized and stable cancer, 2/ reinforce protective measures for these patients, and 3/&#xD;
+      monitor very closely and treat these patients more intensively when they have a COVID-19.&#xD;
+&#xD;
+      However, the increased risk of SARS-CoV-2 infection and severe forms of COVID-19 in cancer&#xD;
+      patients suggested by this first study remains to be demonstrated given its limitations,&#xD;
+      already highlighted by other authors. Indeed, the number of patients is small and the&#xD;
+      population of cancer patients is very heterogeneous, with in particular 12 patients out of 16&#xD;
+      who had recovered from initial cancer treatments (therefore without immunosuppression), half&#xD;
+      of whom had a disease course of more than 4 years.&#xD;
+&#xD;
+      Nevertheless, a second Chinese study has just recently been published, reporting COVID-19&#xD;
+      data among 1524 cancer patients admitted between December 30, 2019 and February 17, 2020 in&#xD;
+      the Department of Radiotherapy and Medical Oncology of the University Hospital of Wuhan, the&#xD;
+      source city of the COVID-19 epidemic. Although the rate of CoV-2 SARS infection was lower&#xD;
+      than that reported in the first study, it was still 0.79% (n=12), which is much higher than&#xD;
+      the rate of COVID-19 diagnosed in Wuhan City during the same period (0.37%, 41 152/11 081&#xD;
+      000). Again, lung cancer was the main tumor location observed in 7 patients (58%), of which 5&#xD;
+      (42%) were undergoing chemotherapy +/- immunotherapy. Three deaths (25%) were reported.&#xD;
+      Patients over 60 years of age with lung cancer had a higher incidence of COVID-19 (4.3% vs.&#xD;
+      1.8%). Thus, it appears that the risk of COVID-19 is actually increased in cancer patients,&#xD;
+      although again, less than half of the patients with lung cancer had a higher incidence of&#xD;
+      COVID-19.&#xD;
+&#xD;
+      Moreover, two more recent studies performed in patients treated in Hubei Province of China&#xD;
+      and in New-York city found that patients with cancer had significantly increased risk of&#xD;
+      death compared to non-cancer COVID-19 patients, especially patients with metastatic cancer&#xD;
+      and those who had recent surgery.&#xD;
+&#xD;
+      Therefore, many questions remain to date on the level of risk and the severity of COVID-19 in&#xD;
+      patients with active cancer, in particular those under anti-cancer treatment and in patients&#xD;
+      recently operated for localized cancer.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">April 3, 2020</start_date>
+  <completion_date type="Anticipated">April 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 1, 2020</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>6 Months</target_duration>
+  <primary_outcome>
+    <measure>Number of cases of SARS-COV-2 infection and mortality rate directly related to the infection in patients being followed for digestive, thoracic, head and neck, gynecologic, cerebral, urologic or cutaneous cancer</measure>
+    <time_frame>3 months</time_frame>
+    <description>Describe the number of cases of SARS-COV-2 infection, including those with severe form, and the mortality rate directly related to the infection in patients being followed for any of the following cancers: digestive, thoracic, head and neck, gynecologic, cerebral, urologic, or cutaneous</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of cases of SARS-COV-2 infection</measure>
+    <time_frame>3 months</time_frame>
+    <description>Describe the number of cases of SARS-COV-2 infection according to:&#xD;
+Tumor location&#xD;
+metastatic or localized status&#xD;
+status treated or under surveillance&#xD;
+the type of cancer treatment n the 3 months prior to the occurrence of COVID-19 or more</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of severe and fatal forms.of cases of SARS-COV-2 infection</measure>
+    <time_frame>3 months</time_frame>
+    <description>Describe the percentage of severe and fatal forms respectively according to :&#xD;
+Tumor location&#xD;
+metastatic or localized status&#xD;
+status treated or under surveillance&#xD;
+type of cancer treatment received in the 3 months prior to the occurrence of COVID-19 or more</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Social characteristics of individuals on treatment</measure>
+    <time_frame>3 months</time_frame>
+    <description>Social characteristics of individuals (dwelling place with a INSE code, ) impact on the treatment management of cancer. Information of dwelling place (INSE code), socio-professional leve (INSEE classification) will be collected</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Link between socio-territorial determinants and the characteristics/severity of SARS-COV-2 infection.</measure>
+    <time_frame>3 months</time_frame>
+    <description>Analyze the link between socio-territorial determinants and the characteristics/severity of SARS-COV-2 infection, as well as the impact of the infection on cancer management.</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">1509</enrollment>
+  <condition>Cancer</condition>
+  <condition>COVID</condition>
+  <condition>Solid Tumor</condition>
+  <condition>Social Inequality</condition>
+  <condition>French National Cohort</condition>
+  <condition>Chemotherapy</condition>
+  <condition>Immunotherapy</condition>
+  <condition>Surgery</condition>
+  <condition>Radiotherapy</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patient undergoing treatment or under surveillance or recently diagnosed and who has not&#xD;
+        yet started treatment for cancer at one of the following locations : digestive (esophagus,&#xD;
+        stomach, colorectal, small intestine, pancreas, biliary tract, Vater's ampulla, liver,&#xD;
+        GIST, neuroendocrine tumour, anal canal, primary peritoneum, appendix), thoracic (non-small&#xD;
+        cell lung cancer (NSCLC), small cell lung cancer (SCLC), mesothelioma), head and neck (oral&#xD;
+        cavity, oropharynx, larynx, hypopharynx, nasopharynx, salivary glands, sinus),&#xD;
+        gynecological (breast, ovary, cervix, endometrium, vulva), central nervous system,&#xD;
+        dermatological, urological (prostate, kidney, bladder and upper urinary tract, external&#xD;
+        genitals)&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age ≥ 18 years old&#xD;
+&#xD;
+          -  Patient undergoing treatment or under surveillance or recently diagnosed and who has&#xD;
+             not yet started treatment for cancer at one of the following locations : digestive&#xD;
+             (esophagus, stomach, colorectal, small intestine, pancreas, biliary tract, Vater's&#xD;
+             ampulla, liver, GIST, neuroendocrine tumour, anal canal, primary peritoneum,&#xD;
+             appendix), thoracic (non-small cell lung cancer (NSCLC), small cell lung cancer&#xD;
+             (SCLC), mesothelioma), head and neck (oral cavity, oropharynx, larynx, hypopharynx,&#xD;
+             nasopharynx, salivary glands, sinus), gynecological (breast, ovary, cervix,&#xD;
+             endometrium, vulva), central nervous system, dermatological, urological (prostate,&#xD;
+             kidney, bladder and upper urinary tract, external genitals)&#xD;
+&#xD;
+          -  Patient with PCR and/or serology and/or CT-scan confirmed SARS-COV-2 infection or with&#xD;
+             suggestive COVID-19 syndrome (fever, fatigue, body aches, headache, cough, dyspnea,&#xD;
+             sudden onset of anosmia or ageusia in the absence of rhinitis or nasal obstruction)&#xD;
+             without biological or CT-scan confirmation during the period of March 1, 2020 to&#xD;
+             September 30, 2020.&#xD;
+&#xD;
+          -  Inpatient or outpatient&#xD;
+&#xD;
+          -  Patient informed of the research and, by way of derogation, patient treated in an&#xD;
+             emergency situation&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients whose cancer in the cohort was treated curatively more than 5 years ago, with&#xD;
+             no evidence of recurrence at the time of the SARS-COV-2 infection.&#xD;
+&#xD;
+          -  Patient expressing opposition to participating in the cohort&#xD;
+&#xD;
+          -  Patient subject to a protective measure (patient under guardianship or curatorship)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Cécile GIRAULT</last_name>
+    <role>Study Director</role>
+    <affiliation>Federation Francophone de Cancerologie Digestive</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Ch D'Abbeville</name>
+      <address>
+        <city>Abbeville</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU - Hôpital Sud</name>
+      <address>
+        <city>Amiens</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU - Hôtel Dieu</name>
+      <address>
+        <city>Angers</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Privé</name>
+      <address>
+        <city>Antony</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH Victor Dupouy</name>
+      <address>
+        <city>Argenteuil</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH - Metz Thionville Mercy</name>
+      <address>
+        <city>Ars-Laquenexy</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Général d'Auch</name>
+      <address>
+        <city>Auch</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ch-Ght Unyon Auxerre</name>
+      <address>
+        <city>Auxerre</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH - Henri Duffaut</name>
+      <address>
+        <city>Avignon</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PRIVE - Sainte Catherine</name>
+      <address>
+        <city>Avignon</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH</name>
+      <address>
+        <city>Bayeux</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH - Côte Basque</name>
+      <address>
+        <city>Bayonne</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH</name>
+      <address>
+        <city>Beauvais</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU - Jean Minjoz</name>
+      <address>
+        <city>Besançon</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PRIVE - Franche Comté</name>
+      <address>
+        <city>Besançon</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PRIVE - Centre Pierre Curie</name>
+      <address>
+        <city>Beuvry</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH</name>
+      <address>
+        <city>Blois</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PRIVE - Tivoli</name>
+      <address>
+        <city>Bordeaux</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH - Duchenne</name>
+      <address>
+        <city>Boulogne-sur-Mer</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU - Ambroise Paré</name>
+      <address>
+        <city>Boulogne</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH - Fleyriat</name>
+      <address>
+        <city>Bourg-en-Bresse</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU - Morvan</name>
+      <address>
+        <city>Brest</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU - Pierre Wertheimer</name>
+      <address>
+        <city>Bron</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH - Germon et Gauthier - Service de Gastroentérologie</name>
+      <address>
+        <city>Béthune</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH</name>
+      <address>
+        <city>Béziers</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU - Côte de Nacre</name>
+      <address>
+        <city>Caen</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PRIVE - François Baclesse</name>
+      <address>
+        <city>Caen</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH</name>
+      <address>
+        <city>Calais</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PRIVE - Infirmerie protestante</name>
+      <address>
+        <city>Caluire-et-Cuire</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH</name>
+      <address>
+        <city>Cannes</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PRIVE - Médipole de Savoie</name>
+      <address>
+        <city>Challes-les-Eaux</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PRIVE - Pôle Santé Léonard de Vinci</name>
+      <address>
+        <city>Chambray-lès-Tours</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH</name>
+      <address>
+        <city>Charleville-Mézières</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH</name>
+      <address>
+        <city>Chauny</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHP du Cotentin</name>
+      <address>
+        <city>Cherbourg</city>
+        <zip>50100</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH</name>
+      <address>
+        <city>Cholet</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH</name>
+      <address>
+        <city>Châlons-en-Champagne</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH - HIA Percy</name>
+      <address>
+        <city>Clamart</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU - Estaing</name>
+      <address>
+        <city>Clermont-Ferrand</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PRIVE - CAC Jean PERRIN</name>
+      <address>
+        <city>Clermont-Ferrand</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU - Beaujon</name>
+      <address>
+        <city>Clichy</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH - Hôpitaux civils de Colmar</name>
+      <address>
+        <city>Colmar</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU - Louis MOURIER</name>
+      <address>
+        <city>Colombes</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH - Compiegne</name>
+      <address>
+        <city>Compiègne</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PRIVE - Saint Côme</name>
+      <address>
+        <city>Compiègne</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH - Sud Francilien</name>
+      <address>
+        <city>Corbeil-Essonnes</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PRIVE - Cédres</name>
+      <address>
+        <city>Cornebarrieu</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PRIVE - Clinique de Flandre</name>
+      <address>
+        <city>Coudekerque-Branche</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH - GHPSO Site de Creil</name>
+      <address>
+        <city>Creil</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ch - C.H.I.C.</name>
+      <address>
+        <city>Créteil</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU - Henri Mondor</name>
+      <address>
+        <city>Créteil</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PRIVE - Centre Léonard de Vinci</name>
+      <address>
+        <city>Dechy</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU - Hôpital François Mitterand</name>
+      <address>
+        <city>Dijon</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PRIVE - CAC GF Leclerc</name>
+      <address>
+        <city>Dijon</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PRIVE - Institut de Cancérologie de Bourgogne GRReCC</name>
+      <address>
+        <city>Dijon</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH - Louis Pasteur</name>
+      <address>
+        <city>Dole</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH</name>
+      <address>
+        <city>Douai</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH - Victor Jousselin</name>
+      <address>
+        <city>Dreux</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PRIVE - Clinique Claude Bernard</name>
+      <address>
+        <city>Ermont</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH - Frejus Saint Raphael</name>
+      <address>
+        <city>Fréjus</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PRIVE - Forcilles</name>
+      <address>
+        <city>Férolles-Attilly</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH</name>
+      <address>
+        <city>Grasse</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU - Grenoble Alpes</name>
+      <address>
+        <city>Grenoble</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PRIVE - GHM Daniel Hollard</name>
+      <address>
+        <city>Grenoble</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH - Marne La Vallée/Jossigny</name>
+      <address>
+        <city>Jossigny</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH - CHD Vendée</name>
+      <address>
+        <city>La Roche-sur-Yon</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH - Louis Pasteur</name>
+      <address>
+        <city>Le Coudray</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PRIVE - L'Estuaire</name>
+      <address>
+        <city>Le Havre</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PRIVE - Centre Jean Bernard</name>
+      <address>
+        <city>Le Mans</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH - Docteur Schaffner</name>
+      <address>
+        <city>Lens</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH - Saint Vincent</name>
+      <address>
+        <city>Lille</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU - Claude Huriez</name>
+      <address>
+        <city>Lille</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PRIVE - CAC Oscar Lambret</name>
+      <address>
+        <city>Lille</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PRIVE - La Louvière Institut de Cancérologie Lille Métropole</name>
+      <address>
+        <city>Lille</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH - Robert Bisson</name>
+      <address>
+        <city>Lisieux</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PRIVE - Teissier</name>
+      <address>
+        <city>Liévin</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH - GH Nord Essone</name>
+      <address>
+        <city>Longjumeau</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH - CHBS Hôpital du Scrorff</name>
+      <address>
+        <city>Lorient</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU - Edouard Herriot</name>
+      <address>
+        <city>Lyon</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU - La Croix Rousse</name>
+      <address>
+        <city>Lyon</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PRIVE - La Sauvegarde Lyon</name>
+      <address>
+        <city>Lyon</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH - La Conception</name>
+      <address>
+        <city>Marseille</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH - Saint Joseph</name>
+      <address>
+        <city>Marseille</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU - La Timone</name>
+      <address>
+        <city>Marseille</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH - GHI de l'Est Francilien Site de Meaux</name>
+      <address>
+        <city>Meaux</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH - Layné</name>
+      <address>
+        <city>Mont-de-Marsan</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH - Site du Mittan</name>
+      <address>
+        <city>Montbéliard</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH</name>
+      <address>
+        <city>Montélimar</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH - Emile Muller</name>
+      <address>
+        <city>Mulhouse</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH - Les Chanaux</name>
+      <address>
+        <city>Mâcon</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PRIVE - Oncologie Gentilly</name>
+      <address>
+        <city>Nancy</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PRIVE - Confluent SAS</name>
+      <address>
+        <city>Nantes</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PRIVE - Hartmann</name>
+      <address>
+        <city>Neuilly-sur-Seine</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH - Pierre Beregovoy</name>
+      <address>
+        <city>Nevers</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH</name>
+      <address>
+        <city>Niort</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU - Caremeau</name>
+      <address>
+        <city>Nîmes</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHR - Centre Hospitalier Régional La Source</name>
+      <address>
+        <city>Orléans</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>AP - HP - Pitié Salpêtrière</name>
+      <address>
+        <city>Paris</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bichat</name>
+      <address>
+        <city>Paris</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU - Cochin</name>
+      <address>
+        <city>Paris</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU - Lariboisière</name>
+      <address>
+        <city>Paris</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU - Saint Antoine</name>
+      <address>
+        <city>Paris</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU - Saint Louis</name>
+      <address>
+        <city>Paris</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU - Tenon</name>
+      <address>
+        <city>Paris</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Groupe Hospitalier Diaconesses Croix Saint Simon</name>
+      <address>
+        <city>Paris</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Européen Georges Pompidou</name>
+      <address>
+        <city>Paris</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PRIVE - Saint Joseph</name>
+      <address>
+        <city>Paris</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Privé - Montsouris</name>
+      <address>
+        <city>Paris</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PRIVE - Centre Oncologie Catalan</name>
+      <address>
+        <city>Perpignan</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU - Haut Lévêque</name>
+      <address>
+        <city>Pessac</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU - Lyon Sud</name>
+      <address>
+        <city>Pierre-Bénite</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PRIVE - Centre Cario HPCA</name>
+      <address>
+        <city>Plérin</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU - La Miletrie</name>
+      <address>
+        <city>Poitiers</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH - René Dubos</name>
+      <address>
+        <city>Pontoise</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH</name>
+      <address>
+        <city>Périgueux</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PRIVE - Clinique La Croix du Sud</name>
+      <address>
+        <city>Quint-Fonsegrives</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU - Robert Debré</name>
+      <address>
+        <city>Reims</city>
+        <zip>51092</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PRIVE - Polyclinique Courlancy</name>
+      <address>
+        <city>Reims</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PRIVEE - Jean Godinot</name>
+      <address>
+        <city>Reims</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PRIVEE - Polyclinique Courlancy</name>
+      <address>
+        <city>Reims</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU - Charles Nicolle</name>
+      <address>
+        <city>Rouen</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CAC - Institut Curie R. Huguenin</name>
+      <address>
+        <city>Saint-Cloud</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PRIVE - Saint Grégoire</name>
+      <address>
+        <city>Saint-Grégoire</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH - Centre Hospitalier de Saint Malo</name>
+      <address>
+        <city>Saint-Malo</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH - Begin</name>
+      <address>
+        <city>Saint-Mandé</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PRIVE - Clinique Mutualiste de l'Estuaire</name>
+      <address>
+        <city>Saint-Nazaire</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU - Hôpital Nord CHU Saint Etienne</name>
+      <address>
+        <city>Saint-Priest-en-Jarez</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PRIVE - Ramsay Sainte Loire</name>
+      <address>
+        <city>Saint-Étienne</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PRIVE - Trenel</name>
+      <address>
+        <city>Sainte-Colombe</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU - Hautepierre</name>
+      <address>
+        <city>Strasbourg</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>ICAN - Institut de Cancérologie de Strasbourg Europe</name>
+      <address>
+        <city>Strasbourg</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PRIVE - Strasbourg Oncologie Libérale</name>
+      <address>
+        <city>Strasbourg</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH - Foch</name>
+      <address>
+        <city>Suresnes</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH - Maison Santé Protestante</name>
+      <address>
+        <city>Talence</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH - Birgorre</name>
+      <address>
+        <city>Tarbes</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH - Leman</name>
+      <address>
+        <city>Thonon-les-Bains</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH - Sainte Musse</name>
+      <address>
+        <city>Toulon</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CAC - Oncopole</name>
+      <address>
+        <city>Toulouse</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU - Rangueil</name>
+      <address>
+        <city>Toulouse</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH - Gustave Dron</name>
+      <address>
+        <city>Tourcoing</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU - Bretonneau</name>
+      <address>
+        <city>Tours</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH</name>
+      <address>
+        <city>Valence</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH</name>
+      <address>
+        <city>Valenciennes</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PRIVE - Dentellières</name>
+      <address>
+        <city>Valenciennes</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU - Brabois</name>
+      <address>
+        <city>Vandœuvre-lès-Nancy</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>PRIVE - Robert Schuman</name>
+      <address>
+        <city>Vantoux</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CH - Paul Morel</name>
+      <address>
+        <city>Vesoul</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CAC - Gustave Roussy</name>
+      <address>
+        <city>Villejuif</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <link>
+    <url>https://doi.org/10.1016/j.ejca.2020.09.035</url>
+    <description>Study results</description>
+  </link>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>May 13, 2020</study_first_submitted>
+  <study_first_submitted_qc>May 19, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 21, 2020</study_first_posted>
+  <last_update_submitted>October 30, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 30, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 3, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>cancer</keyword>
+  <keyword>COVID</keyword>
+  <keyword>solid tumor</keyword>
+  <keyword>social inequality</keyword>
+  <keyword>french national cohort</keyword>
+  <keyword>chemotherapy</keyword>
+  <keyword>Immunotherapy</keyword>
+  <keyword>surgery</keyword>
+  <keyword>radiotherapy</keyword>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

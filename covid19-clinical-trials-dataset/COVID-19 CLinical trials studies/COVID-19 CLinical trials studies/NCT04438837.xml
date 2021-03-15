@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="916">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04438837</url>
+  </required_header>
+  <id_info>
+    <org_study_id>0193-20-RMB CTIL</org_study_id>
+    <nct_id>NCT04438837</nct_id>
+  </id_info>
+  <brief_title>Hydroxychloroquine Post-Exposure Prophylaxis for Coronavirus Disease (COVID-19) Among Health-Care Workers</brief_title>
+  <official_title>Hydroxychloroquine Post-Exposure Prophylaxis for Coronavirus Disease (COVID-19) Among Health-Care Workers: A Randomized-Controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Rambam Health Care Campus</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Rambam Health Care Campus</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Background: The rapid spread and high infectivity of severe acute respiratory syndrome&#xD;
+      coronavirus 2 (SARS-CoV2) makes identifying an effective prophylaxis agent highly important.&#xD;
+      One of the important target populations for such intervention who are at high risk of&#xD;
+      exposure are health care workers (HCWs) who may develop disease and/or expose patients and&#xD;
+      other HCWs. Hydroxychloroquine (HCQ), currently in usage for treatment of severe Coronavirus&#xD;
+      Disease 2019 (COVID-19), has in addition to in-vitro activities of inhibition of virus&#xD;
+      replication and immunomodulation, an important role in the inhibition of pre-entry step of&#xD;
+      the virus to host cells. Such activity in the early stage of infection may play a role in&#xD;
+      prevention of disease progression.&#xD;
+&#xD;
+      Objectives: To evaluate the effect of HCQ in prevention of clinical disease and reduction of&#xD;
+      viral shedding among HCWs following exposure to confirmed COVID-19 patients.&#xD;
+&#xD;
+      Study design: Multi-center, randomized controlled, superiority, open label trial Setting: The&#xD;
+      study will be conducted at Rambam Health Care Campus. Eligibility: Participants eligible for&#xD;
+      inclusion will include non-pregnant adult (&gt;18 years old) HCWs who were exposed to a&#xD;
+      confirmed case of COVID-19 without full adherence to droplet precautions. Participants will&#xD;
+      be eligible in a period no longer than 72 hours after exposure.&#xD;
+&#xD;
+      Intervention: HCQ will be given in the intervention group in a dosage regimen of 400mg BID in&#xD;
+      the first day followed by 200mg BID for overall 10 days. Participants in the control group&#xD;
+      will receive no treatment. Treatment will be started no longer than 72 hours following&#xD;
+      exposure.&#xD;
+&#xD;
+      Outcomes: The primary outcome will be the number of participants who develop clinical signs&#xD;
+      compatible with COVID 19 (defined in full protocol) within 14 days of exposure. Secondary&#xD;
+      outcomes will include virologically-confirmed COVID 19, disease severity (need for&#xD;
+      hospitalization, mechanical ventilation and 30-day mortality) and viral shedding duration&#xD;
+      (time between first positive PCR to last of two consecutive negative tests) for confirmed&#xD;
+      COVID 19 cases.&#xD;
+&#xD;
+      Sample size: The trial will test for HCQ's superiority assuming a primary outcome incidence&#xD;
+      of 20% in the control group and a reduction of 50% with HCQ. The sample size required for a&#xD;
+      power of 80% (alpha 0.05) is 291 participants per each group.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:&#xD;
+&#xD;
+      A novel coronavirus referred to as severe acute respiratory syndrome coronavirus 2&#xD;
+      (SARS-CoV2) was identified as the causative agent for the pandemic coronavirus disease 2019&#xD;
+      (COVID-19). While in most cases, COVID-19 is a mild disease, in almost 15% of cases it may&#xD;
+      cause a severe disease leading to respiratory failure, septic shock, multi-organ failure and&#xD;
+      death. The relatively high ratios of severe morbidity and mortality that occurs during a&#xD;
+      short period led to an extremely high burden on health systems as expected in pandemics.&#xD;
+      Health care personnel work long hours in a highly intensive work environment, increasing the&#xD;
+      risk of exposure to SARS CoV-2 infection. In China, almost 4% of COVID-19 cases were of&#xD;
+      health care staff, having severe disease in 15% of them. In Italy, more than two thousands&#xD;
+      health care workers (HCWs) were diagnosed with COVID-19 consisting 9% of total confirmed&#xD;
+      cases up to 15 of March, 2020.&#xD;
+&#xD;
+      Accumulating data suggest that the most likely mode of transmission of SARS CoV-2 is by&#xD;
+      droplets, either by inhalation or by contact. Person to person transmission was identified&#xD;
+      from asymptomatic infected cases that were redefined recently as pre-symptomatic cases. Most&#xD;
+      health agencies suggest a careful approach regarding the protection of HCWs. Still,&#xD;
+      accidental exposure of HCWs to COVID-19 cases occurs. Such exposure may occur in many&#xD;
+      scenarios, either in the context of unprotected contact with unsuspected cases or&#xD;
+      inappropriate protection in contact with suspected or confirmed cases of COVID-19. Exposure&#xD;
+      of HCW to a COVID-19 case necessitates risk stratification of disease transmission. The CDC&#xD;
+      defines the risk as high if a prolonged contact (&quot;few minutes in a distance of 6 feet)&#xD;
+      happened while the patient and the HCW did not wear a facemask. A medium risk is defined if&#xD;
+      either the patient did not wear a facemask but HCW was with facemask but without eye&#xD;
+      protection or a patient was wearing a facemask but the HCW was not. In both situations of&#xD;
+      high and medium risk exposures, exclusion from work for 14 days after last exposure is&#xD;
+      recommended.&#xD;
+&#xD;
+      Both HCWs safety and the critical demand for human resources in COVID-19 pandemic makes the&#xD;
+      possibility of effective post exposure prophylaxis highly important.&#xD;
+&#xD;
+      Chroloquine/hydroxychloroquine for prophylaxis of SARS-CoV2:&#xD;
+&#xD;
+      Although the focus of chloroquine/HCQ in use for COVID-19 is mainly for treatment, a&#xD;
+      potential additional use may be for prophylaxis. Chloroquine is in use for many years as&#xD;
+      prophylaxis for malaria. In addition, in Zika virus infection it was evaluated and found&#xD;
+      effective in transmission reduction in animal model. In SARS-CoV2, chloroquine/HCQ has&#xD;
+      in-vitro activity that interferes with virus entry to host cells by the inhibition of&#xD;
+      pre-entry step of the virus to host cells, interfering with viral particles binding to cell&#xD;
+      surface receptor as well as reduces virus replication[8]. Such activity in the early stage of&#xD;
+      infection may play a role in prevention of disease progression, making these drugs&#xD;
+      hypothetically an optional effective post exposure prophylaxis (PEP). The theoretical effects&#xD;
+      in such context include reduction of virus transmission, reduction of progression to lower&#xD;
+      respiratory infection following infection and therefore preventing clinical disease and&#xD;
+      finally reduction of intensity and duration of virus shedding. Given the safe profile of&#xD;
+      these drugs and the low collateral damage, makes them a favorable PEP drugs.&#xD;
+&#xD;
+      The investigators plan in the present study to assess the effect of chloroquine/HCQ PEP given&#xD;
+      for a restricted duration following a recognized event of a significant risk exposure among&#xD;
+      HCWs in hospitals to prevent symptomatic infection and documented COVID-19.&#xD;
+&#xD;
+      OBJECTIVES The objective of this trial is to evaluate the efficacy of HCQ as PEP in reduction&#xD;
+      of virus transmission among HCWs following unprotected close contact to patients with&#xD;
+      COVID-19. The investigatots aim to demonstrate a decrease in clinical disease as well as&#xD;
+      ameliorating disease severity and shortening virological shedding among HCW participants&#xD;
+      developing COVID-19.&#xD;
+&#xD;
+      METHODS Study design: randomized controlled, superiority open label trial. Setting: The study&#xD;
+      will be conducted in Rambam health Care Campus (RHCC)&#xD;
+&#xD;
+      Randomization:&#xD;
+&#xD;
+      Participants who meet eligibility criteria will be randomized in a 1:1 ratio. Randomization&#xD;
+      will be done using a computer-generated list of random numbers allocated centrally through a&#xD;
+      web site, stratified by hospital.&#xD;
+&#xD;
+      Intervention:&#xD;
+&#xD;
+      The intervention group will receive oral hydroxychloroquine. In the first day 400 mg twice&#xD;
+      daily, followed by 200mg twice daily on days 2-10.&#xD;
+&#xD;
+      The control group will not receive treatment.&#xD;
+&#xD;
+      Criteria for discontinuing study drug include development of any of the following:&#xD;
+&#xD;
+        -  Serious adverse event related to the drug&#xD;
+&#xD;
+        -  Participant request&#xD;
+&#xD;
+      Sample size:&#xD;
+&#xD;
+      The trial will test for HDQ's superiority (1-sided alpha) assuming a primary outcome&#xD;
+      incidence of 20% in the control group and a reduction of 50% in the intervention group. With&#xD;
+      a 1-sided 5% alpha a fixed sample of 291 patients per group will provide 80% power to reject&#xD;
+      the null hypothesis of no difference between study groups.&#xD;
+&#xD;
+      Follow-up and data collection:&#xD;
+&#xD;
+      Participants will be actively followed-up by phone call at days 7 and 14 and 30 days after&#xD;
+      randomization. In addition, they will be asked to fulfill a diary on daily basis of&#xD;
+      temperature and development of respiratory symptoms. Participants will be guided to contact&#xD;
+      the research team if any signs or symptoms of disease or adverse effects appear.&#xD;
+&#xD;
+      If COVID-19 is suspected according to clinical signs and symptoms, participants will be&#xD;
+      evaluated by physician by a phone call in order to decide if he/she needs hospital transfer&#xD;
+      or additional outpatient tests. For all clinically suspected COVID-19 cases a nasal and&#xD;
+      throat PCR tests will be taken within 48 hours from symptoms start. If positive, the test&#xD;
+      will be repeated on day 14 and thereafter weekly up to 2 consecutive negative tests taken 24&#xD;
+      hours apart. If first set of PCR tests was negative and symptoms continue for more than 72&#xD;
+      hours a second set of PCR tests will be performed.&#xD;
+&#xD;
+      For participants admitted to hospital with a confirmed COVID-19, daily clinical and&#xD;
+      laboratory follow up will be performed. Blood count, electrolytes and creatinine levels will&#xD;
+      be taken on admission and repeated on days 5+/-2. Other tests will be performed as clinically&#xD;
+      indicated. Chest x-ray or other chest imaging will be performed at recruitment if not&#xD;
+      performed previously and repeated as necessary according to clinical judgment. PCR from&#xD;
+      respiratory or body samples will be obtained on day 5 (or discharge if prior to day 5) and&#xD;
+      otherwise as clinically indicated. Blood samples for serology will be taken at recruitment&#xD;
+      and at day 14 (or at discharge if before day 14). Samples will be frozen and batch analyzed&#xD;
+      at the end of the study.&#xD;
+&#xD;
+      All participants will be followed up to 30 days after inclusion. The data will be entered&#xD;
+      anonymously into a central case report form (CRF). The investigatots will document the&#xD;
+      follow-up, participants' virological tests and medical course data, including complications&#xD;
+      and adverse events.&#xD;
+&#xD;
+      Study monitoring:&#xD;
+&#xD;
+      Trial follow-up and monitoring will be performed by The Rambam-Technion ID research team&#xD;
+      using a risk-based monitoring approach with adaptive on-site monitoring.&#xD;
+&#xD;
+      Trial flow and recruitment follow-up: Recruitment reports will be collected monthly,&#xD;
+      detailing the number of eligible participants, excluded participants, reason for exclusion&#xD;
+      and number of included participants, in a structured table. The recruitment status vs.&#xD;
+      expected recruitment rate will be reported monthly, overall and per site.&#xD;
+&#xD;
+      Remote monitoring: Remote monitoring will be performed continuously throughout the trial to&#xD;
+      check for data completion and quality. Critical variables will be defined, based on data&#xD;
+      needed for baseline description of the study cohort, information regarding the intervention&#xD;
+      and outcome data. Feedback will be provided to local study coordinators via email or&#xD;
+      telephone. Data will be completed or corrected in real time with the support of the&#xD;
+      monitoring center. Risk thresholds will be defined for onsite monitoring.&#xD;
+&#xD;
+      Onsite monitoring: will be performed periodically and as required following the remote&#xD;
+      monitoring thresholds. The regular onsite monitoring visits will include:&#xD;
+&#xD;
+        -  Inspection of the informed consent forms with dates corresponding to recruitment&#xD;
+&#xD;
+        -  Inclusion criteria confirmed vs. patients' charts&#xD;
+&#xD;
+        -  Confirmation of primary outcome data in source documents Safety monitoring: The trial&#xD;
+           will be followed by an independent data and safety monitoring board and a steering&#xD;
+           committee. No interim analyses are planned. All serious adverse events will be reported&#xD;
+           to the independent monitoring board. Interim analyses and serious adverse events will be&#xD;
+           reported to the local ethics committees, as per local good practice guidelines.&#xD;
+&#xD;
+      Statistical analysis:&#xD;
+&#xD;
+      The primary analysis will include all randomized participants by intention to treat. A&#xD;
+      per-protocol analysis will include participants who received the allocated intervention for&#xD;
+      at least 5 calendar days.&#xD;
+&#xD;
+      Participants' baseline characteristics will be reported as mean with standard deviation, or&#xD;
+      median with interquartile based on variable distributions. The relative risk for the primary&#xD;
+      outcome will be computed with 95% confidence intervals. Time dependent variables will be&#xD;
+      analyzed using Kaplan Meyer curves. The trial will not be powered for subgroup analyses.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">July 2020</start_date>
+  <completion_date type="Anticipated">June 2022</completion_date>
+  <primary_completion_date type="Anticipated">June 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Clinical COVID-19</measure>
+    <time_frame>14 days following exposure.</time_frame>
+    <description>Number of patients developing clinical symptoms and signs compatible with COVID-19 following exposure</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Confirmed COVID-19</measure>
+    <time_frame>14 days following exposure.</time_frame>
+    <description>PCR- proven COVID-19 (confirmed cases)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to virological recovery</measure>
+    <time_frame>30 days</time_frame>
+    <description>Time to virological recovery for participants who develop confirmed COVID-19</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to symptoms onset</measure>
+    <time_frame>14 days</time_frame>
+    <description>Time to symptoms onset defined as days until start of fever, cough or shortness of breath.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Development of pneumonia</measure>
+    <time_frame>14 days</time_frame>
+    <description>Development of pneumonia- clinical and radiological (chest X ray or CT).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Development of severe disease</measure>
+    <time_frame>14 days</time_frame>
+    <description>Development of severe disease- respiratory failure, mechanical ventilation, severe sepsis, multi-organ failure or acute myocarditis)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Need for hospitalization or ICU</measure>
+    <time_frame>14 days</time_frame>
+    <description>Need for hospitalization, need for ICU admission</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse events</measure>
+    <time_frame>14 days</time_frame>
+    <description>Number of adverse events - prolonged QT, arrhythmias, nausea, vomiting</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>30 days</time_frame>
+    <description>All-cause mortality at the end of follow up</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to de-isolation</measure>
+    <time_frame>30 days</time_frame>
+    <description>Number of days between exposure to de-isolation</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">582</enrollment>
+  <condition>Coronavirus Disease 2019 (COVID-19)</condition>
+  <condition>Post-Exposure Prophylaxis</condition>
+  <arm_group>
+    <arm_group_label>control group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>no intervention</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>intervention group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>participants will recieve hydroxychloroquine in a dosage regimen of 400mg BID in the first day followed by 200mg BID for overall 10 days.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Hydroxychloroquine</intervention_name>
+    <description>Hydroxychloroquine post exposure prohylaxis</description>
+    <arm_group_label>intervention group</arm_group_label>
+    <other_name>Plaquenil</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adult participant (&gt;18 years)&#xD;
+&#xD;
+          -  HCW who had a contact without adequate personal protective equipment (PPE) with a&#xD;
+             confirmed COVID-19 patient.&#xD;
+&#xD;
+          -  Time between exposure to randomization no longer than 72 hours.&#xD;
+&#xD;
+          -  Informed consent from participant&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Symptoms compatible with COVID-19 upon randomization&#xD;
+&#xD;
+          -  Known allergy to HCQ or chloroquine&#xD;
+&#xD;
+          -  History of any arrhythmia.&#xD;
+&#xD;
+          -  Severely reduced LV function (Ejection fraction&lt;30%)&#xD;
+&#xD;
+          -  Retinopathy&#xD;
+&#xD;
+          -  Pregnancy or breast feeding&#xD;
+&#xD;
+          -  Concomitant treatment with azithromycin, flecainide, amiodarone, digoxin,&#xD;
+             procainamide, propafenone, thioridazine, pimozide.&#xD;
+&#xD;
+          -  Chronic chloroquine/ HCQ treatment&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mical Paul, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Rambam</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Nesrin Ghanem-Zoubi, MD</last_name>
+    <phone>97247772991</phone>
+    <email>n_ghanem@rambam.health.gov.il</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Rambam Health Care Campus</name>
+      <address>
+        <city>Haifa</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Nesrin Ghanem-Zoubi</last_name>
+      <email>n_ghanem@rambam.health.gov.il</email>
+    </contact>
+    <investigator>
+      <last_name>Nesrin Ghanem-Zoubi</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Israel</country>
+  </location_countries>
+  <link>
+    <url>https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf?sfvrsn=5ae25bc7_6</url>
+    <description>coronaviruse/situation-reports</description>
+  </link>
+  <link>
+    <url>https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-risk-assesment-hcp.html</url>
+    <description>5. Interim U.S. Guidance for Risk Assessment and Public Health Management of Healthcare Personnel with Potential Exposure in a Healthcare Setting to Patients with Coronavirus Disease (COVID-19)</description>
+  </link>
+  <results_reference>
+    <citation>Wu Z, McGoogan JM. Characteristics of and Important Lessons From the Coronavirus Disease 2019 (COVID-19) Outbreak in China: Summary of a Report of 72 314 Cases From the Chinese Center for Disease Control and Prevention. JAMA. 2020 Apr 7;323(13):1239-1242. doi: 10.1001/jama.2020.2648.</citation>
+    <PMID>32091533</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Livingston E, Bucher K. Coronavirus Disease 2019 (COVID-19) in Italy. JAMA. 2020 Apr 14;323(14):1335. doi: 10.1001/jama.2020.4344.</citation>
+    <PMID>32181795</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Chan JF, Yuan S, Kok KH, To KK, Chu H, Yang J, Xing F, Liu J, Yip CC, Poon RW, Tsoi HW, Lo SK, Chan KH, Poon VK, Chan WM, Ip JD, Cai JP, Cheng VC, Chen H, Hui CK, Yuen KY. A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster. Lancet. 2020 Feb 15;395(10223):514-523. doi: 10.1016/S0140-6736(20)30154-9. Epub 2020 Jan 24.</citation>
+    <PMID>31986261</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Chang, Xu H, Rebaza A, Sharma L, Dela Cruz CS. Protecting health-care workers from subclinical coronavirus infection. Lancet Respir Med. 2020 Mar;8(3):e13. doi: 10.1016/S2213-2600(20)30066-7. Epub 2020 Feb 13.</citation>
+    <PMID>32061333</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Shiryaev SA, Mesci P, Pinto A, Fernandes I, Sheets N, Shresta S, Farhy C, Huang CT, Strongin AY, Muotri AR, Terskikh AV. Repurposing of the anti-malaria drug chloroquine for Zika Virus treatment and prophylaxis. Sci Rep. 2017 Nov 17;7(1):15771. doi: 10.1038/s41598-017-15467-6.</citation>
+    <PMID>29150641</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Devaux CA, Rolain JM, Colson P, Raoult D. New insights on the antiviral effects of chloroquine against coronavirus: what to expect for COVID-19? Int J Antimicrob Agents. 2020 May;55(5):105938. doi: 10.1016/j.ijantimicag.2020.105938. Epub 2020 Mar 12.</citation>
+    <PMID>32171740</PMID>
+  </results_reference>
+  <verification_date>July 2020</verification_date>
+  <study_first_submitted>June 18, 2020</study_first_submitted>
+  <study_first_submitted_qc>June 18, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">June 19, 2020</study_first_posted>
+  <last_update_submitted>July 22, 2020</last_update_submitted>
+  <last_update_submitted_qc>July 22, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 23, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Rambam Health Care Campus</investigator_affiliation>
+    <investigator_full_name>Nesrin Ghanem-Zoubi MD</investigator_full_name>
+    <investigator_title>Infectious Diseases Institute senior physician</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>severe acute respiratory syndrome coronavirus 2</keyword>
+  <keyword>Hydroxychloroquine</keyword>
+  <keyword>Post-Exposure Prophylaxis</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hydroxychloroquine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

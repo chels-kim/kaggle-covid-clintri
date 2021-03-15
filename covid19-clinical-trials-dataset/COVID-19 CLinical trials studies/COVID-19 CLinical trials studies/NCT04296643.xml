@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2922">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04296643</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20006014</org_study_id>
+    <nct_id>NCT04296643</nct_id>
+  </id_info>
+  <brief_title>Medical Masks vs N95 Respirators for COVID-19</brief_title>
+  <official_title>Medical Masks Versus N95 Respirators to Prevent 2019 Novel Coronavirus Disease (COVID-19) in Healthcare Workers: A Randomized Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>McMaster University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Vancouver Coastal Health</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Alberta</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Dalhousie University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>McMaster University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A randomized controlled trial in which nurses will be randomized to either medical masks or&#xD;
+      N95 respirators when providing care to patients with COVID-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      A randomized controlled trial in which nurses will be randomized to either medical masks or&#xD;
+      N95 respirators when providing medical care to patients with COVID-19. This Canadian&#xD;
+      multi-centre randomized controlled trial will assess whether medical masks are non-inferior&#xD;
+      to N95 respirators when nurses provide care involving non-aerosol generating procedures.&#xD;
+      Nurses will be randomized to either use of a medical mask or to a fit-tested N95 respirator&#xD;
+      when providing care for patients with febrile respiratory illness. The primary outcome is&#xD;
+      laboratory confirmed COVID-19 among nurse participants.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 1, 2020</start_date>
+  <completion_date type="Anticipated">April 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">February 1, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>RT-PCR confirmed COVID-19 infection</measure>
+    <time_frame>6 months</time_frame>
+    <description>Number of participants with RT-PCR confirmed COVID-19 infection</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Acute respiratory illness</measure>
+    <time_frame>6 months</time_frame>
+    <description>Number of participants with acute respiratory illness</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Absenteeism</measure>
+    <time_frame>6 months</time_frame>
+    <description>Number of participants with absenteeism</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lower respiratory infection</measure>
+    <time_frame>6 months</time_frame>
+    <description>Number of participants with lower respiratory infection</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pneumonia</measure>
+    <time_frame>6 months</time_frame>
+    <description>Number of participants with pneumonia</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ICU admission</measure>
+    <time_frame>6 months</time_frame>
+    <description>Number of participants with ICU admission</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mechanical ventilation</measure>
+    <time_frame>6 months</time_frame>
+    <description>Number of participants needing mechanical ventilation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Death</measure>
+    <time_frame>6 months</time_frame>
+    <description>Number of participants that died</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">576</enrollment>
+  <condition>Coronavirus</condition>
+  <condition>N95</condition>
+  <condition>Medical Mask</condition>
+  <arm_group>
+    <arm_group_label>Medical Mask</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Medical Mask worn when providing care to patient with febrile respiratory illness</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>N95 respirator</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>N95 respirator worn when providing care to patient with febrile respiratory illness</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Medical Mask</intervention_name>
+    <description>Medical Mask (known also as Surgical Mask)</description>
+    <arm_group_label>Medical Mask</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>N95 respirator</intervention_name>
+    <description>N95 respirator</description>
+    <arm_group_label>N95 respirator</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Nurses who work &gt; 37 hours per week in medical, emergency, pediatric units&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Nurses with one or more comorbidities&#xD;
+&#xD;
+          -  Nurses who cannot pass an N95 respirator fit-test&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mark B Loeb</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>McMaster University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Mark Loeb, MD</last_name>
+    <phone>9053340010</phone>
+    <email>loebm@mcmaster.ca</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Foothills Medical Centre</name>
+      <address>
+        <city>Calgary</city>
+        <state>Alberta</state>
+        <zip>T2N 1N4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>John Conly, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>John Conly, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Alberta Hospital</name>
+      <address>
+        <city>Edmonton</city>
+        <state>Alberta</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stephanie Smith, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Stephanie Smith, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Brantford General Hospital</name>
+      <address>
+        <city>Brantford</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Verne Glavin, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Verne Glavin, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hamilton Health Sciences</name>
+      <address>
+        <city>Hamilton</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Dominik Mertz, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Dominik Mertz, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>St. Joseph's Healthcare</name>
+      <address>
+        <city>Hamilton</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Zain Chagla, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Zain Chagla, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Ottawa Hospital</name>
+      <address>
+        <city>Ottawa</city>
+        <state>Ontario</state>
+        <zip>K1H 8L6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lana Castellucci, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Lana Castellucci, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Montfort</name>
+      <address>
+        <city>Ottawa</city>
+        <state>Ontario</state>
+        <zip>K1K 0T2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sarah Mansour, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Sarah Mansour, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Niagara Health Services</name>
+      <address>
+        <city>St. Catherines</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Karim Ali, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Karim Ali, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>St. Joe's Unity Health</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mark Downing, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Mark Downing, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>St. Mike's Unity Health</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Matthew Muller, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Matthew Muller, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Montreal University Health Centre</name>
+      <address>
+        <city>Montréal</city>
+        <state>Quebec</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Charles Frenette, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Charles Frenette, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The Jewish General Hospital</name>
+      <address>
+        <city>Montréal</city>
+        <state>Quebec</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Leighanne Parkes, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Leighanne O Parkes, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Golden Care LTCF</name>
+      <address>
+        <city>Tzrifin</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ilan Youngster, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Ilan Youngster, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+    <country>Israel</country>
+  </location_countries>
+  <verification_date>March 2020</verification_date>
+  <study_first_submitted>March 3, 2020</study_first_submitted>
+  <study_first_submitted_qc>March 3, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 5, 2020</study_first_posted>
+  <last_update_submitted>November 16, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 16, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 18, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

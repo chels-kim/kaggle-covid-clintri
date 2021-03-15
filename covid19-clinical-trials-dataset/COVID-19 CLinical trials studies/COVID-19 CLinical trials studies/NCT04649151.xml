@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2680">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04649151</url>
+  </required_header>
+  <id_info>
+    <org_study_id>mRNA-1273-P203</org_study_id>
+    <nct_id>NCT04649151</nct_id>
+  </id_info>
+  <brief_title>A Study to Evaluate the Safety, Reactogenicity, and Effectiveness of mRNA-1273 Vaccine in Adolescents 12 to &lt;18 Years Old to Prevent COVID-19</brief_title>
+  <acronym>TeenCove</acronym>
+  <official_title>A Phase 2/3, Randomized, Observer-Blind, Placebo Controlled Study to Evaluate the Safety, Reactogenicity, and Effectiveness of mRNA-1273 SARS CoV 2 Vaccine in Healthy Adolescents 12 to &lt;18 Years of Age</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>ModernaTX, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Biomedical Advanced Research and Development Authority</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>ModernaTX, Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The mRNA-1273 vaccine is being developed to prevent COVID-19, the disease resulting from&#xD;
+      Severe Acute Respiratory Syndrome coronavirus (SARS-CoV-2) infection. The study is designed&#xD;
+      to primarily evaluate the safety and reactogenicity of a single dose level of mRNA-1273&#xD;
+      vaccine administered in 2 doses 28 days apart to an adolescent population.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Please access http://TeenCoveStudy.com for additional information, such as Study Overview,&#xD;
+      Participation, Site Locations along with contact numbers for each location for the study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 9, 2020</start_date>
+  <completion_date type="Anticipated">June 30, 2022</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2022</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants with Solicited Local and Systemic Adverse Reactions (ARs)</measure>
+    <time_frame>Up to Day 8 (7 days after first dose) and up to Day 36 (7 days after second dose)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with Unsolicited Adverse Events (AEs)</measure>
+    <time_frame>Up to Day 57 (28 days after each dose)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with Serious Adverse Events (SAEs), Medically Attended AEs (MAAEs), or Adverse Events of Special Interest (AESI)</measure>
+    <time_frame>Up to Day 394 (1 year after second dose)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants Who have Reached the Acceptable Threshold for the Serum Ab Level at Day 57</measure>
+    <time_frame>Day 57 (28 days after second dose)</time_frame>
+    <description>Acceptable serum Ab threshold as predefined for the study.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Comparison of the Geometric Mean of the Serum Neutralizing Antibody (nAb) level against the Geometric Mean of the Serum nAb level in Study mRNA-1273-P301 (NCT04470427)</measure>
+    <time_frame>Day 57 (28 days after second dose)</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Geometric Mean Value of SARS-CoV-2 Spike Protein (S2P)-specific binding antibody (bAb)</measure>
+    <time_frame>Day 1, Day 57 (1 month after dose 2), Day 209 (6 months after dose 2), and Day 394 (1 year after dose 2)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Geometric Mean Value of SARS-CoV-2-specific nAb</measure>
+    <time_frame>Day 1, Day 57 (1 month after dose 2), Day 209 (6 months after dose 2), and Day 394 (1 year after dose 2)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants with a SARS-CoV-2 Infection Starting on Day 57</measure>
+    <time_frame>Day 57 up to Day 394</time_frame>
+    <description>Clinical signs indicative of SARS-CoV-2 infection as predefined for the study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants with a First Occurrence of COVID-19 Starting 14 days after Second Dose of mRNA-1273 or Placebo</measure>
+    <time_frame>Day 29 (second dose) up to Day 394 (1 year after second dose)</time_frame>
+    <description>Clinical signs indicative of COVID-19 as predefined for the study.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">3000</enrollment>
+  <condition>SARS-CoV-2</condition>
+  <arm_group>
+    <arm_group_label>mRNA-1273</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive 1 intramuscular (IM) injection of 100 microgram (ug) mRNA-1273 on Day 1 and on Day 29.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants will receive 1 IM injection of mRNA-1273-matching placebo on Day 1 and on Day 29.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>mRNA-1273</intervention_name>
+    <description>Sterile liquid for injection</description>
+    <arm_group_label>mRNA-1273</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>0.9% sodium chloride (normal saline) injection</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Participants 12 to &lt;18 years of age at the time of consent (Screening Visit, Day 0)&#xD;
+             who, in the opinion of the Investigator, are in good general health based on review of&#xD;
+             medical history and screening physical examination.&#xD;
+&#xD;
+          -  Investigator assessment that the participant, in the case of an emancipated minor, or&#xD;
+             parent(s)/legally acceptable representative(s) [LAR(s)] understand and is willing and&#xD;
+             physically able to comply with protocol-mandated follow up, including all procedures&#xD;
+             and provides written informed consent/assent.&#xD;
+&#xD;
+          -  Body mass index (BMI) at or above the third percentile according to World Health&#xD;
+             Organization (WHO) Child Growth Standards at the Screening Visit (Day 0)&#xD;
+&#xD;
+          -  Female participants of nonchildbearing potential may be enrolled in the study.&#xD;
+             Nonchildbearing potential is defined as premenarche or surgically sterile (history of&#xD;
+             bilateral tubal ligation, bilateral oophorectomy, hysterectomy).&#xD;
+&#xD;
+          -  Female participants of childbearing potential may be enrolled in the study if the&#xD;
+             participant has a negative pregnancy test at Screening (Day 0), on the day of the&#xD;
+             first injection (Day 1), and on the day of the second injection (Day 29); has&#xD;
+             practiced adequate contraception or has abstained from all activities that could&#xD;
+             result in pregnancy for at least 28 days prior to the first injection (Day 1); has&#xD;
+             agreed to continue adequate contraception through 3 months following the second&#xD;
+             injection (Day 29); and is not currently breastfeeding.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Known history of SARS-CoV-2 infection or known close contact with anyone with&#xD;
+             laboratory-confirmed SARS-CoV-2 infection or COVID-19 within 2 weeks prior to vaccine&#xD;
+             administration&#xD;
+&#xD;
+          -  Travel outside of the United States in the 28 days prior to the Screening Visit (Day&#xD;
+             0)&#xD;
+&#xD;
+          -  Pregnant or breastfeeding&#xD;
+&#xD;
+          -  Is acutely ill or febrile 24 hours prior to or at the Screening Visit (Day 0). Fever&#xD;
+             is defined as a body temperature ≥38.0°Celsius/≥100.4°Farenheit. Participants who meet&#xD;
+             this criterion may have visits rescheduled within the relevant study visit windows.&#xD;
+             Afebrile participants with minor illnesses can be enrolled at the discretion of the&#xD;
+             Investigator.&#xD;
+&#xD;
+          -  Prior administration of an investigational coronavirus (for example, SARS-CoV, Middle&#xD;
+             East Respiratory Syndrome [MERS-CoV]) vaccine&#xD;
+&#xD;
+          -  Current treatment with investigational agents for prophylaxis against COVID-19&#xD;
+&#xD;
+          -  Has a medical, psychiatric, or occupational condition that may pose additional risk as&#xD;
+             a result of participation, or that could interfere with safety assessments or&#xD;
+             interpretation of results according to the Investigator's judgment&#xD;
+&#xD;
+          -  Current use of any inhaled substance (for example, tobacco or cannabis smoke, nicotine&#xD;
+             vapors)&#xD;
+&#xD;
+          -  History of chronic smoking (≥1 cigarette a day) within 1 year of the Screening Visit&#xD;
+             (Day 0)&#xD;
+&#xD;
+          -  History of illegal substance use or alcohol abuse within the past 2 years. This&#xD;
+             exclusion does not apply to historical cannabis use that was formerly illegal in the&#xD;
+             participant's state but is legal at the time of screening.&#xD;
+&#xD;
+          -  History of a diagnosis or condition that, in the judgment of the Investigator, may&#xD;
+             affect study endpoint assessment or compromise participant safety, specifically:&#xD;
+&#xD;
+               -  Congenital or acquired immunodeficiency, including human immunodeficiency virus&#xD;
+                  (HIV) infection&#xD;
+&#xD;
+               -  Suspected active hepatitis&#xD;
+&#xD;
+               -  Has a bleeding disorder that is considered a contraindication to IM injection or&#xD;
+                  phlebotomy&#xD;
+&#xD;
+               -  Dermatologic conditions that could affect local solicited adverse reaction (AR)&#xD;
+                  assessments&#xD;
+&#xD;
+               -  History of anaphylaxis, urticaria, or other significant AR requiring medical&#xD;
+                  intervention after receipt of a vaccine&#xD;
+&#xD;
+               -  Diagnosis of malignancy within the previous 10 years (excluding nonmelanoma skin&#xD;
+                  cancer)&#xD;
+&#xD;
+               -  Febrile seizures&#xD;
+&#xD;
+          -  Receipt of:&#xD;
+&#xD;
+               -  Any licensed vaccine within 28 days before the first dose of investigational&#xD;
+                  product (IP) or plans for receipt of any licensed vaccine through 28 days&#xD;
+                  following the last dose of IP&#xD;
+&#xD;
+               -  Systemic immunosuppressants or immune-modifying drugs for &gt;14 days in total&#xD;
+                  within 6 months prior to the day of enrollment (for corticosteroids, ≥20 mg/day&#xD;
+                  prednisone equivalent). Topical tacrolimus is allowed if not used within 14 days&#xD;
+                  prior to the day of enrollment. Participants may have visits rescheduled for&#xD;
+                  enrollment if they no longer meet this criterion within the Screening Visit&#xD;
+                  window. Inhaled, nasal, and topical steroids are allowed.&#xD;
+&#xD;
+               -  Intravenous blood products (red cells, platelets, immunoglobulins) within 3&#xD;
+                  months prior to enrollment&#xD;
+&#xD;
+          -  Has donated ≥450 mL of blood products within 28 days prior to the Screening Visit (Day&#xD;
+             0) or plans to donate blood products during the study&#xD;
+&#xD;
+          -  Participated in an interventional clinical study within 28 days prior to the Screening&#xD;
+             Visit (Day 0) or plans to do so while participating in this study&#xD;
+&#xD;
+          -  Is an immediate family member or has a household contact who is an employee of the&#xD;
+             research center or otherwise involved with the conduct of the study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>12 Years</minimum_age>
+    <maximum_age>17 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Moderna Clinical Trials</last_name>
+    <phone>877-913-3286</phone>
+    <email>clinicaltrials@modernatx.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>See &quot;Additional Information&quot; below to access study website</last_name>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Velocity Clinical Research - Banning</name>
+      <address>
+        <city>Banning</city>
+        <state>California</state>
+        <zip>92220</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Paradigm Clinical Research</name>
+      <address>
+        <city>La Mesa</city>
+        <state>California</state>
+        <zip>91942</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Accel Research Sites - Nona Pediatric Center</name>
+      <address>
+        <city>DeLand</city>
+        <state>Florida</state>
+        <zip>32720</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Tekton Research</name>
+      <address>
+        <city>Chamblee</city>
+        <state>Georgia</state>
+        <zip>30341</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Atlanta</name>
+      <address>
+        <city>Stockbridge</city>
+        <state>Georgia</state>
+        <zip>30281</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Velocity Clinical Research - Boise</name>
+      <address>
+        <city>Meridian</city>
+        <state>Idaho</state>
+        <zip>83642</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Velocity Clinical Research - Valparaiso</name>
+      <address>
+        <city>Valparaiso</city>
+        <state>Indiana</state>
+        <zip>46383</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Johnson County Clinical Trials</name>
+      <address>
+        <city>Lenexa</city>
+        <state>Kansas</state>
+        <zip>66219</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Medpharmics - Metairie</name>
+      <address>
+        <city>Metairie</city>
+        <state>Louisiana</state>
+        <zip>70006</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Massachusetts Medical School</name>
+      <address>
+        <city>Worcester</city>
+        <state>Massachusetts</state>
+        <zip>01655</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research Institute</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55402</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Medpharmics - Gulfport</name>
+      <address>
+        <city>Gulfport</city>
+        <state>Mississippi</state>
+        <zip>39503</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Medpharmics - Albuquerque</name>
+      <address>
+        <city>Albuquerque</city>
+        <state>New Mexico</state>
+        <zip>87102</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Child Healthcare Associates</name>
+      <address>
+        <city>Liverpool</city>
+        <state>New York</state>
+        <zip>13090</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Velocity Clinical Research - Cincinnati</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45242</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Lynn Health Sciences Institute</name>
+      <address>
+        <city>Oklahoma City</city>
+        <state>Oklahoma</state>
+        <zip>73112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Velocity Clinical Research - Providence</name>
+      <address>
+        <city>Warwick</city>
+        <state>Rhode Island</state>
+        <zip>02886</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Coastal Pediatric Associates</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29414</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Benchmark Research</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Crossroads Clinical Research</name>
+      <address>
+        <city>Corpus Christi</city>
+        <state>Texas</state>
+        <zip>78413</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kool Kids Pediatrics</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ACRC Trials</name>
+      <address>
+        <city>Plano</city>
+        <state>Texas</state>
+        <zip>75024</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Tekton Research</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78240</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Tekton Research</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78244</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Velocity Clinical Research - Salt Lake City - Jordan Valley</name>
+      <address>
+        <city>West Jordan</city>
+        <state>Utah</state>
+        <zip>84088</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.TeenCoveStudy.com</url>
+    <description>Click here to access the website, http://TeenCoveStudy.com, for additional information for the study, such as Study Overview, Participation, Site Locations, along with contact numbers for each location for the study.</description>
+  </link>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>November 30, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 30, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 2, 2020</study_first_posted>
+  <last_update_submitted>February 2, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 2, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 5, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>mRNA-1273</keyword>
+  <keyword>mRNA-1273 vaccine</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>SARS-CoV-2 Vaccine</keyword>
+  <keyword>Coronavirus</keyword>
+  <keyword>Virus Diseases</keyword>
+  <keyword>Messenger RNA</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>COVID-19 Vaccine</keyword>
+  <keyword>Moderna</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

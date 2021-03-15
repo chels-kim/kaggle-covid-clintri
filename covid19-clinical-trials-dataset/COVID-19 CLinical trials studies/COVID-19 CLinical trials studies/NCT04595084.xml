@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3174">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04595084</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CHA-IRB-1141/05/20</org_study_id>
+    <secondary_id>3R33AT010125-03S1</secondary_id>
+    <nct_id>NCT04595084</nct_id>
+  </id_info>
+  <brief_title>Remotely Delivered Programs Targeting COVID-19 Stress-Related Depression and Substance Use</brief_title>
+  <official_title>Remotely Delivered Programs Targeting COVID-19 Stress-Related Depression and Substance Use</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Cambridge Health Alliance</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Center for Complementary and Integrative Health (NCCIH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Penn State University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Cambridge Health Alliance</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This 3-arm study compares the effectiveness of an (1) 8-week mindfulness-based intervention,&#xD;
+      MBCT-R (Mindfulness-Based Cognitive Therapy for Resilience During COVID-19)+CHA MindWell vs.&#xD;
+      (2) iCBT (internet based Cognitive Behavioral Therapy)+ CHA MindWell vs. (3) CHA MindWell&#xD;
+      remote monitoring and telephone coaching alone on depressive symptoms as measured over the&#xD;
+      course of 24-weeks by the computerized adaptive mental health (CAT-MH) interview for&#xD;
+      depression (CAT-DI). Secondary outcomes include rates and levels of alcohol and drug use, as&#xD;
+      well as the number of required mental health clinician visits (televisits and in-person&#xD;
+      visits). Exploratory outcomes include stress-related affect reactivity and salivary&#xD;
+      inflammatory markers (e.g., interleukin-6).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      We will conduct a comparative effectiveness RCT comparing two online programs for people&#xD;
+      enrolled in the CHA MindWell mental wellness monitoring and telephone coaching program with a&#xD;
+      low-impact control condition of CHA MindWell alone. Mindfulness-Based Cognitive Therapy for&#xD;
+      Resilience (MBCT-R), and iCBT, are online versions of evidence-based treatments for&#xD;
+      depression. MBCT-R integrates training in mindfulness with elements of CBT with a focus on&#xD;
+      the psychosocial stressors associated with COVID-19 that increase risk for depression. It is&#xD;
+      based on the 8-week MBCT program which has well-established efficacy for symptoms of&#xD;
+      depression, anxiety and stress, and for preventing relapse in recurrent depression. The iCBT&#xD;
+      arm will use MoodGym, which is a 6-week web-based asynchronous cognitive-behavioral therapy&#xD;
+      educational curriculum for depression and anxiety. The two programs will be compared with CHA&#xD;
+      MindWell alone, which is weekly monitoring with CAT-MH plus telephone support and referral to&#xD;
+      treatment as needed. Primary outcomes are levels of depressive symptoms. Secondary outcomes&#xD;
+      include alcohol and drug use, healthcare utilization. Online oral fluid toxicology testing,&#xD;
+      daily diaries for stress-related affect reactivity, salivary inflammatory markers, salivary&#xD;
+      testing for COVID-19, and completion of computerized adaptive mental health interviews&#xD;
+      (CAT-MH) represent several innovative data collection modalities in this study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 15, 2021</start_date>
+  <completion_date type="Anticipated">November 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">November 1, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Three arms, one intervention (8-wk MBCT-R + CHA-MW) and two comparator arms (8-wk iCBT + CHA-MW or CHA-MW alone) which are randomly assigned at the same time and are implemented in parallel.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Depression Severity (CAT-DI)</measure>
+    <time_frame>Baseline, Weeks 4, 8, 12, 16, 20, 24</time_frame>
+    <description>Change in depression symptom severity as measured by CAT-MH Depression Inventory (DI) scores completed at baseline and every 4 weeks during the 24 weeks after randomization. Difference between MBCT-R arm and CHA-MW monitoring alone arm is primary outcome. Difference between iCBT arm and CHA-MW monitoring alone arm is secondary outcome. Difference between iCBT arm and MBCT-R is an exploratory outcome.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Drug Use Rates</measure>
+    <time_frame>Week 24</time_frame>
+    <description>Rates of positive toxicology screens for illicit drugs or unprescribed controlled substances at 24 weeks. Rates of positive toxicology for illicit drug use or controlled substances (non prescribed) at week 24 is the secondary outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Heavy Drinking Days</measure>
+    <time_frame>Week 24</time_frame>
+    <description>We will conduct an Alcohol Use History at Week 24. We will conduct 30-day alcohol and substance use history using the TimeLine Follow Back (TLFB) Method at Week 24 visit by telephone or video conference. Heavy Drinking Days in past 30 days is the secondary outcome.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Televisits</measure>
+    <time_frame>Randomization through Week 24</time_frame>
+    <description>Number of mental health clinician televisits during 24 weeks</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Positive and Negative Affect Reactivity Scales</measure>
+    <time_frame>Weeks -4, -3, -2, -1, 0, 9, 10, 11</time_frame>
+    <description>Participants report the frequency of emotions using a 5-point scale: 0 = none of the time, 1 = a little of the time, 2 = some of the time, 3 = most of the time, 4 = all of the time. The NA scale consists of 14 items: restless or fidgety, nervous, worthless, so sad nothing could cheer you up, everything is an effort, hopeless, lonely, afraid, jittery, irritable, ashamed, upset, angry, and frustrated. The PA scale consists of 13 items: in good spirits, cheerful, extremely happy, calm and peaceful, satisfied, full of life, close to others, like you belong, enthusiastic, attentive, proud, active, and confident. Daily NA and PA are calculated by averaging the items within each subscale, and then aggregating scores across interview days.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Daily Inventory of Stressful Events</measure>
+    <time_frame>Weeks -4, -3, -2, -1, 9, 10, 11, 12</time_frame>
+    <description>The Daily Inventory of Stressful Events is used to assess whether each of 7 types of stressors occurred in the past 24 hours: argument, avoided an argument, stressor at work or school, stressor at home, discrimination, network stressor (i.e., stressful event that happened to a close friend or family member), and any other stressor. A day is categorized as a &quot;stressor day&quot; if the participant endorsed at least one stressor, or a &quot;nonstressor day&quot; if the participant indicated that no stressors occurred. Stressor frequency is defined as the percentage of interview days during which at least one stressor occurred. Salivary Cytokine Panels will be collected on two of these stressor and non stressor days respectively.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Inflammatory Cytokines (IL-6, IL-1b, IL-8, TNF-a)</measure>
+    <time_frame>Weeks -4, -3, -2, -1, 9, 10, 11, 12</time_frame>
+    <description>Difference between mean level of salivary Interleukin-6 during 2 low stressor and 2 high stressor days is exploratory outcome. Evening salivary passive drool samples (which assess TNF-a, IL-1b and IL-8 in addition to IL-6) will be collected 4 times during weeks -4-0 and 4 times during weeks 9-12 during diary collection. They will be primed with REDCAP branching logic activated by 2 multi-stressor (high) stressor days and 2 no stressor days. REDCAP will specifically tell them to select a color/letter coded sampling contained and they will collect that sample that evening. They will place samples immediately in the freezer.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Brief Experiential Avoidance Questionnaire (BEAQ)</measure>
+    <time_frame>Baseline, Weeks 4, 8, 12</time_frame>
+    <description>A 15-item scale with content from six dimensions of experiential avoidance.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Difficulties in Emotion Regulation Scale (DERS)</measure>
+    <time_frame>Baseline, Weeks 4, 8, 12</time_frame>
+    <description>The Difficulties in Emotion Regulation (DERS) Scale is a 36-item self-report scale designed to assess emotional dysregulation using a 5 point Likert scale. The scale assesses 6 aspects of emotional dysregulation: non-acceptance of emotional responses, difficulties engaging in goal directed behavior, impulse control difficulties, lack of emotional awareness, limited access to emotion regulation strategies, and lack of emotional clarity. Subscales are summed and a lower total score represents a better outcome. Individual subscales will also be assessed.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Perceived Stress Scale (PSS-14)</measure>
+    <time_frame>Baseline, Weeks 4, 8, 12, 24</time_frame>
+    <description>The Perceived Stress Scale (PSS-14) (14 items) measures the degree to which situations in life are stressful. Items are designed to evaluate how overloaded, unpredictable, and uncontrollable one finds one's life. Each item is scored on a 5 point Likert scale from 0 (Never) to 4 (Very often).</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Self-Compassion Scale Short Form (SCS-SF)</measure>
+    <time_frame>Baseline, Weeks 4, 8, 12</time_frame>
+    <description>The short-form Self-Compassion Scale (SCS-SF) is an abbreviated 12-item form of the original 26-item Self-Compassion Scale. The scale is scored on a 5 point Likert scale (1 = Almost never; 5 = Almost always), and negative subscale items are reverse scored.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Multidimensional Assessment of Interoceptive Awareness (MAIA-2)</measure>
+    <time_frame>Baseline, Weeks 4, 8, 12</time_frame>
+    <description>The Multidimensional Assessment of Interoceptive Awareness (MAIA-2) is a 37 item self-report scale designed to assess multiple aspects of interoception and interoceptive awareness. The scale assesses 8 aspects of interoceptive awareness: noticing, not-distracting, not-worrying, attention regulation, emotional awareness, self-regulation, body listening, and trusting. Subscales are summed and a higher total score represents a better outcome. Individual subscales will also be assessed, especially Body Listen, Body Trust, and Self-Regulation.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Responses to Stress Questionnaire - COVID -19 (RSQ-COVID-19) Stress coping style (disengagement, involuntary engagement)</measure>
+    <time_frame>Baseline, Weeks 12, 24</time_frame>
+    <description>The adult self-report COVID-19 Responses to Stress Questionnaire is a 72-item survey. Responses are recorded on a 4-point Likert scale (1 = Not at All, 4 = Very/A lot). Items in the RSQ cover 5 factors of coping and stress responses: primary control engagement coping (i.e., problem solving, emotional expression, emotional modulation), secondary control engagement coping (i.e., positive thinking, cognitive restructuring, acceptance, distraction), disengagement coping (i.e., avoidance, denial, wishful thinking); involuntary engagement (e.g., physiological arousal, rumination), and involuntary disengagement (e.g., emotional numbing).</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Experiences Questionnaire (EQ) (Rumination and Decentering)</measure>
+    <time_frame>Baseline, Weeks 4, 8, 12</time_frame>
+    <description>This is a 20-item self-report measure of decentering and is conceptualized as a protective factor and capable of measuring resilience to depressive relapse. The EQ uses a 5-point Likert scale with responses from &quot;never&quot; to &quot;all the time&quot;. A sample item from the decentering subscale is &quot;I can observe unpleasant feelings without being drawn into them.&quot;</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Computerized Adaptive Testing for Mental Health (CAT-MH) Interviews</measure>
+    <time_frame>Screening, Baseline, Weeks 1, 2, 3, 4, 5, 6, 7, 8, 12, 16, 20, 24</time_frame>
+    <description>Computer Adaptive Testing for Mental Health (CAT-MH) interviews are diagnostic interviews designed to be completed online using a computer, tablet or phone. Items from each of the modules for depression (CAT-DI), anxiety (ANX-CAT), mania and hypomania (M/HM-CAT), PTSD (PTSD-CAT), psychosis (PSY-S-CAT), suicidality (SS-CAT), and substance abuse (SUD-CAT) are chosen from large item banks based on multidimensional item response theory, adapting each item presented to the individual's severity so that different individuals are tested with different items depending on their severity level.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Beck Depression Inventory (BDI-II)</measure>
+    <time_frame>Baseline</time_frame>
+    <description>The Beck Depression Inventory (BDI-II) is a 21-item self-report scale designed to assess depression severity over the past 2 weeks with well-established internal consistency, reliability and validity.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Rank Desire</measure>
+    <time_frame>Baseline</time_frame>
+    <description>Rank Desire for each intervention option will be assessed at baseline.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Credibility and Expectancy</measure>
+    <time_frame>Week 2</time_frame>
+    <description>Credibility/Expectancy for the assigned option will be assessed at Week 2. Treatment expectancy and credibility for each arm will be assessed with the 4-item Credibility/ Expectancy Questionnaire (CEQ)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>COVID-19 Fear</measure>
+    <time_frame>Baseline, Week 12</time_frame>
+    <description>The COVID-19 Fear scale is a 7-item questionnaire recorded on a 5-point Likert scale (1 = Strongly Disagree to 5 = Strongly Agree). Responses to scale items were found to positively correlate with perceived vulnerability, hospital anxiety, and depression. Sample questions include &quot;I am most afraid of coronavirus-19,&quot; and &quot;It makes me uncomfortable to think about coronavirus-19.&quot;</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>COVID-19 status (self-report)</measure>
+    <time_frame>Week 0, 4, 8, 12, 16, 20, 24</time_frame>
+    <description>Participants will be asked to self-report on REDCap.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>COVID-19 status (salivary IgG)</measure>
+    <time_frame>Week 12</time_frame>
+    <description>Participants will be asked to complete a salivary sample to assess COVID-19 status. COVID-19 IgG samples: Antibodies for COVID-19 will be sampled at week 12 among all participants to establish whether they were exposed to COVID-19 during the study. They will place samples immediately in the freezer.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>UCI Oral Health Questionnaire</measure>
+    <time_frame>Screening and at Week 12</time_frame>
+    <description>The UCI Oral Health Questionnaire is an 12-item survey that asks sociodemographic questions, questions about oral and physical health, as well as additional oral health questions drawn from the WHO Oral Health Survey. The questionnaire includes basic questions about dental health characteristics of participants to be used as an exclusion criteria for the salivary collection portion of the study and to track changes in oral health that might impact salivary data collection.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Home Skills Use Diary</measure>
+    <time_frame>Weeks 1, 2, 3, 4, 5, 6, 7, 8</time_frame>
+    <description>The Home Skills Use Diary will be completed for the 8 weeks during the intervention period and will come in two types (1: weekly mindfulness practice and resource use diary for the MBCT-R group and 2: General CBT coping skills use diary card for both the iCBT and CHA MindWell arms).</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Adverse Event Patient Participant Self-Report Form</measure>
+    <time_frame>Baseline, Weeks 4, 8, 12, 16, 20, 24</time_frame>
+    <description>The Adverse Event Patient Participant Self-Report Form will be systematically assessed at assessment timepoints (baseline, 4-weeks, 8-weeks, 12-weeks, 16-weeks, 20-weeks and 24-weeks). In addition, group leaders and research coordinators will be trained to identify and report any adverse events that occur or are reported during weekly group visits.</description>
+  </other_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">240</enrollment>
+  <condition>Depression</condition>
+  <condition>Anxiety</condition>
+  <condition>Substance Use</condition>
+  <condition>Stress, Psychological</condition>
+  <condition>Stress, Emotional</condition>
+  <condition>Alcohol Use, Unspecified</condition>
+  <condition>Drug Use</condition>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>MBCT-R + CHA-MW</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Mindfulness-Based Cognitive Therapy (MBCT) is an effective group intervention for depression and anxiety that combines mindfulness training with elements of cognitive therapy. This will be delivered with CHAMindWell mental wellness monitoring with CAT-MH and telephone coaching as needed.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>iCBT (MoodGym) + CHA-MW</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>MoodGym is a form of iCBT, which an evidence-based online program for depression, anxiety, stress and general psychological well-being. This will be delivered with CHAMindWell mental wellness monitoring with CAT-MH and telephone coaching as needed.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>CHA-MW</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants randomized to the CHA-MW arm will only receive CHAMindWell mental wellness monitoring with CAT-MH and telephone coaching as needed.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Mindfulness Based Cognitive Therapy for Resilience During COVID-19 plus CHAMindWell</intervention_name>
+    <description>MBCT-R is designed to foster resilience and prevent new-onset anxiety and depression disorders or exacerbation of existing conditions. MBCT-R follows the MBCT structure of eight classes and one half-day retreat, with home practice and specific daily meditation, but is live-online and focuses on specific stressors (COVID-19, its economic and social consequences). Classes of 40-50 participants are led by 2 co-leaders. Participants have CHA MindWell Monitoring and telephone support during weeks 1-8 and then every 4 weeks afterwards for 24 weeks. Participants with severe symptoms or worsening moderate symptoms will be asked if they would like a televisit with a clinician. If monitoring with CAT-MH interviews suggests symptomatic worsening, then a CHA MindWell technician will contact the participant and check-in and offer support, including setting up a televisit with a member of a clinical member of the outpatient mental health team if needed.</description>
+    <arm_group_label>MBCT-R + CHA-MW</arm_group_label>
+    <other_name>MBCT-R + CHAMindWell</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Internet Cognitive Behavioral Therapy plus CHAMindWell</intervention_name>
+    <description>MoodGYM is based on CBT and interpersonal therapy targeting depression, anxiety, stress, and general psychological distress. MoodGYM has 6 sessions with five curriculum modules and a review session that can be completed within an 8-week period. iCBT participants will also be enrolled in CHA MindWell Monitoring and Support (CHA-MW). Participants across arms will have CHA MindWell Monitoring and Technician telephone support during weeks 1-8 and then every 4 weeks afterwards for 24 weeks. Participants with severe symptoms or worsening moderate symptoms will be asked if they would like a televisit with a clinician. If there are difficulties with accessing iCBT technology or if monitoring with CAT-MH or CAT-DI/ANX-CAT interviews suggests symptomatic worsening, then a CHA MindWell technician will contact the participant and check-in and offer support, including setting up a televisit with a member of a clinical member of the outpatient mental health team if needed.</description>
+    <arm_group_label>iCBT (MoodGym) + CHA-MW</arm_group_label>
+    <other_name>iCBT + CHAMindWell</other_name>
+    <other_name>MoodGYM + CHAMindWell</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>CHAMindWell</intervention_name>
+    <description>Participants across arms will have CHA MindWell Monitoring and Technician support during weeks 1-8 and then every 4 weeks afterwards for 24 weeks. Participants across arms will have CHA MindWell Monitoring and Technician telephone support during weeks 1-8 and then every 4 weeks afterwards for 24 weeks. Participants with severe symptoms or worsening moderate symptoms will be asked if they would like a televisit with a clinician. If monitoring with CAT-MH or CAT-DI/ANX-CAT interviews suggests symptomatic worsening, then a CHA MindWell technician will contact the participant and check-in and offer support, including setting up a televisit with a member of a clinical member of the outpatient mental health team if needed.</description>
+    <arm_group_label>CHA-MW</arm_group_label>
+    <arm_group_label>MBCT-R + CHA-MW</arm_group_label>
+    <arm_group_label>iCBT (MoodGym) + CHA-MW</arm_group_label>
+    <other_name>CHA-MW</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Current patient of CHA primary care or behavioral health provider&#xD;
+&#xD;
+          -  Active enrollment in CHA MindWell&#xD;
+&#xD;
+          -  Sufficient English fluency to understand procedures and questionnaires&#xD;
+&#xD;
+          -  Ability to provide informed consent&#xD;
+&#xD;
+          -  Access to the internet and an electronic device to attend study groups and complete&#xD;
+             questionnaires.&#xD;
+&#xD;
+          -  CAT-DI 50-75, which is CAT-DI PHQ-9 equivalency score 10-20&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Active psychosis or severe level of psychosis on PSY-S-CAT &gt; 30&#xD;
+&#xD;
+          -  Bipolar I disorder history or severe level of mania on CAT-M/H50 (&gt;70)&#xD;
+&#xD;
+          -  Acute suicidality or self-injurious behavior or severe level of suicidality on&#xD;
+             CAT-SS(&gt;71)&#xD;
+&#xD;
+          -  Severe depression, indicated by CAT-DI PHQ-9 equivalency score &gt;20&#xD;
+&#xD;
+          -  Severe level of PTSD on CAT-PTSD (&gt;75)&#xD;
+&#xD;
+          -  Current treatment with antipsychotic medication, mood stabilizer or benzodiazepine&#xD;
+             equivalent of 3mg/day of lorazepam&#xD;
+&#xD;
+          -  Cognitive inability as demonstrated by the inability to complete an online informed&#xD;
+             consent assessment&#xD;
+&#xD;
+          -  Current participation in another experimental research study&#xD;
+&#xD;
+          -  Previous participation in an 8-week intensive Mindfulness-Based Intervention in past 1&#xD;
+             year&#xD;
+&#xD;
+          -  Expected medical hospitalization in next 6 months&#xD;
+&#xD;
+          -  Expected incarceration in next 6 months&#xD;
+&#xD;
+          -  Severe substance use disorder or high risk on CAT-MH SUD. In addition, use of or&#xD;
+             positive toxicology for cocaine, unprescribed opioids, stimulants, or benzodiazepines&#xD;
+             in the past 3 months.&#xD;
+&#xD;
+          -  Inability to participate in group intervention without disrupting group in opinion of&#xD;
+             principal investigator&#xD;
+&#xD;
+          -  Inability to complete screening, baseline assessments and 14 daily diaries at&#xD;
+             baseline.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Zev Schuman-Olivier, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Cambridge Health Alliance</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Carl Fulwiler, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Cambridge Health Alliance</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Farah Samawi</last_name>
+    <phone>857-270-0666</phone>
+    <email>fsamawi@challiance.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Gabriella Conversano</last_name>
+    <email>gconversano@challiance.org</email>
+  </overall_contact_backup>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>October 19, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 19, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 20, 2020</study_first_posted>
+  <last_update_submitted>January 25, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 25, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 26, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Depression</mesh_term>
+    <mesh_term>Depressive Disorder</mesh_term>
+    <mesh_term>Stress, Psychological</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

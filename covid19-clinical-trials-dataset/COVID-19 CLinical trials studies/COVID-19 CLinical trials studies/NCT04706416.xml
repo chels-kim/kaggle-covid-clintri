@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1814">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04706416</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB #2020-106</org_study_id>
+    <nct_id>NCT04706416</nct_id>
+  </id_info>
+  <brief_title>N-Acetyl Glucosamine as Therapeutic Intervention for Coronavirus Disease-19 (COVID-19)</brief_title>
+  <official_title>N-Acetyl Glucosamine as Therapeutic Intervention for Coronavirus Disease-19 (COVID-19)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Quantinosis.ai LLC</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Quantinosis.ai LLC</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study examines the efficacy of N-acetylglucosamine (NAG) in treating patients with novel&#xD;
+      coronavirus (COVID-19) infection.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a single center, prospective, observational cohort study. A total of 50 cases who are&#xD;
+      novel coronavirus (COVID-19) positive will be recruited. Presenting to the emergency room of&#xD;
+      the study site, these cases will be treated with N-acetylglucosamine (NAG) (700 mg every 12&#xD;
+      hours) as first-line treatment for 30 days. Standard of care (e.g., Remdesivir approved for&#xD;
+      emergency use in severe cases, ventilator for patients with respiratory failure, etc.) will&#xD;
+      be provided based on the patient's clinical needs, which will be at the discretion of the&#xD;
+      treating physician. The results of the patient's blood work (e.g. complete blood count,&#xD;
+      C-reactive protein [CRP], procalcitonin [PCT], IL-6, erythrocyte sedimentation rate [ESR],&#xD;
+      etc.), symptom progression, clinical severity, and outcomes will be collected on a daily&#xD;
+      basis during hospitalization until. The primary outcomes of interest are rates of intubation,&#xD;
+      mortality, and length of stay (LOS) following rapid administration of 700 mg NAG for&#xD;
+      COVID-19-related symptoms. Secondary outcomes of interest include: change in COVID-19 disease&#xD;
+      severity as assessed by the WHO Ordinal Scale for Clinical Improvement; symptom duration; ICU&#xD;
+      admission; supplemental oxygen use and duration; and change in inflammatory biomarker levels&#xD;
+      (CRP, PCT, IL-6, ESR). Finally, the safety profile of NAG was evaluated using patient medical&#xD;
+      records from Day 1 through discharge.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">November 14, 2020</start_date>
+  <completion_date type="Anticipated">January 15, 2021</completion_date>
+  <primary_completion_date type="Anticipated">January 15, 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Patients with novel coronavirus (COVID-19) will be treated with N-acetylglucosamine (NAG) (700 mg every 12 hours) as first-line treatment for 30 days, along with standard of care.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Rate of intubation</measure>
+    <time_frame>Through study completion (duration of patient's hospitalization), an average of 7-10 days.</time_frame>
+    <description>The occurrence of intubation during hospitalization.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Rate of mortality</measure>
+    <time_frame>Through study completion (duration of patient's hospitalization), an average of 7-10 days.</time_frame>
+    <description>The occurrence of death during hospitalization.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Length of stay (LOS)</measure>
+    <time_frame>Through study completion (duration of patient's hospitalization), an average of 7-10 days.</time_frame>
+    <description>The number of days the patient is hospitalized.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Symptom duration</measure>
+    <time_frame>Through study completion (duration of patient's hospitalization), an average of 7-10 days.</time_frame>
+    <description>The clinical impact of NAG on the duration of the patient's symptoms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intensive care unit (ICU) admission</measure>
+    <time_frame>Through study completion (duration of patient's hospitalization), an average of 7-10 days.</time_frame>
+    <description>The occurrence of ICU admission.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Supplemental oxygen use</measure>
+    <time_frame>Through study completion (duration of patient's hospitalization), an average of 7-10 days.</time_frame>
+    <description>The occurrence of supplemental oxygen use.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Supplemental oxygen duration</measure>
+    <time_frame>Through study completion (duration of patient's hospitalization), an average of 7-10 days.</time_frame>
+    <description>The duration of supplemental oxygen use.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">50</enrollment>
+  <condition>Coronavirus</condition>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>N-Acetyl Glucosamine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>All patients in the study were treated with N-Acetyl Glucosamine, a potential therapy for Coronavirus Disease-19 (COVID-19).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>N-acetyl glucosamine (NAG)</intervention_name>
+    <description>Patients with novel coronavirus (COVID-19) will be treated with N-acetylglucosamine (NAG) (700 mg every 12 hours) as first-line treatment for 30 days, along with standard of care.</description>
+    <arm_group_label>N-Acetyl Glucosamine</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  ≥18 years old&#xD;
+&#xD;
+          -  Treated with NAG as first-line treatment&#xD;
+&#xD;
+          -  Present with COVID-19 symptoms (including but not limited to fever, cough, shortness&#xD;
+             of breath, sore throat, nasal congestion, malaise, headache, muscle pain, loss of&#xD;
+             taste and/or smell, diarrhea, and vomiting)&#xD;
+&#xD;
+          -  Clinically diagnosed with COVID-19 by RT-PCR&#xD;
+&#xD;
+          -  No intubation prior to hospitalization and enrollment in the current study.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  &lt;18 years old upon admission&#xD;
+&#xD;
+          -  Allergy to NAG&#xD;
+&#xD;
+          -  Allergy to shellfish&#xD;
+&#xD;
+          -  Currently taking warfarin&#xD;
+&#xD;
+          -  Currently pregnant or lactating&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Valley Baptist Medical Center</name>
+      <address>
+        <city>Harlingen</city>
+        <state>Texas</state>
+        <zip>78550</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>December 31, 2020</study_first_submitted>
+  <study_first_submitted_qc>January 11, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 12, 2021</study_first_posted>
+  <last_update_submitted>January 11, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 11, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 12, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>N-acetyl glucosamine</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>We will publish based on summary data, but make individual participant data available upon request. There are no plans to publish individual participant data.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

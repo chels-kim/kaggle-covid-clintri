@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2419">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04602507</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ECA-COVID-CES</org_study_id>
+    <nct_id>NCT04602507</nct_id>
+  </id_info>
+  <brief_title>Ivermectin in Adults With Severe COVID-19.</brief_title>
+  <official_title>Ivermectin in Adults With Severe COVID-19. Double-blind Randomized Clinical Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>CES University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>CES University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Since the onset of the disease, more than 40.5 million people have been diagnosed with&#xD;
+      COVID-19 and nearly 1.2 million people have died (October 21, 2020). There is no complete&#xD;
+      understanding of the pathogenesis of SARS-CoV-2 infection and to this day there is no&#xD;
+      specific therapy or vaccine available. Thus, patient care is based on symptomatic therapy and&#xD;
+      treatment of complications.&#xD;
+&#xD;
+      Ivermectin has been used for more than 30 years for the treatment of several diseases. More&#xD;
+      than one million doses of the drug are administered daily, particularly in low- and&#xD;
+      middle-income countries. Due to the low prevalence of adverse events with the use of this&#xD;
+      drug, ivermectin is considered to have a good safety profile and its potential benefit in&#xD;
+      other diseases is currently under investigation.&#xD;
+&#xD;
+      An in vitro study of ivermectin in SARS-CoV-2 in Australia showed a significant reduction of&#xD;
+      viral load in infected cells. Subsequently, a descriptive study of 704 critical patients with&#xD;
+      COVID-19 showed a reduction in mortality, hospitalization, and intensive care unit&#xD;
+      length-of-stay in those patients who received the drug. Unfortunately, this study was&#xD;
+      withdrawn by its authors, leaving more questions than answers.&#xD;
+&#xD;
+      Some countries in Latin America have authorized its use for the management of patients with&#xD;
+      COVID-19 even in the absence of solid evidence, and several other countries are conducting&#xD;
+      clinical trials to evaluate its efficacy for the treatment of moderate and severe disease.&#xD;
+&#xD;
+      Since there is no specific treatment for COVID-19 and the therapeutic options are scarce, the&#xD;
+      researchers believe it is completely plausible, urgent, and necessary to evaluate if&#xD;
+      ivermectin use reduces the risk of admission to an intensive care unit (ICU) in hospitalized&#xD;
+      adults with severe COVID-19. The proposal is a randomized, double-blind clinical trial,&#xD;
+      conducted at CES Clinic, Medellin-Colombia. The investigators will randomize 100 patients&#xD;
+      with severe, non-critical illness, into two groups, one group will receive ivermectin in&#xD;
+      addition to standard management and the other group will receive placebo plus standard&#xD;
+      management. Clinical outcomes to evaluate will be ICU admission, need for mechanical&#xD;
+      ventilation, length of hospital stay, days in the ICU and mechanical ventilation, and&#xD;
+      finally, the incidence of adverse events related to the intervention. The estimated time to&#xD;
+      complete the study is approximately five months.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 7, 2020</start_date>
+  <completion_date type="Anticipated">March 2021</completion_date>
+  <primary_completion_date type="Anticipated">March 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Arm #1: 50 patients with routine care offered in the hospital plus ivermectin 400 µg/kg orally in a single dose.&#xD;
+Arm #2: 50 patients with routine care offered in the hospital plus placebo in a single dose.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>Once the participant consents, staff will collect relevant demographic and clinical data from the clinical chart and a consecutive code from 001 to 100 will be assigned to each in order of arrival. 100 vials of ivermectin or placebo will be stored in the pharmaceutical service with a randomly assigned number from 001 to 100. After placement of medical order, the qualified nursing staff will dispense ivermectin or placebo. Blinded study physicians will carry on daily medical evaluation. Neither the researchers collecting data nor the analyzers will be aware of the patients' treatment arm.&#xD;
+To achieve blinding, a certified pharmaceutical laboratory produced a placebo identical in color, physical form, sensory perception (appearance, smell, and taste), packaging, and labeling to ivermectin.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Admission to the intensive care unit.</measure>
+    <time_frame>21 days</time_frame>
+    <description>Cumulative incidence of ICU admission.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Hospital length of stay.</measure>
+    <time_frame>21 days</time_frame>
+    <description>Duration of hospitalization (days).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality rate.</measure>
+    <time_frame>21 days</time_frame>
+    <description>21-day mortality.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ICU length of stay.</measure>
+    <time_frame>21 days</time_frame>
+    <description>Number of days in ICU.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of stay in ventilator time.</measure>
+    <time_frame>21 days</time_frame>
+    <description>Number of days with mechanical ventilator.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse effects of ivermectin.</measure>
+    <time_frame>21 days</time_frame>
+    <description>Cumulative incidence of adverse effects: headache, rash, pruritus, arthralgia, tachycardia, dizziness, hypotension, uveitis, Steven Johnson Syndrome.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Covid19</condition>
+  <condition>Severe Acute Respiratory Syndrome</condition>
+  <arm_group>
+    <arm_group_label>Intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>50 patients with the routine care offered in the hospital plus ivermectin 400 µg/kg (2 drops per kg) orally in a single dose.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>50 patients with routine care offered in the hospital plus placebo orally (2 drops per kg) in a single dose.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ivermectin</intervention_name>
+    <description>Routinary care offered in the hospital plus ivermectin 400 µg/kg (2 drops per kg) orally in a single dose.</description>
+    <arm_group_label>Intervention</arm_group_label>
+    <other_name>Intervention</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Routinary care offered in the hospital plus placebo (2 drops per kg) orally in a single dose</description>
+    <arm_group_label>Control</arm_group_label>
+    <other_name>Control</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Over 18 years old.&#xD;
+&#xD;
+          -  Confirmed diagnosis of SARS-CoV-2 by polymerase chain reaction (PCR).&#xD;
+&#xD;
+          -  Diagnosis of severe pneumonia according to criteria of the National Institute of&#xD;
+             Health and the Colombian Consensus (suspected respiratory infection, organ failure,&#xD;
+             arterial oxygen saturation (SaO2) ambient air &lt;90% or respiratory rate &gt; 30 resp/min)&#xD;
+             or diagnosis of acute respiratory distress syndrome according to criteria of the&#xD;
+             National Institute of Health and the Colombian Consensus (clinical findings, bilateral&#xD;
+             radiographic infiltrates, + oxygenation deficit as well: mild: 200 mmHg &lt; PaO2/FiO2&#xD;
+             (fraction of inspired oxygen) &lt; 300 mm/Hg; moderate: 100 mm/Hg &lt; PaO2/FiO2 &lt; 200 mm/Hg&#xD;
+             and, severe: PaO2/FiO2 &lt; 100 mm/Hg).&#xD;
+&#xD;
+          -  Less than 14 days since the onset of symptoms.&#xD;
+&#xD;
+          -  Hospitalized in a general internal medicine ward, special care unit, or those&#xD;
+             designated for managing patients with COVID19.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Pregnant or lactating women.&#xD;
+&#xD;
+          -  Use of ivermectin in the two weeks before admission to the clinic&#xD;
+&#xD;
+          -  Diseases affecting the blood-brain barrier (meningitis, encephalocranial trauma, acute&#xD;
+             subarachnoid hemorrhage)&#xD;
+&#xD;
+          -  Limitation to understanding the explanations and giving consent, defined by the&#xD;
+             investigating physician.&#xD;
+&#xD;
+          -  Patients with HIV/AIDS&#xD;
+&#xD;
+          -  That the patient is participating in another clinical trial.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Francisco L Ochoa-Jaramillo, MD; MSc</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>CES University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Federico Rodríguez-Vega, MD;</last_name>
+    <phone>57-3104261578</phone>
+    <email>federicorodriguez@clinicaces.edu.co</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Nora Cardona.-Castro, MD;MSc;PhD</last_name>
+    <phone>57-3108987451</phone>
+    <email>ncardona@ces.edu.co</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Clinica CES</name>
+      <address>
+        <city>Medellín</city>
+        <state>Antioquia</state>
+        <zip>050001</zip>
+        <country>Colombia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Federico Rodriguez-Vega, MD;Internist</last_name>
+      <phone>57-3104261578</phone>
+      <email>federicodriguez@clinicaces.edu.co</email>
+    </contact>
+    <contact_backup>
+      <last_name>Veronica Posada-Velez, MD;Internist</last_name>
+      <phone>57-3006523499</phone>
+      <email>veposada@uces.edu.co</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Colombia</country>
+  </location_countries>
+  <reference>
+    <citation>He F, Deng Y, Li W. Coronavirus disease 2019: What we know? J Med Virol. 2020 Jul;92(7):719-725. doi: 10.1002/jmv.25766. Epub 2020 Mar 28. Review.</citation>
+    <PMID>32170865</PMID>
+  </reference>
+  <reference>
+    <citation>Epidemiology Working Group for NCIP Epidemic Response, Chinese Center for Disease Control and Prevention. [The epidemiological characteristics of an outbreak of 2019 novel coronavirus diseases (COVID-19) in China]. Zhonghua Liu Xing Bing Xue Za Zhi. 2020 Feb 10;41(2):145-151. doi: 10.3760/cma.j.issn.0254-6450.2020.02.003. Chinese.</citation>
+    <PMID>32064853</PMID>
+  </reference>
+  <reference>
+    <citation>Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, Zhang L, Fan G, Xu J, Gu X, Cheng Z, Yu T, Xia J, Wei Y, Wu W, Xie X, Yin W, Li H, Liu M, Xiao Y, Gao H, Guo L, Xie J, Wang G, Jiang R, Gao Z, Jin Q, Wang J, Cao B. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. 2020 Feb 15;395(10223):497-506. doi: 10.1016/S0140-6736(20)30183-5. Epub 2020 Jan 24. Erratum in: Lancet. 2020 Jan 30;:.</citation>
+    <PMID>31986264</PMID>
+  </reference>
+  <reference>
+    <citation>Wang D, Hu B, Hu C, Zhu F, Liu X, Zhang J, Wang B, Xiang H, Cheng Z, Xiong Y, Zhao Y, Li Y, Wang X, Peng Z. Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. JAMA. 2020 Mar 17;323(11):1061-1069. doi: 10.1001/jama.2020.1585.</citation>
+    <PMID>32031570</PMID>
+  </reference>
+  <reference>
+    <citation>Cascella M, Rajnik M, Cuomo A, Dulebohn SC, Di Napoli R. Features, Evaluation, and Treatment of Coronavirus. 2020 Oct 4. StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2020 Jan-. Available from http://www.ncbi.nlm.nih.gov/books/NBK554776/</citation>
+    <PMID>32150360</PMID>
+  </reference>
+  <reference>
+    <citation>Caly L, Druce JD, Catton MG, Jans DA, Wagstaff KM. The FDA-approved drug ivermectin inhibits the replication of SARS-CoV-2 in vitro. Antiviral Res. 2020 Jun;178:104787. doi: 10.1016/j.antiviral.2020.104787. Epub 2020 Apr 3.</citation>
+    <PMID>32251768</PMID>
+  </reference>
+  <reference>
+    <citation>Wang N, Shang J, Jiang S, Du L. Subunit Vaccines Against Emerging Pathogenic Human Coronaviruses. Front Microbiol. 2020 Feb 28;11:298. doi: 10.3389/fmicb.2020.00298. eCollection 2020. Review.</citation>
+    <PMID>32265848</PMID>
+  </reference>
+  <reference>
+    <citation>Arentz M, Yim E, Klaff L, Lokhandwala S, Riedo FX, Chong M, Lee M. Characteristics and Outcomes of 21 Critically Ill Patients With COVID-19 in Washington State. JAMA. 2020 Apr 28;323(16):1612-1614. doi: 10.1001/jama.2020.4326.</citation>
+    <PMID>32191259</PMID>
+  </reference>
+  <reference>
+    <citation>Zhang L, Liu Y. Potential interventions for novel coronavirus in China: A systematic review. J Med Virol. 2020 May;92(5):479-490. doi: 10.1002/jmv.25707. Epub 2020 Mar 3.</citation>
+    <PMID>32052466</PMID>
+  </reference>
+  <reference>
+    <citation>Andersen KG, Rambaut A, Lipkin WI, Holmes EC, Garry RF. The proximal origin of SARS-CoV-2. Nat Med. 2020 Apr;26(4):450-452. doi: 10.1038/s41591-020-0820-9.</citation>
+    <PMID>32284615</PMID>
+  </reference>
+  <reference>
+    <citation>Zhang Y, Xiao M, Zhang S, Xia P, Cao W, Jiang W, Chen H, Ding X, Zhao H, Zhang H, Wang C, Zhao J, Sun X, Tian R, Wu W, Wu D, Ma J, Chen Y, Zhang D, Xie J, Yan X, Zhou X, Liu Z, Wang J, Du B, Qin Y, Gao P, Qin X, Xu Y, Zhang W, Li T, Zhang F, Zhao Y, Li Y, Zhang S. Coagulopathy and Antiphospholipid Antibodies in Patients with Covid-19. N Engl J Med. 2020 Apr 23;382(17):e38. doi: 10.1056/NEJMc2007575. Epub 2020 Apr 8.</citation>
+    <PMID>32268022</PMID>
+  </reference>
+  <reference>
+    <citation>Bhimraj A, Morgan RL, Shumaker AH, Lavergne V, Baden L, Cheng VC, Edwards KM, Gandhi R, Muller WJ, O'Horo JC, Shoham S, Murad MH, Mustafa RA, Sultan S, Falck-Ytter Y. Infectious Diseases Society of America Guidelines on the Treatment and Management of Patients with COVID-19. Clin Infect Dis. 2020 Apr 27. pii: ciaa478. doi: 10.1093/cid/ciaa478. [Epub ahead of print]</citation>
+    <PMID>32338708</PMID>
+  </reference>
+  <reference>
+    <citation>Hanson KE, Caliendo AM, Arias CA, Englund JA, Lee MJ, Loeb M, Patel R, El Alayli A, Kalot MA, Falck-Ytter Y, Lavergne V, Morgan RL, Murad MH, Sultan S, Bhimraj A, Mustafa RA. Infectious Diseases Society of America Guidelines on the Diagnosis of COVID-19. Clin Infect Dis. 2020 Jun 16. pii: ciaa760. doi: 10.1093/cid/ciaa760. [Epub ahead of print]</citation>
+    <PMID>32556191</PMID>
+  </reference>
+  <reference>
+    <citation>Chen W, Lan Y, Yuan X, Deng X, Li Y, Cai X, Li L, He R, Tan Y, Deng X, Gao M, Tang G, Zhao L, Wang J, Fan Q, Wen C, Tong Y, Tang Y, Hu F, Li F, Tang X. Detectable 2019-nCoV viral RNA in blood is a strong indicator for the further clinical severity. Emerg Microbes Infect. 2020 Feb 26;9(1):469-473. doi: 10.1080/22221751.2020.1732837. eCollection 2020.</citation>
+    <PMID>32102625</PMID>
+  </reference>
+  <reference>
+    <citation>Bhatraju PK, Ghassemieh BJ, Nichols M, Kim R, Jerome KR, Nalla AK, Greninger AL, Pipavath S, Wurfel MM, Evans L, Kritek PA, West TE, Luks A, Gerbino A, Dale CR, Goldman JD, O'Mahony S, Mikacenic C. Covid-19 in Critically Ill Patients in the Seattle Region - Case Series. N Engl J Med. 2020 May 21;382(21):2012-2022. doi: 10.1056/NEJMoa2004500. Epub 2020 Mar 30.</citation>
+    <PMID>32227758</PMID>
+  </reference>
+  <reference>
+    <citation>Wagstaff KM, Sivakumaran H, Heaton SM, Harrich D, Jans DA. Ivermectin is a specific inhibitor of importin α/β-mediated nuclear import able to inhibit replication of HIV-1 and dengue virus. Biochem J. 2012 May 1;443(3):851-6. doi: 10.1042/BJ20120150.</citation>
+    <PMID>22417684</PMID>
+  </reference>
+  <reference>
+    <citation>Wu Z, McGoogan JM. Characteristics of and Important Lessons From the Coronavirus Disease 2019 (COVID-19) Outbreak in China: Summary of a Report of 72 314 Cases From the Chinese Center for Disease Control and Prevention. JAMA. 2020 Apr 7;323(13):1239-1242. doi: 10.1001/jama.2020.2648.</citation>
+    <PMID>32091533</PMID>
+  </reference>
+  <reference>
+    <citation>Navarro M, Camprubí D, Requena-Méndez A, Buonfrate D, Giorli G, Kamgno J, Gardon J, Boussinesq M, Muñoz J, Krolewiecki A. Safety of high-dose ivermectin: a systematic review and meta-analysis. J Antimicrob Chemother. 2020 Apr 1;75(4):827-834. doi: 10.1093/jac/dkz524.</citation>
+    <PMID>31960060</PMID>
+  </reference>
+  <reference>
+    <citation>Moseley GW, Filmer RP, DeJesus MA, Jans DA. Nucleocytoplasmic distribution of rabies virus P-protein is regulated by phosphorylation adjacent to C-terminal nuclear import and export signals. Biochemistry. 2007 Oct 30;46(43):12053-61. Epub 2007 Oct 9.</citation>
+    <PMID>17924652</PMID>
+  </reference>
+  <reference>
+    <citation>Azeem S, Ashraf M, Rasheed MA, Anjum AA, Hameed R. Evaluation of cytotoxicity and antiviral activity of ivermectin against Newcastle disease virus. Pak J Pharm Sci. 2015 Mar;28(2):597-602.</citation>
+    <PMID>25730813</PMID>
+  </reference>
+  <reference>
+    <citation>Pryor MJ, Rawlinson SM, Butcher RE, Barton CL, Waterhouse TA, Vasudevan SG, Bardin PG, Wright PJ, Jans DA, Davidson AD. Nuclear localization of dengue virus nonstructural protein 5 through its importin alpha/beta-recognized nuclear localization sequences is integral to viral infection. Traffic. 2007 Jul;8(7):795-807. Epub 2007 May 30.</citation>
+    <PMID>17537211</PMID>
+  </reference>
+  <reference>
+    <citation>Molinari G, Soloneski S, Reigosa MA, Larramendy ML. In vitro genotoxic and cytotoxic effects of ivermectin and its formulation ivomec on Chinese hamster ovary (CHOK1) cells. J Hazard Mater. 2009 Jun 15;165(1-3):1074-82. doi: 10.1016/j.jhazmat.2008.10.083. Epub 2008 Oct 31.</citation>
+    <PMID>19056171</PMID>
+  </reference>
+  <reference>
+    <citation>González Canga A, Sahagún Prieto AM, José Diez Liébana M, Martínez NF, Vega MS, Vieitez JJ. The pharmacokinetics and metabolism of ivermectin in domestic animal species. Vet J. 2009 Jan;179(1):25-37. Epub 2007 Sep 11. Review.</citation>
+    <PMID>17851096</PMID>
+  </reference>
+  <reference>
+    <citation>Gardon J, Gardon-Wendel N, Demanga-Ngangue, Kamgno J, Chippaux JP, Boussinesq M. Serious reactions after mass treatment of onchocerciasis with ivermectin in an area endemic for Loa loa infection. Lancet. 1997 Jul 5;350(9070):18-22.</citation>
+    <PMID>9217715</PMID>
+  </reference>
+  <reference>
+    <citation>Siddiqui AJ, Jahan S, Ashraf SA, Alreshidi M, Ashraf MS, Patel M, Snoussi M, Singh R, Adnan M. Current status and strategic possibilities on potential use of combinational drug therapy against COVID-19 caused by SARS-CoV-2. J Biomol Struct Dyn. 2020 Aug 5:1-14. doi: 10.1080/07391102.2020.1802345. [Epub ahead of print]</citation>
+    <PMID>32752944</PMID>
+  </reference>
+  <reference>
+    <citation>Portmann-Baracco A, Bryce-Alberti M, Accinelli RA. Antiviral and Anti-Inflammatory Properties of Ivermectin and Its Potential Use in COVID-19. Arch Bronconeumol. 2020 Dec;56(12):831. doi: 10.1016/j.arbres.2020.06.011. Epub 2020 Jul 7. English, Spanish.</citation>
+    <PMID>32736876</PMID>
+  </reference>
+  <reference>
+    <citation>Lovato ECW, Barboza LN, Wietzikoski S, de Souza ANV, Auth PA, Junior AG, Dos Reis Lívero FA. Repurposing Drugs for the Management of Patients with Confirmed Coronavirus Disease 2019 (COVID-19). Curr Pharm Des. 2020 Jul 7. doi: 10.2174/1381612826666200707121636. [Epub ahead of print]</citation>
+    <PMID>32634080</PMID>
+  </reference>
+  <reference>
+    <citation>Drożdżal S, Rosik J, Lechowicz K, Machaj F, Kotfis K, Ghavami S, Łos MJ. FDA approved drugs with pharmacotherapeutic potential for SARS-CoV-2 (COVID-19) therapy. Drug Resist Updat. 2020 Dec;53:100719. doi: 10.1016/j.drup.2020.100719. Epub 2020 Jul 15. Review.</citation>
+    <PMID>32717568</PMID>
+  </reference>
+  <reference>
+    <citation>Wang Z, Yang L. Turning the Tide: Natural Products and Natural-Product-Inspired Chemicals as Potential Counters to SARS-CoV-2 Infection. Front Pharmacol. 2020 Jul 2;11:1013. doi: 10.3389/fphar.2020.01013. eCollection 2020. Review.</citation>
+    <PMID>32714193</PMID>
+  </reference>
+  <reference>
+    <citation>Gupta D, Sahoo AK, Singh A. Ivermectin: potential candidate for the treatment of Covid 19. Braz J Infect Dis. 2020 Jul - Aug;24(4):369-371. doi: 10.1016/j.bjid.2020.06.002. Epub 2020 Jun 28.</citation>
+    <PMID>32615072</PMID>
+  </reference>
+  <reference>
+    <citation>Heidary F, Gharebaghi R. Ivermectin: a systematic review from antiviral effects to COVID-19 complementary regimen. J Antibiot (Tokyo). 2020 Sep;73(9):593-602. doi: 10.1038/s41429-020-0336-z. Epub 2020 Jun 12.</citation>
+    <PMID>32533071</PMID>
+  </reference>
+  <reference>
+    <citation>Chaccour C, Ruiz-Castillo P, Richardson MA, Moncunill G, Casellas A, Carmona-Torre F, Giráldez M, Mota JS, Yuste JR, Azanza JR, Fernández M, Reina G, Dobaño C, Brew J, Sadaba B, Hammann F, Rabinovich R. The SARS-CoV-2 Ivermectin Navarra-ISGlobal Trial (SAINT) to Evaluate the Potential of Ivermectin to Reduce COVID-19 Transmission in low risk, non-severe COVID-19 patients in the first 48 hours after symptoms onset: A structured summary of a study protocol for a randomized control pilot trial. Trials. 2020 Jun 8;21(1):498. doi: 10.1186/s13063-020-04421-z.</citation>
+    <PMID>32513289</PMID>
+  </reference>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>October 22, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 23, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 26, 2020</study_first_posted>
+  <last_update_submitted>December 9, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 9, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 10, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>CES University</investigator_affiliation>
+    <investigator_full_name>Francisco Luis Ochoa-Jaramillo, MD</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>COVID19 drug treatment</keyword>
+  <keyword>Randomized Clinical Trial</keyword>
+  <keyword>Ivermectin</keyword>
+  <keyword>Hospitalized</keyword>
+  <keyword>Intensive Care Unit</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>Pneumonia, Viral</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Ivermectin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>For a reasonable scientific purpose, we may share individual patient data (IPD) that underlie results in a publication under direct request to the principal investigator. We reserve our right to share IPD.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_time_frame>One year</ipd_time_frame>
+    <ipd_access_criteria>Under direct request to principal investigator</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1701">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04587375</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RECHMPL20_0205</org_study_id>
+    <nct_id>NCT04587375</nct_id>
+  </id_info>
+  <brief_title>Diagnosis of Endocrine Dysfunctions in Covid-19</brief_title>
+  <acronym>Dyhor-19</acronym>
+  <official_title>Diagnosis of Endocrine Dysfunctions in Covid-19 : Explorations of the Plasma Renin and Aldosterone Levels in Patients With Covid-19 Infection.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Montpellier</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Hospital, Montpellier</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      As observed with SARS-CoV responsible for SARS 2003, the new coronarovirus SARS-CoV-2 uses&#xD;
+      the angiotensin converting enzyme type 2 (ACE2) as cellular receptor to infect cells. The&#xD;
+      renin aldosterone angiostensin system (RAAS) has known effects in the lungs: some receptors&#xD;
+      are pro-inflammatory, others are anti-inflammatory. Thus the deregulation of the RAAS induced&#xD;
+      by the SARS-CoV-2 could explain the inflammatory response of Covid-19 infection and be a&#xD;
+      modulator of the severity of its course.&#xD;
+&#xD;
+      Furthermore, the SARS 2003 experience suggests that there may be others endocrine involvment,&#xD;
+      particularly an failure on the hypothalamus-pituitary and adrenal axis. Indeeed, cases of&#xD;
+      hypocorticism and hypothyroidism of central origin were described.&#xD;
+&#xD;
+      Altogether, the endocrine system might play a role both in the pathophysiology of Covid-19&#xD;
+      infection and in the activity and severity of the disease.&#xD;
+&#xD;
+      In this study, the investigators proposed to explore endocrine functions on biological&#xD;
+      samples in a series of patients admitted for Covid-19 in our clinic.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">March 1, 2020</start_date>
+  <completion_date type="Actual">May 30, 2020</completion_date>
+  <primary_completion_date type="Actual">May 1, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Plasma aldosterone levels</measure>
+    <time_frame>1 day (at inclusion)</time_frame>
+    <description>Plasma aldosterone levels</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Plasma renin levels</measure>
+    <time_frame>1 day (at inclusion)</time_frame>
+    <description>Plasma renin levels</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>covid-19 infection severity</measure>
+    <time_frame>1 day (at inclusion)</time_frame>
+    <description>covid-19 infection severity : Ordinal scale of 7 values from 1 to 7 (1- not hospitalized, no limitation on activities; 2- not hospitalized, limitations on activities; 3- hospitalized, not requiring supplemental oxygen; 4- hospitalized, requiring supplemental oxygen; 5- hospitalized, on non-invasive ventilation or high flow oxygen devices; 6- hospitalized, on invasive mechanical ventilation or ECMO and 7- death).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Maximum severity of Covid-19 infection</measure>
+    <time_frame>1 day (at inclusion)</time_frame>
+    <description>Maximum severity of Covid-19 infection using a seven-category ordinal scale at at the end of hospitalization : Ordinal scale of 7 values from 1 to 7 (1- not hospitalized, no limitation on activities; 2- not hospitalized, limitations on activities; 3- hospitalized, not requiring supplemental oxygen; 4- hospitalized, requiring supplemental oxygen; 5- hospitalized, on non-invasive ventilation or high flow oxygen devices; 6- hospitalized, on invasive mechanical ventilation or ECMO and 7- death).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma aldosterone level</measure>
+    <time_frame>1 day (at the end of hospitalization)</time_frame>
+    <description>Plasma aldosterone level</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma ACTH level</measure>
+    <time_frame>1 day (at the end of hospitalization)</time_frame>
+    <description>Plasma ACTH level</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma cortisol level</measure>
+    <time_frame>1 day (at inclusion)</time_frame>
+    <description>Plasma cortisol level</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma cortisol level</measure>
+    <time_frame>1 day (at the end of hospitalization)</time_frame>
+    <description>Plasma cortisol level</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma T3l level</measure>
+    <time_frame>1 day (at the end of hospitalization)</time_frame>
+    <description>Plasma T3l level</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma T3l level</measure>
+    <time_frame>1 day (at inclusion)</time_frame>
+    <description>Plasma T3l level</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma ACTH level</measure>
+    <time_frame>1 day (at inclusion)</time_frame>
+    <description>Plasma ACTH level</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma LH level</measure>
+    <time_frame>1 day (at inclusion)</time_frame>
+    <description>Plasma LH level</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma LH level</measure>
+    <time_frame>1 day (at the end of hospitalization)</time_frame>
+    <description>Plasma LH level</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma DHEA level</measure>
+    <time_frame>1 day (at the end of hospitalization)</time_frame>
+    <description>Plasma DHEA level</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma DHEA level</measure>
+    <time_frame>1 day (at inclusion)</time_frame>
+    <description>Plasma DHEA level</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma estradiol (female) or testosterone (male) level</measure>
+    <time_frame>1 day (at the end of hospitalization)</time_frame>
+    <description>Plasma estradiol (female) or testosterone (male) level</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma estradiol (female) or testosterone (male) level</measure>
+    <time_frame>1 day (at inclusion)</time_frame>
+    <description>Plasma estradiol (female) or testosterone (male) level</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma FSH level</measure>
+    <time_frame>1 day (at the end of hospitalization)</time_frame>
+    <description>Plasma FSH level</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma FSH level</measure>
+    <time_frame>1 day (at inclusion)</time_frame>
+    <description>Plasma FSH level</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>type of treatments</measure>
+    <time_frame>1 day</time_frame>
+    <description>type of treatments</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical characteristics</measure>
+    <time_frame>1 day</time_frame>
+    <description>Clinical characteristics extracted from electronic medical</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>radiological characteristics</measure>
+    <time_frame>1 day</time_frame>
+    <description>radiological characteristics : quantification of the percentage of lesional damage to the pulmonary parenchyma</description>
+  </secondary_outcome>
+  <enrollment type="Actual">50</enrollment>
+  <condition>Covid 19</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients with Covid-19 diagnosis hospitalized in Montpellier University hospital&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion criteria:&#xD;
+&#xD;
+        - Patients with Covid-19 diagnosis and hospitalized in our clinic&#xD;
+&#xD;
+        Exclusion criteria:&#xD;
+&#xD;
+        - Minor patient&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Philippe GUILPAIN, MD, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>University Hospital, Montpellier</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Uhmontpellier</name>
+      <address>
+        <city>Montpellier</city>
+        <zip>34295</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>June 18, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 13, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 14, 2020</study_first_posted>
+  <last_update_submitted>October 13, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 13, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 14, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Covid-19</keyword>
+  <keyword>Renin Angiotensin Aldosterone System</keyword>
+  <keyword>Hormon disorders</keyword>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>NC</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

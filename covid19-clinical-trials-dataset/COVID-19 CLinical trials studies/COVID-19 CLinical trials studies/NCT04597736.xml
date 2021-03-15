@@ -1,0 +1,1388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2185">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04597736</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RBPH 2020 HENQUELL</org_study_id>
+    <secondary_id>2020-A02381-38</secondary_id>
+    <nct_id>NCT04597736</nct_id>
+  </id_info>
+  <brief_title>Relationship Between Biological Profiles and Clinical Evolutions Within the Same Cluster COVID-19 (COVIDCOLLECT)</brief_title>
+  <acronym>COVIDCOLLECT</acronym>
+  <official_title>Biological Collection for the Study of the Relationship Between the Biological Profiles Observed and the Clinical Evolutions Within the Same Cluster of Transmission of the Coronavirus SARS-CoV-2</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Clermont-Ferrand</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Hospital, Clermont-Ferrand</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The hypothesis is that from a cluster defined by a confirmed positive case of COVID-19 and&#xD;
+      its contact cases, it is possible to study the different expressions and clinical evolutions&#xD;
+      of COVID-19 infection and to explore the biological profiles related to the observed clinical&#xD;
+      history. Certain biological determinants (virological, immunological, microbological or&#xD;
+      gentic) could indeed be correlated with the clinical presentation and/or be useful for&#xD;
+      personalized care.&#xD;
+&#xD;
+      The main objective is to study the relationship between the biological profiles observed and&#xD;
+      the clinical evolutions within the same cluster of transmission of the coronavirus SARS-CoV-2&#xD;
+      (positive COVID-19 cases and contact subjects).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Subjects with a COVID-19 infection and thei contact cases (identification according to health&#xD;
+      insurance criteria, see &quot;Améli.fr&quot;) will be offered a clinical evaluation and the takin of&#xD;
+      biological samples, whether they are hospitalized or via the outpatient screening channel.&#xD;
+&#xD;
+      For the main objective: during the D0 visit, the subjects who agreed to participate in the&#xD;
+      study will have a clinical evaluation according to a standardized questionnaire and a&#xD;
+      nasopharyngeal swab, saliva, blood, stool and urine.&#xD;
+&#xD;
+      For secondary objectives : longitudinal follow-up will be carried out for 21 days, for index&#xD;
+      cases and contact cases, whether they have a positive or negative RT-PCR test on D0. A final&#xD;
+      consultation will be carried out at M3. Nasopharyngeal samples, saliva, blood, stool and&#xD;
+      urine will be taken on D10 and D21. A blood test will be taken at M3 to carry out a COVID-19&#xD;
+      serology.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 2020</start_date>
+  <completion_date type="Anticipated">February 2022</completion_date>
+  <primary_completion_date type="Anticipated">November 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Virological profile</measure>
+    <time_frame>Day 0</time_frame>
+    <description>Nasopharyngeal SARS-CoV-2 viral load at day 0 by RT-PCR (in log or ΔCT)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Virological profile</measure>
+    <time_frame>Day 10</time_frame>
+    <description>Nasopharyngeal SARS-CoV-2 viral load at day 0 by RT-PCR (in log or ΔCT)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Virological profile</measure>
+    <time_frame>Day 21</time_frame>
+    <description>Nasopharyngeal SARS-CoV-2 viral load at day 0 by RT-PCR (in log or ΔCT)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Virological profile (serology)</measure>
+    <time_frame>Day 0</time_frame>
+    <description>SARS-CoV-2 serology by enzyme-linked immunosorbent assays or magnetic chemiluminescence enzyme immunoassay (IgG and IgM titers)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Virological profile (serology)</measure>
+    <time_frame>Day 10</time_frame>
+    <description>SARS-CoV-2 serology by enzyme-linked immunosorbent assays or magnetic chemiluminescence enzyme immunoassay (IgG and IgM titers)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Virological profile (serology)</measure>
+    <time_frame>Day 21</time_frame>
+    <description>SARS-CoV-2 serology by enzyme-linked immunosorbent assays or magnetic chemiluminescence enzyme immunoassay (IgG and IgM titers)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Immunological profile with blood level for markers of inflammation (cytokine)</measure>
+    <time_frame>Day 0</time_frame>
+    <description>cytokine panel by flow cytometry or enzyme-linked immunosorbent assay in pg/mL</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Immunological profile with blood level for markers of inflammation (cytokine)</measure>
+    <time_frame>Day 10</time_frame>
+    <description>cytokine panel by flow cytometry or enzyme-linked immunosorbent assay in pg/mL</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Immunological profile with blood level for markers of inflammation (cytokine)</measure>
+    <time_frame>Day 21</time_frame>
+    <description>cytokine panel by flow cytometry or enzyme-linked immunosorbent assay in pg/mL</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Immunological profile with blood level for markers of inflammation</measure>
+    <time_frame>Day 0</time_frame>
+    <description>markers on immune cell subpopulation by RT-PCR or flow cytometry in CT value or %</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Immunological profile with blood level for markers of inflammation</measure>
+    <time_frame>Day 10</time_frame>
+    <description>markers on immune cell subpopulation by RT-PCR or flow cytometry in CT value or %</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Immunological profile with blood level for markers of inflammation</measure>
+    <time_frame>Day 21</time_frame>
+    <description>markers on immune cell subpopulation by RT-PCR or flow cytometry in CT value or %</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Biochemical profile by blood dosage of CRP</measure>
+    <time_frame>Day 0</time_frame>
+    <description>CRP in mg/l</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Biochemical profile by blood dosage of CRP</measure>
+    <time_frame>Day 10</time_frame>
+    <description>CRP in mg/l</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Biochemical profile by blood dosage of CRP</measure>
+    <time_frame>Day 21</time_frame>
+    <description>CRP in mg/l</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Biochemical profile by blood dosage of CRP</measure>
+    <time_frame>Day 90</time_frame>
+    <description>CRP in mg/l</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Biochemical profile by blood dosage of ASAT/ALAT</measure>
+    <time_frame>Day 0</time_frame>
+    <description>ASAT/ALAT in U/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Biochemical profile by blood dosage of ASAT/ALAT</measure>
+    <time_frame>Day 10</time_frame>
+    <description>ASAT/ALAT in U/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Biochemical profile by blood dosage of ASAT/ALAT</measure>
+    <time_frame>Day 21</time_frame>
+    <description>ASAT/ALAT in U/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Biochemical profile by blood dosage of ASAT/ALAT</measure>
+    <time_frame>Day 90</time_frame>
+    <description>ASAT/ALAT in U/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Biochemical profile by blood dosage of LDH</measure>
+    <time_frame>Day 0</time_frame>
+    <description>LDH in U/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Biochemical profile by blood dosage of LDH</measure>
+    <time_frame>Day 10</time_frame>
+    <description>LDH in U/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Biochemical profile by blood dosage of LDH</measure>
+    <time_frame>Day 21</time_frame>
+    <description>LDH in U/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Biochemical profile by blood dosage of LDH</measure>
+    <time_frame>Day 90</time_frame>
+    <description>LDH in U/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Biochemical profile by blood dosage of Lactate</measure>
+    <time_frame>Day 0</time_frame>
+    <description>Lactate in mg/l</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Biochemical profile by blood dosage of Lactate</measure>
+    <time_frame>Day 10</time_frame>
+    <description>Lactate in mg/l</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Biochemical profile by blood dosage of Lactate</measure>
+    <time_frame>Day 21</time_frame>
+    <description>Lactate in mg/l</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Biochemical profile by blood dosage of Lactate</measure>
+    <time_frame>Day 90</time_frame>
+    <description>Lactate in mg/l</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Biochemical profile by blood dosage of D-Dimer</measure>
+    <time_frame>Day 0</time_frame>
+    <description>D-Dimer in µg/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Biochemical profile by blood dosage of D-Dimer</measure>
+    <time_frame>Day 10</time_frame>
+    <description>D-Dimer in µg/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Biochemical profile by blood dosage of D-Dimer</measure>
+    <time_frame>Day 21</time_frame>
+    <description>D-Dimer in µg/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Biochemical profile by blood dosage of D-Dimer</measure>
+    <time_frame>Day 90</time_frame>
+    <description>D-Dimer in µg/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Biochemical profile by blood dosage of Troponin</measure>
+    <time_frame>Day 0</time_frame>
+    <description>Troponin in µg/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Biochemical profile by blood dosage of Troponin</measure>
+    <time_frame>Day 10</time_frame>
+    <description>Troponin in µg/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Biochemical profile by blood dosage of Troponin</measure>
+    <time_frame>Day 21</time_frame>
+    <description>Troponin in µg/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Biochemical profile by blood dosage of Troponin</measure>
+    <time_frame>Day 90</time_frame>
+    <description>Troponin in µg/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Biochemical profile by blood dosage of Ferritin</measure>
+    <time_frame>Day 0</time_frame>
+    <description>Ferritin in µg/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Biochemical profile by blood dosage of Ferritin</measure>
+    <time_frame>Day 10</time_frame>
+    <description>Ferritin in µg/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Biochemical profile by blood dosage of Ferritin</measure>
+    <time_frame>Day 21</time_frame>
+    <description>Ferritin in µg/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Biochemical profile by blood dosage of RAGE</measure>
+    <time_frame>Day 0</time_frame>
+    <description>RAGE (receptor of advanced end glycation products) by enzyme-linked immunosorbent assays in pg/mg total protein</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Biochemical profile by blood dosage of RAGE</measure>
+    <time_frame>Day 10</time_frame>
+    <description>RAGE (receptor of advanced end glycation products) by enzyme-linked immunosorbent assays in pg/mg total protein</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Biochemical profile by blood dosage of RAGE</measure>
+    <time_frame>Day 21</time_frame>
+    <description>RAGE (receptor of advanced end glycation products) by enzyme-linked immunosorbent assays in pg/mg total protein</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Biochemical profile by blood dosage of SUPAR</measure>
+    <time_frame>Day 0</time_frame>
+    <description>SUPAR (soluble urokinase plasminogen activator receptor) by enzyme-linked immunosorbent assays in pg/mg total protein</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Biochemical profile by blood dosage of SUPAR</measure>
+    <time_frame>Day 10</time_frame>
+    <description>SUPAR (soluble urokinase plasminogen activator receptor) by enzyme-linked immunosorbent assays in pg/mg total protein</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Biochemical profile by blood dosage of SUPAR</measure>
+    <time_frame>Day 21</time_frame>
+    <description>SUPAR (soluble urokinase plasminogen activator receptor) by enzyme-linked immunosorbent assays in pg/mg total protein</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of leukocytes</measure>
+    <time_frame>Day 0</time_frame>
+    <description>leukocytes in Giga/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of leukocytes</measure>
+    <time_frame>Day 10</time_frame>
+    <description>leukocytes in Giga/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of leukocytes</measure>
+    <time_frame>Day 21</time_frame>
+    <description>leukocytes in Giga/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of leukocytes</measure>
+    <time_frame>Day 90</time_frame>
+    <description>leukocytes in Giga/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of Red blood cells</measure>
+    <time_frame>Day 0</time_frame>
+    <description>Red blood cells in Tera/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of Red blood cells</measure>
+    <time_frame>Day 10</time_frame>
+    <description>Red blood cells in Tera/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of Red blood cells</measure>
+    <time_frame>Day 21</time_frame>
+    <description>Red blood cells in Tera/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of Red blood cells</measure>
+    <time_frame>Day 90</time_frame>
+    <description>Red blood cells in Tera/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of Hemoglobin</measure>
+    <time_frame>Day 0</time_frame>
+    <description>Hemoglobin in g/dL</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of Hemoglobin</measure>
+    <time_frame>Day 10</time_frame>
+    <description>Hemoglobin in g/dL</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of Hemoglobin</measure>
+    <time_frame>Day 21</time_frame>
+    <description>Hemoglobin in g/dL</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of Hemoglobin</measure>
+    <time_frame>Day 90</time_frame>
+    <description>Hemoglobin in g/dL</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of Hematocrit</measure>
+    <time_frame>Day 0</time_frame>
+    <description>Hematocrit in %</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of Hematocrit</measure>
+    <time_frame>Day 10</time_frame>
+    <description>Hematocrit in %</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of Hematocrit</measure>
+    <time_frame>Day 21</time_frame>
+    <description>Hematocrit in %</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of Hematocrit</measure>
+    <time_frame>Day 90</time_frame>
+    <description>Hematocrit in %</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of Mean corpuscular volume</measure>
+    <time_frame>Day 0</time_frame>
+    <description>Mean corpuscular volume in fL</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of Mean corpuscular volume</measure>
+    <time_frame>Day 10</time_frame>
+    <description>Mean corpuscular volume in fL</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of Mean corpuscular volume</measure>
+    <time_frame>Day 21</time_frame>
+    <description>Mean corpuscular volume in fL</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of Mean corpuscular volume</measure>
+    <time_frame>Day 90</time_frame>
+    <description>Mean corpuscular volume in fL</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of Mean corpuscular hemoglobin</measure>
+    <time_frame>Day 0</time_frame>
+    <description>Mean corpuscular hemoglobin in pg</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of Mean corpuscular hemoglobin</measure>
+    <time_frame>Day 10</time_frame>
+    <description>Mean corpuscular hemoglobin in pg</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of Mean corpuscular hemoglobin</measure>
+    <time_frame>Day 21</time_frame>
+    <description>Mean corpuscular hemoglobin in pg</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of Mean corpuscular hemoglobin</measure>
+    <time_frame>Day 90</time_frame>
+    <description>Mean corpuscular hemoglobin in pg</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of average corpuscular concentration of haemoglobin</measure>
+    <time_frame>Day 0</time_frame>
+    <description>Average corpuscular concentration of haemoglobin in g/dL</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of average corpuscular concentration of haemoglobin</measure>
+    <time_frame>Day 10</time_frame>
+    <description>Average corpuscular concentration of haemoglobin in g/dL</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of average corpuscular concentration of haemoglobin</measure>
+    <time_frame>Day 21</time_frame>
+    <description>Average corpuscular concentration of haemoglobin in g/dL</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of average corpuscular concentration of haemoglobin</measure>
+    <time_frame>Day 90</time_frame>
+    <description>Average corpuscular concentration of haemoglobin in g/dL</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of polynuclear neutrophil</measure>
+    <time_frame>Day 0</time_frame>
+    <description>polynuclear neutrophil in Giga/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of polynuclear neutrophil</measure>
+    <time_frame>Day 10</time_frame>
+    <description>polynuclear neutrophil in Giga/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of polynuclear neutrophil</measure>
+    <time_frame>Day 21</time_frame>
+    <description>polynuclear neutrophil in Giga/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of polynuclear neutrophil</measure>
+    <time_frame>Day 90</time_frame>
+    <description>polynuclear neutrophil in Giga/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of polynuclear eosinophils</measure>
+    <time_frame>Day 0</time_frame>
+    <description>polynuclear eosinophils in Giga/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of polynuclear eosinophils</measure>
+    <time_frame>Day 10</time_frame>
+    <description>polynuclear eosinophils in Giga/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of polynuclear eosinophils</measure>
+    <time_frame>Day 21</time_frame>
+    <description>polynuclear eosinophils in Giga/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of polynuclear eosinophils</measure>
+    <time_frame>Day 90</time_frame>
+    <description>polynuclear eosinophils in Giga/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of polynuclear basophils</measure>
+    <time_frame>Day 0</time_frame>
+    <description>polynuclear basophils in Giga/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of polynuclear basophils</measure>
+    <time_frame>Day 10</time_frame>
+    <description>polynuclear basophils in Giga/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of polynuclear basophils</measure>
+    <time_frame>Day 21</time_frame>
+    <description>polynuclear basophils in Giga/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of polynuclear basophils</measure>
+    <time_frame>Day 90</time_frame>
+    <description>polynuclear basophils in Giga/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of lymphocytes</measure>
+    <time_frame>Day 0</time_frame>
+    <description>lymphocytes in Giga/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of lymphocytes</measure>
+    <time_frame>Day 10</time_frame>
+    <description>lymphocytes in Giga/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of lymphocytes</measure>
+    <time_frame>Day 21</time_frame>
+    <description>lymphocytes in Giga/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of lymphocytes</measure>
+    <time_frame>Day 90</time_frame>
+    <description>lymphocytes in Giga/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of monocytes</measure>
+    <time_frame>Day 90</time_frame>
+    <description>monocytes in Giga/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of monocytes</measure>
+    <time_frame>Day 0</time_frame>
+    <description>monocytes in Giga/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of monocytes</measure>
+    <time_frame>Day 10</time_frame>
+    <description>monocytes in Giga/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of monocytes</measure>
+    <time_frame>Day 21</time_frame>
+    <description>monocytes in Giga/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of platelets</measure>
+    <time_frame>Day 0</time_frame>
+    <description>platelets in Giga/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of platelets</measure>
+    <time_frame>Day 10</time_frame>
+    <description>platelets in Giga/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of platelets</measure>
+    <time_frame>Day 21</time_frame>
+    <description>platelets in Giga/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of platelets</measure>
+    <time_frame>Day 90</time_frame>
+    <description>platelets in Giga/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of activated partial thromboplastin time</measure>
+    <time_frame>Day 0</time_frame>
+    <description>activated partial thromboplastin time in second/witness</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of activated partial thromboplastin time</measure>
+    <time_frame>Day 10</time_frame>
+    <description>activated partial thromboplastin time in second/witness</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of activated partial thromboplastin time</measure>
+    <time_frame>Day 21</time_frame>
+    <description>activated partial thromboplastin time in second/witness</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of activated partial thromboplastin time</measure>
+    <time_frame>Day 90</time_frame>
+    <description>activated partial thromboplastin time in second/witness</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of fibrinogen</measure>
+    <time_frame>Day 0</time_frame>
+    <description>fibrinogen in g/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of fibrinogen</measure>
+    <time_frame>Day 10</time_frame>
+    <description>fibrinogen in g/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of fibrinogen</measure>
+    <time_frame>Day 21</time_frame>
+    <description>fibrinogen in g/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of fibrinogen</measure>
+    <time_frame>Day 90</time_frame>
+    <description>fibrinogen in g/L</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of factor V</measure>
+    <time_frame>Day 0</time_frame>
+    <description>factor V in %</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of factor V</measure>
+    <time_frame>Day 10</time_frame>
+    <description>factor V in %</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of factor V</measure>
+    <time_frame>Day 21</time_frame>
+    <description>factor V in %</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Haematological profile by blood dosage of factor V</measure>
+    <time_frame>Day 90</time_frame>
+    <description>factor V in %</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV-2 salivary viral load</measure>
+    <time_frame>Day 0</time_frame>
+    <description>RT-PCR SARS-CoV-2 on saliva in ΔCT value or log10 copies per mL</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV-2 salivary viral load</measure>
+    <time_frame>Day 10</time_frame>
+    <description>RT-PCR SARS-CoV-2 on saliva in ΔCT value or log10 copies per mL</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV-2 salivary viral load</measure>
+    <time_frame>Day 21</time_frame>
+    <description>RT-PCR SARS-CoV-2 on saliva in ΔCT value or log10 copies per mL</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Comparison of viral sequences</measure>
+    <time_frame>Day 0</time_frame>
+    <description>bioinformatic and statistical analyzes of viral sequences (arbitrary unit and p-values)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Comparison of viral sequences</measure>
+    <time_frame>Day 10</time_frame>
+    <description>bioinformatic and statistical analyzes of viral sequences (arbitrary unit and p-values)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Comparison of viral sequences</measure>
+    <time_frame>Day 21</time_frame>
+    <description>bioinformatic and statistical analyzes of viral sequences (arbitrary unit and p-values)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>microbiota analysis</measure>
+    <time_frame>Day 0</time_frame>
+    <description>bioinformatic and statistical analyzes of microbiota (arbitrary unit and p-values)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>microbiota analysis</measure>
+    <time_frame>Day 10</time_frame>
+    <description>bioinformatic and statistical analyzes of microbiota (arbitrary unit and p-values)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>microbiota analysis</measure>
+    <time_frame>Day 21</time_frame>
+    <description>bioinformatic and statistical analyzes of microbiota (arbitrary unit and p-values)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>environmental and societal factors (EPICE)</measure>
+    <time_frame>Day 0</time_frame>
+    <description>EPICE score (Assessment of precariousness and health inequalities in examination centers Health) at day 0 from 0 to 100</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>environmental and societal factors</measure>
+    <time_frame>Day 0</time_frame>
+    <description>eating habits</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>environmental and societal factors</measure>
+    <time_frame>day 10</time_frame>
+    <description>eating habits</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>environmental and societal factors</measure>
+    <time_frame>day 21</time_frame>
+    <description>eating habits</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>environmental and societal factors</measure>
+    <time_frame>day 90</time_frame>
+    <description>eating habits</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>environmental and societal factors (SF-36)</measure>
+    <time_frame>Day 0</time_frame>
+    <description>SF-36 score (quality of life by Gardenal O) from 0 to 100</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>environmental and societal factors (SF-36)</measure>
+    <time_frame>day 10</time_frame>
+    <description>SF-36 score (quality of life by Gardenal O) from 0 to 100</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>environmental and societal factors (SF-36)</measure>
+    <time_frame>day 21</time_frame>
+    <description>SF-36 score (quality of life by Gardenal O) from 0 to 100</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>environmental and societal factors (SF-36)</measure>
+    <time_frame>day 90</time_frame>
+    <description>SF-36 score (quality of life by Gardenal O) from 0 to 100</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>environmental and societal factors (Physical activity)</measure>
+    <time_frame>Day 0</time_frame>
+    <description>Physical activity score (by J. Ricci et L. Gagnon test for adults and ActiFitY test for children) from 0 to 100</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>environmental and societal factors (Physical activity)</measure>
+    <time_frame>day 10</time_frame>
+    <description>Physical activity score (by J. Ricci et L. Gagnon test for adults and ActiFitY test for children) from 0 to 100</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>environmental and societal factors (Physical activity)</measure>
+    <time_frame>day 21</time_frame>
+    <description>Physical activity score (by J. Ricci et L. Gagnon test for adults and ActiFitY test for children) from 0 to 100</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>environmental and societal factors (Physical activity)</measure>
+    <time_frame>day 90</time_frame>
+    <description>Physical activity score (by J. Ricci et L. Gagnon test for adults and ActiFitY test for children) from 0 to 100</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>body weight</measure>
+    <time_frame>Day 0</time_frame>
+    <description>body weight in kg</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>body weight</measure>
+    <time_frame>day 10</time_frame>
+    <description>body weight in kg</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>body weight</measure>
+    <time_frame>day 21</time_frame>
+    <description>body weight in kg</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>body weight</measure>
+    <time_frame>day 90</time_frame>
+    <description>body weight in kg</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>oxygen saturation</measure>
+    <time_frame>Day 0</time_frame>
+    <description>oxygen saturation in %</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>oxygen saturation</measure>
+    <time_frame>day 10</time_frame>
+    <description>oxygen saturation in %</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>oxygen saturation</measure>
+    <time_frame>day 21</time_frame>
+    <description>oxygen saturation in %</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>oxygen saturation</measure>
+    <time_frame>day 90</time_frame>
+    <description>oxygen saturation in %</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Respiratory rate</measure>
+    <time_frame>Day 0</time_frame>
+    <description>Respiratory rate per minute</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Respiratory rate</measure>
+    <time_frame>day 10</time_frame>
+    <description>Respiratory rate per minute</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Respiratory rate</measure>
+    <time_frame>day 21</time_frame>
+    <description>Respiratory rate per minute</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Respiratory rate</measure>
+    <time_frame>day 90</time_frame>
+    <description>Respiratory rate per minute</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>cardiac frequency</measure>
+    <time_frame>Day 0</time_frame>
+    <description>cardiac frequency per minute</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>cardiac frequency</measure>
+    <time_frame>day 10</time_frame>
+    <description>cardiac frequency per minute</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>cardiac frequency</measure>
+    <time_frame>day 21</time_frame>
+    <description>cardiac frequency per minute</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>cardiac frequency</measure>
+    <time_frame>day 90</time_frame>
+    <description>cardiac frequency per minute</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>lung damage</measure>
+    <time_frame>Day 0</time_frame>
+    <description>Lung damage on auscultation in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>lung damage</measure>
+    <time_frame>day 10</time_frame>
+    <description>Lung damage on auscultation in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>lung damage</measure>
+    <time_frame>day 21</time_frame>
+    <description>Lung damage on auscultation in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>lung damage</measure>
+    <time_frame>day 90</time_frame>
+    <description>Lung damage on auscultation in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>lung evolution</measure>
+    <time_frame>day 90</time_frame>
+    <description>CT san in terms of normal/abnormal (children and pregnant women not concerned)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>blood pressure</measure>
+    <time_frame>Day 0</time_frame>
+    <description>Dysatolic/systolic blood pressure in mmHg</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>blood pressure</measure>
+    <time_frame>day 10</time_frame>
+    <description>Dysatolic/systolic blood pressure in mmHg</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>blood pressure</measure>
+    <time_frame>day 21</time_frame>
+    <description>Dysatolic/systolic blood pressure in mmHg</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>blood pressure</measure>
+    <time_frame>day 90</time_frame>
+    <description>Dysatolic/systolic blood pressure in mmHg</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>body temperature</measure>
+    <time_frame>Day 0</time_frame>
+    <description>Body temperature in °C</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>body temperature</measure>
+    <time_frame>day 10</time_frame>
+    <description>Body temperature in °C</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>body temperature</measure>
+    <time_frame>day 21</time_frame>
+    <description>Body temperature in °C</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>body temperature</measure>
+    <time_frame>day 90</time_frame>
+    <description>Body temperature in °C</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>clinical exam (skin)</measure>
+    <time_frame>Day 0</time_frame>
+    <description>Skin mottling in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>clinical exam (skin)</measure>
+    <time_frame>day 10</time_frame>
+    <description>Skin mottling in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>clinical exam (skin)</measure>
+    <time_frame>day 21</time_frame>
+    <description>Skin mottling in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>clinical exam (skin)</measure>
+    <time_frame>day 90</time_frame>
+    <description>Skin mottling in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>clinical exam (polypnea)</measure>
+    <time_frame>Day 0</time_frame>
+    <description>polypnea in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>clinical exam (polypnea)</measure>
+    <time_frame>day 10</time_frame>
+    <description>polypnea in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>clinical exam (polypnea)</measure>
+    <time_frame>day 21</time_frame>
+    <description>polypnea in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>clinical exam (polypnea)</measure>
+    <time_frame>day 90</time_frame>
+    <description>polypnea in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>denutrition</measure>
+    <time_frame>Day 0</time_frame>
+    <description>denutrition in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>denutrition</measure>
+    <time_frame>day 10</time_frame>
+    <description>denutrition in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>denutrition</measure>
+    <time_frame>day 21</time_frame>
+    <description>denutrition in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>denutrition</measure>
+    <time_frame>day 90</time_frame>
+    <description>denutrition in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Antibiotic treatment</measure>
+    <time_frame>Day 0</time_frame>
+    <description>Antibiotic treatment in terms of presence/absence with precision if necessary</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Antibiotic treatment</measure>
+    <time_frame>day 10</time_frame>
+    <description>Antibiotic treatment in terms of presence/absence with precision if necessary</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Antibiotic treatment</measure>
+    <time_frame>day 21</time_frame>
+    <description>Antibiotic treatment in terms of presence/absence with precision if necessary</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Antibiotic treatment</measure>
+    <time_frame>day 90</time_frame>
+    <description>Antibiotic treatment in terms of presence/absence with precision if necessary</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Steroidal anti-inflammatory treatment</measure>
+    <time_frame>Day 0</time_frame>
+    <description>Steroidal anti-inflammatory treatment in terms of presence/absence with precision if necessary</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Steroidal anti-inflammatory treatment</measure>
+    <time_frame>day 10</time_frame>
+    <description>Steroidal anti-inflammatory treatment in terms of presence/absence with precision if necessary</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Steroidal anti-inflammatory treatment</measure>
+    <time_frame>day 21</time_frame>
+    <description>Steroidal anti-inflammatory treatment in terms of presence/absence with precision if necessary</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Steroidal anti-inflammatory treatment</measure>
+    <time_frame>day 90</time_frame>
+    <description>Steroidal anti-inflammatory treatment in terms of presence/absence with precision if necessary</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anti-diabetic treatment</measure>
+    <time_frame>Day 0</time_frame>
+    <description>Anti-diabetic treatment in terms of presence/absence with precision if necessary</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anti-diabetic treatment</measure>
+    <time_frame>day 10</time_frame>
+    <description>Anti-diabetic treatment in terms of presence/absence with precision if necessary</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anti-diabetic treatment</measure>
+    <time_frame>day 21</time_frame>
+    <description>Anti-diabetic treatment in terms of presence/absence with precision if necessary</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anti-diabetic treatment</measure>
+    <time_frame>day 90</time_frame>
+    <description>Anti-diabetic treatment in terms of presence/absence with precision if necessary</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Gastric protector treatment</measure>
+    <time_frame>Day 0</time_frame>
+    <description>Gastric protector treatment in terms of presence/absence with precision if necessary</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Gastric protector treatment</measure>
+    <time_frame>day 10</time_frame>
+    <description>Gastric protector treatment in terms of presence/absence with precision if necessary</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Gastric protector treatment</measure>
+    <time_frame>day 21</time_frame>
+    <description>Gastric protector treatment in terms of presence/absence with precision if necessary</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Gastric protector treatment</measure>
+    <time_frame>day 90</time_frame>
+    <description>Gastric protector treatment in terms of presence/absence with precision if necessary</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>chills</measure>
+    <time_frame>Day 0</time_frame>
+    <description>chills in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>chills</measure>
+    <time_frame>day 10</time_frame>
+    <description>chills in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>chills</measure>
+    <time_frame>day 21</time_frame>
+    <description>chills in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>chills</measure>
+    <time_frame>day 90</time_frame>
+    <description>chills in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Myalgia</measure>
+    <time_frame>Day 0</time_frame>
+    <description>Myalgia in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Myalgia</measure>
+    <time_frame>day 10</time_frame>
+    <description>Myalgia in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Myalgia</measure>
+    <time_frame>day 21</time_frame>
+    <description>Myalgia in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Myalgia</measure>
+    <time_frame>day 90</time_frame>
+    <description>Myalgia in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anorexia</measure>
+    <time_frame>Day 0</time_frame>
+    <description>Anorexia in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anorexia</measure>
+    <time_frame>day 10</time_frame>
+    <description>Anorexia in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anorexia</measure>
+    <time_frame>day 21</time_frame>
+    <description>Anorexia in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anorexia</measure>
+    <time_frame>day 90</time_frame>
+    <description>Anorexia in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rhinitis</measure>
+    <time_frame>Day 0</time_frame>
+    <description>Rhinitis in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rhinitis</measure>
+    <time_frame>day 10</time_frame>
+    <description>Rhinitis in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rhinitis</measure>
+    <time_frame>day 21</time_frame>
+    <description>Rhinitis in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rhinitis</measure>
+    <time_frame>day 90</time_frame>
+    <description>Rhinitis in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Confusion</measure>
+    <time_frame>Day 0</time_frame>
+    <description>Confusion in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Confusion</measure>
+    <time_frame>day 10</time_frame>
+    <description>Confusion in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Confusion</measure>
+    <time_frame>day 21</time_frame>
+    <description>Confusion in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Confusion</measure>
+    <time_frame>day 90</time_frame>
+    <description>Confusion in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Asthenia</measure>
+    <time_frame>Day 0</time_frame>
+    <description>Asthenia in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Asthenia</measure>
+    <time_frame>day 10</time_frame>
+    <description>Asthenia in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Asthenia</measure>
+    <time_frame>day 21</time_frame>
+    <description>Asthenia in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Asthenia</measure>
+    <time_frame>day 90</time_frame>
+    <description>Asthenia in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Falls at home</measure>
+    <time_frame>Day 0</time_frame>
+    <description>Falls at home in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Falls at home</measure>
+    <time_frame>day 10</time_frame>
+    <description>Falls at home in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Falls at home</measure>
+    <time_frame>day 21</time_frame>
+    <description>Falls at home in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Falls at home</measure>
+    <time_frame>day 90</time_frame>
+    <description>Falls at home in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Insomnia</measure>
+    <time_frame>Day 0</time_frame>
+    <description>Insomnia in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Insomnia</measure>
+    <time_frame>day 10</time_frame>
+    <description>Insomnia in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Insomnia</measure>
+    <time_frame>day 21</time_frame>
+    <description>Insomnia in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Insomnia</measure>
+    <time_frame>day 90</time_frame>
+    <description>Insomnia in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Angina</measure>
+    <time_frame>Day 0</time_frame>
+    <description>Angina in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Angina</measure>
+    <time_frame>day 10</time_frame>
+    <description>Angina in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Angina</measure>
+    <time_frame>day 21</time_frame>
+    <description>Angina in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Angina</measure>
+    <time_frame>day 90</time_frame>
+    <description>Angina in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ageusia</measure>
+    <time_frame>Day 0</time_frame>
+    <description>Ageusia in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ageusia</measure>
+    <time_frame>day 10</time_frame>
+    <description>Ageusia in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ageusia</measure>
+    <time_frame>day 21</time_frame>
+    <description>Ageusia in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ageusia</measure>
+    <time_frame>day 90</time_frame>
+    <description>Ageusia in terms of presence/absence</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Respiratory complaints</measure>
+    <time_frame>Day 0</time_frame>
+    <description>Respiratory complaints in term of SRIpr score from 0 to 100</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Respiratory complaints</measure>
+    <time_frame>day 2</time_frame>
+    <description>Respiratory complaints in term of SRIpr score from 0 to 100</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Respiratory complaints</measure>
+    <time_frame>day 4</time_frame>
+    <description>Respiratory complaints in term of SRIpr score from 0 to 100</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Respiratory complaints</measure>
+    <time_frame>day 6</time_frame>
+    <description>Respiratory complaints in term of SRIpr score from 0 to 100</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Respiratory complaints</measure>
+    <time_frame>day 8</time_frame>
+    <description>Respiratory complaints in term of SRIpr score from 0 to 100</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Respiratory complaints</measure>
+    <time_frame>day 10</time_frame>
+    <description>Respiratory complaints in term of SRIpr score from 0 to 100</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Respiratory complaints</measure>
+    <time_frame>day 21</time_frame>
+    <description>Respiratory complaints in term of SRIpr score from 0 to 100</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Respiratory complaints</measure>
+    <time_frame>day 90</time_frame>
+    <description>Respiratory complaints in term of SRIpr score from 0 to 100</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>transmission rate</measure>
+    <time_frame>Day 0</time_frame>
+    <description>Rate of viral transmission determine by bioinformatic and statistical analyzes in %</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>transmission rate</measure>
+    <time_frame>day 10</time_frame>
+    <description>Rate of viral transmission determine by bioinformatic and statistical analyzes in %</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>transmission rate</measure>
+    <time_frame>day 21</time_frame>
+    <description>Rate of viral transmission determine by bioinformatic and statistical analyzes in %</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>prolonged viral shedding</measure>
+    <time_frame>between day 0 and day 21</time_frame>
+    <description>Prolonged viral shedding evaluate by RT-PCR (CT value or log10 copies per mL)</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Covid19</condition>
+  <condition>Contact Case</condition>
+  <arm_group>
+    <arm_group_label>cohort</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Biological collection with nasopharyngeal samples, saliva, blood, stool and urine</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Biological collection with nasopharyngeal samples, saliva, blood, stool and urine</intervention_name>
+    <description>Subjects with a COVID-19 infection and their contact cases (identification according to health insurance criteria, see &quot;Améli.fr&quot;) will be offered a clinical evaluation and the takin of biological samples, whether they are hospitalized or via the outpatient screening channel.&#xD;
+For the main objective: during the Day0 visit, the subjects who agreed to participate in the study will have a clinical evaluation according to a standardized questionnaire and a nasopharyngeal swab, saliva, blood, stool and urine.&#xD;
+For secondary objectives : longitudinal follow-up will be carried out for 21 days, for index cases and contact cases, whether they have a positive or negative RT-PCR test on D0. A final consultation will be carried out at M3. Nasopharyngeal samples, saliva, blood, stool and urine will be taken on D10 and D21. A blood test will be taken at M3 to carry out a COVID-19 serology.</description>
+    <arm_group_label>cohort</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Child or adult, no age limit&#xD;
+&#xD;
+          -  Able to give informed consent to participate in research&#xD;
+&#xD;
+          -  If a minor participant: consent of the legal representatives&#xD;
+&#xD;
+          -  If confirmed case COVID-19 (symptomatic or asymptomatic): laboratory result confirming&#xD;
+             infection with SARS-CoV-2 by RT-PCR or by serology&#xD;
+&#xD;
+          -  If contact case: people identified as a risk contact according to the criteria of the&#xD;
+             &quot;Amélie.fr&quot; health insurance&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Subjects under tutorship, curatorship, deprived of liberty, safeguard of justice&#xD;
+&#xD;
+          -  Refusal of the child&#xD;
+&#xD;
+          -  Refusal of participation&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Céclie Henquell</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University Hospital, Clermont-Ferrand</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Lise LACLAUTRE</last_name>
+    <phone>+33473754963</phone>
+    <email>promo_interne_drci@chu-clermontferrand.fr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>CHU de Clermont-Ferrand</name>
+      <address>
+        <city>Clermont-Ferrand</city>
+        <zip>63000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Lise Laclautre</last_name>
+      <phone>+33473754963</phone>
+      <email>promo_interne_drci@chu-clermontferrand.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Cécile Henquell</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Olivier Lesens</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Magali Vidal</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Etienne Merlin</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Marc Berger</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>October 2, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 21, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 22, 2020</study_first_posted>
+  <last_update_submitted>October 21, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 21, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 22, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>COVID19</keyword>
+  <keyword>Confirmed case</keyword>
+  <keyword>Biological collection</keyword>
+  <keyword>contact case</keyword>
+  <keyword>cluster</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,2284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1375">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04634409</url>
+  </required_header>
+  <id_info>
+    <org_study_id>18160</org_study_id>
+    <secondary_id>J2X-MC-PYAH</secondary_id>
+    <nct_id>NCT04634409</nct_id>
+  </id_info>
+  <brief_title>A Study of Immune System Proteins in Participants With Mild to Moderate COVID-19 Illness</brief_title>
+  <acronym>BLAZE-4</acronym>
+  <official_title>A Randomized, Double-blind, Placebo-Controlled, Phase 2 Study to Evaluate the Efficacy and Safety of Mono and Combination Therapy With Monoclonal Antibodies in Participants With Mild to Moderate COVID-19 Illness (BLAZE-4)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Eli Lilly and Company</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>AbCellera Biologics Inc.</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Shanghai Junshi Bioscience Co., Ltd.</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Eli Lilly and Company</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to measure how well LY3819253, alone or in combination with&#xD;
+      either LY3832479 (LY-CoV016) or VIR-7831, works against the virus that causes COVID-19. Study&#xD;
+      drug(s) will be given to participants with early symptoms of COVID-19. Samples will be taken&#xD;
+      from the back of the nose to determine how much virus is in the body at various times during&#xD;
+      the study. Participation could last about 12 or 24 weeks and includes at least 1 visit to the&#xD;
+      study site, with the remainder of assessments performed in the home, local clinic, or by&#xD;
+      phone.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 29, 2020</start_date>
+  <completion_date type="Anticipated">April 27, 2021</completion_date>
+  <primary_completion_date type="Actual">January 22, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage of Participants with SARS-CoV-2 Viral Load Greater than 5.27</measure>
+    <time_frame>Day 7</time_frame>
+    <description>Percentage of Participants with SARS-CoV-2 Viral Load Greater than 5.27</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants Who Experience COVID-19 Related Hospitalization or Death</measure>
+    <time_frame>Baseline through Day 29</time_frame>
+    <description>Percentage of Participants Who Experience COVID-19 Related Hospitalization or Death</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline to Day 7 in SARS-CoV-2 Viral Load</measure>
+    <time_frame>Baseline, Day 7</time_frame>
+    <description>Change from Baseline to Day 7 in SARS-CoV-2 Viral Load</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants Demonstrating Symptom Resolution</measure>
+    <time_frame>Day 7</time_frame>
+    <description>Percentage of Participants Demonstrating Symptom Resolution</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants Demonstrating Symptom Improvement</measure>
+    <time_frame>Day 7</time_frame>
+    <description>Percentage of Participants Demonstrating Symptom Improvement</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants Who Experience COVID-Related Hospitalization, COVID-19 Related Emergency Room Visit, or Death</measure>
+    <time_frame>Baseline through Day 22</time_frame>
+    <description>Percentage of Participants Who Experience COVID-Related Hospitalization, COVID-19 Related Emergency Room Visit, or Death</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics (PK): Mean Concentration of LY3819253 and LY3832479</measure>
+    <time_frame>Day 29</time_frame>
+    <description>PK: Mean Concentration of LY3819253 and LY3832479</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics (PK): Mean Concentration of LY3819253 and VIR-7831</measure>
+    <time_frame>Day 29</time_frame>
+    <description>PK: Mean Concentration of LY3819253 and VIR-7831</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">700</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>LY3819253 + LY3832479</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>LY3819253 + LY3832479 administered IV.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>LY3819253</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>LY3819253 administered IV.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo administered IV.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>LY3819253 + VIR-7831</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>LY3819253 + VIR-7831 administered IV.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>LY3819253</intervention_name>
+    <description>Administered IV.</description>
+    <arm_group_label>LY3819253</arm_group_label>
+    <arm_group_label>LY3819253 + LY3832479</arm_group_label>
+    <arm_group_label>LY3819253 + VIR-7831</arm_group_label>
+    <other_name>LY-CoV555</other_name>
+    <other_name>Bamlanivimab</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>LY3832479</intervention_name>
+    <description>Administered IV.</description>
+    <arm_group_label>LY3819253 + LY3832479</arm_group_label>
+    <other_name>LY-CoV016</other_name>
+    <other_name>Etesevimab</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Administered IV.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>VIR-7831</intervention_name>
+    <description>Administered IV.</description>
+    <arm_group_label>LY3819253 + VIR-7831</arm_group_label>
+    <other_name>GSK4182136</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Are currently not hospitalized&#xD;
+&#xD;
+          -  Have one or more mild or moderate COVID-19 symptoms: Fever, cough, sore throat,&#xD;
+             malaise, headache, muscle pain, gastrointestinal symptoms, or shortness of breath with&#xD;
+             exertion&#xD;
+&#xD;
+          -  Must have sample taken for test confirming viral infection no more than 3 days prior&#xD;
+             to starting the drug infusion&#xD;
+&#xD;
+          -  Are men or non-pregnant women who agree to contraceptive requirements&#xD;
+&#xD;
+          -  Understand and agree to comply with planned study procedures&#xD;
+&#xD;
+          -  Agree to the collection of nasopharyngeal swabs and venous blood&#xD;
+&#xD;
+          -  The participant or legally authorized representative give signed informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Body mass index (BMI) greater than or equal to (≥)35&#xD;
+&#xD;
+          -  Have oxygen saturation (SpO2) less than or equal to (≤)93 percent (%) on room air at&#xD;
+             sea level or ratio of arterial oxygen partial pressure (PaO2 in millimeters of&#xD;
+             mercury) to fractional inspired oxygen (FiO2) less than (&lt;)300, respiratory rate ≥30&#xD;
+             per minute, heart rate ≥125 per minute&#xD;
+&#xD;
+          -  Require mechanical ventilation or anticipated impending need for mechanical&#xD;
+             ventilation&#xD;
+&#xD;
+          -  Have known allergies to any of the components used in the formulation of the&#xD;
+             interventions&#xD;
+&#xD;
+          -  Have hemodynamic instability requiring use of pressors within 24 hours of&#xD;
+             randomization&#xD;
+&#xD;
+          -  Suspected or proven serious, active bacterial, fungal, viral, or other infection&#xD;
+             (besides COVID-19) that in the opinion of the investigator could constitute a risk&#xD;
+             when taking intervention&#xD;
+&#xD;
+          -  Have any co-morbidity requiring surgery within &lt;7 days, or that is considered&#xD;
+             life-threatening within 29 days&#xD;
+&#xD;
+          -  Have any serious concomitant systemic disease, condition or disorder that, in the&#xD;
+             opinion of the investigator, should preclude participation in this study&#xD;
+&#xD;
+          -  Have a history of a positive SARS-CoV-2 test prior to the one serving as eligibility&#xD;
+             for this study&#xD;
+&#xD;
+          -  Have received an investigational intervention for SARS-CoV-2 prophylaxis within 30&#xD;
+             days before dosing&#xD;
+&#xD;
+          -  Have received treatment with a SARS-CoV-2 specific monoclonal antibody&#xD;
+&#xD;
+          -  Have a history of convalescent COVID-19 plasma treatment&#xD;
+&#xD;
+          -  Have participated in a previous SARS-CoV-2 vaccine study or have received a SARS-CoV-2&#xD;
+             vaccine&#xD;
+&#xD;
+          -  Have participated, within the last 30 days, in a clinical study involving an&#xD;
+             investigational intervention. If the previous investigational intervention has a long&#xD;
+             half-life, 5 half-lives or 30 days, whichever is longer, should have passed&#xD;
+&#xD;
+          -  Are concurrently enrolled in any other type of medical research judged not to be&#xD;
+             scientifically or medically compatible with this study&#xD;
+&#xD;
+          -  Are pregnant or breast feeding&#xD;
+&#xD;
+          -  Are investigator site personnel directly affiliated with this study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>64 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Call 1-877-CTLILLY (1-877-285-4559) or 1-317-615-4559 Mon - Fri 9 AM - 5 PM Eastern time (UTC/GMT - 5 hours, EST)</last_name>
+    <role>Study Director</role>
+    <affiliation>Eli Lilly and Company</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>There may be multiple sites in this clinical trial. 1-877-CTLILLY (1-877-285-4559) or</last_name>
+    <phone>1-317-615-4559</phone>
+    <email>ClinicalTrials.gov@lilly.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>The Institute for Liver Health</name>
+      <address>
+        <city>Mesa</city>
+        <state>Arizona</state>
+        <zip>85210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>619-822-5941</phone>
+    </contact>
+    <investigator>
+      <last_name>Yessica Sachdeva</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Perseverance Research Center</name>
+      <address>
+        <city>Scottsdale</city>
+        <state>Arizona</state>
+        <zip>85254</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>480-471-6132</phone>
+    </contact>
+    <investigator>
+      <last_name>Kenneth Steil</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CRI of Arizona, LLC</name>
+      <address>
+        <city>Sun City West</city>
+        <state>Arizona</state>
+        <zip>85375</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>623-223-1580</phone>
+    </contact>
+    <investigator>
+      <last_name>Jalal Abbas</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Fiel Family Medicine</name>
+      <address>
+        <city>Tempe</city>
+        <state>Arizona</state>
+        <zip>85283</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>480-831-6328</phone>
+    </contact>
+    <investigator>
+      <last_name>Thomas Fiel</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The Institute for Liver Health</name>
+      <address>
+        <city>Tucson</city>
+        <state>Arizona</state>
+        <zip>85712</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>434-825-0921</phone>
+    </contact>
+    <investigator>
+      <last_name>Anita Kohli</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Arkansas Clinical Research</name>
+      <address>
+        <city>Little Rock</city>
+        <state>Arkansas</state>
+        <zip>72205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Kevin D Roberts</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Applied Rsch Ctr - Arkansas Inc.</name>
+      <address>
+        <city>Little Rock</city>
+        <state>Arkansas</state>
+        <zip>72212</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>501-954-7822</phone>
+    </contact>
+    <investigator>
+      <last_name>Lee Wilbur</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Smart Cures Clin Research</name>
+      <address>
+        <city>Anaheim</city>
+        <state>California</state>
+        <zip>92806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>833-882-8737</phone>
+    </contact>
+    <investigator>
+      <last_name>Nader Sobh</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hope Clinical Research</name>
+      <address>
+        <city>Canoga Park</city>
+        <state>California</state>
+        <zip>91303</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>818-999-4673</phone>
+    </contact>
+    <investigator>
+      <last_name>Hessam Aazami</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>VCT-Covina</name>
+      <address>
+        <city>Covina</city>
+        <state>California</state>
+        <zip>91723</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>626-598-4952</phone>
+    </contact>
+    <investigator>
+      <last_name>Masoud Azizad</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>AMCR Institute</name>
+      <address>
+        <city>Escondido</city>
+        <state>California</state>
+        <zip>92025</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>760-466-1530</phone>
+    </contact>
+    <investigator>
+      <last_name>Timothy S. Bailey</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Chemidox Clinical Trials</name>
+      <address>
+        <city>Lancaster</city>
+        <state>California</state>
+        <zip>93534</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>833-324-3643</phone>
+    </contact>
+    <investigator>
+      <last_name>Alon Antebi</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Ark Clinical Research</name>
+      <address>
+        <city>Long Beach</city>
+        <state>California</state>
+        <zip>90806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Jason Ahn</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Long Beach Clinical Trials LLC</name>
+      <address>
+        <city>Long Beach</city>
+        <state>California</state>
+        <zip>90806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>562-436-4761</phone>
+    </contact>
+    <investigator>
+      <last_name>Barry Heller</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Cedars Sinai Medical Center</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90048-5615</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>310-423-4471</phone>
+    </contact>
+    <investigator>
+      <last_name>Peter Chen</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Central Valley Research, LLC</name>
+      <address>
+        <city>Modesto</city>
+        <state>California</state>
+        <zip>95350</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>209-549-9538</phone>
+    </contact>
+    <investigator>
+      <last_name>Faisal Amin</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Inland Empire CT, LLC</name>
+      <address>
+        <city>Rialto</city>
+        <state>California</state>
+        <zip>92377</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>909-883-2999</phone>
+    </contact>
+    <investigator>
+      <last_name>Zeid Kayali</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Sutter Institute For Medical Research</name>
+      <address>
+        <city>Sacramento</city>
+        <state>California</state>
+        <zip>95816</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>916-478-6561</phone>
+    </contact>
+    <investigator>
+      <last_name>Aaron Kinney</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Wolverine Clinical Trials, LLC</name>
+      <address>
+        <city>Santa Ana</city>
+        <state>California</state>
+        <zip>92705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>7146172426</phone>
+    </contact>
+    <investigator>
+      <last_name>Wayne Wei-Chin Chen</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>St. Joe Heritage HC-Santa Rosa</name>
+      <address>
+        <city>Santa Rosa</city>
+        <state>California</state>
+        <zip>95405</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>707-890-4100</phone>
+    </contact>
+    <investigator>
+      <last_name>David Della Lana</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Stanford University Hospital</name>
+      <address>
+        <city>Stanford</city>
+        <state>California</state>
+        <zip>94305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>650-723-9656</phone>
+    </contact>
+    <investigator>
+      <last_name>Andra Blomkalns</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Mazur, Statner, Dutta, Nathan</name>
+      <address>
+        <city>Thousand Oaks</city>
+        <state>California</state>
+        <zip>91360</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>310-890-2713</phone>
+    </contact>
+    <investigator>
+      <last_name>Ramesh Nathan</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Infect Disease Doctors Med Grp</name>
+      <address>
+        <city>Walnut Creek</city>
+        <state>California</state>
+        <zip>94598</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>925-947-2334</phone>
+    </contact>
+    <investigator>
+      <last_name>Bhavna Malik</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Allianz Research Institute</name>
+      <address>
+        <city>Westminster</city>
+        <state>California</state>
+        <zip>92683</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>714-887-0400</phone>
+    </contact>
+    <investigator>
+      <last_name>David Pham</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Georgetown Univ Sch of Med</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20007</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>202-444-0086</phone>
+    </contact>
+    <investigator>
+      <last_name>Princy Kumar</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Synergy Healthcare LLC</name>
+      <address>
+        <city>Bradenton</city>
+        <state>Florida</state>
+        <zip>34208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>941-896-4948</phone>
+    </contact>
+    <investigator>
+      <last_name>Patrick Weston</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Holy Cross Hospital Inc.</name>
+      <address>
+        <city>Fort Lauderdale</city>
+        <state>Florida</state>
+        <zip>33308</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>9542298400</phone>
+    </contact>
+    <investigator>
+      <last_name>Joshua Michael Purow</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>I R &amp; Health Center, Inc.</name>
+      <address>
+        <city>Hialeah</city>
+        <state>Florida</state>
+        <zip>33012</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>305-825-6588</phone>
+    </contact>
+    <investigator>
+      <last_name>Jose Cardona</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Encore Medical Research</name>
+      <address>
+        <city>Hollywood</city>
+        <state>Florida</state>
+        <zip>33021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>954-400-1725</phone>
+    </contact>
+    <investigator>
+      <last_name>Rodolfo Perez</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Elixia CRC</name>
+      <address>
+        <city>Hollywood</city>
+        <state>Florida</state>
+        <zip>33023</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>786-267-8166</phone>
+    </contact>
+    <investigator>
+      <last_name>Steven Zeig</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Panax Clinical Research</name>
+      <address>
+        <city>Miami Lakes</city>
+        <state>Florida</state>
+        <zip>33014</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>305-698-4500</phone>
+    </contact>
+    <investigator>
+      <last_name>Robert Perry</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Miami Cancer Institute at Baptist Health, Inc.</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33176</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>305-728-1848</phone>
+    </contact>
+    <investigator>
+      <last_name>Guenther Koehne</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Testing Matters Lab</name>
+      <address>
+        <city>Sunrise</city>
+        <state>Florida</state>
+        <zip>33325</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>954-728-0298</phone>
+    </contact>
+    <investigator>
+      <last_name>Steven Zeig</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Advent Health Tampa</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33613</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>813-597-8697</phone>
+    </contact>
+    <investigator>
+      <last_name>Elvis Castillo</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Triple O Research Inst</name>
+      <address>
+        <city>West Palm Beach</city>
+        <state>Florida</state>
+        <zip>33407</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>561-855-7871</phone>
+    </contact>
+    <investigator>
+      <last_name>Olayemi Osiyemi</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Cleveland Clinic of Weston Florida</name>
+      <address>
+        <city>Weston</city>
+        <state>Florida</state>
+        <zip>33331</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>954-659-5199</phone>
+    </contact>
+    <investigator>
+      <last_name>Carla McWilliams</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Site Partners, LLC DBA CSP Orlando</name>
+      <address>
+        <city>Winter Park</city>
+        <state>Florida</state>
+        <zip>32789</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Faisal A Fakih</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Gwinnett Research Inst</name>
+      <address>
+        <city>Buford</city>
+        <state>Georgia</state>
+        <zip>30519</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>470-326-3358</phone>
+    </contact>
+    <investigator>
+      <last_name>Alexander E. Osowa</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Paramount Rch Sol - College Pk</name>
+      <address>
+        <city>College Park</city>
+        <state>Georgia</state>
+        <zip>30349</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>404-657-4500</phone>
+    </contact>
+    <investigator>
+      <last_name>Michelle Evans</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>IACT Health - VHC</name>
+      <address>
+        <city>Columbus</city>
+        <state>Georgia</state>
+        <zip>31904</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>706-229-6061</phone>
+    </contact>
+    <investigator>
+      <last_name>Jeffrey K Kingsley</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Central Georgia Infectious Disease</name>
+      <address>
+        <city>Macon</city>
+        <state>Georgia</state>
+        <zip>31201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>478-741-5945</phone>
+    </contact>
+    <investigator>
+      <last_name>Quyen Luu</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Rocky Mountain Clinical Research</name>
+      <address>
+        <city>Idaho Falls</city>
+        <state>Idaho</state>
+        <zip>83404</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>208-522-6005</phone>
+    </contact>
+    <investigator>
+      <last_name>Carl D Vance</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Great Lakes Clinical Trials</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60640</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>773-275-3500</phone>
+    </contact>
+    <investigator>
+      <last_name>Yevgeniy Bukhman</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Franciscan Health Hammond</name>
+      <address>
+        <city>Dyer</city>
+        <state>Indiana</state>
+        <zip>46311</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>323-388-7946</phone>
+    </contact>
+    <investigator>
+      <last_name>Erica Kaufman West</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Qualmedica Research Evansville</name>
+      <address>
+        <city>Evansville</city>
+        <state>Indiana</state>
+        <zip>47715</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>812-205-2475</phone>
+    </contact>
+    <investigator>
+      <last_name>David Schultz</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Franciscan St. Francis Health</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46237</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>317-885-2860</phone>
+    </contact>
+    <investigator>
+      <last_name>Imad J Shawa</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>St.Vincent - Indy</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46260</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Francisco Delgado</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Qualmedica Research, LLC</name>
+      <address>
+        <city>Owensboro</city>
+        <state>Kentucky</state>
+        <zip>42301</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>812-550-3197</phone>
+    </contact>
+    <investigator>
+      <last_name>Christopher Sartore</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Tandem Clinical Research,LLC</name>
+      <address>
+        <city>Marrero</city>
+        <state>Louisiana</state>
+        <zip>70072</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>504-934-8424</phone>
+    </contact>
+    <investigator>
+      <last_name>Adil Fatakia</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Imperial Health Urgent Care Center - Moss Bluff</name>
+      <address>
+        <city>Moss Bluff</city>
+        <state>Louisiana</state>
+        <zip>70611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>337-602-6642</phone>
+    </contact>
+    <investigator>
+      <last_name>Jason Morris</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Nola Research Works, LLC</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70125</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>504-891-3613</phone>
+    </contact>
+    <investigator>
+      <last_name>Corey Hebert</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Maryland Medical Center</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>R. Gentry Wilkerson</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>617-724-8420</phone>
+    </contact>
+    <investigator>
+      <last_name>Michael L Dougan</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>U of MA Mem Med Ctr</name>
+      <address>
+        <city>Worcester</city>
+        <state>Massachusetts</state>
+        <zip>01605</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>508-334-1000</phone>
+    </contact>
+    <investigator>
+      <last_name>ROBERT FINBERG</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Michigan</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>734-764-1817</phone>
+    </contact>
+    <investigator>
+      <last_name>Owen Albin</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Great Lakes Research Group, Inc.</name>
+      <address>
+        <city>Bay City</city>
+        <state>Michigan</state>
+        <zip>48706</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>989-895-9100</phone>
+    </contact>
+    <investigator>
+      <last_name>Jeffrey A. Potts</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Revive Research Institute</name>
+      <address>
+        <city>Farmington Hills</city>
+        <state>Michigan</state>
+        <zip>48334</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Barry Feldman</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Revival Research Institute</name>
+      <address>
+        <city>Sterling Heights</city>
+        <state>Michigan</state>
+        <zip>48312</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>248-721-9539</phone>
+    </contact>
+    <investigator>
+      <last_name>Abdulhassan Saad</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Olive Branch Family Medical Center</name>
+      <address>
+        <city>Olive Branch</city>
+        <state>Mississippi</state>
+        <zip>38654</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>6628954949</phone>
+    </contact>
+    <investigator>
+      <last_name>Randall Toombs Huling</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Sky Clin Resch - Quinn HC</name>
+      <address>
+        <city>Ridgeland</city>
+        <state>Mississippi</state>
+        <zip>39157</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>601-487-6482</phone>
+    </contact>
+    <investigator>
+      <last_name>Timothy Quinn</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Bio-Kinetic Clinical Applications, LLC</name>
+      <address>
+        <city>Springfield</city>
+        <state>Missouri</state>
+        <zip>65802</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>417-893-6103</phone>
+    </contact>
+    <investigator>
+      <last_name>Kayce Morton</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Quality Clinical Research</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>402-934-0044</phone>
+    </contact>
+    <investigator>
+      <last_name>Michael Dunn</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Excel Clinical Research</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>702-680-1500</phone>
+    </contact>
+    <investigator>
+      <last_name>Duane Anderson</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Las Vegas Medical Research</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89113</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>310-993-9118</phone>
+    </contact>
+    <investigator>
+      <last_name>Bharat R Mocherla</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Holy Name Medical Center</name>
+      <address>
+        <city>Teaneck</city>
+        <state>New Jersey</state>
+        <zip>07666</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>201-541-6312</phone>
+    </contact>
+    <investigator>
+      <last_name>Suraj Saggar</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Prime Global Research, LLC</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10456</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>718-530-0051</phone>
+    </contact>
+    <investigator>
+      <last_name>Rubaba Hussain</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Monroe Biomed Research</name>
+      <address>
+        <city>Monroe</city>
+        <state>North Carolina</state>
+        <zip>28112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>704-283-7369</phone>
+    </contact>
+    <investigator>
+      <last_name>Awawu Igbinadolor</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Carteret Medical Group</name>
+      <address>
+        <city>Morehead City</city>
+        <state>North Carolina</state>
+        <zip>28557</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>2527279501</phone>
+    </contact>
+    <investigator>
+      <last_name>Mary Katherine Lawrence</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hometown UC and Rch- Cincy</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>937-293-2157</phone>
+    </contact>
+    <investigator>
+      <last_name>Blaise Gatto</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Aventiv Research Inc</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>614-501-6164</phone>
+    </contact>
+    <investigator>
+      <last_name>Samir Arora</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Urgent Care Specialists, LLC</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43214</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>674-263-4400</phone>
+    </contact>
+    <investigator>
+      <last_name>Narinder Saini</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Remington-Davis, Inc</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>614-487-2560</phone>
+    </contact>
+    <investigator>
+      <last_name>Brian Zeno</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Urgent Care Specialists, LLC</name>
+      <address>
+        <city>Dayton</city>
+        <state>Ohio</state>
+        <zip>45424</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>937-912-4444</phone>
+    </contact>
+    <investigator>
+      <last_name>Steve Choi</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>META Medical Research Institute, LLC</name>
+      <address>
+        <city>Dayton</city>
+        <state>Ohio</state>
+        <zip>45432</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>937-252-2000</phone>
+    </contact>
+    <investigator>
+      <last_name>Priyesh Mehta</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Jefferson Hosp for Neurosci</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19107</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>215-955-2007</phone>
+    </contact>
+    <investigator>
+      <last_name>Katherine Belden</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Temple University Hospital</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19140</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>215-707-1359</phone>
+    </contact>
+    <investigator>
+      <last_name>GERARD J CRINER</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>VITALINK - Anderson</name>
+      <address>
+        <city>Anderson</city>
+        <state>South Carolina</state>
+        <zip>29621</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>864-965-0190</phone>
+    </contact>
+    <investigator>
+      <last_name>Charles Thompson</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>VITALINK - Gaffney</name>
+      <address>
+        <city>Gaffney</city>
+        <state>South Carolina</state>
+        <zip>29340</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>864-488-1283</phone>
+    </contact>
+    <investigator>
+      <last_name>David Erb</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>VITALINK - Greenville</name>
+      <address>
+        <city>Greenville</city>
+        <state>South Carolina</state>
+        <zip>29615</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>864-770-0890</phone>
+    </contact>
+    <investigator>
+      <last_name>Luis I. DeLaCruz</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>VITALINK - Spartanburg</name>
+      <address>
+        <city>Spartanburg</city>
+        <state>South Carolina</state>
+        <zip>29303</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>864-515-0092</phone>
+    </contact>
+    <investigator>
+      <last_name>Gregory Feldman</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>VITALINK - Union</name>
+      <address>
+        <city>Union</city>
+        <state>South Carolina</state>
+        <zip>29379</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>864-427-1172</phone>
+    </contact>
+    <investigator>
+      <last_name>Joseph Boscia</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Univ Diab &amp; Endo Consult</name>
+      <address>
+        <city>Chattanooga</city>
+        <state>Tennessee</state>
+        <zip>37411</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>423-265-3561</phone>
+    </contact>
+    <investigator>
+      <last_name>David Huffman</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>New Phase R and D</name>
+      <address>
+        <city>Knoxville</city>
+        <state>Tennessee</state>
+        <zip>37909</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>865-200-8364</phone>
+    </contact>
+    <investigator>
+      <last_name>Evelyne Davidson</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Central Texas Clinical Rch</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>512-480-9660</phone>
+    </contact>
+    <investigator>
+      <last_name>Cynthia C Brinson</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Gadolin Research, LLC</name>
+      <address>
+        <city>Beaumont</city>
+        <state>Texas</state>
+        <zip>77702</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>409-331-6040</phone>
+    </contact>
+    <investigator>
+      <last_name>Russell Perry</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Crossroads Clinical Research</name>
+      <address>
+        <city>Corpus Christi</city>
+        <state>Texas</state>
+        <zip>78413</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>361-288-4668</phone>
+    </contact>
+    <investigator>
+      <last_name>Michael Winnie</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>B S &amp; W Med Center</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75246</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>408-444-5823</phone>
+    </contact>
+    <investigator>
+      <last_name>Robert Gottlieb</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Baylor - Fort Worth</name>
+      <address>
+        <city>Fort Worth</city>
+        <state>Texas</state>
+        <zip>76104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>833-277-0197</phone>
+    </contact>
+    <investigator>
+      <last_name>Robert Gottlieb</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Houston Methodist Research Ins</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>713-441-9793</phone>
+    </contact>
+    <investigator>
+      <last_name>Howard Huang</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Next Level Urgent Care</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77057</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>832-460-3311</phone>
+    </contact>
+    <investigator>
+      <last_name>Wilner E. Jeudy</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>1960 Family Practice, PA</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77090</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>832-818-8115</phone>
+    </contact>
+    <investigator>
+      <last_name>Victor Escobar</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>B S &amp; W Med Center</name>
+      <address>
+        <city>Irving</city>
+        <state>Texas</state>
+        <zip>75061</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>833-277-0187</phone>
+    </contact>
+    <investigator>
+      <last_name>Robert Gottlieb</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>BioPharma Family Practice Center McAllen</name>
+      <address>
+        <city>McAllen</city>
+        <state>Texas</state>
+        <zip>78501</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>956-668-0044</phone>
+    </contact>
+    <investigator>
+      <last_name>Manuel Sanchez</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>BRCR Medical Center, Inc</name>
+      <address>
+        <city>McAllen</city>
+        <state>Texas</state>
+        <zip>78501</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Roman Tavarez</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>North Hills Medical Research</name>
+      <address>
+        <city>North Richland Hills</city>
+        <state>Texas</state>
+        <zip>76180</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>817-595-3399</phone>
+    </contact>
+    <investigator>
+      <last_name>John Gabriel</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Bay Area Infectious Diseases Associates</name>
+      <address>
+        <city>Pasadena</city>
+        <state>Texas</state>
+        <zip>77505</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>281-991-7999</phone>
+    </contact>
+    <investigator>
+      <last_name>Zaher Shebib</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Baylor - Round Rock</name>
+      <address>
+        <city>Round Rock</city>
+        <state>Texas</state>
+        <zip>78665</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>833-277-0197</phone>
+    </contact>
+    <investigator>
+      <last_name>Robert Gottlieb</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Sun Research Institute</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>210-277-1289</phone>
+    </contact>
+    <investigator>
+      <last_name>Carl Dukes</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Consano Clinical Research, LLC</name>
+      <address>
+        <city>Shavano Park</city>
+        <state>Texas</state>
+        <zip>78231</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>210-545-4900</phone>
+    </contact>
+    <investigator>
+      <last_name>Michelle Welch</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>APD Clinical Research</name>
+      <address>
+        <city>Splendora</city>
+        <state>Texas</state>
+        <zip>77372</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>281-370-7272</phone>
+    </contact>
+    <investigator>
+      <last_name>Najmuddin Karimjee</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Crossroads Clin Rch-Victoria</name>
+      <address>
+        <city>Victoria</city>
+        <state>Texas</state>
+        <zip>77901</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>361-574-7800</phone>
+    </contact>
+    <investigator>
+      <last_name>Omesh Verma</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CLS Research Ctr, PLLC</name>
+      <address>
+        <city>Webster</city>
+        <state>Texas</state>
+        <zip>77598</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>281-724-8180</phone>
+    </contact>
+    <investigator>
+      <last_name>Husam Issa</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CARE ID</name>
+      <address>
+        <city>Annandale</city>
+        <state>Virginia</state>
+        <zip>22003</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>703-560-4821</phone>
+    </contact>
+    <investigator>
+      <last_name>David Wheeler</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Evergreen Health Research</name>
+      <address>
+        <city>Kirkland</city>
+        <state>Washington</state>
+        <zip>98034</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>512-751-5496</phone>
+    </contact>
+    <investigator>
+      <last_name>Chad Crystal</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Advanced Clinical Research, LLC</name>
+      <address>
+        <city>Bayamon</city>
+        <zip>00961</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>7872696590</phone>
+    </contact>
+    <investigator>
+      <last_name>Angel Luis Comulada-Rivera</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Dorado Medical Complex Inc</name>
+      <address>
+        <city>Dorado</city>
+        <zip>00646</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>7872781576</phone>
+    </contact>
+    <investigator>
+      <last_name>Luis Pagan-Cardona</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>GCM Medical Group, PSC - Hato Rey Site</name>
+      <address>
+        <city>San Juan</city>
+        <zip>00917</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <phone>7879362100</phone>
+    </contact>
+    <investigator>
+      <last_name>Gregorio A. Cortes-Maisonet</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Puerto Rico</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://trials.lillytrialguide.com/en-US/trial/3GPxb8Mwm9PjgI7IrKcsTB?conditionId=18SDoTG6slClCGmk7GrUEU</url>
+    <description>Related Info</description>
+  </link>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>November 17, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 17, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 18, 2020</study_first_posted>
+  <last_update_submitted>February 4, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 4, 2021</last_update_submitted_qc>
+  <last_update_posted type="Estimate">February 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>Data are available 6 months after the primary publication and approval of the indication studied in the US and European Union (EU), whichever is later. Data will be indefinitely available for requesting.</ipd_time_frame>
+    <ipd_access_criteria>Data are available 6 months after the primary publication and approval of the indication studied in the US and EU, whichever is later. Data will be indefinitely available for requesting.</ipd_access_criteria>
+    <ipd_url>http://vivli.org/</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

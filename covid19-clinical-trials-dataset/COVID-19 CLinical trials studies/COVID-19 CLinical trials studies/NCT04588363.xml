@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="221">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04588363</url>
+  </required_header>
+  <id_info>
+    <org_study_id>DAIT PRISM-01</org_study_id>
+    <secondary_id>NIAID CRMS ID#: 38772</secondary_id>
+    <nct_id>NCT04588363</nct_id>
+  </id_info>
+  <brief_title>COVID-19: Pediatric Research Immune Network on SARS-CoV-2 and MIS-C</brief_title>
+  <acronym>PRISM</acronym>
+  <official_title>An Observational Cohort Study to Determine Late Outcomes and Immunological Responses After Infection With SARS-CoV-2 in Children With and Without Multisystem Inflammatory Syndrome (MIS-C)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Autoimmunity Centers of Excellence</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Clinical Trials in Organ Transplantation in Children</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Institute of Allergy and Infectious Diseases (NIAID)</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary objectives of this study are:&#xD;
+&#xD;
+        -  To determine the proportion of children with Severe Acute Respiratory Syndrome&#xD;
+           Coronavirus 2 (SARS-CoV-2) related death, rehospitalization or major complications after&#xD;
+           infection with SARS-CoV-2 and/or Multisystem Inflammatory Syndrome in Children (MIS-C),&#xD;
+           and&#xD;
+&#xD;
+        -  To determine immunologic mechanisms and immune signatures associated with disease&#xD;
+           spectrum and subsequent clinical course during the year of follow-up.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a prospective, multicenter, observational cohort study to assess short and long-term&#xD;
+      clinical outcomes and immune responses after Severe Acute Respiratory Syndrome Coronavirus 2&#xD;
+      (SARS-CoV-2) infection and/or Multisystem Inflammatory Syndrome in Children (MIS-C) in&#xD;
+      children (e.g., defined as individuals who have not reached their 21st birthday at the time&#xD;
+      of enrollment). SARS-CoV-2 causes Coronavirus Disease 2019 (COVID-19)&#xD;
+&#xD;
+      Participants will be identified through active recruitment measures within hospitals and&#xD;
+      through ambulatory and laboratory-based databases of SARS-CoV-2 positive individuals &lt;21&#xD;
+      years of age. The study will enroll a minimum of 250 subjects from a diverse racial/ethnic&#xD;
+      background, from participating medical centers in the United States. The study period of&#xD;
+      participation is 1 year (12 months).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 19, 2020</start_date>
+  <completion_date type="Anticipated">November 2022</completion_date>
+  <primary_completion_date type="Anticipated">November 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of Participants With Either COVID-19-Related Death, Rehospitalization, Major Complications after SARS-CoV-2 Illness and/or MIS-C at 6 Months Post Illness Presentation</measure>
+    <time_frame>6 Months Post Illness Presentation (Enrollment)</time_frame>
+    <description>Participants who experience Coronavirus Disease 2019 (COVID-19)-related death, rehospitalization or major complications after Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) illness and/or multisystem inflammatory syndrome in children (MIS-C).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of Participants with Coronavirus Disease 2019 (COVID-19)-Related Death after Multisystem Inflammatory Syndrome in Children (MIS-C) at 1 Year Post Illness Presentation</measure>
+    <time_frame>1 Year Post Illness Presentation (Enrollment)</time_frame>
+    <description>Participants who experience Coronavirus Disease 2019 (COVID-19)-related death, rehospitalization or major complications after Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) illness and/or multisystem inflammatory syndrome in children (MIS-C).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>All-Cause Mortality</measure>
+    <time_frame>1 Year Post Illness Presentation (Enrollment)</time_frame>
+    <description>The occurrence of death in participants regardless of relationship to Coronavirus Disease 2019 (COVID-19) and Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Mortality</measure>
+    <time_frame>1 Year Post Illness Presentation (Enrollment)</time_frame>
+    <description>The occurrence of SARS-CoV-2 related death in participants.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospitalization for Participants Enrolled as an Outpatient or Rehospitalization after First Admission in Hospitalized Participants</measure>
+    <time_frame>Up to 1 Year Post Illness Presentation (Enrollment)</time_frame>
+    <description>Characterization of Participants who require:&#xD;
+Hospitalization subsequent to enrollment as an outpatient for SARS-CoV-2/COVID-19 related illness and/or MIS-C, or&#xD;
+Rehospitalization after discharge from their initial admission for SARS-CoV-2/COVID-19 related illness and/or MIS-C.&#xD;
+Abbreviations:&#xD;
+Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2)&#xD;
+Coronavirus Disease 2019 (COVID-19)&#xD;
+Multisystem Inflammatory Syndrome in Children (MIS-C)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Coagulation Abnormality by D-Dimer Biomarker</measure>
+    <time_frame>Up to 1 Year Post Illness Presentation (Enrollment)</time_frame>
+    <description>Characterization of dysregulation involving the coagulation system by D-dimer laboratory test.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Coagulation Abnormality by Fibrinogen Biomarker</measure>
+    <time_frame>Up to 1 Year Post Illness Presentation (Enrollment)</time_frame>
+    <description>Characterization of dysregulation involving the coagulation system by fibrinogen laboratory test.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Coagulation Abnormality by Prothrombin Time (PT) and Activated Partial Thromboplastin Time (PTT) Biomarkers</measure>
+    <time_frame>Up to 1 Year Post Illness Presentation (Enrollment)</time_frame>
+    <description>Characterization of dysregulation involving the coagulation system by PT and PTT laboratory tests.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Coagulation Abnormality by International Normalised Ratio (INR) Biomarker</measure>
+    <time_frame>Up to 1 Year Post Illness Presentation (Enrollment)</time_frame>
+    <description>Characterization of dysregulation involving the coagulation system by INR laboratory test.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Coronary Artery Abnormalities</measure>
+    <time_frame>Up to 1 Year Post Illness Presentation (Enrollment)</time_frame>
+    <description>Characterization of coronary artery abnormalities (e.g., by echocardiogram and, if performed for clinical indications, angiogram, as examples).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pulmonary Hypertension</measure>
+    <time_frame>Up to 1 Year Post Illness Presentation (Enrollment)</time_frame>
+    <description>Prevalence of pulmonary hypertension by echocardiogram and standard of care assessments.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cardiovascular System Dysregulation by B-type natriuretic peptide (BNP) Biomarker</measure>
+    <time_frame>Up to 1 Year Post Illness Presentation (Enrollment)</time_frame>
+    <description>Characterization of cardiovascular system dysregulation by BNP laboratory test.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cardiovascular System Dysregulation by Troponin I Biomarker</measure>
+    <time_frame>Up to 1 Year Post Illness Presentation (Enrollment)</time_frame>
+    <description>Characterization of cardiovascular system dysregulation by Troponin I laboratory test.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cardiovascular System Dysregulation by Echocardiogram</measure>
+    <time_frame>Up to 1 Year Post Illness Presentation (Enrollment)</time_frame>
+    <description>Characterization of cardiac function by echocardiogram (Echo), a test that uses high frequency sound waves (ultrasound) to make pictures of the heart. The test is also referred to as a diagnostic cardiac ultrasound.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cardiovascular System Dysregulation by Electrocardiogram (ECG)</measure>
+    <time_frame>Up to 1 Year Post Illness Presentation (Enrollment)</time_frame>
+    <description>Characterization of cardiovascular system dysregulation(s) evaluated by standardized 12-lead electrocardiogram. ECG rhythms, intervals and voltages will be assessed. Cross reference: ECG and EKG are used interchangeably.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pulmonary Abnormalities</measure>
+    <time_frame>Up to 1 Year Post Illness Presentation (Enrollment)</time_frame>
+    <description>Pulmonary fibrosis (i.e., scarring) or other abnormalities detected by computerized tomography (CT) imaging.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pulmonary Function Characteristics</measure>
+    <time_frame>Up to 1 Year Post Illness Presentation (Enrollment)</time_frame>
+    <description>Characterization by pulmonary function tests (spirometry without bronchodilators).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Renal/Metabolic Biomarkers: Serum Creatinine and Blood Urea Nitrogen (BUN)</measure>
+    <time_frame>Up to 1 Year Post Illness Presentation (Enrollment)</time_frame>
+    <description>Characterization of kidney/metabolic function by serum creatinine and blood urea nitrogen (BUN) laboratory tests</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Renal/Metabolic Biomarker: Estimated glomerular filtration rate (eGFR)</measure>
+    <time_frame>Up to 1 Year Post Illness Presentation (Enrollment)</time_frame>
+    <description>Characterization of kidney/metabolic function by the estimated glomerular filtration rate (eGFR) calculated value, using the Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI) equation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hepatic/Metabolic Biomarkers: Serum Alkaline Phosphatase (Alk Phos), Alanine Aminotransferase ( ALT/SGPT)and Aspartate Aminotransferase (AST/SGOT)</measure>
+    <time_frame>Up to 1 Year Post Illness Presentation (Enrollment)</time_frame>
+    <description>Characterization of liver/metabolic function by the following laboratory tests:&#xD;
+alkaline phosphatase&#xD;
+alanine aminotransferase (ALT/SGPT) and&#xD;
+aspartate aminotransferase (AST/SGOT).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hepatic/Metabolic Biomarker: Total Bilirubin</measure>
+    <time_frame>Up to 1 Year Post Illness Presentation (Enrollment)</time_frame>
+    <description>Characterization of liver/metabolic function by serum total bilirubin laboratory test.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neurologic Abnormalities</measure>
+    <time_frame>Up to 1 Year Post Illness Presentation (Enrollment)</time_frame>
+    <description>Characterization of neurologic sequelae of infection/disease.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Other End Organ and/or functional abnormalities Occurring After Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Infection/ Coronavirus Disease 2019 (COVID-19) and/or Multisystem Inflammatory Syndrome in Children (MIS-C)</measure>
+    <time_frame>Up to 1 Year Post Illness Presentation (Enrollment)</time_frame>
+    <description>Identified by and characterized during standard of care assessments.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Health Related Quality of Life</measure>
+    <time_frame>Up to 1 Year Post Illness Presentation (Enrollment)</time_frame>
+    <description>Assessment of health-related quality of life (HRQOL) after Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) infection/ Coronavirus Disease 2019 (COVID-19) and/or multisystem inflammatory syndrome in children (MIS-C).&#xD;
+The Pediatric Quality of Life Inventory is a series of assessment instruments designed to measure the health-related quality of life of children. The PedsQL 4.0 provides an opportunity for the assessment of both overall (generic) quality of life as well as disease-specific quality of life.&#xD;
+The PedsQL 4.0 Generic Core Scales are appropriate for assessing health-related quality of life in both healthy and chronically ill children. The four scales making up this generic battery include Physical Functioning (8 items), Emotional Functioning (5 items), Social Functioning (5 items), and School Functioning (5 items).</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">250</enrollment>
+  <condition>Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2)</condition>
+  <condition>Multisystem Inflammatory Syndrome in Children (MIS-C)</condition>
+  <condition>Coronavirus Disease 2019 (COVID-19)</condition>
+  <arm_group>
+    <arm_group_label>SARS-CoV-2 positive children</arm_group_label>
+    <description>Individuals less than 21 years of age who fulfill one or more of the following criteria:&#xD;
+SARS-CoV-2 detection from a respiratory specimen, and/or&#xD;
+Meets criteria for MIS-C, and/or&#xD;
+Meets criteria for MIS-C, except has involvement of only 1 organ system</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>SARS-CoV-2 and/or MIS-C Exposure</intervention_name>
+    <description>This is an observational cohort study.</description>
+    <arm_group_label>SARS-CoV-2 positive children</arm_group_label>
+    <other_name>Exposure: Severe Acute Respiratory Syndrome Coronavirus 2 Infection and/or Multisystem Inflammatory Syndrome in Children diagnosis</other_name>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Blood, Nasal Swabs, Saliva, Stools, Urine&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Individuals less than 21 years of age who fulfill one or more of the following criteria:&#xD;
+&#xD;
+          -  SARS-CoV-2 detection from a respiratory specimen, and/or&#xD;
+&#xD;
+          -  Meets criteria for MIS-C, and/or&#xD;
+&#xD;
+          -  Meets criteria for MIS-C, except has involvement of only 1 organ system&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) detection from a&#xD;
+             respiratory specimen, and/or&#xD;
+&#xD;
+          2. Meets criteria for Multisystem Inflammatory Syndrome in Children (MIS-C), and/or&#xD;
+&#xD;
+          3. Meets criteria for MIS-C, except has involvement of only 1 organ system&#xD;
+&#xD;
+        Cases meeting clinical criteria for MIS-C but without known SARS-CoV-2 exposure, and who&#xD;
+        are being treated as MIS-C by the treating physician, but with negative SARS-CoV-2 PCR and&#xD;
+        pending or negative antibody testing, may be enrolled as subjects. If subsequent antibody&#xD;
+        testing is positive, cases will be labelled as confirmed MIS-C. If SARS-CoV-2 antibody&#xD;
+        testing is negative, subjects will be labeled at the end of the study as suspected/not&#xD;
+        confirmed MIS-C.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        1. Subject and/or parent/guardian who are not able to understand or be willing to provide&#xD;
+        informed consent and where applicable assent&#xD;
+&#xD;
+        --Note, for this observational cohort study, participation in other COVID-19 studies is not&#xD;
+        an automatic exclusionary criterion.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>20 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Steven A. Webber, MBChB, MRCP</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Department of Pediatrics, Monroe Carell Jr. Children's Hospital at Vanderbilt</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>James D. Wilkinson, MD, MPH</last_name>
+    <role>Study Chair</role>
+    <affiliation>Vanderbilt Institute for Clinical and Translational Research (VICTR)</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Natasha B Halasa, MD, MPH</last_name>
+    <role>Study Chair</role>
+    <affiliation>Department of Pediatrics, Vanderbilt University Medical Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Loma Linda University Health</name>
+      <address>
+        <city>Loma Linda</city>
+        <state>California</state>
+        <zip>92354</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Harsha K. Chandnani, MD,MBA,MPH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Cedars-Sinai Medical Center</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90048</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Katherine Kobayashi</last_name>
+      <phone>310-423-2250</phone>
+      <email>Katherine.Kobayashi@cshs.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Gwendolyn Weissberg</last_name>
+      <phone>310-423-1086</phone>
+      <email>Gwendolyn.weissberg@cshs.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Moshe Arditi, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Santhosh M. Nadipuram, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital Los Angeles</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>91011</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Paul F. Kantor, MBBCh,MSc,FRCPC</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Lucile Packard Children's Hospital Stanford</name>
+      <address>
+        <city>Palo Alto</city>
+        <state>California</state>
+        <zip>94303</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hayley A. Gans, MD</last_name>
+      <phone>650-721-5805</phone>
+      <email>drhayley@stanford.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Hayley Gans, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Healthcare of Atlanta</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30322</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lori Ponder, CCRP</last_name>
+      <phone>404-727-3583</phone>
+      <email>laponde@emory.edu</email>
+    </contact>
+    <investigator>
+      <last_name>William T. Mahle, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Johns Hopkins Children's Center</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21287</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Ekemini Akan Ogbu, MBBS, MSc</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Mayo Clinic Rochester</name>
+      <address>
+        <city>Rochester</city>
+        <state>Minnesota</state>
+        <zip>55905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Supriya Behl, M.Sc.</last_name>
+      <phone>507-538-1440</phone>
+      <email>behl.supriya@mayo.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Rana Chakraborty, MD, DPhil</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>St. Louis Children's Hospital</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stephanie Schafer</last_name>
+      <phone>314-753-7033</phone>
+      <email>schaferstephanie@wustl.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Charles E. Canter, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital at Montefiore</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10467</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Nadine F. Choueiter, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>NewYork-Presbyterian Brooklyn Methodist Hospital</name>
+      <address>
+        <city>Brooklyn</city>
+        <state>New York</state>
+        <zip>11215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Pramod Narula, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>NewYork-Presbyterian Queens Hospital</name>
+      <address>
+        <city>Flushing</city>
+        <state>New York</state>
+        <zip>11355</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Carla Cangemi, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Cohen Children's Medical Center - Northwell Health</name>
+      <address>
+        <city>New Hyde Park</city>
+        <state>New York</state>
+        <zip>11040</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Andrea LaBella</last_name>
+      <phone>917-309-4299</phone>
+      <email>alabella@northwell.edu</email>
+    </contact>
+    <investigator>
+      <last_name>James B. Schneider, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hassenfeld Children's Hospital at NYU Langone</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Rakesh Singh, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>NewYork-Presbyterian Komansky Children's Hospital</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Bintou Kabba</last_name>
+      <phone>646-962-8215</phone>
+      <email>bik4001@med.cornell.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Karen P. Acker, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Emily Wasserman, MD, MS</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Mount Sinai Kravis Children's Hospital</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10029</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Karen M. Wilson, MD, MPH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Columbia University Irving Medical Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Lisa F. Imundo, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Duke University Children's Health Center</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Jhoanna Aquino, BS</last_name>
+      <phone>919-668-4846</phone>
+      <email>jhoannazaida.aquino@duke.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Matthew S. Kelly, MD, MPH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Cincinnati Children's Hospital Medical Center</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Lara A. Danziger-Isakov, MD, MPH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Nationwide Children's Hospital</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of Philadelphia</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Joseph Rossano, MD,MS,FAAP,FACC</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>UPMC Children's Hospital of Pittsburgh</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15224</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Marian G. Michaels,, MD, MPH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Medical University of South Carolina, Pediatric Rheumatology</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29425</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ebony Dawkins-Mikell, MA</last_name>
+      <phone>843-876-8892</phone>
+      <email>panacceb@musc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Natasha M. Ruth, MD, MS</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Monroe Carell Jr. Children's Hospital at Vanderbilt</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Samantha Economos, NP</last_name>
+      <phone>615-419-2634</phone>
+      <email>samantha.a.economos@vumc.org</email>
+    </contact>
+    <investigator>
+      <last_name>Leigh M. Howard, MD, MPH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Eccles Primary Children's: University of Utah Health</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84113</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>John F. Bonsack, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://www.ctotc.org/</url>
+    <description>Clinical Trials in Organ Transplantation in Children</description>
+  </link>
+  <link>
+    <url>http://www.niaid.nih.gov/about/dait</url>
+    <description>Division of Allergy, Immunology and Transplantation</description>
+  </link>
+  <link>
+    <url>https://www.niaid.nih.gov/</url>
+    <description>National Institute of Allergy and Infection Diseases</description>
+  </link>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>October 12, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 13, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 19, 2020</study_first_posted>
+  <last_update_submitted>February 3, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 3, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 5, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>participants &lt;21 years of age</keyword>
+  <keyword>observational cohort study</keyword>
+  <keyword>immunological responses post infection</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

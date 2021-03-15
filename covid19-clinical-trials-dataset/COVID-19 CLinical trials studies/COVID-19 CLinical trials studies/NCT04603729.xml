@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="496">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04603729</url>
+  </required_header>
+  <id_info>
+    <org_study_id>FMH-06-2020-IRB-763-M</org_study_id>
+    <nct_id>NCT04603729</nct_id>
+  </id_info>
+  <brief_title>Comparison of Efficacy of Dexamethasone and Methylprednisolone in Moderate to Severe Covid 19 Disease</brief_title>
+  <acronym>covid19</acronym>
+  <official_title>Comparison of Efficacy of Dexamethasone and Methylprednisolone in Moderate to Severe Covid 19 Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Fatima Memorial Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Fatima Memorial Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The investigator will select participants with moderate to severe covid 19 disease admitted&#xD;
+      in Fatima memorial hospital. The investigator will divide them in two groups according to&#xD;
+      convenience sampling. Group 1 will be given dexamethasone 8mg/day and group 2 will be given&#xD;
+      methylprednisolone 1mg/kg/day IV for 5 days. The investigator will compare the improvement in&#xD;
+      temperature, oxygen requirement and CRP level at day zero and day 5 in both the groups.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The investigators enrolled first 100 participants admitted in covid unit of Fatima memorial&#xD;
+      hospital who fulfilled the inclusion criteria and signed informed consent. Baseline oxygen&#xD;
+      saturation and clinical findings were noted. Chest x-ray was done on admission. Baseline labs&#xD;
+      were sent, initial level of CRP (C-reactive protein) was noted down.&#xD;
+&#xD;
+      Patients with oxygen saturation &lt; 94% on room air with normal chest x-ray and CRP between 30&#xD;
+      - 50, were labelled as having moderate covid 19 disease. Patients with CRP&gt; 50 and having&#xD;
+      infiltrates on chest x-ray at the time of admission were considered having severe covid 19&#xD;
+      disease. Intravenous methylprednisolone in a dose of 1 mg/kg/day in 2 divided doses or&#xD;
+      dexamethasone 8 mg/day IV was given to alternate patients for 5 days. After 5 days, the&#xD;
+      investigator again recorded the oxygen saturation, CRP level and repeat chest x-ray findings.&#xD;
+&#xD;
+      Patients were given tocilizumab and convalescent plasma as and when indicated. Oxygen was&#xD;
+      given by nasal cannula and face mask. Patient was shifted to ICU if clinical condition&#xD;
+      deteriorated and/or mechanical ventilation is needed.&#xD;
+&#xD;
+      The investigator noted the improvement in clinical, radiological and biochemical parameters&#xD;
+      of the patient on day 0 that is admission day and later on day 5 after giving steroids&#xD;
+      (methylprednisolone or dexamethasone) for 5 days.&#xD;
+&#xD;
+      Data was analyzed using SPSS version 25.0. Descriptive statistics like frequency and means&#xD;
+      were calculated. Paired sample t-test was applied for comparison of the two groups.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">May 30, 2020</start_date>
+  <completion_date type="Actual">July 1, 2020</completion_date>
+  <primary_completion_date type="Actual">June 30, 2020</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>temperature (F)</measure>
+    <time_frame>5 days</time_frame>
+    <description>reduction in temperature in degree farrenheit</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>oxygen saturation(%)</measure>
+    <time_frame>5 days</time_frame>
+    <description>reduction in oxygen requirement in lit/min</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>CRP (mg/dl)</measure>
+    <time_frame>5 days</time_frame>
+    <description>mean reduction in CRP mg/dl in 5 days</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>mortality</measure>
+    <time_frame>5 days</time_frame>
+    <description>number of patients died</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>ICU transfer</measure>
+    <time_frame>5 days</time_frame>
+    <description>number of patients shifted to ICU</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">100</enrollment>
+  <condition>Covid 19 Disease</condition>
+  <arm_group>
+    <arm_group_label>group 1 dexamethasone</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>participants will receive dexamethasone 8mg/day Intravenous for 5 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>group 2 methylprednisolone</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>participants will receive methylprednisolone 1mg/kg/day intravenous for 5 days</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Dexamethasone 2 MG/ML</intervention_name>
+    <description>Dexamethasone 8mg/day will be given intravenous for 5 days to group 1 participants</description>
+    <arm_group_label>group 1 dexamethasone</arm_group_label>
+    <other_name>decadron</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Methylprednisolone Injection</intervention_name>
+    <description>methylprednisolone 1mg/kg/day will be given intravenous for 5 days to group 2 participants</description>
+    <arm_group_label>group 2 methylprednisolone</arm_group_label>
+    <other_name>solumedrol</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Age 18 to 75 years&#xD;
+&#xD;
+          2. Covid PCR positive&#xD;
+&#xD;
+          3. Patient having oxygen saturation &lt; 94% on room air, regardless of chest x-ray findings&#xD;
+&#xD;
+          4. Moderate or severe covid 19 disease according to operational definition.&#xD;
+&#xD;
+          5. Patients who sign informed consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Severe immunosuppression like HIV( Human immunodeficiency Virus) or long term use of&#xD;
+             immunosuppressant for any other chronic illness&#xD;
+&#xD;
+          2. Patients who need corticosteroids for any other disease like asthma, rheumatoid&#xD;
+             arthritis.&#xD;
+&#xD;
+          3. Pregnant or lactating females&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Khurshid A Khan, MBBS, FACM</last_name>
+    <role>Study Chair</role>
+    <affiliation>Fatima Memorial Hospital</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Arzinda F Syeda, MBBS, FCPS</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Fatima Memorial Hospital</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Fatima Memorial Hospital</name>
+      <address>
+        <city>Lahore</city>
+        <state>Punjab</state>
+        <zip>54700</zip>
+        <country>Pakistan</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Pakistan</country>
+  </location_countries>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>October 21, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 24, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 27, 2020</study_first_posted>
+  <last_update_submitted>October 24, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 24, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 27, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Fatima Memorial Hospital</investigator_affiliation>
+    <investigator_full_name>Syeda Arzinda Fatima</investigator_full_name>
+    <investigator_title>Assistant Professor</investigator_title>
+  </responsible_party>
+  <keyword>covid19</keyword>
+  <keyword>dexamethasone</keyword>
+  <keyword>methlprednisolone</keyword>
+  <keyword>corticosteroids</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dexamethasone</mesh_term>
+    <mesh_term>Methylprednisolone</mesh_term>
+    <mesh_term>Methylprednisolone Acetate</mesh_term>
+    <mesh_term>Methylprednisolone Hemisuccinate</mesh_term>
+    <mesh_term>Prednisolone</mesh_term>
+    <mesh_term>Prednisolone acetate</mesh_term>
+    <mesh_term>Prednisolone hemisuccinate</mesh_term>
+    <mesh_term>Prednisolone phosphate</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>patient name and medical record will be confidential, onle the principal investigator will have access to data. Results of study will be shared with other researchers</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

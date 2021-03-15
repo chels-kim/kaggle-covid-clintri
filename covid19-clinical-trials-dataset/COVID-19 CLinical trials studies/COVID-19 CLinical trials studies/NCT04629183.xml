@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1306">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04629183</url>
+  </required_header>
+  <id_info>
+    <org_study_id>COVID-ED-IntRisk</org_study_id>
+    <nct_id>NCT04629183</nct_id>
+  </id_info>
+  <brief_title>Risk Stratification of COVID-19 Patients Discharged From the Emergency Department</brief_title>
+  <acronym>CODED</acronym>
+  <official_title>Risk Stratification of COVID-19 Patients Discharged From the Emergency Department</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Azienda Ospedaliera Città della Salute e della Scienza di Torino</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Turin, Italy</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Azienda Ospedaliera Città della Salute e della Scienza di Torino</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Risk stratification of COVID-19 patients is essential to define their appropriate treatment&#xD;
+      setting. So far, available studies have focused on morbidity and mortality prediction in&#xD;
+      patients admitted to hospital. In the Emergency Department (ED), decision on home discharge&#xD;
+      versus hospital admission for COVID-19 is cumbersome. While facing a dramatic second wave of&#xD;
+      SARS-CoV-2, shortage of hospital beds has further increased the challenge.&#xD;
+&#xD;
+      The present study will prospectively evaluate the clinical outcomes of patients discharged&#xD;
+      from the ED. Stratification will be based on a composite of demographic, clinical and lung&#xD;
+      imaging variables. Results will be used to develop standardized decision rules for safe home&#xD;
+      discharge of patients with COVID-19 evaluated in the ED.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Patients with inclusion criteria and without exclusion criteria, evaluated in the&#xD;
+      participating EDs, will be enrolled in the study. Patients will undergo standard medical&#xD;
+      evaluation by the attending physician(s), following local guidelines and best medical&#xD;
+      practice, independent of participation to the study.&#xD;
+&#xD;
+      The following data will be recorded, when available:&#xD;
+&#xD;
+        -  Demographic/clinical: age, gender, symptoms (type, time from onset), comorbidities,&#xD;
+           Glasgow Coma Scale score, respiratory rate, peripheral oxygen saturation&#xD;
+&#xD;
+        -  Biochemical: urea, creatinine, C-reactive protein, procalcitonin, lactate dehydrogenase,&#xD;
+           white blood cell count, lymphocyte count, d-dimer&#xD;
+&#xD;
+        -  Lung ultrasonography: site/type of B lines, consolidations, pleural effusion&#xD;
+&#xD;
+        -  Radiology: chest X-ray result, chest CT result&#xD;
+&#xD;
+      Upon discharge, patients will be encouraged to contact emergency medical services or return&#xD;
+      the ED if needed, in case of clinical worsening.&#xD;
+&#xD;
+      The following endpoint will be assessed at 30 days after ED discharge, through standardized&#xD;
+      telephone interview and healthcare/other database query: any further hospital admission (for&#xD;
+      COVID-19 or other disease), death (for COVID-19 or other disease), respiratory&#xD;
+      failure/ventilation/intensive care admission (only for hospitalized COVID-19 patients).&#xD;
+&#xD;
+      Data analysis will focus on the outcome incidence in the study cohort, stratified by a&#xD;
+      composite of demographic/clinical, biochemical and imaging variables. A key stratification&#xD;
+      tool will be the 4C mortality score (BMJ 2020; 370 doi: https://doi.org/10.1136/bmj.m3339).&#xD;
+      Additional integration of study variables will be evaluated to improve stratification and&#xD;
+      prediction.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 1, 2020</start_date>
+  <completion_date type="Anticipated">July 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 30, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>composite outcome</measure>
+    <time_frame>30 days</time_frame>
+    <description>death (any cause), hospital admission (any cause)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>death (COVID-19)</measure>
+    <time_frame>30 days</time_frame>
+    <description>death for COVID-19</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>death (other disease)</measure>
+    <time_frame>30 days</time_frame>
+    <description>death for disease other than COVID-19</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>hospital admission (COVID-19)</measure>
+    <time_frame>30 days</time_frame>
+    <description>subsequent hospital admission for COVID-19</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>hospital admission (other disease)</measure>
+    <time_frame>30 days</time_frame>
+    <description>subsequent hospital admission for disease other than COVID-19</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">400</enrollment>
+  <condition>Covid19</condition>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>integrated clinical evaluation</intervention_name>
+    <description>30-day follow-up (telephone/database query) to define outcome Patients will receive standard care, independent of study participation.</description>
+    <other_name>lung ultrasonosgraphy</other_name>
+    <other_name>chest radiography (standard care, clinical decision)</other_name>
+    <other_name>blood testing (standard care, clinical decision)</other_name>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Adult patients (&gt;18 years) subjected to a first ED visit for physician-confirmed COVID-19,&#xD;
+        discharged from the ED based on attending physician's or patient's decision (independent&#xD;
+        from study participation). Patients will provide their informed consent to participation&#xD;
+        (thus allowing clinical data recording and 30-day follow-up).&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  symptomatic COVID-19 confirmed by treating physician&#xD;
+&#xD;
+          -  positive nasopharyngeal swab for SARS-CoV-2 (performed during the ED visit or within&#xD;
+             last 14 days)&#xD;
+&#xD;
+          -  First ED visit for suspected or confirmed COVID-19 (within last 30 days)&#xD;
+&#xD;
+          -  Home discharge from ED based on treating physician's or patient's decision&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Age &lt;18 years&#xD;
+&#xD;
+          -  Nursing home resident&#xD;
+&#xD;
+          -  Already on home oxygen therapy&#xD;
+&#xD;
+          -  Previous ED visit for suspected or confirmed COVID-19 (within last 30 days)&#xD;
+&#xD;
+          -  Informed consent denial&#xD;
+&#xD;
+          -  Follow-up not feasible&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Fulvio Morello, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>A.O.U. Città della Salute e della Scienza di Torino</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Fulvio Morello, MD, PhD</last_name>
+    <phone>+39-011-6337122</phone>
+    <email>fmorello@cittadellasalute.to.it</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Ospedale Maria Vittoria, D.E.A.</name>
+      <address>
+        <city>Torino</city>
+        <state>Piemonte</state>
+        <zip>10128</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Enrico Ferreri, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>A.O.U.C. Azienda Ospedaliero-Universitaria Careggi, D.E.A.</name>
+      <address>
+        <city>Firenze</city>
+        <state>Toscana</state>
+        <zip>50134</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Peiman Nazerian, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale U. Parini, Medicina e Chirurgia d'accettazione e Urgenza (MeCAU)</name>
+      <address>
+        <city>Aosta</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stefano Podio, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>A.O. S. Croce e Carle, Medicina e Chirurgia d'Urgenza</name>
+      <address>
+        <city>Cuneo</city>
+        <zip>12100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Giuseppe Lauria, MD</last_name>
+      <email>lauria.g@ospedale.cuneo.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>A.O.U. Careggi, Medicina e Chirurgia d'Urgenza e Accettazione</name>
+      <address>
+        <city>Firenze</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Peiman Nazerian, MD</last_name>
+      <phone>+39-055-7947322</phone>
+      <email>nazerianp@aou-careggi.toscana.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>A.O.U. Città della Salute e della Scienza di Torino, Ospedale Molinette, S.C. Medicina d'Urgenza U (MECAU)</name>
+      <address>
+        <city>Torino</city>
+        <zip>10126</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Fulvio Morello, MD, PhD</last_name>
+      <phone>+39-011-6337122</phone>
+      <email>fmorello@cittadellasalute.to.it</email>
+    </contact>
+    <contact_backup>
+      <last_name>Enrico Lupia, MD, PhD</last_name>
+      <phone>+39-011-6337122</phone>
+      <email>enrico.lupia@unito.it</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Emanuele E Pivetta, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Fulvio Morello, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Enrico Lupia, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale San Giovanni Bosco, Medicina e Chirurgia d'accettazione e urgenza (MeCAU)</name>
+      <address>
+        <city>Torino</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Franco Aprà, MD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <reference>
+    <citation>Pivetta E, Goffi A, Tizzani M, Locatelli SM, Porrino G, Losano I, Leone D, Calzolari G, Vesan M, Steri F, Ardito A, Capuano M, Gelardi M, Silvestri G, Dutto S, Avolio M, Cavallo R, Bartalucci A, Paglieri C, Morello F, Richiardi L, Maule MM, Lupia E; Molinette MedUrg Group on Lung Ultrasound. Lung Ultrasonography for the Diagnosis of SARS-CoV-2 Pneumonia in the Emergency Department. Ann Emerg Med. 2020 Oct 13. pii: S0196-0644(20)31269-5. doi: 10.1016/j.annemergmed.2020.10.008. [Epub ahead of print]</citation>
+    <PMID>33461884</PMID>
+  </reference>
+  <results_reference>
+    <citation>Knight SR, Ho A, Pius R, Buchan I, Carson G, Drake TM, Dunning J, Fairfield CJ, Gamble C, Green CA, Gupta R, Halpin S, Hardwick HE, Holden KA, Horby PW, Jackson C, Mclean KA, Merson L, Nguyen-Van-Tam JS, Norman L, Noursadeghi M, Olliaro PL, Pritchard MG, Russell CD, Shaw CA, Sheikh A, Solomon T, Sudlow C, Swann OV, Turtle LC, Openshaw PJ, Baillie JK, Semple MG, Docherty AB, Harrison EM; ISARIC4C investigators. Risk stratification of patients admitted to hospital with covid-19 using the ISARIC WHO Clinical Characterisation Protocol: development and validation of the 4C Mortality Score. BMJ. 2020 Sep 9;370:m3339. doi: 10.1136/bmj.m3339. Erratum in: BMJ. 2020 Nov 13;371:m4334.</citation>
+    <PMID>32907855</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Liu RB, Tayal VS, Panebianco NL, Tung-Chen Y, Nagdev A, Shah S, Pivetta E, Henwood PC, Nelson MJ, Moore CL. Ultrasound on the Frontlines of COVID-19: Report From an International Webinar. Acad Emerg Med. 2020 Jun;27(6):523-526. doi: 10.1111/acem.14004. Epub 2020 Jun 9.</citation>
+    <PMID>32348585</PMID>
+  </results_reference>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>November 13, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 13, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 16, 2020</study_first_posted>
+  <last_update_submitted>January 21, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 21, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 22, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Azienda Ospedaliera Città della Salute e della Scienza di Torino</investigator_affiliation>
+    <investigator_full_name>Fulvio Morello</investigator_full_name>
+    <investigator_title>Associate Professor (Internal Medicine), S.C. Medicina d'Urgenza U (MECAU), Università degli Studi di Torino</investigator_title>
+  </responsible_party>
+  <keyword>emergency department</keyword>
+  <keyword>admission</keyword>
+  <keyword>discharge</keyword>
+  <keyword>risk</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Emergencies</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

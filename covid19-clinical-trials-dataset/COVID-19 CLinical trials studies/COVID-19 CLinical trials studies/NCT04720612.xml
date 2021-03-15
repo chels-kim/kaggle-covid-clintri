@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2295">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04720612</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CIAO (2021-7500)</org_study_id>
+    <nct_id>NCT04720612</nct_id>
+  </id_info>
+  <brief_title>COVID-19 Immunologic Antiviral Therapy With Omalizumab</brief_title>
+  <acronym>CIAO</acronym>
+  <official_title>COVID-19 Immunologic Antiviral Therapy With Omalizumab - An Adaptive Phase II Randomized-Controlled Clinical Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>McGill University Health Centre/Research Institute of the McGill University Health Centre</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>McGill University Health Centre/Research Institute of the McGill University Health Centre</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To evaluate if omalizumab is effective in decreasing mortality in severe hospitalized&#xD;
+      COVID-19 cases.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Coronavirus disease 2019 (COVID-19) has affected over 88 million people, resulting in the&#xD;
+      death of at least 1.9 million individuals and numbers continue to climb exponentially.&#xD;
+      Despite these staggering numbers, there are currently very few effective treatments for&#xD;
+      COVID-19. The immune response to COVID-19 virus appears to follow 2 phases. During the&#xD;
+      incubation and early disease, interferon (ex. INF-α) signaling and adaptive immunity preclude&#xD;
+      the disease from progressing. If, and when, this immune response is impaired, the virus may&#xD;
+      cause pathologic inflammation leading to massive organ dysfunction leading to acute&#xD;
+      respiratory distress syndrome (ARDS).&#xD;
+&#xD;
+      Omalizumab is a humanized anti-IgE antibody approved by Health Canada for the treatment of&#xD;
+      moderate-severe asthma and chronic spontaneous urticaria. Omalizumab has been shown to&#xD;
+      exhibit antiviral and anti-inflammatory effects in virally exacerbated asthma cases that may&#xD;
+      be relevant to the treatment of COVID-19.&#xD;
+&#xD;
+      This is a double blind randomized placebo-controlled trial to evaluate the efficacy of a&#xD;
+      single dose of omalizumab in reducing all cause mortality at day 29 in severe hospitalized&#xD;
+      COVID-19 cases. Moreover, time to improvement/hospital discharge, incidence and duration of&#xD;
+      mechanical ventilation and safety will be assessed.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 2021</start_date>
+  <completion_date type="Anticipated">January 2022</completion_date>
+  <primary_completion_date type="Anticipated">July 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of Death</measure>
+    <time_frame>29 Days</time_frame>
+    <description>Outcome reported as the number of patients in each arm that experience death by any cause.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to Clinical Improvement</measure>
+    <time_frame>29 Days</time_frame>
+    <description>Outcome reported as the time to improvement of 2 points on the 8-category ordinal scale. (World Health Organization, 2020)&#xD;
+8-category ordinal scale: 0- Uninfected, no clinical or virological evidence of infection&#xD;
+Ambulatory, no limitation of activities&#xD;
+Ambulatory, limitation of activities&#xD;
+Hospitalized mild disease, no oxygen therapy&#xD;
+Hospitalized mild disease, oxygen by mask or nasal prongs&#xD;
+Hospitalized severe disease, non invasive ventilation or high-flow oxygen&#xD;
+Hospitalized severe disease, intubation and mechanical ventilation&#xD;
+Hospitalized severe disease, ventilation + additional organ support - pressors, RRT, ECMO&#xD;
+Death</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of Mechanical Ventilation</measure>
+    <time_frame>14 Days</time_frame>
+    <description>Outcome reported as the number of patients in each arm requiring mechanical ventilation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Mechanical Ventilation</measure>
+    <time_frame>29 Days</time_frame>
+    <description>Outcome reported as the duration of mechanical ventilation (among those who require ventilation) in each arm.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Hospitalization</measure>
+    <time_frame>29 Days</time_frame>
+    <description>Outcome reported as the duration of hospitalization of patients in each arm.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of adverse events and serious adverse events</measure>
+    <time_frame>14 Days</time_frame>
+    <description>Outcome reported as the number of adverse events and serious adverse events that occurred in each arm.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Percent of viral clearance of Omalizumab as compared to the control arm</measure>
+    <time_frame>Days 0, 1, 5, 14, 29</time_frame>
+    <description>Evaluation of the virologic efficacy of omalizumab as compared to the control arm as assessed by the percent of subjects with SARS-CoV-2 detectable in OP/NP sample at days 0, 1, 5, 14, 29</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Spirometry results: Forced Vital Capacity</measure>
+    <time_frame>6 months</time_frame>
+    <description>Evaluation of forced vital capacity, reported in liters, in both omalizumab and control arms at 6 months.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Spirometry results : Forced expiratory volume in one second</measure>
+    <time_frame>6 months</time_frame>
+    <description>Evaluation of forced expiratory volume in one second, reported in liters, in both omalizumab and control arms at 6 months.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Anti-Inflammatory effects of Omalizumab as compared to the control arm</measure>
+    <time_frame>Days 0, 1, 5, 14, 29</time_frame>
+    <description>Assessed by measuring cytokine levels, TNF-α, IL-1, IL-6, and IFN-α in picograms per milliliter on days 0, 1, 5, 14, 29.</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Anti-fibrotic effects of Omalizumab as compared to the control arm</measure>
+    <time_frame>Days 0, 1, 5, 14, 29</time_frame>
+    <description>Assessed by measuring TGF-β level in nanograms per milliliter on days 0, 1, 5, 14, 29.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Omalizumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in this arm will receive the study drug, omalizumab.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants in this arm will receive a placebo treatment.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Omalizumab</intervention_name>
+    <description>Single subcutaneous dose of 375mg of omalizumab and standard of care.</description>
+    <arm_group_label>Omalizumab</arm_group_label>
+    <other_name>Xolair</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Single subcutaneous dose of normal saline in a syringe identical to that of the omalizumab arm and standard of care.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Positive RT-PCR assay for SARS-CoV-2&#xD;
+&#xD;
+          -  Disease requiring hospitalization: Dyspnea at rest or during minimal activity (sitting&#xD;
+             talking, coughing, swallowing), OR Respiratory rate &gt; 22/min, OR PaO2 &lt; 65mmHg or&#xD;
+             O2Sat &lt; 90%, OR Infiltrate on chest radiography (CXR) (worsening CXR if baseline&#xD;
+             abnormal)&#xD;
+&#xD;
+          -  Age ≥18 years&#xD;
+&#xD;
+          -  History of comorbid disease, where omalizumab efficacy and safety is well established:&#xD;
+             chronic spontaneous urticaria (CSU) OR atopy (e.g. atopic dermatitis, food allergies,&#xD;
+             hay fever) OR asthma OR COPD with evidence of type 2 inflammation (self-reported&#xD;
+             history of asthma, atopic diathesis or with elevated eosinophil percentage as&#xD;
+             surrogate for Th2 disease) OR elevated baseline serum IgE levels (if available).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Known hypersensitivity to omalizumab or its excipients&#xD;
+&#xD;
+          -  Inability to give consent (where appropriate and as approved by regional ethics&#xD;
+             boards, deferred consent will be an option for critically ill patients who are&#xD;
+             incapable and for whom a proxy cannot be located).&#xD;
+&#xD;
+          -  Patients who received omalizumab or another anti-IgE molecule in the last 12 months&#xD;
+&#xD;
+          -  Patients receiving another monoclonal antibody to treat SARS-CoV-2/other indication&#xD;
+&#xD;
+          -  Patients who are below the age of 18&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Elena Netchiporouk, MD, MSc</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>RI-MUHC</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Elena Netchiporouk, MD, MSc</last_name>
+    <phone>514-934-1934</phone>
+    <phone_ext>34999</phone_ext>
+    <email>elena.netchiporouk@mcgill.ca</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Research Institute of the McGill University Health Centre</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H4A3J1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Elena Netchiporouk, MD, MSc</last_name>
+      <email>elena.netchiporouk@mcgill.ca</email>
+    </contact>
+    <investigator>
+      <last_name>Elena Netchiporouk, MD, MSc</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Todd C Lee, MD MPH FIDSA</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <reference>
+    <citation>World Health Organization. WHO R&amp;D Blueprint novel Coronavirus COVID-19 Therapeutic Trial Synopsis. In. Geneva, Switzerland. 2020.</citation>
+  </reference>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>January 13, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 20, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 22, 2021</study_first_posted>
+  <last_update_submitted>January 20, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 20, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 22, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>McGill University Health Centre/Research Institute of the McGill University Health Centre</investigator_affiliation>
+    <investigator_full_name>Elena Netchiporouk</investigator_full_name>
+    <investigator_title>Junior Scientist and Assistant Professor of Dermatology</investigator_title>
+  </responsible_party>
+  <keyword>Omalizumab</keyword>
+  <keyword>Interferon-alpha</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>Coronavirus</keyword>
+  <keyword>Corona virus</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Omalizumab</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

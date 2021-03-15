@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3347">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04680858</url>
+  </required_header>
+  <id_info>
+    <org_study_id>122020</org_study_id>
+    <nct_id>NCT04680858</nct_id>
+  </id_info>
+  <brief_title>Impact of Digital Communication Assist Tools in Endoscopic Team Communication During COVID-19</brief_title>
+  <acronym>EndoCom</acronym>
+  <official_title>Impact of Digital Enhanced Telecommunication for Team Communication in Endoscopic Procedures During COVID-19 Pandemic</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Ulm</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Ulm</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Team work is highly challenged by the COVID-19 pandemic. Necessary protective equipment as&#xD;
+      FFP-mask and face shields impair communication significantly.Objective of the study is to&#xD;
+      evalaute the impact of digital enhanced telecommunication in endoscopic procedures.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Optimal communication is crucial for team work in high class endoscopy. Team work is highly&#xD;
+      challenged by the COVID-19 pandemic. Necessary protective equipment as FFP-mask and face&#xD;
+      shields impair communication significantly. Digital enhanced approaches to maintain team&#xD;
+      communication during endoscopic procedures are mandatory not only in actual circumstances.&#xD;
+&#xD;
+      Materials and methods:A prospective, two-armed interventional study will be performed at an&#xD;
+      endoscopy unit at a tertiary center. 200 endoscopic examinations (EGD, colonoscopy, EUS,&#xD;
+      ERCP) were randomly assigned (1:1) to a group that was performed with DECT equipped endoscopy&#xD;
+      team or with standard communication. All examinations were performed under protective&#xD;
+      equipment. Primary outcome was rate of communication associated adverse events. Secondary&#xD;
+      outcomes included team subjectively perceived comfort with DECT enhanced communication during&#xD;
+      endoscopic work, duration of examinations, SAE.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Actual">July 1, 2020</start_date>
+  <completion_date type="Anticipated">February 15, 2021</completion_date>
+  <primary_completion_date type="Anticipated">January 31, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Two-armed study</intervention_model_description>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Communication associated adverse events</measure>
+    <time_frame>From start to stop of endoscopic procedure</time_frame>
+    <description>Adverse events arising from impaired communication by COVID-19 protection equipment</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Severe adverse events</measure>
+    <time_frame>From start to stop of endoscopic procedure</time_frame>
+    <description>Severe adverse evatent, not arising from from impaired communication by COVID-19 protection equipment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Subjective Comfort of DECT communication</measure>
+    <time_frame>From start to stop of endoscopic procedure</time_frame>
+    <description>Subjectiveley perceived level of comfort using DECT communication during endoscopic procedures rated by numeric rating scale (1-6)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Endoscopic time</measure>
+    <time_frame>From start to stop of endoscopic procedure</time_frame>
+    <description>Duration of performed endoscopic procedures</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">500</enrollment>
+  <condition>Endoscopy</condition>
+  <condition>Communication</condition>
+  <arm_group>
+    <arm_group_label>Standard Communication</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Endoscopic procedures performed by skilled endoscopic team with standard communication (no headset)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>DECT enhanced Communication</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Endoscopic procedures performed by skilled endoscopic team with enhanced communication tools ( DECT headset)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>DECT</intervention_name>
+    <description>Use of a digital enhanced telecommunication headset for team communication</description>
+    <arm_group_label>DECT enhanced Communication</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Member of staff of the endoscopic team (Doctor, nurse)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Deafness&#xD;
+&#xD;
+          -  significantly impaired hearing&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>68 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Universitätsklinikum Ulm</name>
+      <address>
+        <city>Ulm</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>December 17, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 17, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 23, 2020</study_first_posted>
+  <last_update_submitted>December 28, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 28, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 31, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Ulm</investigator_affiliation>
+    <investigator_full_name>Thomas Seufferlein</investigator_full_name>
+    <investigator_title>Head of Mecical clinic 1</investigator_title>
+  </responsible_party>
+  <keyword>endoscopy</keyword>
+  <keyword>team communication</keyword>
+  <keyword>endoscopic procedure</keyword>
+  <keyword>COVID-19</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

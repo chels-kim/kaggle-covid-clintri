@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="352">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04726176</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1432020000338</org_study_id>
+    <nct_id>NCT04726176</nct_id>
+  </id_info>
+  <brief_title>COVID-19 and the Brain</brief_title>
+  <official_title>COVID-19 and Brain Health</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Vrije Universiteit Brussel</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Universitair Ziekenhuis Brussel</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Vrije Universiteit Brussel</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The main objective of this project is:&#xD;
+&#xD;
+      1. To assess the impact of COVID-19 on the brain and executive functioning.&#xD;
+&#xD;
+      Twenty adult subjects of UZ Brussels (volunteers), who needed intensive care due to COVID-19&#xD;
+      (n=10) or exhibited mild symptoms due to COVID-19 (n=10), will be recruited after hospital&#xD;
+      discharge. After signing an informed consent the subjects will undergo brain scans (T1, DTI,&#xD;
+      SWI, DWI, FLAIR MRI and rsfMRI), an emotion regulation task and a neurocognitive test&#xD;
+      battery. The latter test battery will be performed using an iPad and will test different&#xD;
+      neurocognitive functions such as memory, abstract thinking, spatial orientation and&#xD;
+      attention. The duration of the test battery is 18min. The total duration of one trial is&#xD;
+      estimated at one hour and a half. All tests are planned at the department of&#xD;
+      Radiology-Magnetic Resonance (UZ Brussel). After three months patients will visit the&#xD;
+      department of Radiology-Magnetic Resonance a second time for the same experimental trial.&#xD;
+      Additionally, a matched control group (n = 20; non covid or ICU patients) will be included&#xD;
+      and undergo the same tests in order to compare the results of the brain scans, emotional&#xD;
+      regulation task and neurocognitive test battery with results of both Covid-groups. Next to&#xD;
+      objective data, questionnaires will be filled out, i.e. visual analogue scales of mental and&#xD;
+      physical fatigue, Profile of Mood States and some additional return to work questions.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 30, 2021</start_date>
+  <completion_date type="Anticipated">July 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">July 1, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Brain scans</measure>
+    <time_frame>Up to 12 weeks</time_frame>
+    <description>T1, FLAIR MRI, SWI, DWI, DTI, rsfMRI and a task-based functional MRI</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Neurocognitive test battery</measure>
+    <time_frame>Up to 12 weeks</time_frame>
+    <description>The computerized cognitive test battery &quot;Cognition&quot; will be conducted using an iPad. This cognitive test battery is sensitive to multiple domains at high-level cognitive performance. It consists of the motor praxis test (measure of sensorimotor speed), visual object learning test (measure of spatial learning and memory), abstract matching (measure of abstraction), line orientation test (measure of spatial orientation), digit symbol substitution test (measure of complex scanning and visual tracking), balloon analogue risk test (measure of risk decision making), NBACK (measure of working memory) and psychomotor vigilance test (measure, or vigilant attention) and takes approximately 18 min in total.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Emotion regulation task</measure>
+    <time_frame>Up to 12 weeks</time_frame>
+    <description>During the last brain scan, i.e. the task-based functional fMRI, a short emotion regulation task will be employed. Twenty negatively rated stimuli from the International Affective Picture System balanced on arousal (exciting/calm) will be randomly allocated to one of two blocks, one block per condition (experiential awareness, i.e. switching attention towards the bodily felt affective experience / cognitive reappraisal i.e. cognitively changing how one appraises the situation represented on the negative pictures).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mental fatigue Visual Analogue Scale (M-VAS)</measure>
+    <time_frame>Up to 12 weeks</time_frame>
+    <description>Subjective measure of mental fatigue (0-10cm; 0 = no mental fatigue; 10 = maximal mental fatigue)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Physical fatigue Visual Analogue Scale (P-VAS)</measure>
+    <time_frame>Up to 12 weeks</time_frame>
+    <description>Subjective measure of physical fatigue (0-10cm; 0 = no mental fatigue; 10 = maximal mental fatigue)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Return to work questionnaire</measure>
+    <time_frame>Up to 12 weeks</time_frame>
+    <description>Questionnaire encompassing the following questions:&#xD;
+When did you restart work duties after hospital discharge?&#xD;
+Did you consider yourself fit to return to work?&#xD;
+What is your general experience of restart working?&#xD;
+Have you been equally as productive, less productive, or more productive than before the COVID-19 infection/since the former consultation?</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Profile of Mood States (POMS)</measure>
+    <time_frame>Up to 12 weeks</time_frame>
+    <description>The Profile of Mood States (POMS) is a 65 item self-report psychological instrument. The POMS measures six different dimensions of mood states over a period of time. These include: Tension or Anxiety, Anger or Hostility, Vigor or Activity, Fatigue or Inertia, Depression or Dejection, Confusion or Bewilderment. These 65 items are rated on a five-point scale ranging from &quot;not at all&quot; to &quot;extremely&quot;.</description>
+  </secondary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Covid19</condition>
+  <condition>Brain</condition>
+  <condition>Neurocognition</condition>
+  <condition>fMRI</condition>
+  <arm_group>
+    <arm_group_label>ICU COVID-19</arm_group_label>
+    <description>Participants who were admitted to the intensive care unit due to COVID-19</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Mild COVID-19</arm_group_label>
+    <description>Participants exhibited &quot;mild&quot; symptoms due to COVID-19 but needed to be hospitalized.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Healthy control group</arm_group_label>
+    <description>Healthy matched participants who never had COVID-19.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Exposure to COVID-19</intervention_name>
+    <description>To study the exposure of COVID-19 on the brain and executive functioning</description>
+    <arm_group_label>ICU COVID-19</arm_group_label>
+    <arm_group_label>Mild COVID-19</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Both the &quot;ICU COVID-19&quot; and &quot;Mild COVID-19&quot; groups will be selected from COVID-19 patients&#xD;
+        that were admitted to the UZ Brussel hospital.&#xD;
+&#xD;
+        The &quot;Healthy volunteers&quot; group will be selected through the network of the involved&#xD;
+        researchers (convenience sampling).&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adult patients of UZ Brussels, who left the hospital and needed intensive care&#xD;
+&#xD;
+          -  Adult patients of UZ Brussels, who left the hospital and exhibited mild symptoms&#xD;
+&#xD;
+          -  Healthy volunteers (who never had COVID-19)&#xD;
+&#xD;
+          -  Ability to give informed consent&#xD;
+&#xD;
+          -  Dutch or French speaking&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  History of neurological diseases&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>40 Years</minimum_age>
+    <maximum_age>76 Years</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>Kevin De Pauw, Prof. Dr.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Vrije Universiteit Brussel</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Kevin De Pauw, Prof. Dr.</last_name>
+    <phone>+32 (0)2692222</phone>
+    <email>kevin.de.pauw@vub.be</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Bruno Tassignon, MSc</last_name>
+    <phone>+32 (0)2692222</phone>
+    <email>bruno.tassignon@vub.be</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Vrije Universiteit Brussel</name>
+      <address>
+        <city>Brussels</city>
+        <zip>1050</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kevin De Pauw, Prof. Dr.</last_name>
+      <phone>+32 (0)26292222</phone>
+      <email>kevin.de.pauw@vub.be</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+  </location_countries>
+  <reference>
+    <citation>Iadecola C, Anrather J, Kamel H. Effects of COVID-19 on the Nervous System. Cell. 2020 Oct 1;183(1):16-27.e1. doi: 10.1016/j.cell.2020.08.028. Epub 2020 Aug 19. Review.</citation>
+    <PMID>32882182</PMID>
+  </reference>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>January 25, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 26, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 27, 2021</study_first_posted>
+  <last_update_submitted>February 1, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 1, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 4, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Vrije Universiteit Brussel</investigator_affiliation>
+    <investigator_full_name>Kevin De Pauw</investigator_full_name>
+    <investigator_title>Professor Dr.</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Only researchers, Kevin De Pauw, Romain Meeusen, Bruno Tassignon, Johan De Mey, Lien Van Liedekerke, Hubert Raeymaekers, Filip De Ridder, Guy Nagels, Jeroen Van Schependom, Marie Vandekerckhove, Leila Van Imschoot, Patrick Lacor, Lucie Seyler, Rembert Mertens, Sabine Allard, Anne-Marie Van Binst, and Elisabeth De Waele will have access to IPD.&#xD;
+All electronic data will be stored on the shared university drive, which is encrypted. All files and written data will be stored in a locked filing cabinet. With only the previously mentioned researchers having access.&#xD;
+All data will be anonymized by assigning an exclusive identity code to each participant. The identity of the individual will only be known by the previously stated research team. Anonymized data will be stored for up to four years to allow for publication access, further analyses and auditing. All personal data, including health questionnaires and signed consent forms, will be destroyed within 12 months of study completion.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

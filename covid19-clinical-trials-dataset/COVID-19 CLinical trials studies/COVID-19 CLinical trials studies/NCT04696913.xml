@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="452">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04696913</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1-073-20</org_study_id>
+    <nct_id>NCT04696913</nct_id>
+  </id_info>
+  <brief_title>Does COVID-19 Infection Increase the Risk of Pulmonary Embolism?</brief_title>
+  <official_title>Does COVID-19 Infection Increase the Risk of Pulmonary Embolism? A Retrospective Case-control Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Aberdeen</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Aberdeen</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The World Health Organization (WHO) declared the 2019 novel coronavirus (COVID-19) a pandemic&#xD;
+      on March 11, 2020. As of 19 July 2020, there have been 14.3 million confirmed cases and over&#xD;
+      600,000 confirmed deaths. Up to 14% of infected patients develop interstitial pneumonia,&#xD;
+      which may evolve to acute respiratory distress syndrome.&#xD;
+&#xD;
+      COVID-19 associated pulmonary arterial microthrombosis and coagulopathy has prompted&#xD;
+      physicians to implicate pulmonary embolism (PE) as a potential cause for acute respiratory&#xD;
+      deterioration.&#xD;
+&#xD;
+      Literature review reveals few studies of varying size, quality and design. Recent&#xD;
+      meta-analysis reports venous thromboembolism in approximately 20% of COVID-19 patients. There&#xD;
+      has yet to be a case-controlled study which proves and quantifies the associated between&#xD;
+      COVID-19 and PE.Confirming and quantifying this association has numerous clinical&#xD;
+      implications for the treatment of critically unwell patients with COVID-19 infection. For&#xD;
+      example, clinicians will be more inclined to investigate and treat sudden deteriorations with&#xD;
+      the knowledge that pulmonary embolism is the commonest cause for said deteriorations.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      A retrospective case-control study of all patients who had a CT pulmonary angiogram (CTPA) at&#xD;
+      NHS Grampian between 3rd March and 20th June 2020 will be conducted.&#xD;
+&#xD;
+      CTPA reports and test results of Reverse Transcriptase-Polymerase Chain Reaction (RT-PCR) for&#xD;
+      COVID-19 will be reviewed via electronic medical records.&#xD;
+&#xD;
+      Patients with no COVID-19 RT-PCR test done within 7 days of the CTPA or the same clinical&#xD;
+      episode will be excluded. Patients who had repeat CTPAs, who are already known to have a PE,&#xD;
+      and who had CTPAs which are considered to be radiologically inadequate will be excluded.&#xD;
+&#xD;
+      Patients will be categorised into cases (positive PE) and controls (negative PE).&#xD;
+&#xD;
+      CTPA images of cases will be reviewed to collect further data about severity, distribution&#xD;
+      and right heart strain.&#xD;
+&#xD;
+      Patients' exposure status will also be determined (positive or negative for COVID- 19&#xD;
+      infection).&#xD;
+&#xD;
+      The primary outcome is the number of pulmonary embolism cases related to COVID19.&#xD;
+&#xD;
+      The secondary outcomes are the severity, distribution of pulmonary embolism as determined by&#xD;
+      calculated Qanadli score. Presence of right heart strain.&#xD;
+&#xD;
+      Further data for the multivariate analysis will be obtained from the patient's electronic&#xD;
+      medical record. Specifically, we will collect data on risk factors for COVID-19 infection and&#xD;
+      PE to correct for confounding.&#xD;
+&#xD;
+      Statistical data analysis by various hypothesis tests and multivariate logistic regression&#xD;
+      will be conducted to determine the odds ratio of developing a PE, given positive COVID-19&#xD;
+      infection.&#xD;
+&#xD;
+      Patients with a positive PE will have their scans reviewed to quantitatively assess their&#xD;
+      clot burden and degree of right heart strain. The former will be done by calculating a&#xD;
+      Qanadil score. The latter will be done my measuring the right ventricle- left ventricle&#xD;
+      ratio. This will allow for a comparison between COVID-19 infected and non-infected patients&#xD;
+      with PE.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 1, 2021</start_date>
+  <completion_date type="Anticipated">November 22, 2021</completion_date>
+  <primary_completion_date type="Anticipated">November 22, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of pulmonary embolism cases related to COVID-19.</measure>
+    <time_frame>109 days</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Severity, distribution of pulmonary embolism as determined by calculated Qanadli score.</measure>
+    <time_frame>109 days</time_frame>
+    <description>Qanadli Score: The arterial tree of each lung is regarded as having 10 segmental PAs (three to the upper lobes,two to the middle lobe or lingula, and five to the lower lobes). The presence of an embolus in a segmental PA is scored as 1 point, and emboli at the most proximal arterial level are scored a value equal to the number of segmental PAs arising distally. To provide additional information on the residual perfusion distal to the embolus, a weighting factor is used for each value (0 for no defect, 1 for partial occlusion, and 2 for complete occlusion). An isolated subsegmental embolus is considered a partially occluded segmental PA and is assigned a value of 1. The maximum CT obstruction index is 40.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Presence of right heart strain associated with pulmonary embolism.</measure>
+    <time_frame>109 days</time_frame>
+    <description>As determined on CT by the presence of straightening of the interventricular septum and/or contrast reflux into the inferior vena cava and/or pulmonary artery measurements</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">347</enrollment>
+  <condition>Covid19</condition>
+  <condition>Pulmonary Embolism</condition>
+  <arm_group>
+    <arm_group_label>Pulmonary Embolism Positive</arm_group_label>
+    <description>As determined by CT Pulmonary Angiogram</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Pulmonary Embolism Negative</arm_group_label>
+    <description>As determined by CT Pulmonary Angiogram</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Exposure: Positive COVID-19 infection</intervention_name>
+    <description>Exposure: Positive COVID-19 infection as determined by RT-PCR</description>
+    <arm_group_label>Pulmonary Embolism Negative</arm_group_label>
+    <arm_group_label>Pulmonary Embolism Positive</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Exposure: Negative COVID-19 infection</intervention_name>
+    <description>Exposure: Negative COVID-19 infection as determined by RT-PCR</description>
+    <arm_group_label>Pulmonary Embolism Negative</arm_group_label>
+    <arm_group_label>Pulmonary Embolism Positive</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Acute hospital inpatients&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        -Patients who had a CT pulmonary angiogram at NHS Grampian between 3rd March and 20th June&#xD;
+        2020.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients with no COVID-19 RT-PCR test done within 7 days of the CT pulmonary angiogram&#xD;
+             or the same clinical episode.&#xD;
+&#xD;
+          -  Duplicate CT pulmonary angiograms.&#xD;
+&#xD;
+          -  Patients who are already known to have a pulmonary embolism.&#xD;
+&#xD;
+          -  Patients who had radiologically inadequate CT pulmonary angiograms.&#xD;
+&#xD;
+          -  Patients younger than 16 years old.&#xD;
+&#xD;
+          -  Patients who have incomplete or unavailable notes.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>16 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <overall_contact>
+    <last_name>Jonathan Wei Sheng PANG, MBChB</last_name>
+    <phone>+441224552176</phone>
+    <email>weisheng.pang@nhs.scot</email>
+  </overall_contact>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>November 19, 2020</study_first_submitted>
+  <study_first_submitted_qc>January 5, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 6, 2021</study_first_posted>
+  <last_update_submitted>January 5, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 5, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 6, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Case-Control Studies</keyword>
+  <keyword>Retrospective Study</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pulmonary Embolism</mesh_term>
+    <mesh_term>Embolism</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

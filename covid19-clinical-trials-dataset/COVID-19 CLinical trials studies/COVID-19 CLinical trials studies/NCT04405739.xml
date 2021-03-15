@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3903">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04405739</url>
+  </required_header>
+  <id_info>
+    <org_study_id>EIDD-2801-2004</org_study_id>
+    <nct_id>NCT04405739</nct_id>
+  </id_info>
+  <brief_title>The Safety of Molnupiravir (EIDD-2801) and Its Effect on Viral Shedding of SARS-CoV-2 (END-COVID)</brief_title>
+  <official_title>The Safety of EIDD-2801 and Its Effect on Viral Shedding of SARS-CoV-2</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ridgeback Biotherapeutics, LP</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Ridgeback Biotherapeutics, LP</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Designed as a multi-center, randomized, double-blind, placebo-controlled study to assess the&#xD;
+      efficacy and safety of EIDD-2801 on SARS-CoV-2 Virus Shedding in Newly Hospitalized Adults&#xD;
+      with polymerase chain reaction (PCR)-Confirmed COVID-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Phase 2a randomized, placebo-controlled, double-blinded clinical trial of EIDD-2801 in adult&#xD;
+      men and women who have tested positive for severe acute respiratory syndrome-coronavirus-2&#xD;
+      (SARS-CoV-2) infection within 144 hours of polymerase chain reaction (PCR) confirmation and&#xD;
+      are hospitalized with a diagnosis of COVID-19. Rapid enrollment and treatment will be&#xD;
+      initiated such that the first dose of EIDD-2801 or placebo will be administered as soon as&#xD;
+      possible and within 7 days of onset of symptoms.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 16, 2020</start_date>
+  <completion_date type="Anticipated">March 12, 2021</completion_date>
+  <primary_completion_date type="Anticipated">February 12, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants that achieve Virologic Clearance after oral administration of EIDD-2801</measure>
+    <time_frame>28 days</time_frame>
+    <description>Achievement of undetectable SARS-CoV-2 RNA by Day 5 in nasopharyngeal (NP) swabs by quantitative reverse transcription polymerase chain reaction (qPCR) after administration with EIDD-2801</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants With any Serious Adverse Events(SAEs) as assessed by DAIDS</measure>
+    <time_frame>28 days</time_frame>
+    <description>Incidence of Serious Adverse Events in subjects receiving EIDD-2801</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants With any Adverse Events(AEs) as assessed by DAIDS</measure>
+    <time_frame>28 days</time_frame>
+    <description>Incidence of Adverse Events in subjects receiving EIDD-2801</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">80</enrollment>
+  <condition>SARS-CoV 2</condition>
+  <arm_group>
+    <arm_group_label>EIDD-2801 twice daily (BID) for 5 days</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Dose A, Dose B, Dose C, Dose D, Dose E, Dose F</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>placebo (PBO) twice daily (BID) for 5 days</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>EIDD-2801</intervention_name>
+    <description>Oral capsule of EIDD-2801</description>
+    <arm_group_label>EIDD-2801 twice daily (BID) for 5 days</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo (PB0)</intervention_name>
+    <description>Oral placebo capsule</description>
+    <arm_group_label>placebo (PBO) twice daily (BID) for 5 days</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Has COVID-19 disease, defined by having one or more of the following new symptoms and&#xD;
+             signs (within 7 days):&#xD;
+&#xD;
+               -  Fevers OR&#xD;
+&#xD;
+               -  At least one of the following symptoms: cough, shortness of breath, respiratory&#xD;
+                  rate ≥ 20, radiographic evidence of pneumonia OR&#xD;
+&#xD;
+               -  Anosmia OR&#xD;
+&#xD;
+               -  other clinical symptoms or signs of COVID-19 that are not otherwise explained by&#xD;
+                  comorbidities or co-diagnoses&#xD;
+&#xD;
+          2. PCR+ test for SARS-CoV-2.&#xD;
+&#xD;
+          3. Has new signs or symptoms of COVID-19 that began ≤7 days of anticipated first dose of&#xD;
+             study drug.&#xD;
+&#xD;
+          4. Persons ≥18 years old.&#xD;
+&#xD;
+          5. Is admitted and is anticipated to remain in the hospital for ≥ 24 hours.&#xD;
+&#xD;
+          6. Is willing and able to comply with all study procedures including providing informed&#xD;
+             consent, collection of virology samples, and any safety tests that are not included as&#xD;
+             part of standard of care (SOC).&#xD;
+&#xD;
+          7. Is willing and able to take oral medications, and is anticipated to be able to take&#xD;
+             the full course of 5 days of study agent.&#xD;
+&#xD;
+             Pregnancy and Contraception: Treatment with EIDD-2801 is contraindicated in women who&#xD;
+             are pregnant or nursing and in the male partners of women who are pregnant. Extreme&#xD;
+             care must be taken to avoid pregnancy during the study and for 50 days after&#xD;
+             completion of EIDD 2801 dosing in female participants and for 100 days after&#xD;
+             completion of EIDD-2801 dosing in female partners of male participants.&#xD;
+&#xD;
+          8. Female participants of childbearing potential must meet the the following criteria to&#xD;
+             be enrolled:&#xD;
+&#xD;
+               1. Have a negative serum pregnancy test at Screening&#xD;
+&#xD;
+               2. Must agree to undergo a follow-up pregnancy test on Study Day 28.&#xD;
+&#xD;
+               3. Must agree to use at least 2 forms of contraception during the study and for at&#xD;
+                  least 50 days after dosing of the study drug is complete, as discussed with and&#xD;
+                  approved by the investigator.&#xD;
+&#xD;
+             OR Must have an azoospermic partner (vasectomized or due to a to medical cause) Note:&#xD;
+             azoospermic partner is acceptable provided that the partner is the sole sexual partner&#xD;
+             of the woman of childbearing potential and the absence of sperm has been confirmed.&#xD;
+&#xD;
+             Note that female not of childbearing potential is defined as either:&#xD;
+&#xD;
+             i. Surgically sterile: females who are permanently sterile via hysterectomy, bilateral&#xD;
+             salpingectomy, and/or bilateral oophorectomy by reported medical history and/or&#xD;
+             medical records. Surgical sterilization to have occurred a minimum of 6 weeks, or at&#xD;
+             the Investigator's discretion, prior to Screening. OR&#xD;
+&#xD;
+             ii. Postmenopausal: Females at least 60 years of age with amenorrhea for ≥12 months&#xD;
+             (by history) or 45 years of age with amenorrhea for 12 months without an alternative&#xD;
+             medical reason with confirmatory follicle stimulating hormone levels of ≥40 mIU/mL.&#xD;
+             The amenorrhea should not be induced by a medical condition such as anorexia nervosa,&#xD;
+             hypothyroid disease or polycystic ovarian disease, or by extreme exercise. It should&#xD;
+             not be due to concomitant medications that may have induced the amenorrhea such as&#xD;
+             oral contraceptives, hormones, gonadotropin releasing hormones, anti-estrogens, or&#xD;
+             selective estrogen receptor modulators.&#xD;
+&#xD;
+          9. Male participants must refrain from donating sperm during the study and for 100 days&#xD;
+             after dosing of the study drug is complete.&#xD;
+&#xD;
+         10. Male participants with female partners must have either&#xD;
+&#xD;
+               1. Surgical sterilization (vasectomy ≥1 month before screening) OR&#xD;
+&#xD;
+               2. Female partner must be of not be of childbearing potential OR&#xD;
+&#xD;
+                    -  Agree to use 2 forms of contraception during the study and for 100 days&#xD;
+                       after dosing of the study drug is complete, as discussed with and approved&#xD;
+                       by the investigator&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Has an illness within the past 30 days that requires mechanical ventilation prior to&#xD;
+             enrollment.&#xD;
+&#xD;
+          2. Is anticipated to require ICU admission for mechanical ventilation within 24 hours of&#xD;
+             enrollment.&#xD;
+&#xD;
+          3. Requires more than 6 liters/minute of oxygen to maintain O2 saturation above 95%&#xD;
+&#xD;
+          4. Is not expected to survive longer than 24 hours.&#xD;
+&#xD;
+          5. Has a platelet count less than 100,000/µL, hemoglobin less than 10 g/dL, or has a&#xD;
+             disorder of the hematologic system including anemic disorder or other blood dyscrasia,&#xD;
+             cancer of the hematologic system, history of bone marrow transplant, or other&#xD;
+             significant hematologic disease.&#xD;
+&#xD;
+          6. Women who are pregnant or breastfeeding.&#xD;
+&#xD;
+          7. Is experiencing DAIDS AE grading scale grade 4 baseline medical conditions or&#xD;
+             laboratory abnormalities..&#xD;
+&#xD;
+          8. Has received an experimental vaccine for COVID-19 prior to the first dose of study&#xD;
+             drug&#xD;
+&#xD;
+          9. Has received hydroxychloroquine or chloroquine within 30 days of study enrollment.&#xD;
+&#xD;
+         10. Is participating in another clinical study that involves pharmacologic intervention or&#xD;
+             has participated in another study within 30 days of 5 half-lives of the&#xD;
+             investigational agent (observational study participation is permitted).&#xD;
+&#xD;
+         11. In the opinion of the investigator, has end-organ disease as a result of relevant&#xD;
+             comorbidities: chronic kidney disease (reduced glomerular filtration rate (GFR) &lt;30&#xD;
+             mL/min by the Modification of Diet in Renal Disease (MDRD) study equation prior to&#xD;
+             COVID-19 symptom onset), decompensated chronic liver disease or cirrhosis,&#xD;
+             decompensated congestive heart failure, active peripheral vascular disease including&#xD;
+             active diabetic ulcers, chronic pulmonary disease prior to COVID-19 symptom onset&#xD;
+             requiring bilevel positive airway pressure (BiPAP) or &gt;2 L/min supplemental oxygen at&#xD;
+             baseline; if using ≤2 L/min supplemental oxygen at baseline, consultation with and&#xD;
+             approval of the sponsor is required prior to enrollment.&#xD;
+&#xD;
+         12. Has a diagnosis of cancer that is not in remission. Noninvasive cancers, such as basal&#xD;
+             and squamous cell carcinoma or history of in situ tumors are allowed at the discretion&#xD;
+             of the investigator after discussion with the sponsor.&#xD;
+&#xD;
+         13. Has received an organ transplantation.&#xD;
+&#xD;
+         14. Has received a bone marrow transplantation.&#xD;
+&#xD;
+         15. Has been on immunosuppressive medications within one month prior to enrollment.&#xD;
+&#xD;
+         16. Has any condition that would, in the opinion of the investigator, put the participant&#xD;
+             at increased risk for participation in a clinical trial.&#xD;
+&#xD;
+         17. Has known active hepatitis C (HCV RNA positive), active hepatitis B (hepatitis B&#xD;
+             surface antigen positive), or HIV (ELISA and confirmatory Western blotting). New&#xD;
+             screening tests not required.&#xD;
+&#xD;
+         18. Is currently taking nucleos(t)ide analogues for HIV or Hepatitis B, or for their&#xD;
+             prevention, within 30 days of study enrollment.&#xD;
+&#xD;
+         19. Is currently taking systemic corticosteroids other than replacement doses, or for&#xD;
+             treatment of COVID-19.&#xD;
+&#xD;
+         20. Has a Body Mass Index (BMI) &gt;50 kg/m2.&#xD;
+&#xD;
+         21. Is anticipated to require surgery within 48 hours after hospital admission.&#xD;
+&#xD;
+         22. Is anticipated to have a nothing per mouth (NPO) order placed within 48 hours after&#xD;
+             hospital admission that is expected to last for &gt; 24 hours.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Laura Szewczyk</last_name>
+    <phone>786-687-2495</phone>
+    <email>EIDD2801@ridgebackbio.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Ronald Reagan UCLA Medical Center</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095-8358</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Chen &quot;Anna&quot; Zheng</last_name>
+      <phone>310-794-0129</phone>
+      <email>czheng@mednet.ucla.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Debika Bhattacharya, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Cook County Hospital</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Mathew Itteera</last_name>
+      <phone>312-864-4606</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Advocate Christ Medical Center</name>
+      <address>
+        <city>Oak Lawn</city>
+        <state>Illinois</state>
+        <zip>60453</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Adam Treitman, MD</last_name>
+      <phone>847-723-8200</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Advocate Lutheran General Hospital</name>
+      <address>
+        <city>Park Ridge</city>
+        <state>Illinois</state>
+        <zip>60068</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Adam Treitman, MD</last_name>
+      <phone>847-723-8200</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Johns Hopkins Bayview Medical Center</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21224</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stephanie Swords</last_name>
+      <email>sswords1@jhmi.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Ashwan Balagopal</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>John Hopkins Hospital</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21287</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stephanie Swords</last_name>
+      <email>sswords1@jhmi.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Ashwin Balagopal</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Suburban Hospital</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20814</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stephanie Swords</last_name>
+      <email>sswords1@jhmi.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Ashwin Balagopal</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Howard County General Hospital</name>
+      <address>
+        <city>Columbia</city>
+        <state>Maryland</state>
+        <zip>21044</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stephanie Swords</last_name>
+      <email>sswords1@jhmi.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Ashwin Balagopal</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Wake Forest Baptist Health</name>
+      <address>
+        <city>Winston-Salem</city>
+        <state>North Carolina</state>
+        <zip>27157</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Elizabeth Zieser-Misenheimer</last_name>
+      <email>ezeiserm@wakehealth.com</email>
+    </contact>
+    <investigator>
+      <last_name>Caryn Morse, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Vanderbilt University</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37235</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Todd Rice, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Houston Methodist Hospital</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Krystin Nieto</last_name>
+      <phone>713-441-3192</phone>
+    </contact>
+    <investigator>
+      <last_name>Daniela Moran, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>May 26, 2020</study_first_submitted>
+  <study_first_submitted_qc>May 26, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 28, 2020</study_first_posted>
+  <last_update_submitted>January 14, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 14, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 19, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

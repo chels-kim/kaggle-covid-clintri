@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4383">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04344184</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HM20018977</org_study_id>
+    <nct_id>NCT04344184</nct_id>
+  </id_info>
+  <brief_title>SAFEty Study of Early Infusion of Vitamin C for Treatment of Novel Coronavirus Acute Lung Injury (SAFE EVICT CORONA-ALI)</brief_title>
+  <official_title>SAFEty Study of Early Infusion of Vitamin C for Treatment of Novel Coronavirus Acute Lung Injury (SAFE EVICT CORONA-ALI)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Virginia Commonwealth University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Virginia Commonwealth University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will the safety of a 96-hour intravenous vitamin C infusion protocol (50 mg/kg&#xD;
+      every 6 hours) in patients with hypoxemia and suspected COVID-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The intravenous vitamin C treatment protocol will be comprised of four intravenous infusions&#xD;
+      a day, that is 50 mg/kg every 6 hours in patients with laboratory-confirmed SARS-CoV-2&#xD;
+      infection manifesting COVID-19 (Novel Coronavirus Disease 2019) with hypoxemia. Treatment&#xD;
+      protocol will continue for 4 days (96 hours), and, if needed, the last study-specific&#xD;
+      bloodwork with being collected on day 7. All subjects will be followed to day 28 (phase I)&#xD;
+      and day 90 (phase II) for collection of clinical outcomes data through electronic health&#xD;
+      records (EHR) even though the treatment protocol will be completed by 96 hours from&#xD;
+      randomization at the latest. Secondary outcome data will also be collected either during&#xD;
+      in-person (clinic) visit or via telephone at the 60 and 90-day follow-up.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 2021</start_date>
+  <completion_date type="Anticipated">May 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in COVID disease status</measure>
+    <time_frame>Baseline to 28, 60 and 90 days</time_frame>
+    <description>COVID disease status will be measured by the 9-point (from 0 to 8) World Health Organization (WHO) ordinal scale for disease improvement at 28 days.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Renal safety biomarkers - serum oxalate</measure>
+    <time_frame>On days 5,7 and 14</time_frame>
+    <description>Change in serum oxalate levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Renal safety biomarkers - urine oxalate stones</measure>
+    <time_frame>On days 5,7 and 14</time_frame>
+    <description>Microscopic analysis of urine for presence of oxalate stones</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Renal safety biomarkers - 24-hour urine oxalate levels</measure>
+    <time_frame>On days 5,7 and 14</time_frame>
+    <description>24-hour urine oxalate levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Acute Kidney Injury-free days</measure>
+    <time_frame>On day 28, 90</time_frame>
+    <description>Renal-failure free days, with AKI defined by the KDIGO criteria</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of deaths</measure>
+    <time_frame>On day 28, 60 and 90 days</time_frame>
+    <description>Mortality by all causes</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in plasma ferritin levels</measure>
+    <time_frame>Days 1-7 compared with baseline</time_frame>
+    <description>Difference in plasma ferritin levels in ng/mL, compared to baseline levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in plasma D-dimer levels</measure>
+    <time_frame>Days 1-7 compared with baseline</time_frame>
+    <description>Difference in D-dimer levels in mcg/mL, compared to baseline levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in serum lactate dehydrogenase (LDH) levels</measure>
+    <time_frame>Days 1-7 compared with baseline</time_frame>
+    <description>Difference in lactate dehydrogenase (LDH) levels in units/L, compared to baseline levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in plasma IL-6 levels</measure>
+    <time_frame>Days 1-7 compared with baseline</time_frame>
+    <description>Difference in plasma IL-6 levels in pg/mL, compared to baseline levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients alive and free of respiratory failure</measure>
+    <time_frame>At 28-days</time_frame>
+    <description>Respiratory failure defined as resource utilization requiring at least 1 of the following: Endotracheal intubation and mechanical ventilation, Oxygen delivered by high-flow nasal cannula (heated, humidified, oxygen delivered via reinforced nasal cannula at flow rates &gt;20L/min with fraction of delivered oxygen ≥0.5), noninvasive positive pressure ventilation, extracorporeal membrane oxygenation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients alive and free of invasive mechanical ventilation</measure>
+    <time_frame>At 28-days</time_frame>
+    <description>Percentage of patients alive and not requiring invasive mechanical ventilation</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>COVID-19</condition>
+  <condition>Lung Injury, Acute</condition>
+  <condition>Kidney Injury</condition>
+  <arm_group>
+    <arm_group_label>Infusion</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>L-Ascorbic Acid (Vitamin C), intravenous infusion</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard of care</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Dextrose 5% Water</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>L-ascorbic acid</intervention_name>
+    <description>50 mg/kg intravenous vitamin C infusion every 6 hours for up to 96 hours</description>
+    <arm_group_label>Infusion</arm_group_label>
+    <other_name>Vitamin C, Intravenous</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Dextrose 5% Water</description>
+    <arm_group_label>Standard of care</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adults of 18 years or older&#xD;
+&#xD;
+          -  Patients hospitalized with a diagnosis of COVID-19 based on central&#xD;
+             laboratory-confirmed COVID-19 Novel Coronavirus Disease-2019, based on a positive&#xD;
+             SARS-CoV-2 RT-PCR confirmed within 72 hours prior to enrollment of nasal,&#xD;
+             oropharyngeal, or BAL specimen with hypoxemia, (i.e., decrease in oxygenation, as&#xD;
+             outlined below)&#xD;
+&#xD;
+          -  Pulse oximetry saturation (SpO2) &lt; 93% on room air in WHO COVID-19 ordinal scale 3&#xD;
+             patients, regardless the need for assisted ventilation, or oxygenation.&#xD;
+&#xD;
+          -  Any new requirement of supplemental oxygen, with any oxygen device (WHO COVID-19&#xD;
+             ordinal scale 4-7, regardless of pulse oximetry reading)&#xD;
+&#xD;
+          -  In patients with supplemental oxygen at home, any increase in the requirement of&#xD;
+             supplemental oxygen.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Age less than 18 years&#xD;
+&#xD;
+          -  Known allergy to Vitamin C&#xD;
+&#xD;
+          -  Inability to obtain consent from patient or next of kin&#xD;
+&#xD;
+          -  Presence of diabetic ketoacidosis&#xD;
+&#xD;
+          -  ANY history of oxalate stones at any time&#xD;
+&#xD;
+          -  Patients with Kidney Disease Improving Global Outcomes (KDIGO), CKD stage 4 (eGFR &lt; 30&#xD;
+             ml/min, CKD stage 5 and end-stage renal disease on dialysis patients are excluded.&#xD;
+&#xD;
+          -  Patients with Acute Kidney Injury, stage 3 (see page 28).&#xD;
+&#xD;
+          -  Pregnant, or lactating&#xD;
+&#xD;
+          -  Known diagnosis of glucose-6-phosphate dehydrogenase (G6PD) deficiency&#xD;
+&#xD;
+          -  Patients who received the following medications within 7 days prior to enrollment, or&#xD;
+             plan to receive during enrollment, or 7 days after enrollment: aluminum hydroxide,&#xD;
+             bortezomib, copper, deferoxamine, amphetamines including derivatives such as&#xD;
+             fluphenazine.&#xD;
+&#xD;
+          -  Patients with active sickle cell crisis&#xD;
+&#xD;
+          -  Prisoners&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Markos G Kashiouris, MD MPH</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Virginia Commonwealth University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Brian Davis, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Hunter Holmes McGuire VA Medical Center - Richmond, VA</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Markos G Kashiouris, MD MPH</last_name>
+    <phone>804-305-7187</phone>
+    <email>mkashiouris@vcu.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Alpha (Berry) A Fowler, III, MD</last_name>
+    <phone>804-828-9071</phone>
+    <email>alpha.fowler@vcuhealth.org</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Hunter Holmes McGuire VA Medical Center</name>
+      <address>
+        <city>Richmond</city>
+        <state>Virginia</state>
+        <zip>23249</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Brian Davis, MD</last_name>
+      <email>brian.davis1@vcuhealth.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Virginia Commonwealth University</name>
+      <address>
+        <city>Richmond</city>
+        <state>Virginia</state>
+        <zip>23298</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Dong E, Du H, Gardner L. An interactive web-based dashboard to track COVID-19 in real time. Lancet Infect Dis. 2020 May;20(5):533-534. doi: 10.1016/S1473-3099(20)30120-1. Epub 2020 Feb 19. Erratum in: Lancet Infect Dis. 2020 Sep;20(9):e215.</citation>
+    <PMID>32087114</PMID>
+  </reference>
+  <reference>
+    <citation>Fowler AA 3rd, Truwit JD, Hite RD, Morris PE, DeWilde C, Priday A, Fisher B, Thacker LR 2nd, Natarajan R, Brophy DF, Sculthorpe R, Nanchal R, Syed A, Sturgill J, Martin GS, Sevransky J, Kashiouris M, Hamman S, Egan KF, Hastings A, Spencer W, Tench S, Mehkri O, Bindas J, Duggal A, Graf J, Zellner S, Yanny L, McPolin C, Hollrith T, Kramer D, Ojielo C, Damm T, Cassity E, Wieliczko A, Halquist M. Effect of Vitamin C Infusion on Organ Failure and Biomarkers of Inflammation and Vascular Injury in Patients With Sepsis and Severe Acute Respiratory Failure: The CITRIS-ALI Randomized Clinical Trial. JAMA. 2019 Oct 1;322(13):1261-1270. doi: 10.1001/jama.2019.11825. Erratum in: JAMA. 2020 Jan 28;323(4):379.</citation>
+    <PMID>31573637</PMID>
+  </reference>
+  <reference>
+    <citation>Fowler AA 3rd, Fisher BJ, Kashiouris MG. Vitamin C for Sepsis and Acute Respiratory Failure-Reply. JAMA. 2020 Feb 25;323(8):792-793. doi: 10.1001/jama.2019.21987.</citation>
+    <PMID>32096845</PMID>
+  </reference>
+  <reference>
+    <citation>Kashiouris MG, L'Heureux M, Cable CA, Fisher BJ, Leichtle SW, Fowler AA. The Emerging Role of Vitamin C as a Treatment for Sepsis. Nutrients. 2020 Jan 22;12(2). pii: E292. doi: 10.3390/nu12020292. Review.</citation>
+    <PMID>31978969</PMID>
+  </reference>
+  <reference>
+    <citation>Fowler AA 3rd, Syed AA, Knowlson S, Sculthorpe R, Farthing D, DeWilde C, Farthing CA, Larus TL, Martin E, Brophy DF, Gupta S; Medical Respiratory Intensive Care Unit Nursing, Fisher BJ, Natarajan R. Phase I safety trial of intravenous ascorbic acid in patients with severe sepsis. J Transl Med. 2014 Jan 31;12:32. doi: 10.1186/1479-5876-12-32.</citation>
+    <PMID>24484547</PMID>
+  </reference>
+  <reference>
+    <citation>Fisher BJ, Seropian IM, Kraskauskas D, Thakkar JN, Voelkel NF, Fowler AA 3rd, Natarajan R. Ascorbic acid attenuates lipopolysaccharide-induced acute lung injury. Crit Care Med. 2011 Jun;39(6):1454-60. doi: 10.1097/CCM.0b013e3182120cb8. Erratum in: Crit Care Med. 2011 Aug;39(8):2022.</citation>
+    <PMID>21358394</PMID>
+  </reference>
+  <reference>
+    <citation>Fisher BJ, Kraskauskas D, Martin EJ, Farkas D, Wegelin JA, Brophy D, Ward KR, Voelkel NF, Fowler AA 3rd, Natarajan R. Mechanisms of attenuation of abdominal sepsis induced acute lung injury by ascorbic acid. Am J Physiol Lung Cell Mol Physiol. 2012 Jul 1;303(1):L20-32. doi: 10.1152/ajplung.00300.2011. Epub 2012 Apr 20.</citation>
+    <PMID>22523283</PMID>
+  </reference>
+  <reference>
+    <citation>Fisher BJ, Kraskauskas D, Martin EJ, Farkas D, Puri P, Massey HD, Idowu MO, Brophy DF, Voelkel NF, Fowler AA 3rd, Natarajan R. Attenuation of sepsis-induced organ injury in mice by vitamin C. JPEN J Parenter Enteral Nutr. 2014 Sep;38(7):825-39. doi: 10.1177/0148607113497760. Epub 2013 Aug 5.</citation>
+    <PMID>23917525</PMID>
+  </reference>
+  <reference>
+    <citation>Agathocleous M, Meacham CE, Burgess RJ, Piskounova E, Zhao Z, Crane GM, Cowin BL, Bruner E, Murphy MM, Chen W, Spangrude GJ, Hu Z, DeBerardinis RJ, Morrison SJ. Ascorbate regulates haematopoietic stem cell function and leukaemogenesis. Nature. 2017 Sep 28;549(7673):476-481. doi: 10.1038/nature23876. Epub 2017 Aug 21.</citation>
+    <PMID>28825709</PMID>
+  </reference>
+  <reference>
+    <citation>Wu Z, McGoogan JM. Characteristics of and Important Lessons From the Coronavirus Disease 2019 (COVID-19) Outbreak in China: Summary of a Report of 72 314 Cases From the Chinese Center for Disease Control and Prevention. JAMA. 2020 Apr 7;323(13):1239-1242. doi: 10.1001/jama.2020.2648.</citation>
+    <PMID>32091533</PMID>
+  </reference>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>April 9, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 9, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 14, 2020</study_first_posted>
+  <last_update_submitted>December 7, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 7, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 9, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lung Injury</mesh_term>
+    <mesh_term>Acute Lung Injury</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Adult</mesh_term>
+    <mesh_term>Wounds and Injuries</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Ascorbic Acid</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>There is no default plan to share individual participant data. May be considered upon reaching the VCU IRB</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

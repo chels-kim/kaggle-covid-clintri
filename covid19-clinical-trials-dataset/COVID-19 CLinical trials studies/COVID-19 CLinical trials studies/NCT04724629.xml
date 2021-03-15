@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1890">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04724629</url>
+  </required_header>
+  <id_info>
+    <org_study_id>402422/2020-1</org_study_id>
+    <nct_id>NCT04724629</nct_id>
+  </id_info>
+  <brief_title>Survival TRial Using CytoKines in COVID-19 (STRUCK Trial)</brief_title>
+  <acronym>STRUCK</acronym>
+  <official_title>Prospective-randomized Adaptive Study, With Active Control to Evaluate the Efficacy and Safety of Interleukin (IL)-17 Inhibitor Treatment Versus Low Doses of IL-2 Versus Indirect IL-6 Inhibitor in Hospitalized Patients With Severe Forms of COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Sao Paulo</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Conselho Nacional de Desenvolvimento Científico e Tecnológico</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Science Valley Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Sao Paulo</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Currently, there are few approved treatments for COVID-19, antiretroviral (remdesivir) and&#xD;
+      corticoids. With about 15% of COVID-19 patients suffering from severe disease health system&#xD;
+      will be overwhelmed. Treatments approaches to inhibit viral replication (antiretroviral and&#xD;
+      extended spectrum antiviral drugs), such as Remdesivir and Hydroxychloroquine are being used.&#xD;
+      In severe cases, by CT scans investigators are able to observe that these patients seem to be&#xD;
+      dying with fibrosis and lung vasculitis. It is hypothesised that targeting vasculitis and&#xD;
+      lung inflammation secondary to the viral infection may help patients' survival (reducing&#xD;
+      mortality) and/or decrease time in mechanical ventilators. It is proposed a 4-arm trial,&#xD;
+      converted to 2 after interim analysis (60 patients for the initial phase, sample size&#xD;
+      recalculation after initial analysis and 2 arms beyond). In initial phase, IL-6 indirect&#xD;
+      inhibitor (colchicine), in first arm; IL-17 inhibitor, an innovative target never tested (at&#xD;
+      this moment) in COVID-19 severe patients, in second study arm. Both approaches (indirect IL-6&#xD;
+      and Il-17) are related to modulation of inflammatory immune response. Finally, in third arm,&#xD;
+      IL-2 low dose. This cytokine was identified as Treg upregulation. Treg levels decrease in&#xD;
+      hepatitis C virus (HCV) associated vasculitis and increase in vasculitis resolution. In&#xD;
+      fourth arm, control group, standard of care. Initially, for the first 60 included patients,&#xD;
+      the study will comprise 4 arms (15 patients per arm, randomization ratio 1:1:1:1). An interim&#xD;
+      effectiveness and safety analysis at this point will guide the selection of one single&#xD;
+      treatment strategy (adaptative study) to be carried on after that, comparatively with the&#xD;
+      control group. The multi-site trial planned enrollment duration of 4-6 months and for each&#xD;
+      participant will be approximately 4 weeks. This trial will bring complementary data to the&#xD;
+      global effort in COVID-19 cases resolution.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 5, 2021</start_date>
+  <completion_date type="Anticipated">July 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">March 31, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>This is a multicenter, adaptive, open-label, randomized study design (1: 1: 1: 1 ratio), with an active comparator, superiority study, in severe to critical COVID19 subjects.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Ordinal scale of seven World Health Organization (WHO) categories of IL-17 inhibitor versus low dose IL-2 versus indirect IL-6 inhibitor (colchicine) versus standard treatment in the treatment of severe COVID-19</measure>
+    <time_frame>On the 21st day of study, since inclusion.</time_frame>
+    <description>proportion of patients with clinical improvement, defined by an increase of two points in the ordinal scale of seven WHO categories</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time until independence from oxygen therapy in days</measure>
+    <time_frame>During the follow-up period (30 days (+/- 2))</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ventilator free days (in days)</measure>
+    <time_frame>During the follow-up period (30 days (+/- 2))</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of worsening pulmonary involvement, defined as the presence of one of these criteria (absence or presence)</measure>
+    <time_frame>At some point in Day 7, Day 14 and Day 28</time_frame>
+    <description>Need to increase the inspired fraction of O2 (FIO2) to keep oxygen saturation stable or the need for mechanical ventilation; b. Increase in the number and / or extension of affected lung areas on chest computed tomography.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>In patients who needed mechanical ventilation, time to indicate mechanical ventilation</measure>
+    <time_frame>Day 0 up to 45 days</time_frame>
+    <description>(calculated in days, from entry into the protocol until orotracheal intubation, up to 45 days)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of hospitalization, in survivors</measure>
+    <time_frame>On day 28</time_frame>
+    <description>In days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Analysis of in-hospital mortality</measure>
+    <time_frame>Day 0 up to 45 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Analysis of general mortality</measure>
+    <time_frame>During the follow-up period (30 days (+/- 2))</time_frame>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Correlation among the inflammatory proteins D-dimer, C- reactive protein (CRP), Lactate Dehydrogenase (LDH) Test, and ferritin with:</measure>
+    <time_frame>During the follow-up period (30 days (+/- 2))</time_frame>
+    <description>7 points WHO original scale; b. Time until independence from oxygen therapy; c. Need for mechanical ventilation; d. Days free of mechanical ventilation; e. Mortality</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Changes from baseline of cytokine storm surrogate markers: white blood counts, lymphocyte counts, neutrophils counts, C-Reactive protein (CRP), ferritin (if applicable), D-dimer (if applicable)</measure>
+    <time_frame>at Day 0, Day 2, Day 4, Day 7, Day 14, Day 21 and Day 28 after randomization;</time_frame>
+    <description>Changes from baseline of cytokine storm surrogate markers: white blood counts, lymphocyte counts, neutrophils counts, CRP, ferritin (if applicable), D-dimer (if applicable)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in Score for Sepsis (SOFA score)</measure>
+    <time_frame>On days 7 and 14 of randomization</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Analysis of secondary infections</measure>
+    <time_frame>During the follow-up period (30 days (+/- 2))</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Qualitative and quantitative assessment of treatment- related adverse effects assessed by the Common Terminology Criteria for Adverse Event (CTCAE) version 5.0.</measure>
+    <time_frame>Within the first month</time_frame>
+  </other_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>IL-17 inhibitor (Ixekizumab)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients will receive study medication Ixekizumab 80 mg per week, (SC) once a week for 4 weeks or until discharge.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>IL-2 (Aldesleukin)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>1.5 million IU per day (SC) for 7 days or until discharge. Patients will receive study medication Aldesleukin 1.5 million IU per day (SC), for 7 days or until discharge.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Indirect IL-6 inhibitor (Colchicine)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients will receive study medication colchicine 0.5 mg every 8 hours for 3 days (PO), followed by 4 weeks (+/-7 days) 0.5 mg twice daily. If a dose is missed, it should not be replaced.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard of care</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Standard treatment, supplementation of O2 ventilation + standard treatment of the institution, which may include Dexamethasone according to the institutional protocol.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Ixekizumab</intervention_name>
+    <description>80 mg of IL-17 inhibitor</description>
+    <arm_group_label>IL-17 inhibitor (Ixekizumab)</arm_group_label>
+    <other_name>Taltz</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Aldesleukin</intervention_name>
+    <description>1.5 million IU (low-dose) of IL-2</description>
+    <arm_group_label>IL-2 (Aldesleukin)</arm_group_label>
+    <other_name>Proleukin</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Colchicine</intervention_name>
+    <description>0.5 mg of indirect IL-6 inhibitor</description>
+    <arm_group_label>Indirect IL-6 inhibitor (Colchicine)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Standard of care (SOC)</intervention_name>
+    <description>Active comparator (Corticoids and antiretrovirals)</description>
+    <arm_group_label>Standard of care</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Positive result in the quantitative real-time PCR (qPCR) test for SARS-CoV-2 in the&#xD;
+             respiratory tract;&#xD;
+&#xD;
+          -  Pneumonia confirmed by chest imaging and&#xD;
+&#xD;
+               1. Respiratory rate ≥ 24 IRPM (for adults) or&#xD;
+&#xD;
+               2. O2 saturation &lt;93% or&#xD;
+&#xD;
+               3. No improvement in O2 saturation, despite oxygen supply or&#xD;
+&#xD;
+               4. Arterial hypotension; or&#xD;
+&#xD;
+               5. Changes in capillary filling time; or&#xD;
+&#xD;
+               6. Changes in the level of consciousness; or&#xD;
+&#xD;
+               7. Oliguria;&#xD;
+&#xD;
+        IMPORTANT: The presence of increased respiratory rate or desaturation (items &quot;a&quot; and &quot;b&quot;)&#xD;
+        are criteria for hospital admission. Items &quot;c&quot; to &quot;g&quot; are considered criteria for ICU&#xD;
+        admission&#xD;
+&#xD;
+        Following the recommendations of The São Paulo State Health Secretariat, resolution SS-28&#xD;
+        of 03-Mar-2020, prepared by the Hospital das Clínicas of Medical School-USP.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Age &lt;18 years;&#xD;
+&#xD;
+          -  Refuse to sign the Informed Consent Form;&#xD;
+&#xD;
+          -  Patient's decision that their involvement is not in their interest;&#xD;
+&#xD;
+          -  Severe known liver disease (eg cirrhosis, with aminotransferase levels&gt; 5 times the&#xD;
+             reference value limit);&#xD;
+&#xD;
+          -  Pregnancy or breastfeeding period;&#xD;
+&#xD;
+          -  Severe bacterial infection;&#xD;
+&#xD;
+          -  Severe diarrhea;&#xD;
+&#xD;
+          -  Diverticulitis or intestinal perforation;&#xD;
+&#xD;
+          -  Infection known as HIV;&#xD;
+&#xD;
+          -  Presence of one of the following uncontrolled or unstable cardiovascular diseases:&#xD;
+             stroke, ECG confirmed acute ischemia or myocardial infarction and / or clinically&#xD;
+             significant dysrhythmia; • Known history of gastrointestinal bleeding, uncontrolled&#xD;
+             peptic ulcer or uncontrolled duodenal ulcer;&#xD;
+&#xD;
+          -  Known history of hemophilia or other bleeding disorders;&#xD;
+&#xD;
+          -  History of organ transplantation, congenital immunodeficiency;&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Fernando Rodrigues, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto, USP, SP, Brazil</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Eduardo Ramacciotti, MD, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Hospital e Maternidade Dr. Christóvão da Gama, Grupo Leforte, Santo André, SP, Brazil</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Leandro B Agati, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Hospital Leforte Liberdade, SP, Brazil</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Esper Kallas, MD, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Hospital das Clinicas de Sao Paulo (USP)</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Renato D Lopes, MD, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Duke University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Poliana Goulart</last_name>
+    <phone>+551144688183</phone>
+    <email>qualidade@svriglobal.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Faculdade de Medicina de Ribeirão Preto - USP</name>
+      <address>
+        <city>Ribeirão Preto</city>
+        <state>SP</state>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Livia A Bonifacio, PhD</last_name>
+      <email>livia_pb@usp.br</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital e Maternidade Christovão da Gama</name>
+      <address>
+        <city>Santo André</city>
+        <state>SP</state>
+        <zip>09030-010</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Poliana Goulart</last_name>
+      <phone>+551144688183</phone>
+      <email>qualidade@svriglobal.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>October 5, 2020</study_first_submitted>
+  <study_first_submitted_qc>January 23, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 26, 2021</study_first_posted>
+  <last_update_submitted>January 23, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 23, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 26, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Sao Paulo</investigator_affiliation>
+    <investigator_full_name>Fernando Bellissimo Rodrigues</investigator_full_name>
+    <investigator_title>Associated Professor - Dept of Social Medicine</investigator_title>
+  </responsible_party>
+  <keyword>Colchicine</keyword>
+  <keyword>Ixekizumab</keyword>
+  <keyword>Cytokine storm</keyword>
+  <keyword>Lung vasculitis</keyword>
+  <keyword>Recombinant Human Interleukin-2</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Aldesleukin</mesh_term>
+    <mesh_term>Colchicine</mesh_term>
+    <mesh_term>Ixekizumab</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

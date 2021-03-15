@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1256">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04699851</url>
+  </required_header>
+  <id_info>
+    <org_study_id>vigie-covid</org_study_id>
+    <nct_id>NCT04699851</nct_id>
+  </id_info>
+  <brief_title>Optimization of the Management of COVID-19 Through Tailored Recommendations to the Citizens</brief_title>
+  <acronym>VIGIE-COVID</acronym>
+  <official_title>Optimization of the Management of COVID-19 Through Tailored Recommendations to the Citizens</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Laval University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Réseau-1 Québec</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Réseau de recherche en santé des populations du Québec</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Laval University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      People with chronic diseases including atherosclerotic heart disease, high blood pressure and&#xD;
+      diabetes are considered as a group with a high vulnerability. The COVID-19 pandemic ranging&#xD;
+      the world is rendering these people with chronic diseases even more vulnerable as they are&#xD;
+      subjected to a higher risk of COVID-19 related complications. General recommendations issued&#xD;
+      by the public health departments (PHD) do not take into consideration the personal situation&#xD;
+      of every citizen and therefore do not provide a personalized guidance to people with high&#xD;
+      vulnerability. The investigators hypothesis is that if participants receive adapted and&#xD;
+      personalized public health recommendations, they will be more adherent to the recommendations&#xD;
+      issued by the PHD and have better health outcomes than those who receive only general&#xD;
+      recommendations.&#xD;
+&#xD;
+      In the current trial, the investigators propose to co-develop a web-based portal&#xD;
+      (Vigie-COVID) that provides tailored recommendations based on the situation of each&#xD;
+      participant and adapted to the COVID-19 status, the behavior risk associated to&#xD;
+      contamination, the risk of complications and the health risks related to confinement. Using a&#xD;
+      cohort of people aged 18 and over in the province of Quebec, this randomized clinical trial&#xD;
+      will use a nested a double-blind experimental design where the tailored recommendations will&#xD;
+      be compared to the general recommendations of the PHD. The expected results from this trial&#xD;
+      include: 1) Improvement in the rate of compliance with the PHD recommendations in the group&#xD;
+      receiving the tailored recommendations; 2) Improvement of the quality and the quantity of the&#xD;
+      COVID 19 epidemiological data available for population health research in the Quebec region;&#xD;
+      3) Decrease in the load in clinics (self-diagnosis); 4) Improving the state of health of&#xD;
+      individuals. The portal will be co-constructed in collaboration between various key players&#xD;
+      (citizens, patient partners, clinicians, researchers, companies, managers, decision-makers&#xD;
+      and representatives of the PHD) and aims to allow the recommendations of the PHD to be&#xD;
+      tailored according to the specific situation of each citizen-user in order to promote&#xD;
+      preventive behavior in times of pandemic. Overall, the ultimate goal is to obtain a global&#xD;
+      epidemiological portrait in order to identify the determinants and indicators of sustainable&#xD;
+      health and their impacts. After the pandemic, this might enable the implementation of a&#xD;
+      personalized monitoring of chronic diseases.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The COVID-19 pandemic is raging in the world, including Quebec. As of May 22, 2020, more than&#xD;
+      46,141 cases have been identified in Quebec, including 3,865 deaths. The virus causes&#xD;
+      heterogeneous clinical manifestations. People may be asymptomatic, have mild to moderate&#xD;
+      symptoms (cough, fever, myalgia), or a severe form requiring hospitalization and transfer to&#xD;
+      intensive care units. In a small proportion of people, it can cause death. Health emergency&#xD;
+      status was declared in Quebec on March 13, 2020 to allow the deployment of the measures&#xD;
+      suggested by the Public Health Department (PHD). Different types of recommendations (general,&#xD;
+      targeted, personalized and tailored) are available to optimize the prevention and management&#xD;
+      of COVID-19. General interventions are aimed at the entire population (eg: washing hands,&#xD;
+      keeping 2 meters apart). Targeted interventions target a vulnerable population (eg: patients&#xD;
+      with diabetes, the elderly, etc.). Personalized interventions are addressed specifically to a&#xD;
+      person, without necessarily being adapted to that person (eg: a general letter addressed to&#xD;
+      an individual by his name written in the header). The appropriate intervention considers the&#xD;
+      individual's reality (eg medical, environmental). Tailored interventions require a capacity&#xD;
+      for dynamic analysis and evaluation of information but are generally more effective in&#xD;
+      changing behavior (3). This evaluation also allows sorting of relevant information. Indeed,&#xD;
+      during a pandemic, a citizen may have a perception of contradictory information or be&#xD;
+      overloaded with information from different media. The tailored assessment allows citizens to&#xD;
+      have a clearer message in their reality. As mentioned above, in the case of COVID-19, the&#xD;
+      heterogeneity of symptom presentation implies different realities for each individual. In a&#xD;
+      potentially large proportion of cases, people may be asymptomatic or have mild to moderate&#xD;
+      flu-like symptoms. Thus, many infected people will not consult in the health network. It has&#xD;
+      been estimated that there are 10 times more people infected than those who are screened.&#xD;
+      Establishing a diagnosis of infected people is a key factor in ensuring a coherent&#xD;
+      epidemiological watch at the PHD. It is an indicator to monitor deconfinement and predict the&#xD;
+      second wave. COVID-19 infection is therefore a reportable disease. Moreover, diagnosing the&#xD;
+      disease in individuals with low symptoms makes them aware of their risk of transmission, as&#xD;
+      well as that of their contacts, so that they can adapt their behavior to the recommendations&#xD;
+      of the PHD. In addition, medical monitoring is critical in some vulnerable people with&#xD;
+      COVID-19. In fact, people aged 70 and / or suffering from certain chronic diseases (such as&#xD;
+      high blood pressure, atherosclerotic heart disease, obesity and diabetes) are at greater risk&#xD;
+      of developing the severe form of the disease. Citizens seem less inclined to consult their&#xD;
+      doctors during this period of disruption in the network. The preventive recommendations for&#xD;
+      these people, whether or not they have COVID-19, must be absolutely tailored in order to&#xD;
+      provide health care. Stricter preventive containment measures can have a negative impact on&#xD;
+      functional capacity or the risk of co-morbidities in this population due to changes in&#xD;
+      healthy lifestyle habits. Providing recommendations tailored to their situation on these&#xD;
+      habits (eg physical activity, healthy eating, sleep) could help reduce these negative&#xD;
+      effects.&#xD;
+&#xD;
+      In order to improve the health and safety of the population, the investigators propose to&#xD;
+      co-develop, with citizens, patient partners, clinicians, companies, managers, decision-makers&#xD;
+      and representatives of the PHD, a citizen portal in order to produce appropriate&#xD;
+      recommendations related to the COVID-19 status (positive or negative), the risk of&#xD;
+      complications (severity of symptoms and medical history), the risk of contamination&#xD;
+      (environmental prevalence of the disease) and the risks related to confinement. This portal&#xD;
+      will be adapted to level 2 literacy and validated by usability tests. From questionnaires&#xD;
+      self-administered to citizens, the tool will allow dynamic monitoring of symptoms related to&#xD;
+      COVID-19, collaborate with the PHD to improve the epidemiological portrait of the situation&#xD;
+      by identifying people who do not consult in the health system network and to bridge the gap&#xD;
+      with their family doctor.&#xD;
+&#xD;
+      Objectives: 1) Evaluate the feasibility of an efficient collaborative system between the PHD,&#xD;
+      citizens, patients and health professionals allowing the optimization of appropriate&#xD;
+      recommendations in both prevention and detection during the COVID-19 pandemic; 2) Produce&#xD;
+      recommendations concerning preventive behaviors related to COVID-19 tailored to the medical&#xD;
+      and environmental reality of each citizen; 3) Compare the proportion of users complying with&#xD;
+      the recommendations between those receiving tailored recommendations and those receiving&#xD;
+      general recommendations; 4) Observe the evolution of the state of health of individuals in&#xD;
+      real time by collecting socio-demographic, psychosocial and physiological data, including&#xD;
+      symptoms related to COVID-19, and data from measures surrounding confinement to the using a&#xD;
+      self-administered assessment tool.&#xD;
+&#xD;
+      Methodology:&#xD;
+&#xD;
+      Specification: This is a clinical intervention study of a cohort including a nested and&#xD;
+      randomized double-blind experimental design, where the tailored recommendations will be&#xD;
+      compared to the general recommendations. Population and sample: People aged 18 and over,&#xD;
+      residing in the Quebec City area, will be solicited according to an advertising strategy and&#xD;
+      different collaborations which will enable the access to a cohort of 1407 participants (as of&#xD;
+      May 22, 2020).&#xD;
+&#xD;
+      Programming: This project will be designed in three parts. The first component consists of&#xD;
+      co-developing a citizen portal including a secure database hosted on the PULSAR platform to&#xD;
+      record the information of each participant including their current state of health (chronic&#xD;
+      diseases, COVID-19 status, symptoms), their geographic location (postal code or dissemination&#xD;
+      area) and their psycho-social situation. The second part consists of using the information&#xD;
+      from the first part and analyzing them using a decision-making algorithm to propose&#xD;
+      recommendations tailored to the reality of each person which will be dynamically updated&#xD;
+      according to the evolution of the pandemic and the person's state of health. A measurement&#xD;
+      will take place after 3 weeks of the procedure.&#xD;
+&#xD;
+      Statistical Analysis Plan: This analysis plan was developed in collaboration with&#xD;
+      biostatisticians and epidemiologists from the VITAM Research Center. Being in the context of&#xD;
+      a 1: 1 randomized trial with an intervention group and a control group, the investigators&#xD;
+      calculated the number of individuals with a threshold of statistical significance of 5%.&#xD;
+      According to DiMatteo et al., adherence to medical recommendations is 50% to 75% in the&#xD;
+      general population. In order to be conservative, the investigators therefore assumed a 50%&#xD;
+      membership ratio for the control group (general recommendations). The working hypothesis is&#xD;
+      that individuals receiving adapted recommendations will adhere to the recommendations more&#xD;
+      than those in the control group. Based on the above formula, the minimum required number of&#xD;
+      people for each group varies with the effect size (the minimum difference to be able to&#xD;
+      detect). In order to detect a minimum intergroup difference of effect of 10% (if any) in the&#xD;
+      proportion of individuals complying with the recommendations, 514 individuals per group will&#xD;
+      be needed. Descriptive analyzes will be performed to describe the sample. For continuous&#xD;
+      quantitative variables, measures of central tendencies will be obtained and for categorical&#xD;
+      variables, absolute and relative frequencies will be reported. The rate of compliance with&#xD;
+      recommendations by intervention group as well as the prevalence of COVID19 status and&#xD;
+      reportable disease will be calculated. The investigators will then proceed to a temporal&#xD;
+      analysis by profile enumeration: the start of each time interval will be marked each time a&#xD;
+      change in recommendation occurs. Given the exploratory nature of these analyzes the primary&#xD;
+      outcome will be dichotomized (participants who follow the recommendations versus the others).&#xD;
+      The difference in proportions will be calculated by time interval and then a&#xD;
+      Cochrane-Armitage test will be done to test the time trend of compliance with the&#xD;
+      recommendations in each of the intervention groups. All statistical analyzes will be&#xD;
+      performed using SAS software version 9.4.&#xD;
+&#xD;
+      Recruitment: An existing portal, developed with patients over the past 2 years, will be&#xD;
+      adapted for the purposes of the project (PULSAR). Collaboration with an already existent&#xD;
+      public health project, the MAVIPAN project, will allow the recruitment of participants who&#xD;
+      have already agreed to be contacted for other projects. The MAVIPAN questionnaire already&#xD;
+      contains several socio-demographic information and on the physical and psychological health&#xD;
+      of the participants. The other questions will be adapted from existing tools (clinical&#xD;
+      diagnostic criteria for COVID-19, MADO, electronic questionnaires from the INSPQ, iCARE&#xD;
+      questionnaire). All data will be hosted on PULSAR, a collaborative platform for research and&#xD;
+      intervention in sustainable health, ensuring data security. A partnership with the PHD will&#xD;
+      make it possible to harmonize collection tools according to national and international&#xD;
+      standards to facilitate data collection and analysis.&#xD;
+&#xD;
+      Timeline: The platform will be launched in November 2020. Recruitment and data collection in&#xD;
+      the context of the project will take place until April 2021.&#xD;
+&#xD;
+      Expected results and impact:&#xD;
+&#xD;
+      Primary: Improvement in the rate of compliance with the PHD recommendations based on the&#xD;
+      iCARE study. Measurement of the number of exits and contacts (e.g .: vulnerable person going&#xD;
+      out (danger for them) or positive COVID-19 person going out (danger for others), going to a&#xD;
+      doctor vs staying at home, doing their own grocery shopping vs having it delivered, going to&#xD;
+      work or staying at home, going out for sports (running, walking).&#xD;
+&#xD;
+      Secondary: 1. COVID-19 status (new cases diagnosed); improved data collected in the&#xD;
+      population (Public Health); reduction in the burden in clinics (self-diagnosis) 2. Patient&#xD;
+      health status: assessed by self-reported health questionnaires already integrated into the&#xD;
+      PULSAR platform (Chronic disease; socio-demographic data; sleep; lifestyle habits; quality of&#xD;
+      life; physiological data; negative effects linked to confinement and social distancing (e.g.&#xD;
+      loss of functional capacity, negative impact on healthy lifestyles); related to&#xD;
+      recommendations for vulnerable populations. The tailored recommendations will allow citizens&#xD;
+      to receive precise information related to their medical condition and their environment, to&#xD;
+      better understand the measures and to comply more closely with them. Being in the period of&#xD;
+      deconfinement, reducing risky behavior can reduce the transmission and spread of COVID-19.&#xD;
+      The data will be useful to front-line clinicians to optimize the management of COVID-19 by&#xD;
+      having recommendations tailored to the medical condition of their patients. The PHD will&#xD;
+      benefit from a more realistic portrait of the prevalence of symptoms related to COVID-19 and&#xD;
+      optimize the use of its resources. In addition, this data will make it possible to make&#xD;
+      recommendations related to reducing the risks associated with confinement for vulnerable&#xD;
+      populations. The Vigie-COVID portal will remain after the pandemic to monitor epidemics but&#xD;
+      can also be used to monitor vulnerable populations with chronic diseases. The link that&#xD;
+      unites citizens, the PHD and health professionals will last, given the added value for the&#xD;
+      health network.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 18, 2020</start_date>
+  <completion_date type="Anticipated">May 18, 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 18, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>The project has 2 arms. The intervention arm are participant who will receive tailored recommendations about health prevention in a pandemic based on their answers in the survey. The control group will receive general recommendations about health prevention in a pandemic.</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Single (Participant)</masking>
+    <masking_description>Participant do not know if they received tailored or general recommendations.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>improvement in mask wearing behavior</measure>
+    <time_frame>3 months</time_frame>
+    <description>The measure will be the frequency of mask wearing when the participant is in a situation where it is recommended by public health to wear the mask</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>improvement in social distancing behavior</measure>
+    <time_frame>3 months</time_frame>
+    <description>The measure will be the frequency of social distancing (2 meters or more) when the participant is in a situation where it is recommended by public health.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>improvement in hand washing behavior</measure>
+    <time_frame>3 months</time_frame>
+    <description>The measure will be the frequency of hand washing when the participant is in a situation where it is recommended by public health.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>improvement in daily fruit consumption</measure>
+    <time_frame>3 months</time_frame>
+    <description>the measure will be the portion of fruit and vegetables consumed per day</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>improvement in the amount of daily sleep hours</measure>
+    <time_frame>3 months</time_frame>
+    <description>The measure will be the amount of hour of sleep by day</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>improvement in the amount of weekly minutes of exercise</measure>
+    <time_frame>3 months</time_frame>
+    <description>The measure will be the amount of minutes of moderate to intense exercise by week</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Platform participation</measure>
+    <time_frame>3 months</time_frame>
+    <description>The amount of total inscription of participants</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Platform sustainability short term</measure>
+    <time_frame>3 weeks</time_frame>
+    <description>the number of participants who respond to the survey 3 weeks after the start of the survey</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Platform sustainability long term</measure>
+    <time_frame>3 months</time_frame>
+    <description>the number of participants who respond to the survey 3 months after the start of the survey</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">1200</enrollment>
+  <condition>COVID19</condition>
+  <condition>Tailored Recommendations</condition>
+  <condition>Citizen Self-reported Symptoms</condition>
+  <arm_group>
+    <arm_group_label>Intervention</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The intervention arm are participants who will receive tailored recommendations about health prevention in a pandemic based on their answers in the survey.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>The control group will receive general recommendations about health prevention in a pandemic.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Tailored recommendations</intervention_name>
+    <description>Tailored informations delivered by email about health prevention behavior in a pandemic based on the answers in the survey.</description>
+    <arm_group_label>Intervention</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>General recommendation</intervention_name>
+    <description>The control group will receive general recommendations by email about health prevention in a pandemic.</description>
+    <arm_group_label>Control</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  18 years old&#xD;
+&#xD;
+          -  Living in Canada&#xD;
+&#xD;
+          -  Able to give an informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  none&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jean-Sébastien Paquette</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Laval University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jean-Sébastien Paquette, MD</last_name>
+    <phone>450-759-3060</phone>
+    <email>jean-sebastien.paquette@fmed.ulaval.ca</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Laval University</name>
+      <address>
+        <city>Quebec</city>
+        <zip>g1v0a6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jean-Sébastien Paquette, MD MSc</last_name>
+      <phone>450-759-3060</phone>
+      <email>jean-sebastien.paquette@fmed.ulaval.ca</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <link>
+    <url>http://www.vigie-covid.ca</url>
+    <description>Main website for the project, it explain the project and links to the research platform</description>
+  </link>
+  <link>
+    <url>https://www.inspq.qc.ca/covid-19/donnees</url>
+    <description>Données COVID-19 au Québec. Institut national de santé publique du Québec (INSPQ)</description>
+  </link>
+  <link>
+    <url>https://www.canada.ca/fr/sante-publique/services/maladies/2019-nouveau-coronavirus/professionnels-sante/mesures-sante-publique-utilisees-reduire-covid-19.html</url>
+    <description>Mesures communautaires de santé publique pour atténuer la propagation des maladies à coronavirus (COVID-19) au Canada. Gouvernement du Canada</description>
+  </link>
+  <link>
+    <url>https://www.hcsp.fr/explore.cgi/avisrapportsdomaine?clefr=775</url>
+    <description>Avis provisoire du 14 mars 2020. relatif à la prise en charge des patients à risque de forme sévère de Covid-19</description>
+  </link>
+  <link>
+    <url>https://sante.lefigaro.fr/article/coronavirus-l-inquietante-baisse-des-consultations-medicales-en-ville/</url>
+    <description>Roy S, 2020. Coronavirus: l'inquiétante baisse des consultations médicales en ville. Le Figaro</description>
+  </link>
+  <link>
+    <url>https://www23.statcan.gc.ca/imdb/p2SV_f.pl?Function=getSurvey&amp;Id=15034</url>
+    <description>Statistique Canada. Enquête internationale sur l'alphabétisation et les compétence des adultes (EIA CA) 2003</description>
+  </link>
+  <link>
+    <url>https://www.ciusss-capitalenationale.gouv.qc.ca/nouvelles/covid-19-lancement-dune-vaste-etude-sur-le-vecu-de-la-pandemie-au-quebec-0</url>
+    <description>&quot;MAVIPAN : Ma vie et la pandémie au Québec&quot;</description>
+  </link>
+  <link>
+    <url>https://www150.statcan.gc.ca/n1/pub/92-195-x/2011001/geo/da-ad/def-fra.htm</url>
+    <description>Aire de diffusion : définition détaillée. Statistique Canada.</description>
+  </link>
+  <link>
+    <url>https://mbmc-cmcm.ca/covid19/</url>
+    <description>International Assessment of COVID-19-related attitude, concerns, responses and impacts in relation to public health policies (iCARE). Centre de Médecine Comportementale de Montréal (CMCM), Laboratoire conjoint CIUSSS-NIM/UQAM/Concordia</description>
+  </link>
+  <reference>
+    <citation>Lustria ML, Noar SM, Cortese J, Van Stee SK, Glueckauf RL, Lee J. A meta-analysis of web-delivered tailored health behavior change interventions. J Health Commun. 2013;18(9):1039-69. doi: 10.1080/10810730.2013.768727. Epub 2013 Jun 10. Erratum in: J Health Commun. 2013;18(11):1397.</citation>
+    <PMID>23750972</PMID>
+  </reference>
+  <reference>
+    <citation>Williams SN, Armitage CJ, Tampe T, Dienes K. Public perceptions and experiences of social distancing and social isolation during the COVID-19 pandemic: a UK-based focus group study. BMJ Open. 2020 Jul 20;10(7):e039334. doi: 10.1136/bmjopen-2020-039334.</citation>
+    <PMID>32690752</PMID>
+  </reference>
+  <reference>
+    <citation>Islam AKMN, Laato S, Talukder S, Sutinen E. Misinformation sharing and social media fatigue during COVID-19: An affordance and cognitive load perspective. Technol Forecast Soc Change. 2020 Oct;159:120201. doi: 10.1016/j.techfore.2020.120201. Epub 2020 Jul 12.</citation>
+    <PMID>32834137</PMID>
+  </reference>
+  <reference>
+    <citation>Chow EJ, Schwartz NG, Tobolowsky FA, Zacks RLT, Huntington-Frazier M, Reddy SC, Rao AK. Symptom Screening at Illness Onset of Health Care Personnel With SARS-CoV-2 Infection in King County, Washington. JAMA. 2020 May 26;323(20):2087-2089. doi: 10.1001/jama.2020.6637.</citation>
+    <PMID>32301962</PMID>
+  </reference>
+  <reference>
+    <citation>Stringhini S, Wisniak A, Piumatti G, Azman AS, Lauer SA, Baysson H, De Ridder D, Petrovic D, Schrempft S, Marcus K, Yerly S, Arm Vernez I, Keiser O, Hurst S, Posfay-Barbe KM, Trono D, Pittet D, Gétaz L, Chappuis F, Eckerle I, Vuilleumier N, Meyer B, Flahault A, Kaiser L, Guessous I. Seroprevalence of anti-SARS-CoV-2 IgG antibodies in Geneva, Switzerland (SEROCoV-POP): a population-based study. Lancet. 2020 Aug 1;396(10247):313-319. doi: 10.1016/S0140-6736(20)31304-0. Epub 2020 Jun 11.</citation>
+    <PMID>32534626</PMID>
+  </reference>
+  <reference>
+    <citation>Zheng Z, Peng F, Xu B, Zhao J, Liu H, Peng J, Li Q, Jiang C, Zhou Y, Liu S, Ye C, Zhang P, Xing Y, Guo H, Tang W. Risk factors of critical &amp; mortal COVID-19 cases: A systematic literature review and meta-analysis. J Infect. 2020 Aug;81(2):e16-e25. doi: 10.1016/j.jinf.2020.04.021. Epub 2020 Apr 23.</citation>
+    <PMID>32335169</PMID>
+  </reference>
+  <reference>
+    <citation>Ammar A, Brach M, Trabelsi K, Chtourou H, Boukhris O, Masmoudi L, Bouaziz B, Bentlage E, How D, Ahmed M, Müller P, Müller N, Aloui A, Hammouda O, Paineiras-Domingos LL, Braakman-Jansen A, Wrede C, Bastoni S, Pernambuco CS, Mataruna L, Taheri M, Irandoust K, Khacharem A, Bragazzi NL, Chamari K, Glenn JM, Bott NT, Gargouri F, Chaari L, Batatia H, Ali GM, Abdelkarim O, Jarraya M, Abed KE, Souissi N, Van Gemert-Pijnen L, Riemann BL, Riemann L, Moalla W, Gómez-Raja J, Epstein M, Sanderman R, Schulz SV, Jerg A, Al-Horani R, Mansi T, Jmail M, Barbosa F, Ferreira-Santos F, Šimunič B, Pišot R, Gaggioli A, Bailey SJ, Steinacker JM, Driss T, Hoekelmann A. Effects of COVID-19 Home Confinement on Eating Behaviour and Physical Activity: Results of the ECLB-COVID19 International Online Survey. Nutrients. 2020 May 28;12(6). pii: E1583. doi: 10.3390/nu12061583.</citation>
+    <PMID>32481594</PMID>
+  </reference>
+  <reference>
+    <citation>Altena E, Baglioni C, Espie CA, Ellis J, Gavriloff D, Holzinger B, Schlarb A, Frase L, Jernelöv S, Riemann D. Dealing with sleep problems during home confinement due to the COVID-19 outbreak: Practical recommendations from a task force of the European CBT-I Academy. J Sleep Res. 2020 Aug;29(4):e13052. doi: 10.1111/jsr.13052. Epub 2020 May 4. Review.</citation>
+    <PMID>32246787</PMID>
+  </reference>
+  <reference>
+    <citation>Jiménez-Pavón D, Carbonell-Baeza A, Lavie CJ. Physical exercise as therapy to fight against the mental and physical consequences of COVID-19 quarantine: Special focus in older people. Prog Cardiovasc Dis. 2020 May - Jun;63(3):386-388. doi: 10.1016/j.pcad.2020.03.009. Epub 2020 Mar 24. Review.</citation>
+    <PMID>32220590</PMID>
+  </reference>
+  <reference>
+    <citation>DiMatteo MR. Variations in patients' adherence to medical recommendations: a quantitative review of 50 years of research. Med Care. 2004 Mar;42(3):200-9.</citation>
+    <PMID>15076819</PMID>
+  </reference>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>November 25, 2020</study_first_submitted>
+  <study_first_submitted_qc>January 6, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 7, 2021</study_first_posted>
+  <last_update_submitted>January 6, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 6, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Laval University</investigator_affiliation>
+    <investigator_full_name>Jean-Sébastien Paquette</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>PULSAR santé durable platform</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="596">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04623138</url>
+  </required_header>
+  <id_info>
+    <org_study_id>COVID Signals</org_study_id>
+    <nct_id>NCT04623138</nct_id>
+  </id_info>
+  <brief_title>A Virtual Prospective Study Exploring Activity Trackers and COVID-19 Infections</brief_title>
+  <official_title>A Decentralized, Prospective Study Exploring the Relationship Between Passively-collected Data From Wearable Activity Devices and SARS-CoV-2 Infection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Evidation Health</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Biomedical Advanced Research and Development Authority</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Eli Lilly and Company</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Bill and Melinda Gates Foundation</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Vir Biotechnology, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>United States Department of Defense</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Evidation Health</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Prospective, observational, exploratory study exploring the relationship between&#xD;
+      passively-collected data from wearable activity devices and SARS-CoV-2 infection&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 2020</start_date>
+  <completion_date type="Anticipated">May 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Development of database containing physiological, behavioral data in combination with SARS-CoV-2 infection</measure>
+    <time_frame>Through study completion, an average of 7 months</time_frame>
+    <description>To develop a database of physiological and behavioral data via wearable devices and self-reported questionnaires (e.g.,symptoms) combined with laboratory confirmation of SARS- CoV-2 infection.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Correlation between SARS-CoV-2 infection and collected wearable data and self-reported data</measure>
+    <time_frame>Through study completion, an average of 7 months</time_frame>
+    <description>Physiological and behavioral data from wearable devices (Garmin vivosmart 4, Empatica E4) , patient self-reported data questionnaires (includes but is not limited to demographics, symptoms, medical history, lifestyle, comorbidities, and Medical care utilization), and laboratory diagnostic confirmation of SARS-CoV-2 infection.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Development of analytical models for real-time COVID-19 surveillance at the individual and population levels</measure>
+    <time_frame>Through study completion, an average of 7 months</time_frame>
+    <description>Physiological and behavioral data from wearable devices (Garmin vivosmart 4, Empatica E4) , patient self-reported data questionnaires (includes but is not limited to demographics, symptoms, medical history, lifestyle, comorbidities, and Medical care utilization), and laboratory diagnostic confirmation of SARS-CoV-2 infection.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Performance of the analytical models for real-time COVID-19 surveillance at the individual and population levels.</measure>
+    <time_frame>Through study completion, an average of 7 months</time_frame>
+    <description>Model performance and accuracy characteristics of the analytical models on hold out data sets</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">950</enrollment>
+  <condition>Covid19</condition>
+  <condition>SARS-CoV Infection</condition>
+  <arm_group>
+    <arm_group_label>Garmin Study Device Group</arm_group_label>
+    <description>Individuals who are randomly assigned to receive the Garmin vívosmart® 4</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Empatica Study Device Group</arm_group_label>
+    <description>Individuals who are randomly assigned to receive the Empatica E4</description>
+  </arm_group>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      The Phosphorus COVID-19 RT-qPCR Test will be used for the qualitative detection of nucleic&#xD;
+      acid from SARS-CoV-2 in saliva specimens that are either self-collected at home or in a&#xD;
+      healthcare setting using the Oragene Dx OGD-510 collection device&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Adult participants (ages 18+) who reside in the contiguous United States and are at&#xD;
+        elevated risk of contracting COVID-19.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adults 18+ years of age&#xD;
+&#xD;
+          -  Lives in the United States&#xD;
+&#xD;
+          -  Speaks, reads, and understands English&#xD;
+&#xD;
+          -  Willing and able to use and wear a wrist-worn activity device daily, during the day&#xD;
+             and during sleep, or as much as is possible, for the duration of the study&#xD;
+&#xD;
+          -  Meets minimum software and device requirements for the wrist-worn activity device&#xD;
+             (Apple iOS 12 and up, Android version 6.0 and up)&#xD;
+&#xD;
+          -  Willing to answer daily, weekly and monthly surveys for the duration of the study&#xD;
+&#xD;
+          -  Willing to provide weekly self-collected saliva samples, plus one additional sample if&#xD;
+             prompted to do so (up to 9 total samples), and ship back the sample(s) within 24 hours&#xD;
+             of sample collection&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Self-reported previous diagnosis of COVID-19&#xD;
+&#xD;
+          -  Currently participating in any type of clinical trial&#xD;
+&#xD;
+          -  Lives in the District of Columbia (Washington D.C.), Alaska, Hawaii, Arizona, Nevada,&#xD;
+             U.S. military base located overseas, or U.S. territories (Puerto Rico, U.S. Virgin&#xD;
+             Islands, Guam, Northern Mariana Island, or American Samoa)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ernesto Ramirez, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Evidation Health</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Luca Foschini, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Evidation Health</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ernesto Ramirez, PhD</last_name>
+    <phone>(415) 429-1541</phone>
+    <email>study+covidsignals@myachievement.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Joyce HN Nortey, MPH, MSBH</last_name>
+    <phone>(415) 429-1541</phone>
+    <email>study+covidsignals@myachievement.com</email>
+  </overall_contact_backup>
+  <link>
+    <url>http://www.who.int/news-room/detail/30-01-2020-statement-on-the-second-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-outbreak-of-novel-coronavirus-(2019-ncov)</url>
+    <description>Statement on the second meeting of the International Health Regulations (2005) Emergency Committee regarding the outbreak of novel coronavirus (2019-nCoV). (n.d.)</description>
+  </link>
+  <link>
+    <url>https://coronavirus.jhu.edu/map.html</url>
+    <description>COVID-19 Map. (n.d.)</description>
+  </link>
+  <link>
+    <url>https://www.who.int/news-room/commentaries/detail/modes-of-transmission-of-virus-causing-covid-19-implications-for-ipc-precaution-recommendations</url>
+    <description>Modes of transmission of virus causing COVID-19: Implications for IPC precaution recommendations. (n.d.).</description>
+  </link>
+  <link>
+    <url>https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf?sfvrsn=5ae25bc7_6</url>
+    <description>Coronavirus disease 2019 (COVID-19) Situation Report - 73 (Issue brief No. 73).</description>
+  </link>
+  <link>
+    <url>https://www.who.int/docs/default-source/coronaviruse/transcripts/who-audio-emergencies-coronavirus-press-conference-full-01apr2020-final.pdf?sfvrsn=573dc140_2</url>
+    <description>World Health Organization. (2020, April 1). COVID-19 - Virtual Press Conference [Press release].</description>
+  </link>
+  <link>
+    <url>https://ouraring.com/ucsf-tempredict-study</url>
+    <description>UCSF TemPredict Study. (n.d.).</description>
+  </link>
+  <link>
+    <url>https://innovations.stanford.edu/wearables</url>
+    <description>COVID-19 Wearables Study. (n.d.).</description>
+  </link>
+  <link>
+    <url>https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html</url>
+    <description>Symptoms of Coronavirus. (2020, May 13)</description>
+  </link>
+  <link>
+    <url>https://www.who.int/health-topics/coronavirus#tab=tab_3</url>
+    <description>Coronavirus. (n.d.)</description>
+  </link>
+  <link>
+    <url>http://www.fda.gov/media/138652/download</url>
+    <description>Phosphorus COVID-19 RT-QPCR Test - Letter of Authorization</description>
+  </link>
+  <link>
+    <url>https://www.dnagenotek.com/US/pdf/PD-BR-00041.pdf</url>
+    <description>Oragene-Dx OGD-510</description>
+  </link>
+  <reference>
+    <citation>Wu Z, McGoogan JM. Characteristics of and Important Lessons From the Coronavirus Disease 2019 (COVID-19) Outbreak in China: Summary of a Report of 72 314 Cases From the Chinese Center for Disease Control and Prevention. JAMA. 2020 Apr 7;323(13):1239-1242. doi: 10.1001/jama.2020.2648.</citation>
+    <PMID>32091533</PMID>
+  </reference>
+  <reference>
+    <citation>Lauer SA, Grantz KH, Bi Q, Jones FK, Zheng Q, Meredith HR, Azman AS, Reich NG, Lessler J. The Incubation Period of Coronavirus Disease 2019 (COVID-19) From Publicly Reported Confirmed Cases: Estimation and Application. Ann Intern Med. 2020 May 5;172(9):577-582. doi: 10.7326/M20-0504. Epub 2020 Mar 10.</citation>
+    <PMID>32150748</PMID>
+  </reference>
+  <reference>
+    <citation>Arons MM, Hatfield KM, Reddy SC, Kimball A, James A, Jacobs JR, Taylor J, Spicer K, Bardossy AC, Oakley LP, Tanwar S, Dyal JW, Harney J, Chisty Z, Bell JM, Methner M, Paul P, Carlson CM, McLaughlin HP, Thornburg N, Tong S, Tamin A, Tao Y, Uehara A, Harcourt J, Clark S, Brostrom-Smith C, Page LC, Kay M, Lewis J, Montgomery P, Stone ND, Clark TA, Honein MA, Duchin JS, Jernigan JA; Public Health-Seattle and King County and CDC COVID-19 Investigation Team. Presymptomatic SARS-CoV-2 Infections and Transmission in a Skilled Nursing Facility. N Engl J Med. 2020 May 28;382(22):2081-2090. doi: 10.1056/NEJMoa2008457. Epub 2020 Apr 24.</citation>
+    <PMID>32329971</PMID>
+  </reference>
+  <reference>
+    <citation>Gandhi M, Yokoe DS, Havlir DV. Asymptomatic Transmission, the Achilles' Heel of Current Strategies to Control Covid-19. N Engl J Med. 2020 May 28;382(22):2158-2160. doi: 10.1056/NEJMe2009758. Epub 2020 Apr 24.</citation>
+    <PMID>32329972</PMID>
+  </reference>
+  <reference>
+    <citation>CDC COVID-19 Response Team. Preliminary Estimates of the Prevalence of Selected Underlying Health Conditions Among Patients with Coronavirus Disease 2019 - United States, February 12-March 28, 2020. MMWR Morb Mortal Wkly Rep. 2020 Apr 3;69(13):382-386. doi: 10.15585/mmwr.mm6913e2.</citation>
+    <PMID>32240123</PMID>
+  </reference>
+  <reference>
+    <citation>Guan WJ, Ni ZY, Hu Y, Liang WH, Ou CQ, He JX, Liu L, Shan H, Lei CL, Hui DSC, Du B, Li LJ, Zeng G, Yuen KY, Chen RC, Tang CL, Wang T, Chen PY, Xiang J, Li SY, Wang JL, Liang ZJ, Peng YX, Wei L, Liu Y, Hu YH, Peng P, Wang JM, Liu JY, Chen Z, Li G, Zheng ZJ, Qiu SQ, Luo J, Ye CJ, Zhu SY, Zhong NS; China Medical Treatment Expert Group for Covid-19. Clinical Characteristics of Coronavirus Disease 2019 in China. N Engl J Med. 2020 Apr 30;382(18):1708-1720. doi: 10.1056/NEJMoa2002032. Epub 2020 Feb 28.</citation>
+    <PMID>32109013</PMID>
+  </reference>
+  <reference>
+    <citation>Chow EJ, Schwartz NG, Tobolowsky FA, Zacks RLT, Huntington-Frazier M, Reddy SC, Rao AK. Symptom Screening at Illness Onset of Health Care Personnel With SARS-CoV-2 Infection in King County, Washington. JAMA. 2020 May 26;323(20):2087-2089. doi: 10.1001/jama.2020.6637.</citation>
+    <PMID>32301962</PMID>
+  </reference>
+  <reference>
+    <citation>Han C, Duan C, Zhang S, Spiegel B, Shi H, Wang W, Zhang L, Lin R, Liu J, Ding Z, Hou X. Digestive Symptoms in COVID-19 Patients With Mild Disease Severity: Clinical Presentation, Stool Viral RNA Testing, and Outcomes. Am J Gastroenterol. 2020 Jun;115(6):916-923. doi: 10.14309/ajg.0000000000000664.</citation>
+    <PMID>32301761</PMID>
+  </reference>
+  <reference>
+    <citation>Menni C, Valdes AM, Freidin MB, Sudre CH, Nguyen LH, Drew DA, Ganesh S, Varsavsky T, Cardoso MJ, El-Sayed Moustafa JS, Visconti A, Hysi P, Bowyer RCE, Mangino M, Falchi M, Wolf J, Ourselin S, Chan AT, Steves CJ, Spector TD. Real-time tracking of self-reported symptoms to predict potential COVID-19. Nat Med. 2020 Jul;26(7):1037-1040. doi: 10.1038/s41591-020-0916-2. Epub 2020 May 11.</citation>
+    <PMID>32393804</PMID>
+  </reference>
+  <reference>
+    <citation>Klok FA, Kruip MJHA, van der Meer NJM, Arbous MS, Gommers DAMPJ, Kant KM, Kaptein FHJ, van Paassen J, Stals MAM, Huisman MV, Endeman H. Incidence of thrombotic complications in critically ill ICU patients with COVID-19. Thromb Res. 2020 Jul;191:145-147. doi: 10.1016/j.thromres.2020.04.013. Epub 2020 Apr 10.</citation>
+    <PMID>32291094</PMID>
+  </reference>
+  <reference>
+    <citation>Poyiadji, N., Shahin, G., Noujaim, D., et al. (2020). COVID-19-associated Acute Hemorrhagic Necrotizing Encephalopathy: CT and MRI Features. Radiology, 201187. Advance online publication. https://doi.org/10.1148/radiol.2020201187</citation>
+  </reference>
+  <reference>
+    <citation>Landa N, Mendieta-Eckert M, Fonda-Pascual P, Aguirre T. Chilblain-like lesions on feet and hands during the COVID-19 Pandemic. Int J Dermatol. 2020 Jun;59(6):739-743. doi: 10.1111/ijd.14937. Epub 2020 Apr 24.</citation>
+    <PMID>32329897</PMID>
+  </reference>
+  <reference>
+    <citation>Richardson S, Hirsch JS, Narasimhan M, Crawford JM, McGinn T, Davidson KW; the Northwell COVID-19 Research Consortium, Barnaby DP, Becker LB, Chelico JD, Cohen SL, Cookingham J, Coppa K, Diefenbach MA, Dominello AJ, Duer-Hefele J, Falzon L, Gitlin J, Hajizadeh N, Harvin TG, Hirschwerk DA, Kim EJ, Kozel ZM, Marrast LM, Mogavero JN, Osorio GA, Qiu M, Zanos TP. Presenting Characteristics, Comorbidities, and Outcomes Among 5700 Patients Hospitalized With COVID-19 in the New York City Area. JAMA. 2020 May 26;323(20):2052-2059. doi: 10.1001/jama.2020.6775. Erratum in: JAMA. 2020 May 26;323(20):2098.</citation>
+    <PMID>32320003</PMID>
+  </reference>
+  <reference>
+    <citation>Grady, D. (2020, June 11). Covid-19 Patient Gets Double Lung Transplant, Offering Hope for Others. Retrieved from https://www.nytimes.com/2020/06/11/health/coronavirus-lung-transplant.html</citation>
+  </reference>
+  <reference>
+    <citation>Grant MC, Geoghegan L, Arbyn M, Mohammed Z, McGuinness L, Clarke EL, Wade RG. The prevalence of symptoms in 24,410 adults infected by the novel coronavirus (SARS-CoV-2; COVID-19): A systematic review and meta-analysis of 148 studies from 9 countries. PLoS One. 2020 Jun 23;15(6):e0234765. doi: 10.1371/journal.pone.0234765. eCollection 2020.</citation>
+    <PMID>32574165</PMID>
+  </reference>
+  <reference>
+    <citation>Marinsek N, Shapiro A, Clay I, et al. Measuring COVID-19 and Influenza in the Real World via Person-Generated Health Data. Published 2020 May 30. doi:10.1101/2020.05.28.20115964</citation>
+  </reference>
+  <reference>
+    <citation>Auwaerter, PA. &quot;Coronavirus COVID-19 (SARS-CoV-2).&quot; Johns Hopkins ABX Guide, Johns Hopkins Medicine, 2020. https://www.hopkinsguides.com/hopkins/view/Johns_Hopkins_ABX_Guide/540 747/all/Coronavirus_COVID_19__SARS_CoV_2_#2</citation>
+  </reference>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>October 30, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 6, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 10, 2020</study_first_posted>
+  <last_update_submitted>November 6, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 6, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 10, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>SARS-Cov Infection</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="525">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04591704</url>
+  </required_header>
+  <id_info>
+    <org_study_id>UU-DM003</org_study_id>
+    <nct_id>NCT04591704</nct_id>
+  </id_info>
+  <brief_title>The Effect of Diabetes Mellitus on the Prognosis of Patients With COVID-19</brief_title>
+  <acronym>COVID-19-DM2</acronym>
+  <official_title>The Effect of Diabetes Mellitus on the Morbidity and Mortality Rates in Patients With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Uşak University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Uşak University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      All hospitalised patients with COVID-19 who have positive RT-PCR for SARS-COV-2 will be&#xD;
+      included in the study.&#xD;
+&#xD;
+      The patients will be divided into two groups, as diabetics and non-diabetics. The COVID-19&#xD;
+      patients' medical records will be evaluated and compared in terms of the duration of&#xD;
+      hospitalization, the presence of lung involvement in Computerised Tomography, the need for&#xD;
+      intensive care unit and mortality rates in patients with and without diabetes.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      All hospitalised patients with COVID-19 who have positive RT-PCR for SARS-COV-2 will be&#xD;
+      included in the study.&#xD;
+&#xD;
+      The patients will be divided into two groups, as diabetics and non-diabetics. The diagnosis&#xD;
+      of diabetes mellitus will be extracted from the medical records and medical history of the&#xD;
+      patients hospitalised with COVID-19.&#xD;
+&#xD;
+      The COVID-19 patients medical records will be evaluated and compared in terms of the duration&#xD;
+      of hospitalization, the presence of lung involvement in Computerised Tomography, the need for&#xD;
+      intensive care unit and mortality rates in patients with and without diabetes.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 20, 2020</start_date>
+  <completion_date type="Anticipated">November 1, 2020</completion_date>
+  <primary_completion_date type="Actual">October 15, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Duration of Hospitalisation</measure>
+    <time_frame>1 year</time_frame>
+    <description>The time between admission to hospital and discharge</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The need for ICU</measure>
+    <time_frame>1 year</time_frame>
+    <description>The admission of hospitalized patients to the intensive care unit.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>1 year</time_frame>
+    <description>Mortality rates of patients</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Lung involvement</measure>
+    <time_frame>1 year</time_frame>
+    <description>The presence of lung involvement on thorax CT</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">2000</enrollment>
+  <condition>Covid19</condition>
+  <condition>Diabetes Mellitus</condition>
+  <arm_group>
+    <arm_group_label>Diabetic groups</arm_group_label>
+    <description>COVID-19 patients with diabetes mellitus</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control groups</arm_group_label>
+    <description>COVID-19 patients without diabetes mellitus</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>hospitalisation, necessity of ICU, mortality rate, lung involvement</intervention_name>
+    <description>hospitalisation, necessity of ICU, mortality rate, lung involvement</description>
+    <arm_group_label>Control groups</arm_group_label>
+    <arm_group_label>Diabetic groups</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All patients aged between 18-80 years, diagnosed and hospitalised for COVID-19 will be&#xD;
+        enrolled in to the study&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients hospitalized for COVID-19&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients with known malignancy&#xD;
+&#xD;
+          -  Pregnant patients&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>Cevdet Duran</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Uşak Üniversitesi Tıp fak</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Cevdet Duran</last_name>
+    <phone>02762212121</phone>
+    <email>drcduran@gmail.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Usak University Training and Research Hospital</name>
+      <address>
+        <city>Usak</city>
+        <zip>64200</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Cevdet Duran</last_name>
+      <phone>02762212121</phone>
+      <email>drcduran@gmail.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Turkey</country>
+  </location_countries>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>October 16, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 16, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 19, 2020</study_first_posted>
+  <last_update_submitted>October 16, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 16, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 19, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Diabetes Mellitus</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3164">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04600999</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HUN-AVI-01</org_study_id>
+    <nct_id>NCT04600999</nct_id>
+  </id_info>
+  <brief_title>Clinical Trial of Favipiravir Treatment of Patients With COVID-19</brief_title>
+  <official_title>An Investigation of the Efficacy and Safety of Favipiravir in COVID-19 Patients With Mild Pneumonia - An Open-label Randomized Controlled Study -</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Pecs</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>HECRIN Consortium</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hungarian Ministry of Innovation and Technology</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Pecs</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To verify that the efficacy of favipiravir exceeds that of the actual supportive care&#xD;
+      (symptomatic therapy) in SARS-CoV-2 infected patients (COVID-19 patients) with mild&#xD;
+      pneumonia, using the time required to improve clinical symptoms as the primary endpoint.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 7, 2020</start_date>
+  <completion_date type="Anticipated">June 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Time to improvement in body temperature</measure>
+    <time_frame>9 month</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Time to improvement in SpO2</measure>
+    <time_frame>9 month</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Time to improvement in chest imaging findings</measure>
+    <time_frame>9 month</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Time to improvement in negative SARS-CoV-2</measure>
+    <time_frame>9 month</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>(1) Changes in patient status on a 5-point scale</measure>
+    <time_frame>9 month</time_frame>
+    <description>Name of the scale is: Patient Status Score. 1:A condition in which the patient can be discharged; 5:A condition requiring ECMO or invasive oxygen therapy and ICU management</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>(2) Changes in the level of SARS-CoV-2 viral genome</measure>
+    <time_frame>9 month</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>(3) SARS-CoV-2 virus genome clearance rate</measure>
+    <time_frame>9 month</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>(4) Duration of pyrexia</measure>
+    <time_frame>9 month</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>(5) Changes in clinical symptoms</measure>
+    <time_frame>9 month</time_frame>
+    <description>Changes in clinical symptoms, including: Patient's condition; Coughing, Sore throat, Headache, Muscle or joint pain, Nasal congestion or Nasal discharge, Chills or sweating, Malaise or fatigue, Chest pain, dehydration, cyanosis, pleural effusion, Thoracic rales, Conscious state.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>(6) Changes in NEWS (National Early Warning Score)</measure>
+    <time_frame>9 month</time_frame>
+    <description>Changes in NEWS (unabbreviated scale title: National Early Warning Score). Calculate the total value from the clinical symptoms and findings (consciousness) and vital signs (SpO2, body temperature, blood pressure, pulse rate, respiratory rate). 0 is normal</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>(7) Changes in chest imaging findings on Days 4,7,10,13,16,19,22,25,28.</measure>
+    <time_frame>Changes in chest imaging findings will be collected and checked on Days 4,7,10,13,16,19,22,25,28, the data will be analyzied at 9. month.</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>(8) Percentage of patients requiring adjuvant oxygen therapy</measure>
+    <time_frame>9 month</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>(8) Adjuvant oxygen therapy average duration</measure>
+    <time_frame>9 month</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>(9) Percentage of patients requiring mechanical ventilation therapy</measure>
+    <time_frame>9 month</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>(9)Adjuvant oxygen therapy average durationduration</measure>
+    <time_frame>9 month</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>SARS-CoV-2 Infection</condition>
+  <arm_group>
+    <arm_group_label>Group Avigan</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Favipiravir from Day1 + Supportive care (symptomatic therapy) a regimen of 3600 mg (1800 mg twice a day orally) loading dose on Day1 followed by 1600 mg maintenance dose (800 mg twice a day orally) on Day2 to Day14.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Supportive care (symptomatic therapy)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Favipiravir</intervention_name>
+    <description>Name: AVIGAN Generic name: Favipiravir Content: T-705a tablets [200]</description>
+    <arm_group_label>Group Avigan</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Age 18 to 74 years (at the time of informed consent)&#xD;
+&#xD;
+          2. Male or female&#xD;
+&#xD;
+          3. Patients who meet all of the following three criteria at the time of enrolment:&#xD;
+&#xD;
+               1. SARS-CoV-2-positive patients as measured by rtPCR by nasopharyngeal sampling&#xD;
+&#xD;
+               2. Moderate patients with radiological evidence of pneumonia in the lung at the time&#xD;
+                  of enrolment (RTG, CT, or UH), clearly described by the radiologist following the&#xD;
+                  imaging examination. (The diagnosis of the finding should clearly include the&#xD;
+                  presence of pneumonia to any extent, localization, and extent)&#xD;
+&#xD;
+               3. Body temperature 37,5°C or more&#xD;
+&#xD;
+               4. Patient requires hospitalization during the treatment period (obligation to stay&#xD;
+                  in the hospital for whole treatment period, 14 days)&#xD;
+&#xD;
+          4. For premenopausal females, patients who have been confirmed to be negative on a&#xD;
+             pregnancy test before administration of the study drug&#xD;
+&#xD;
+          5. Signed informed consent by the patient or by the legal representative -&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Body temperature of 37.5 °C or higher for more than 10 days after the onset of&#xD;
+             elevated body temperature&#xD;
+&#xD;
+          2. Patients with SpO2 less than 95%&#xD;
+&#xD;
+          3. Patient requires supportive oxygen therapy&#xD;
+&#xD;
+          4. Patients who show increased procalcitonin levels before the start of the study drug&#xD;
+             administration and are suspected to have concurrent bacterial infection&#xD;
+&#xD;
+          5. Patients with proven concomitant systematic fungal infection prior to initiation of&#xD;
+             study drug.&#xD;
+&#xD;
+          6. Patients with concurrent congestive heart failure (NYHA III-IV)&#xD;
+&#xD;
+          7. Patients with severe hepatic impairment equivalent to Grade C on Child-Pugh&#xD;
+             classification&#xD;
+&#xD;
+          8. Patient with renal impairment requiring dialysis.&#xD;
+&#xD;
+          9. Patients with disturbed consciousness such as disturbed orientation.&#xD;
+&#xD;
+         10. Pregnant or possibly pregnant patients.&#xD;
+&#xD;
+         11. Female patients who are woman of childbearing potential and unable to consent to the&#xD;
+             use of dual contraception from the start of favipiravir administration to 30 days&#xD;
+             after the end of favipiravir administration. Dual contraception is a combination of&#xD;
+             two of the following: Barrier method of contraception: condoms (male or female) with&#xD;
+             or without a spermicidal agent, diaphragm or cervical cap with spermicide; IUD;&#xD;
+             Hormone-based contraceptive; Tubal ligation&#xD;
+&#xD;
+         12. Male patients whose are unable to consent to the use of the barrier method of&#xD;
+             contraception (condom) from the start of favipiravir administration to 90 days after&#xD;
+             the end of favipiravir administration. Male patients who are planning to donate sperm&#xD;
+             from the start up until 90 days after the end of favipiravir administration.&#xD;
+&#xD;
+         13. Female patients who intend to breastfeed from the start of favipiravir administration&#xD;
+             until 14 days after discontinuation of favipiravir administration&#xD;
+&#xD;
+         14. Patients with herditary xanthinuria&#xD;
+&#xD;
+         15. Patients who have hyperuricemia (&gt; 1 mg/dL) or xanthine urinary calculi&#xD;
+&#xD;
+         16. Patients with a history of gout or on treatment for gout or hyperuricemia&#xD;
+&#xD;
+         17. Patients receiving immunosuppressants&#xD;
+&#xD;
+         18. Patients who received interferon-alpha or drugs with reported antiviral activity&#xD;
+             against SARS-CoV-2 (hydroxychloroquine sulfate, chloroquine phosphate,&#xD;
+             lopinavir-ritonavir combination, ciclesonide, nafamostat mesylate, camostat mesylate,&#xD;
+             remdesivir, etc.) within 9 days after fever onset (37.5°C or more)&#xD;
+&#xD;
+         19. Patients in whom this episode of infection is a recurrence or a reinfection with the&#xD;
+             SARS-CoV-2 infection&#xD;
+&#xD;
+         20. Patients who have previously been treated with favipiravir (T-705a)&#xD;
+&#xD;
+         21. Other patients judged ineligible by the investigator, sub-investigator, or assigned&#xD;
+             physician.&#xD;
+&#xD;
+             -&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>74 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>István Várkonyi</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Institute of Infectology University of Debrecen</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Krisztina Hrács, PhD</last_name>
+    <phone>205967957</phone>
+    <phone_ext>+36</phone_ext>
+    <email>krisztina.hracs@adwareresearch.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Department of Pulmonology Semmelweis University</name>
+      <address>
+        <city>Budapest</city>
+        <zip>1083</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Veronika Müller</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>National Korányi Institute for Pulmonology</name>
+      <address>
+        <city>Budapest</city>
+        <zip>1121</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Krisztina Bogos</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Institute of Infectology, University of Debrecen</name>
+      <address>
+        <city>Debrecen</city>
+        <zip>4031</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>István Várkonyi</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>1st Department of Medicine, University of Pécs</name>
+      <address>
+        <city>Pécs</city>
+        <zip>7624</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Zoltán Péterfi</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>First Department of Internal Medicine, University of Szeged</name>
+      <address>
+        <city>Szeged</city>
+        <zip>6720</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Csaba Lengyel</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Hungary</country>
+  </location_countries>
+  <link>
+    <url>http://www.kansensho.or.jp/uploads/files/topics/2019ncov/covid19casereport_200225.pdf</url>
+    <description>Report of Clinical Course of 4 Patients with Coronavirus Disease 2019 (COVID-19) Who Required Oxygen Administration</description>
+  </link>
+  <reference>
+    <citation>Gowen BB, Wong MH, Jung KH, Sanders AB, Mendenhall M, Bailey KW, Furuta Y, Sidwell RW. In vitro and in vivo activities of T-705 against arenavirus and bunyavirus infections. Antimicrob Agents Chemother. 2007 Sep;51(9):3168-76. Epub 2007 Jul 2.</citation>
+    <PMID>17606691</PMID>
+  </reference>
+  <reference>
+    <citation>Mendenhall M, Russell A, Smee DF, Hall JO, Skirpstunas R, Furuta Y, Gowen BB. Effective oral favipiravir (T-705) therapy initiated after the onset of clinical disease in a model of arenavirus hemorrhagic Fever. PLoS Negl Trop Dis. 2011 Oct;5(10):e1342. doi: 10.1371/journal.pntd.0001342. Epub 2011 Oct 11.</citation>
+    <PMID>22022624</PMID>
+  </reference>
+  <reference>
+    <citation>Oestereich L, Lüdtke A, Wurr S, Rieger T, Muñoz-Fontela C, Günther S. Successful treatment of advanced Ebola virus infection with T-705 (favipiravir) in a small animal model. Antiviral Res. 2014 May;105:17-21. doi: 10.1016/j.antiviral.2014.02.014. Epub 2014 Feb 26.</citation>
+    <PMID>24583123</PMID>
+  </reference>
+  <reference>
+    <citation>Wang M, Cao R, Zhang L, Yang X, Liu J, Xu M, Shi Z, Hu Z, Zhong W, Xiao G. Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro. Cell Res. 2020 Mar;30(3):269-271. doi: 10.1038/s41422-020-0282-0. Epub 2020 Feb 4.</citation>
+    <PMID>32020029</PMID>
+  </reference>
+  <reference>
+    <citation>Bai CQ, Mu JS, Kargbo D, Song YB, Niu WK, Nie WM, Kanu A, Liu WW, Wang YP, Dafae F, Yan T, Hu Y, Deng YQ, Lu HJ, Yang F, Zhang XG, Sun Y, Cao YX, Su HX, Sun Y, Liu WS, Wang CY, Qian J, Liu L, Wang H, Tong YG, Liu ZY, Chen YS, Wang HQ, Kargbo B, Gao GF, Jiang JF. Clinical and Virological Characteristics of Ebola Virus Disease Patients Treated With Favipiravir (T-705)-Sierra Leone, 2014. Clin Infect Dis. 2016 Nov 15;63(10):1288-1294. Epub 2016 Aug 23.</citation>
+    <PMID>27553371</PMID>
+  </reference>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>October 8, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 22, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 23, 2020</study_first_posted>
+  <last_update_submitted>October 22, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 22, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 23, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

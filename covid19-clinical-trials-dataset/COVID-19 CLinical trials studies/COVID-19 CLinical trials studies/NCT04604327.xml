@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2920">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04604327</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BEMICOP</org_study_id>
+    <nct_id>NCT04604327</nct_id>
+  </id_info>
+  <brief_title>Comparison of Two Different Doses of Bemiparin in COVID-19</brief_title>
+  <acronym>BEMICOP</acronym>
+  <official_title>Ensayo clínico Aleatorizado, Abierto, Para Evaluar el Efecto de Dosis profilácticas o terapéuticas de Bemiparina en Pacientes Con COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Clinica Universidad de Navarra, Universidad de Navarra</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Clinica Universidad de Navarra, Universidad de Navarra</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Patients requiring hospitalization due to COVID-19 pneumonia (non-severe) will be randomized&#xD;
+      to standard prophylactic doses or full therapeutic dose of bemiparin (a LMWH) for 10 days.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">October 26, 2020</start_date>
+  <completion_date type="Anticipated">July 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 31, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Clinical deterioration</measure>
+    <time_frame>10 days</time_frame>
+    <description>Combined outcome that includes number of patients who suffer any of the following: Death, ICU admission, mechanical ventilatory support, progression to moderate or severe ARDS (according to Berlin criteria) or arterial or venous thrombosis.</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">164</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Prophylactic bemiparin (3,500 IU/day)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Bemiparin 3,500 IU daily for 10 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Full therapeutic bemiparin (weight adjusted)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Bemiparin at full therapeutic dose, adjusted to body weight, for 10 days</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Bemiparin sodium</intervention_name>
+    <description>Prophilactic vs full-dose for 10 days</description>
+    <arm_group_label>Full therapeutic bemiparin (weight adjusted)</arm_group_label>
+    <arm_group_label>Prophylactic bemiparin (3,500 IU/day)</arm_group_label>
+    <other_name>Hibor</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age (equal or more than 18 yo)&#xD;
+&#xD;
+          -  Hospitalization at conventional wards due to COVID-19 related mild or moderate&#xD;
+             pneumonia (CURB65&lt;3 points; Sat. O2&gt;90%)&#xD;
+&#xD;
+          -  3-4 points according to the WHO ordinal scale.&#xD;
+&#xD;
+          -  Confirmed COVID-19 (PCR or other validated test)&#xD;
+&#xD;
+          -  D-dimer &gt;500 ng/mL&#xD;
+&#xD;
+          -  Sign of informed consent&#xD;
+&#xD;
+          -  The patient is able, according to investigator's opinion, to deal with all the&#xD;
+             requirements of the clinical trial.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ramon Lecumberri, Md, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Navarra</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ramon Lecumberri, MD, PhD</last_name>
+    <phone>+34 948296397</phone>
+    <email>rlecumber@unav.es</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Hospital Rey Juan Carlos</name>
+      <address>
+        <city>Móstoles</city>
+        <state>Madrid</state>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Vanesa Sendín</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Clinica Universidad de Navarra</name>
+      <address>
+        <city>Pamplona</city>
+        <state>Navarra</state>
+        <zip>31008</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ramón Lecumberri, MD, PhD</last_name>
+      <phone>+34948255400</phone>
+      <email>rlecumber@unav.es</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clinic</name>
+      <address>
+        <city>Barcelona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Sonia Jiménez</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Sant Pau</name>
+      <address>
+        <city>Barcelona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>David Filella</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Bellvitge</name>
+      <address>
+        <city>L'Hospitalet De Llobregat</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Elena Pina</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Fundación Jiménez Díaz</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Rosa Vidal</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clínico San carlos</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Ernesto Botella</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario La Paz</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Víctor Jiménez Yuste</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Complejo Hospitalario de Navarra</name>
+      <address>
+        <city>Pamplona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Tania Galicia</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario de Salamanca</name>
+      <address>
+        <city>Salamanca</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Miguel Marcos</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Complejo Hospitalario de Toledo</name>
+      <address>
+        <city>Toledo</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Jorge Cuesta</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Río Hortega</name>
+      <address>
+        <city>Valladolid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Jessica Abadía</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>October 23, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 26, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 27, 2020</study_first_posted>
+  <last_update_submitted>October 26, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 26, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 27, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Bemiparin</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

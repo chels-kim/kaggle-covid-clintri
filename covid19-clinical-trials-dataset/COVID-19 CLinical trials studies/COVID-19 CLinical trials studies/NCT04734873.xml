@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2129">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04734873</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CPI-006-003</org_study_id>
+    <nct_id>NCT04734873</nct_id>
+  </id_info>
+  <brief_title>CPI-006 Plus Standard of Care Versus Placebo Plus Standard of Care in Mild to Moderately Symptomatic Hospitalized Covid-19 Patients</brief_title>
+  <official_title>Phase 3, Randomized, Placebo Controlled, Double-blind, Multicenter, Stratified Study of CPI-006 Plus Standard of Care Versus Placebo Plus Standard of Care in Mild to Moderately Symptomatic Hospitalized Covid-19 Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Corvus Pharmaceuticals, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Corvus Pharmaceuticals, Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a phase 3, randomized, placebo controlled, double-blind, multicenter, stratified&#xD;
+      study of CPI-006 plus standard of care (SOC) versus placebo plus SOC in mild to moderately&#xD;
+      symptomatic hospitalized Covid-19 patients with the primary objective to compare the&#xD;
+      proportion of participants alive and respiratory failure free between CPI-006 plus SOC versus&#xD;
+      placebo plus SOC.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">February 1, 2021</start_date>
+  <completion_date type="Anticipated">January 30, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 30, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To compare the proportion of participants alive and respiratory failure free of CPI-006 plus SOC versus placebo plus SOC</measure>
+    <time_frame>During the 28 days after dosing</time_frame>
+    <description>Proportion of participants who are alive and free from respiratory deterioration using the 8-point ordinal scale</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>To compare the time to recovery of CPI-006 plus SOC versus placebo plus SOC</measure>
+    <time_frame>During the 28 days after dosing</time_frame>
+    <description>Time to recovery after dosing measured by the 8-point ordinal scale</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To compare the time to clinical improvement of CPI-006 plus SOC versus placebo plus SOC</measure>
+    <time_frame>Up to Day 28</time_frame>
+    <description>Time to clinical improvement measured by the 8-point ordinal scale</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To compare the change from baseline in the level of antibodies targeting the receptor binding domain (RBD) of SARS-CoV-2</measure>
+    <time_frame>Baseline, Days 7, 14, 21 and 28</time_frame>
+    <description>Measure the change from baseline level of IgG targeting the RBD</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">1000</enrollment>
+  <condition>Covid-19</condition>
+  <arm_group>
+    <arm_group_label>CPI-006 (2 mg/kg) Plus Standard of Care</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive a single dose of CPI-006 at 2 mg/kg up to a maximum dose of 200 mg intravenously on Day 1 plus standard of care.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>CPI-006 (1 mg/kg) Plus Standard of Care</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive a single dose of CPI-006 at 1 mg/kg up to a maximum dose of 100 mg intravenously on Day 1 plus standard of care.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo Plus Standard of Care</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants will receive a single dose of placebo intravenously on Day 1 plus standard of care.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>CPI-006 2 mg/kg + SOC</intervention_name>
+    <description>IV CPI-006 2 mg/kg up to a maximum dose of 200 mg plus standard of care</description>
+    <arm_group_label>CPI-006 (2 mg/kg) Plus Standard of Care</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>CPI-006 1 mg/kg + SOC</intervention_name>
+    <description>IV CPI-006 1 mg/kg up to a maximum dose of 100 mg plus standard of care</description>
+    <arm_group_label>CPI-006 (1 mg/kg) Plus Standard of Care</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo + SOC</intervention_name>
+    <description>IV placebo plus standard of care</description>
+    <arm_group_label>Placebo Plus Standard of Care</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Confirmed positive by polymerase chain reaction (PCR) or antigen test for SARS-CoV-2&#xD;
+             within 72 hours before randomization&#xD;
+&#xD;
+          -  Onset of symptoms not more than 7 days prior to randomization&#xD;
+&#xD;
+          -  Hospitalized for Covid-19 for ≤72 hours with mild to moderate Covid-19 symptoms&#xD;
+&#xD;
+          -  Maintains O2 saturation of ≥93% on room air or supplemental O2, including high-flow&#xD;
+             and non-invasive ventilation, at randomization&#xD;
+&#xD;
+          -  Adequate organ function&#xD;
+&#xD;
+          -  Participants of child-bearing age must agree to use adequate contraception for 6 weeks&#xD;
+             after study treatment administration&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Signs of acute respiratory distress syndrome or respiratory failure necessitating&#xD;
+             mechanical ventilation at time of screening/randomization or anticipated need for&#xD;
+             mechanical ventilation&#xD;
+&#xD;
+          -  History of severe chronic respiratory disease and requirement for long-term oxygen&#xD;
+             therapy&#xD;
+&#xD;
+          -  Uncontrolled active systemic infection or hemodynamic instability requiring admission&#xD;
+             to an intensive care unit&#xD;
+&#xD;
+          -  Malignant tumor receiving treatment, or other serious systemic diseases affecting life&#xD;
+             expectancy within 29 days of screening&#xD;
+&#xD;
+          -  Receipt of cancer chemotherapy or immunomodulatory drugs during preceding 2 months&#xD;
+             (steroids for treatment of Covid-19 are acceptable)&#xD;
+&#xD;
+          -  Current participation in other clinical trials including extended access programs&#xD;
+&#xD;
+          -  Active deep vein thrombosis or pulmonary embolism within last 6 months&#xD;
+&#xD;
+          -  Anticipated discharge from hospital or transfer to another hospital which is not a&#xD;
+             study site within 48 hours of admission&#xD;
+&#xD;
+          -  Active uncontrolled co-morbid disease that may interfere with study conduct or&#xD;
+             interpretation of findings&#xD;
+&#xD;
+          -  Known to be positive for HIV or positive test for chronic HBV infection or positive&#xD;
+             test for hepatitis C antibody&#xD;
+&#xD;
+          -  Convalescent plasma (CCP) or anti-SARS-CoV-2 monoclonal antibodies administered &lt;24&#xD;
+             hours prior to randomization. Must have recovered from any adverse events related to&#xD;
+             CCP treatment. Received chloroquine or hydroxychloroquine within last 7 days or during&#xD;
+             the study&#xD;
+&#xD;
+          -  Pregnancy or breast feeding&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>S. Mahabhashyam, MD, MPH</last_name>
+    <role>Study Chair</role>
+    <affiliation>Corvus Pharmaceuticals</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Corvus Clinical Trials</last_name>
+    <phone>650-900-4520</phone>
+    <email>clinicaltrials@corvuspharma.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>eStudySite - Chula Vista</name>
+      <address>
+        <city>Chula Vista</city>
+        <state>California</state>
+        <zip>91911</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Michael Waters, MD</last_name>
+      <phone>619-955-5246</phone>
+      <email>patientservices@estudysite.com</email>
+    </contact>
+    <investigator>
+      <last_name>Michael Waters, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>eStudySite - La Mesa</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>91942</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>J. Scott Overcash, MD</last_name>
+      <phone>619-567-1550</phone>
+      <email>patientservices@estudysite.com</email>
+    </contact>
+    <investigator>
+      <last_name>J. Scott Overcash, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Temple University Hospital</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19140</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Temple Lung Center</last_name>
+      <phone>215-707-1359</phone>
+      <email>breathe@tuhs.temple.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Gerard J Criner, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>January 29, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 29, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 2, 2021</study_first_posted>
+  <last_update_submitted>January 29, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 29, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 2, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>Covid</keyword>
+  <keyword>Coronavirus</keyword>
+  <keyword>Covid19</keyword>
+  <keyword>COVID-19</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

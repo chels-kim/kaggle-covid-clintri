@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1109">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04328285</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20PH061</org_study_id>
+    <secondary_id>2020-001188-96</secondary_id>
+    <nct_id>NCT04328285</nct_id>
+  </id_info>
+  <brief_title>Chemoprophylaxis of SARS-CoV-2 Infection (COVID-19) in Exposed Healthcare Workers</brief_title>
+  <acronym>COVIDAXIS</acronym>
+  <official_title>Chemoprophylaxis of SARS-CoV-2 Infection (COVID-19) in Exposed Healthcare Workers : A Randomized Double-blind Placebo-controlled Clinical Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Centre Hospitalier Universitaire de Saint Etienne</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Institut Pasteur</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Centre Hospitalier Universitaire de Saint Etienne</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Since December 2019, the emergence of a new coronavirus named SARS-Cov-2 in the city of Wuhan&#xD;
+      in China has been responsible for a major epidemic of respiratory infections, including&#xD;
+      severe pneumonia. Within weeks, COVID-19 became a pandemic.&#xD;
+&#xD;
+      In the absence of specific antiviral treatment, a special attention should be given to&#xD;
+      prevention. Personal protection equipments may be insufficiently protective, including in&#xD;
+      healthcare workers, a significant proportion of whom (around 4%) having been infected in the&#xD;
+      outbreaks described in China and more recently in Italy. Infection in healthcare workers&#xD;
+      could result from the contact with COVID-19 people in community or with infected colleagues&#xD;
+      or patients.&#xD;
+&#xD;
+      As it will take at least a year before vaccines against SARS-CoV-2 becomes available,&#xD;
+      chemoprophylaxis is an option that should be considered in this setting where prevention of&#xD;
+      SARS-CoV-2 infection in Health Care Workers.&#xD;
+&#xD;
+      The COVIDAXIS trial evaluates a chemoprophylaxis of SARS-CoV-2 infection in Health Care&#xD;
+      Workers. This trial is divided into two distinct studies that could start independently each&#xD;
+      with its own randomization process: COVIDAXIS 1 will study Hydroxychloroquine (HCQ) versus&#xD;
+      placebo; COVIDAXIS 2 will study Lopinavir/ritonavir (LPV/r) versus placebo.&#xD;
+&#xD;
+      Upon randomization healthcare workers (HCWs) involved in the management of suspected or&#xD;
+      confirmed COVID-19 cases will be assigned to one of the following 2 treatment groups:&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The study COVIDAXIS 1(Hydroxychloroquine (HCQ) versus placebo) will be realized on 600&#xD;
+      participants and will be implemented first in as many centers as possible.&#xD;
+&#xD;
+      Upon randomization, with 1:1 allocation ratio, healthcare workers involved in the management&#xD;
+      of suspected or confirmed COVID-19 cases will be assigned to one of the following 2 treatment&#xD;
+      groups:&#xD;
+&#xD;
+        -  Group 1.1: HCQ 200 mg : 2 tablets on the evening at Day 1 and 2 tablets on the morning&#xD;
+           at Day 2 and 1 tablet once daily afterwards&#xD;
+&#xD;
+        -  Group 1.2: Placebo of HCQ, 2 tablets on the evening at Day 1 and 2 tablets on the&#xD;
+           morning at Day 2 and 1 tablet once daily afterwards.&#xD;
+&#xD;
+      The COVIDAXIS 2 (Lopinavir/ritonavir (LPV/r) versus placebo will be realized on 600&#xD;
+      participants and will be implemented in already participating and newer centers in a second&#xD;
+      step (when LPV/r becomes available).&#xD;
+&#xD;
+      Upon randomization, with 1:1 allocation ratio, healthcare workers involved in the management&#xD;
+      of suspected or confirmed COVID-19 cases will be assigned to one of the following 2 treatment&#xD;
+      groups:&#xD;
+&#xD;
+        -  Group 2.1: LPV/r 200/50 mg : 2 tablets twice daily&#xD;
+&#xD;
+        -  Group 2.2: Placebo of LPV/r, 2 tablets twice daily&#xD;
+&#xD;
+      Participants will receive the randomized treatment for 2 months and will be followed upon a&#xD;
+      2.5 months period.&#xD;
+&#xD;
+      NB: there is no randomization procedure for participant inclusion in either COVIDAXIS 1 or&#xD;
+      COVIDAXIS 2&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">April 14, 2020</start_date>
+  <completion_date type="Anticipated">March 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">March 30, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>A randomized double-blind placebo-controlled clinical trial</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Occurrence of an symptomatic or asymptomatic SARS-CoV-2 infection among healthcare workers (HCWs)</measure>
+    <time_frame>Up to 2.5 months</time_frame>
+    <description>An infection by SARS-CoV-2 is defined by either:&#xD;
+a positive specific Reverse Transcription - Polymerase Chain Reaction (RT-PCR) on periodic systematic nasopharyngeal swab during follow-up OR&#xD;
+a positive specific RT-PCR on a respiratory sample in case of onset of symptoms consistent with COVID-19 during follow-up OR&#xD;
+a seroconversion to SARS-CoV-2 after randomization.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation of the occurrence of adverse events in each arm,</measure>
+    <time_frame>Up to 2.5 months</time_frame>
+    <description>Number of adverse events expected or unexpected, related and unrelated to the treatment, notably grades 2, 3 and 4 (moderate, severe and lifethreatening, according to the Adverse National Cancer Institute Common Terminology Criteria for Adverse Events, version 5.0) in each arm.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation of the discontinuation rates of the investigational drug in each arm,</measure>
+    <time_frame>Up to 2 months</time_frame>
+    <description>Number of treatment discontinuations in each arm</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation of the adherence of participants to study drug,</measure>
+    <time_frame>Up to 2 months</time_frame>
+    <description>Treatment adherence rate will be assessed by:&#xD;
+measurement of LPV and HCQ plasma concentrations using LC-MS/MS or LC-Fluorimetric detection&#xD;
+the count of returned drugs at each visit.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation of the incidence of symptomatic cases of SARS-CoV-2 infection in each arm,</measure>
+    <time_frame>Up to 2.5 months</time_frame>
+    <description>Number of incident cases of symptomatic SARS-CoV-2 infections among HCWs in each arm.&#xD;
+Symptomatic infection is defined as :&#xD;
+a positive specific RT-PCR on a respiratory or non respiratory sample OR&#xD;
+a thoracic CT scan with imaging abnormalities consistent with COVID-19.&#xD;
+These investigations being performed in case of signs/symptoms consistent with COVID-19 during follow-up.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation of the incidence of asymptomatic cases of SARS-CoV-2 infection in each arm</measure>
+    <time_frame>Up to 2.5 months</time_frame>
+    <description>Number of incident cases of asymptomatic SARS-CoV-2 infection among HCWs in each randomization arm.&#xD;
+Asymptomatic infection is defined as :&#xD;
+a positive specific RT-PCR on periodic systematic nasopharyngeal swab during clinical follow-up without consistent clinical signs/symptoms during follow-up OR&#xD;
+as seroconversion to SARS-CoV-2 between start and end of the study in HCWs that did not reported any consistent clinical symptoms during follow-up</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation of the incidence of severe cases of SARS-CoV-2 infection in each arm.</measure>
+    <time_frame>Up to 2.5 months</time_frame>
+    <description>Number of incident cases of severe SARS-CoV-2 infections among HCWs in each randomization arm, defined as :&#xD;
+a positive specific RT-PCR on a respiratory sample OR&#xD;
+a thoracic CT scan with imaging abnormalities consistent with COVID-19 performed in case of onset of symptoms consistent with COVID-19 during follow-up in a participant who need to be hospitalized for respiratory distress. Respiratory distress defined as dyspnea with a respiratory frequency &gt; 30/min, blood oxygen saturation &lt;93%, partial pressure of arterial oxygen to fraction of inspired oxygen ratio &lt;300 and/or lung infiltrates &gt;50% (1).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>corrected QT interval (ms)</measure>
+    <time_frame>At baseline, at D2 (only for COVIDAXIS 1) and every week up to 2 months.</time_frame>
+    <description>Safety. Electrocardiogram (ECG)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">1200</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Hydroxychloroquine (HCQ) vs Placebo</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Group 1.1: HCQ 200 mg : 2 tablets on the evening at Day 1 and 2 tablets on the morning at Day 2 and 1 tablet once daily afterwards&#xD;
+Group 1.2: Placebo of HCQ, 2 tablets on the evening at Day 1 and 2 tablets on the morning at Day 2 and 1 tablet once daily afterwards.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Lopinavir/ritonavir (LPV/r) vs Placebo</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Group 2.1: LPV/r 200/50 mg, 2 tablets twice daily&#xD;
+Group 2.2: Placebo of LPV/r, 2 tablets twice daily</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Hydroxychloroquine</intervention_name>
+    <description>Hydroxychloroquine Oral Tablets</description>
+    <arm_group_label>Hydroxychloroquine (HCQ) vs Placebo</arm_group_label>
+    <other_name>Plaquenil</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo of Hydroxychloroquine</intervention_name>
+    <description>Placebo of Hydroxychloroquine Oral Tablets Placebo manufactured to mimic Hydroxychloroquine tablets</description>
+    <arm_group_label>Hydroxychloroquine (HCQ) vs Placebo</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Lopinavir and ritonavir</intervention_name>
+    <description>LPV/r Oral Tablets</description>
+    <arm_group_label>Lopinavir/ritonavir (LPV/r) vs Placebo</arm_group_label>
+    <other_name>Kaletra</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo of LPV/r Tablets</intervention_name>
+    <description>Placebo of LPV/r Oral Tablets Placebo manufactured to mimic LPV/r tablets</description>
+    <arm_group_label>Lopinavir/ritonavir (LPV/r) vs Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adult healthcare workers (HCWs) (for instance physicians, nurses, assistant nurses,&#xD;
+             dentists, physiotherapists, midwives, etc.)&#xD;
+&#xD;
+          -  HCW involved at the time of enrolment in the care and the management of patients with&#xD;
+             confirmed or suspected SARS-CoV-2 infection in hospital settings, in outpatient care&#xD;
+             settings or in geriatric long-term care facilities. These HCWs have prolonged or&#xD;
+             repeated close contact to these patients.&#xD;
+&#xD;
+          -  HCW tested negative for HIV&#xD;
+&#xD;
+          -  HCW affiliated to the French health insurance system&#xD;
+&#xD;
+          -  HCW women of childbearing age with an effective contraception&#xD;
+             (ethinylestradiol-containing contraceptive pills are not regarded as effective in the&#xD;
+             context of LPV/r treatment - COVIDAXIS 2)&#xD;
+&#xD;
+          -  Willing to comply to study design and the follow-up&#xD;
+&#xD;
+          -  Consent form signed&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        For COVIDAXIS 1:&#xD;
+&#xD;
+          -  HCW with positive SARS-CoV-2 RT-PCR of nasopharyngeal swab at the inclusion visit.&#xD;
+&#xD;
+          -  HCW with past history of confirmed SARS-CoV-2 infection&#xD;
+&#xD;
+          -  HCW with positive SARS-CoV-2 serology at the inclusion visit&#xD;
+&#xD;
+          -  HCW with comorbidities such as hypothyroidism that need hormonal substitution, or&#xD;
+             retinopathy or with prior intermittent porphyria, or chronic renal failure (glomerular&#xD;
+             filtration rate &lt; 30mL/min) or prior hepatic failure or psoriasis.&#xD;
+&#xD;
+          -  HCW with prior diagnosis of glucose-6-phosphate dehydrogenase (G6PD) deficiency&#xD;
+&#xD;
+          -  HCW with known hypersensitivity/allergy to HCQ&#xD;
+&#xD;
+          -  HCW with baseline QTc interval &gt; 450ms in men or &gt; 460ms in women and QTc &lt;320 ms&#xD;
+             (both gender)&#xD;
+&#xD;
+          -  HCW with personal or family history of long QT syndrome, torsades de pointes, or&#xD;
+             sudden death&#xD;
+&#xD;
+          -  Pregnant HCW&#xD;
+&#xD;
+          -  Breastfeeding HCW&#xD;
+&#xD;
+          -  HCW taking comedications known to have interactions with HCQ according to the official&#xD;
+             characteristics of the product&#xD;
+&#xD;
+        For COVIDAXIS 2:&#xD;
+&#xD;
+          -  HCW with positive SARS-CoV-2 RT-PCR of nasopharyngeal swab at the inclusion visit.&#xD;
+&#xD;
+          -  HCW with past history of confirmed SARS-CoV-2 infection&#xD;
+&#xD;
+          -  HCW with positive SARS-CoV-2 serology at the inclusion visit&#xD;
+&#xD;
+          -  HCW with comorbidities such as chronic HCV infection treated by direct antiviral drugs&#xD;
+             or with hypothyroidism that need hormonal substitution, or known to have&#xD;
+             hypercholesterolemia hypertriglyceridemiaor chronic renal failure (glomerular&#xD;
+             filtration rate &lt; 30mL/min) or prior hepatic failure&#xD;
+&#xD;
+          -  HCW with known hypersensitivity/allergy to LPV/r&#xD;
+&#xD;
+          -  HCW with baseline QTc interval &gt; 450ms in men or &gt; 460ms in women and QTc &lt;320 ms&#xD;
+             (both gender)&#xD;
+&#xD;
+          -  HCW with personal or family history of long QT syndrome, torsades de pointes, or&#xD;
+             sudden death&#xD;
+&#xD;
+          -  Pregnant HCW&#xD;
+&#xD;
+          -  Breastfeeding HCW&#xD;
+&#xD;
+          -  HCW taking comedications known to have interactions with LPV/r according to the&#xD;
+             official characteristics of the product&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Elisabeth Botelho-Nevers, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>CHU de Saint-Etienne</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Bruno Hoen, MD, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Institut Pasteur</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>CHU d'Angers</name>
+      <address>
+        <city>Angers</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Bordeaux</name>
+      <address>
+        <city>Bordeaux</city>
+        <zip>33000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Clermont-Ferrand</name>
+      <address>
+        <city>Clermont-ferrand</city>
+        <zip>63000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Montpellier</name>
+      <address>
+        <city>Montpellier</city>
+        <zip>34000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Nancy</name>
+      <address>
+        <city>Nancy</city>
+        <zip>54000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Nantes</name>
+      <address>
+        <city>Nantes</city>
+        <zip>44000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>AP-HP - Hôpital Bichat</name>
+      <address>
+        <city>Paris</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Rennes</name>
+      <address>
+        <city>Rennes</city>
+        <zip>35000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Rouen</name>
+      <address>
+        <city>Rouen</city>
+        <zip>76000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Saint-Etienne</name>
+      <address>
+        <city>Saint-Étienne</city>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>March 25, 2020</study_first_submitted>
+  <study_first_submitted_qc>March 27, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 31, 2020</study_first_posted>
+  <last_update_submitted>December 24, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 24, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 28, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>nasopharyngeal swab</keyword>
+  <keyword>pneumonia</keyword>
+  <keyword>Hydroxychloroquine</keyword>
+  <keyword>Lopinavir/ritonavir</keyword>
+  <keyword>Healthcare Workers</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Ritonavir</mesh_term>
+    <mesh_term>Lopinavir</mesh_term>
+    <mesh_term>Hydroxychloroquine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

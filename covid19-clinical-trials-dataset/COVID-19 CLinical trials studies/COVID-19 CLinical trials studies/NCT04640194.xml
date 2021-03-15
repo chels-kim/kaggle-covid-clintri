@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4325">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04640194</url>
+  </required_header>
+  <id_info>
+    <org_study_id>0135-0347</org_study_id>
+    <secondary_id>2020-002913-16</secondary_id>
+    <nct_id>NCT04640194</nct_id>
+  </id_info>
+  <brief_title>A Study to Test Whether Different Doses of Alteplase Help People With Severe Breathing Problems Because of COVID-19</brief_title>
+  <acronym>TRISTARDS</acronym>
+  <official_title>The TRISTARDS Trial - ThRombolysIS Therapy for ARDS A Phase IIb/III Operationally Seamless, Open-label, Randomised, Sequential, Parallel-group Adaptive Study to Evaluate the Efficacy and Safety of Daily Intravenous Alteplase Treatment Given up to 5 Days on Top of Standard of Care (SOC) Compared With SOC Alone, in Patients With Acute Respiratory Distress Syndrome (ARDS) Triggered by COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Boehringer Ingelheim</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Boehringer Ingelheim</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a study in adults with severe breathing problems because of COVID-19. People who are&#xD;
+      in hospital on breathing support can participate in the study. The purpose of the study is to&#xD;
+      find out whether a medicine called alteplase helps people get better faster.&#xD;
+&#xD;
+      The study has 2 parts. In the first part, participants are put into 3 groups by chance.&#xD;
+      Participants in 2 of the groups get 2 different doses of alteplase, in addition to standard&#xD;
+      treatment.&#xD;
+&#xD;
+      Participants in the third group get standard treatment. In the second part of the study,&#xD;
+      participants are put into 2 groups by chance. One group gets alteplase and standard&#xD;
+      treatment. The other group gets only standard treatment. Alteplase is given as an infusion&#xD;
+      into a vein. In both study parts, treatments are given for 5 days. Doctors monitor patients&#xD;
+      and check whether their breathing problems improve. They compare results between the groups&#xD;
+      after 1 month.&#xD;
+&#xD;
+      Participants are in the study for 3 months.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 16, 2020</start_date>
+  <completion_date type="Anticipated">September 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">May 29, 2022</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>The study comprises two parts: Part 1 (dose-finding, Phase IIb) and Part 2 (confirmatory, Phase III)</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Time to clinical improvement or hospital discharge</measure>
+    <time_frame>Up to day 28</time_frame>
+    <description>Time from randomisation to either an improvement of two points on the 11-point WHO Clinical Progression Scale or discharge from the hospital, whichever comes first.&#xD;
+The WHO Clinical Progression Scale ranges from 0 to 10. A higher score indicates a worsening of the patient status.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>All cause mortality</measure>
+    <time_frame>At day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of ventilator-free days</measure>
+    <time_frame>From start of treatment to day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Improvement of Sequential (sepsis-related) Organ Failure Assessment (SOFA) score by ≥2 points</measure>
+    <time_frame>From baseline to end of day 6</time_frame>
+    <description>The SOFA score ranges from 0 to 6. A higher score indicates a worsening of the symptoms.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of major bleeding events (MBE)</measure>
+    <time_frame>Up to day 6</time_frame>
+    <description>according to International Society on Thrombosis and Haemostasis (ISTH) definition</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Daily average PaO2/FiO2 ratio (or inferred PaO2/FiO2 ratio from SpO2) change</measure>
+    <time_frame>From baseline to end of day 6</time_frame>
+    <description>PaO2: partial oxygen pressure in arterial blood FiO2: fraction of inspired oxygen SpO2: Oxygen saturation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>All-cause mortality or on mechanical ventilation</measure>
+    <time_frame>At day 28</time_frame>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">270</enrollment>
+  <condition>Acute Respiratory Distress Syndrome</condition>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Standard of care alone</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Treatment group A</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Alteplase (low dose) on top of standard of care</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Treatment group B</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Alteplase (high dose) on top of standard of care</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Alteplase</intervention_name>
+    <description>Alteplase</description>
+    <arm_group_label>Treatment group A</arm_group_label>
+    <arm_group_label>Treatment group B</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Standard of care</intervention_name>
+    <description>Standard of Care (SOC) includes any supportive measures applied in hospital, specifically on an intensive care unit (ICU), such as for example the use of non-invasive or invasive ventilation, oxygen masks, haemodynamic support, if needed, sedation, as well as medical therapies commonly used in patients suffering from acute respiratory distress syndrome (ARDS) or its complications. SOC should include best possible treatment regimen established locally and should be in line with current guidelines for ARDS treatment.</description>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_label>Treatment group A</arm_group_label>
+    <arm_group_label>Treatment group B</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age ≥ 18 years (or above legal age, e.g. UK ≥16 years)&#xD;
+&#xD;
+          -  ARDS with PaO2*/FiO2 ratio &gt;100 and ≤300, either on non-invasive ventilator support,&#xD;
+             OR on mechanical ventilation (&lt;48 hours since intubation),&#xD;
+&#xD;
+               -  with bilateral opacities in chest X-ray or CT scan (not fully explained by&#xD;
+                  effusions, lobar/lung collapse, or nodules)&#xD;
+&#xD;
+               -  with respiratory failure (not fully explained by cardiac failure/fluid overload)&#xD;
+                  (*or estimation of PaO2/FiO2 from pulse oximetry (SpO2/FiO2))&#xD;
+&#xD;
+          -  SARS-CoV-2 positive (laboratory-confirmed reverse transcription polymerase chain&#xD;
+             reaction (RT PCR) test)&#xD;
+&#xD;
+          -  Fibrinogen level ≥ upper limit of normal (according to local laboratory)&#xD;
+&#xD;
+          -  D-Dimer ≥ 3-fold of upper limit of normal (ULN) according to local laboratory&#xD;
+&#xD;
+          -  Signed and dated written informed consent in accordance with ICH Good Clinical&#xD;
+             Practice (GCP) and local legislation prior to admission to the Trial&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Massive confirmed pulmonary embolism (PE) with haemodynamic instability at trial entry&#xD;
+&#xD;
+          -  Patients on mechanical ventilation for longer than 48 hours&#xD;
+&#xD;
+          -  Chronic pulmonary disease i.e. with known forced expiratory volume in 1 second (FEV1)&#xD;
+             &lt;50%, requiring home oxygen, or oral steroid therapy or hospitalisation for&#xD;
+             exacerbation within 12 months, or significant chronic pulmonary disease in the&#xD;
+             Investigator's opinion, or primary pulmonary arterial hypertension&#xD;
+&#xD;
+          -  Has a Do-Not-Intubate (DNI) or Do-Not-Resuscitate (DNR) order&#xD;
+&#xD;
+          -  In the opinion of the investigator not expected to survive for &gt; 48 hours after&#xD;
+             admission&#xD;
+&#xD;
+          -  Patients with known hypersensitivity to the active substance alteplase, gentamicin (a&#xD;
+             trace residue from the manufacturing process) or to any of the excipients&#xD;
+&#xD;
+          -  Significant bleeding disorder at present or within the past 3 months, known&#xD;
+             haemorrhagic diathesis&#xD;
+&#xD;
+          -  Patients receiving effective oral anticoagulant treatment, e.g. vitamin K antagonists&#xD;
+             with International normalised ratio (INR) &gt;1.3, or any direct oral anticoagulant&#xD;
+             within the past 48 hours Further exclusion criteria apply.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Boehringer Ingelheim</last_name>
+    <phone>1-800-243-0127</phone>
+    <email>clintriage.rdg@boehringer-ingelheim.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>ULB Hopital Erasme</name>
+      <address>
+        <city>Bruxelles</city>
+        <zip>1070</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jacques Creteur</last_name>
+      <phone>+32 2 25554445</phone>
+      <email>jcreteur@ulb.ac.be</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ottignies - HOSP St-Pierre</name>
+      <address>
+        <city>Ottignies</city>
+        <zip>1340</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nicolas De Schryver</last_name>
+      <phone>+32 10 437 734</phone>
+      <email>nicolas.deschryver@cspo.be</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Medizinische Hochschule Hannover</name>
+      <address>
+        <city>Hannover</city>
+        <zip>30625</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tobias Welte</last_name>
+      <phone>+49 (511) 5323531</phone>
+      <email>welte.tobias@mh-hannover.de</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsklinikum Heidelberg</name>
+      <address>
+        <city>Heidelberg</city>
+        <zip>69120</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Johann Motsch</last_name>
+      <phone>+49 (6221) 56-39441</phone>
+      <email>johann.motsch@med.uni-heidelberg.de</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Universitätsklinikum Leipzig</name>
+      <address>
+        <city>Leipzig</city>
+        <zip>04109</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sven Bercker</last_name>
+      <phone>+49 (341) 97-17700</phone>
+      <email>sven.bercker@medizin.uni-leipzig.de</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>ULSAM, EPE - Hospital de Santa Luzia</name>
+      <address>
+        <city>Viana do Castelo</city>
+        <zip>4901-858</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Pedro Moura</last_name>
+      <phone>+351258802100</phone>
+      <email>pedro.moura@ulsam.min-saude.pt</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital del Mar</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08003</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Judith Marín</last_name>
+      <phone>+34932483000</phone>
+      <email>jmarincorral@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Vall d'Hebron</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08035</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ricard Ferrer</last_name>
+      <phone>+34934894420</phone>
+      <email>r.ferrer@vhebron.net</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Puerta del Mar</name>
+      <address>
+        <city>Cádiz</city>
+        <zip>11009</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rafael Sierra</last_name>
+      <phone>+340956002100 ext.2328</phone>
+      <email>rsc@comcadiz.es</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+    <country>Germany</country>
+    <country>Portugal</country>
+    <country>Spain</country>
+  </location_countries>
+  <link>
+    <url>https://www.mystudywindow.com/</url>
+    <description>Related Info</description>
+  </link>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>November 20, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 20, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 23, 2020</study_first_posted>
+  <last_update_submitted>January 25, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 25, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 26, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Distress Syndrome, Newborn</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Adult</mesh_term>
+    <mesh_term>Acute Lung Injury</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Tissue Plasminogen Activator</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>After the study is completed and the primary manuscript is accepted for publishing, researchers can use this following link https://trials.boehringer-ingelheim.com/trial_results/clinical_submission_documents.html to request access to the clinical study documents regarding this study, and upon a signed &quot;Document Sharing Agreement&quot;.&#xD;
+Also, Researchers can use the following link http://trials.boehringer-ingelheim.com/ to find information in order to request access to the clinical study data, for this and other listed studies, after the submission of a research proposal and according to the terms outlined in the website.&#xD;
+The data shared are the raw clinical study data sets.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>After all regulatory activities are completed in the US and EU for the product and indication, and after the primary manuscript has been accepted for publication.</ipd_time_frame>
+    <ipd_access_criteria>For study documents - upon signing of a 'Document Sharing Agreement'. For study data - 1. after the submission and approval of the research proposal (checks will be performed by both the independent review panel and the sponsor, including checking that the planned analysis does not compete with sponsor's publication plan); 2. and upon signing of a 'Data Sharing Agreement'.</ipd_access_criteria>
+    <ipd_url>https://trials.boehringer-ingelheim.com</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

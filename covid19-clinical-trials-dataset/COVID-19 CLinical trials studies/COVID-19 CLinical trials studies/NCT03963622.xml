@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4471">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03963622</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1765</org_study_id>
+    <nct_id>NCT03963622</nct_id>
+  </id_info>
+  <brief_title>Careful Ventilation in Acute Respiratory Distress Syndrome (COVID-19)</brief_title>
+  <acronym>CAVIARDS</acronym>
+  <official_title>Careful Ventilation in Acute Respiratory Distress Syndrome</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Unity Health Toronto</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Canadian Institutes of Health Research (CIHR)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Toronto</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Applied Health Research Centre</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Unity Health Toronto</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a multicenter randomized controlled clinical trial with an adaptive design assessing&#xD;
+      the efficacy of setting the ventilator based on measurements of respiratory mechanics&#xD;
+      (recruitability and effort) to reduce Day 60 mortality in patients with acute respiratory&#xD;
+      distress syndrome (ARDS).&#xD;
+&#xD;
+      The CAVIARDS study is also a basket trial; a basket trial design examines a single&#xD;
+      intervention in multiple disease populations. CAVIARDS consists of an identical 2-arm&#xD;
+      mechanical ventilation protocol implemented in two different study populations (COVID-19 and&#xD;
+      non-COVID-19 patients). As per a typical basket trial design, the operational structure of&#xD;
+      both the COVID-19 substudy (CAVIARDS-19) and non-COVID-19 substudy (CAVIARDS-all) is shared&#xD;
+      (recruitment, procedures, data collection, analysis, management, etc.).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Acute respiratory distress syndrome (ARDS) is a major public health problem affecting&#xD;
+      approximately 10% of patients in the intensive care unit (ICU) and 23% of all patients on a&#xD;
+      breathing machine (mechanical ventilator). The short-term mortality of patients with ARDS is&#xD;
+      approximately 40% and better ventilation of these patients has the greatest potential to&#xD;
+      improve outcomes.&#xD;
+&#xD;
+      The lungs in patients with ARDS are severely inflamed which reduces lung volume and their&#xD;
+      ability to stretch, making ventilation difficult and dangerous. However, mechanical&#xD;
+      ventilation is the mainstay of supportive therapy. Although it is life-saving, it can also&#xD;
+      can generate secondary injury and inflammation, called ventilator-induced lung injury (VILI).&#xD;
+      The investigators know that inadequate mechanical ventilation worsens outcomes but are&#xD;
+      uncertain of the optimal way to manage ventilators at the bedside.&#xD;
+&#xD;
+      Furthermore, ARDS is challenging because there is no treatment for the alveolar-capillary&#xD;
+      leak characterizing this syndrome; aside from treating the underlying cause, the only&#xD;
+      supportive therapy is mechanical ventilation. This is specially the case for COVID-19 induced&#xD;
+      ARDS. Despite best practices, over-distension of the lung or inappropriate positive end&#xD;
+      expiratory pressure (PEEP) is common. Finally, once spontaneous breathing has resumed and is&#xD;
+      assisted by the ventilator, an additional phenomenon occurs, called patient self-inflicted&#xD;
+      lung injury. The drive for breathing in many patients is stimulated by lung inflammation, and&#xD;
+      strong breathing efforts can generate high distending pressures, causing lung (and systemic)&#xD;
+      inflammation and organ damage. Whether the management of COVID-19 induced ARDS should differ&#xD;
+      from all other ARDS has been debated at length but has no clear response&#xD;
+&#xD;
+      Recent advances in our understanding of bedside physiology (airway closure, recruitability,&#xD;
+      lung distension, respiratory drive) can now be applied for an individual titration of&#xD;
+      mechanical ventilation.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 23, 2020</start_date>
+  <completion_date type="Anticipated">November 2022</completion_date>
+  <primary_completion_date type="Anticipated">May 2022</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>This study is also a basket design, which examines a single intervention in multiple disease populations. This basket trial consists of an identical 2-arm mechanical ventilation protocol implemented in two different study populations (patients with COVID-19-induced ARDS, and patients with all ARDS not induced by COVID-19). The protocol and procedures are identical between the two study populations in this basket trial.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>All-cause 60-day mortality</measure>
+    <time_frame>60 days</time_frame>
+    <description>The lack of an appropriate surrogate endpoint, and the high baseline mortality rate mandate a multicentre RCT to determine the mortality effects of setting the ventilator based on recruitability and effort compared with conventional ventilation.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Duration of ventilation</measure>
+    <time_frame>May exceed 60 days</time_frame>
+    <description>Duration of ventilation in days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of ICU and hospital stay</measure>
+    <time_frame>May exceed 60 days</time_frame>
+    <description>Duration of ICU and hospital stay in days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of patients with organ dysfunction</measure>
+    <time_frame>Day 1-7, 14, 21, 28</time_frame>
+    <description>Organ dysfunction as per the SOFA score</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of patients with barotrauma</measure>
+    <time_frame>Up to 60 days</time_frame>
+    <description>Barotrauma defined as new onset of pneumothorax</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality at ICU discharge, 28 days, and hospital discharge</measure>
+    <time_frame>Up to date of ICU discharge, 28 days, and hospital discharge</time_frame>
+    <description>Mortality</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>The change in biomarker expression</measure>
+    <time_frame>Baseline, 24 and 72 hours</time_frame>
+    <description>Biomarkers include interleukin 6 (IL-6), interleukin 8 (IL-8), tumor necrosis factor receptor 1 (TNFr1), soluble receptor of the advanced glycation end products (sRAGE), and surfactant protein D (SPD). All measured in pg/ml</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">740</enrollment>
+  <condition>ARDS</condition>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Standard ventilation strategy.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Respiratory Mechanics</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The goal of this arm is to individualize tidal volume (VT) and PEEP according to respiratory mechanics.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Respiratory Mechanics</intervention_name>
+    <description>Different maneuvers based on respiratory mechanics will be assessed at the bedside and will be used to individualize ventilator parameters. Recruitability will be assessed with a one breath decremental PEEP maneuver, and search for airway closure with a low-flow pressure volume or pressure-time curve. If the patient has airway closure, the minimal PEEP will be set at the airway opening pressure to avoid closure. If the patient is considered recruitable, the goal is to set PEEP at or above 15cmH20 to maximize alveolar recruitment, until the plateau pressure reaches the safety limit. Volume control ventilation at 6ml·kg-1 will be used.&#xD;
+Once spontaneous breathing has started, the occlusion pressure (P0.1) will be maintained within targets.</description>
+    <arm_group_label>Respiratory Mechanics</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Standard Ventilation Strategy</intervention_name>
+    <description>Patients randomized to the control arm will receive standard care. The PEEP is adjusted for oxygenation based on a PEEP-FiO2 table, either the low PEEP-FiO2 or the high PEEP-FiO2 table. Volume targeted ventilation with initial VT 6 mL·kg-1 and Plateau pressure at 30 cmH2O or below, targeting PaO2 60-80 or SpO2 90-95%, adjusted as per the protocol. Pressure-support ventilation is at physician's discretion, but recommended when FiO2 &lt;60%, and is titrated VT 6-8 mL·kg-1.</description>
+    <arm_group_label>Control</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Age ≥ 18 y&#xD;
+&#xD;
+          2. Moderate or severe ARDS (PaO2/FiO2 ≤ 200 mmHg) within 48 h of meeting Berlin ARDS&#xD;
+             criteria&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Received continuous mechanical ventilation &gt; 7 days&#xD;
+&#xD;
+          2. Known or clinically suspected elevated intracranial pressure (&gt;18mmHg) necessitating&#xD;
+             strict control of PaCO2&#xD;
+&#xD;
+          3. Known pregnancy&#xD;
+&#xD;
+          4. Broncho-pleural fistula&#xD;
+&#xD;
+          5. Severe liver disease (Child-Pugh Score ≥ 10)&#xD;
+&#xD;
+          6. BMI &gt;40kg/m2&#xD;
+&#xD;
+          7. Anticipating withdrawal of life support and/or shift to palliation as the goal of care&#xD;
+&#xD;
+          8. Patient is receiving ECMO at time of randomization&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Laurent Brochard, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Unity Health Toronto</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Laurent Brochard, MD</last_name>
+    <phone>416-864-6060</phone>
+    <phone_ext>5686</phone_ext>
+    <email>laurent.brochard@unityhealth.to</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>St. Michael's Hospital</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Laurent Brochard, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CH Victor Dupouy</name>
+      <address>
+        <city>Argenteuil</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gaetan Plantefeve, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CH de Beauvais</name>
+      <address>
+        <city>Beauvais</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jack Richecoeur, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Bordeaux - Haut Leveque</name>
+      <address>
+        <city>Bordeaux</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hadrien Roze, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital de la Cavale Blanche - CHRU Brest</name>
+      <address>
+        <city>Brest</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gwenael Prat, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CH de Cholet</name>
+      <address>
+        <city>Cholet</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Johann Auchabie, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Intercommunal de Creteil</name>
+      <address>
+        <city>Creteil</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tommaso Maraffi, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU Grenoble-Alpes</name>
+      <address>
+        <city>Grenoble</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nicolas Terzi, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Roger Salengro - CHU Lille</name>
+      <address>
+        <city>Lille</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Saad Nseir, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital de l'Archet 1 - CHU de Nice</name>
+      <address>
+        <city>Nice</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jean Dellamonica, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Europeen Georges-Pompidou</name>
+      <address>
+        <city>Paris</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jean-Luc Diehl, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHU de Poitiers - La Miletrie</name>
+      <address>
+        <city>Poitiers</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Remi Coudroy, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CH Bretagne Atlantique Vannes-Auray</name>
+      <address>
+        <city>Vannes</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Agathe Delbove, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>HIA Robert Picque</name>
+      <address>
+        <city>Villenave-d'Ornon</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>David Tran-Van, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Vall d'Hebron University Hospital</name>
+      <address>
+        <city>Barcelona</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Oriol Roca, MD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+    <country>France</country>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>May 6, 2019</study_first_submitted>
+  <study_first_submitted_qc>May 23, 2019</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 24, 2019</study_first_posted>
+  <last_update_submitted>January 14, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 14, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 19, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Ventilation</keyword>
+  <keyword>ARDS</keyword>
+  <keyword>Airway closure</keyword>
+  <keyword>Lung recruitment</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>Basket trial</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Distress Syndrome, Newborn</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Adult</mesh_term>
+    <mesh_term>Acute Lung Injury</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

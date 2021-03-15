@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3045">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04713176</url>
+  </required_header>
+  <id_info>
+    <org_study_id>DW_DWJ1248302</org_study_id>
+    <nct_id>NCT04713176</nct_id>
+  </id_info>
+  <brief_title>Efficacy and Safety of DWJ1248 With Remdesivir in Severe COVID-19 Patients</brief_title>
+  <official_title>A Double-blind, Randomized, Placebo-controlled, Multi-center, Phase III Study to Evaluate the Efficacy and Safety of DW1248 With Remdesivir in Severe COVID-19 Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Daewoong Pharmaceutical Co. LTD.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Daewoong Pharmaceutical Co. LTD.</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Efficacy and Safety of DWJ1248 with Remdesivir in Severe COVID-19 Patients&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 18, 2021</start_date>
+  <completion_date type="Anticipated">June 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Rate of motarllity or ECMO patients</measure>
+    <time_frame>Up to 29 days</time_frame>
+    <description>Percentage of patients with mortality(ordinal scale 8) or ECMO patients(ordinal scale 7)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Recovery days</measure>
+    <time_frame>Day 3,5,8,11,15,22,29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Desirable of Outcome Ranking</measure>
+    <time_frame>Day15,29</time_frame>
+    <description>reduced of SAE grade</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospitalization period</measure>
+    <time_frame>Day15,29</time_frame>
+    <description>The percent of participants</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of Mortality</measure>
+    <time_frame>Day15,29</time_frame>
+    <description>The percent of participants</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">1120</enrollment>
+  <condition>Severe COVID-19</condition>
+  <arm_group>
+    <arm_group_label>DWJ1248 with Remdesivir</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Camostat mesylate 200 mg, Remdesivir</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo with Remdesivir</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo, Remdesivir</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>DWJ1248 with Remdesivir</intervention_name>
+    <description>PO, 1 tablets of DWJ1248 TID(up to 14 days) IV, Remdesivir(up to 5 days)</description>
+    <arm_group_label>DWJ1248 with Remdesivir</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo with Remdesivir</intervention_name>
+    <description>PO, 1 tablets of DWJ1248 TID(up to 14 days) IV, Remdesivir(up to 5 days)</description>
+    <arm_group_label>Placebo with Remdesivir</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adults over the age of 19 as of the signed date in written consent&#xD;
+&#xD;
+          -  Subjects with COVID-19 according to RT-PCR test(within 10 days)&#xD;
+&#xD;
+          -  Subjects who need to be hospitalization and injected Remdesivir&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Subjects who cannot orally administer the investigational products&#xD;
+&#xD;
+          -  Subjects who requiring mechanical ventilation or ECMO&#xD;
+&#xD;
+          -  Acute Respiratory Distress Syndrome(ARDS), shock, multiple organ dysfunction syndrome&#xD;
+&#xD;
+          -  Subjects who need administration of immunosuppressants&#xD;
+&#xD;
+          -  Subjects who are allergic or sensitive to investigational products or its ingredients&#xD;
+&#xD;
+          -  Crcl &lt; 30 mL/min or eGFR &lt; 30 mL/min/1.73m^2&#xD;
+&#xD;
+          -  AST or ALT &gt;= 5xULN&#xD;
+&#xD;
+          -  Subjects who have been identified with uncontrolled concomitant diseases or&#xD;
+             conditions, including significant mental illness and social conditions, that may&#xD;
+             affect compliance with clinical trial procedures according to the determination of the&#xD;
+             investigators&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>19 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>January 14, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 14, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 19, 2021</study_first_posted>
+  <last_update_submitted>January 18, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 18, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 22, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

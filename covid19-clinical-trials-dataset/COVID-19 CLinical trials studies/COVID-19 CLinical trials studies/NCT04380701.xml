@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4398">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04380701</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BNT162-01</org_study_id>
+    <secondary_id>2020-001038-36</secondary_id>
+    <secondary_id>U1111-1249-4220</secondary_id>
+    <nct_id>NCT04380701</nct_id>
+  </id_info>
+  <brief_title>A Trial Investigating the Safety and Effects of Four BNT162 Vaccines Against COVID-2019 in Healthy and Immunocompromised Adults</brief_title>
+  <official_title>A Multi-site, Phase I/II, 2-Part, Dose-Escalation Trial Investigating the Safety and Immunogenicity of Four Prophylactic SARS-CoV-2 RNA Vaccines Against COVID-2019 Using Different Dosing Regimens in Healthy and Immunocompromised Adults</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>BioNTech SE</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>BioNTech SE</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This trial has two parts. Part A and Part B. Due to changes in the overall clinical&#xD;
+      development plan, Part B will no longer be conducted. The objectives originally described for&#xD;
+      Part B have been implemented in the ongoing development via a pivotal Phase I/II/III trial&#xD;
+      BNT162-02/C4591001 (ClinicalTrials.gov NCT: 04368728).&#xD;
+&#xD;
+      Part A is for dose ranging of four different vaccines (BNT162a1, BNT162b1, BNT162b2, and&#xD;
+      BNT162c2) which will be undertaken with dose escalation and de-escalation plus the evaluation&#xD;
+      of interim dose levels. It also includes dose ranging in older participants.&#xD;
+&#xD;
+      The vaccines BNT162a1, BNT162b1, BNT162b2, and BNT162c2 will be administered using a&#xD;
+      Prime/Boost (P/B) regimen. The vaccine BNT162c2 will also be administered using a Single dose&#xD;
+      (SD) regimen. Three additional cohorts aged from 18 to 85 years receiving BNT162b2 only.&#xD;
+&#xD;
+      BNT162b2 has entered a Phase II/III evaluation of efficacy, with the intent to support an&#xD;
+      application for marketing authorization. The dosing regimen under investigation is two&#xD;
+      BNT162b2 doses given ~21 d apart.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 23, 2020</start_date>
+  <completion_date type="Anticipated">April 2023</completion_date>
+  <primary_completion_date type="Anticipated">April 2023</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Solicited local reactions at the injection site (pain, tenderness, erythema/redness, induration/swelling) recorded up to 7 days after each immunization.</measure>
+    <time_frame>up to 7 days following each dose administration</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Solicited systemic reactions (nausea, vomiting, diarrhea, headache, fatigue, myalgia, arthralgia, chills, loss of appetite, malaise, and fever) recorded up to 7 days after each immunization.</measure>
+    <time_frame>up to 7 days following each dose administration</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The proportion of subjects with at least 1 unsolicited treatment emergent adverse event (TEAE):</measure>
+    <time_frame>21 days following dose administration</time_frame>
+    <description>For BNT162a1, BNT162b1, BNT162b2, and BNT162c2 (P/B): occurring up to 21 days after the prime immunization.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The proportion of subjects with at least 1 unsolicited treatment emergent adverse event (TEAE):</measure>
+    <time_frame>28 days following dose administration</time_frame>
+    <description>For BNT162a1, BNT162b1, BNT162b2, and BNT162c2 (P/B): occurring up to 28 days after the boost immunization.&#xD;
+For BNT162c2 (SD): The proportion of subjects with at least 1 unsolicited TEAE occurring up to 28 days after the immunization.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>For BNT162a1, BNT162b1, BNT162b2, and BNT162c2 (P/B):</measure>
+    <time_frame>up to 162 days following dose administration</time_frame>
+    <description>Functional antibody responses (titers) as compared to baseline at 7 and 21 days after primary immunization and at 7, 14, 21, 28, 63, and 162 days after the boost immunization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>For BNT162a1, BNT162b1, BNT162b2, and BNT162c2 (P/B):</measure>
+    <time_frame>up to 162 days following dose administration</time_frame>
+    <description>Fold increase in functional antibody titers as compared to baseline at 7 and 21 days after primary immunization and at 7, 14, 21, 28, 63, and 162 days after the boost immunization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>For BNT162a1, BNT162b1, BNT162b2, and BNT162c2 (P/B):</measure>
+    <time_frame>up to 162 days following dose administration</time_frame>
+    <description>Number of subjects with seroconversion defined as a minimum of 4-fold increase of functional antibody titers as compared to baseline at 7 and 21 days after primary immunization and at 7, 14, 21, 28, 63, and 162 days after the boost immunization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>For BNT162c2 (SD):</measure>
+    <time_frame>up to 183 days following dose administration</time_frame>
+    <description>Functional antibody responses (titers) as compared to baseline at 7, 21, 28, 42, 84, and 183 days after the primary immunization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>For BNT162c2 (SD):</measure>
+    <time_frame>up to 183 days following dose administration</time_frame>
+    <description>Fold increase in functional antibody titers as compared to baseline at 7, 21, 28, 42, 84, and 183 days after the primary immunization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>For BNT162c2 (SD):</measure>
+    <time_frame>up to 183 days following dose administration</time_frame>
+    <description>Number of subjects with seroconversion defined as a minimum of 4-fold increase of functional antibody titers as compared to baseline at 7, 21, 28, 42, 84, and 183 days after the primary immunization.</description>
+  </secondary_outcome>
+  <number_of_arms>8</number_of_arms>
+  <enrollment type="Anticipated">456</enrollment>
+  <condition>Infections, Respiratory</condition>
+  <condition>Virus Diseases</condition>
+  <condition>Infection Viral</condition>
+  <condition>Vaccine Adverse Reaction</condition>
+  <condition>RNA Virus Infections</condition>
+  <condition>Protection Against COVID-19 and Infections With SARS CoV 2</condition>
+  <arm_group>
+    <arm_group_label>BNT162a1 (P/B) - Part A 18-55 years of age</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Escalating dose levels</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>BNT162b1 (P/B) - Part A 18-55 years of age</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Escalating dose levels</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>BNT162b2 (P/B) - Part A 18-55 years of age</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Escalating dose levels</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>BNT162c2 (P/B) - Part A 18-55 years of age</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Escalating dose levels</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>BNT162c2 (prime only) - Part A 18-55 years of age</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Single dose</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>BNT162b1 (P/B) - Part A 56-85 years of age</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Escalating dose levels</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>BNT162b2 (P/B) - Part A 56-85 years of age</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Escalating dose levels</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>BNT162b2 (P/B) - Part A 18-85 years of age (Expansion cohorts 11 to 13)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Escalating dose levels</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>BNT162a1</intervention_name>
+    <description>Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection.</description>
+    <arm_group_label>BNT162a1 (P/B) - Part A 18-55 years of age</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>BNT162b1</intervention_name>
+    <description>Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection.</description>
+    <arm_group_label>BNT162b1 (P/B) - Part A 18-55 years of age</arm_group_label>
+    <arm_group_label>BNT162b1 (P/B) - Part A 56-85 years of age</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>BNT162b2</intervention_name>
+    <description>Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection.</description>
+    <arm_group_label>BNT162b2 (P/B) - Part A 18-55 years of age</arm_group_label>
+    <arm_group_label>BNT162b2 (P/B) - Part A 18-85 years of age (Expansion cohorts 11 to 13)</arm_group_label>
+    <arm_group_label>BNT162b2 (P/B) - Part A 56-85 years of age</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>BNT162c2</intervention_name>
+    <description>Anti-viral RNA vaccine for active immunization against COVID-19 administered as intramuscular injection.</description>
+    <arm_group_label>BNT162c2 (P/B) - Part A 18-55 years of age</arm_group_label>
+    <arm_group_label>BNT162c2 (prime only) - Part A 18-55 years of age</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Have given informed consent by signing the informed consent form (ICF) before&#xD;
+             initiation of any trial-specific procedures.&#xD;
+&#xD;
+          -  They must be willing and able to comply with scheduled visits, treatment schedule,&#xD;
+             laboratory tests, lifestyle restrictions (e.g., to practice social distancing and to&#xD;
+             follow good practices to reduce their chances of being infected or spreading&#xD;
+             COVID-19), and other requirements of the trial.&#xD;
+&#xD;
+          -  They must be able to understand and follow trial-related instructions.&#xD;
+&#xD;
+          -  For younger adult cohorts, volunteers must be aged 18 to 55 years, have a body mass&#xD;
+             index (BMI) over 19 kg/m^2 and under 30 kg/m^2, and weigh at least 50 kg at Visit 0.&#xD;
+             OR For older adult cohorts, volunteers must be aged 56 to 85 years, have a BMI over 19&#xD;
+             kg/m^2 and under 30 kg/m^2, and weigh at least 50 kg at Visit 0. OR For the&#xD;
+             immunocompromised adult cohort (Cohort 13), volunteers must be aged 18 to 85 years,&#xD;
+             have a BMI over 19 kg/m^2 and under 30 kg/m^2, and weigh at least 50 kg at Visit 0.&#xD;
+&#xD;
+          -  They must be healthy, in the clinical judgment of the investigator, based on medical&#xD;
+             history, physical examination, 12-lead electrocardiogram (ECG), vital signs&#xD;
+             (systolic/diastolic blood pressure, pulse rate, body temperature, respiratory rate),&#xD;
+             and clinical laboratory tests (blood chemistry, hematology, and urine chemistry) at&#xD;
+             Visit 0. Note: Healthy volunteers with pre-existing stable disease, defined as disease&#xD;
+             not requiring significant change in therapy or hospitalization for worsening disease&#xD;
+             during the 6 weeks before enrollment, can be included. OR For the immunocompromised&#xD;
+             cohort (Cohort 13); volunteers who have previously received solid organ transplant, or&#xD;
+             peripheral blood stem cell transplantation ≥6 months after transplantation, or&#xD;
+             individuals with human immunodeficiency virus (HIV) infection with a CD4+ T-cell count&#xD;
+             of ≥200 x 106 /L. Individuals with lower T-cell counts will be excluded from the trial&#xD;
+             on the basis that this represents a significant medical complication. In the clinical&#xD;
+             judgment of the investigator, volunteers must be immunocompromised but otherwise&#xD;
+             healthy. After consultation with the Medical Monitor, this may include individuals&#xD;
+             receiving immunosuppressant therapy due to another confounding disease at least 2&#xD;
+             weeks prior to enrollment and/or at least 6 weeks following immunization with&#xD;
+             BNT162b2, and/or individuals with immunosuppressive treatment of an autoimmune disease&#xD;
+             if the disease is stable.&#xD;
+&#xD;
+          -  Women of childbearing potential (WOCBP) must have a negative beta-human chorionic&#xD;
+             gonadotropin urine test at Visit 0 and Visit 1. Women that are postmenopausal or&#xD;
+             permanently sterilized will be considered as not having reproductive potential.&#xD;
+&#xD;
+          -  WOCBP must agree to practice a highly effective form of contraception during the&#xD;
+             trial, starting after Visit 0 and continuously until 60 days after receiving the last&#xD;
+             immunization. WOCBP must agree to require their male partners to use condoms during&#xD;
+             sexual contact (unless male partners are sterilized or infertile).&#xD;
+&#xD;
+          -  WOCBP must confirm that they practice at least one highly effective form of&#xD;
+             contraception for the 14 days prior to Visit 0.&#xD;
+&#xD;
+          -  WOCBP must agree not to donate eggs (ova, oocytes) for the purposes of assisted&#xD;
+             reproduction during trial, starting after Visit 0 and continuously until 60 days after&#xD;
+             receiving the last immunization.&#xD;
+&#xD;
+          -  Men who are sexually active with a WOCBP and have not had a vasectomy must agree to&#xD;
+             practice a highly effective form of contraception with their female partner of&#xD;
+             childbearing potential during the trial, starting after Visit 0 and continuously until&#xD;
+             60 days after receiving the last immunization.&#xD;
+&#xD;
+          -  Men must be willing to refrain from sperm donation, starting after Visit 0 and&#xD;
+             continuously until 60 days after receiving the last immunization.&#xD;
+&#xD;
+          -  They must have confirmation of their health insurance coverage prior to Visit 0.&#xD;
+&#xD;
+          -  They must agree to not be vaccinated during the trial, starting after Visit 0 and&#xD;
+             continuously until 28 days after receiving the last immunization.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Have had any acute illness, as determined by the investigator, with or without fever,&#xD;
+             within 72 hours prior to the first immunization. An acute illness which is nearly&#xD;
+             resolved with only minor residual symptoms remaining is allowable if, in the opinion&#xD;
+             of the investigator, the residual symptoms will not compromise their well-being if&#xD;
+             they participate as trial subjects in the trial, or that could prevent, limit, or&#xD;
+             confound the protocol-specified assessments.&#xD;
+&#xD;
+          -  Are breastfeeding on the day of Visit 0 or who plan to breastfeed during the trial,&#xD;
+             starting after Visit 0 and continuously until at least 90 days after receiving the&#xD;
+             last immunization.&#xD;
+&#xD;
+          -  Have a known allergy, hypersensitivity, or intolerance to the planned investigational&#xD;
+             medicinal product (IMP) including any excipients of the IMP.&#xD;
+&#xD;
+          -  Had any medical condition or any major surgery (e.g., requiring general anesthesia)&#xD;
+             within the past 5 years which, in the opinion of the investigator, could compromise&#xD;
+             their well-being if they participate as trial subjects in the trial, or that could&#xD;
+             prevent, limit, or confound the protocol-specified assessments.&#xD;
+&#xD;
+          -  Have any surgery planned during the trial, starting after Visit 0 and continuously&#xD;
+             until at least 90 days after receiving the last immunization.&#xD;
+&#xD;
+          -  Had any chronic use (more than 21 continuous days) of any systemic medications,&#xD;
+             including immunosuppressant's or other immune-modifying drugs (except for Cohort 13),&#xD;
+             within the 6 months prior to Visit 0 unless in the opinion of the investigator, the&#xD;
+             medication would not prevent, limit, or confound the protocol-specified assessments or&#xD;
+             could compromise subject safety. Note: Healthy volunteers with pre-existing stable&#xD;
+             disease, defined as disease not requiring significant change in therapy or&#xD;
+             hospitalization for worsening disease during the 6 weeks before enrollment, can be&#xD;
+             included.&#xD;
+&#xD;
+          -  Had any vaccination within the 28 days prior to Visit 0.&#xD;
+&#xD;
+          -  Had administration of any immunoglobulins and/or any blood products within the 3&#xD;
+             months prior to Visit 0.&#xD;
+&#xD;
+          -  Had administration of another investigational medicinal product including vaccines&#xD;
+             within 60 days or 5 half-lives (whichever is longer), prior to Visit 0.&#xD;
+&#xD;
+          -  Have a known history or a positive test for any of Hepatitis B, or Hepatitis C, or HIV&#xD;
+             1 or 2 (except for Cohort 13) within the 30 d prior to Visit 0.&#xD;
+&#xD;
+          -  Have a positive polymerase chain reaction (PCR)-based test for SARS-CoV-2 within the&#xD;
+             30 days prior to Visit 1.&#xD;
+&#xD;
+          -  Have a positive drugs of abuse (for amphetamines, benzodiazepines, barbiturates,&#xD;
+             cocaine, cannabinoids, opiates, methadone, methamphetamines, phencyclidine, and&#xD;
+             tricyclic antidepressants) result at Visit 0 or Visit 1.&#xD;
+&#xD;
+          -  Have a positive breath alcohol test at Visit 0 or Visit 1.&#xD;
+&#xD;
+          -  Previously participated in an investigational trial involving lipid nanoparticles.&#xD;
+&#xD;
+          -  Are subject to exclusion periods from other investigational trials or simultaneous&#xD;
+             participation in another clinical trial. When entering the follow-up phase, i.e.,&#xD;
+             after completing the end of treatment (EoT) visit, subjects are allowed to participate&#xD;
+             in other clinical trials not investigating COVID-19 vaccines or treatments.&#xD;
+&#xD;
+          -  Have any affiliation with the trial site (e.g., are close relative of the investigator&#xD;
+             or dependent person, such as an employee or student of the trial site).&#xD;
+&#xD;
+          -  Have a history (within the past 5 years) of substance abuse or known medical,&#xD;
+             psychological, or social conditions which, in the opinion of the investigator, could&#xD;
+             compromise their well-being if they participate as trial subjects in the trial, or&#xD;
+             that could prevent, limit, or confound the protocol-specified assessments.&#xD;
+&#xD;
+          -  Have a history of hypersensitivity or serious reactions to previous vaccinations.&#xD;
+&#xD;
+          -  Have a history of Guillain-Barré Syndrome within 6 weeks following a previous&#xD;
+             vaccination.&#xD;
+&#xD;
+          -  Have a history of narcolepsy.&#xD;
+&#xD;
+          -  Have history of alcohol abuse or drug addiction within 1 year before Visit 0.&#xD;
+&#xD;
+          -  (Except for Cohort 13) Have a history of or suspected immunosuppressive condition,&#xD;
+             acquired or congenital, as determined by medical history and/or physical examination&#xD;
+             at Visit 0.&#xD;
+&#xD;
+          -  Have any abnormality or permanent body art (e.g., tattoo) that, in the opinion of the&#xD;
+             investigator, would obstruct the ability to observe local reactions at the injection&#xD;
+             site.&#xD;
+&#xD;
+          -  Have had any blood loss &gt;450 mL, e.g., due to donation of blood or blood products or&#xD;
+             injury, within the 7 days prior to Visit 0 or plan to donate blood during the trial,&#xD;
+             starting after Visit 0 and continuously until at least 7 days after receiving the last&#xD;
+             immunization.&#xD;
+&#xD;
+          -  Have symptoms of COVID-19, e.g., respiratory symptoms, fever, cough, shortness of&#xD;
+             breath and breathing difficulties.&#xD;
+&#xD;
+          -  Have had contact with persons diagnosed with COVID-19 or who tested positive for&#xD;
+             SARS-CoV-2 by any diagnostic test within the 30 days prior to Visit 1.&#xD;
+&#xD;
+          -  Are soldiers, volunteers in detention, contract research organization (CRO) or sponsor&#xD;
+             staff or their family members.&#xD;
+&#xD;
+          -  Regular receipt of inhaled/nebulized corticosteroids (except for Cohort 13).&#xD;
+&#xD;
+          -  For older volunteers and for Cohort 13 only: Have a condition known to put them at&#xD;
+             high risk for severe COVID-19, including those with any of the following risk factors:&#xD;
+&#xD;
+          -  Hypertension.&#xD;
+&#xD;
+          -  Diabetes mellitus.&#xD;
+&#xD;
+          -  Chronic obstructive pulmonary disease.&#xD;
+&#xD;
+          -  Asthma.&#xD;
+&#xD;
+          -  Chronic liver disease.&#xD;
+&#xD;
+          -  Known Stage 3 or worse chronic kidney disease (glomerular filtration rate &lt;60&#xD;
+             mL/min/1.73 m^2).&#xD;
+&#xD;
+          -  Serious heart conditions, such as heart failure, coronary artery disease, or&#xD;
+             cardiomyopathies.&#xD;
+&#xD;
+          -  Sickle cell disease.&#xD;
+&#xD;
+          -  Cancer (except for Cohort 13).&#xD;
+&#xD;
+          -  Are immune compromised due to stem cell or organ-transplantation with significant&#xD;
+             medical complications such as acute or chronic graft rejection or graft versus host&#xD;
+             disease requiring intensive immunosuppressive treatment, transplant failure or&#xD;
+             infectious complications or other conditions that would be considered a&#xD;
+             contraindication for vaccination.&#xD;
+&#xD;
+          -  Are immune compromised due to HIV infection with a CD4+ count of &lt; 200 x 10^6 /L at&#xD;
+             screening or significant medical complications such as opportunistic infections,&#xD;
+             malignant complications (e.g., lymphoma, Kaposi sarcoma), other organ manifestations&#xD;
+             consistent with advanced AIDS or other conditions that would be considered a&#xD;
+             contraindication for vaccination.&#xD;
+&#xD;
+          -  Resident in a long term facility.&#xD;
+&#xD;
+          -  Current vaping or smoking (occasional smoking is acceptable).&#xD;
+&#xD;
+          -  History of chronic smoking within the prior year.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>BioNTech Responsible Person</last_name>
+    <role>Study Director</role>
+    <affiliation>BioNTech SE</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>BioNTech clinical trials patient information</last_name>
+    <phone>+49 6131 9084</phone>
+    <phone_ext>1919</phone_ext>
+    <email>patients@biontech.de</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>BioNTech clinical trial information desk</last_name>
+    <phone>+49 6131 9084</phone>
+    <phone_ext>0</phone_ext>
+    <email>info@biontech.de</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Contract Research Organization</name>
+      <address>
+        <city>Berlin</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitäts Klinikum</name>
+      <address>
+        <city>Frankfurt am Main</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Universitäts Klinikum</name>
+      <address>
+        <city>Heidelberg</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Contract Research Organization</name>
+      <address>
+        <city>Kiel</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Contract Research Organization</name>
+      <address>
+        <city>Mannheim</city>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>May 6, 2020</study_first_submitted>
+  <study_first_submitted_qc>May 7, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 8, 2020</study_first_posted>
+  <last_update_submitted>February 1, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 1, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 3, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>Severe Acute Respiratory Syndrome (SARS)</keyword>
+  <keyword>Coronavirus Disease 2019</keyword>
+  <keyword>COVID-2019</keyword>
+  <keyword>Virus Diseases</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Respiratory Tract Infections</mesh_term>
+    <mesh_term>Virus Diseases</mesh_term>
+    <mesh_term>RNA Virus Infections</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

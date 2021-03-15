@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4625">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04677842</url>
+  </required_header>
+  <id_info>
+    <org_study_id>EPPICC</org_study_id>
+    <nct_id>NCT04677842</nct_id>
+  </id_info>
+  <brief_title>European Pregnancy and Paediatric Infections Cohort Collaboration: Paediatric Protocol</brief_title>
+  <acronym>EPPICC</acronym>
+  <official_title>European Pregnancy and Paediatric Infections Cohort Collaboration (EPPICC): Paediatric Protocol</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>PENTA Foundation</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>MRC Clinical Trials Unit at UCL</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Centre Hospitalier Universitaire Saint Pierre</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>German Pediatric and Adolescent HIV Cohort (GEPIC), GERMANY</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Greece Cohort, GREECE</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Register for HIV infection in children, ITALY</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>ATHENA ,THE NETHERLANDS</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Polish Paediatric Cohort, POLAND</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>HSM/CHLN Lisbon, PORTUGAL</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Centro Hospitalar do Porto</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Victor Babes Hospital Cohort, Bucharest, ROMANIA</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Republican Hospital of Infectious Diseases, St Petersburg, RUSSIA</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Irkutsk AIDS Centre, RUSSIA</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>The City HIV Centre, St Petersburg, RUSSIA</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>CoRISpe-cat cohort of HIV-infected children, SPAIN</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>CoRISpe-S cohort of HIV-infected children, SPAIN</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Karolinska Institutet</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Swiss Mother and Child HIV Cohort Study, SWITZERLAND</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Programs for HIV Prevention and Treatment (PHPT), THAILAND</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Surveilliance of HIV in Pregnancy and Childhood and Collaborative HIV Paediatric Study (CHIPS)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Collaborative HIV Paediatric Study (CHIPS)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Ukraine Paediatric HIV Cohort, UKRAINE</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>PENTA Foundation</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Across Europe and worldwide, there are many studies following groups (cohorts) of children&#xD;
+      living with human immunodeficiency virus (HIV) and other infections over time, to monitor&#xD;
+      their long-term health. Some of these infections are rare: for example, few children in&#xD;
+      Western Europe are living with HIV, so the studies often have fairly small numbers of&#xD;
+      participants. This can make it difficult to answer research questions in these cohorts and&#xD;
+      means that doctors and researchers working with these patients in different countries need to&#xD;
+      work together. This is particularly important as children are not often included in clinical&#xD;
+      trials of treatments and other interventions.&#xD;
+&#xD;
+      The European Pregnancy and Paediatric Infections Cohort Collaboration (EPPICC) is an&#xD;
+      international network of researchers working together in this way. Researchers in the network&#xD;
+      represent cohort studies of pregnant women and children with, or at risk of, infections from&#xD;
+      across Europe and Thailand. The research focuses on infections in pregnant women and&#xD;
+      children, particularly HIV, hepatitis B and C virus, and tuberculosis, and, from 2020, novel&#xD;
+      coronavirus (COVID-19). By combining data from many cohorts, the researchers aim to answer&#xD;
+      questions that could not be answered by one study individually (for example, because a large&#xD;
+      number of pregnant women or children are needed to answer the question).&#xD;
+&#xD;
+      This protocol focuses on the paediatric component of EPPICC's research, which focuses on the&#xD;
+      treatment of children at risk of and living with infections. For example, what medicines are&#xD;
+      used most often and how do they affect children's health? EPPICC is an observational study,&#xD;
+      which means that children do not receive any extra treatment as part of the study. Instead,&#xD;
+      children are &quot;observed&quot; during their routine medical care. Each cohort keeps records of the&#xD;
+      children's health collected at routine clinic visits, including information such as date of&#xD;
+      birth and sex, results of diagnostic tests, treatments received, and any illnesses or other&#xD;
+      events that the children have had. The EPPICC study combines and analyses data from all of&#xD;
+      the cohorts that take part, to answer questions about the risks and benefits of different&#xD;
+      diagnosis or treatment strategies, the long-term effects of infection and treatment during&#xD;
+      childhood and young adulthood, and regional variations (e.g. between Western and Eastern&#xD;
+      Europe) in the risk and management of infections.&#xD;
+&#xD;
+      All of the data collected through the EPPICC Paediatric Protocol are stored securely at the&#xD;
+      Medical Research Council Clinical Trials Unit (MRC CTU) at UCL. Data collection and storage&#xD;
+      are governed by the General Data Protection Regulation. A Steering Committee guides the&#xD;
+      research to make sure it is relevant and of high quality. Public and patient involvement&#xD;
+      (PPI) may be provided by individual cohorts' own groups, as well as by the interlinked Penta&#xD;
+      organisation, which is a network of paediatricians and researchers working in infections in&#xD;
+      Europe and globally. The PPI groups help with release of the results of the research. The&#xD;
+      results are also published on the Penta Foundation's public website (https://penta-id.org/),&#xD;
+      and presented at conferences and published in Open Access scientific journals.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      MAIN AIM OF THE STUDY The overall aim of the EPPICC Paediatric Protocol is to analyse&#xD;
+      individual patient data from across collaborating European and international cohorts on&#xD;
+      infections in children and young people, to inform optimal prevention and treatment&#xD;
+      strategies.&#xD;
+&#xD;
+      MAIN AREAS OF FOCUS HIV: prevalence and incidence of immunological and virological failure,&#xD;
+      HIV resistance, AIDS and non-AIDS events, mortality, cascade of care, engagement in care&#xD;
+      (including after transfer to adult care); antiretroviral therapy status and toxicities&#xD;
+      (adverse events, serious adverse events and discontinuation of drug) HCV: disease&#xD;
+      progression, uptake and outcome (effectiveness and safety) of HCV treatment in HCV mono- and&#xD;
+      HCV-HIV co-infected patients TB: incidence (including exploration of different&#xD;
+      diagnostic/screening strategies across regions) of LTBI and TB disease; outcomes of TB&#xD;
+      treatment including treatment of LTBI COVID-19: prevalence and incidence of infection and&#xD;
+      disease among both the general population and specifically among children and adolescents&#xD;
+      living with HIV; admission to hospital/ICU; outcomes (including resolution, death, sequelae&#xD;
+      (e.g. paediatric inflammatory syndrome temporally associated with SARS-CoV-2)) COHORT /&#xD;
+      INVESTIGATOR INCLUSION CRITERIA The study Sponsor has overall responsibility for site and&#xD;
+      investigator selection.&#xD;
+&#xD;
+      The Principal Investigators of cohorts which have participated in previous EPPICC data&#xD;
+      mergers will be approached to ascertain their interest in participating in future data&#xD;
+      mergers. New cohorts may also be identified and may be invited to participate. The key&#xD;
+      inclusion criterion for a cohort to participate is enrolment of children and adolescents with&#xD;
+      the infection of interest. All cohorts who are able to commit to submitting and cleaning&#xD;
+      data, obtaining any ethical, regulatory or other approvals required locally, and completion&#xD;
+      of data sharing agreements in accordance with the project timelines will be included.&#xD;
+&#xD;
+      DATA COLLECTION Collected data are pseudonymised: no names, initials, hospital numbers,&#xD;
+      national ID or addresses of patients are collected. Core data items included in most EPPICC&#xD;
+      paediatric data mergers include the following; Demographic: Date of birth, sex,&#xD;
+      ethnicity/country of origin, country of residence Therapeutic: Prophylaxis and treatment data&#xD;
+      (HIV, HCV, TB and COVID-19 treatments) including start and stop dates, drug names, doses and&#xD;
+      frequency of administration, and reasons for change/discontinuation Diagnostic: Diagnostic&#xD;
+      tests for infections undertaken, including dates and results Concurrent treatments: Other&#xD;
+      medications Clinical Infection status: (HIV, TB, HCV, HBV, SARS-CoV-2, other infection of&#xD;
+      interest), mode of acquisition of infection, date of diagnosis, disease stage Clinical (other&#xD;
+      events): Adverse events (e.g. severity, causal relation to drugs), AIDS- and non-AIDS-&#xD;
+      defining malignancies, COVID-19 sequelae, weight, height, death, causes of death, pregnancy,&#xD;
+      hospitalisations Laboratory: Absolute CD4 counts and percentage, HIV RNA, HCV RNA&#xD;
+      measurements, other lab markers Other Follow-up status, reason for study drop-out, transfer&#xD;
+      to adult care&#xD;
+&#xD;
+      For certain analyses, additional data items may be requested, and may include:&#xD;
+&#xD;
+        -  Biochemistry results&#xD;
+&#xD;
+        -  Further details of severe adverse events&#xD;
+&#xD;
+        -  Outcome of severe events. Data merger methods Individual cohorts collect data from&#xD;
+           medical records in clinics. Cohorts then send electronic datasets to the EPPICC&#xD;
+           Paediatric Data Manager, using a format and method defined in an EPPICC Standard&#xD;
+           Operating Procedure. For the ongoing HIV analyses, data variables are based on HICDEP&#xD;
+           data formats. HICDEP is the HIV Cohorts Data Exchange Protocol (www.hicdep.org) and is&#xD;
+           based on a relational structure, with data presented in a series of tables, together&#xD;
+           with the lookup tables for the codes to be used. For other future cohort collaborations,&#xD;
+           the variables to be collected and the database format will be based on existing data&#xD;
+           collection tools and standards where possible. Transfer of data to the EPPICC Paediatric&#xD;
+           Data Manager takes place using Galaxkey or an equivalent secured method.&#xD;
+&#xD;
+      Submitted data are subjected to a range of logic and consistency checks. STATISTICAL&#xD;
+      CONSIDERATIONS EPPICC analyses may cover a wide range of questions, although individual&#xD;
+      Concept Sheets are specific to focussed research questions.&#xD;
+&#xD;
+      SAMPLE SIZE Data are collected on all eligible participants enrolled in the participating&#xD;
+      centres who meet the inclusion criteria. Sample size calculations are carried out for&#xD;
+      specific planned analyses to ensure that sufficient participants are available to&#xD;
+      meaningfully answer each research question.&#xD;
+&#xD;
+      ANALYSIS PLAN Each Concept Sheet includes a brief analysis plan. Standard statistical methods&#xD;
+      are used in the analysis of different types of exposure and outcome data. Adjustment for&#xD;
+      confounding may be achieved through multivariable modelling or using alternative approaches&#xD;
+      such as propensity scoring. Missing data are to be expected and, depending on the analysis&#xD;
+      and the amount and likely mechanisms of missing data, may be approached using complete case&#xD;
+      analysis or techniques such as multiple imputation. Details of specific analytical approaches&#xD;
+      are included in each Concept Sheet. Previous analyses of EPPICC paediatric data have used&#xD;
+      approaches including Cox regression, linear regression, logistic regression, and propensity&#xD;
+      score matching. Cohorts may be grouped by region (as cohorts within the same region are often&#xD;
+      similar in terms of epidemiology and treatment approaches), and region is then included as a&#xD;
+      covariate in the analysis.&#xD;
+&#xD;
+      REGULATORY &amp; ETHICAL ISSUES COMPLIANCE EPPICC is an observational study with no&#xD;
+      study-specific interventions beyond those received in routine care. Nevertheless, it is&#xD;
+      conducted in compliance with the approved protocol, the Declaration of Helsinki 1996, the&#xD;
+      principles of Good Clinical Practice, the General Data Protection Regulation and the UK Data&#xD;
+      Protection Act 2018 (DPA number: Z6364106), and the UK Policy Framework for Health and Social&#xD;
+      Care Research.&#xD;
+&#xD;
+      Each cohort is responsible for ensuring compliance with local and national regulatory and&#xD;
+      ethical processes.&#xD;
+&#xD;
+      DATA RETENTION&#xD;
+&#xD;
+      The paediatric study dataset will be stored at the MRC CTU at UCL, in accordance with&#xD;
+      national data legislation. A final copy will be sent to the study sponsor, the Penta&#xD;
+      Foundation. The dataset will be held for a minimum of 5 years after the end of the study.&#xD;
+&#xD;
+      DATA SHARING AGREEMENTS BETWEEN COHORTS AND EPPICC Individual cohorts, the Penta Foundation&#xD;
+      and the MRC CTU at UCL are required to sign a Data Sharing Agreement (DSA), which allows&#xD;
+      transfer of data between cohorts and the Penta Foundation and the MRC CTU at UCL. All data&#xD;
+      will be handled and used in accordance with the DSA. Cohorts should return the DSA, once&#xD;
+      signed, to the project coordinator at the Penta Foundation.&#xD;
+&#xD;
+      THIRD PARTY DATA SHARING REQUESTS Extracts of EPPICC data may be requested for other cohort&#xD;
+      collaboration analyses, both nationally and internationally. Requests to access EPPICC data&#xD;
+      will be considered on a case by case basis. Transfer of EPPICC data (partial or complete) to&#xD;
+      third party collaborators requires approval from the PIs of cohorts contributing data (or&#xD;
+      authorised cohort representatives) and is subject to a contract and Data Sharing Agreement,&#xD;
+      if applicable. All data transfer is conducted through a secure process. Any data transferred&#xD;
+      to third parties must be stored by third parties in compliance with all relevant data&#xD;
+      protection regulations.&#xD;
+&#xD;
+      Researchers wishing to access EPPICC data should contact the EPPICC Study Team in the first&#xD;
+      instance. A Concept Sheet is then required, which would be circulated to and discussed with&#xD;
+      all potential contributing cohorts.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">January 1, 2013</start_date>
+  <completion_date type="Anticipated">January 1, 2025</completion_date>
+  <primary_completion_date type="Actual">November 11, 2020</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Other</time_perspective>
+  </study_design_info>
+  <target_duration>10 Years</target_duration>
+  <primary_outcome>
+    <measure>CD4 count in adulthood of young people with HIV assessed using routine clinical data</measure>
+    <time_frame>through study completion, an average of 5 year</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>2. Viral suppression in adulthood of young people with HIV assessed using routine clinical data</measure>
+    <time_frame>through study completion, an average of 5 year</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Viral suppression defined as &lt;50 copies, &lt;400 copies and 1000 copies/mL) upto 144 weeks.</measure>
+    <time_frame>up to 144 weeks</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>CD4 change from drug start up to 144 weeks</measure>
+    <time_frame>up to 144 weeks</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cumulative incidence of virological failure (&gt;1000 copies/mL)</measure>
+    <time_frame>through study completion, an average of 5 years</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>From start of novel drug of interest through to earliest date of the following: death, loss to follow-up, discontinuation of drug or last visit</measure>
+    <time_frame>From date of novel drug initiation until earliest date of death, loss to follow-up, discontinuation of drug or last visit assessed up to 36 months</time_frame>
+  </primary_outcome>
+  <enrollment type="Actual">10000</enrollment>
+  <condition>HIV Infections</condition>
+  <condition>Tuberculosis Infection</condition>
+  <condition>Hepatitis C</condition>
+  <condition>Covid19</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ART Therapy</intervention_name>
+    <other_name>This is an observational study</other_name>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Paediatric infectious disease clinics across Europe and Thailand&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Children and adolescents diagnosed with HIV and/or chronic HCV are eligible for inclusion&#xD;
+        in this data merger provided they meet one, or both, of the inclusion criteria below:&#xD;
+&#xD;
+        Children and young people living with HIV:&#xD;
+&#xD;
+          -  Diagnosis of HIV infection at age &lt;18 years&#xD;
+&#xD;
+          -  ≥1 visit in paediatric care AND / OR&#xD;
+&#xD;
+          -  Children and young people living with HCV:&#xD;
+&#xD;
+          -  Diagnosis of chronic HCV infection at age &lt;18 (defined as ≥1 antibody HCV positive&#xD;
+             results at ≥18 months of age or ≥1 HCV RNA positive result at ≥6 months of age) ≥1&#xD;
+             visit in paediatric care&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>17 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>November 11, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 16, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 21, 2020</study_first_posted>
+  <last_update_submitted>December 16, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 16, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 21, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>HIV</keyword>
+  <keyword>Tuberculosis</keyword>
+  <keyword>hepatitis C</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>paediatric</keyword>
+  <keyword>cohort</keyword>
+  <keyword>infectious diseases</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Tuberculosis</mesh_term>
+    <mesh_term>Latent Tuberculosis</mesh_term>
+    <mesh_term>Hepatitis C</mesh_term>
+    <mesh_term>Hepatitis</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

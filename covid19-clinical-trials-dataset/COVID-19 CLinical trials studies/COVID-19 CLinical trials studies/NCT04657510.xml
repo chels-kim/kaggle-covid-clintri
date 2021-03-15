@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="18">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04657510</url>
+  </required_header>
+  <id_info>
+    <org_study_id>FACE COVID-19</org_study_id>
+    <nct_id>NCT04657510</nct_id>
+  </id_info>
+  <brief_title>Femoral frACturEs and COVID-19.</brief_title>
+  <acronym>FACE COVID-19</acronym>
+  <official_title>Femoral frACturEs and COVID-19. Retrospective Comparative Cohort Study on the Early Prognosis of Patients Affected by Proximal Femur Fractures and COVID-19.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Istituto Ortopedico Galeazzi</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Istituto Ortopedico Galeazzi</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Retrospective cohort study comparing the early prognosis after surgically-treated proximal&#xD;
+      femur fragility fractures in patients affected and not affected by COVID-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 14, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2020</completion_date>
+  <primary_completion_date type="Anticipated">December 1, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Survival at discharge day (comparison between the two groups)</measure>
+    <time_frame>on discharge day, on average after 1 week</time_frame>
+    <description>Survival at discharge day (comparison between the two groups)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Length of stay (comparison between the two groups)</measure>
+    <time_frame>on discharge day, on average 1 week</time_frame>
+    <description>Length of stay (comparison between the two groups)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Readmission rate (comparison between the two groups)</measure>
+    <time_frame>up to 30 days after discharge</time_frame>
+    <description>Readmission rate (comparison between the two groups)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Complications rate (comparison between the two groups)</measure>
+    <time_frame>up to 30 days after discharge</time_frame>
+    <description>Complications rate (comparison between the two groups)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Survival at 30 days after discharge (comparison between the two groups)</measure>
+    <time_frame>30 days after discharge</time_frame>
+    <description>Survival at 30 days after discharge (comparison between the two groups)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Routine lab exams values (comparison between the two groups)</measure>
+    <time_frame>At admission, 1st postoperative day, 5th postoperative day, on discharge day</time_frame>
+    <description>Routine lab exams values (comparison between the two groups)</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">140</enrollment>
+  <condition>Covid19</condition>
+  <condition>Femur Fracture</condition>
+  <condition>Fragility Fracture</condition>
+  <arm_group>
+    <arm_group_label>Proximal femur fracture AND COVID-19</arm_group_label>
+    <description>Surgical treatment of femur fracture</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Proximal femur fracture NO COVID</arm_group_label>
+    <description>Surgical treatment of femur fracture</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>COVID-19</intervention_name>
+    <description>Patients affected versus not affected by COVID-19, with the same starting condition (proximal femur fracture)</description>
+    <arm_group_label>Proximal femur fracture AND COVID-19</arm_group_label>
+    <arm_group_label>Proximal femur fracture NO COVID</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients with &gt;45 years of age admitted to our center from march 2020 to april 2020 for&#xD;
+        proximal femur fracture and tested for SARS-CoV-2.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age ≥45 years&#xD;
+&#xD;
+          -  Admitted to IRCCS Orthopaedic Institute Galeazzi for proximal femur fractures from&#xD;
+             march 2020 to april 2020.&#xD;
+&#xD;
+          -  Tested for COVID-19 through naso-pharyngeal swab analized with RT-PCR&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Age &lt;45 years&#xD;
+&#xD;
+          -  Not tested for SARS-CoV-2&#xD;
+&#xD;
+          -  Other fractures (including bilateral proximal femur fractures)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>45 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Giuseppe M Peretti, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>IRCCS Istituto Ortopedico Galeazzi</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Giuseppe M Peretti, MD</last_name>
+    <phone>0039 3396610282</phone>
+    <email>giuseppe.peretti@unimi.it</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>IRCCS Istituto Ortopedico Galeazzi</name>
+      <address>
+        <city>Milano</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Giuseppe M Peretti, MD</last_name>
+      <phone>0039 3396610282</phone>
+      <email>giuseppe.peretti@unimi.it</email>
+    </contact>
+    <investigator>
+      <last_name>Giuseppe M Peretti, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Ilaria Morelli, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Riccardo Giorgino, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Francesco Luceri, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Francesca Villa, MSc</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>November 14, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 6, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 8, 2020</study_first_posted>
+  <last_update_submitted>December 6, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 6, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 8, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>proximal femur fracture</keyword>
+  <keyword>fragility fracture</keyword>
+  <keyword>Covid-19</keyword>
+  <keyword>SARS-CoV2</keyword>
+  <keyword>FACE-COVID 19</keyword>
+  <keyword>prognosis</keyword>
+  <keyword>cohort study</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Fractures, Bone</mesh_term>
+    <mesh_term>Femoral Fractures</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2290">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04652648</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BM02332</org_study_id>
+    <nct_id>NCT04652648</nct_id>
+  </id_info>
+  <brief_title>Rapid Development and Implementation of a Remote ECG-monitored Prospective Randomized Clinical Trial During a Pandemic: Hydroxychloroquine Prophylaxis in COVID-19 Household Contacts</brief_title>
+  <official_title>Rapid Development and Implementation of a Remote ECG-monitored Prospective Randomized Clinical Trial During a Pandemic: Hydroxychloroquine Prophylaxis in COVID-19 Household Contacts</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Bryn Mawr Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Sharpe-Strumia Research Foundation</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Bryn Mawr Hospital Foundation</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Cotswold Foundation</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Bryn Mawr Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      -  organizing an entirely no in-person contact clinical trial is feasible during a 22&#xD;
+           COVID-19 pandemic 23&#xD;
+&#xD;
+        -  Remote smartphone 6-lead ECG monitoring is possible even in a group unfamiliar 24 with&#xD;
+           the technology 25&#xD;
+&#xD;
+        -  Hydroxychloroquine used prophylactically at 200 mg BID had no observable 26&#xD;
+           cardiotoxicity 27&#xD;
+&#xD;
+        -  Additional study using this technique is warranted to look at reliability and cost-28&#xD;
+           effectiveness&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Household members were contacted by telephone and provided consent forms via E-mail&#xD;
+      electronic signatures. Randomization was 2:1 to HCQ 200 mg BID or observation for 10 days&#xD;
+      with total follow-up of 14 days. COVID status was determined by home saliva PCR assay on days&#xD;
+      1 and 14. Study drug was shipped to participants. Data of daily symptoms and 6-lead ECGs&#xD;
+      using a smartphone KardiaMobile® 6L application were collected.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">May 27, 2020</start_date>
+  <completion_date type="Actual">November 15, 2020</completion_date>
+  <primary_completion_date type="Actual">October 31, 2020</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>COVID-19 symptom development with positive PCR test</measure>
+    <time_frame>within 14 days</time_frame>
+    <description>The primary endpoint was development of COVID-19 symptoms with a positive coronavirus PCR test by Day 14.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Positive coronavirus PCR test without symptoms</measure>
+    <time_frame>By Day 14 (end of study)</time_frame>
+    <description>Development of a positive coronavirus PCR test without symptoms by Day 14</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital admission for COVID-19</measure>
+    <time_frame>within 14 days of study entry</time_frame>
+    <description>hospital admission for COVID-19 symptoms by Day 14</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Death by Day 14</measure>
+    <time_frame>within 14 days of study entry</time_frame>
+    <description>Death due to COVID-19 within 14 days of study entry</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>HCQ discontinuation or study withdrawal</measure>
+    <time_frame>within 14 days of study entry</time_frame>
+    <description>All-cause discontinuation of study medication or study withdrawal by Day 14</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Symptom severity at specified time points</measure>
+    <time_frame>at Day 7 and at Day 14 from study entry</time_frame>
+    <description>overall symptom severity at Day 7 and Day 14</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>COVID -19 rate at study entry</measure>
+    <time_frame>Day 1 of study</time_frame>
+    <description>household attack rate at study entry</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>EKG changes during study</measure>
+    <time_frame>Day 1 thru Day 14 of study</time_frame>
+    <description>documentation of EKG changes such as QTc prolongation on HCQ compared with no drug therapy</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">54</enrollment>
+  <condition>Covid19</condition>
+  <condition>Hydroxychloroquine</condition>
+  <condition>Coronavirus Infection</condition>
+  <condition>Transmission</condition>
+  <condition>Prophylaxis</condition>
+  <arm_group>
+    <arm_group_label>Hydroxychloroquine</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Randomization was 2:1 to HCQ 200 mg BID for 10 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>No Intervention</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Hydroxychloroquine</intervention_name>
+    <description>Randomization was 2:1 to HCQ 200 mg BID or 41 observation for 10 days</description>
+    <arm_group_label>Hydroxychloroquine</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  exposure to a COVID-19-infected individual in the same household within five days of&#xD;
+             diagnosis;&#xD;
+&#xD;
+          -  age &gt;18 years;&#xD;
+&#xD;
+          -  ability to give informed consent to participate in a clinical study;&#xD;
+&#xD;
+          -  ability to swallow oral medications;&#xD;
+&#xD;
+          -  access to a smartphone&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  allergy or intolerance to hydroxychloroquine (PlaquenilR);&#xD;
+&#xD;
+          -  weight less than 85 pounds;&#xD;
+&#xD;
+          -  eye disease affecting the retina;&#xD;
+&#xD;
+          -  severe kidney or liver disease;&#xD;
+&#xD;
+          -  G6PD-deficiency;&#xD;
+&#xD;
+          -  porphyria;&#xD;
+&#xD;
+          -  long QTc EKG abnormality or family history of this;&#xD;
+&#xD;
+          -  other major EKG abnormalities;&#xD;
+&#xD;
+          -  taking medications that can affect the QT interval including flecainide, amiodarone,&#xD;
+             digoxin, procainamide, propafenone, sotalol, quinidine, dofetilide, levofloxacin,&#xD;
+             ciprofloxacin, azithromycin, erythromycin, amitriptyline, doxepin, desipramine,&#xD;
+             imipramine, fluoxetine, sertraline, venlafaxine, quetiapine, haloperidol, droperidol,&#xD;
+             thioridazine, ziprasidone, furosemide, sumatriptan or zolmitriptan, cisapride,&#xD;
+             arsenic, dolasetron, or methadone;&#xD;
+&#xD;
+          -  current pregnancy;&#xD;
+&#xD;
+          -  current hospitalization;&#xD;
+&#xD;
+          -  symptomatic with fever or cough;&#xD;
+&#xD;
+          -  lack of access to a smartphone&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Bryn Mawr Hospital</name>
+      <address>
+        <city>Bryn Mawr</city>
+        <state>Pennsylvania</state>
+        <zip>19010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Paoli Hospital</name>
+      <address>
+        <city>Paoli</city>
+        <state>Pennsylvania</state>
+        <zip>19301</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Lankenau Medical Center</name>
+      <address>
+        <city>Wynnewood</city>
+        <state>Pennsylvania</state>
+        <zip>19096</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, Zhang L, Fan G, Xu J, Gu X, Cheng Z, Yu T, Xia J, Wei Y, Wu W, Xie X, Yin W, Li H, Liu M, Xiao Y, Gao H, Guo L, Xie J, Wang G, Jiang R, Gao Z, Jin Q, Wang J, Cao B. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. 2020 Feb 15;395(10223):497-506. doi: 10.1016/S0140-6736(20)30183-5. Epub 2020 Jan 24. Erratum in: Lancet. 2020 Jan 30;:.</citation>
+    <PMID>31986264</PMID>
+  </reference>
+  <reference>
+    <citation>Wiersinga WJ, Rhodes A, Cheng AC, Peacock SJ, Prescott HC. Pathophysiology, Transmission, Diagnosis, and Treatment of Coronavirus Disease 2019 (COVID-19): A Review. JAMA. 2020 Aug 25;324(8):782-793. doi: 10.1001/jama.2020.12839. Review.</citation>
+    <PMID>32648899</PMID>
+  </reference>
+  <reference>
+    <citation>van Doremalen N, Bushmaker T, Morris DH, Holbrook MG, Gamble A, Williamson BN, Tamin A, Harcourt JL, Thornburg NJ, Gerber SI, Lloyd-Smith JO, de Wit E, Munster VJ. Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1. N Engl J Med. 2020 Apr 16;382(16):1564-1567. doi: 10.1056/NEJMc2004973. Epub 2020 Mar 17.</citation>
+    <PMID>32182409</PMID>
+  </reference>
+  <reference>
+    <citation>Lauer SA, Grantz KH, Bi Q, Jones FK, Zheng Q, Meredith HR, Azman AS, Reich NG, Lessler J. The Incubation Period of Coronavirus Disease 2019 (COVID-19) From Publicly Reported Confirmed Cases: Estimation and Application. Ann Intern Med. 2020 May 5;172(9):577-582. doi: 10.7326/M20-0504. Epub 2020 Mar 10.</citation>
+    <PMID>32150748</PMID>
+  </reference>
+  <reference>
+    <citation>Day M. Covid-19: identifying and isolating asymptomatic people helped eliminate virus in Italian village. BMJ. 2020 Mar 23;368:m1165. doi: 10.1136/bmj.m1165.</citation>
+    <PMID>32205334</PMID>
+  </reference>
+  <reference>
+    <citation>Rolain JM, Colson P, Raoult D. Recycling of chloroquine and its hydroxyl analogue to face bacterial, fungal and viral infections in the 21st century. Int J Antimicrob Agents. 2007 Oct;30(4):297-308. Epub 2007 Jul 16. Review.</citation>
+    <PMID>17629679</PMID>
+  </reference>
+  <reference>
+    <citation>Devaux CA, Rolain JM, Colson P, Raoult D. New insights on the antiviral effects of chloroquine against coronavirus: what to expect for COVID-19? Int J Antimicrob Agents. 2020 May;55(5):105938. doi: 10.1016/j.ijantimicag.2020.105938. Epub 2020 Mar 12.</citation>
+    <PMID>32171740</PMID>
+  </reference>
+  <reference>
+    <citation>Colson P, Rolain JM, Lagier JC, Brouqui P, Raoult D. Chloroquine and hydroxychloroquine as available weapons to fight COVID-19. Int J Antimicrob Agents. 2020 Apr;55(4):105932. doi: 10.1016/j.ijantimicag.2020.105932. Epub 2020 Mar 4.</citation>
+    <PMID>32145363</PMID>
+  </reference>
+  <reference>
+    <citation>Liu J, Cao R, Xu M, Wang X, Zhang H, Hu H, Li Y, Hu Z, Zhong W, Wang M. Hydroxychloroquine, a less toxic derivative of chloroquine, is effective in inhibiting SARS-CoV-2 infection in vitro. Cell Discov. 2020 Mar 18;6:16. doi: 10.1038/s41421-020-0156-0. eCollection 2020.</citation>
+    <PMID>32194981</PMID>
+  </reference>
+  <reference>
+    <citation>Mitjà O, Clotet B. Use of antiviral drugs to reduce COVID-19 transmission. Lancet Glob Health. 2020 May;8(5):e639-e640. doi: 10.1016/S2214-109X(20)30114-5. Epub 2020 Mar 19.</citation>
+    <PMID>32199468</PMID>
+  </reference>
+  <reference>
+    <citation>Vincent MJ, Bergeron E, Benjannet S, Erickson BR, Rollin PE, Ksiazek TG, Seidah NG, Nichol ST. Chloroquine is a potent inhibitor of SARS coronavirus infection and spread. Virol J. 2005 Aug 22;2:69.</citation>
+    <PMID>16115318</PMID>
+  </reference>
+  <reference>
+    <citation>Principi N, Esposito S. Chloroquine or hydroxychloroquine for prophylaxis of COVID-19. Lancet Infect Dis. 2020 Oct;20(10):1118. doi: 10.1016/S1473-3099(20)30296-6. Epub 2020 Apr 17.</citation>
+    <PMID>32311322</PMID>
+  </reference>
+  <reference>
+    <citation>Marquis-Gravel G, Roe MT, Turakhia MP, Boden W, Temple R, Sharma A, Hirshberg B, Slater P, Craft N, Stockbridge N, McDowell B, Waldstreicher J, Bourla A, Bansilal S, Wong JL, Meunier C, Kassahun H, Coran P, Bataille L, Patrick-Lake B, Hirsch B, Reites J, Mehta R, Muse ED, Chandross KJ, Silverstein JC, Silcox C, Overhage JM, Califf RM, Peterson ED. Technology-Enabled Clinical Trials: Transforming Medical Evidence Generation. Circulation. 2019 Oct 22;140(17):1426-1436. doi: 10.1161/CIRCULATIONAHA.119.040798. Epub 2019 Oct 21. Review.</citation>
+    <PMID>31634011</PMID>
+  </reference>
+  <reference>
+    <citation>Turakhia MP, Desai M, Hedlin H, Rajmane A, Talati N, Ferris T, Desai S, Nag D, Patel M, Kowey P, Rumsfeld JS, Russo AM, Hills MT, Granger CB, Mahaffey KW, Perez MV. Rationale and design of a large-scale, app-based study to identify cardiac arrhythmias using a smartwatch: The Apple Heart Study. Am Heart J. 2019 Jan;207:66-75. doi: 10.1016/j.ahj.2018.09.002. Epub 2018 Sep 8.</citation>
+    <PMID>30392584</PMID>
+  </reference>
+  <reference>
+    <citation>Spaccarotella CAM, Polimeni A, Migliarino S, Principe E, Curcio A, Mongiardo A, Sorrentino S, De Rosa S, Indolfi C. Multichannel Electrocardiograms Obtained by a Smartwatch for the Diagnosis of ST-Segment Changes. JAMA Cardiol. 2020 Aug 31. doi: 10.1001/jamacardio.2020.3994. [Epub ahead of print]</citation>
+    <PMID>32865545</PMID>
+  </reference>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>December 2, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 2, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 3, 2020</study_first_posted>
+  <last_update_submitted>December 2, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 2, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 3, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Bryn Mawr Hospital</investigator_affiliation>
+    <investigator_full_name>Luciano kapelusznik</investigator_full_name>
+    <investigator_title>Attending Physician</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hydroxychloroquine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

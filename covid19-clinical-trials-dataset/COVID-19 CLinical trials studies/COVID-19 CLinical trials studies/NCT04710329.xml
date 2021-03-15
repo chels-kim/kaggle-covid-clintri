@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2518">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04710329</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CVIT-3334</org_study_id>
+    <nct_id>NCT04710329</nct_id>
+  </id_info>
+  <brief_title>High-Dose Vitamin C Treatment in Critically Ill COVID-19 Patients</brief_title>
+  <official_title>High-Dose Vitamin C Treatment in Critically Ill COVID-19 Patients, A Retrospective Cohort Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sisli Hamidiye Etfal Training and Research Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Sisli Hamidiye Etfal Training and Research Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Acute respiratory failure due to COVİD-19 pneumonia has poor prognosis and high mortality .&#xD;
+      Both the lack of an effective antiviral treatment and the low level evidence of the&#xD;
+      recommendations presented in the guidelines on other treatment methods have highlighted&#xD;
+      supportive treatments. Studies suggest that high-dose vitamin C treatment reduces mortality&#xD;
+      in patients with sepsis and ARDS, and may also be beneficial in COVİD-19 disease. In the&#xD;
+      study; the investigator aimed to determine the effect of Vitamin C on short-term mortality&#xD;
+      and length of intensive care stay in COVID-19 patients.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      SARS-CoV-2 causes tissue damage in the endothelium and epithelium, increased vascular&#xD;
+      permeability and increased plasma levels of IL-6, IL-2, IL-7, IL-10 causing interstitial&#xD;
+      fibrosis in the lung is considered. Considering these factors in pathogenesis, a picture with&#xD;
+      high mortality from acute respiratory failure to severe ARDS emerges in critically ill&#xD;
+      COVID-19 patients. However, despite numerous studies, an effective antiviral treatment has&#xD;
+      not yet been found in COVID-19 disease. The low level of evidence for the recommendations&#xD;
+      presented in the guidelines on both treatment and mechanical ventilation has brought&#xD;
+      supportive treatments to the agenda. Recently, many articles have been published on the&#xD;
+      potential effects of anti-inflammatory and antioxidant treatments such as high-dose vitamin&#xD;
+      C, vitamin D, zinc and ozone therapy. In particular, high-dose intravenous vitamin C&#xD;
+      treatment is inexpensive, easily accessible, and it reduces mortality in patients with sepsis&#xD;
+      and ARDS in studies, suggesting that it may be beneficial in COVID-19 disease. this is a&#xD;
+      retrospective cohort study. The main goal of the study; to compare patients who did not&#xD;
+      receive high-dose vitamin C treatment in the first period of the epidemic and those who&#xD;
+      received treatment in the next period. the investigator aimed to determine the effect of&#xD;
+      Vitamin C on short-term mortality and length of stay in intensive care in critically ill&#xD;
+      COVID-19 patients. All patients' data on age, gender, body mass index, comobidities (diabetes&#xD;
+      mellitus, hypertension, coronary artery disease, chronic obstructive pulmonary disease,&#xD;
+      other), PaO2 / FiO2 ratios, SOFA scores, ferritin, C-Reactive Protein, procalcitonin,&#xD;
+      lactate, neutrophil and lymphocyte values will be collected by scanning the hospital&#xD;
+      information system.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">January 16, 2021</start_date>
+  <completion_date type="Anticipated">February 10, 2021</completion_date>
+  <primary_completion_date type="Actual">January 25, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>short term mortality</measure>
+    <time_frame>days 1-28</time_frame>
+    <description>Incidence of mortality at 28 days by all causes</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Length of Intensive Care Unit Stay</measure>
+    <time_frame>up to 28 days</time_frame>
+    <description>Length of Intensive Care Unit Stay</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>vasopressor requirement</measure>
+    <time_frame>1-28 days</time_frame>
+    <description>all types of vasopressor requirement in intensive care stay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>invasive mechanical ventilation requirement</measure>
+    <time_frame>1-28 days</time_frame>
+    <description>invasive mechanical ventilation requirement</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PaO2/FiO2 ratio</measure>
+    <time_frame>1-4 day</time_frame>
+    <description>Change in PaO2/FiO2 ratio from admission to 4th day</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>C-reactive protein</measure>
+    <time_frame>1-4 days</time_frame>
+    <description>Change in C-reactive protein from admission to 4th day</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>procalcitonin</measure>
+    <time_frame>1-4 days</time_frame>
+    <description>Change in procalcitonin from admission to 4th day</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lymphocyte count</measure>
+    <time_frame>1-4 days</time_frame>
+    <description>Change in Lymphocyte count from admission to 4th day</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ferritin</measure>
+    <time_frame>1-4 days</time_frame>
+    <description>Change in ferritin from admission to 4th day</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SOFA</measure>
+    <time_frame>1-4 days</time_frame>
+    <description>Change in Sequential Organ Failure Assessment score from admission to 4th day.</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Actual">78</enrollment>
+  <condition>Respiratory Distress Syndrome, Adult</condition>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>C Vit</arm_group_label>
+    <description>The patients who were admitted to the intensive care unit and received a high dose intravenous vitamin C protocol constituted the treatment group</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>non-C Vit</arm_group_label>
+    <description>The patients who were admitted to the intensive care unit but did not receive the vitamin C protocol constituted the control group</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ascorbic acid</intervention_name>
+    <description>The daily administration of 6 grams of vitamin C intravenously in 4 equal doses every 6 hours occurred and the treatment lasted 96 hours. Vials containing 1.5 gr vitamin C were placed in 100 cc 5% dextrose and infused intravenously in 30-60 minutes. Prepared serum bottles and sets are wrapped with aluminum foil in order to protect them from sunlight.</description>
+    <arm_group_label>C Vit</arm_group_label>
+    <arm_group_label>non-C Vit</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        patients who admitted to the intensive care unit with the diagnosis of acute respiratory&#xD;
+        failure due to COVID-19 pneumonia&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Hospitalized with diagnosis of COVID-19, diagnosis confirmed by PCR test&#xD;
+&#xD;
+          -  pneumonia due to COVID-19 was diagnosed with clinical and radiological findings&#xD;
+&#xD;
+          -  Patients who developed acute respiratory failure (PaO2 / FiO2 300 despite the use of 6&#xD;
+             l / min reservoir mask) caused by COVID-19 pneumonia&#xD;
+&#xD;
+          -  Older than 18 year&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Renal failure&#xD;
+&#xD;
+          -  Hepatic failure&#xD;
+&#xD;
+          -  End-stage malignite&#xD;
+&#xD;
+          -  Primary lung disease (lung cancer, cardio-pulmoner edema)&#xD;
+&#xD;
+          -  Patients who treated with tocilizumab&#xD;
+&#xD;
+          -  Presence of diabetic ketoacidosis, use of insulin infusion, or frequent need for&#xD;
+             point-of-care glucose monitoring (&gt;6 times/24 hour period) as determined by treating&#xD;
+             physician&#xD;
+&#xD;
+          -  Active kidney stone&#xD;
+&#xD;
+          -  patients with hospitalization in ICU less than 96 hours&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>99 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Surhan Çınar</last_name>
+    <role>Study Chair</role>
+    <affiliation>Sisli etflal resource and training hospital</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Sisli etfal training and resource hospital</name>
+      <address>
+        <city>Sisli</city>
+        <state>İstanbul</state>
+        <zip>34376</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Turkey</country>
+  </location_countries>
+  <reference>
+    <citation>Fowler AA 3rd, Truwit JD, Hite RD, Morris PE, DeWilde C, Priday A, Fisher B, Thacker LR 2nd, Natarajan R, Brophy DF, Sculthorpe R, Nanchal R, Syed A, Sturgill J, Martin GS, Sevransky J, Kashiouris M, Hamman S, Egan KF, Hastings A, Spencer W, Tench S, Mehkri O, Bindas J, Duggal A, Graf J, Zellner S, Yanny L, McPolin C, Hollrith T, Kramer D, Ojielo C, Damm T, Cassity E, Wieliczko A, Halquist M. Effect of Vitamin C Infusion on Organ Failure and Biomarkers of Inflammation and Vascular Injury in Patients With Sepsis and Severe Acute Respiratory Failure: The CITRIS-ALI Randomized Clinical Trial. JAMA. 2019 Oct 1;322(13):1261-1270. doi: 10.1001/jama.2019.11825. Erratum in: JAMA. 2020 Jan 28;323(4):379.</citation>
+    <PMID>31573637</PMID>
+  </reference>
+  <reference>
+    <citation>Fowler AA 3rd, Fisher BJ, Kashiouris MG. Vitamin C for Sepsis and Acute Respiratory Failure-Reply. JAMA. 2020 Feb 25;323(8):792-793. doi: 10.1001/jama.2019.21987.</citation>
+    <PMID>32096845</PMID>
+  </reference>
+  <reference>
+    <citation>Kim WY, Jo EJ, Eom JS, Mok J, Kim MH, Kim KU, Park HK, Lee MK, Lee K. Combined vitamin C, hydrocortisone, and thiamine therapy for patients with severe pneumonia who were admitted to the intensive care unit: Propensity score-based analysis of a before-after cohort study. J Crit Care. 2018 Oct;47:211-218. doi: 10.1016/j.jcrc.2018.07.004. Epub 2018 Jul 5.</citation>
+    <PMID>30029205</PMID>
+  </reference>
+  <reference>
+    <citation>Moskowitz A, Huang DT, Hou PC, Gong J, Doshi PB, Grossestreuer AV, Andersen LW, Ngo L, Sherwin RL, Berg KM, Chase M, Cocchi MN, McCannon JB, Hershey M, Hilewitz A, Korotun M, Becker LB, Otero RM, Uduman J, Sen A, Donnino MW; ACTS Clinical Trial Investigators. Effect of Ascorbic Acid, Corticosteroids, and Thiamine on Organ Injury in Septic Shock: The ACTS Randomized Clinical Trial. JAMA. 2020 Aug 18;324(7):642-650. doi: 10.1001/jama.2020.11946.</citation>
+    <PMID>32809003</PMID>
+  </reference>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>January 13, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 13, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 14, 2021</study_first_posted>
+  <last_update_submitted>January 25, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 25, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 26, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Sisli Hamidiye Etfal Training and Research Hospital</investigator_affiliation>
+    <investigator_full_name>nurcan coskun</investigator_full_name>
+    <investigator_title>specialist medical doctor</investigator_title>
+  </responsible_party>
+  <keyword>Covid 19</keyword>
+  <keyword>Ascorbic Acid</keyword>
+  <keyword>intensive care</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Distress Syndrome, Newborn</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Adult</mesh_term>
+    <mesh_term>Acute Lung Injury</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Ascorbic Acid</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

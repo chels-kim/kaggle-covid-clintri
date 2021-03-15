@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="41">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04730401</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Plasma_Covid-19</org_study_id>
+    <nct_id>NCT04730401</nct_id>
+  </id_info>
+  <brief_title>Convalescent Plasma in the Treatment of Covid-19</brief_title>
+  <acronym>CP_COVID-19</acronym>
+  <official_title>Randomized, Double-Blind, Placebo-Controlled Study of Convalescent Plasma in the Treatment of Covid-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Helsinki University Central Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Finnish Red Cross</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Helsinki University Central Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study investigates the possible adverse effects and effectiveness of convalescent plasma&#xD;
+      for patients infected with SARS-CoV-2. Following provision of informed consent, patients will&#xD;
+      be randomized into three groups: High-titre convalescent plasma, low-titre convalescent&#xD;
+      plasma or placebo. Primary outcomes of the study will cover safety and either intubation or&#xD;
+      initiation of systemic corticosteroids. Safety information collected will include serious&#xD;
+      adverse events judged to be related to administration of convalescent plasma. Microbiological&#xD;
+      and other laboratory parameters will be followed up.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      SARS-CoV-2 pandemic presents a serious global public health threat urgently requiring both&#xD;
+      prophylactic and therapeutic interventions. The entry of SARS-CoV-2 into human cells involves&#xD;
+      a binding between its spike protein's receptor-binding domain (RBD) and&#xD;
+      angiotensin-converting enzyme 2 (ACE2) receptor on human cells. Convalescent sera of Covid-19&#xD;
+      patients have been shown to contain SARS-CoV-2-neutralizing antibodies. Accordingly,&#xD;
+      recovered patients are presumed to be immune to re-infection. Use of convalescent plasma as&#xD;
+      treatment warrants research, which is supported by the European Commission. Convalescent&#xD;
+      plasma (CP) therapy is a classical adaptive immunotherapy. It has been applied to prevention&#xD;
+      and treatment of various infectious diseases: evidence of success has been accumulated e.g.&#xD;
+      on treatment of SARS, MERS, and 2009 H1N1, for which satisfactory efficacy and safety have&#xD;
+      been shown.&#xD;
+&#xD;
+      The investigators will select as donors for CP therapy patients recovered from Covid-19 with&#xD;
+      a high neutralizing antibody titre who meet normal blood donor eligibility criteria. The&#xD;
+      donors will be recruited among participants of ongoing Covid-19 immunity studies (Clin-Covid,&#xD;
+      Commun-Covid) and/or from Finnish Red Cross Blood Service (FRCBS) blood donors.&#xD;
+&#xD;
+      CP will be prepared from the blood of eligible donors at the FRCBS according to previous&#xD;
+      protocols and the European guidelines for fresh frozen plasma. After the screening test&#xD;
+      results required for product release (HCV, HBV, HIV, ABO, Syphilis) are available, the units&#xD;
+      will be released. All donors will be screened for type-I-Interferon antibodies and women will&#xD;
+      be screened for HLA-antibodies. The units will be labelled with convalescence plasma labels&#xD;
+      including ICCBBA/ISBT compliant product codes. The plasma units will be frozen to -25°C&#xD;
+      within 6 hours from collection. Prior to freezing 3 ml of CP will be separated and divided in&#xD;
+      3 aliquots to be stored, for possible later analysis.&#xD;
+&#xD;
+      Patients admitted to ward at HUH will be randomized 1:1:1 into three groups which will be&#xD;
+      given 1) high-titre convalescent plasma (HCP), 2) low-titre convalescent plasma (LCP) or 3)&#xD;
+      placebo. The plasma preparations and placebo will be given as one 200 mL infusion. ABORh&#xD;
+      blood group will be determined from patients prior to transfusion according to normal&#xD;
+      transfusion protocols of the hospital. The study will be double-blinded with saline as&#xD;
+      placebo given to groups three. The primary outcomes of the study will cover safety and&#xD;
+      intubation/initiation of systemic corticosteroids. AEs will be reviewed, recorded and&#xD;
+      reported up to 6 hours after administration of CP or placebo. Thromboembolic and&#xD;
+      cardiovascular events will be recorded as AEs or SAEs up to 7 days after administration of CP&#xD;
+      / placebo. SAEs will be reviewed, recorded and reported up to 7 days after administration of&#xD;
+      CP / placebo. In case of respiratory failures classified as SAEs, the reporting period is&#xD;
+      only up to 12 hours after administration of CP / placebo.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 27, 2021</start_date>
+  <completion_date type="Anticipated">December 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">August 31, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Double blind, randomized, placebo controlled trial</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+    <masking_description>Some of the investigators are masked and some are not</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Safety (SAE)</measure>
+    <time_frame>SAEs will be reviewed, recorded and reported up to 6 hours after administration of CP or placebo.</time_frame>
+    <description>Immediate serious adverse events (SAE) between active and non-active group</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Safety (SAE)</measure>
+    <time_frame>SAEs will be recorded and reported up to 7 days after administration of CP or placebo.</time_frame>
+    <description>Subsequent serious adverse events (SAE) between active and non-active group</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Rate of intubation</measure>
+    <time_frame>Through study completion, up to 6 months</time_frame>
+    <description>Intubation (Yes/No) during the hospital stay</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants initiating systemic corticosteroids</measure>
+    <time_frame>Through study completion, up to 6 months</time_frame>
+    <description>Start of systemic corticosteroid for aggravation of COVID-19 infection during the hospital stay</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Hospital stay</measure>
+    <time_frame>Through study completion, up to 1 year</time_frame>
+    <description>Number of days at hospital during the COVID-19 infection hospital period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>Through study completion, up to 1 year</time_frame>
+    <description>Proportion of fatal cases during the COVID-19 infection hospital period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ICU stay</measure>
+    <time_frame>Through study completion, up to 1 year</time_frame>
+    <description>Number of ICU days during the COVID-19 infection hospital period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ventilator days</measure>
+    <time_frame>Through study completion, up to 1 year</time_frame>
+    <description>Number of ventilator days during the COVID-19 infection hospital period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants developing ARDS</measure>
+    <time_frame>Through study completion, up to 1 year</time_frame>
+    <description>Development of ARDS during the COVID-19 infection hospital period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Viral load</measure>
+    <time_frame>Through study completion, up to 1 year</time_frame>
+    <description>Analyses of respiratory tract secretions by SARS-CoV-2 PCR during the COVID-19 infection hospital period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Antibody measurements</measure>
+    <time_frame>Through study completion, up to 1 year</time_frame>
+    <description>Analyses of SARS-CoV-2-specific antibodies in serum and excretions</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Thrombotic complication</measure>
+    <time_frame>Through study completion, up to 1 year</time_frame>
+    <description>Development of a thrombotic complication, including VTE or arterial thrombosis</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The rate of participants presenting with coagulopathy disorders</measure>
+    <time_frame>Through study completion, up to 1 year</time_frame>
+    <description>Development of sepsis-induced coagulopathy or disseminated intravascular coagulation during the COVID-19 infection hospital period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with oxygenation change</measure>
+    <time_frame>Through study completion, up to 1 year</time_frame>
+    <description>Change in oxygenation measured as spo2 and Fio2 during the COVID-19 infection hospital period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with laboratory change</measure>
+    <time_frame>Through study completion, up to 1 year</time_frame>
+    <description>Change in inflammatory (CRP, Ferritin) and coagulopathy (P -APTT, P -AT3, P -Fibr, P -FiDD, P -FVIII., P -Trombai ja P -TT) markers during the COVID-19 infection hospital period</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse effects</measure>
+    <time_frame>Through study completion, up to 1 year</time_frame>
+    <description>Comparison of adverse events between active and non-active group</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Convalescent plasma efficacy</measure>
+    <time_frame>Through study completion, up to 1 year</time_frame>
+    <description>Convalescent plasma (high or low titer) efficacy versus placebo: rate of intubation or initiating systemic corticosteroids during the COVID-19 infection hospital period</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">390</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>High-titre CP</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>200mL high-titre CP on admittance</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>low-titre CP</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>200ml low-titre CP on admittance</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>200mL saline as placebo on admittance</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Convalescent plasma from COVID-19 donors</intervention_name>
+    <description>Convalescent plasma from COVID-19 donors</description>
+    <arm_group_label>High-titre CP</arm_group_label>
+    <arm_group_label>low-titre CP</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>200mL saline</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Acute Covid-19 disease at the time of recruitment laboratory-confirmed by upper&#xD;
+             respiratory tract PCR&#xD;
+&#xD;
+          -  Patient recently (0-4 days earlier) admitted to hospital due to Covid-19 infection&#xD;
+&#xD;
+          -  the day should be recorded from the duration of the Covid-19 symptoms/positive test&#xD;
+             result&#xD;
+&#xD;
+          -  The dose of LMWH thromboprofylaxis should be recorded&#xD;
+&#xD;
+          -  Written informed consent.&#xD;
+&#xD;
+          -  Availability for all visits scheduled in this study.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Chronic (longer than 14 days) administration of immunosuppressants or other&#xD;
+             immune-modifying drugs within 6 months before the first dose of IMP; oral&#xD;
+             corticosteroids in dosages of ≥0.5 mg/kg/d prednisolone or equivalent are excluded (&#xD;
+             inhaled or topical steroids allowed)&#xD;
+&#xD;
+          -  Regular (daily), systemic administration of corticosteroids at the time on inclusion&#xD;
+             (inhaled or topical corticosteroids are allowed)&#xD;
+&#xD;
+          -  Any confirmed or suspected immunosuppressive or immunodeficient condition, including&#xD;
+             human immunodeficiency virus (HIV) infection.&#xD;
+&#xD;
+          -  Pregnancy or lactation.&#xD;
+&#xD;
+          -  Alcohol or drug abuse.&#xD;
+&#xD;
+          -  Suspected non-compliance.&#xD;
+&#xD;
+          -  Presence of VTE, including pulmonary embolism or other manifestations of thrombosis&#xD;
+&#xD;
+          -  Use of any investigational drug (other than hydroxychloroquine) or vaccine within 30&#xD;
+             days prior to first dose of study vaccine or planned use during study period.&#xD;
+&#xD;
+          -  Any clinically significant history of known or suspected anaphylaxis or&#xD;
+             hypersensitivity reaction as judged by investigator.&#xD;
+&#xD;
+          -  Known immunoglobulin A (IgA) deficiency&#xD;
+&#xD;
+          -  Existing treatment limitations: do-not-resuscitate (DNR) order or withholding&#xD;
+             treatment in ICU&#xD;
+&#xD;
+          -  Any other criteria which, as judged by investigator, might compromise a patient's&#xD;
+             well-being or ability to participate in the study or its outcome.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Anu Kantele, MD,Prof</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Helsinki University Central Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Sari Pakkanen</last_name>
+    <phone>0405166165</phone>
+    <email>anu.kantele@hus.fi</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Mikael Kajova, MD</last_name>
+    <phone>+358503476834</phone>
+    <email>mikael.kajova@hus.fi</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Helsinki University Central Hospital</name>
+      <address>
+        <city>Helsinki</city>
+        <state>Uusimaa</state>
+        <zip>00270</zip>
+        <country>Finland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sari Pakkanen</last_name>
+      <email>sari.pakkanen@hus.fi</email>
+    </contact>
+    <contact_backup>
+      <last_name>Juuso Paajanen, MD,PhD</last_name>
+      <phone>+358504270071</phone>
+      <email>juuso.paajanen@hus.fi</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Juuso Paajanen, MD,PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Anu Kantele, MD,Prof</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Mikael Kajova, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Tamim Khawaja, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Anu Patjas, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Jukka-Pekka Pietilä, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Annamari Ranki, MD,Prof</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Olli Vapaalahti, MD,Prof</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Taina Autti</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Jarkko Ihalainen, MD,PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Riitta Lassila, MD,Prof</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Iris Levonen</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Arttu Nousiainen</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Andreas Renner, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Marianna Riekkinen, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Antti Vierikko</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Hanna Välimaa</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Finland</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>January 26, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 28, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 29, 2021</study_first_posted>
+  <last_update_submitted>January 28, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 28, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 29, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Helsinki University Central Hospital</investigator_affiliation>
+    <investigator_full_name>Anu Kantele</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>Covid-19</keyword>
+  <keyword>Convalescent plasma</keyword>
+  <keyword>Safety</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3421">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04586114</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020PI109</org_study_id>
+    <nct_id>NCT04586114</nct_id>
+  </id_info>
+  <brief_title>Effect of Corticosteroid Treatment on Prognosis in ARDS Secondary to Covid-19</brief_title>
+  <acronym>CoCovSDRA</acronym>
+  <official_title>Effect of Early Corticosteroid Therapy on Mortality in Patient With Acute Respiratory Distress Syndrome Secondary to Covid-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Central Hospital, Nancy, France</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Central Hospital, Nancy, France</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Study conducted on hospitalized patient in critical ill units in Nancy and Metz to evaluate&#xD;
+      if early corticosteroid treatment in first seven days after admission improve patients&#xD;
+      outcome in Acute Respiratory Distress Syndrome secondary to Covid-19 compared to later&#xD;
+      corticosteroid therapy or no treatment. Also comparison of acquired infection with or without&#xD;
+      corticosteroid treatment during hospitalisation.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">March 1, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2020</completion_date>
+  <primary_completion_date type="Actual">May 31, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Mortality in ICU</measure>
+    <time_frame>within ICU stay, on average 15 days</time_frame>
+    <description>Mortality rates in ICU in each group</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Mortality d28</measure>
+    <time_frame>28 days</time_frame>
+    <description>mortality at day 28 after ICU admission</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>acquired infections incidence</measure>
+    <time_frame>28 days</time_frame>
+    <description>cumulative incidence of infection acquired during ICU stay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>antibiotics duration</measure>
+    <time_frame>28 days</time_frame>
+    <description>number of treatment days with antibiotics during ICU stay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>mechanical ventilation duration</measure>
+    <time_frame>28 days</time_frame>
+    <description>number of days of treatment by mechanical ventilation during ICU stay</description>
+  </secondary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Actual">200</enrollment>
+  <condition>Acute Respiratory Distress Syndrome Secondary to Covid-19</condition>
+  <arm_group>
+    <arm_group_label>Early corticosteroid</arm_group_label>
+    <description>Corticosteroid treatment within first seven days after ICU admission</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Late corticosteroid</arm_group_label>
+    <description>Corticosteroid treatment later than seventh day's after ICU admission</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>No corticosteroid</arm_group_label>
+    <description>No corticosteroid treatment during ICU stay</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Corticosteroids and Derivatives</intervention_name>
+    <description>Any systemic corticosteroid treatment administrated during ICU stay</description>
+    <arm_group_label>Early corticosteroid</arm_group_label>
+    <arm_group_label>Late corticosteroid</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patient more than 18 years old hospitalized in ICU from 01/03/2020 to 30/04/2020 with acute&#xD;
+        respiratory distress syndrome secondary to Sars-Cov-2 infection without any corticosteroid&#xD;
+        treatment before admission, excluding patients with mechanical ventilation more than 48&#xD;
+        hours before admission and patients transferred to other ICU.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  ICU hospitalized with acute respiratory distress syndrome secondary to Sars-Cov-2&#xD;
+             infection diagnosed by PCR test&#xD;
+&#xD;
+          -  Hospitalized from 01/03/2020 to 30/04/2020&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Mechanical ventilation more than 48 hours at admission&#xD;
+&#xD;
+          -  Transfert to another ICU during stay for bed management&#xD;
+&#xD;
+          -  Corticosteroid treatment at admission&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Sebastien GIBOT</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Central Hospital, Nancy, France</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Hopital Central, Service de Reanimation Medicale</name>
+      <address>
+        <city>Nancy</city>
+        <zip>54000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>October 8, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 13, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 14, 2020</study_first_posted>
+  <last_update_submitted>October 16, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 16, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 19, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasm Metastasis</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Newborn</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Adult</mesh_term>
+    <mesh_term>Acute Lung Injury</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2938">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04583592</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NI03-CV19-001</org_study_id>
+    <nct_id>NCT04583592</nct_id>
+  </id_info>
+  <brief_title>Camostat Efficacy vs. Placebo for Outpatient Treatment of COVID-19 (CAMELOT)</brief_title>
+  <official_title>A Multicenter, Randomized, Double-Blind, Placebo-Controlled Trial of the Efficacy of Camostat Mesilate for Treatment of COVID-19 in Outpatients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sagent Pharmaceuticals Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Sagent Pharmaceuticals Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a randomized, double-blind, placebo-controlled study of camostat mesilate in&#xD;
+      ambulatory patients with confirmed COVID-19 with at least one risk factor for severe illness.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Participants will be randomized in a 2:1 ratio of camostat:placebo. Approximately 300&#xD;
+      participants are planned to be enrolled (200 participants to camostat mesilate and 100&#xD;
+      participants to placebo). Participants will be treated with camostat mesilate 200 mg or&#xD;
+      placebo drug orally 4 times a day for 14 days, and receive local standard of care (SOC) in&#xD;
+      addition to study drug. Participants will be followed until Day 28. Participants will be seen&#xD;
+      in the clinic for assessments, blood draws, and mid-turbinate nasal samples on Screening/Day&#xD;
+      1, Day 7, Day 15 and early termination.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 9, 2020</start_date>
+  <completion_date type="Anticipated">February 2021</completion_date>
+  <primary_completion_date type="Anticipated">February 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Disease Progression at Day 28</measure>
+    <time_frame>28 days</time_frame>
+    <description>Disease progression will be defined as the proportion of participants requiring hospitalization (including emergency room visit) or who die due to any cause within 28 days of randomization.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Survival Rate</measure>
+    <time_frame>Up to Day 15 and Day 28</time_frame>
+    <description>The overall survival rate (the proportion of randomized participants who survive up to Day 15 and Day 28).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Fever Resolution</measure>
+    <time_frame>Up to 28 days</time_frame>
+    <description>Time (in hours) from initiation of study treatment until normalization of fever (≤ 37.2 °C oral or tympanic) and sustained for at least 72 hours only assessed in participants who experienced a fever within 24 hours of enrollment up to Day 28.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Disease Progression</measure>
+    <time_frame>Up to 28 days</time_frame>
+    <description>Time to disease progression is defined as the time from randomization to either hospitalization or death up to Day 28.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Resolution of Viral Shedding</measure>
+    <time_frame>Day 1, Day 7 and Day 15</time_frame>
+    <description>Proportion of participants with no viral shedding (yes/no) using reverse transcriptase-polymerase chain reaction (RT-PCR) at Day 7, Day 15, and at early termination.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of Adverse Events and Serious Adverse Events</measure>
+    <time_frame>28 days</time_frame>
+    <description>Incidence of adverse events (AEs) and serious adverse events (SAEs) of any grade from randomization up to Day 28.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cumulative Rate of Grade 3 and 4 Adverse Events</measure>
+    <time_frame>28 days</time_frame>
+    <description>Cumulative incidence of grade 3 and 4 AEs from randomization up to Day 28.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of Discontinuation</measure>
+    <time_frame>28 days</time_frame>
+    <description>Incidence of discontinuation from study due to an AE/SAE (discontinued participants will be followed up to Day 28).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Laboratory Parameter - Platelet Count</measure>
+    <time_frame>Day 1 and Day 15</time_frame>
+    <description>Change from baseline in clinical laboratory value of platelet count.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Laboratory Parameter - Potassium Level</measure>
+    <time_frame>Day 1 and Day 15</time_frame>
+    <description>Change from baseline in clinical laboratory value of potassium level.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Laboratory Parameter - Aspartate Aminotransferase (AST)</measure>
+    <time_frame>Day 1 and Day 15</time_frame>
+    <description>Change from baseline in clinical laboratory value of AST.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Laboratory Parameter - Alanine Aminotransferase (ALT)</measure>
+    <time_frame>Day 1 and Day 15</time_frame>
+    <description>Change from baseline in clinical laboratory value of ALT.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Laboratory Parameter - Alkaline Phosphatase (ALP)</measure>
+    <time_frame>Day 1 and Day 15</time_frame>
+    <description>Change from baseline in clinical laboratory value of ALP.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Laboratory Parameter - Gamma-Glutamyl Transferase (GGT)</measure>
+    <time_frame>Day 1 and Day 15</time_frame>
+    <description>Change from baseline in clinical laboratory value of GGT.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Laboratory Parameter - Albumin</measure>
+    <time_frame>Day 1 and Day 15</time_frame>
+    <description>Change from baseline in clinical laboratory value of albumin.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Laboratory Parameter - Bilirubin</measure>
+    <time_frame>Day 1 and Day 15</time_frame>
+    <description>Change from baseline in clinical laboratory value of bilirubin.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Vital Signs - Heart Rate</measure>
+    <time_frame>Day 1, Day 7 and Day 15</time_frame>
+    <description>Change from baseline in heart rate.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Vital Signs - Blood Pressure</measure>
+    <time_frame>Day 1, Day 7 and Day 15</time_frame>
+    <description>Change from baseline in blood pressure.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Vital Signs - Peripheral Capillary Oxygen Saturation (SpO2)</measure>
+    <time_frame>Day 1, Day 7 and Day 15</time_frame>
+    <description>Change from baseline in SpO2.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">300</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Camostat Mesilate</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive camostat mesilate for 14 days in addition to standard of care treatment.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants will receive placebo for 14 days in addition to standard of care treatment.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Camostat Mesilate</intervention_name>
+    <description>Camostat mesilate administered as oral 100 mg round tablets. Study dose: Two 100 mg tablets (200 mg total) taken orally 4 times daily for 14 days.</description>
+    <arm_group_label>Camostat Mesilate</arm_group_label>
+    <other_name>Camostat Mesylate</other_name>
+    <other_name>Foipan®</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo administered as oral round tablets. Study dose: Two placebo tablets taken orally 4 times daily for 14 days.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Adults willing and able to provide informed consent before performing study procedures&#xD;
+&#xD;
+          2. Adults ≥18 years of age at time of informed consent&#xD;
+&#xD;
+          3. Participants must have written notification of laboratory confirmed COVID-19 infection&#xD;
+             performed prior to screening, at a local laboratory by RT-PCR or other commercial or&#xD;
+             public health assay in any specimen; and participants must be randomized within 72&#xD;
+             hours of receiving the above notification of laboratory confirmed COVID-19&#xD;
+&#xD;
+          4. Have a mild or moderate form of COVID-19 defined as SpO2 &gt; 94% at screening&#xD;
+&#xD;
+          5. Participants must have at least 1 of the following risk factors for severe illness&#xD;
+&#xD;
+               1. Aged 65 years or older&#xD;
+&#xD;
+               2. Hypertension&#xD;
+&#xD;
+               3. Diabetes mellitus&#xD;
+&#xD;
+               4. Chronic lung disease including asthma, chronic obstructive pulmonary disease&#xD;
+                  (COPD), and interstitial lung disease (eg, idiopathic pulmonary fibrosis)&#xD;
+&#xD;
+               5. Chronic cardiac conditions, including coronary artery disease (CAD), heart&#xD;
+                  failure, congenital heart disease, cardiomyopathy&#xD;
+&#xD;
+               6. Severe obesity (body mass index [BMI] ≥ 40 kg/m^2)&#xD;
+&#xD;
+               7. Chronic liver disease, including cirrhosis&#xD;
+&#xD;
+          6. Must agree not to enroll in another study of an investigational agent or take any&#xD;
+             other drug that has been granted Emergency Use Authorization prior to completion of&#xD;
+             Day 28&#xD;
+&#xD;
+          7. If women of childbearing potential (WOCBP) or men whose sexual partners are WOCBP,&#xD;
+             must be able and willing to use at least 1 highly effective method of contraception&#xD;
+             during the study and for 90 days after receiving the last dose of study drug&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Physician makes a decision that trial involvement is not in participants' best&#xD;
+             interest, or has any condition that does not allow the protocol to be followed safely&#xD;
+&#xD;
+          2. Known severe liver disease (eg, Child Pugh score &gt; 12, AST &gt;5 times upper limit)&#xD;
+&#xD;
+          3. SaO2/SPO2 ≤94% on room air condition, or the Pa02/Fi02 ratio &lt; 300 mgHg&#xD;
+&#xD;
+          4. Known allergic reaction to camostat mesilate or one of its excipients&#xD;
+&#xD;
+          5. Known severe renal impairment (estimated glomerular filtration rate ≤30 mL/min/1.73&#xD;
+             m^2) or receiving dialysis&#xD;
+&#xD;
+          6. Pregnant or breastfeeding, or positive pregnancy test in a predose examination&#xD;
+&#xD;
+          7. Receipt of any experimental treatment for COVID-19, including agents with demonstrated&#xD;
+             or possible direct acting antiviral activity, including, but not limited to,&#xD;
+             remdesivir, hydroxychloroquine, lopinavir/ritonavir, tocilizumab, or ivermectin,&#xD;
+             within the 30 days prior to the time of the screening evaluation. No off label use of&#xD;
+             a drug for COVID 19 is allowed.&#xD;
+&#xD;
+          8. History of human immunodeficiency virus infection on highly active antiretroviral&#xD;
+             therapy (HAART)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Atasi Jana, M.D.</last_name>
+    <phone>224-523-5165</phone>
+    <email>ajana@sagentpharma.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Janet Nuttall, M.P.H.</last_name>
+    <phone>760-889-3062</phone>
+    <email>janet@kangenpharma.co.jp</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Cullman Clinical Trials (Site 103)</name>
+      <address>
+        <city>Cullman</city>
+        <state>Alabama</state>
+        <zip>35055</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Palmtree Clinical Research, Inc. (Site 125)</name>
+      <address>
+        <city>Palm Springs</city>
+        <state>California</state>
+        <zip>92262</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Daniel Rangel</last_name>
+      <phone>760-660-3285</phone>
+      <email>drangel@palmtreeclinical.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Synergy Healthcare, LLC (Site 124)</name>
+      <address>
+        <city>Bradenton</city>
+        <state>Florida</state>
+        <zip>34208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Taylor Miller</last_name>
+      <phone>941-896-4948</phone>
+      <email>tmiller@synergyhealthcorp.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Tara Bolduc</last_name>
+      <phone>401-403-3281 cell</phone>
+      <email>tbolduc@synergyhealthcorp.com</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Research of Brandon, LLC (Site 123)</name>
+      <address>
+        <city>Brandon</city>
+        <state>Florida</state>
+        <zip>33511</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Isamar Rivera</last_name>
+      <phone>813-930-8424</phone>
+      <email>Irivera@crofb.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Reliable Clinical Research, LLC (Site 100)</name>
+      <address>
+        <city>Hialeah</city>
+        <state>Florida</state>
+        <zip>33012</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yelamis Cartaya</last_name>
+      <phone>786-536-4177</phone>
+      <email>yelamisreliable@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>A+ Research (Site 112)</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33144</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Niurka Romero</last_name>
+      <phone>305-229-4053</phone>
+      <email>niurka@aplusresearch.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>NextPhase Research Alliance at CANO HEALTH (Site 107)</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33144</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yeslin Arias</last_name>
+      <phone>305-796-8661</phone>
+      <email>yarias@npresearch.net</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ezy Medical Research (Site 106)</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33175</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Priscilla Hernandez</last_name>
+      <phone>786-483-8162</phone>
+      <email>phernandez@ezytrials.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Eminat LLC (Site 117)</name>
+      <address>
+        <city>Plantation</city>
+        <state>Florida</state>
+        <zip>33317</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Paula Goodin</last_name>
+      <phone>954-584-6320</phone>
+      <email>paulaefrancis2012@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Invictus Clinical Research Group, LLC (Site 101)</name>
+      <address>
+        <city>Pompano Beach</city>
+        <state>Florida</state>
+        <zip>33064</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Janett Jalil</last_name>
+      <phone>786-619-7379</phone>
+      <email>janett_jalil@invictusclinical.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Visionaries Clinical Research, LLC (Site 121)</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30318</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tu Tran</last_name>
+      <phone>470-606-0636</phone>
+      <email>tu.tran@visionariesresearch.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Family Care Research (Site 114)</name>
+      <address>
+        <city>Boise</city>
+        <state>Idaho</state>
+        <zip>83704</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jill Heinz</last_name>
+      <phone>208-621-2501</phone>
+      <email>jill@familycareresearch.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Cedar Crosse Research Center (Site 122)</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60607</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jeanie Bhairoo</last_name>
+      <phone>312-431-6780</phone>
+      <email>Jlynn@cedarcrosse.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital (Site 110)</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jackie Duckett</last_name>
+      <phone>617-724-8625</phone>
+      <email>JDUCKETT1@mgh.harvard.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Oakland Medical Research Center (Site 108)</name>
+      <address>
+        <city>Troy</city>
+        <state>Michigan</state>
+        <zip>48085</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Julie Lafave</last_name>
+      <phone>248-687-7412</phone>
+      <email>juliejolafave@msn.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Cary Research Group (Site 111)</name>
+      <address>
+        <city>Cary</city>
+        <state>North Carolina</state>
+        <zip>27518</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Brett Foster</last_name>
+      <phone>919-233-0059</phone>
+      <phone_ext>159</phone_ext>
+      <email>bfoster@caryresearch.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Onsite Solutions (Site 118)</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jessica Spivey</last_name>
+      <phone>704-604-8072</phone>
+      <email>jspivey@onsiteclinical.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>STAT Research (Site 109)</name>
+      <address>
+        <city>Springboro</city>
+        <state>Ohio</state>
+        <zip>45066</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Erin Kelly</last_name>
+      <phone>937-223-4229</phone>
+      <email>statadmin@statresearch.net</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Toledo Institute of Clinical Research, Inc.(Site 105)</name>
+      <address>
+        <city>Toledo</city>
+        <state>Ohio</state>
+        <zip>43617</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rabia Gilani</last_name>
+      <phone>419-843-8815</phone>
+      <email>rabia.gilani@ohmiallergy.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Pharma Corp Clin Trials (Site 119)</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29412</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Advanced Medical Trials (Site 104)</name>
+      <address>
+        <city>Georgetown</city>
+        <state>Texas</state>
+        <zip>78628</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Olia Nayor</last_name>
+      <phone>512-868-0901</phone>
+      <email>onayor@advancedmedicaltrials.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Next Innovative Clinical Research (Site 115)</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>LaTonya Miller</last_name>
+      <phone>832-215-5985</phone>
+      <email>LaTonya.Miller@Nexticr.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Rio Grand Valley Clinical Research Institute (Site 120)</name>
+      <address>
+        <city>Pharr</city>
+        <state>Texas</state>
+        <zip>78577</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lissete Ochoa</last_name>
+      <phone>956-342-2626</phone>
+      <email>lochoa@hiramlgarciamdpa.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>October 7, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 8, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 12, 2020</study_first_posted>
+  <last_update_submitted>January 28, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 28, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 29, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Gabexate</mesh_term>
+    <mesh_term>Camostat</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

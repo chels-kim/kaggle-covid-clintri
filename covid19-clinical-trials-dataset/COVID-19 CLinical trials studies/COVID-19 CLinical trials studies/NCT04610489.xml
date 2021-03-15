@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2530">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04610489</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB-20-1088</org_study_id>
+    <secondary_id>Epling-533</secondary_id>
+    <nct_id>NCT04610489</nct_id>
+  </id_info>
+  <brief_title>Diagnostic Performance of an Antigen Test for SARS-CoV-2 Infection (COVID-19)</brief_title>
+  <official_title>Diagnostic Performance of an Antigen Test for Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Infection (COVID-19)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Carilion Clinic</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Carilion Clinic</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study plans to compare a direct antigen test for severe acute respiratory syndrome&#xD;
+      coronavirus 2 (SARS-CoV2) obtained by mid-turbinate nasal swab with a reverse transcription&#xD;
+      polymerase chain reaction (rt-PCR) test obtained by nasopharyngeal swab (the current&#xD;
+      reference standard) in a population of patients with symptoms suggestive of COVID-19 for&#xD;
+      fewer than 5 days. Subjects whose physicians have already ordered an rt-PCR test at a&#xD;
+      Carilion testing center will be screened and recruited by phone during a required scheduling&#xD;
+      call. The study coordinator will describe the study by phone, and the subject will be&#xD;
+      consented when they arrive at the testing center. After consenting, a mid-turbinate swab&#xD;
+      direct antigen test will be obtained just prior to the ordered nasopharyngeal swab and any&#xD;
+      other ordered tests. The subjects will receive their rt-PCR test results through the usual&#xD;
+      channels of clinical notification. The subjects will not receive their nasal antigen results.&#xD;
+      The antigen test results will be analyzed in a batch process and the results entered into&#xD;
+      RedCap by the study staff. The rt-PCR results will be extracted from the Epic electronic&#xD;
+      health record using patient identifiers and paired with the corresponding antigen result for&#xD;
+      statistical analysis.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study plans to compare a direct antigen test for severe acute respiratory syndrome&#xD;
+      coronavirus 2 (SARS-CoV2) obtained by mid-turbinate nasal swab with a reverse transcription&#xD;
+      polymerase chain reaction (rt-PCR) test obtained by nasopharyngeal swab (the current&#xD;
+      reference standard) in a population of patients with symptoms suggestive of COVID-19 for&#xD;
+      fewer than 5 days. Subjects whose physicians have already ordered an rt-PCR test at a&#xD;
+      Carilion testing center will be screened and recruited by phone during a required scheduling&#xD;
+      call. The study coordinator will describe the study by phone, and the subject will be&#xD;
+      consented when they arrive at the testing center. After consenting, a mid-turbinate swab&#xD;
+      direct antigen test will be obtained just prior to the ordered nasopharyngeal swab and any&#xD;
+      other ordered tests. The subjects will receive their rt-PCR test results through the usual&#xD;
+      channels of clinical notification. The subjects will not receive their nasal antigen results.&#xD;
+      The antigen test results will be analyzed in a batch process and the results entered into&#xD;
+      RedCap by the study staff. The rt-PCR results will be extracted from the Epic electronic&#xD;
+      health record using patient identifiers and paired with the corresponding antigen result for&#xD;
+      statistical analysis.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 1, 2020</start_date>
+  <completion_date type="Anticipated">January 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">January 31, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+    <masking_description>simultaneous acquisition of both test of interest and reference standard without contingency</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Sensitivity</measure>
+    <time_frame>At completion of study - approximately 3 months</time_frame>
+    <description>Sensitivity of antigen test compared with reference standard PCR test.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Specificity</measure>
+    <time_frame>At completion of study - approximately 3 months</time_frame>
+    <description>Specficity of antigen test compared with reference standard PCR test.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Area under the ROC curve</measure>
+    <time_frame>At completion of study - approximately 3 months</time_frame>
+    <description>AUROC for antigen test compared with reference standard PCR test</description>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">800</enrollment>
+  <condition>Covid-19</condition>
+  <arm_group>
+    <arm_group_label>Study Population</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>All subjects will undergo bilateral mid-turbinate swabs for COVID Antigen (Quidel Sofia SARS Antigen Fluorescent Immunoassay (FIA)) as well as bilateral rt-PCR testing (Quest SARS-CoV-2 rRT-PCR).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Quidel Sofia SARS Antigen FIA</intervention_name>
+    <description>Obtained via bilateral mid-turbinate swab.</description>
+    <arm_group_label>Study Population</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Acutely ill with one or more COVID-19 symptoms&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Unable to speak English&#xD;
+&#xD;
+          -  Unable to provide written informed consent&#xD;
+&#xD;
+          -  Symptoms have lasted longer than 5 days&#xD;
+&#xD;
+          -  Currently hospitalized&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>John W Epling, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Carilion Clinic</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>John W Epling, MD</last_name>
+    <phone>540-581-0123</phone>
+    <email>jwepling@carilionclinic.org</email>
+  </overall_contact>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>October 27, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 29, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 30, 2020</study_first_posted>
+  <last_update_submitted>October 29, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 29, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 30, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Carilion Clinic</investigator_affiliation>
+    <investigator_full_name>John W Epling</investigator_full_name>
+    <investigator_title>Medical Director of Research, Department of Family Medicine</investigator_title>
+  </responsible_party>
+  <keyword>diagnostic test</keyword>
+  <keyword>antigen test</keyword>
+  <keyword>PCR test</keyword>
+  <keyword>symptomatic</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

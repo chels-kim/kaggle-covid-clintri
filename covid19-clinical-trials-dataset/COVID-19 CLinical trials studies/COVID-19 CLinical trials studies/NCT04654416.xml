@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2614">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04654416</url>
+  </required_header>
+  <id_info>
+    <org_study_id>04-2020</org_study_id>
+    <nct_id>NCT04654416</nct_id>
+  </id_info>
+  <brief_title>Clinical Outcome of Patients With COVID-19 Pneumonia Treated With Corticosteroids and Colchicine</brief_title>
+  <official_title>Clinical Outcome of Patients With COVID-19 Pneumonia Treated With Corticosteroids and Colchicine in Colombia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Clínica Medellín - Grupo Quirónsalud</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Clínica Medellín - Grupo Quirónsalud</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Cross sectional study of 301 adult patients with Covid-19 Pneumonia treated with&#xD;
+      corticosteroid and/or colchicine&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      A cross sectional study of 301 adult patients with Covid-19 Pneumonia confirmed by Real-Time&#xD;
+      Polymerase Chain Reaction for SARS-CoV2 (RT-PCR SARS-CoV2), Berlin protocol, who required&#xD;
+      hospitalization in three hospitals in Antioquia, Colombia. Patients were treated according to&#xD;
+      the institutional protocol (from March 20, 2020 to June 30, 2020) with corticosteroid if the&#xD;
+      patient required supplemental oxygen. From July 1, 2020, the management protocol changed with&#xD;
+      the addition of colchicine to all patients admitted to the institutions. The treatment was&#xD;
+      supervised and monitored by the same specialist in infectology of the institutions.&#xD;
+&#xD;
+      We describe the clinical manifestations and outcomes of the patients who received these&#xD;
+      treatments. The patient's information was analyzed according to the outcome of interest&#xD;
+      (alive/dead) with univariate, bivariate, and multivariate measures to adjust the variables&#xD;
+      that presented statistical association.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">March 20, 2020</start_date>
+  <completion_date type="Actual">August 20, 2020</completion_date>
+  <primary_completion_date type="Actual">August 7, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Crossover</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Outcome</measure>
+    <time_frame>March 20 to August 07, 2020</time_frame>
+    <description>Dead or alive</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Actual">301</enrollment>
+  <condition>Covid-19</condition>
+  <arm_group>
+    <arm_group_label>Steroids</arm_group_label>
+    <description>Dexamethasone 6mg intravenous OD for seven to ten days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Colchicine</arm_group_label>
+    <description>Patients treated with colchicine at a dose of 0.5 mg every 12 hours for 7 to 14 days.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Corticosteroid with or without colchicine</intervention_name>
+    <description>We describe the clinical outcome of patients treated with corticosteroid and colchicine</description>
+    <arm_group_label>Colchicine</arm_group_label>
+    <arm_group_label>Steroids</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Adults with Covid-19 pneumonia&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  The included patients were older than 18 years hospitalized for Covid-19 Pneumonia,&#xD;
+             confirmed positive by Real-Time Reverse Transcription Polymerase Chain Reaction for&#xD;
+             SARS-CoV2 (RT-PCR SARS-Cov2) by Berlin protocol. The samples were taken from a&#xD;
+             nasopharyngeal swab.&#xD;
+&#xD;
+          -  The patients should also have radiological confirmation of Pneumonia, mostly chest&#xD;
+             tomography or chest X-rays, to support the diagnosis of Covid-19 Pneumonia.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Clínica Medellín - Grupo Quirónsalud</name>
+      <address>
+        <city>Medellín</city>
+        <state>Antioquia</state>
+        <zip>050020</zip>
+        <country>Colombia</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Colombia</country>
+  </location_countries>
+  <reference>
+    <citation>Zhu N, Zhang D, Wang W, Li X, Yang B, Song J, Zhao X, Huang B, Shi W, Lu R, Niu P, Zhan F, Ma X, Wang D, Xu W, Wu G, Gao GF, Tan W; China Novel Coronavirus Investigating and Research Team. A Novel Coronavirus from Patients with Pneumonia in China, 2019. N Engl J Med. 2020 Feb 20;382(8):727-733. doi: 10.1056/NEJMoa2001017. Epub 2020 Jan 24.</citation>
+    <PMID>31978945</PMID>
+  </reference>
+  <reference>
+    <citation>Mahase E. Coronavirus covid-19 has killed more people than SARS and MERS combined, despite lower case fatality rate. BMJ. 2020 Feb 18;368:m641. doi: 10.1136/bmj.m641.</citation>
+    <PMID>32071063</PMID>
+  </reference>
+  <reference>
+    <citation>Yao X, Ye F, Zhang M, Cui C, Huang B, Niu P, Liu X, Zhao L, Dong E, Song C, Zhan S, Lu R, Li H, Tan W, Liu D. In Vitro Antiviral Activity and Projection of Optimized Dosing Design of Hydroxychloroquine for the Treatment of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2). Clin Infect Dis. 2020 Jul 28;71(15):732-739. doi: 10.1093/cid/ciaa237.</citation>
+    <PMID>32150618</PMID>
+  </reference>
+  <reference>
+    <citation>de Wit E, Feldmann F, Cronin J, Jordan R, Okumura A, Thomas T, Scott D, Cihlar T, Feldmann H. Prophylactic and therapeutic remdesivir (GS-5734) treatment in the rhesus macaque model of MERS-CoV infection. Proc Natl Acad Sci U S A. 2020 Mar 24;117(12):6771-6776. doi: 10.1073/pnas.1922083117. Epub 2020 Feb 13.</citation>
+    <PMID>32054787</PMID>
+  </reference>
+  <reference>
+    <citation>RECOVERY Collaborative Group, Horby P, Lim WS, Emberson JR, Mafham M, Bell JL, Linsell L, Staplin N, Brightling C, Ustianowski A, Elmahi E, Prudon B, Green C, Felton T, Chadwick D, Rege K, Fegan C, Chappell LC, Faust SN, Jaki T, Jeffery K, Montgomery A, Rowan K, Juszczak E, Baillie JK, Haynes R, Landray MJ. Dexamethasone in Hospitalized Patients with Covid-19 - Preliminary Report. N Engl J Med. 2020 Jul 17. doi: 10.1056/NEJMoa2021436. [Epub ahead of print]</citation>
+    <PMID>32678530</PMID>
+  </reference>
+  <reference>
+    <citation>Deftereos SG, Giannopoulos G, Vrachatis DA, Siasos GD, Giotaki SG, Gargalianos P, Metallidis S, Sianos G, Baltagiannis S, Panagopoulos P, Dolianitis K, Randou E, Syrigos K, Kotanidou A, Koulouris NG, Milionis H, Sipsas N, Gogos C, Tsoukalas G, Olympios CD, Tsagalou E, Migdalis I, Gerakari S, Angelidis C, Alexopoulos D, Davlouros P, Hahalis G, Kanonidis I, Katritsis D, Kolettis T, Manolis AS, Michalis L, Naka KK, Pyrgakis VN, Toutouzas KP, Triposkiadis F, Tsioufis K, Vavouranakis E, Martinèz-Dolz L, Reimers B, Stefanini GG, Cleman M, Goudevenos J, Tsiodras S, Tousoulis D, Iliodromitis E, Mehran R, Dangas G, Stefanadis C; GRECCO-19 investigators. Effect of Colchicine vs Standard Care on Cardiac and Inflammatory Biomarkers and Clinical Outcomes in Patients Hospitalized With Coronavirus Disease 2019: The GRECCO-19 Randomized Clinical Trial. JAMA Netw Open. 2020 Jun 1;3(6):e2013136. doi: 10.1001/jamanetworkopen.2020.13136.</citation>
+    <PMID>32579195</PMID>
+  </reference>
+  <reference>
+    <citation>Dong L, Hu S, Gao J. Discovering drugs to treat coronavirus disease 2019 (COVID-19). Drug Discov Ther. 2020;14(1):58-60. doi: 10.5582/ddt.2020.01012.</citation>
+    <PMID>32147628</PMID>
+  </reference>
+  <reference>
+    <citation>Russell CD, Millar JE, Baillie JK. Clinical evidence does not support corticosteroid treatment for 2019-nCoV lung injury. Lancet. 2020 Feb 15;395(10223):473-475. doi: 10.1016/S0140-6736(20)30317-2. Epub 2020 Feb 7.</citation>
+    <PMID>32043983</PMID>
+  </reference>
+  <reference>
+    <citation>Wu C, Chen X, Cai Y, Xia J, Zhou X, Xu S, Huang H, Zhang L, Zhou X, Du C, Zhang Y, Song J, Wang S, Chao Y, Yang Z, Xu J, Zhou X, Chen D, Xiong W, Xu L, Zhou F, Jiang J, Bai C, Zheng J, Song Y. Risk Factors Associated With Acute Respiratory Distress Syndrome and Death in Patients With Coronavirus Disease 2019 Pneumonia in Wuhan, China. JAMA Intern Med. 2020 Jul 1;180(7):934-943. doi: 10.1001/jamainternmed.2020.0994. Erratum in: JAMA Intern Med. 2020 Jul 1;180(7):1031.</citation>
+    <PMID>32167524</PMID>
+  </reference>
+  <reference>
+    <citation>Mehta P, McAuley DF, Brown M, Sanchez E, Tattersall RS, Manson JJ; HLH Across Speciality Collaboration, UK. COVID-19: consider cytokine storm syndromes and immunosuppression. Lancet. 2020 Mar 28;395(10229):1033-1034. doi: 10.1016/S0140-6736(20)30628-0. Epub 2020 Mar 16.</citation>
+    <PMID>32192578</PMID>
+  </reference>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>December 2, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 2, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 4, 2020</study_first_posted>
+  <last_update_submitted>December 2, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 2, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 4, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Clínica Medellín - Grupo Quirónsalud</investigator_affiliation>
+    <investigator_full_name>Miguel Alejandro Pinzón</investigator_full_name>
+    <investigator_title>Internal Medicine - Infectious Diseases Specialist</investigator_title>
+  </responsible_party>
+  <keyword>Dexamethasone</keyword>
+  <keyword>Corticosteroid</keyword>
+  <keyword>Covid-19</keyword>
+  <keyword>Pneumonia</keyword>
+  <keyword>Colchicine</keyword>
+  <keyword>Clinical outcome</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Colchicine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

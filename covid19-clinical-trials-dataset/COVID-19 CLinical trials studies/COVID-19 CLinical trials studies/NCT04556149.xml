@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4006">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04556149</url>
+  </required_header>
+  <id_info>
+    <org_study_id>00110011</org_study_id>
+    <nct_id>NCT04556149</nct_id>
+  </id_info>
+  <brief_title>imPulse™ Una Full-spectrum, Over Clothing E-stethoscope</brief_title>
+  <official_title>SARS-CoV-2/COVID-19 Study of the Audible and Inaudible Vibroacoustic E-stethoscope - imPulse™ Una</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Level 42 AI, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Schmidt Futures</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Johns Hopkins University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Level 42 AI, Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study generates robust clinical data to train ML/AI algorithms of the Sponsor's imPulse™&#xD;
+      Una full-spectrum e-stethoscope for digital diagnostic feature synthesis of symptomatic&#xD;
+      SARS-CoV-2/COVID-19 biosignatures for rapid and accurate mass screening.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study is designed to evaluate the ability of the imPulse™ Una e-stethoscope to&#xD;
+      differentiate vibroacoustic signals in inpatients with and without confirmed COVID-19 as the&#xD;
+      first step to establish the performance characteristics - sensitivity, specificity, positive&#xD;
+      and negative predictive value - of the imPulse™ Una device for early and rapid, point-of-care&#xD;
+      diagnosis of COVID-19. This will inform the utility and design of further larger-scale&#xD;
+      studies using the device.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">October 1, 2020</start_date>
+  <completion_date type="Actual">December 2, 2020</completion_date>
+  <primary_completion_date type="Actual">December 2, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Diagnostic performance characteristics</measure>
+    <time_frame>through study completion, an average of 2 weeks</time_frame>
+    <description>Sensitivity, specificity, positive and negative predictive values - of the imPulse™ Una device for point-of-care diagnosis of COVID-19.</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Actual">34</enrollment>
+  <condition>Corona Virus Infection</condition>
+  <condition>Coronavirus</condition>
+  <arm_group>
+    <arm_group_label>Case</arm_group_label>
+    <description>Inpatients with confirmed COVID-19 with pulmonary symptoms</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Matched Control</arm_group_label>
+    <description>Inpatients without COVID-19 with non-pulmonary diagnoses or symptoms</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>imPulse™ Una e-stethoscope</intervention_name>
+    <description>The imPulse™ System is an every/anywhere-point-of-care cardiopulmonary functional state assessment platform designed to capture normal and abnormal, audible and inaudible cardiopulmonary sounds, rhythms and patterns, via a real-time, intelligent, full-spectrum phonocardiogram obtained from direct to skin coupling or through a layer of clothing.</description>
+    <arm_group_label>Case</arm_group_label>
+    <arm_group_label>Matched Control</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Philips Lumify Ultrasound System</intervention_name>
+    <description>Point-of-care ultrasound</description>
+    <arm_group_label>Case</arm_group_label>
+    <arm_group_label>Matched Control</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Adult men and women will be recruited from among hospitalized patients with symptomatic&#xD;
+        COVID-19 infection who are not receiving ventilator support. One hospitalized control&#xD;
+        without lung disease or pulmonary symptoms will be selected for each case.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria&#xD;
+&#xD;
+          -  Individuals hospitalized within a Johns Hopkins-affiliated hospital&#xD;
+&#xD;
+          -  Able to understand and willingness to comply with study procedures&#xD;
+&#xD;
+          -  Cases - inpatients with positive COVID-19 PCR test, collected from a respiratory&#xD;
+             sample within the last 7 days, AND pulmonary symptoms within 72 hours of enrollment&#xD;
+&#xD;
+          -  Controls - inpatients without COVID-19 diagnosis and no pulmonary diagnosis or&#xD;
+             symptoms&#xD;
+&#xD;
+          -  Cases or Control not able to sit or stand will be allowed to participate in just the&#xD;
+             parts of the staircase exam they're capable of doing.&#xD;
+&#xD;
+        Exclusion Criteria&#xD;
+&#xD;
+          -  Assisted ventilation, including high flow nasal cannula, or ventilator support&#xD;
+&#xD;
+          -  Unable to comply with study procedures, defined at investigator's discretion&#xD;
+&#xD;
+          -  Participants with any visible skin infections or open wounds in areas where the&#xD;
+             imPulse™ Una device would be applied&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Kelly Dooley, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Johns Hopkins School of Medicine</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Ed Fuchs, MBA</last_name>
+    <role>Study Director</role>
+    <affiliation>Johns Hopkins School of Medicine</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Johns Hopkins School of Medicine</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21287-5554</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>May 23, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 15, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 21, 2020</study_first_posted>
+  <last_update_submitted>December 17, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 17, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 21, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>infrasound</keyword>
+  <keyword>e-stethoscope</keyword>
+  <keyword>biosignature</keyword>
+  <keyword>SARS-CoV-2/COVID-19</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1308">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04596839</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BEX-06001</org_study_id>
+    <nct_id>NCT04596839</nct_id>
+  </id_info>
+  <brief_title>Antiviral Activity and Safety of Remdesivir in Bangladeshi Patients With Severe Coronavirus Disease (COVID-19)</brief_title>
+  <official_title>Antiviral Activity and Safety of Remdesivir in Bangladeshi Patients With Severe Coronavirus Disease (COVID-19): An Open Label, Multi-Center, Randomized Controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Dr. Md. Alimur Reza</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Beximco Pharmaceuticals Ltd.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Background - A novel coronavirus, severe acute respiratory syndrome coronavirus 2&#xD;
+      (SARS-CoV-2), was first identified in December 2019 as the cause of a respiratory illness&#xD;
+      COVID-19 in Wuhan City, China. WHO declared a public health emergency outbreak of this virus&#xD;
+      on 30 January 2020 and declared COVID-19 a global pandemic on 11 March, 2020. Bangladesh&#xD;
+      reported its first case on March 8, 2020 and first fatality on April 1, 2020. Bangladesh had&#xD;
+      shown a staggered course of COVID-19 transmission initially but a surge in cases was observed&#xD;
+      from April, 2020.&#xD;
+&#xD;
+      Remdesivir remains as the only potential therapy for the treatment of COVID-19 till date.&#xD;
+      Based on several pre-clinical studies in SARS-CoV and MERS-CoV infections, Animal trials in&#xD;
+      COVID-19 and data from human trials, this randomized, controlled, open label trial will&#xD;
+      evaluate the antiviral activity and safety of Remdesivir in Bangladeshi hospitalized patients&#xD;
+      with severe COVID-19.&#xD;
+&#xD;
+      This study finding will provide knowledge if Remdesivir is effective enough to treat&#xD;
+      Bangladeshi COVID-19 hospitalized patients with adequate safety and tolerability. The result&#xD;
+      of this study will help the key opinion leaders regarding the matter, to take appropriate&#xD;
+      decision regarding usage of Remdesivir for the treatment of COVID-19 in Bangladesh.&#xD;
+&#xD;
+      Study Procedure - All patients will receive the standard medical care for COVID-19+ve at the&#xD;
+      respective hospitals. Vital signs will be recorded every 24 hrs for 1st 5 days then once in 2&#xD;
+      days till discharge or as per the discretion of the attending physicians. After screening the&#xD;
+      COVID-19 confirmed patients will be randomized into 2 treatment arms.&#xD;
+&#xD;
+      Patient's safety assessment e. g. blood parameters (CBC, Creatinine, SGPT, RBS, Creatinine,&#xD;
+      Creatinine Clearance) will be done on screening, day 5 and day 14 or discharge; Chest X-ray&#xD;
+      and ECG on screening and day 14 or discharge. SARS-CoV-2 (viral load) will be looked in on&#xD;
+      day 5, day 10 and day 14 or at the time of discharge. In case any study patient deteriorates&#xD;
+      during the study period will be managed as per the guideline of that particular hospital and&#xD;
+      if needed will be shifted to ICU. Patients who will recover will be discharged as per the&#xD;
+      national guideline for the COVID-19 hospitalized patients. Patients will be contacted at 28&#xD;
+      days either over phone or in person to get their health status since discharge.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 4, 2020</start_date>
+  <completion_date type="Anticipated">April 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">February 28, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Duration of hospital stay (Days)</measure>
+    <time_frame>28 Days</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to Clinical Improvement (TTCI)</measure>
+    <time_frame>28 Days</time_frame>
+    <description>Time to clinical improvement (censored at Day 28), defined as the time (in days) from randomization of study treatment until a decline of two categories on a six-category ordinal scale of clinical status (1 ꞊ discharged; 6 ꞊ death) or live discharge from hospital.&#xD;
+Six-category ordinal scale:&#xD;
+Hospital discharge or meet discharge criteria&#xD;
+Hospitalization, not requiring supplemental oxygen;&#xD;
+Hospitalization, requiring supplemental oxygen (but not NIV/ HFNC);&#xD;
+ICU/hospitalization, requiring NIV/ HFNC therapy;&#xD;
+ICU, requiring ECMO and/or IMV;&#xD;
+Death;</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>All causes mortality</measure>
+    <time_frame>28 Days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration (days) of mechanical ventilation</measure>
+    <time_frame>28 Days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration (days) of supplemental oxygenation</measure>
+    <time_frame>28 Days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to 2019-nCoV RT-PCR negativity in Nasopharyngeal Swab</measure>
+    <time_frame>28 Days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of serious adverse drug events</measure>
+    <time_frame>28 Days</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Remdesivir with Standard of Care Treatment for COVID-19 Infection</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive continued standard of care therapy together with RDV 200 mg on Day 1 followed by RDV 100 mg on Days 2, 3, 4, and 5.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard of Care Treatment for COVID-19 Infection</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Participants will receive continued standard of care therapy.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Remdesivir</intervention_name>
+    <description>Remdesivir INN 100 mg lyophilized powder for infusion</description>
+    <arm_group_label>Remdesivir with Standard of Care Treatment for COVID-19 Infection</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Standard of Care</intervention_name>
+    <description>Standard of Care Treatment for COVID-19 Infection</description>
+    <arm_group_label>Standard of Care Treatment for COVID-19 Infection</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Age ≥18 years at time of signing Informed Consent Form&#xD;
+&#xD;
+          2. Hospitalized with diagnosed COVID-19 confirmed by RT-PCR test ≤ 7 days before&#xD;
+             randomization with any one following criteria&#xD;
+&#xD;
+               -  Respiratory distress (≥30 breaths/min);&#xD;
+&#xD;
+               -  Finger oxygen saturation ≤93% at rest;&#xD;
+&#xD;
+               -  Arterial partial pressure of oxygen (PaO2)/fraction of inspired oxygen (FiO2)&#xD;
+                  ≤300mmHg&#xD;
+&#xD;
+          3. Willingness of study participant to accept randomization to any assigned treatment arm&#xD;
+&#xD;
+          4. Must agree not to enroll in another study of an investigational agent prior to&#xD;
+             completion of Day 28 of study&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Physician makes a decision that trial involvement is not in patients' best interest,&#xD;
+             or any condition that does not allow the protocol to be followed safely.&#xD;
+&#xD;
+          -  Severe liver disease (Alanine Transaminase (ALT) or Aspartate Transaminase (AST) &gt; 5&#xD;
+             times the upper limit of normal)&#xD;
+&#xD;
+          -  Estimated glomerular filtration rate (eGFR) &lt; 30 ml/min (including patients receiving&#xD;
+             hemodialysis or hemofiltration).&#xD;
+&#xD;
+          -  Mechanically ventilated (including V-V ECMO) ≥ 5 days, or any duration of V-A ECMO.&#xD;
+&#xD;
+          -  Known hypersensitivity to the Remdesivir, the metabolites, or formulation excipient&#xD;
+&#xD;
+          -  Pregnancy or breast feeding.&#xD;
+&#xD;
+          -  Anticipated discharge from the hospital or transfer to another hospital which is not a&#xD;
+             study site within 72 hours.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Major General Md. Azizul Islam, MBBS, FCPS</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Combined Military Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Dr. Md. Alimur Reza, MBBS, MPH</last_name>
+    <phone>+8801711438139</phone>
+    <email>rea@bpl.net</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Combined Military Hospital</name>
+      <address>
+        <city>Dhaka</city>
+        <zip>1206</zip>
+        <country>Bangladesh</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Major General Md. Azizul Islam</last_name>
+      <phone>01819208676</phone>
+      <email>aziz100542@yahoo.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Bangladesh</country>
+  </location_countries>
+  <link>
+    <url>http://www.who.int/docs/default-source/coronaviruse/situation-reports/20200423-sitrep-94-covid-19.pdf</url>
+    <description>Coronavirus disease 2019 (COVID-19) Situation Report - 94</description>
+  </link>
+  <link>
+    <url>http://www.who.int/news-room/detail/30-01-2020-statement-on-the-second-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-outbreak-of-novel-coronavirus-(2019-ncov)</url>
+    <description>Statement on the second meeting of the International Health Regulations (2005) Emergency Committee regarding the outbreak of novel coronavirus (2019-nCoV).</description>
+  </link>
+  <link>
+    <url>https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020</url>
+    <description>WHO Director-General's opening remarks at the media briefing on COVID-19 - 11 March 2020</description>
+  </link>
+  <link>
+    <url>http://www.worldometers.info/coronavirus/</url>
+    <description>COVID-19 CORONAVIRUS PANDEMIC</description>
+  </link>
+  <link>
+    <url>http://www.who.int/docs/default-source/searo/bangladesh/covid-19-who-bangladesh-situation-reports/who-ban-covid-19-sitrep-13-20200525.pdf?sfvrsn=a15591c0_4</url>
+    <description>WHO Bangladesh COVID19 Situation Reports # 13 on 25 May 2020</description>
+  </link>
+  <link>
+    <url>http://103.247.238.81/webportal/pages/covid19.php</url>
+    <description>Coronavirus COVID-19 Dashboard, 2020</description>
+  </link>
+  <reference>
+    <citation>Helmy YA, Fawzy M, Elaswad A, Sobieh A, Kenney SP, Shehata AA. The COVID-19 Pandemic: A Comprehensive Review of Taxonomy, Genetics, Epidemiology, Diagnosis, Treatment, and Control. J Clin Med. 2020 Apr 24;9(4). pii: E1225. doi: 10.3390/jcm9041225. Review.</citation>
+    <PMID>32344679</PMID>
+  </reference>
+  <reference>
+    <citation>Cao B, Wang Y, Wen D, Liu W, Wang J, Fan G, Ruan L, Song B, Cai Y, Wei M, Li X, Xia J, Chen N, Xiang J, Yu T, Bai T, Xie X, Zhang L, Li C, Yuan Y, Chen H, Li H, Huang H, Tu S, Gong F, Liu Y, Wei Y, Dong C, Zhou F, Gu X, Xu J, Liu Z, Zhang Y, Li H, Shang L, Wang K, Li K, Zhou X, Dong X, Qu Z, Lu S, Hu X, Ruan S, Luo S, Wu J, Peng L, Cheng F, Pan L, Zou J, Jia C, Wang J, Liu X, Wang S, Wu X, Ge Q, He J, Zhan H, Qiu F, Guo L, Huang C, Jaki T, Hayden FG, Horby PW, Zhang D, Wang C. A Trial of Lopinavir-Ritonavir in Adults Hospitalized with Severe Covid-19. N Engl J Med. 2020 May 7;382(19):1787-1799. doi: 10.1056/NEJMoa2001282. Epub 2020 Mar 18.</citation>
+    <PMID>32187464</PMID>
+  </reference>
+  <reference>
+    <citation>Sheahan TP, Sims AC, Leist SR, Schäfer A, Won J, Brown AJ, Montgomery SA, Hogg A, Babusis D, Clarke MO, Spahn JE, Bauer L, Sellers S, Porter D, Feng JY, Cihlar T, Jordan R, Denison MR, Baric RS. Comparative therapeutic efficacy of remdesivir and combination lopinavir, ritonavir, and interferon beta against MERS-CoV. Nat Commun. 2020 Jan 10;11(1):222. doi: 10.1038/s41467-019-13940-6.</citation>
+    <PMID>31924756</PMID>
+  </reference>
+  <reference>
+    <citation>Agostini ML, Andres EL, Sims AC, Graham RL, Sheahan TP, Lu X, Smith EC, Case JB, Feng JY, Jordan R, Ray AS, Cihlar T, Siegel D, Mackman RL, Clarke MO, Baric RS, Denison MR. Coronavirus Susceptibility to the Antiviral Remdesivir (GS-5734) Is Mediated by the Viral Polymerase and the Proofreading Exoribonuclease. mBio. 2018 Mar 6;9(2). pii: e00221-18. doi: 10.1128/mBio.00221-18.</citation>
+    <PMID>29511076</PMID>
+  </reference>
+  <reference>
+    <citation>Brown AJ, Won JJ, Graham RL, Dinnon KH 3rd, Sims AC, Feng JY, Cihlar T, Denison MR, Baric RS, Sheahan TP. Broad spectrum antiviral remdesivir inhibits human endemic and zoonotic deltacoronaviruses with a highly divergent RNA dependent RNA polymerase. Antiviral Res. 2019 Sep;169:104541. doi: 10.1016/j.antiviral.2019.104541. Epub 2019 Jun 21.</citation>
+    <PMID>31233808</PMID>
+  </reference>
+  <reference>
+    <citation>Sheahan TP, Sims AC, Graham RL, Menachery VD, Gralinski LE, Case JB, Leist SR, Pyrc K, Feng JY, Trantcheva I, Bannister R, Park Y, Babusis D, Clarke MO, Mackman RL, Spahn JE, Palmiotti CA, Siegel D, Ray AS, Cihlar T, Jordan R, Denison MR, Baric RS. Broad-spectrum antiviral GS-5734 inhibits both epidemic and zoonotic coronaviruses. Sci Transl Med. 2017 Jun 28;9(396). pii: eaal3653. doi: 10.1126/scitranslmed.aal3653.</citation>
+    <PMID>28659436</PMID>
+  </reference>
+  <reference>
+    <citation>Wang M, Cao R, Zhang L, Yang X, Liu J, Xu M, Shi Z, Hu Z, Zhong W, Xiao G. Remdesivir and chloroquine effectively inhibit the recently emerged novel coronavirus (2019-nCoV) in vitro. Cell Res. 2020 Mar;30(3):269-271. doi: 10.1038/s41422-020-0282-0. Epub 2020 Feb 4.</citation>
+    <PMID>32020029</PMID>
+  </reference>
+  <reference>
+    <citation>de Wit E, Rasmussen AL, Falzarano D, Bushmaker T, Feldmann F, Brining DL, Fischer ER, Martellaro C, Okumura A, Chang J, Scott D, Benecke AG, Katze MG, Feldmann H, Munster VJ. Middle East respiratory syndrome coronavirus (MERS-CoV) causes transient lower respiratory tract infection in rhesus macaques. Proc Natl Acad Sci U S A. 2013 Oct 8;110(41):16598-603. doi: 10.1073/pnas.1310744110. Epub 2013 Sep 23.</citation>
+    <PMID>24062443</PMID>
+  </reference>
+  <reference>
+    <citation>de Wit E, Feldmann F, Cronin J, Jordan R, Okumura A, Thomas T, Scott D, Cihlar T, Feldmann H. Prophylactic and therapeutic remdesivir (GS-5734) treatment in the rhesus macaque model of MERS-CoV infection. Proc Natl Acad Sci U S A. 2020 Mar 24;117(12):6771-6776. doi: 10.1073/pnas.1922083117. Epub 2020 Feb 13.</citation>
+    <PMID>32054787</PMID>
+  </reference>
+  <reference>
+    <citation>Gordon CJ, Tchesnokov EP, Woolner E, Perry JK, Feng JY, Porter DP, Götte M. Remdesivir is a direct-acting antiviral that inhibits RNA-dependent RNA polymerase from severe acute respiratory syndrome coronavirus 2 with high potency. J Biol Chem. 2020 May 15;295(20):6785-6797. doi: 10.1074/jbc.RA120.013679. Epub 2020 Apr 13.</citation>
+    <PMID>32284326</PMID>
+  </reference>
+  <reference>
+    <citation>Grein J, Ohmagari N, Shin D, Diaz G, Asperges E, Castagna A, Feldt T, Green G, Green ML, Lescure FX, Nicastri E, Oda R, Yo K, Quiros-Roldan E, Studemeister A, Redinski J, Ahmed S, Bernett J, Chelliah D, Chen D, Chihara S, Cohen SH, Cunningham J, D'Arminio Monforte A, Ismail S, Kato H, Lapadula G, L'Her E, Maeno T, Majumder S, Massari M, Mora-Rillo M, Mutoh Y, Nguyen D, Verweij E, Zoufaly A, Osinusi AO, DeZure A, Zhao Y, Zhong L, Chokkalingam A, Elboudwarej E, Telep L, Timbs L, Henne I, Sellers S, Cao H, Tan SK, Winterbourne L, Desai P, Mera R, Gaggar A, Myers RP, Brainard DM, Childs R, Flanigan T. Compassionate Use of Remdesivir for Patients with Severe Covid-19. N Engl J Med. 2020 Jun 11;382(24):2327-2336. doi: 10.1056/NEJMoa2007016. Epub 2020 Apr 10.</citation>
+    <PMID>32275812</PMID>
+  </reference>
+  <reference>
+    <citation>Arentz M, Yim E, Klaff L, Lokhandwala S, Riedo FX, Chong M, Lee M. Characteristics and Outcomes of 21 Critically Ill Patients With COVID-19 in Washington State. JAMA. 2020 Apr 28;323(16):1612-1614. doi: 10.1001/jama.2020.4326.</citation>
+    <PMID>32191259</PMID>
+  </reference>
+  <reference>
+    <citation>Zhou F, Yu T, Du R, Fan G, Liu Y, Liu Z, Xiang J, Wang Y, Song B, Gu X, Guan L, Wei Y, Li H, Wu X, Xu J, Tu S, Zhang Y, Chen H, Cao B. Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study. Lancet. 2020 Mar 28;395(10229):1054-1062. doi: 10.1016/S0140-6736(20)30566-3. Epub 2020 Mar 11. Erratum in: Lancet. 2020 Mar 28;395(10229):1038. Lancet. 2020 Mar 28;395(10229):1038.</citation>
+    <PMID>32171076</PMID>
+  </reference>
+  <reference>
+    <citation>Bhatraju PK, Ghassemieh BJ, Nichols M, Kim R, Jerome KR, Nalla AK, Greninger AL, Pipavath S, Wurfel MM, Evans L, Kritek PA, West TE, Luks A, Gerbino A, Dale CR, Goldman JD, O'Mahony S, Mikacenic C. Covid-19 in Critically Ill Patients in the Seattle Region - Case Series. N Engl J Med. 2020 May 21;382(21):2012-2022. doi: 10.1056/NEJMoa2004500. Epub 2020 Mar 30.</citation>
+    <PMID>32227758</PMID>
+  </reference>
+  <reference>
+    <citation>Mulangu S, Dodd LE, Davey RT Jr, Tshiani Mbaya O, Proschan M, Mukadi D, Lusakibanza Manzo M, Nzolo D, Tshomba Oloma A, Ibanda A, Ali R, Coulibaly S, Levine AC, Grais R, Diaz J, Lane HC, Muyembe-Tamfum JJ; PALM Writing Group, Sivahera B, Camara M, Kojan R, Walker R, Dighero-Kemp B, Cao H, Mukumbayi P, Mbala-Kingebeni P, Ahuka S, Albert S, Bonnett T, Crozier I, Duvenhage M, Proffitt C, Teitelbaum M, Moench T, Aboulhab J, Barrett K, Cahill K, Cone K, Eckes R, Hensley L, Herpin B, Higgs E, Ledgerwood J, Pierson J, Smolskis M, Sow Y, Tierney J, Sivapalasingam S, Holman W, Gettinger N, Vallée D, Nordwall J; PALM Consortium Study Team. A Randomized, Controlled Trial of Ebola Virus Disease Therapeutics. N Engl J Med. 2019 Dec 12;381(24):2293-2303. doi: 10.1056/NEJMoa1910993. Epub 2019 Nov 27.</citation>
+    <PMID>31774950</PMID>
+  </reference>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>October 20, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 20, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 22, 2020</study_first_posted>
+  <last_update_submitted>January 26, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 26, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 27, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Beximco Pharmaceuticals Ltd.</investigator_affiliation>
+    <investigator_full_name>Dr. Md. Alimur Reza</investigator_full_name>
+    <investigator_title>Manager, Medical Affairs</investigator_title>
+  </responsible_party>
+  <keyword>Remdesivir</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

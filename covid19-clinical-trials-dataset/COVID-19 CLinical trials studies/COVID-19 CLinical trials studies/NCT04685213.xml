@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1010">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04685213</url>
+  </required_header>
+  <id_info>
+    <org_study_id>H-47781</org_study_id>
+    <nct_id>NCT04685213</nct_id>
+  </id_info>
+  <brief_title>Electrical Stimulation for Critically Ill Covid-19 Patients</brief_title>
+  <acronym>COVID-19</acronym>
+  <official_title>Electrical Stimulation Therapy for Preventing Hospital-acquired Weakness in Critically Ill COVID-19 Patients - A Proof of Concept Randomized Controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Baylor College of Medicine</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Avazzia, Inc</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Baylor College of Medicine</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Unfortunately, hospital-acquired weakness is highly prevalent among COVID-19 hospitalized&#xD;
+      patients, who often require prolonged bed-rest or paralytics for an extended period of time&#xD;
+      in order to maintain oxygenation. Prolonged bed rest has been associated with pronounced loss&#xD;
+      of muscle mass that can exceed 10% over the 1st week, which leads to functional impairment&#xD;
+      and complications post-hospital discharge. Physical therapy and in-hospital mobility program&#xD;
+      may reduce the incident of hospital-acquired weakness, but they are often impractical for&#xD;
+      COVID-19 patients. In particular, conventional mobility programs are challenging for those&#xD;
+      who are being treated in an intensive Care Unit. The purpose of this study is to test&#xD;
+      feasibility and proof-of-concept effectiveness of daily use of lower extremity electrical&#xD;
+      stimulation (EE) therapy, as a practical solution to retain lower extremity muscle mass, to&#xD;
+      address chronic morbid consequences of COVID-19 including hospital-acquired weakness.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The purpose of this study is to test feasibility and proof-of-concept effectiveness of lower&#xD;
+      extremity electrical stimulation (EE) therapy to address chronic morbid consequences of&#xD;
+      COVID-19 including hospital-acquired weakness and neuropathy. This is a proof of concept&#xD;
+      randomized control trial (RCT) study. Eligible participants (n=20 anticipated) will be&#xD;
+      recruited from the Baylor St. Luke's' Medical Center (Houston, Texas). To be eligible&#xD;
+      participants should be hospitalized because of COVID-19 infection and suspected to be at risk&#xD;
+      for hospital acquired-weakness based on judgment of clinical intensivist investigators.&#xD;
+      Participants will be excluded if they are paralyzed. Other exclusion criteria include blow&#xD;
+      the knee amputation, those who have a demand-type cardiac pacemaker, implanted defibrillator&#xD;
+      or other implanted electronic device; those with wound infection, and other conditions that&#xD;
+      may interfere with outcomes or increase the risk of the use EE based on judgement of&#xD;
+      clinicians.&#xD;
+&#xD;
+      The Investigators hypothesize that implementation of EE as means of regular activation of&#xD;
+      lower extremity muscle is feasible and acceptable for the target population and would help to&#xD;
+      retain lower extremity muscle mass, lower extremity tissue oxygen saturation and perfusion,&#xD;
+      and thus reducing the severity of hospital acquired weakness and potentially improve outcomes&#xD;
+      of treatment among COVID-19 patients.&#xD;
+&#xD;
+      Participants will be randomized to intervention (IG) or control group (CG)). The entire&#xD;
+      cohort will receive daily EE in lower extremity (e.g. Gastronemius, tibial anterior muscle)&#xD;
+      up to 1 hour. EE therapy will be provided using a bio-electric stimulation technology (BEST)&#xD;
+      platform (Tennant Biomodulator PRO®, AVAZZIA, Inc.). The EE device will be functional for IG&#xD;
+      and non-functional for CG. The primary outcomes include between group difference and change&#xD;
+      from the baseline in muscle function, muscle strength, lower extremity tissue oxygen&#xD;
+      saturation, neuropathy, and muscle atrophy. Outcomes will be assessed at baseline, time of&#xD;
+      discharge or 4 weeks, whichever came first.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 18, 2020</start_date>
+  <completion_date type="Anticipated">August 18, 2021</completion_date>
+  <primary_completion_date type="Anticipated">August 18, 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Participants will be randomized to intervention (IG) or control group (CG)) with ratio of 1:1. The entire cohort will receive daily electrical stimulation (EE) in lower extremity (e.g. Gastronemius, tibial anterior muscle) up to 1 hour. The EE device will be functional for IG and non-functional for CG.</intervention_model_description>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>Double (Participant, Care Provider)</masking>
+    <masking_description>Devices may be active or sham.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in muscle function</measure>
+    <time_frame>baseline to 4 weeks</time_frame>
+    <description>Muscle fiber activation will be assessed using wireless surface electromyogram</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>muscle fatigue</measure>
+    <time_frame>baseline to 4 weeks</time_frame>
+    <description>Muscle fatigue will be assessed using wireless surface electromyogram sensors by measuring changes in the power spectrum of the measured muscle activation at the first 10 minutes of EE application compared to last 10min of EE application during 60min EE application.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in tissue oxygen saturation</measure>
+    <time_frame>baseline to 4 weeks</time_frame>
+    <description>Tissue oxygen saturation will be assessed using near infrared spectroscopy</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Ankle circumference</measure>
+    <time_frame>baseline to 4 weeks</time_frame>
+    <description>Ankle circumference as a surrogate of muscle atrophy and/or edema will be measured using a standard tape</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Thigh circumference</measure>
+    <time_frame>baseline to 4 weeks</time_frame>
+    <description>Thigh circumference as a surrogate of muscle atrophy and/or edema will be measured using a standard tape</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Foot circumference</measure>
+    <time_frame>baseline to 4 weeks</time_frame>
+    <description>Thigh circumference as a surrogate of muscle atrophy and/or edema will be measured using a standard tape</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Venous Return Flow</measure>
+    <time_frame>baseline to 4 weeks</time_frame>
+    <description>Venous return flow will be assessed using Doppler Ultrasonography</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frailty</measure>
+    <time_frame>baseline to 4 weeks</time_frame>
+    <description>Frailty will be assessed using frailtymeter</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of stay</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>Length of stay will be assessed through the patient medical record</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Major adverse events</measure>
+    <time_frame>Through study completion, an average of 1 year</time_frame>
+    <description>Major adverse events will be assessed through the patient medical record</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>instrumental activities of daily living scale</measure>
+    <time_frame>one month post discharge</time_frame>
+    <description>The Lawton Instrumental Activities of Daily Living Scale (IADL) survey will be used to assess IADL at one month post discharge. A summary score ranges from 0 (low function, dependent) to 8 (high function, independent) for women and 0 through 5 for men to avoid potential gender bias.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Community engagement Scale</measure>
+    <time_frame>one month post discharge</time_frame>
+    <description>Community engagement will be assessed by Aging Life-Space Assessment (LSA) survey at one month post discharge. The scale ranges from 0 to 9, higher value indicates higher community engagement.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Depression scale</measure>
+    <time_frame>one month post discharge</time_frame>
+    <description>Depression will be assessed by the Center for Epidemiological Studies Depression (CES-D) questionnaire. Scores range from 0 to 60, with high scores indicating greater depressive symptoms. The CES-D also provides cutoff scores (e.g., 16 or greater) that aid in identifying individuals at risk for clinical depression.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Weight loss</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>weight loss as a surrogate of muscle atrophy will be assessed at 4 weeks compared to baseline</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neuropathy</measure>
+    <time_frame>baseline to 4 weeks</time_frame>
+    <description>Lower extremity numbness will be assessed using vibration pressure threshold test</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in muscle strength</measure>
+    <time_frame>baseline to 4 weeks</time_frame>
+    <description>Muscle strength will be assessed using a foot dynamo-meter</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>Covid19</condition>
+  <condition>Pain</condition>
+  <condition>Muscle Atrophy</condition>
+  <arm_group>
+    <arm_group_label>Active E-Stim</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Subjects will receive an active electrical stimulation device to wear for 1 hour daily for up to 4 weeks.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>sham E-Stim</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>Subjects will receive a sham electrical stimulation device to wear for 1 hour daily for up to 4 weeks.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Electrical Stimulation</intervention_name>
+    <description>Subjects will receive an active electrical stimulation device to wear for 1 hour daily for up to 4 weeks.</description>
+    <arm_group_label>Active E-Stim</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Electrical Stimulation - Sham</intervention_name>
+    <description>Subjects will receive a sham electrical stimulation device to wear for 1 hour daily for 4 weeks.</description>
+    <arm_group_label>sham E-Stim</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  COVID-19 test positive critically ill non-paralized patients in need of mechanical&#xD;
+             ventilation requiring care in the intensive care unit&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Subject has a demand-type cardiac pacemaker, implanted defibrillator or other&#xD;
+             implanted electronic device.&#xD;
+&#xD;
+          -  Active wound infection&#xD;
+&#xD;
+          -  Below the knee amputations&#xD;
+&#xD;
+          -  Based on the clinicians decision whether the patient is eligible for the study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Bijan Najafi, PhD</last_name>
+    <phone>713-798-7538</phone>
+    <email>bijan.najafi@bcm.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Maria Noun, BS</last_name>
+    <phone>713-798-7538</phone>
+    <email>maria.noun@bcm.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Baylor College of Medicine</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Bijan Najafi, PhD</last_name>
+      <phone>713-798-7536</phone>
+      <email>bijan.najafi@bcm.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Maria Noun, BS</last_name>
+      <phone>713-798-7538</phone>
+      <email>maria.noun@bcm.edu</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>December 23, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 23, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 28, 2020</study_first_posted>
+  <last_update_submitted>December 23, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 23, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 28, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Baylor College of Medicine</investigator_affiliation>
+    <investigator_full_name>Bijan Najafi, PhD</investigator_full_name>
+    <investigator_title>Professor of Surgery</investigator_title>
+  </responsible_party>
+  <keyword>electrical stimulation</keyword>
+  <keyword>skin perfusion</keyword>
+  <keyword>home based therapy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Muscular Atrophy</mesh_term>
+    <mesh_term>Atrophy</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

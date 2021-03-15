@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2085">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04600141</url>
+  </required_header>
+  <id_info>
+    <org_study_id>5057/20/086</org_study_id>
+    <nct_id>NCT04600141</nct_id>
+  </id_info>
+  <brief_title>Clinical Efficacy of Heparin and Tocilizumab in Patients With Severe COVID-19 Infection: a Randomized Clinical Trial</brief_title>
+  <acronym>HEPMAB</acronym>
+  <official_title>Clinical Efficacy of Heparin and Tocilizumab in Patients With Severe COVID-19 Infection: a Randomized Clinical Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Sao Paulo</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Conselho Nacional de Desenvolvimento Científico e Tecnológico</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Sao Paulo</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The COVID-19 infection primarily manifests itself as a respiratory tract infection, although&#xD;
+      new evidence indicates that this disease has systemic involvement involving multiple systems&#xD;
+      including the cardiovascular, respiratory, gastrointestinal, neurological, hematopoietic and&#xD;
+      immune systems. Recent studies have shown that in its pathophysiology, inflammation and&#xD;
+      thrombogenesis predominate, especially in the severe forms of COVID-19. Thus, the&#xD;
+      investigators hypothesized that the use of heparin and tocilizumab could potencially reduce&#xD;
+      inflammation and thrombogenesis in patients with severe COVID-19 infection, improving&#xD;
+      patients outcomes and survival.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 20, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">October 20, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of patients with clinical improvement</measure>
+    <time_frame>30 days</time_frame>
+    <description>Proportion of patients with clinical improvement in 30 days, defined by hospital discharge or a reduction of at least 2 points compared to baseline on the ordinal scale recommended by the World Health Organization:&#xD;
+Not hospitalized, with no limitations on activities;&#xD;
+Not hospitalized, but limited to activities;&#xD;
+Hospitalized, with no need for supplemental oxygen;&#xD;
+Hospitalized, needing supplemental oxygen;&#xD;
+Hospitalized, requiring high flow oxygen therapy, non-invasive mechanical ventilation or both;&#xD;
+Hospitalized, requiring ECMO, invasive mechanical ventilation or both;&#xD;
+Death.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Hospital and ICU length of stay;</measure>
+    <time_frame>30 days</time_frame>
+    <description>Number of days in hospital and ICU</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of invasive mechanical ventilation</measure>
+    <time_frame>30 days</time_frame>
+    <description>Rate and Time of invasive mechanical ventilation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of vasopressor use</measure>
+    <time_frame>30 days</time_frame>
+    <description>Time of use of vasopressors</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Renal failure by AKIN criteria</measure>
+    <time_frame>30 days</time_frame>
+    <description>Renal failure by AKIN criteria in 30 days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of cardiovascular complications</measure>
+    <time_frame>30 days</time_frame>
+    <description>Myocardial injury; Acute myocardial infarction; Cardiogenic shock; arrhythmias; Myocarditis; Pericarditis; Ventricular dysfunction.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of venous thromboembolism</measure>
+    <time_frame>30 days</time_frame>
+    <description>Deep vein thrombosis and pulmonary embolism</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>30, 60 and 90 days</time_frame>
+    <description>Mortality rate</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">308</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Group 1 - Therapeutic anticoagulation</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>(I) intravenous UFH started at a dose of 18 IU/kg/h, adjusted according to a nomogram to achieve a TTPa of 1.5 to 2.0 times the reference value; OR&#xD;
+(II) subcutaneous LMWH - enoxaparin 1 mg / kg per dose every 12 hours.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 2 - Prophylactic anticoagulation</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>(I) subcutaneous UFH 5,000 IU every 8 hours; OR&#xD;
+(II) subcutaneous LMWH - enoxaparin 40 mg daily.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 3 - Therapeutic anticoagulation with tocilizumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>(I) Intravenous UFH initiated at a dose of 18 IU / kg / h, adjusted according to a nomogram to achieve a TTPa of 1.5 to 2.0 times the reference value associated with 8 mg / kg / tocilizumab infusion / intravenous dose in a single dose; OR&#xD;
+Subcutaneous LMWH - enoxaparin 1 mg / kg per dose every 12 hours associated with an infusion of tocilizumab 8 mg / kg / dose in a single dose.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 4 - Prophylactic anticoagulation with tocilizumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>(I) subcutaneous UFH 5,000 IU every 8 hours associated with an infusion of tocilizumab 8 mg / kg / intravenous dose in a single dose; OR&#xD;
+(II) subcutaneous LMWH - enoxaparin 40 mg daily associated with an infusion of tocilizumab 8 mg / kg / intravenous dose in a single dose.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Tocilizumab</intervention_name>
+    <description>Tocilizumab infusion 8mg/kg/dose - Intravenous single dose.</description>
+    <arm_group_label>Group 3 - Therapeutic anticoagulation with tocilizumab</arm_group_label>
+    <arm_group_label>Group 4 - Prophylactic anticoagulation with tocilizumab</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Heparin - Therapeutic dosage</intervention_name>
+    <description>Intravenous Non-Fractional Heparine (HNF) starting at 18UI/kg/h adjusted according to a nomogram to achieve an Activated Partial Thromboplastin Time (ATTP) from 1.5 To 2.0 times the reference Value; or Low Molecular Weight Heparin (LMWH) subcutaneous dosage of 1mg/kg per dose every 12 hours</description>
+    <arm_group_label>Group 1 - Therapeutic anticoagulation</arm_group_label>
+    <arm_group_label>Group 3 - Therapeutic anticoagulation with tocilizumab</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Heparin - Prophylactic dosage</intervention_name>
+    <description>Subcutaneous Non-Fractional Heparine 5000U every 8 hours OR Subcutaneous Low Molecular Weight (LMWH) 40mg/day.</description>
+    <arm_group_label>Group 2 - Prophylactic anticoagulation</arm_group_label>
+    <arm_group_label>Group 4 - Prophylactic anticoagulation with tocilizumab</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age ≥ 18 years;&#xD;
+&#xD;
+          -  Informed consent form signed by the patient or guardian or by audio with the guardian;&#xD;
+&#xD;
+          -  Positive result for COVID-19 in PCR (polymerase chain reaction) in nasopharyngeal swab&#xD;
+             or tracheal secretion up to 10 days before the inclusion and radiological evidence of&#xD;
+             COVID-19, by chest radiography or chest computed tomography;&#xD;
+&#xD;
+          -  Need for ≥ 4 L of supplemental oxygen to maintain peripheral oxygen saturation equal&#xD;
+             to or greater than 93% or need for invasive mechanical ventilation.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Risk of bleeding:&#xD;
+&#xD;
+               -  Clinical: active bleeding, major surgery in the last 30 days, gastrointestinal&#xD;
+                  bleeding within 30 days;&#xD;
+&#xD;
+               -  Laboratory: platelet count &lt;50,000, INR&gt; 2 or APTT&gt; 50s;&#xD;
+&#xD;
+          -  Known or suspected adverse reaction to UFH, including heparin-induced thrombocytopenia&#xD;
+             (TIH);&#xD;
+&#xD;
+          -  Adverse reaction or allergy to tocilizumab;&#xD;
+&#xD;
+          -  Use of any of the following treatments: UFH to treat a thrombotic event within 12&#xD;
+             hours before inclusion; HPBM in therapeutic dose within 12 hours before inclusion;&#xD;
+             warfarin (if used 7 days before and if INR greater than 2; thrombolytic therapy within&#xD;
+             3 days before; and use of glycoprotein IIb / IIIa inhibitors within the previous 7&#xD;
+             days;&#xD;
+&#xD;
+          -  Pregnant or lactating;&#xD;
+&#xD;
+          -  Absolute indication of anticoagulation due to atrial fibrillation or diagnosed&#xD;
+             thromboembolic event;&#xD;
+&#xD;
+          -  Refusal by family members and / or patient;&#xD;
+&#xD;
+          -  Active tuberculosis;&#xD;
+&#xD;
+          -  Bacterial infection confirmed by culture;&#xD;
+&#xD;
+          -  Neutropenia (&lt;1000 neutrophils / mm3);&#xD;
+&#xD;
+          -  Use of another immunosuppressive therapy that is not a corticosteroid;&#xD;
+&#xD;
+          -  Septic shock.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ludhmila A Hajjar, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>InCor - University of Sao Paulo Medical School</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ludhmila A Hajjar, MD, PhD</last_name>
+    <phone>551126614177</phone>
+    <email>ludhmila@terra.com.br</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Lucas TC Ribeiro</last_name>
+    <phone>5511994881920</phone>
+    <email>lucastcr@hotmail.com</email>
+  </overall_contact_backup>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>October 22, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 22, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 23, 2020</study_first_posted>
+  <last_update_submitted>October 22, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 22, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 23, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Sao Paulo</investigator_affiliation>
+    <investigator_full_name>Ludhmila Abrahão Hajjar</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Heparin</keyword>
+  <keyword>Tocilizumab</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Heparin</mesh_term>
+    <mesh_term>Calcium heparin</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

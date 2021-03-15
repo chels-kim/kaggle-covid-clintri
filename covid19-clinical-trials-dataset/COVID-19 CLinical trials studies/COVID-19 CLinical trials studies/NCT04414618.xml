@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3244">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04414618</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ABC-110</org_study_id>
+    <nct_id>NCT04414618</nct_id>
+  </id_info>
+  <brief_title>A Study of Opaganib in Coronavirus Disease 2019 Pneumonia</brief_title>
+  <acronym>COVID-19</acronym>
+  <official_title>Opaganib, a Sphingosine Kinase-2 (SK2) Inhibitor in COVID-19 Pneumonia: a Randomized, Double-blind, Placebo-Controlled Phase 2a Study, in Adult Subjects Hospitalized With SARS-CoV-2 Positive Pneumonia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>RedHill Biopharma Limited</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>RedHill Biopharma Limited</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This proof of concept study will take place in the US and other countries in approximately 15&#xD;
+      clinical sites and will enroll about 40 hospitalized patients diagnosed with COVID-19&#xD;
+      infection who have developed pneumonia and require supplemental oxygen. 20 patients will&#xD;
+      receive opaganib in addition to standard of care twice each day for 14 days. 20 will receive&#xD;
+      matching placebo in addition to standard of care unless the patient has been discharged from&#xD;
+      the hospital without requiring supplemental oxygen, in which case study drug will only be&#xD;
+      administered for 10 days. All participants will be followed up for 4 weeks after their last&#xD;
+      dose of study drug.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Opaganib, a sphingosine kinase-2 (SphK2) inhibitor, has been broadly tested in Phase I/II&#xD;
+      studies. Extensive nonclinical data indicates both anti-viral and anti-inflammatory activity&#xD;
+      via selective SphK2 inhibition which may prove beneficial for treating COVID-19 infection and&#xD;
+      resulting pneumonia. This proof of concept study will take place in the US and other&#xD;
+      countries and will enroll about 40 hospitalized patients diagnosed with COVID-19 infection&#xD;
+      who have developed pneumonia and require supplemental oxygen. Half of the patients, i.e. 20&#xD;
+      patients, will receive opaganib in addition to standard of care for 14 days. The other 20&#xD;
+      will receive matching placebo (capsules that do not contain the medication) in addition to&#xD;
+      standard of care. Study drug will be administered every day for 14 days, twice each day,&#xD;
+      unless the patient has been discharged from the hospital without requiring supplemental&#xD;
+      oxygen, in which case study drug will only be administered for 10 days. All participants will&#xD;
+      be followed up for 4 weeks after their last dose of study drug.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">July 2, 2020</start_date>
+  <completion_date type="Anticipated">June 2021</completion_date>
+  <primary_completion_date type="Actual">November 26, 2020</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Measurement of the oxygen requirement</measure>
+    <time_frame>14 days</time_frame>
+    <description>To compare the total oxygen requirement (area under the curve) for each arm using daily supplemental oxygen flow (L/min) over 14 days</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Measurement of the reduction in oxygen requirement.</measure>
+    <time_frame>14 days</time_frame>
+    <description>To comparing the time required between arms to achieve 50% reduction from baseline in supplemental oxygen based on oxygen flow in L/min</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Eliminating supplemental oxygen</measure>
+    <time_frame>14 days</time_frame>
+    <description>To comparing the proportion of patients in each arm no longer requiring supplemental oxygen for at least 24 hours by Day 14</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Elimination of fever</measure>
+    <time_frame>14 days</time_frame>
+    <description>To compare the proportion of afebrile patients in each arm at Day 14 via measurement of temperature.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to negative swabs for SARS-CoV-2 by PCR post treatment</measure>
+    <time_frame>6 weeks</time_frame>
+    <description>To compare the time in each arm to negative swabs for SARS-CoV-2 by PCR nasopharyngeal or oropharyngeal swab for SARS-CoV-2</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to negative swabs for SARS-CoV-2 by PCR at Day 14</measure>
+    <time_frame>14 days</time_frame>
+    <description>To comparing the time in each arm to achieve negative swabs for SARS-CoV-2 by PCR nasopharyngeal or oropharyngeal swab for SARS-CoV-2 during treatment</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intubation and mechanical ventilation requirements</measure>
+    <time_frame>From screening phase and every day from day 1 to day 14 of treatment</time_frame>
+    <description>To compare the percentage of patients in each arm who require intubation and mechanical ventilation by Day 14</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation of the time to mechanical ventilation</measure>
+    <time_frame>From screening phase and every day from day 1 to day 14 of treatment</time_frame>
+    <description>To compare the time in each arm for the patient to require mechanical ventilation.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation the proportion of patients, with at least one measurement of fever at baseline who are afebrile at Day 14</measure>
+    <time_frame>From screening phase and every day from day 1 to day 14 of treatment</time_frame>
+    <description>To compare the proportion of patients in each arm, with at least one measurement of fever at baseline (defined as temperature &gt;38.0 C[100.4 F]), who are afebrile (defined as temperature &lt;37.2C [99 F]) at Day 14</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation of mortality 30 days post-baseline</measure>
+    <time_frame>30 days after day 1 of treatment</time_frame>
+    <description>To compare the mortality in each arm 30 days post-baseline.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Safety TEAEs</measure>
+    <time_frame>6 weeks</time_frame>
+    <description>To compare the number of all treatment-emergent adverse events in each arm of all treatment-emergent adverse events (TEAEs).</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Safety SAEs</measure>
+    <time_frame>6 weeks</time_frame>
+    <description>To measure all serious adverse events (SAEs) in each arm.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">42</enrollment>
+  <condition>Coronavirus Infections</condition>
+  <arm_group>
+    <arm_group_label>opaganib</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Study participants will receive opaganib 2 x 250 mg capsules (500 mg) plus standard of care every 12 hours</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Study participants will receive placebo 2 x 250 mg capsules (500 mg) plus standard of care every 12 hours</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Opaganib</intervention_name>
+    <description>Study participants will receive either opaganib 2 x 250 mg capsules (500 mg) every 12 hours, in addition to standard of care (pharmacological and/or supportive).</description>
+    <arm_group_label>opaganib</arm_group_label>
+    <other_name>Yeliva</other_name>
+    <other_name>ABC294640</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Study participants will receive placebo 2 x 250 mg capsules (500 mg) every 12 hours, in addition to standard of care (pharmacological and/or supportive).</description>
+    <arm_group_label>placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Adult male or female ≥18 to ≤80 years of age&#xD;
+&#xD;
+          2. Proven COVID-19 infection per RT-PCR assay of a pharyngeal sample (nasopharyngeal or&#xD;
+             oropharyngeal) AND pneumonia defined as radiographic opacities on chest X-ray&#xD;
+&#xD;
+          3. The patient requires supplemental oxygen at baseline&#xD;
+&#xD;
+          4. The patient, guardian or legal representative has signed a written IRB-approved&#xD;
+             informed consent.&#xD;
+&#xD;
+        5) Male participants with female partners of child-bearing potential agree to one of the&#xD;
+        following methods of contraception during the treatment period and for at least 1 month&#xD;
+        after the last dose of study drug:&#xD;
+&#xD;
+          -  Abstinence from penile-vaginal intercourse and agree to remain abstinent.&#xD;
+&#xD;
+          -  Male condom, with female partner using a highly effective contraceptive method. (For&#xD;
+             further details regarding highly effective contraceptive methods please see section&#xD;
+             9.3.)&#xD;
+&#xD;
+        In addition, male participants must refrain from donating sperm for the duration of the&#xD;
+        study and for 1 months after last dose of study drug.&#xD;
+&#xD;
+        Male participants with a pregnant or breastfeeding partner must agree to remain abstinent&#xD;
+        from penile-vaginal intercourse or use a male condom during each episode of penile&#xD;
+        penetration for at least 1 months after the last dose of study drug&#xD;
+&#xD;
+        Female participants:&#xD;
+&#xD;
+        A female participant is eligible to participate if she is:&#xD;
+&#xD;
+          1. not pregnant&#xD;
+&#xD;
+          2. not breastfeeding&#xD;
+&#xD;
+          3. not a woman of child-bearing potential (WOCBP, as defined in Section 9.3)&#xD;
+&#xD;
+          4. a WOCBP who agrees to use a highly effective method of contraception consistently and&#xD;
+             correctly during the treatment period and for at least 1 months after the last dose of&#xD;
+             study drug (please see further details on Section 9.3).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Any co-morbidity that may add risk to the treatment in the judgement of the&#xD;
+             investigator.&#xD;
+&#xD;
+          2. Requiring intubation and mechanical ventilation&#xD;
+&#xD;
+          3. Patient having a do not intubate or do not resuscitate order&#xD;
+&#xD;
+          4. Oxygen saturation &gt;95% on room air&#xD;
+&#xD;
+          5. Any preexisting respiratory condition that requires intermittent or continuous&#xD;
+             ambulatory oxygen prior to hospitalization&#xD;
+&#xD;
+          6. Patient is, in the investigator's clinical judgment, unlikely to survive &gt;72 hours&#xD;
+&#xD;
+          7. Pregnant or nursing women&#xD;
+&#xD;
+          8. Unwillingness or inability to comply with procedures required in this protocol.&#xD;
+&#xD;
+          9. Corrected QT (QTc) interval on electrocardiogram (ECG) &gt;470 ms for females or &gt;450 ms&#xD;
+             for males, calculated using Friedericia's formula (QTcF)&#xD;
+&#xD;
+         10. AST (SGOT) or ALT (SGPT) &gt; 2.5 x upper limit of normal (ULN)&#xD;
+&#xD;
+         11. Bilirubin &gt;2.0 x ULN (except where bilirubin increase is due to Gilbert's Syndrome)&#xD;
+&#xD;
+         12. Serum creatinine &gt;2.0 X ULN&#xD;
+&#xD;
+         13. Absolute neutrophil count &lt;1000 cells/mm3&#xD;
+&#xD;
+         14. Platelet count &lt;75,000/mm3&#xD;
+&#xD;
+         15. Hemoglobin &lt;8.0 g/dL&#xD;
+&#xD;
+         16. Currently taking medications that are sensitive CYP3A4, CYP1A2, CYP2C9, or CYP2C19 or&#xD;
+             CYP2D6 substrates and have a narrow therapeutic index. These should be decided in&#xD;
+             discussion with the Medical Monitor on a case-by-case basis.&#xD;
+&#xD;
+         17. Currently taking medications that are strong inducers or inhibitors of CYP2D6 and&#xD;
+             CYP3A4. These should be decided in discussion with the Medical Monitor on a&#xD;
+             case-by-case basis.&#xD;
+&#xD;
+         18. Currently taking warfarin, apixaban, argatroban or rivaroxaban.&#xD;
+&#xD;
+         19. Current drug or alcohol abuse.&#xD;
+&#xD;
+         20. Currently participating in a clinical study assessing pharmacological treatments,&#xD;
+             including anti-viral studies.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mark L Levitt, MD, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>RedHill Biopharma Limited</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>HonorHealth Research Institute</name>
+      <address>
+        <city>Scottsdale</city>
+        <state>Arizona</state>
+        <zip>85258</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Miami Cancer Institute</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33176</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Henry Ford Hospital</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ascension St. John Hospital</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48236</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Albany Medical Center</name>
+      <address>
+        <city>Albany</city>
+        <state>New York</state>
+        <zip>12208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Oregon Health &amp; Science University</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97239</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Herman Southeast Hospital</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77089</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Hermann, Memorial City Medical Center</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77204</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ziv Medical Center</name>
+      <address>
+        <city>Safed</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Israel</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2020</verification_date>
+  <study_first_submitted>May 26, 2020</study_first_submitted>
+  <study_first_submitted_qc>May 29, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">June 4, 2020</study_first_posted>
+  <last_update_submitted>January 28, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 28, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 29, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+    <mesh_term>Pneumonia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

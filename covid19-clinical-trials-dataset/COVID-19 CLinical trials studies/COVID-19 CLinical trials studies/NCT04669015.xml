@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2276">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04669015</url>
+  </required_header>
+  <id_info>
+    <org_study_id>JH-COR-003</org_study_id>
+    <nct_id>NCT04669015</nct_id>
+  </id_info>
+  <brief_title>Phase 3 Inhaled Novaferon Study in Hospitalized Patients With Moderate to Severe COVID-19</brief_title>
+  <acronym>NOVATION-1</acronym>
+  <official_title>NOVATION-1: A Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Safety and Efficacy of Aerosolized Novaferon + SOC vs. Placebo + SOC in Hospitalized Adult Patients With Moderate to Severe COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Genova Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Genova Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is a randomized, double-blind, multicenter, placebo-controlled trial to evaluate&#xD;
+      the safety and efficacy of a novel therapeutic agent, Novaferon, in hospitalized adult&#xD;
+      patients diagnosed with COVID-19. The study is comprised of two cohorts:&#xD;
+&#xD;
+        -  Cohort A: This is a blinded safety lead-in comprising two arms. 40 patients will be&#xD;
+           randomized on a 1:1 basis to receive either Novaferon or matched placebo via a&#xD;
+           commercial nebulizer, plus Standard of Care (SOC)&#xD;
+&#xD;
+        -  Cohort B: This is the main portion of the study, which comprises two arms. Up to 874&#xD;
+           patients will be randomized on a 1:1 basis to receive either Novaferon or matched&#xD;
+           placebo via a commercial nebulizer, plus SOC&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 2021</start_date>
+  <completion_date type="Anticipated">August 2021</completion_date>
+  <primary_completion_date type="Anticipated">August 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Rate of clinical deterioration</measure>
+    <time_frame>From enrollment to Day 28</time_frame>
+    <description>Proportion of patients requiring mechanical ventilation or that die (defined as WHO categories 6, 7, or 8)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Rate of recovery</measure>
+    <time_frame>From enrollment to Day 28</time_frame>
+    <description>Proportion of patients demonstrating clinical improvement (defined as WHO categories 0, 1, 2, or 3)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital discharge rate</measure>
+    <time_frame>At Day 28</time_frame>
+    <description>Rate of non-hospitalized alive patients</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality rate</measure>
+    <time_frame>At Day 28</time_frame>
+    <description>Mortality rate</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of hospitalization</measure>
+    <time_frame>Up to Day 28</time_frame>
+    <description>Number of days hospitalized</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse events</measure>
+    <time_frame>From first dose to Day 56</time_frame>
+    <description>Adverse event incidence, type and severity</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">914</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Active plus SOC</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Inhaled Novaferon, given 20 ug BID, daily for 10 days, plus Standard of Care</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo plus SOC</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Inhaled vehicle formulation (placebo), given BID, daily for 10 days, plus Standard of Care</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Novaferon</intervention_name>
+    <description>a novel recombinant antiviral protein drug</description>
+    <arm_group_label>Active plus SOC</arm_group_label>
+    <other_name>Standard of Care</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Formulation vehicle</description>
+    <arm_group_label>Placebo plus SOC</arm_group_label>
+    <other_name>Standard of Care</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Signed informed consent form by any patient capable of giving consent, or, when the&#xD;
+             patient is not capable of giving consent, by his or her legal/authorized&#xD;
+             representatives prior to initiation of any study procedures.&#xD;
+&#xD;
+          -  Men and women, ≥18 years of age at time of enrollment.&#xD;
+&#xD;
+          -  Laboratory-confirmed diagnosis of SARS-CoV-2 infection as determined by PCR, or other&#xD;
+             health authority-approved commercial assay or other validated public health assay in&#xD;
+             any specimen within 72 hours prior to randomization (point-of-care viral infection&#xD;
+             test allowable if RT-PCR test result not available at the time of screening).&#xD;
+&#xD;
+          -  Less than or equal to 12 days from COVID-19 symptom onset to starting treatment.&#xD;
+&#xD;
+               -  Symptoms are defined as one or more of the following: cough, fever, shortness of&#xD;
+                  breath, chest pain, abdominal pain, nausea/vomiting, diarrhea, body aches,&#xD;
+                  weakness/fatigue, chills/sweating, headache, confusion, sore throat, runny&#xD;
+                  nose/congestion, loss of taste or smell, or any other COVID-19 symptoms as&#xD;
+                  determined by the Investigator.&#xD;
+&#xD;
+          -  Hospitalized for no more than 4 days duration, and:&#xD;
+&#xD;
+               -  requiring supplemental oxygen by mask or tongs, or ii) non-invasive ventilation&#xD;
+                  or iii) high-flow oxygen (WHO category 4 or 5)&#xD;
+&#xD;
+          -  Female patients participating in this study must agree to avoid becoming pregnant and&#xD;
+             have a negative pregnancy test prior to randomization. Male patients must agree to use&#xD;
+             appropriate contraceptive methods to prevent pregnancy with their partner(s), during&#xD;
+             the study and up to post 30 days after the last dose of study drug. Female patients&#xD;
+             must be:&#xD;
+&#xD;
+               -  unable to have children (e.g., post-menopausal*, bilateral tubal ligation,&#xD;
+                  hysterectomy, bilateral oophorectomy) or where the partner is sterile (e.g.,&#xD;
+                  vasectomy) OR&#xD;
+&#xD;
+               -  willing to remain abstinent (not engage in sexual intercourse for the duration of&#xD;
+                  the screening period and throughout the study, and for 30 days after the last&#xD;
+                  dose) OR&#xD;
+&#xD;
+               -  willing to use two effective barrier methods of birth control (partner using&#xD;
+                  condom and female using IUD, hormonal or nonhormonal contraceptive, diaphragm&#xD;
+                  plus spermicide, or contraceptive sponge)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  1. Known hypersensitivity or intolerance to Interferon (IFN) or Novaferon or any&#xD;
+             excipient(s) of Novaferon, including pre-existing allergy or hypersensitivity to&#xD;
+             ampicillin.&#xD;
+&#xD;
+          -  Currently undergoing invasive mechanical ventilation (including venous ECMO).&#xD;
+&#xD;
+          -  Inability to use a nebulizer with a mouthpiece.&#xD;
+&#xD;
+          -  ALT/AST &gt; 5 times the upper limit of normal or a history of decompensated cirrhosis.&#xD;
+&#xD;
+          -  Stage 4 severe chronic kidney disease or requiring dialysis (i.e. eGFR &lt; 30 mL/min/&#xD;
+             1.73m2).&#xD;
+&#xD;
+          -  In the opinion of the Investigator, progression to death is imminent and inevitable&#xD;
+             within the next 48 - 72 hours, irrespective of the provision of treatment.&#xD;
+&#xD;
+          -  In the opinion of the Investigator, progression to mechanical ventilation is imminent&#xD;
+             and inevitable within the next 24 hours, irrespective of the provision of treatment.&#xD;
+&#xD;
+          -  Possibility of the patient being discharged from hospital within 24 hours.&#xD;
+&#xD;
+          -  Participation in other anti-COVID-19 therapeutic or interventional trials. Patients&#xD;
+             may, at the discretion of the Investigator, participate in other non-interventional&#xD;
+             COVID-19 studies.&#xD;
+&#xD;
+          -  Current use of other antiviral therapy (e.g. remdesivir, etc.) or other experimental&#xD;
+             therapy, including anti-inflammatory agents, convalescent plasma, or&#xD;
+             hydroxychloroquine&#xD;
+&#xD;
+          -  Has received, or has a plan to receive within the 28 day treatment period, a&#xD;
+             SARS-CoV-2 vaccine.&#xD;
+&#xD;
+          -  Use of immunomodulatory drugs at, or within 3 months prior to, enrollment; use of&#xD;
+             chronic oral corticosteroids for a non-COVID-19-related condition at a dose higher&#xD;
+             than prednisone 20 mg (or equivalent) per day for the preceding 4 weeks.&#xD;
+&#xD;
+          -  Other known active infections or other clinical conditions (e.g. chronic obstructive&#xD;
+             pulmonary disease) that contraindicate aerosolized inhalation; coexisting pneumonia is&#xD;
+             allowed.&#xD;
+&#xD;
+          -  Patients with current or prior psychiatric illness, seizure disorders, retinal&#xD;
+             autoimmune disorders, pre-existing severe cardiovascular disease and patients with&#xD;
+             prior transplants.&#xD;
+&#xD;
+          -  Females who are breast-feeding, lactating, pregnant or intending to become pregnant.&#xD;
+&#xD;
+          -  Positive for hepatitis B, hepatitis C or uncontrolled HIV&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Dimitri Fitsialos</last_name>
+    <phone>(888) 370-9330</phone>
+    <email>dfitsialos@integratedtsi.com</email>
+  </overall_contact>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>December 14, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 14, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 16, 2020</study_first_posted>
+  <last_update_submitted>December 15, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 15, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 17, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>antiviral</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>COVID19</keyword>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

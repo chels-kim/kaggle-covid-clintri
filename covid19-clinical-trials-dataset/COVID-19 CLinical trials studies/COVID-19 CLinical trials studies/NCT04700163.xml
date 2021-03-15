@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1730">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04700163</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RUCOV1</org_study_id>
+    <secondary_id>CGA-1015</secondary_id>
+    <nct_id>NCT04700163</nct_id>
+  </id_info>
+  <brief_title>RU Anti-SARS-CoV-2 (COVID-19) mAbs in Healthy Volunteers</brief_title>
+  <acronym>RU</acronym>
+  <official_title>A Phase 1, Open Label, Dose-escalation Study of the Safety and Pharmacokinetics of a Combination of Two Anti-SARS-CoV-2 mAbs (C144-LS and C135-LS) in Healthy Volunteers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Rockefeller University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Rockefeller University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a first-in-human, open label, single dose, dose-escalation phase 1 study to evaluate&#xD;
+      the safety and pharmacokinetics of a combination of two highly neutralizing anti-SARS-CoV-2&#xD;
+      mAbs targeting two distinct epitopes on the receptor protein binding domain (RBD) of the&#xD;
+      SARS-CoV-2 spike protein in healthy volunteers.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The study has a standard 3+3 phase 1 dose escalation design. Study participants will receive&#xD;
+      subcutaneous injections of C144-LS and C135-LS at 4ml (approximately 100mg of each antibody&#xD;
+      administered separately) or 8ml (approximately 200mg of each antibody administered&#xD;
+      separately), or sequential intravenous infusions of C144-LS and C135-LS, at one of three&#xD;
+      increasing dose levels (1.5 mg/kg, 5 mg/kg and 15 mg/kg of each antibody).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 11, 2021</start_date>
+  <completion_date type="Anticipated">April 15, 2022</completion_date>
+  <primary_completion_date type="Anticipated">June 15, 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Grade 2 and higher adverse events 4 weeks after administration.</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>The number of participants with treatment-related solicited and unsolicited grade 2 adverse events (including confirmed laboratory abnormalities).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Grade 3 and higher adverse events 4 weeks after administration.</measure>
+    <time_frame>4 weeks</time_frame>
+    <description>The number of participants with treatment-related solicited and unsolicited grade 3 adverse events (including confirmed laboratory abnormalities).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Related Serious adverse events (SAEs) throughout the study period</measure>
+    <time_frame>48 weeks</time_frame>
+    <description>The number of participants with treatment-related solicited serious adverse events.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Elimination half-life (t1/2) of C135-LS and C144-LS</measure>
+    <time_frame>48 weeks</time_frame>
+    <description>Half-life of C135-LS and C144-LS when administered intravenously or subcutaneously in healthy volunteers</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Clearance rate of C135-LS and C144-LS</measure>
+    <time_frame>48 weeks</time_frame>
+    <description>Clearance rate of C135-LS and C144-LS when administered intravenously or subcutaneously in healthy volunteers</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Area under the curve of C135-LS and C144-LS</measure>
+    <time_frame>48 weeks</time_frame>
+    <description>Area under the curve of C135-LS and C144-LS when administered intravenously or subcutaneously in healthy volunteers</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Investigational product (IP)-related adverse events during study follow up.</measure>
+    <time_frame>48 weeks</time_frame>
+    <description>The number of participants with treatment-related adverse events</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anti-C144-LS and anti-C135-LS antibodies in all study groups.</measure>
+    <time_frame>48 weeks</time_frame>
+    <description>Proportion of individuals with treatment-induced anti-drug antibodies against each mAb and magnitude of the response</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serum neutralizing activity against SARS-CoV-2</measure>
+    <time_frame>48 weeks</time_frame>
+    <description>Serum neutralizing activity against SARS-CoV-2 following C144-LS and C135-LS administration</description>
+  </secondary_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Anticipated">15</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>S1 - low dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>100 mg of C144-LS and 100 mg of C135-LS, subcutaneously</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>S2 - mid dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>200 mg of C144-LS and 200 mg of C135-LS, subcutaneously</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>V1 - low dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>1.5 mg/kg of C144-LS and 1.5 mg/kg of C135-LS, intravenously</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>V2 - mid dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>5 mg/kg of C144-LS and 5 mg/kg of C135-LS, intravenously</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>V3 - high dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>15 mg/kg of C144-LS and 15 mg/kg of C135-LS, intravenously</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>C144-LS and C-135-LS</intervention_name>
+    <description>A combination of two highly neutralizing anti-SARS-CoV-2 mAbs targeting two distinct epitopes on the receptor protein binding domain (RBD) of the SARS-CoV-2 spike protein</description>
+    <arm_group_label>S1 - low dose</arm_group_label>
+    <arm_group_label>S2 - mid dose</arm_group_label>
+    <arm_group_label>V1 - low dose</arm_group_label>
+    <arm_group_label>V2 - mid dose</arm_group_label>
+    <arm_group_label>V3 - high dose</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Aged 18 or older.&#xD;
+&#xD;
+          -  If sexually active male or female, and participating in sexual activity that could&#xD;
+             lead to pregnancy, agrees to use one effective method of contraception from 10 days&#xD;
+             prior to the antibody administration until 6 months after investigational product (IP)&#xD;
+             administration.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Weight &gt; 110 kg for groups S1 and S2 only&#xD;
+&#xD;
+          -  History of prior positive SARS-CoV-2 RT-PCR or SARS-CoV-2 serology.&#xD;
+&#xD;
+          -  Active respiratory or non-respiratory symptoms consistent with COVID-19.&#xD;
+&#xD;
+          -  Medically attended acute illness or hospitalization (ie, &gt;24 hours) for any reason&#xD;
+             within 30 days prior to screening.&#xD;
+&#xD;
+          -  Acute exacerbation of a chronic pulmonary condition (eg, chronic obstructive pulmonary&#xD;
+             disease [COPD], asthma exacerbations, or uncontrolled hypertension, as defined by a&#xD;
+             systolic blood pressure &gt; 180 and/or diastolic blood pressure &gt; 120, in the presence&#xD;
+             or absence of anti-hypertensive medications) in the past 6 months prior to screening.&#xD;
+&#xD;
+          -  Use of systemic corticosteroids, immunosuppressive anti-cancer, or other medications&#xD;
+             considered significant by the trial physician within the last 6 months.&#xD;
+&#xD;
+          -  Other clinically significant acute or chronic medical condition that in the opinion of&#xD;
+             the investigator would preclude participation.&#xD;
+&#xD;
+          -  Laboratory abnormalities in the parameters listed:&#xD;
+&#xD;
+               -  Absolute neutrophil count less than 1,500 K/mcL;&#xD;
+&#xD;
+               -  Hemoglobin less than 10.5 gm/dL if female; less than 11 gm/dL if male;&#xD;
+&#xD;
+               -  Platelet count less than 125,000 K/mcL;&#xD;
+&#xD;
+               -  ALT less than 1.25 x ULN; AST less than 1.25 x ULN;&#xD;
+&#xD;
+               -  Total bilirubin less than 1.25 x ULN;&#xD;
+&#xD;
+               -  Creatinine less than 1.1 x ULN;&#xD;
+&#xD;
+          -  Pregnancy or lactation.&#xD;
+&#xD;
+          -  Any vaccination within 14 days prior to SARS-CoV-2 mAbs administration (except&#xD;
+             influenza vaccine).&#xD;
+&#xD;
+          -  History of prior receipt of any SARS-CoV-2 vaccine or antibodies, including&#xD;
+             convalescent plasma.&#xD;
+&#xD;
+          -  Known allergy/sensitivity or any hypersensitivity to components of the investigational&#xD;
+             agents.&#xD;
+&#xD;
+          -  History of severe reaction to a vaccine or monoclonal antibody administration or&#xD;
+             history of severe allergic reactions.&#xD;
+&#xD;
+          -  Participation in another clinical study of an investigational product currently or&#xD;
+             within past 12 weeks, or expected participation during this study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Christian Gaebler, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The Rockefeller University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Recruitment Specialist</last_name>
+    <phone>800-782-2737</phone>
+    <email>rucares@rockefeller.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>The Rockefeller University</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Recruitment Specialist</last_name>
+      <phone>800-782-2737</phone>
+      <email>rucares@rockefeller.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Christian Gaebler, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Katrina Millard, NP</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Schäfer A, Muecksch F, Lorenzi JCC, Leist SR, Cipolla M, Bournazos S, Schmidt F, Maison RM, Gazumyan A, Martinez DR, Baric RS, Robbiani DF, Hatziioannou T, Ravetch JV, Bieniasz PD, Bowen RA, Nussenzweig MC, Sheahan TP. Antibody potency, effector function, and combinations in protection and therapy for SARS-CoV-2 infection in vivo. J Exp Med. 2021 Mar 1;218(3). pii: e20201993. doi: 10.1084/jem.20201993.</citation>
+    <PMID>33211088</PMID>
+  </reference>
+  <reference>
+    <citation>Weisblum Y, Schmidt F, Zhang F, DaSilva J, Poston D, Lorenzi JC, Muecksch F, Rutkowska M, Hoffmann HH, Michailidis E, Gaebler C, Agudelo M, Cho A, Wang Z, Gazumyan A, Cipolla M, Luchsinger L, Hillyer CD, Caskey M, Robbiani DF, Rice CM, Nussenzweig MC, Hatziioannou T, Bieniasz PD. Escape from neutralizing antibodies by SARS-CoV-2 spike protein variants. Elife. 2020 Oct 28;9. pii: e61312. doi: 10.7554/eLife.61312.</citation>
+    <PMID>33112236</PMID>
+  </reference>
+  <reference>
+    <citation>Barnes CO, Jette CA, Abernathy ME, Dam KA, Esswein SR, Gristick HB, Malyutin AG, Sharaf NG, Huey-Tubman KE, Lee YE, Robbiani DF, Nussenzweig MC, West AP Jr, Bjorkman PJ. SARS-CoV-2 neutralizing antibody structures inform therapeutic strategies. Nature. 2020 Dec;588(7839):682-687. doi: 10.1038/s41586-020-2852-1. Epub 2020 Oct 12.</citation>
+    <PMID>33045718</PMID>
+  </reference>
+  <results_reference>
+    <citation>Robbiani DF, Gaebler C, Muecksch F, Lorenzi JCC, Wang Z, Cho A, Agudelo M, Barnes CO, Gazumyan A, Finkin S, Hägglöf T, Oliveira TY, Viant C, Hurley A, Hoffmann HH, Millard KG, Kost RG, Cipolla M, Gordon K, Bianchini F, Chen ST, Ramos V, Patel R, Dizon J, Shimeliovich I, Mendoza P, Hartweger H, Nogueira L, Pack M, Horowitz J, Schmidt F, Weisblum Y, Michailidis E, Ashbrook AW, Waltari E, Pak JE, Huey-Tubman KE, Koranda N, Hoffman PR, West AP Jr, Rice CM, Hatziioannou T, Bjorkman PJ, Bieniasz PD, Caskey M, Nussenzweig MC. Convergent antibody responses to SARS-CoV-2 in convalescent individuals. Nature. 2020 Aug;584(7821):437-442. doi: 10.1038/s41586-020-2456-9. Epub 2020 Jun 18.</citation>
+    <PMID>32555388</PMID>
+  </results_reference>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>January 5, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 5, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 7, 2021</study_first_posted>
+  <last_update_submitted>February 2, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 2, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 3, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Monoclonal antibody</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

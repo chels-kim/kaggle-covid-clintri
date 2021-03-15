@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3181">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04673279</url>
+  </required_header>
+  <id_info>
+    <org_study_id>3545</org_study_id>
+    <nct_id>NCT04673279</nct_id>
+  </id_info>
+  <brief_title>Long-term COVID-19 Immune Response in a Vulnerable Neighbourhood in Argentina</brief_title>
+  <official_title>Long-term Persistence of Immunoglobulin G Antibodies Against Severe Acute Respiratory Syndrome Coronavirus 2 in a Vulnerable Neighbourhood in Buenos Aires, Argentina</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hospital Italiano de Buenos Aires</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Hospital de Niños R. Gutierrez de Buenos Aires</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Ministerio de Salud GCBA</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Hospital Italiano de Buenos Aires</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Between June 10t h and July 1st, a cross-sectional design study in an Argentina slum, showed&#xD;
+      a prevalence based on immunoglobuling G-class (IgG) antibodies against severe acute&#xD;
+      respiratory syndrome coronavirus 2 (SARS-COV-2) of 53.4%. It remains unanswered whether&#xD;
+      natural infection produces sustained antibodies. The aim of this study is to evaluate the&#xD;
+      presence of IgG antibodies for Coronavirus disease 2019 (COVID-19) after 5 months in&#xD;
+      inhabitants of Barrio 31 who consented the Seroprevalence Study for COVID-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Background Between June 10t h and July 1st, a cross-sectional design study was carried out in&#xD;
+      an Argentina slum over people, selected from a probabilistic sample of households showed a&#xD;
+      prevalence based on IgG-class antibodies against SARS-CoV-2 of 53.4%. In regarding to the&#xD;
+      persistence of these antibodies, the early data brought hope that acquired immunity was&#xD;
+      possible. But some subsequent studies have suggested that immune protection might be&#xD;
+      short-lived. The new findings show that people who survive a COVID-19 infection continue to&#xD;
+      produce protective antibodies against key parts of the virus for at least three to four&#xD;
+      months after developing their first symptoms. In contrast, some other antibody types decline&#xD;
+      more quickly.&#xD;
+&#xD;
+      It remains unanswered whether natural infection produces a sustained immunity that is capable&#xD;
+      of establishing herd immunity. The other health problem that Latin America faces is dengue,&#xD;
+      whose transmission, like SARS-CoV-2, is greater in areas with high population density such as&#xD;
+      vulnerable neighborhoods. In this context, the occurrence of the two diseases implies a risk,&#xD;
+      particularly in regions with several dengue serotypes where secondary and tertiary infections&#xD;
+      have been demonstrated and dengue epidemiological surveillance has been affected by the&#xD;
+      saturation of health system.&#xD;
+&#xD;
+      Objectives The aim of this study is to evaluate the presence of IgG antibodies for COVID-19&#xD;
+      after 5 months in inhabitants of this slum who consented the Seroprevalence Study for&#xD;
+      COVID-19, and to evaluate those factors associated with the persistence of positive&#xD;
+      antibodies. As a secondary objective, the presence of positive IgG for dengue will be&#xD;
+      evaluated.&#xD;
+&#xD;
+      Methods Cross sectional study. Population of the study were inhabitants of the slum: men and&#xD;
+      women form 14 years of age or older were included. People will be invited to participated and&#xD;
+      detection of antibodies will be performed with ta serological tests, an enzyme linked&#xD;
+      immunosorbent assay (ELISA) developed and validated in Argentina which detects antibodies&#xD;
+      against two viral antigens, trimeric spike and the receptor binding domain (RBD) of the spike&#xD;
+      protein. Blood sample will be collected in a capillary tube from a finger prick taken at the&#xD;
+      doorstep of each person. Samples will be processed and analyzed at the &quot;Hospital de Niños&#xD;
+      Doctor Ricardo Gutierrez&quot; Virology laboratory.&#xD;
+&#xD;
+      Blood sample collection and epidemiological data were collected, and entered in a secure&#xD;
+      database.&#xD;
+&#xD;
+      Sample Size The first seroprevalence study included 426 inhabitants of 14 years or more.&#xD;
+      Considering a persistence of antibodies of 30% with a precision of 5% for a confidence&#xD;
+      interval of 95% 184 inhabitants should be included. This sample will be selected by a&#xD;
+      proportionate stratified random sampling, considering the ten sectors in which the slum is&#xD;
+      divided.&#xD;
+&#xD;
+      Statistical analysis Descriptive statistics of the data will be carried out according to the&#xD;
+      variables obtained. Continuous variables will be expressed as mean and standard deviation,&#xD;
+      and categorical variables as proportions. A multiple logistic regression model will be&#xD;
+      performed to evaluate the factors associated with the persistence of positive antibodies for&#xD;
+      SARS-CoV-2.&#xD;
+&#xD;
+      Dengue seroprevalence is determined globally and by geographic sector. R software version&#xD;
+      4.0.2 will be used.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 2, 2020</start_date>
+  <completion_date type="Anticipated">July 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 10, 2021</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Cross-Sectional</time_perspective>
+  </study_design_info>
+  <target_duration>1 Day</target_duration>
+  <primary_outcome>
+    <measure>to estimate the proportion of people with positive IgG antibodies for COVID-19 who have positive IgG antibodies after 5 month of the first measurement</measure>
+    <time_frame>up to 20 weeks</time_frame>
+    <description>to estimate the proportion of people with positive IgG antibodies for COVID-19 who have positive IgG antibodies after 5 month of the first measurement</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>to estimate the proportion of people with positive IgG antibodies for dengue</measure>
+    <time_frame>up to 20 weeks</time_frame>
+    <description>to estimate the proportion of people with positive IgG antibodies for dengue</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">189</enrollment>
+  <condition>Coronavirus Disease 2019</condition>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>serology</intervention_name>
+    <description>An enzyme linked immunosorbent assay (ELISA) developed and validated in Argentina which detects antibodies against two viral antigens, trimeric spike and the receptor binding domain (RBD) of the spike protein.</description>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      blod samples for antibodies detection against dengue&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        inhabitants of Barrio Mugica: men and women form 14 years of age or older who were included&#xD;
+        in the first seroprevalence study carried on between Between June 10t h and July 1st, and&#xD;
+        who have positive antibodies against severe acute respiratory syndrome coronavirus 2&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Men and women form 14 years of age or older who were included in the seroprevalence&#xD;
+             study and who have positive antibodies against severe acute respiratory syndrome&#xD;
+             coronavirus 2&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  deny consent&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>14 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>Vanina Pagotto, MD MG</last_name>
+    <role>Study Chair</role>
+    <affiliation>Hospital Italiano de Buenos Aires</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Alicia Mistchenko, Phd</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hospital de Niños Ricardo Gutierrez</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Silvana Figar, MD MG</last_name>
+    <role>Study Chair</role>
+    <affiliation>Hospital Italiano de Buenos Aires</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Andrea Gamarnick, Phd</last_name>
+    <role>Study Chair</role>
+    <affiliation>National Council of Scientific and Technical Research, Argentina</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Ana Maria Gomez Saldaño, MD MG</last_name>
+    <role>Study Chair</role>
+    <affiliation>Salud Comunitaria Ministerio de Salud del Gobierno de la Ciudad de Buenos Aires</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Lorena Luna</last_name>
+    <role>Study Chair</role>
+    <affiliation>Salud Comunitaria Ministerio de Salud del Gobierno de la Ciudad de Buenos Aires</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Julieta Salto</last_name>
+    <role>Study Chair</role>
+    <affiliation>Salud Comunitaria Ministerio de Salud del Gobierno de la Ciudad de Buenos Aires</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Magdalena Wagner Manslau</last_name>
+    <role>Study Chair</role>
+    <affiliation>Salud Comunitaria Ministerio de Salud del Gobierno de la Ciudad de Buenos Aires</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Fernan Quiroz, MD MG</last_name>
+    <role>Study Director</role>
+    <affiliation>Ministerio de Salud del Gobierno de la Ciudad de Buenos Aires</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Vanina Pagotto, MD MG</last_name>
+    <phone>(54 11) 4959-0200</phone>
+    <phone_ext>9353</phone_ext>
+    <email>vanina.pagotto@hospitalitaliano.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Silvana Figar, MD</last_name>
+    <phone>(54 11) 4959-0200</phone>
+    <phone_ext>5398</phone_ext>
+    <email>silvana.figar@hospitalitaliano.org.ar</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Hospital de Niños Ricardo Gutierrez</name>
+      <address>
+        <city>Buenos Aires</city>
+        <state>Ciudad De Buenos Aires</state>
+        <zip>C1425EFD</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Vanina Pagotto, MD MG</last_name>
+      <phone>(54 11) 4959-0200</phone>
+      <phone_ext>9353</phone_ext>
+      <email>vanina.pagotto@hospitalitaliano.org.ar</email>
+    </contact>
+    <investigator>
+      <last_name>Alicia Mistchenko, Phd</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Argentina</country>
+  </location_countries>
+  <link>
+    <url>http://dx.doi.org/10.3348/kjr.2020.0181</url>
+    <description>2019 Novel Coronavirus (COVID-19) Pneumonia with Hemoptysis as the Initial Symptom: CT and Clinical Features</description>
+  </link>
+  <link>
+    <url>http://dx.doi.org/10.1101/2020.07.21.20159178</url>
+    <description>SARS-CoV-2 infection induces sustained humoral immune responses in convalescent patients following symptomatic COVID-19</description>
+  </link>
+  <link>
+    <url>https://www.medrxiv.org/content/10.1101/2020.07.14.20153858v2.full.pdf</url>
+    <description>Community-level SARS-CoV-2 Seroprevalence Survey in urban slum dwellers of Buenos Aires City, Argentina: a participatory research.</description>
+  </link>
+  <link>
+    <url>https://doi.org/10.1038/s41467-020-18271-5</url>
+    <description>Reductions in commuting mobility correlate with geographic differences in SARS-CoV-2 prevalence in New York City</description>
+  </link>
+  <link>
+    <url>https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0008716</url>
+    <description>The COVID-19 pandemic should not jeopardize dengue control</description>
+  </link>
+  <reference>
+    <citation>Jordan RE, Adab P, Cheng KK. Covid-19: risk factors for severe disease and death. BMJ. 2020 Mar 26;368:m1198. doi: 10.1136/bmj.m1198.</citation>
+    <PMID>32217618</PMID>
+  </reference>
+  <reference>
+    <citation>Long QX, Tang XJ, Shi QL, Li Q, Deng HJ, Yuan J, Hu JL, Xu W, Zhang Y, Lv FJ, Su K, Zhang F, Gong J, Wu B, Liu XM, Li JJ, Qiu JF, Chen J, Huang AL. Clinical and immunological assessment of asymptomatic SARS-CoV-2 infections. Nat Med. 2020 Aug;26(8):1200-1204. doi: 10.1038/s41591-020-0965-6. Epub 2020 Jun 18.</citation>
+    <PMID>32555424</PMID>
+  </reference>
+  <reference>
+    <citation>Kellam P, Barclay W. The dynamics of humoral immune responses following SARS-CoV-2 infection and the potential for reinfection. J Gen Virol. 2020 Aug;101(8):791-797. doi: 10.1099/jgv.0.001439. Review.</citation>
+    <PMID>32430094</PMID>
+  </reference>
+  <reference>
+    <citation>Wilder-Smith A, Tissera H, Ooi EE, Coloma J, Scott TW, Gubler DJ. Preventing Dengue Epidemics during the COVID-19 Pandemic. Am J Trop Med Hyg. 2020 Aug;103(2):570-571. doi: 10.4269/ajtmh.20-0480. Epub 2020 Jun 15.</citation>
+    <PMID>32539912</PMID>
+  </reference>
+  <reference>
+    <citation>Cardoso MR, Cousens SN, de Góes Siqueira LF, Alves FM, D'Angelo LA. Crowding: risk factor or protective factor for lower respiratory disease in young children? BMC Public Health. 2004 Jun 3;4:19.</citation>
+    <PMID>15176983</PMID>
+  </reference>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>December 13, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 16, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 17, 2020</study_first_posted>
+  <last_update_submitted>December 16, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 16, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 17, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Hospital Italiano de Buenos Aires</investigator_affiliation>
+    <investigator_full_name>ALICIA MISTCHENKO</investigator_full_name>
+    <investigator_title>principal investigator</investigator_title>
+  </responsible_party>
+  <keyword>Immunity</keyword>
+  <keyword>serology</keyword>
+  <keyword>antibody</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>vulnerability</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

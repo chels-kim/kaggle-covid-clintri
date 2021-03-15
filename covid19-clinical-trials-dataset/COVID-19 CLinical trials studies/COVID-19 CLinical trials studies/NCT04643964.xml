@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4643">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04643964</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020B0326</org_study_id>
+    <nct_id>NCT04643964</nct_id>
+  </id_info>
+  <brief_title>Brief Video Interventions for Depression</brief_title>
+  <official_title>Building Mental Health Resilience in the COVID-19 Pandemic.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ohio State University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Ohio State University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In this study, we test brief video interventions for those with elevated depressive symptoms.&#xD;
+      We randomize participants to one of three conditions. (1) An entrée condition involving&#xD;
+      in-depth coverage a set of cognitive behavioral therapy (CBT) skills. (2) A sampler condition&#xD;
+      which introduces three sets of CBT skills. (3) A control condition involving no skills. Among&#xD;
+      those in the entrée condition, participants are further randomized to one of three CBT&#xD;
+      skills. We plan on two sets of primary comparisons. First, we will compare the effects of&#xD;
+      each form of video intervention (i.e., entrée and sampler) to the control condition. Second,&#xD;
+      we will compare the entrée and sampler conditions. We will recruit participants from Amazon's&#xD;
+      Mechanical Turk program (MTurk). In the intervention conditions, participants will be asked&#xD;
+      to watch several videos and practice skills using worksheets. They will also be asked to&#xD;
+      practice skills introduced in the videos in the week following the intervention. In the&#xD;
+      control condition, participants will not watch videos. One week after the intervention, all&#xD;
+      participants will respond to a follow-up assessment.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Access to the study will be provided via the MTurk website. Study measures and interventions&#xD;
+      will be provided via Qualtrics. To determine eligibility, participants will be asked to fill&#xD;
+      out a pre-screening measure of depressive symptoms, the Personal Health Questionnaire-9&#xD;
+      (PHQ-9). Those who score 10 or higher will be eligible. After consenting to participate,&#xD;
+      participants will fill out baseline measures, be randomly assigned to a condition,&#xD;
+      participate in any condition related procedures, and then respond to a follow-up assessment&#xD;
+      one week later.&#xD;
+&#xD;
+      Each brief intervention consists of watching a series of videos. After each video,&#xD;
+      participants in the intervention conditions will be prompted to answer a series of questions&#xD;
+      to practice the skills explained in the videos. For the entrée and sampler conditions,&#xD;
+      watching all videos and filling out any worksheets that are part of the initial intervention&#xD;
+      is expected to take approximately 30 minutes.&#xD;
+&#xD;
+      Participants in the entrée and sampler conditions will be asked to work on a coping skills&#xD;
+      worksheet over the next seven days (estimated to involve about 10 minutes of work).&#xD;
+      Participants will receive an email seven days after participating in the brief intervention,&#xD;
+      asking them to take part in the following portion of the study. Before beginning the&#xD;
+      follow-up activity, participants in the intervention conditions will be asked to upload the&#xD;
+      coping skills worksheet they worked on. All participants will be asked to respond to&#xD;
+      follow-up assessment measures at this point.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">November 2020</start_date>
+  <completion_date type="Anticipated">November 2020</completion_date>
+  <primary_completion_date type="Anticipated">November 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Participants will be randomly assigned to one of three conditions: (1) a brief intervention focused on one domain of coping skills (the entrée condition), (2) a brief intervention focused on three domains of coping skills (the sampler condition), or (3) a no-intervention control condition. If participants are randomly assigned to the first condition, they will be further randomized into one of three brief interventions: (1) a focus on cognitive coping skills, (2) a focus on behavioral coping skills, or (3) a focus on interpersonal coping skills. The sampler condition will involve limited coverage of each of these same three types of skills.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+    <masking_description>Participants are told they may or may not be asked to watch videos and fill out worksheets. More detailed descriptions of the interventions being tested are not provided.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in the Quick Inventory of Depressive Symptoms-Self Report (QIDS-SR)</measure>
+    <time_frame>Baseline, 1-2 weeks after baseline</time_frame>
+    <description>The Quick Inventory of Depressive Symptoms-Self Report is a 16-item self-report scale that measures depressive symptom severity. Scores range from 0 to 27, with higher scores indicating greater depressive symptoms.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in the Ways of Responding Questionnaire (WOR)</measure>
+    <time_frame>Baseline, 1-2 weeks after baseline</time_frame>
+    <description>The Ways of Responding Questionnaire is a measure of compensatory skills taught in CBT for depression. Participants respond to 6 hypothetical stressful situations in which their initial thoughts regarding the event are given. Quality scores range from 0 to 6, with higher scores indicating greater CBT skills.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in the Styles of Emotion Response Questionnaire (SERQ)</measure>
+    <time_frame>Baseline, 1-2 weeks after baseline</time_frame>
+    <description>The Styles of Emotion Response Questionnaire is a 36-item self-report scale that measures the extent to which respondents endorse four different domains of coping skills: cognitive, behavioral, interpersonal, and mindfulness. For each item, participants are asked how often they use the strategy and how much feeling upset negatively impacts the use of this strategy. Scores from the first three skills are secondary outcomes. Scores range from 18-90 in each domain, with higher scores indicating greater coping skill use.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in the University of California, Los Angeles (UCLA) Loneliness Scale, Version 3</measure>
+    <time_frame>Baseline, 1-2 weeks after baseline</time_frame>
+    <description>The University of California, Los Angeles (UCLA) Loneliness Scale, Version 3 is a 20-item self-report scale that measures subjective feelings of loneliness and isolation. Scores range from 20-80, with higher scores indicating greater subjective experience of loneliness.</description>
+  </secondary_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Anticipated">501</enrollment>
+  <condition>Depressive Symptoms</condition>
+  <arm_group>
+    <arm_group_label>Entrée: Cognitive Skills</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Entrée: Behavioral Skills</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Entrée: Interpersonal Skills</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sampler Skills</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Participants are not given videos to watch until their involvement in the study ends.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Entrée: Cognitive skills</intervention_name>
+    <description>In this condition, participants view a video-based intervention covering cognitive emotion regulation skills. This intervention asks participants to respond to questions and practice identifying and evaluating their own thoughts using an intervention worksheet. One week after the intervention, participants are asked to upload a worksheet showing their efforts to use the intervention skills.</description>
+    <arm_group_label>Entrée: Cognitive Skills</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Entrée: Behavioral skills</intervention_name>
+    <description>In this condition, participants view a video-based intervention covering behavioral emotion regulation skills. This intervention asks participants to respond to questions and practice scheduling activities that might give them a sense of pleasure or accomplishment using an intervention worksheet. One week after the intervention, participants are asked to upload a worksheet showing their efforts to schedule and engage in behaviors in line with the intervention skills.</description>
+    <arm_group_label>Entrée: Behavioral Skills</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Entrée: Interpersonal skills</intervention_name>
+    <description>In this condition, participants view a video-based intervention covering interpersonal emotion regulation skills. This intervention asks participants to respond to questions and practice communicating effectively using an intervention worksheet. One week after the intervention, participants are asked to upload a worksheet showing their efforts to use the intervention skills.</description>
+    <arm_group_label>Entrée: Interpersonal Skills</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Sampler skills</intervention_name>
+    <description>In this condition, participants view a video-based intervention covering three emotion regulation skills: cognitive, behavioral, and interpersonal skills. This intervention asks participants to respond to questions and practice using skills using intervention worksheets. One week after the intervention, participants are asked to upload a worksheet showing their efforts to use the intervention skills.</description>
+    <arm_group_label>Sampler Skills</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Score above 10 on the Patient Health Questionnaire-9&#xD;
+&#xD;
+          -  Are 18 years of age or older&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Daniel R Strunk, Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Ohio State University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Graham C Bartels, B.S.</last_name>
+    <phone>513-473-9631</phone>
+    <email>bartels.69@buckeyemail.osu.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Robert J Zhou, B.A.</last_name>
+    <phone>626-428-8721</phone>
+    <email>zhou.3243@osu.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Department of Psychology</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Jennifer S Cheavens, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>November 12, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 20, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 25, 2020</study_first_posted>
+  <last_update_submitted>November 20, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 20, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 25, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Ohio State University</investigator_affiliation>
+    <investigator_full_name>Daniel R. Strunk</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>Depression</keyword>
+  <keyword>Video intervention</keyword>
+  <keyword>Cognitive behavioral skills</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Depression</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Results will be posted to clinicaltrials.gov within one year after completion of the final participant's participation in the clinical trial. Following initial publication, deidentified individual participant data (IPD) that underlie results in the primary outcome data reported will be available on reasonable request for 5 years after study completion.</ipd_description>
+    <ipd_time_frame>IPD will be available upon reasonable request within one year of primary outcome manuscript being published.</ipd_time_frame>
+    <ipd_access_criteria>Proposals should be directed to Daniel R. Strunk at strunk.20@osu.edu</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

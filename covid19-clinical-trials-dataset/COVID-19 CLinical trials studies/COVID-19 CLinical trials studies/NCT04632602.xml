@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1548">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04632602</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020-17</org_study_id>
+    <nct_id>NCT04632602</nct_id>
+  </id_info>
+  <brief_title>Awake Prone Position to Reduce Ventilation Inhomogeneity in COVID-19 Acute Respiratory Failure</brief_title>
+  <acronym>ProneSpontCov</acronym>
+  <official_title>Awake Prone Position to Reduce Ventilation Inhomogeneity in COVID-19 Acute Respiratory Failure: a Randomized Cross Over Electrical Impedance Tomography Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Assistance Publique Hopitaux De Marseille</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Assistance Publique Hopitaux De Marseille</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Evaluation of awake prone position on ventilation inhomogeneity in COVID-19 associated&#xD;
+      respiratory failure.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Awake prone position has been proposed as an additional treatment to alleviate hypoxemia&#xD;
+      during COVID-19 acute respiratory failure and potentially to avoid in some case tracheal&#xD;
+      intubation and invasive ventilation. Potential mechanism is improvement of ventilation:&#xD;
+      perfusion mismatch through redistribution of ventilation to the dorsal part of the lungs&#xD;
+      where perfusion is prominent. Electrical impedance tomography (EIT) is a non-invasive&#xD;
+      functional lung imaging of distribution of ventilation. Therefore, we aim to assess EIT on&#xD;
+      lung ventilation inhomogeneity during supine and prone position in COVID-19 patients.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 4, 2020</start_date>
+  <completion_date type="Anticipated">January 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <intervention_model_description>Each patient will be his own control. The order of the experimental periods will be:&#xD;
+arm A: prone position followed by dorsal decubitus&#xD;
+arm B: dorsal decubitus followed by ventral decubitus A 30-minute wash-out period is set between the end of sequence 1 and the start of sequence 2.</intervention_model_description>
+    <primary_purpose>Other</primary_purpose>
+    <masking>Single (Participant)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Global Inhomogeneity Index variations (expressed in percentage) between baseline, supine and prone position periods.</measure>
+    <time_frame>2hours</time_frame>
+    <description>Electrical Impedance Tomography (EIT)</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>Respiratory Failure</condition>
+  <arm_group>
+    <arm_group_label>patients in prone position followed by dorsal decubitus</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>patients will be randomized on the order of position, either supine then prone, either prone then supine. Each period will last at least 2 hours.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>dorsal decubitus followed by prone decubitus</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>patients will be randomized on the order of position, either supine then prone, either prone then supine. Each period will last at least 2 hours.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>physiological effects of awake prone position in COVID 19 patients</intervention_name>
+    <description>Study of physiological effects of awake prone position in COVID 19 patients on lung inhomogeneity assessed by Electrical Impedance Tomography (EIT), gas exchange and dyspnea score (Borg Scale).&#xD;
+Measurements will be performed at baseline (on supine position), then patients will be randomized on the order of position, either supine then prone, either prone then supine. Each period will last at least 2 hours. EIT records will be performed during the last 30 minutes of each period, blood gas and dyspnea score at the end of each period.</description>
+    <arm_group_label>dorsal decubitus followed by prone decubitus</arm_group_label>
+    <arm_group_label>patients in prone position followed by dorsal decubitus</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  more than 18 Years (Adult, Older Adult)&#xD;
+&#xD;
+          -  Confirmed COVID-19 (positive SARS-CoV-2 RT-PCR at nasopharyngeal swab)&#xD;
+&#xD;
+          -  Acute respiratory failure with 100 &lt; PaO2:FiO2&lt; 300 mmhg&#xD;
+&#xD;
+          -  Spontaneous ventilation with standard oxygen supply or high flow humidified oxygen&#xD;
+&#xD;
+          -  Written informed consent of the patient&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Contra-indication to prone position including pregnancy&#xD;
+&#xD;
+          -  Presence of pacemaker&#xD;
+&#xD;
+          -  Severe hypoxemia with PaO2/FiO2 &lt; 100 mmHg&#xD;
+&#xD;
+          -  Evidence of clinical signs of respiratory distress with high probability of intubation&#xD;
+             in the next two hours&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jean-Olivier ARNAUD</last_name>
+    <role>Study Director</role>
+    <affiliation>ASSISTANCE PUBLIQUE HÔPITAUX DE MARSEILLE</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Christophe GUERVILLY</last_name>
+    <phone>+33 4 91 96 58 35/36</phone>
+    <email>christophe.guervilly@ap-hm.fr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Assistance Publique Höpitaux de Marseille</name>
+      <address>
+        <city>Marseille</city>
+        <zip>13354</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Christophe GUERVILLY</last_name>
+      <phone>+33 4 91 96 58 35/36</phone>
+      <email>christophe.guervilly@ap-hm.fr</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>November 16, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 16, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 17, 2020</study_first_posted>
+  <last_update_submitted>November 16, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 16, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 17, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Insufficiency</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

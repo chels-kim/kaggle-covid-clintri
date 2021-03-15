@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1242">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04742569</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1294415</org_study_id>
+    <nct_id>NCT04742569</nct_id>
+  </id_info>
+  <brief_title>Wearable Diagnostic for Detection of COVID-19 Infection</brief_title>
+  <official_title>Wearable Diagnostic for Detection of COVID-19 Infection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>ClinOne, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>BioIntelliSense, Inc</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Phillips North America, LLC</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Colorado, Denver</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>United States Department of Defense</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>ClinOne, Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goals of this study are 1) to validate the use of a wearable diagnostic capability and&#xD;
+      software as a medical device (SaMD) algorithm for the pre or early-symptomatic detection of&#xD;
+      COVID-19 infection, 2) assess the wearable device on the subjects, and 3) ensure data are&#xD;
+      collected, securely stored, and easily read and interpreted by non-laboratory personnel.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is an open label iterative study designed to calibrate the algorithm to maximize its&#xD;
+      test characteristics. The sample size is derived from the minimum number of COVID-19 subjects&#xD;
+      required to evaluate algorithm sensitivity and specificity. A sample size of 200 true&#xD;
+      positive COVID-19 infections is anticipated to assess device predictive analytics. Assuming a&#xD;
+      six-month enrollment period, a 15 percent patient lost to follow-up rate, and a positive&#xD;
+      COVID-19 infection rate of 10 percent within the study population, a sample size of 2,352&#xD;
+      subjects will be enrolled in this prospective study.&#xD;
+&#xD;
+      Primary Outcomes: The primary outcomes of interest are performance of the BioSticker&#xD;
+      multiparameter vital signs wearable and the sensitivity of the BioCloud-based algorithms in&#xD;
+      detecting early onset of active COVID-19 related signs and symptom in subjects prior to or&#xD;
+      coincident with a positive COVID-19 diagnostic test and the specificity of the BioSticker&#xD;
+      algorithms in distinguishing positive diagnosis of infection from negative diagnosis of&#xD;
+      infection among subjects. COVID-19 infection will be confirmed by both participant&#xD;
+      affirmation and diagnostic laboratory testing. Additional primary outcome is the intuitive&#xD;
+      presentation of affirmative diagnostic results from the BioSticker early detection&#xD;
+      algorithm(s).&#xD;
+&#xD;
+      Secondary Outcomes: The secondary outcomes of interest include correlation of biometric data&#xD;
+      indicators to individual-level experiential feedback reported through participant&#xD;
+      symptom-tracking and diagnostic questionnaires.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 21, 2020</start_date>
+  <completion_date type="Anticipated">December 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The primary outcome of interest are performance of the BioSticker, a medical grade multi-parameter wearable biosensor.</measure>
+    <time_frame>14 days</time_frame>
+    <description>Biometric data will be measured for 14 days using the application of the BioSticker on the upper left side of the chest.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The primary outcome of interest are performance of the BioSticker, a medical grade multi-parameter wearable biosensor.</measure>
+    <time_frame>14 days</time_frame>
+    <description>Vital Signs measurements will be collected for 14 days using the application of the BioSticker on the upper left side of the chest.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The primary outcome of interest are performance of the BioSticker wearable for detecting early onset of active COVID-19 related symptoms.</measure>
+    <time_frame>14 days</time_frame>
+    <description>Symptom tracking data will be collected through daily questionnaires for 14 consecutive days, administered through ClinOne. Health data known to be associated with COVID-19 risk and severity, including comorbid conditions, risk factors, and demographic data will be collected from subjects during screening and enrollment via the ClinOne study website.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The primary outcome of interest is the sensitivity of the BioCloud-based algorithms in detecting early onset of active COVID-19.</measure>
+    <time_frame>14 days</time_frame>
+    <description>BioSticker sensor data will be time-stamped and annotated against clinical events (e.g., fever, cough), symptom progression data, and other indicators of infection as they are identified. Weighting coefficients for predictive algorithms will be tuned and algorithms will be iteratively refined using machine learning methods and small batches of data anticipated to include between 20 and 50 positive cases per set, and validated against sensor data obtained from COVID-19-negative subjects.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The secondary outcomes of interest include correlation of biometric data indicators to patient reported symptoms.</measure>
+    <time_frame>14 days</time_frame>
+    <description>Individual-level experiential feedback will be reported through participant symptom- tracking and diagnostic questionnaires for 14 consecutive days.</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">2352</enrollment>
+  <condition>COVID-19</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All adult subjects seeking a COVID-19 test and meeting enrollment criteria will be offered&#xD;
+        enrollment into this study.&#xD;
+&#xD;
+        The Inclusion Criteria are:&#xD;
+&#xD;
+          1. Adults - 18 years of age and older&#xD;
+&#xD;
+          2. Both genders, all races and ethnic groups&#xD;
+&#xD;
+          3. English speaking adult subjects only&#xD;
+&#xD;
+        The Exclusion criteria include:&#xD;
+&#xD;
+          1. Inability to comply with COVID-19 test procedure and application of the BioSticker&#xD;
+&#xD;
+          2. Failure of a subject to sign the informed consent document or the HIPAA medical record&#xD;
+             release form.&#xD;
+&#xD;
+          3. Chronic daily use of non-steroidal anti-inflammatory medications (NSAIDs) and&#xD;
+             antipyretic medications&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. age 18 or older;&#xD;
+&#xD;
+          2. able to follow the study device wear instructions per the Instructions for Use;&#xD;
+&#xD;
+          3. no positive viral test within 60 days prior to enrollment; and&#xD;
+&#xD;
+          4. willing and able to provide written, informed consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. pregnant or breastfeeding;&#xD;
+&#xD;
+          2. wearing a defibrillator or pacemaker;&#xD;
+&#xD;
+          3. known or suspected cardiac dysrhythmias&#xD;
+&#xD;
+          4. known or suspected allergy to adhesives;&#xD;
+&#xD;
+          5. chronic daily use of non-steroidal anti-inflammatory medications (NSAIDs) and&#xD;
+             antipyretic medications&#xD;
+&#xD;
+          6. open wounds or infected, irritated, scarred, or inflamed areas of skin on the upper&#xD;
+             chest preventing placement of the biosensor; and&#xD;
+&#xD;
+          7. current or planned use of either an investigation pharmaceutical or an investigational&#xD;
+             device during the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>James Mault, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>BioIntelliSense, Inc</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>ELIZABETH ESTERL, DNP, MS, RN</last_name>
+    <phone>7207326231</phone>
+    <email>eesterl@clinone.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Joseph Ruybal, MS</last_name>
+    <phone>7209847833</phone>
+    <email>jruybal@clinone.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>ClinOne, Inc</name>
+      <address>
+        <city>Greenwood Village</city>
+        <state>Colorado</state>
+        <zip>80111</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>ELIZABETH ESTERL, DNP, MS, RN</last_name>
+      <phone>720-732-6231</phone>
+      <email>eesterl@clinone.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Joseph Ruybal, MS</last_name>
+      <phone>7209847833</phone>
+      <email>jruybal@clinone.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>James Mault, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <results_reference>
+    <citation>Buitrago-Garcia D, Egli-Gany D, Counotte MJ, Hossmann S, Imeri H, Ipekci AM, Salanti G, Low N. Occurrence and transmission potential of asymptomatic and presymptomatic SARS-CoV-2 infections: A living systematic review and meta-analysis. PLoS Med. 2020 Sep 22;17(9):e1003346. doi: 10.1371/journal.pmed.1003346. eCollection 2020 Sep.</citation>
+    <PMID>32960881</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Kucirka LM, Lauer SA, Laeyendecker O, Boon D, Lessler J. Variation in False-Negative Rate of Reverse Transcriptase Polymerase Chain Reaction-Based SARS-CoV-2 Tests by Time Since Exposure. Ann Intern Med. 2020 Aug 18;173(4):262-267. doi: 10.7326/M20-1495. Epub 2020 May 13. Review.</citation>
+    <PMID>32422057</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Natarajan A, Su HW, Heneghan C. Assessment of physiological signs associated with COVID-19 measured using wearable devices. NPJ Digit Med. 2020 Nov 30;3(1):156. doi: 10.1038/s41746-020-00363-7.</citation>
+    <PMID>33299095</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Ra SH, Lim JS, Kim G, et al. Thorax Epub ahead of print: 2020 September 22; doi:10.1136/ thoraxjnl-2020-215042</citation>
+  </results_reference>
+  <results_reference>
+    <citation>Rudolph, J., Halladay, C., Barber, M., McConeghy, K., Mor, V., Nanda, A., Gravenstein, S. (2020) Temperature in Nursing Home Residents Systematically Tested for SARS-CoV-2. Elsevier Inc. on behalf of AMDA -The Society for Post-Acute and Long-Term Care Medicine. https://doi.org/10.1016/j.jamda.2020.06.009</citation>
+  </results_reference>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>January 14, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 5, 2021</study_first_submitted_qc>
+  <study_first_posted type="Estimate">February 8, 2021</study_first_posted>
+  <last_update_submitted>February 5, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 5, 2021</last_update_submitted_qc>
+  <last_update_posted type="Estimate">February 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Recent known exposure to COVID-19</keyword>
+  <keyword>Asymptomatic</keyword>
+  <keyword>Early COVID-19 Symptoms</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

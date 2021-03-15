@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="222">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04685447</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CER Liguria: 135/20</org_study_id>
+    <nct_id>NCT04685447</nct_id>
+  </id_info>
+  <brief_title>Effects of Different Dialysis Strategies on Inflammation in COVID-19 Maintenance Hemodialysis Patients</brief_title>
+  <official_title>Inflammatory Cytokine Profile in Maintenance Hemodialysis Patients Affected by COVID-19: Effects of 2 Different Dialysis Strategies</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Universita degli Studi di Genova</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>IRCCS Azienda Ospedaliera Universitaria San Martino - IST Istituto Nazionale per la Ricerca sul Cancro, Genoa, Italy</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Universita degli Studi di Genova</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In the course of Coronavirus Disease-19 (COVID-19) uncontrolled inflammation has been related&#xD;
+      to disease severity and unfavorable outcomes.&#xD;
+&#xD;
+      Here, the investigators study the longitudinal changes of pro- and anti-inflammatory markers&#xD;
+      in a population of patients undergoing maintenance hemodialysis (HD) affected by COVID-19,&#xD;
+      evaluating the potential modulating effects of two different dialysis approaches&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      For this prospective randomized study, the investigators recruit maintenance hemodialysis&#xD;
+      patients with confirmed COVID-19 infection. After diagnosis, the patients are randomized to&#xD;
+      two different dialysis modalities, expanded HD (HDx), performed by use of a medium cut-off&#xD;
+      membrane, and standard treatment based on the use of a protein-leaking dialyzer (PLD).&#xD;
+&#xD;
+      The investigators collect clinical and laboratory data, including circulating pre and&#xD;
+      post-dialysis levels of interleukin-6 (IL-6), interleukin-8 (IL-8), interleukin-10 (IL-10),&#xD;
+      soluble TLR4 (sTLR4), and interferon-gamma (IFN-g). Samples are collected at diagnosis (T0),&#xD;
+      and one and two weeks after the diagnosis (T7 and T14, respectively). Moreover, lymphocyte&#xD;
+      and immune cell profiles are evaluated.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 16, 2020</start_date>
+  <completion_date type="Anticipated">March 1, 2021</completion_date>
+  <primary_completion_date type="Actual">April 20, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Longitudinal changes of interleukin-6 (IL-6), interleukin-8 (IL-8), interleukin-10 (IL-10), and interferon-gamma (IFN-γ) plasma levels during Covid19 in hemodialysis patients</measure>
+    <time_frame>Two-week observation period after Covid19 diagnosis</time_frame>
+    <description>Evaluation of circulating levels of pro and anti-inflammatory cytokines (pg/ml) at different time-points in patients treated with two different dialysis modalities</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Longitudinal changes of soluble TLR4 (sTLR4) plasma levels during Covid19 in hemodialysis patients</measure>
+    <time_frame>Two-week observation period after Covid19 diagnosis</time_frame>
+    <description>Evaluation of circulating levels of soluble TLR4 (sTLR4, ng/ml)at different time-points in patients treated with two different dialysis modalities</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Longitudinal changes of cluster of differentiation 4 (CD4), cluster of differentiation 8 (CD8), cluster of differentiation 19 (CD19), natural killer (NK) lymphocyte count and function during Covid19 in hemodialysis patients</measure>
+    <time_frame>Two-week observation period after Covid19 diagnosis</time_frame>
+    <description>Lymphocyte and immune cell profiles studied by flow cytometry</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Covid19</condition>
+  <condition>Hemodialysis Complication</condition>
+  <condition>Inflammatory Response</condition>
+  <arm_group>
+    <arm_group_label>Expanded Hemodialysis</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Hemodialysis modality performed by using a medium cut-off membrane</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Protein-leaking hemodialysis</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Hemodialysis modality performed by using a membrane with accentuated absorption capacities.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Expanded Hemodialysis for Covid19 maintenance hemodialysis patients</intervention_name>
+    <description>After Covid19 diagnosis participants are randomized to receive Expanded Hemodialysis for two weeks</description>
+    <arm_group_label>Expanded Hemodialysis</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Hemodialysis by protein-leaking dialyzer for Covid19 maintenance hemodialysis patients</intervention_name>
+    <description>After Covid19 diagnosis participants are randomized to receive hemodialysis by protein-leaking dialyzer for two weeks</description>
+    <arm_group_label>Protein-leaking hemodialysis</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients undergoing maintenance hemodialysis&#xD;
+&#xD;
+          -  Confirmed severe acute respiratory syndrome-coronavirus2 infection&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Acute kidney injury&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Francesca Viazzi, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Unit of Nephrology, Dept Internal Medicine, Univerity of Genova and San Martino Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Pasquale Esposito, MD</last_name>
+    <phone>0105557160</phone>
+    <phone_ext>0039</phone_ext>
+    <email>pasquale.esposito@unige.it</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Ospedale IRCCS San Martino</name>
+      <address>
+        <city>Genova</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Pasquale Esposito, MD</last_name>
+      <email>pasquale.esposito@unige.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Policlinico IRCCS Ospedale San Matteo</name>
+      <address>
+        <city>Pavia</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <reference>
+    <citation>Esposito P, Russo R, Conti N, Falqui V, Massarino F, Moriero E, Peloso G, Traverso GB, Garibotto G, Viazzi F. Management of COVID-19 in hemodialysis patients: The Genoa experience. Hemodial Int. 2020 Jul;24(3):423-427. doi: 10.1111/hdi.12837. Epub 2020 May 12.</citation>
+    <PMID>32365278</PMID>
+  </reference>
+  <reference>
+    <citation>Russo E, Esposito P, Taramasso L, Magnasco L, Saio M, Briano F, Russo C, Dettori S, Vena A, Di Biagio A, Garibotto G, Bassetti M, Viazzi F; GECOVID working group. Kidney disease and all-cause mortality in patients with COVID-19 hospitalized in Genoa, Northern Italy. J Nephrol. 2020 Oct 6. doi: 10.1007/s40620-020-00875-1. [Epub ahead of print]</citation>
+    <PMID>33025516</PMID>
+  </reference>
+  <reference>
+    <citation>Ma Y, Diao B, Lv X, Zhu J, Chen C, Liu L, Zhang S, Shen B, Wang H. Epidemiological, Clinical, and Immunological Features of a Cluster of COVID-19-Contracted Hemodialysis Patients. Kidney Int Rep. 2020 Jun 9;5(8):1333-1341. doi: 10.1016/j.ekir.2020.06.003. eCollection 2020 Aug.</citation>
+    <PMID>32775837</PMID>
+  </reference>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>December 22, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 23, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 28, 2020</study_first_posted>
+  <last_update_submitted>December 24, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 24, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 29, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Universita degli Studi di Genova</investigator_affiliation>
+    <investigator_full_name>Pasquale Esposito</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>Hemodialysis</keyword>
+  <keyword>Covid19</keyword>
+  <keyword>Inflammation</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Inflammation</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

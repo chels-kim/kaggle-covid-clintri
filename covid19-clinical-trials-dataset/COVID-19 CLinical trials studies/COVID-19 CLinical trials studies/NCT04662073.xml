@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1800">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04662073</url>
+  </required_header>
+  <id_info>
+    <org_study_id>COPPS-Camostat</org_study_id>
+    <nct_id>NCT04662073</nct_id>
+  </id_info>
+  <brief_title>COVID-19 Outpatient Pragmatic Platform Study (COPPS) - Camostat Sub-Protocol</brief_title>
+  <acronym>COPPS</acronym>
+  <official_title>COVID-19 Outpatient Pragmatic Platform Study (COPPS): A Pragmatic Multi-arm, Adaptive, Phase 2, Blinded, Randomized Placebo-controlled Platform Trial to Assess the Efficacy of Different Investigational Therapeutics in Reducing Time to Disease Resolution or Viral Load Cessation, as Compared to Standard Supportive Care in Outpatients With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Stanford University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Stanford University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The overall objective of this study is to efficiently evaluate the clinical efficacy and&#xD;
+      safety of different investigational therapeutics among adults who have COVID-19 but are not&#xD;
+      yet sick enough to require hospitalization. The overall hypothesis is that through an&#xD;
+      adaptive trial design, potential effective therapies (single and combination) may be&#xD;
+      identified for this group of patients.&#xD;
+&#xD;
+      COVID-19 Outpatient Pragmatic Platform Study (COPPS) is a pragmatic platform protocol&#xD;
+      designed to evaluate COVID-19 treatments by assessing their ability to reduce viral shedding&#xD;
+      (Viral Domain) or improve clinical outcomes (Clinical Domain). To be included into the&#xD;
+      platform, every investigational product will collect data for both Domain primary endpoints.&#xD;
+      Individual treatments to be evaluated in the platform will be described in separate&#xD;
+      sub-protocols.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The platform study allows investigational products with objectives either: evaluating viral&#xD;
+      shedding (Virology Domain); and COVID-19 related Clinical Outcomes (Clinical Domain).&#xD;
+&#xD;
+      The primary objective for investigational products within the Viral Domain is:&#xD;
+&#xD;
+      A. To evaluate the efficacy of each therapeutic intervention in addition to standard&#xD;
+      supportive care (SSC) compared with SSC in reducing the duration of viral shedding of&#xD;
+      SARS-CoV-2 virus in outpatients with COVID-19 disease.&#xD;
+&#xD;
+      The primary objective for investigational products within for the Clinical Domain is:&#xD;
+&#xD;
+      B. To evaluate the efficacy of each therapeutic intervention in addition to SSC as compared&#xD;
+      to SSC in improving clinical outcomes in outpatients with COVID-19 disease.&#xD;
+&#xD;
+      Secondary objectives are:&#xD;
+&#xD;
+        1. The objective of the non-assigned domain an investigational product is under.&#xD;
+&#xD;
+             1. If under Clinical Domain, time to cessation of viral shedding.&#xD;
+&#xD;
+             2. If under Viral Domain, time to resolution of symptoms.&#xD;
+&#xD;
+        2. To evaluate the efficacy of each therapeutic intervention in reducing SARS-CoV-2 related&#xD;
+           hospitalizations, ED visits, or death in outpatients with COVID-19 disease.&#xD;
+&#xD;
+        3. To assess the development of antibodies against SARS-CoV-2&#xD;
+&#xD;
+        4. To evaluate the safety and tolerability of each therapeutic intervention compared with&#xD;
+           placebo (supportive care).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 2021</start_date>
+  <completion_date type="Anticipated">March 2022</completion_date>
+  <primary_completion_date type="Anticipated">March 2022</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>For Viral Domain:Time until cessation of shedding of SARS-CoV-2 virus</measure>
+    <time_frame>28 days</time_frame>
+    <description>Defined as the time in days from randomization to the first of two consecutive negative RT-PCR results of self-collected nasal swabs</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>For Clinical Domain: Time from randomization to sustained symptom resolution assessed over a 28-day period</measure>
+    <time_frame>28 days</time_frame>
+    <description>Resolution is defined as the first study day where no symptoms are self-reported for 48 hours, not including sense of taste or smell, and defining recovery for fatigue and cough as mild or none. Participants who never experienced resolution will be censored at their last survey completion day.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to first resolution</measure>
+    <time_frame>28 days</time_frame>
+    <description>Defined as the first study day where no symptoms are self-reported, not including sense of taste or smell, and defining recovery for fatigue and cough as mild or none.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Indicator of SARS-CoV-2 related hospitalizations, ED visits, or death in outpatients with COVID-19 disease.</measure>
+    <time_frame>28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Indicator participant has developed antibodies to SARS-CoV-2</measure>
+    <time_frame>28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to event from randomization to worsening of symptoms or disease progression</measure>
+    <time_frame>28 days</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Camostat</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants are randomized to receive camostat</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Matching Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants are randomized to receive placebo to match camostat</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Camostat</intervention_name>
+    <description>200-mg tablet administered orally four times daily</description>
+    <arm_group_label>Camostat</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo to match camostat administered orally four times daily</description>
+    <arm_group_label>Matching Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Outpatient setting&#xD;
+&#xD;
+          2. Age ≥ 18 years and ≤ 80 years at the time of the assessment&#xD;
+&#xD;
+          3. Able and willing to understand the study, adhere to all study procedures, and provide&#xD;
+             written informed consent&#xD;
+&#xD;
+          4. Initial diagnosis of COVID-19 disease as defined by an FDA-cleared molecular&#xD;
+             diagnostic assay positive for SARS-CoV-2 with no more than 72 hours from the initial&#xD;
+             swab used in the diagnosis to the time of commencing informed consent. We rely on&#xD;
+             Stanford's assay, which was issued an Emergency Use Authorization (EUA number is&#xD;
+             EUA200036).&#xD;
+&#xD;
+          5. At baseline, at least two symptoms should have moderate or higher severity score on&#xD;
+             the COVID Outpatient Symptom Scale (COSS)&#xD;
+&#xD;
+          6. Additional inclusion criteria may pertain to specific drugs as described in study&#xD;
+             specific protocols.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. At screening, the subject needs to be admitted to the hospital or is being evaluated&#xD;
+             for potential admission.&#xD;
+&#xD;
+          2. Previous use of drugs that may be active against COVID-19 in the eyes of the&#xD;
+             investigators.&#xD;
+&#xD;
+          3. Subject has any of the following abnormal laboratory test results at screening:&#xD;
+&#xD;
+               1. Platelet count &lt;100,000 cells/mm3&#xD;
+&#xD;
+               2. Absolute leukocyte count &lt; 500 cells/mm3&#xD;
+&#xD;
+               3. Hemoglobin &lt;11 g/dL for women and &lt;12 g/dL for men&#xD;
+&#xD;
+               4. Serum creatinine concentration ≥1.5× ULN&#xD;
+&#xD;
+               5. Confirmed creatinine clearance (CrCl) &lt; 50 mL/min by Cockcroft-Gault&#xD;
+&#xD;
+          4. Subject is using adrenocorticosteroids (except topical or inhaled preparations or oral&#xD;
+             preparations equivalent to or less than 10 mg of oral prednisone) or immunosuppressive&#xD;
+             or immunomodulatory drugs (e.g., immunosuppressants, anticancer drugs, interleukins,&#xD;
+             interleukin antagonists or interleukin receptor blockers).&#xD;
+&#xD;
+             NOTE: Treatment of study participants following institutional COVID-19 treatment&#xD;
+             policies or guidelines, including the use of immunomodulatory medications, is&#xD;
+             permitted. This excludes treatment with agents that have the potential for direct&#xD;
+             antiviral activity, including convalescent plasma and NO, and co-enrollment into other&#xD;
+             clinical studies that evaluate investigational agents for COVID-19.&#xD;
+&#xD;
+          5. Subject has a serious chronic disease (e.g., uncontrolled human immunodeficiency virus&#xD;
+             [HIV], cancer requiring chemotherapy within the preceding 6 months, and/or moderate or&#xD;
+             severe hepatic insufficiency).&#xD;
+&#xD;
+          6. Has renal insufficiency requiring hemodialysis or continuous ambulatory peritoneal&#xD;
+             dialysis (CAPD).&#xD;
+&#xD;
+          7. Has liver impairment greater than Child Pugh A.&#xD;
+&#xD;
+          8. Has a history of alcohol or drug abuse in the previous 6 months.&#xD;
+&#xD;
+          9. Has a psychiatric disease that is not well controlled where controlled is defined as:&#xD;
+             stable on a regimen for more than one year.&#xD;
+&#xD;
+         10. Has taken another investigational drug within the past 30 days.&#xD;
+&#xD;
+         11. Is deemed by the Investigator to be ineligible for any reason.&#xD;
+&#xD;
+        Additional exclusion criteria for camostat protocol:&#xD;
+&#xD;
+          1. Patient has abnormal liver enzyme tests at screening, including AST or ALT ≥3 × the&#xD;
+             ULN or total bilirubin &gt;1.25 x ULN at Screening (patients with known Gilbert's&#xD;
+             syndrome can be included with bilirubin &gt;1.25 x ULN).&#xD;
+&#xD;
+          2. Patient is pregnant or breastfeeding.&#xD;
+&#xD;
+          3. Patients with baseline ALT &gt; 1.5X the upper limit of normal (ULN)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Julie Parsonnet, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Stanford University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Stanford University</name>
+      <address>
+        <city>Stanford</city>
+        <state>California</state>
+        <zip>94305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>December 8, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 9, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 10, 2020</study_first_posted>
+  <last_update_submitted>February 4, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 4, 2021</last_update_submitted_qc>
+  <last_update_posted type="Estimate">February 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Camostat</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

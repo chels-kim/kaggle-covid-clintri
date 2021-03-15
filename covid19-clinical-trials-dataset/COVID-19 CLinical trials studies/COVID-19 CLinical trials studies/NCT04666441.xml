@@ -1,0 +1,854 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3463">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04666441</url>
+  </required_header>
+  <id_info>
+    <org_study_id>R10933-10987-COV-20145</org_study_id>
+    <nct_id>NCT04666441</nct_id>
+  </id_info>
+  <brief_title>COVID-19 Study Assessing the Virologic Efficacy of REGN10933+REGN10987 Across Different Dose Regimens in Adult Outpatients With SARS-CoV-2 Infection</brief_title>
+  <official_title>A Phase 2 Study to Assess the Virologic Efficacy of REGN10933+REGN10987 Across Different Dose Regimens in Outpatients With SARS-CoV-2 Infection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Regeneron Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Regeneron Pharmaceuticals</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary objective of the study is to assess the virologic efficacy of REGN10933+REGN10987&#xD;
+      across different intravenous and subcutaneous doses compared to placebo.&#xD;
+&#xD;
+      The secondary objectives of the study are:&#xD;
+&#xD;
+        -  To evaluate additional indicators of virologic efficacy of REGN10933+REGN10987 compared&#xD;
+           to placebo&#xD;
+&#xD;
+        -  To evaluate the safety and tolerability of REGN10933+REGN10987 compared to placebo&#xD;
+&#xD;
+        -  To assess the concentrations of REGN10933 and REGN10987 in serum over time&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 15, 2020</start_date>
+  <completion_date type="Anticipated">April 24, 2021</completion_date>
+  <primary_completion_date type="Anticipated">March 1, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Time-weighted average daily change from baseline in viral load (log10 copies/mL), as measured by reverse transcription quantitative polymerase chain reaction (RT-qPCR) in nasopharyngeal (NP) swab samples</measure>
+    <time_frame>Baseline to day 7</time_frame>
+    <description>Measured in patients who have a central-lab determined RT-qPCR positive test and are seronegative at baseline</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time-weighted average daily change from baseline in viral load (log10 copies/mL)</measure>
+    <time_frame>Baseline to day 5</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time-weighted average daily change from baseline in viral load (log10 copies/mL) in patients with high viral load</measure>
+    <time_frame>Baseline to day 7</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time-weighted average daily change from baseline in viral load (log10 copies/mL) in patients with high viral load</measure>
+    <time_frame>Baseline to day 5</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients with high viral load</measure>
+    <time_frame>At each visit, through day 22</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients with viral loads below the limit of detection</measure>
+    <time_frame>At each visit, through day 22</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients with viral loads below the lower limit of quantitation</measure>
+    <time_frame>At each visit, through day 22</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time-weighted average daily change from baseline in cycle threshold (Ct) as measured by RT-qPCR in NP samples</measure>
+    <time_frame>Baseline to day 7</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time-weighted average daily change from baseline in Ct from day 1 to day 5, as measured by RT-qPCR in NP samples</measure>
+    <time_frame>Baseline to day 5</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in Ct as measured by RT-qPCR in NP samples</measure>
+    <time_frame>At each visit, Baseline through day 22</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in viral load as measured by RT-qPCR in NP samples</measure>
+    <time_frame>At each visit, Baseline through day 22</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients with treatment-emergent serious adverse events (SAEs)</measure>
+    <time_frame>Through day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients with infusion-related reactions (grade ≥2)</measure>
+    <time_frame>Through day 4</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients with injection-site reactions (grade ≥2)</measure>
+    <time_frame>Through day 4</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients with hypersensitivity reactions (grade ≥2)</measure>
+    <time_frame>Through day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Concentrations of REGN10933 in serum</measure>
+    <time_frame>Through day 22</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Concentrations of REGN10987 in serum</measure>
+    <time_frame>Through day 22</time_frame>
+  </secondary_outcome>
+  <number_of_arms>8</number_of_arms>
+  <enrollment type="Anticipated">1400</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>IV Dose 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Combination therapy intravenous (IV) single dose</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>IV Dose 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Combination therapy IV single dose</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>IV Dose 3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Combination therapy IV single dose</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>IV Dose 4</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Combination therapy IV single dose</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo IV Dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Matching placebo IV single dose</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>SC Dose 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Combination therapy subcutaneous (SC) single dose</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>SC Dose 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Combination therapy SC single dose</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo SC Dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Matching placebo SC single dose</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>REGN10933+REGN10987 combination therapy</intervention_name>
+    <description>Administered IV or SC single dose</description>
+    <arm_group_label>IV Dose 1</arm_group_label>
+    <arm_group_label>IV Dose 2</arm_group_label>
+    <arm_group_label>IV Dose 3</arm_group_label>
+    <arm_group_label>IV Dose 4</arm_group_label>
+    <arm_group_label>SC Dose 1</arm_group_label>
+    <arm_group_label>SC Dose 2</arm_group_label>
+    <other_name>REGN-COV2</other_name>
+    <other_name>casirivimab</other_name>
+    <other_name>imdevimab</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Administered IV or SC single dose to match</description>
+    <arm_group_label>Placebo IV Dose</arm_group_label>
+    <arm_group_label>Placebo SC Dose</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Key Inclusion Criteria:&#xD;
+&#xD;
+          -  Has SARS-CoV-2-positive antigen or molecular diagnostic test ≤72 hours prior to&#xD;
+             randomization, as defined by the protocol&#xD;
+&#xD;
+          -  Low-risk symptomatic patient: Has symptoms consistent with COVID-19 (as determined by&#xD;
+             the investigator) with onset ≤7 days before randomization, and meets all of the&#xD;
+             following 8 criteria:&#xD;
+&#xD;
+               1. Age ≤50&#xD;
+&#xD;
+               2. No obesity, with obesity defined as BMI ≥30 kg/m2&#xD;
+&#xD;
+               3. Does not have cardiovascular disease or hypertension&#xD;
+&#xD;
+               4. Does not have chronic lung disease or asthma&#xD;
+&#xD;
+               5. Does not have type 1 or type 2 diabetes mellitus&#xD;
+&#xD;
+               6. Does not have chronic kidney disease, with or without dialysis&#xD;
+&#xD;
+               7. Does not have chronic liver disease&#xD;
+&#xD;
+               8. Is not pregnant or&#xD;
+&#xD;
+          -  Asymptomatic patient: Has had no symptoms consistent with COVID-19 (as determined by&#xD;
+             the investigator) occurring at any time &lt;2 months prior to randomization&#xD;
+&#xD;
+          -  Maintains O2 saturation ≥93% on room air&#xD;
+&#xD;
+        Key Exclusion Criteria:&#xD;
+&#xD;
+          -  Was admitted to a hospital for COVID-19 prior to randomization, or is hospitalized&#xD;
+             (inpatient) for any reason at randomization&#xD;
+&#xD;
+          -  Has a known positive SARS-CoV-2 serologic test&#xD;
+&#xD;
+          -  Has a positive SARS-CoV-2 antigen or molecular diagnostic test from a sample collected&#xD;
+             &gt;72 hours prior to randomization&#xD;
+&#xD;
+          -  Is immunosuppressed, based on investigator's assessment&#xD;
+&#xD;
+          -  Has participated, or is participating, in a clinical research study evaluating&#xD;
+             COVID-19 convalescent plasma, mAbs against SARS-CoV-2, or intravenous immunoglobulin&#xD;
+             (IVIG) within 3 months or within 5 half-lives of the investigational product&#xD;
+             (whichever is longer) prior to the screening visit&#xD;
+&#xD;
+          -  Prior, current, or planned future use of any of the following treatments: COVID-19&#xD;
+             convalescent plasma, mAbs against SARS-CoV-2, IVIG (any indication), systemic&#xD;
+             corticosteroids (any indication), or COVID-19 treatments (authorized, approved, or&#xD;
+             investigational)&#xD;
+&#xD;
+          -  Prior, current, or planned use during the study period of any authorized, approved, or&#xD;
+             investigational vaccine for COVID-19&#xD;
+&#xD;
+          -  Has known active infection with influenza or other non-SARS-CoV-2 respiratory&#xD;
+             pathogen, confirmed by a diagnostic test&#xD;
+&#xD;
+        NOTE: Other protocol defined inclusion/exclusion criteria apply&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Clinical Trial Management</last_name>
+    <role>Study Director</role>
+    <affiliation>Regeneron Pharmaceuticals</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Clinical Trials Administrator</last_name>
+    <phone>844-734-6643</phone>
+    <email>clinicaltrials@regeneron.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Mesa</city>
+        <state>Arizona</state>
+        <zip>85210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Tucson</city>
+        <state>Arizona</state>
+        <zip>85712</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Canoga Park</city>
+        <state>California</state>
+        <zip>91303</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Long Beach</city>
+        <state>California</state>
+        <zip>90806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90036</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94127</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Santa Monica</city>
+        <state>California</state>
+        <zip>90404</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Colorado Springs</city>
+        <state>Colorado</state>
+        <zip>80907</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>DeLand</city>
+        <state>Florida</state>
+        <zip>32720</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Fort Pierce</city>
+        <state>Florida</state>
+        <zip>34982</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Hialeah</city>
+        <state>Florida</state>
+        <zip>33010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Hialeah</city>
+        <state>Florida</state>
+        <zip>33012</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Maitland</city>
+        <state>Florida</state>
+        <zip>32751</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33126</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33184</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <state>Florida</state>
+        <zip>33705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33606</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>West Palm Beach</city>
+        <state>Florida</state>
+        <zip>33407</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Winter Haven</city>
+        <state>Florida</state>
+        <zip>33880</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Winter Park</city>
+        <state>Florida</state>
+        <zip>32789</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Columbus</city>
+        <state>Georgia</state>
+        <zip>31904</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Downers Grove</city>
+        <state>Illinois</state>
+        <zip>60515</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Ames</city>
+        <state>Iowa</state>
+        <zip>50010-3014</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Lake Charles</city>
+        <state>Louisiana</state>
+        <zip>70601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Marrero</city>
+        <state>Louisiana</state>
+        <zip>70072</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Shreveport</city>
+        <state>Louisiana</state>
+        <zip>71118</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Teaneck</city>
+        <state>New Jersey</state>
+        <zip>07666</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10451</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Wilmington</city>
+        <state>North Carolina</state>
+        <zip>28401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Dayton</city>
+        <state>Ohio</state>
+        <zip>45409</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Dayton</city>
+        <state>Ohio</state>
+        <zip>45432</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29425</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Clinton</city>
+        <state>South Carolina</state>
+        <zip>29325</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Amarillo</city>
+        <state>Texas</state>
+        <zip>79109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Corpus Christi</city>
+        <state>Texas</state>
+        <zip>78413</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77008</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77057</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77093</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Pearland</city>
+        <state>Texas</state>
+        <zip>77584</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Red Oak</city>
+        <state>Texas</state>
+        <zip>75154</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78249</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Regeneron Study Site</name>
+      <address>
+        <city>Falls Church</city>
+        <state>Virginia</state>
+        <zip>22042</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>December 10, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 10, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 14, 2020</study_first_posted>
+  <last_update_submitted>January 11, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 11, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 13, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Coronavirus disease 2019 (COVID-19)</keyword>
+  <keyword>Severe acute respiratory syndrome coronavirus 2 (SARS-COV-2) coronavirus</keyword>
+  <keyword>Non-hospitalized</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>All Individual Patient Data (IPD) that underlie publicly available results will be considered for sharing</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+    <ipd_time_frame>When Regeneron has received marketing authorization from major health authorities (e.g., FDA, European Medicines Agency (EMA), Pharmaceuticals and Medical Devices Agency (PMDA), etc.) for the product and indication, has made the study results publicly available (e.g., scientific publication, scientific conference, clinical trial registry), has the legal authority to share the data, and has ensured the ability to protect participant privacy.</ipd_time_frame>
+    <ipd_access_criteria>Qualified researchers can submit a proposal for access to individual patient or aggregate level data from a Regeneron-sponsored clinical trial through Vivli. Regeneron's Independent Research Request Evaluation Criteria can be found at: https://www.regeneron.com/sites/default/files/Regeneron-External-Data-Sharing-Policy-and-Independent-Research-Request-Evaluation-Criteria.pdf</ipd_access_criteria>
+    <ipd_url>https://vivli.org/</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

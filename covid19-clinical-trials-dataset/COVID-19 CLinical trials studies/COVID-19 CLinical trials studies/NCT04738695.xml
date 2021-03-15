@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="351">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04738695</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BC-08719</org_study_id>
+    <nct_id>NCT04738695</nct_id>
+  </id_info>
+  <brief_title>SARS-CoV-2 Seroprevalence Among Nursing Home Staff and Residents (COVID-19)</brief_title>
+  <acronym>SCOPE</acronym>
+  <official_title>SARS-CoV-2 Seroprevalence Among Nursing Home Staff and Residents in Belgium</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sciensano</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>KU Leuven</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Liege</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Universiteit Antwerpen</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Sciensano</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Assessment of the seroprevalence and sero-incidence of Severe Acute Respiratory Syndrome&#xD;
+      Coronavirus 2 (SARS-CoV-2) among Nursing Home (NH) residents and staff in Belgium.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      In this longitudinal cohort study, 3036, nursing home (NH) residents (1656) and staff (1380),&#xD;
+      spread over 69 nursing homes throughout Belgium will be repeatedly sampled at a 2-month&#xD;
+      interval. Seroprevalence and -incidence will be assessed by means of a point-of-care rapid&#xD;
+      antibody test with additional collection of a Dry Blood Spot sample for quantitative&#xD;
+      detection of immune markers*. Sample collection (capillary blood samples) at baseline (day 0,&#xD;
+      week 0) will start in a staggered way, so all baseline samples among the different nursing&#xD;
+      homes are collected within the first 21 days after collection of the first sample. Follow-up&#xD;
+      sample collection will occur with a 2-month interval in week 8, week 16, week 24, week 32 and&#xD;
+      week 40 after the baseline collection of that specific nursing home. At each timepoint,&#xD;
+      questionnaires will be taken concerning medical history, clinical outcomes and potential&#xD;
+      COVID-19 riskfactors. The recruited NHs will be equally spread across the Belgian territory&#xD;
+      according to geographic and demographic characteristics to guarantee general&#xD;
+      representativity. Forty-four participants (20 staff, 24 residents) will be randomly included&#xD;
+      per nursing home. (* collection of the Dry Blood Spot is part of a sub-study by Ghent&#xD;
+      University)&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">February 1, 2021</start_date>
+  <completion_date type="Anticipated">March 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">March 31, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change of seroprevalence of anti-SARS-CoV-2 antibodies among nursing home residents and staff in Belgium</measure>
+    <time_frame>&quot;Month 0&quot;, &quot;Month 2&quot;, &quot;Month 4&quot;, &quot;Month 6&quot;, &quot;Month 8&quot;, &quot;Month 10&quot;</time_frame>
+    <description>Change of seroprevalence of anti-SARS-CoV-2 antibodies among Belgian nursing home residents and staff detected in their capillary blood by a point of care test during a period of 10 months.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in SARS-CoV-2 seroconversion among nursing home residents and staff in Belgium</measure>
+    <time_frame>&quot;Month 0&quot;, &quot;Month 2&quot;, &quot;Month 4&quot;, &quot;Month 6&quot;, &quot;Month 8&quot;, &quot;Month 10&quot;</time_frame>
+    <description>Change in SARS-CoV-2 seroconversion among Belgian nursing home residents and staff conducted by detecting specific SARS-CoV-2 IgG/IgM in their capillary blood by a point of care test at each of the study follow-up testing points.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Assess the risk of getting symptomatically SARS-CoV-2 infected between the seropositive and seronegative group at baseline</measure>
+    <time_frame>10 months</time_frame>
+    <description>For all participants, the hazard of new symptomatic SARS-CoV-2 infections between sero-positive and -negative participants at the baseline visit will be estimated and reported as cumulative survival rates after 10 months of follow-up with 95% Confidence Interval (CI). The analysis will account the clustered nature of participants within NH and will be adjusted for the stratification factors province and type of participant (staff vs resident). If a vaccine would become available during the study period, the admission of a vaccine will be added as a time-varying covariate to the analysis.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assess the proportion of deaths within 10 months between sero-positive and -negative participants at baseline visit for NH residents.</measure>
+    <time_frame>10 months</time_frame>
+    <description>For NH residents, the proportion of deaths within 10 months of follow-up between sero-positive and -negative participants at the baseline visit will be assessed. Province, age, gender, care profile, presence of COVID-specific comorbidities at baseline and timevarying covariate COVID-19 vaccine will be considered for model adjustment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assess the seroconversion time in the group of sero-negative participants at baseline visit in relation to observed risk factors such as care dependency scale (for NH residents),type of job assignment and flu vaccination (for staff)</measure>
+    <time_frame>10 months</time_frame>
+    <description>The sero-conversion time in the group of sero-negative participants at the baseline visit will be modelled separately for residents and staff, on the one hand assessing potential differences between care profiles or residence ward (dementia unit or not) for NH residents, and differences between flu vaccination status and type of job assignment for the staff on the other hand. For both types of participants the model will be adjusted for province, age, gender, presence of COVID-specific comorbidities at baseline and time-varying covariate COVID-19 vaccine.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assess the duration of SARS-CoV-2 antigen specific seropositivity among NH residents and staff in Belgium.</measure>
+    <time_frame>10 months</time_frame>
+    <description>The duration of SARS-CoV-2 antigen specific seropositivity among NH residents and staff in Belgium will be modelled by means of interval-censored survival analysis.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assess the time until death within 10 months between sero-positive and -negative participants at baseline visit for NH residents</measure>
+    <time_frame>10 months</time_frame>
+    <description>For NH residents, the time until death between sero-positive and -negative participants at the baseline visit will be assessed within 10 months. Province, age, gender, care profile, presence of COVID-specific comorbidities at baseline and timevarying covariate COVID-19 vaccine will be considered for model adjustment.</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">3036</enrollment>
+  <condition>Covid19</condition>
+  <condition>SARS-CoV-2 Infection</condition>
+  <arm_group>
+    <arm_group_label>Nursing home residents/staff members</arm_group_label>
+    <description>Follow-up of seroprevalence</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Point-of-care rapid anti-SARS-CoV-2 antibody test (Orient Gene Biotech) and Dry Blood Spot collection (Euroimmun)</intervention_name>
+    <description>Bimonthly finger pricks with collection of 1-10 drops of capillary blood for detection of anti-SARS-CoV-2 immune markers</description>
+    <arm_group_label>Nursing home residents/staff members</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Capillary blood (whole blood) samples:&#xD;
+&#xD;
+        -  collection using point-of-care rapid SARS-CoV-2 antibody test&#xD;
+&#xD;
+        -  collection on Dry Blood Spot saver card&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Nursing Home residents and staff members.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  residents and staff from Belgian nursing homes&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  service flat residents&#xD;
+&#xD;
+          -  temporary staff, employed for a period of less then 1 year starting from baseline&#xD;
+             collection&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>An De Sutter, Prof. Dr.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University Ghent</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>stefan Heytens, Dr.</last_name>
+    <phone>+32475395843</phone>
+    <email>stefan.heytens@ugent.be</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Elza Duysburgh, Dr.</last_name>
+    <phone>+ 32 2 642 57 44</phone>
+    <email>Elza.Duysburgh@sciensano.be</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Ghent University</name>
+      <address>
+        <city>Ghent</city>
+        <state>Oost-Vlaanderen</state>
+        <zip>9000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stefan Heytens, Dr.</last_name>
+      <phone>+32 475 39 58 43</phone>
+      <email>Stefan.Heytens@ugent.be</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+  </location_countries>
+  <reference>
+    <citation>Lipsitch M, Swerdlow DL, Finelli L. Defining the Epidemiology of Covid-19 - Studies Needed. N Engl J Med. 2020 Mar 26;382(13):1194-1196. doi: 10.1056/NEJMp2002125. Epub 2020 Feb 19.</citation>
+    <PMID>32074416</PMID>
+  </reference>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>January 25, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 3, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 4, 2021</study_first_posted>
+  <last_update_submitted>February 3, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 3, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 4, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Covid19</keyword>
+  <keyword>SARS-CoV-2 Infection</keyword>
+  <keyword>Seroprevalence</keyword>
+  <keyword>Nursing home</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Antibodies</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Data will be available on request.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_time_frame>At the earliest 3 months after database lock, available for 10 years.</ipd_time_frame>
+    <ipd_access_criteria>Available on request through e-mail correspondence to principal investigator.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

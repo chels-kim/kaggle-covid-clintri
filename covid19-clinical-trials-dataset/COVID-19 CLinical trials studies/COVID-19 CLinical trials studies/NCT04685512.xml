@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="879">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04685512</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20-070</org_study_id>
+    <nct_id>NCT04685512</nct_id>
+  </id_info>
+  <brief_title>Effect of Tenofovir/Emtricitabine in Patients Recently Infected With SARS-COV2 (Covid-19) Discharged Home</brief_title>
+  <acronym>AR0-CORONA</acronym>
+  <official_title>Effect of Tenofovir/Emtricitabine Short Course on Viral Clearance in Patients Recently Infected With SARS-COV2 (Covid-19) Not Requiring Hospitalization: a Phase IIB/III Multicenter Open-label Randomized Controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Caen</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Hospital, Caen</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      COVID-19 pandemic is currently affecting the globe. To date, there is no effective oral&#xD;
+      therapy against SARS-CoV2 infection. The investigators propose to test as a repurposing drug&#xD;
+      combination, a short course of tenofovir disoproxil and emtricitabine (TDF/FTC), as a&#xD;
+      proof-of-concept randomized open-label study to test its viral efficacy against SARS-CoV2.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The SARS-CoV2 pandemic is causing morbidity and mortality. There is no cure. Remdesivir is a&#xD;
+      nucleotide analogue that has demonstrated its efficacy in vitro against SARS-CoV2 and in&#xD;
+      humans (shorten symptoms duration by 2 days without improving survival), but it is used&#xD;
+      parenterally. TDF belongs to the same therapeutic class, represents a promising avenue of&#xD;
+      research. TDF/FTC demonstrated in vivo efficacy against SARS-CoV2 in preclinical animal&#xD;
+      models and its use is associated with reduced risk of SARS-CoV2 infection in 2 large cohorts&#xD;
+      of HIV infected patients.The objective of this work is to evaluate the anti-viral efficacy of&#xD;
+      the TDF/FTC combination in short course in patients infected with SARS-CoV2 on an outpatient&#xD;
+      basis.&#xD;
+&#xD;
+      The investigators propose a multicenter, open-label, phase 2B/3 randomized trial of a 7-day&#xD;
+      treatment with TDF / FTC (2 tablets on Day-1 then 1 tablet / day for 6 days) according to the&#xD;
+      dosage used in pre-exposure prophylaxis for HIV. This study should include 60 outpatients&#xD;
+      (Phase 2B) and 120 additional outpatients (Phase III) who were diagnosed with SARS-CoV2&#xD;
+      positive and with no contraindication to TDF / FTC and without criteria for hospitalization.&#xD;
+      The primary endpoint of the phase 2B will be the SARS-CoV2 antiviral efficacy quantified by&#xD;
+      RT-PCR nasopharyngeal sample Ct increase on Day-4 compared to baseline. The primary endpoint&#xD;
+      of the phase 3 will be the rate of non-contagious PCR on Day-4 from a nasopharyngeal sample.&#xD;
+      Secondary endpoints will be tolerance, symptoms resolution, percentage of hospitalization and&#xD;
+      the rate of non-contagious PCR on Day-7 from a nasopharyngeal sample.&#xD;
+&#xD;
+      The investigators hypothesize that compared to no treatment, treatment with TDF/FTC reduces&#xD;
+      at Day-4:&#xD;
+&#xD;
+        -  SARS-CoV2 viral load corresponding to a 4-point +/-5 increase in Ct (Phase 2B)&#xD;
+&#xD;
+        -  contagious carriage from 80% to 60% (Phase 3).&#xD;
+&#xD;
+      The AR0-CORONA investigators hope, through this study, to be able to validate an anti-viral&#xD;
+      treatment making it possible to reduce the duration of contagiousness and thus contribute to&#xD;
+      attenuating the R0 of recently infected patients carrying SARS-CoV2 who are isolated at home.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 18, 2020</start_date>
+  <completion_date type="Anticipated">April 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 1, 2021</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Phase 2B: 30 treated, 30 untreated - 1 interim analysis planned after inclusion of 30 patients / Phase 3: 90 treated, 90 untreated - 2 interim analyses planned after inclusion of 60 and 120 patients</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+    <masking_description>Biologists in Endpoint Adjudication committee</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Phase 2B: Reduction of SARS-CoV2 viral load assessed by Ct PCR at day-4 adjusted on Ct PCR SARS-CoV2 viral load at baseline (ANCOVA)</measure>
+    <time_frame>Day-4 after the start of study</time_frame>
+    <description>Nasopharyngeal swab performed at baseline and day-4 with RT-PCR for SARS-CoV2</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Phase 3: Rate of non-contagious nasopharyngeal sample for SARS-CoV2 by PCR on Day-4 with Ct &gt; or = 28</measure>
+    <time_frame>Day-4 after the start of study</time_frame>
+    <description>Nasopharyngeal swab performed at day-4 with RT-PCR for SARS-CoV2</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Phase 2B/3: Incidence of Treatment-Emergent Adverse Events [Safety and Tolerability]</measure>
+    <time_frame>From the start of the study to Day-7</time_frame>
+    <description>Number of adverse events according to the CTCAE grade</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 3: Symptoms score</measure>
+    <time_frame>From the start of the study to Day-7</time_frame>
+    <description>Self-reported COVID-19 related symptoms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 3: Proportion of secondary hospitalization</measure>
+    <time_frame>Day-15</time_frame>
+    <description>Assessed by investigators up to day-15</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase 3: Rate of non-contagious nasopharyngeal sample for SARS-CoV2 by PCR on Day-7 with Ct &gt; or = 28</measure>
+    <time_frame>Day-7 after the start of study</time_frame>
+    <description>Nasopharyngeal swab performed at day-7 with RT-PCR for SARS-CoV2</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">180</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>TDF / FTC</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>2 tablets on Day-1 then 1 tablet/day for 6 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>usual care</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Standard of Care</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>tenofovir disoproxil and emtricitabine</intervention_name>
+    <description>Experimental drugs administration of 7-day short course TDF/FTC</description>
+    <arm_group_label>TDF / FTC</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients 18 years and over&#xD;
+&#xD;
+          -  SARS-CoV2 Infection confirmed by PCR&#xD;
+&#xD;
+          -  Patients who do not require immediate hospitalization&#xD;
+&#xD;
+          -  Signed informed consent&#xD;
+&#xD;
+        Non-Inclusion criteria:&#xD;
+&#xD;
+          -  Patients with HIV or Hepatitis B&#xD;
+&#xD;
+          -  Symptoms suggestive of a SARS-CoV2 infection that has been progressing for more than 7&#xD;
+             days&#xD;
+&#xD;
+          -  Asympomatic patients with unknown date of infection or date of infection&gt;7 days&#xD;
+&#xD;
+          -  Chronic HCV infection&#xD;
+&#xD;
+          -  Contraindication to the use of TDF/FTC&#xD;
+&#xD;
+          -  Hypersensitivity to tenofovir, to emtricitabine or to any of the excipients&#xD;
+             (especially lactose)&#xD;
+&#xD;
+          -  Glomerular filtration rate &lt;80mL / min&#xD;
+&#xD;
+          -  Recent (less than 7 days) or concomitant use of NSAIDs or other nephrotoxic drugs&#xD;
+             (antiinfectives, immunosuppressants, allopurinol, lithium&#xD;
+&#xD;
+          -  need for hospitalization for contemporary decompensation of a comorbidity&#xD;
+&#xD;
+          -  need for hospitalization due to SARS-CoV2 infection:&#xD;
+&#xD;
+          -  Capillary oximetry less than 95%&#xD;
+&#xD;
+          -  clinical evaluation by the investigating doctor leading to hospitalization&#xD;
+&#xD;
+          -  Pregnant or breastfeeding women&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        - Diagnosis of pregnancy during treatment&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jean-Jacques Parienti</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University Hospital, Caen</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>François Fournel</last_name>
+    <phone>+33 2 06 54 88</phone>
+    <email>fournel-f@chu-caen.fr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Fabien Chaillot</last_name>
+    <email>chaillot-f@chu-caen.fr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Caen University Hospital</name>
+      <address>
+        <city>Caen</city>
+        <state>Calvados</state>
+        <zip>14000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Cécile Valentin</last_name>
+      <phone>+33 2 31 06 50 43</phone>
+      <email>valentin-c@chu-caen.fr</email>
+    </contact>
+    <contact_backup>
+      <last_name>Sylvie Brucato</last_name>
+      <email>brucato-s@chu-caen.fr</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Renaud Verdon</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Anna Fournier</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Regional Hospital</name>
+      <address>
+        <city>Orléans</city>
+        <zip>45100</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jérôme Guinard</last_name>
+      <phone>+33 2 38 22 95</phone>
+      <email>jerome.guinard@chr-orleans.fr</email>
+    </contact>
+    <investigator>
+      <last_name>Laurent Hocqueloux</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Thierry Prazuck</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <results_reference>
+    <citation>Elfiky AA. Ribavirin, Remdesivir, Sofosbuvir, Galidesivir, and Tenofovir against SARS-CoV-2 RNA dependent RNA polymerase (RdRp): A molecular docking study. Life Sci. 2020 Jul 15;253:117592. doi: 10.1016/j.lfs.2020.117592. Epub 2020 Mar 25. Erratum in: Life Sci. 2020 Oct 1;258:118350.</citation>
+    <PMID>32222463</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Del Amo J, Polo R, Moreno S, Díaz A, Martínez E, Arribas JR, Jarrín I, Hernán MA; The Spanish HIV/COVID-19 Collaboration. Incidence and Severity of COVID-19 in HIV-Positive Persons Receiving Antiretroviral Therapy : A Cohort Study. Ann Intern Med. 2020 Oct 6;173(7):536-541. doi: 10.7326/M20-3689. Epub 2020 Jun 26.</citation>
+    <PMID>32589451</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Chien M, Anderson TK, Jockusch S, Tao C, Li X, Kumar S, Russo JJ, Kirchdoerfer RN, Ju J. Nucleotide Analogues as Inhibitors of SARS-CoV-2 Polymerase, a Key Drug Target for COVID-19. J Proteome Res. 2020 Nov 6;19(11):4690-4697. doi: 10.1021/acs.jproteome.0c00392. Epub 2020 Aug 5.</citation>
+    <PMID>32692185</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Boulle A, Davies MA, Hussey H, Ismail M, Morden E, Vundle Z, Zweigenthal V, Mahomed H, Paleker M, Pienaar D, Tembo Y, Lawrence C, Isaacs W, Mathema H, Allen D, Allie T, Bam JL, Buddiga K, Dane P, Heekes A, Matlapeng B, Mutemaringa T, Muzarabani L, Phelanyane F, Pienaar R, Rode C, Smith M, Tiffin N, Zinyakatira N, Cragg C, Marais F, Mudaly V, Voget J, Davids J, Roodt F, van Zyl Smit N, Vermeulen A, Adams K, Audley G, Bateman K, Beckwith P, Bernon M, Blom D, Boloko L, Botha J, Boutall A, Burmeister S, Cairncross L, Calligaro G, Coccia C, Corin C, Daroowala R, Dave JA, De Bruyn E, De Villiers M, Deetlefs M, Dlamini S, Du Toit T, Endres W, Europa T, Fieggan G, Figaji A, Frankenfeld P, Gatley E, Gina P, Govender E, Grobler R, Gule MV, Hanekom C, Held M, Heynes A, Hlatswayo S, Hodkinson B, Holtzhausen J, Hoosain S, Jacobs A, Kahn M, Kahn T, Khamajeet A, Khan J, Khan R, Khwitshana A, Knight L, Kooverjee S, Krogscheepers R, Jacque Kruger J, Kuhn S, Laubscher K, Lazarus J, Le Roux J, Lee Jones S, Levin D, Maartens G, Majola T, Manganyi R, Marais D, Marais S, Maritz F, Maughan D, Mazondwa S, Mbanga L, Mbatani N, Mbena B, Meintjes G, Mendelson M, Möller E, Moore A, Ndebele B, Nortje M, Ntusi N, Nyengane F, Ofoegbu C, Papavarnavas N, Peter J, Pickard H, Pluke K, Raubenheimer PJ, Robertson G, Rozmiarek J, Sayed A, Scriba M, Sekhukhune H, Singh P, Smith E, Soldati V, Stek C, van den Berg R, van der Merwe LR, Venter P, Vermooten B, Viljoen G, Viranna S, Vogel J, Vundla N, Wasserman S, Zitha E, Lomas-Marais V, Lombard A, Stuve K, Viljoen W, Basson V, Le Roux S, Linden-Mars E, Victor L, Wates M, Zwanepoel E, Ebrahim N, Lahri S, Mnguni A, Crede T, de Man M, Evans K, Hendrikse C, Naude J, Parak M, Szymanski P, Van Koningsbruggen C, Abrahams R, Allwood B, Botha C, Henndrik Botha M, Broadhurst A, Claasen D, Daniel C, Dawood R, du Preez M, Du Toit N, Erasmus K, Koegelenberg CFN, Gabriel S, Hugo S, Jardine T, Johannes C, Karamchand S, Lalla U, Langenegger E, Louw E, Mashigo B, Mhlana N, Mnqwazi C, Moodley A, Moodley D, Moolla S, Mowlana A, Nortje A, Olivier E, Parker A, Paulsen C, Prozesky H, Rood J, Sabela T, Schrueder N, Sithole N, Sithole S, Taljaard JJ, Titus G, Van Der Merwe T, van Schalkwyk M, Vazi L, Viljoen AJ, Yazied Chothia M, Naidoo V, Alan Wallis L, Abbass M, Arendse J, Armien R, Bailey R, Bello M, Carelse R, Forgus S, Kalawe N, Kariem S, Kotze M, Lucas J, McClaughlin J, Murie K, Najjaar L, Petersen L, Porter J, Shaw M, Stapar D, Williams M, Aldum L, Berkowitz N, Girran R, Lee K, Naidoo L, Neumuller C, Anderson K, Begg K, Boerlage L, Cornell M, de Waal R, Dudley L, English R, Euvrard J, Groenewald P, Jacob N, Jaspan H, Kalk E, Levitt N, Malaba T, Nyakato P, Patten G, Schneider H, Shung King M, Tsondai P, Van Duuren J, van Schaik N, Blumberg L, Cohen C, Govender N, Jassat W, Kufa T, McCarthy K, Morris L, Hsiao NY, Marais R, Ambler J, Ngwenya O, Osei-Yeboah R, Johnson L, Kassanjee R, Tamuhla T. Risk factors for COVID-19 death in a population cohort study from the Western Cape Province, South Africa. Clin Infect Dis. 2020 Aug 29. pii: ciaa1198. doi: 10.1093/cid/ciaa1198. [Epub ahead of print]</citation>
+    <PMID>32860699</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Park SJ, Yu KM, Kim YI, Kim SM, Kim EH, Kim SG, Kim EJ, Casel MAB, Rollon R, Jang SG, Lee MH, Chang JH, Song MS, Jeong HW, Choi Y, Chen W, Shin WJ, Jung JU, Choi YK. Antiviral Efficacies of FDA-Approved Drugs against SARS-CoV-2 Infection in Ferrets. mBio. 2020 May 22;11(3). pii: e01114-20. doi: 10.1128/mBio.01114-20.</citation>
+    <PMID>32444382</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Clososki GC, Soldi RA, da Silva RM et al. Tenofovir Disoproxil Fumarate: New Chemical Developments and Encouraging in vitro Biological Results for SARS-CoV-2. 2020;31 (8):1552-1556</citation>
+  </results_reference>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>November 16, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 24, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 28, 2020</study_first_posted>
+  <last_update_submitted>December 24, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 24, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 28, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>TDF/FTC</keyword>
+  <keyword>ambulatory patients</keyword>
+  <keyword>Replication rate of the virus</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Tenofovir</mesh_term>
+    <mesh_term>Emtricitabine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

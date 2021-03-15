@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="399">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04545047</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2030</org_study_id>
+    <nct_id>NCT04545047</nct_id>
+  </id_info>
+  <brief_title>Observational Study of Convalescent Plasma for Treatment of Veterans With COVID-19</brief_title>
+  <official_title>CSP #2030 - Observational Study of Convalescent Plasma for Treatment of Veterans With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>VA Office of Research and Development</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Mayo Clinic</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>VA Office of Research and Development</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to assess whether convalescent plasma therapy is associated with&#xD;
+      reduced 30-day all-cause mortality in a population of Veteran inpatients with non-severe&#xD;
+      coronavirus disease 2019 (COVID-19).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The convalescent plasma (CP) of individuals who have recovered from COVID-19 may help reduce&#xD;
+      symptoms and mortality when given to ill patients infected with severe acute respiratory&#xD;
+      syndrome coronavirus 2 (SARS-CoV-2). Clinical trials are needed to provide definitive&#xD;
+      evidence of the benefits and harms of CP in the treatment of COVID-19. While clinical trials&#xD;
+      are underway, observational research plays a critical role in providing preliminary&#xD;
+      scientific evidence to guide clinical practice.&#xD;
+&#xD;
+      This observational study aims to estimate the association between CP therapy and mortality&#xD;
+      after 30 days in a sample of SARS-CoV-2-positive patients with non-severe illness. Patients&#xD;
+      include those hospitalized at a facility within the Veterans Health Administration (VHA) of&#xD;
+      the Department of Veterans Affairs (VA), the largest integrated healthcare system in the&#xD;
+      United States. Using VA electronic health record data, the study is designed to emulate a&#xD;
+      target trial of convalescent plasma transfusion and mortality. The primary exposure of&#xD;
+      interest is the use or non-use of COVID-19 convalescent plasma, and the primary outcome is&#xD;
+      30-day all-cause mortality.&#xD;
+&#xD;
+      A nested trial design will be used, in which patients will be followed from each day in which&#xD;
+      eligibility criteria are met (while hospitalized and after date of first positive SARS-CoV-2&#xD;
+      test) for 30 days. The association between CP therapy and mortality will be assessed using&#xD;
+      pooled logistic models to estimate 30-day cumulative incidence curves, risk differences, and&#xD;
+      hazard ratios. Inverse probability weighting derived from propensity scores will be employed&#xD;
+      to minimize confounding by indication and other biases.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">May 1, 2020</start_date>
+  <completion_date type="Anticipated">June 30, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>All-cause mortality</measure>
+    <time_frame>30 days</time_frame>
+    <description>Death from trial start date to 30 days recorded in the electronic health record.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>All-cause mortality</measure>
+    <time_frame>1 year</time_frame>
+    <description>Long-term outcomes will include death at one year following the index date.</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">10000</enrollment>
+  <condition>Coronavirus Disease 2019 (COVID-19)</condition>
+  <arm_group>
+    <arm_group_label>Exposed</arm_group_label>
+    <description>Veterans who received COVID-19 convalescent plasma therapy within 30 days of first SARS-CoV-2 positive test and associated hospital admission</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Unexposed</arm_group_label>
+    <description>Veterans who did not receive COVID-19 convalescent plasma therapy within 30 days of first SARS-CoV-2 positive test and associated admission</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>COVID-19 convalescent plasma</intervention_name>
+    <description>Convalescent plasma collected from individuals who have recovered from COVID-19</description>
+    <arm_group_label>Exposed</arm_group_label>
+  </intervention>
+  <biospec_retention>None Retained</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      No biospecimens will be collected&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Veterans with non-severe COVID-19 who tested positive for SARS-CoV-2 infection during&#xD;
+        admission at a VA medical center or who were admitted as inpatients to a VA medical center&#xD;
+        within 30 days after a positive test for SARS-CoV-2 infection&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  US Veterans aged 21-80 years old&#xD;
+&#xD;
+          -  Hospitalized at VA Medical Center with a SARS-CoV-2 positive test within 7 days before&#xD;
+             or after hospital admission&#xD;
+&#xD;
+          -  Minimum oxygen saturation (measured within the past day) &gt;=90%&#xD;
+&#xD;
+          -  Currently hospitalized at a VA medical center where CP has been administered to at&#xD;
+             least 2 patients&#xD;
+&#xD;
+          -  Admitted during the time when the VA medical center was administering CP therapy&#xD;
+&#xD;
+          -  Vitals (pulse, respiration, temperature, systolic blood pressure) measured within past&#xD;
+             2 days&#xD;
+&#xD;
+          -  Acute labs (Hemoglobin, platelet, white blood cells) measured within the past 2 days&#xD;
+&#xD;
+          -  Albumin, ALT, creatinine labs measured within the past 30 days&#xD;
+&#xD;
+          -  Weight measurement recorded in the past 2 years&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Prior intubation, ventilation, high flow oxygen, ECMO, dialysis, or vasopressors&#xD;
+             during current hospitalization&#xD;
+&#xD;
+          -  Record of prior treatment with CP&#xD;
+&#xD;
+          -  Received long-term care in a domiciliary or nursing home in the past 90 days&#xD;
+&#xD;
+          -  First CP recipient at a site&#xD;
+&#xD;
+          -  Less than 30 days of follow-up&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Nicholas L. Smith, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>VA Puget Sound Health Care System Seattle Division, Seattle, WA</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Michael J Gaziano, MD MPH</last_name>
+    <role>Study Chair</role>
+    <affiliation>VA Boston Healthcare System Jamaica Plain Campus, Jamaica Plain, MA</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>VA Boston Healthcare System Jamaica Plain Campus, Jamaica Plain, MA</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02130</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>VA Puget Sound Health Care System Seattle Division, Seattle, WA</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98108</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>September 9, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 9, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 10, 2020</study_first_posted>
+  <last_update_submitted>January 15, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 15, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 20, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Antibodies, viral/blood</keyword>
+  <keyword>adult</keyword>
+  <keyword>Human</keyword>
+  <keyword>Retrospective Studies</keyword>
+  <keyword>Immunization, Passive</keyword>
+  <keyword>Pandemics</keyword>
+  <keyword>Antibodies, Neutralizing</keyword>
+  <keyword>COVID-19 serotherapy</keyword>
+  <keyword>Severe acute respiratory syndrome coronavirus 2</keyword>
+  <keyword>Coronavirus Infections / therapy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Participant-level study data will be made available to VA investigators for secondary analyses.</ipd_description>
+    <ipd_time_frame>Following publication of the primary manuscript and completion of study objectives</ipd_time_frame>
+    <ipd_access_criteria>Data access will contingent upon approval by a review committee and appropriate oversight bodies, such as an IRB and VA R&amp;D Committee. Requestors may be required to sign a Cooperative Studies Program data use agreement.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

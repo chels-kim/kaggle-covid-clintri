@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2914">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04579562</url>
+  </required_header>
+  <id_info>
+    <org_study_id>UHDB/2020/075</org_study_id>
+    <nct_id>NCT04579562</nct_id>
+  </id_info>
+  <brief_title>Regional COVID Epidemiology in England (RECEDE)</brief_title>
+  <acronym>RECEDE</acronym>
+  <official_title>Regional Epidemiology of COVID-19 and Acute Kidney Injury in England</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospitals of Derby and Burton NHS Foundation Trust</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Hospitals of Derby and Burton NHS Foundation Trust</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The COVID-19 pandemic has exposed the unwanted variation in outcomes as evidence by Public&#xD;
+      Health England's report on increased mortality in regions of the country. For example, UHDB,&#xD;
+      in East Midlands, has reported a high crude mortality as compared to other Trusts in the&#xD;
+      region.8 There may also have been variation in the incidence of complications of COVID-19 in&#xD;
+      the form of AKI, which may have influenced mortality. Variation in outcomes may be because of&#xD;
+      various factors - differing population demographics, underlying health conditions in the&#xD;
+      population, deprivation, physician preference and knowledge and ethnic diversity. Unwanted&#xD;
+      variation is care that is not consistent with a patient's preference or related to [their]&#xD;
+      underlying illness. It is important to understand the reason for unwanted variation in&#xD;
+      outcomes associated with COVID-19 to minimise patient harm and reduce morbidity and&#xD;
+      mortality.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 1, 2020</start_date>
+  <completion_date type="Anticipated">October 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">March 31, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>All-cause mortality</measure>
+    <time_frame>30 days</time_frame>
+    <description>In-hospital all cause mortality in patients with acute kidney injury and COVID-19</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>acute kidney injury</measure>
+    <time_frame>30 days</time_frame>
+    <description>Incidence of acute kidney injury in patients with COVID-19</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Mechanical ventilation</measure>
+    <time_frame>30 days</time_frame>
+    <description>Need for mechanical ventilation in patients with COVID-19</description>
+  </secondary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">5000</enrollment>
+  <condition>Acute Kidney Injury</condition>
+  <arm_group>
+    <arm_group_label>COVID-19 positive AKI</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>COVID-19 positive no AKI</arm_group_label>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>COVID negative AKI</arm_group_label>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>No intervention</intervention_name>
+    <description>This is observational, non-interventional study</description>
+    <arm_group_label>COVID negative AKI</arm_group_label>
+    <arm_group_label>COVID-19 positive AKI</arm_group_label>
+    <arm_group_label>COVID-19 positive no AKI</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        We will use analysis of all admitted patients in the past in England between 1st March 2020&#xD;
+        and 30th June 2020 from the Hospital Episode Statistics (HES), a data warehouse containing&#xD;
+        details of all admissions at NHS hospitals in England. This design will help to analyse&#xD;
+        large number of AKI patients in short time-span so as to cascade the learning in timely&#xD;
+        fashion. HES collects a detailed record for each admitted patient care delivered in&#xD;
+        England, either by NHS hospitals. In each patient record, there are specific codes for&#xD;
+        additional diagnosis, or operations. We will extract all patients with diagnosis of&#xD;
+        COVID-19 by ICD-10 code of U07.1 and AKI as identified by ICD-10 code of N17 in any of the&#xD;
+        20 diagnostic codes during the study period.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        This study will have two work packages (WP). Work Package 1 (WP1): Regional epidemiology of&#xD;
+        COVID-19 in England All patients who are admitted to hospital with COVID-19 infection&#xD;
+        between 1st March 2020 and 30th June 2020 and who meet following criteria will be included&#xD;
+&#xD;
+          1. Diagnostic code for COVID-19 (U07.1) in any of the 20 diagnoses codes&#xD;
+&#xD;
+          2. Adult patients greater or equal to 18 years of age.&#xD;
+&#xD;
+        Work Package 2 (WP2): Epidemiology of COVID-19 associated AKI in England All patients who&#xD;
+        are admitted to hospital with acute kidney injury (AKI) between 1st March 2020 and 30th&#xD;
+        June 2020 and who meet following criteria will be included&#xD;
+&#xD;
+          1. Diagnostic code for AKI (N17) in any of the 20 diagnoses codes&#xD;
+&#xD;
+          2. Adult patients greater or equal to 18 years of age.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        WP1:&#xD;
+&#xD;
+        The following patients will be excluded from the study&#xD;
+&#xD;
+          1. Patients not admitted to the hospital&#xD;
+&#xD;
+          2. Paediatric patients &lt; 18 years of age&#xD;
+&#xD;
+        WP2:&#xD;
+&#xD;
+        The following patients will be excluded from the study&#xD;
+&#xD;
+          1. Patients not admitted to the hospital&#xD;
+&#xD;
+          2. Paediatric patients &lt; 18 years of age&#xD;
+&#xD;
+          3. Patients on chronic maintenance haemodialysis or peritoneal dialysis&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>110 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Nitin V Kolhe, DM</last_name>
+    <phone>01332788266</phone>
+    <email>nitin.kolhe@nhs.net</email>
+  </overall_contact>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>October 6, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 6, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 8, 2020</study_first_posted>
+  <last_update_submitted>October 6, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 6, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 8, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Acute Kidney Injury</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>6 months</ipd_time_frame>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4842">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04744272</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MMH-R04</org_study_id>
+    <nct_id>NCT04744272</nct_id>
+  </id_info>
+  <brief_title>Exploring the Efficacy of myAsthma in Secondary Care</brief_title>
+  <acronym>STEERING</acronym>
+  <official_title>A Randomised Controlled Feasibility Study to Explore the Efficacy of Digital Self-management Within Secondary Care in an Asthmatic Population</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>my mhealth Ltd</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Bradford Teaching Hospitals NHS Foundation Trust</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>my mhealth Ltd</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Asthma is a common lung condition that causes long-term breathing problems. There is no cure&#xD;
+      and if uncontrolled can be life threatening. Many asthma deaths are preventable if managed&#xD;
+      using a personalised treatment plan explaining what to do when unwell, how to manage symptoms&#xD;
+      and correct inhaler use. Those with controlled asthma are less likely to be admitted to&#xD;
+      hospital and more likely to have an improved quality of life.&#xD;
+&#xD;
+      COVID19 has emphasised the need to redesign healthcare delivery to reduce avoidable exposure.&#xD;
+      Clinical services are turning to remote care including online digital health apps. Digital&#xD;
+      health offers mechanisms to promote effective asthma care, offer remote individual treatment&#xD;
+      plans, monitor asthma control in 'real time' and provides information to prevent asthma&#xD;
+      attacks. Regulatory health guidelines recognise that technology has the potential to improve&#xD;
+      asthma care and could lead to reductions in NHS service use and improve symptoms.&#xD;
+&#xD;
+      This study aims to evaluate the delivery of an asthma self-management app 'myAsthma' in a&#xD;
+      secondary care asthma service. Patients will use the app to input and track their symptoms&#xD;
+      and report their medication usage. The app provides information on environmental triggers&#xD;
+      such as air quality to better prepare asthma sufferers in preventing an asthma attack. It&#xD;
+      offers educational videos to improve understanding of asthma, including online training in&#xD;
+      inhaler technique.&#xD;
+&#xD;
+      The goals are to increase adherence to and correct use of medication, help patients&#xD;
+      self-manage dynamically to reduce their risk of an asthma attack and equip healthcare&#xD;
+      professionals with the data to identify those people at higher risk of an attack.&#xD;
+&#xD;
+      This is an unblinded randomised controlled trial with two arms: standard care (control) and&#xD;
+      myAsthma with standard care (intervention). Asthma control will be compared between the&#xD;
+      groups. It is a single-centre study which will take place in Bradford Teaching Hospital. A&#xD;
+      minimum of 60 participants will be recruited into the study and randomised on a ratio of 1:1&#xD;
+      - 30 in the control arm and 30 in the intervention arm.&#xD;
+&#xD;
+      Over 6 months outcomes will be measured using a combination of questionnaires and Asthma&#xD;
+      Control Test Scores (measure of symptom control). The main outcome of this study is to&#xD;
+      explore the efficacy of this new model of service delivery, whether it can provide an&#xD;
+      improvement in asthma control test scores, and will lead to a fully powered randomised&#xD;
+      controlled trial.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Asthma is a chronic highly prevalent condition, which results from inflammation and&#xD;
+      hyper-responsiveness of the airways resulting in variable airway limitation and symptoms of&#xD;
+      wheeze, cough, breathlessness and chest tightness. There is no cure for asthma, but the use&#xD;
+      of simple inhaler treatments can keep the symptoms under control. However, if uncontrolled,&#xD;
+      asthma can be life-threatening. Most deaths related to asthma are preventable if the&#xD;
+      condition is managed using the right treatment plan and inhaler technique.&#xD;
+&#xD;
+      In the UK, an estimated 4.3 million adults (1 in 12) receive treatment for asthma costing the&#xD;
+      NHS around £3 billion annually in direct and indirect care. Asthma accounts for approximately&#xD;
+      60,000 hospital admissions per year. The NRAD states that a high proportion of patient&#xD;
+      morbidity is directly related to poor management. The annual 2016 asthma survey reported that&#xD;
+      82% of asthma suffers said their asthma was poorly controlled. Those with uncontrolled asthma&#xD;
+      were almost twice as likely to be admitted to hospital. In the UK seven out of ten people&#xD;
+      with asthma received care that failed to meet basic quality standards with 30-70% reported as&#xD;
+      not taking their asthma medication as prescribed. Additionally, a significant proportion of&#xD;
+      patients do not use their inhalers as prescribed and demonstrate poor inhaler technique.&#xD;
+&#xD;
+      Since the arrival of COVID-19, it has never been more important for asthma suffers to ensure&#xD;
+      they are following their prescribed treatment plan. COVID-19 is a highly infectious virus&#xD;
+      that primarily affects the respiratory system, meaning those with asthma are at greater risk&#xD;
+      of severe complications. Maintaining consistent infection prevention practices and social&#xD;
+      distancing are key to minimising the risk of contracting the virus. However, social&#xD;
+      distancing and required 'lockdown' has impacted on routine clinic appointments, highlighting&#xD;
+      a lack of an alternative remote self-management system to support patients during this&#xD;
+      pandemic.&#xD;
+&#xD;
+      Systematic reviews have shown that despite the heterogenous interventions, technology enabled&#xD;
+      healthcare can improve process outcomes such as patient knowledge, self-management skills,&#xD;
+      improvement in inhaler technique and increased use of preventer medication. However, to date&#xD;
+      studies have shown an inconsistent effect on clinical outcomes such as symptoms, lung&#xD;
+      function, SABA use and quality of life. The use of technology enabled healthcare in asthma&#xD;
+      care has not identified significant harms or instances in which it was less effective than&#xD;
+      conventional care and results were encouraging enough to suggest further analysis of digital&#xD;
+      models of care.&#xD;
+&#xD;
+      Prior to COVID-19, the NHS model of care included a once annual asthma review. This has&#xD;
+      raised concerns that the full picture of asthma control may not be captured and is generally&#xD;
+      limited to the period around that review which is a fraction of the time people are living&#xD;
+      with asthma. Healthcare professionals aim to deliver best care and promote good asthma&#xD;
+      self-management, but this can be complex and time-consuming and so often not possible in the&#xD;
+      given time for primary care appointments, leading to adverse outcomes and variations in care.&#xD;
+&#xD;
+      Opportunities to address variations in care were identified in the NRAD. These included&#xD;
+      improving risk stratification to distinguish between those with asthma requiring minimal&#xD;
+      support through an annual review, and those who require closer monitoring throughout the&#xD;
+      year. Addressing safer prescribing to highlight those who have been prescribed excessive&#xD;
+      quantities of SABA inhalers, improving systems to arrange follow up, raising the quality of&#xD;
+      medical records and enabling systems to support asthma self-management.&#xD;
+&#xD;
+      In 2015, Asthma UK conducted a large survey to explore both asthma patients and healthcare&#xD;
+      professionals' views on mobile health (mHealth) requirements. They found that two-thirds of&#xD;
+      adult asthma sufferers had a smartphone suggesting that with the increasing presence of&#xD;
+      technology in homes, remote monitoring is becoming an alternative health service delivery&#xD;
+      option. The reported showed that almost three-quarters of patients would value an mHealth&#xD;
+      device to support asthma monitoring, and almost half would consider a system for use as part&#xD;
+      of an asthma action plan, to offer advice on medication and when to seek medical attention.&#xD;
+      Additionally, three-quarters of healthcare professionals stated an mHealth system which&#xD;
+      monitored asthma symptoms and provide asthma action plans would be beneficial.&#xD;
+&#xD;
+      Digital healthcare interventions are now more important than ever. They are able to support&#xD;
+      healthcare services to remotely deliver patient-centered care, facilitate timely access to&#xD;
+      health advice and medications, promote self-monitoring and medication compliance, and educate&#xD;
+      patients on trigger avoidance.&#xD;
+&#xD;
+      Evidence has shown that self-managed education, incorporating personalised asthma action&#xD;
+      plans improves health outcomes for people with asthma and reduces the use of healthcare&#xD;
+      resources particularly emergency department visits and hospital admissions. Furthermore, it&#xD;
+      can improve markers of asthma control, including reduced symptoms and has a positive effect&#xD;
+      on quality of life.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 2021</start_date>
+  <completion_date type="Anticipated">February 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change in Asthma Control Test (ACT) scores</measure>
+    <time_frame>ACT scores will be measured at months 0, 2, 4 and 6 to assess any change at each timepoint.</time_frame>
+    <description>A validated questionnaire for identifying poorly controlled asthma in adults. The ACT assesses the frequency of shortness of breath and general asthma symptoms, use of rescue medications, the effect of asthma on daily functioning, and overall self-assessment of asthma control. The scores range from 5 (poor control) to 25 (complete control), with higher scores reflecting greater asthma control. An ACT score &gt;19 indicates well-controlled asthma.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Assessment of Inhaler Technique using the UK Inhaler Group (UKIG) Standards and Competencies - 7 Steps</measure>
+    <time_frame>Measured at months 0 and 6 to observe an improvement. The 7 competencies include preparing the device, loading the dose, breathing pre inhalation, mouth positioning over inhaler, inhalation, holding breath, and repeating this if necessary.</time_frame>
+    <description>Demonstrable improvement in inhaler technique from baseline to study completion using the UK Inhaler Group 7 competencies.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Exacerbations</measure>
+    <time_frame>Recorded at months 2, 4 and 6</time_frame>
+    <description>Incidence of acute exacerbations, oral corticosteroid therapy and hospital admissions from baseline to study completion.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in EuroQol 5D-5L scores</measure>
+    <time_frame>Measured at months 0 and 6</time_frame>
+    <description>Mean change in Quality of Life Ratings measured using EuroQol 5D-5L from baseline to study completion. The EQ-5D 5L measures health-related quality of life in adults. It is a standardised 5-dimensional instrument used to measure health outcomes. It comprises five dimensions: mobility, self-care, usual activities, pain/discomfort and anxiety/depression. Each dimension has 5 levels: no problems, slight problems, moderate problems, severe problems, and extreme problems.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>myAsthma Patient Feedback (Intervention Arm)</measure>
+    <time_frame>Measured at month 6</time_frame>
+    <description>The my mhealth feedback questionnaire is based on the NHS Friends and Family Test (FFT) guidelines. This is an important feedback tool that supports the fundamental principle that people who use health services should have the opportunity to provide feedback on their experience. This is a short questionnaire consisting of multiple choice and semi structured questions.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Asthma</condition>
+  <arm_group>
+    <arm_group_label>Intervention</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants randomised to the intervention arm will be provided with access to the digital web-based application (app) myAsthma.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Participants randomised to the control arm will continue with standard care processes</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>myAsthma</intervention_name>
+    <description>myAsthma is an online digital self-management application to support asthma patients by offering education, inhaler technique, pulmonary rehabilitation, symptoms and medication usage tracking remotely.</description>
+    <arm_group_label>Intervention</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Adult patients over 18 years of age and able to give written informed consent&#xD;
+&#xD;
+          -  A clinical diagnosis of Asthma on regular inhaled medication&#xD;
+&#xD;
+          -  Any of the following measures of asthma control:&#xD;
+&#xD;
+               -  Oral steroid use in the last 6 months&#xD;
+&#xD;
+               -  ACT score &lt; 19&#xD;
+&#xD;
+               -  Use of 6 or more short acting beta-agonist inhalers in the last 6 months&#xD;
+&#xD;
+          -  Frequent symptoms and/or:&#xD;
+&#xD;
+               -  ED or hospital admission for asthma in the last 6 months&#xD;
+&#xD;
+               -  Patients on maintenance steroid therapy&#xD;
+&#xD;
+               -  Patients on Biologics therapy&#xD;
+&#xD;
+          -  Access to the internet at home, use of mobile technology and the ability to operate a&#xD;
+             web platform in English&#xD;
+&#xD;
+          -  Consent to be contacted by telephone, text message and/or email&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Asthma exacerbation in the past 2 weeks&#xD;
+&#xD;
+          -  Pregnant and/or breast feeding&#xD;
+&#xD;
+          -  Patients who have other medical conditions, including but not limited to respiratory&#xD;
+             immunological or cardiac disease other than asthma deemed by the investigators as&#xD;
+             significant&#xD;
+&#xD;
+          -  Diagnosis of Occupational Asthma&#xD;
+&#xD;
+          -  Patients who are unable to read or use an internet-enabled device&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Tom Wilkinson</last_name>
+    <role>Study Director</role>
+    <affiliation>my mhealth Ltd</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Alison Blythin</last_name>
+    <phone>01202 299 583</phone>
+    <email>alison.blythin@mymhealth.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Tom MA Wilkinson, Prof</last_name>
+    <phone>01202299583</phone>
+    <email>tom.wilkinson@mymhealth.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Bradford Teaching Hospitals NHS Foundation Trust, Bradford Institute for Health Research</name>
+      <address>
+        <city>Bradford</city>
+        <state>Yorkshire</state>
+        <zip>BH1 1JU</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Dinesh Saralaya, Prof</last_name>
+      <phone>01274383383</phone>
+      <email>Dinesh.Saralaya@bthft.nhs.uk</email>
+    </contact>
+    <contact_backup>
+      <last_name>Akhil Sawant, Dr</last_name>
+      <phone>01274383383</phone>
+      <email>Akhil.Sawant2@bthft.nhs.uk</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Akhil Sawant, Dr</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <reference>
+    <citation>Levy ML. National Review of Asthma Deaths (NRAD). Br J Gen Pract. 2014 Nov;64(628):564. doi: 10.3399/bjgp14X682237.</citation>
+    <PMID>25348975</PMID>
+  </reference>
+  <reference>
+    <citation>&quot;Global strategy for asthma management and prevention: GINA executive summary.&quot; E.D. Bateman, S.S. Hurd, P.J. Barnes, J. Bousquet, J.M. Drazen, J.M. FitzGerald, P. Gibson, K. Ohta, P. O'Byrne, S.E. Pedersen, E. Pizzichini, S.D. Sullivan, S.E. Wenzel and H.J. Zar. Eur Respir J 2008; 31: 143-178. Eur Respir J. 2018 Jan 31;51(2). pii: 0751387. doi: 10.1183/13993003.51387-2007. Print 2018 Feb.</citation>
+    <PMID>29386342</PMID>
+  </reference>
+  <reference>
+    <citation>Asthma UK. Annual Asthma Survey 2019</citation>
+  </reference>
+  <reference>
+    <citation>Davis, K., Sissons B. Asthma and COVID-19: What to know. Medical News Today. 2020</citation>
+  </reference>
+  <reference>
+    <citation>Merchant R, Szefler SJ, Bender BG, Tuffli M, Barrett MA, Gondalia R, Kaye L, Van Sickle D, Stempel DA. Impact of a digital health intervention on asthma resource utilization. World Allergy Organ J. 2018 Dec 3;11(1):28. doi: 10.1186/s40413-018-0209-0. eCollection 2018.</citation>
+    <PMID>30524644</PMID>
+  </reference>
+  <reference>
+    <citation>British Thoracic Society. Asthma guidelines 2016. British Thoracic Society (BTS). 2016</citation>
+  </reference>
+  <reference>
+    <citation>Mukherjee M, Stoddart A, Gupta RP, Nwaru BI, Farr A, Heaven M, Fitzsimmons D, Bandyopadhyay A, Aftab C, Simpson CR, Lyons RA, Fischbacher C, Dibben C, Shields MD, Phillips CJ, Strachan DP, Davies GA, McKinstry B, Sheikh A. The epidemiology, healthcare and societal burden and costs of asthma in the UK and its member nations: analyses of standalone and linked national databases. BMC Med. 2016 Aug 29;14(1):113. doi: 10.1186/s12916-016-0657-8.</citation>
+    <PMID>27568881</PMID>
+  </reference>
+  <reference>
+    <citation>Trueman D, Woodcock F, Hancock E. Estimating the economic burden of respiratory illness in the UK. Br Lung Found 2014</citation>
+  </reference>
+  <reference>
+    <citation>Asthma UK and British Lung Foundation Partnership. Asthma facts and statistics ]. Asthma UK. 2020</citation>
+  </reference>
+  <reference>
+    <citation>Schultz K, Seidl H, Jelusic D, Wagner R, Wittmann M, Faller H, Nowak D, Schuler M. Effectiveness of pulmonary rehabilitation for patients with asthma: study protocol of a randomized controlled trial (EPRA). BMC Pulm Med. 2017 Mar 9;17(1):49. doi: 10.1186/s12890-017-0389-3.</citation>
+    <PMID>28274210</PMID>
+  </reference>
+  <reference>
+    <citation>British Medical Association. The hidden impact of COVID-19 on patient care in the NHS in England 2020</citation>
+  </reference>
+  <reference>
+    <citation>Bussey-Smith KL, Rossen RD. A systematic review of randomized control trials evaluating the effectiveness of interactive computerized asthma patient education programs. Ann Allergy Asthma Immunol. 2007 Jun;98(6):507-16; quiz 516, 566. Review.</citation>
+    <PMID>17601262</PMID>
+  </reference>
+  <reference>
+    <citation>Coffman JM, Cabana MD, Yelin EH. Do school-based asthma education programs improve self-management and health outcomes? Pediatrics. 2009 Aug;124(2):729-42. doi: 10.1542/peds.2008-2085. Epub 2009 Jul 27. Review.</citation>
+    <PMID>19651589</PMID>
+  </reference>
+  <reference>
+    <citation>Morrison D, Wyke S, Agur K, Cameron EJ, Docking RI, Mackenzie AM, McConnachie A, Raghuvir V, Thomson NC, Mair FS. Digital asthma self-management interventions: a systematic review. J Med Internet Res. 2014 Feb 18;16(2):e51. doi: 10.2196/jmir.2814. Review.</citation>
+    <PMID>24550161</PMID>
+  </reference>
+  <reference>
+    <citation>Hieftje K, Edelman EJ, Camenga DR, Fiellin LE. Electronic media-based health interventions promoting behavior change in youth: a systematic review. JAMA Pediatr. 2013 Jun;167(6):574-80. doi: 10.1001/jamapediatrics.2013.1095. Review.</citation>
+    <PMID>23568703</PMID>
+  </reference>
+  <reference>
+    <citation>Bunting BA, Cranor CW. The Asheville Project: long-term clinical, humanistic, and economic outcomes of a community-based medication therapy management program for asthma. J Am Pharm Assoc (2003). 2006 Mar-Apr;46(2):133-47.</citation>
+    <PMID>16602223</PMID>
+  </reference>
+  <reference>
+    <citation>DiBello K, Boyar K, Abrenica S WP. The effectiveness of text messaging programs on adherence to treatment regimens among adults aged 18 to 45 years diagnosed with asthma: a systematic review. JBI Database Syst Rev Implement Reports. 2014;12(1):485-532.</citation>
+  </reference>
+  <reference>
+    <citation>de Jongh T, Gurol-Urganci I, Vodopivec-Jamsek V, Car J, Atun R. Mobile phone messaging for facilitating self-management of long-term illnesses. Cochrane Database Syst Rev. 2012 Dec 12;12:CD007459. doi: 10.1002/14651858.CD007459.pub2. Review.</citation>
+    <PMID>23235644</PMID>
+  </reference>
+  <reference>
+    <citation>Marcano Belisario JS, Huckvale K, Greenfield G, Car J, Gunn LH. Smartphone and tablet self management apps for asthma. Cochrane Database Syst Rev. 2013 Nov 27;(11):CD010013. doi: 10.1002/14651858.CD010013.pub2. Review.</citation>
+    <PMID>24282112</PMID>
+  </reference>
+  <reference>
+    <citation>Black AD, Car J, Pagliari C, Anandan C, Cresswell K, Bokun T, McKinstry B, Procter R, Majeed A, Sheikh A. The impact of eHealth on the quality and safety of health care: a systematic overview. PLoS Med. 2011 Jan 18;8(1):e1000387. doi: 10.1371/journal.pmed.1000387. Review.</citation>
+    <PMID>21267058</PMID>
+  </reference>
+  <reference>
+    <citation>Asthma UK. Delivering the Five Year Forward View : Behavioural change , information and signposting : Asthma UK consultation response Q1 ) How can we accelerate positive behavioural change towards prevention and self-care in the population and who should be responsi. 2015;1-7</citation>
+  </reference>
+  <reference>
+    <citation>Ofcom. Communications Marketing Report</citation>
+  </reference>
+  <reference>
+    <citation>Asthma UK. Connected asthma: how technology will transform care. 2016</citation>
+  </reference>
+  <reference>
+    <citation>Car J, Sheikh A. Telephone consultations. BMJ. 2003 May 3;326(7396):966-9. Review.</citation>
+    <PMID>12727771</PMID>
+  </reference>
+  <reference>
+    <citation>Car J, Sheikh A. Email consultations in health care: 1--scope and effectiveness. BMJ. 2004 Aug 21;329(7463):435-8. Review.</citation>
+    <PMID>15321902</PMID>
+  </reference>
+  <reference>
+    <citation>Car J, Sheikh A. Email consultations in health care: 2--acceptability and safe application. BMJ. 2004 Aug 21;329(7463):439-42. Review.</citation>
+    <PMID>15321903</PMID>
+  </reference>
+  <reference>
+    <citation>McLean S, Sheikh A. Does telehealthcare offer a patient-centred way forward for the community-based management of long-term respiratory disease? Prim Care Respir J. 2009 Sep;18(3):125-6. doi: 10.3132/pcrj.2009.00006.</citation>
+    <PMID>19159046</PMID>
+  </reference>
+  <reference>
+    <citation>Al Moamary MS, Al-Kordi AG, Al Ghobain MO, Tamim HM. Utilization and responsiveness of the asthma control test (ACT) at the initiation of therapy for patients with asthma: a randomized controlled trial. BMC Pulm Med. 2012 Mar 26;12:14. doi: 10.1186/1471-2466-12-14.</citation>
+    <PMID>22449144</PMID>
+  </reference>
+  <reference>
+    <citation>Schatz M, Kosinski M, Yarlas AS, Hanlon J, Watson ME, Jhingran P. The minimally important difference of the Asthma Control Test. J Allergy Clin Immunol. 2009 Oct;124(4):719-23.e1. doi: 10.1016/j.jaci.2009.06.053. Epub 2009 Sep 19.</citation>
+    <PMID>19767070</PMID>
+  </reference>
+  <reference>
+    <citation>HRA &amp; MHRA. Joint statement on seeking consent by electronic methods. 2018;(September):1-11</citation>
+  </reference>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>January 31, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 4, 2021</study_first_submitted_qc>
+  <study_first_posted type="Estimate">February 8, 2021</study_first_posted>
+  <last_update_submitted>February 4, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 4, 2021</last_update_submitted_qc>
+  <last_update_posted type="Estimate">February 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Self-management</keyword>
+  <keyword>Digital Health</keyword>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>All IPD that underlie results will be disseminated in a journal publication</ipd_description>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>Data will become available following a full statistical analysis. The aim is to provide open access</ipd_time_frame>
+    <ipd_access_criteria>Open Access</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="501">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04608383</url>
+  </required_header>
+  <id_info>
+    <org_study_id>APHP200611</org_study_id>
+    <nct_id>NCT04608383</nct_id>
+  </id_info>
+  <brief_title>Laparoscopy and COVID-19 Contamination</brief_title>
+  <acronym>LAPCOV</acronym>
+  <official_title>Laparoscopy and COVID-19 Contamination</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Assistance Publique - Hôpitaux de Paris</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Assistance Publique - Hôpitaux de Paris</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aim of the study is to search the presence of the SARS-COV-2 virus (COVID19) in the&#xD;
+      pneumoperitoneum of patients with a positive (or suspected) COVID19 status during a routine&#xD;
+      laparoscopy.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 1, 2020</start_date>
+  <completion_date type="Anticipated">January 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">January 1, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The main objective of the study is to demonstrate the presence of SARS-COV-2 in the exsufflated gas at the end of laparoscopy.</measure>
+    <time_frame>Day 1 , at the end of the surgery</time_frame>
+    <description>The SARS-COV-2 will be looked for in the gas before its elimination at the end of the intervention. To this end, the PCR search will be carried out on the filter used</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The secondary objective of the study is to demonstrate the presence of SARS-COV-2 in the peritoneal fluid during laparoscopy</measure>
+    <time_frame>Day 1 , at the end of the surgery</time_frame>
+    <description>SARS-COV-2 will be tested for by PCR in the peritoneal fluid collected during laparoscopy</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>Covid19</condition>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Additional and minimal collection of products of the human body carried out during a sample for standard of care</intervention_name>
+    <description>Swab of the peritoneal fluid for traces of COVID19. The collection of peritoneal fluid is a standard care practice.&#xD;
+Swab from the laparoscopy filter</description>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Excess peritoneal fluid, usually taken during laparoscopy Exsufflation of the&#xD;
+      pneumoperitoneum through a filter&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Any adult requiring a laparoscopic procedure with a positive or suspected Covid19 status.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patient of legal age&#xD;
+&#xD;
+          -  Indication for laparoscopy&#xD;
+&#xD;
+          -  Positive (past or current) or suspected Covid19 status (cough, fever, suggestive&#xD;
+             radiological images, etc.)&#xD;
+&#xD;
+          -  Lack of opposition to participating in the study&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patient under legal protection&#xD;
+&#xD;
+          -  Covid19 status negative, (former or current) and not suspected&#xD;
+&#xD;
+          -  Patient unable to object&#xD;
+&#xD;
+          -  Patient with no social security care&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Laura RUSCIO</last_name>
+    <phone>+3301 45 21 34 41</phone>
+    <email>laura.ruscio@aphp.fr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>AP-HP, Bicêtre Hospital</name>
+      <address>
+        <city>Le Kremlin Bicêtre</city>
+        <zip>94275</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Laura RUSCIO, MD, PhD</last_name>
+      <phone>+33(0)1 45 21 34 41</phone>
+      <email>laura.ruscio@aphp.fr</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>October 23, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 28, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 29, 2020</study_first_posted>
+  <last_update_submitted>October 28, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 28, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 29, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>LAPAROSCOPY</keyword>
+  <keyword>pneumoperitoneum</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

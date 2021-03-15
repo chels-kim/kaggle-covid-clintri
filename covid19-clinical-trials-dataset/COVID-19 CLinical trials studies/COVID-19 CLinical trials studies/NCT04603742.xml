@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2491">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04603742</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20-07022396</org_study_id>
+    <nct_id>NCT04603742</nct_id>
+  </id_info>
+  <brief_title>Anakinra, COVID-19, Cytokine Storm</brief_title>
+  <acronym>SOBI</acronym>
+  <official_title>Anakinra in Adults With Severe COVID-19 and Features of Cytokine Storm Syndrome: A Randomized, Double-blind, Placebo-controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Weill Medical College of Cornell University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Swedish Orphan Biovitrum</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Weill Medical College of Cornell University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The clinical syndrome associated with infection of the Coronavirus Disease 2019 (COVID-19) is&#xD;
+      notable for its variable clinical expression. Infection and transmission of the virus by&#xD;
+      asymptomatic individuals have been noted and represent one end of the clinical spectrum,&#xD;
+      while multi-organ failure, particularly pulmonary failure, and death represent the most&#xD;
+      severe end of the clinical spectrum. In a recent study published from the investigator's&#xD;
+      institution about the first 393 patients with COVID-19, 77.1% had a fever, a mechanism driven&#xD;
+      by IL-1. This suggests that there may be an excess release of IL-1 present.&#xD;
+&#xD;
+      Cytokine storm syndrome (CSS) has been observed in patients with COVID-19 and has been&#xD;
+      proposed to contribute to the acute pulmonary failure that occurs. In distinct clinical&#xD;
+      settings, macrophage activation syndrome, elevated levels of pro-inflammatory cytokines,&#xD;
+      including IL-1, IL-6, and others, as well as elevations in laboratory indicators, including&#xD;
+      ferritin, CRP, d-dimer, and lymphopenia, have been observed. IL-1 production is induced in&#xD;
+      response to inflammatory stimuli and mediates various physiologic responses including&#xD;
+      inflammatory and immunological responses. Anakinra, a recombinant IL-1 receptor antagonist,&#xD;
+      has shown promise in treating CSS. It inhibits both IL-1-alpha and IL-1-beta. It is an FDA&#xD;
+      approved medication used in rheumatoid arthritis (RA) and Cryopyrin-Associated Periodic&#xD;
+      Syndromes (CAPS). Anakinra's ability to inhibit both IL-1 subtypes and short half-life makes&#xD;
+      it favorable to some experts. In the investigator's case-series, using anakinra in patients&#xD;
+      with COVID-19 showed promising in preventing the need for mechanical ventilation, and&#xD;
+      mortality subsequently.&#xD;
+&#xD;
+      This study will determine the efficacy of anakinra, an interleukin (IL) -1 receptor blocker,&#xD;
+      in reducing the need for mechanical ventilation and/or 28-day mortality among patients with&#xD;
+      COVID-19 who have features of CSS and severe respiratory failure. The investigators will test&#xD;
+      the hypothesis that the proportion of subjects with COVID-19, features of CSS, and severe&#xD;
+      respiratory failure (World Health Organization (WHO) category 4 or 5) alive and without&#xD;
+      having required mechanical ventilation at day 28 from randomization will be 33% higher among&#xD;
+      those that receive anakinra compared to those that receive a placebo. A secondary hypothesis&#xD;
+      is that the number of subjects alive at 60-days will be higher amongst those who receive&#xD;
+      anakinra compared to those who receive a placebo.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 2020</start_date>
+  <completion_date type="Anticipated">February 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>This study is a phase II double-blind, placebo-controlled, multicentered trial. Patients in the intervention arm will receive anakinra IV (N=50) 4 times a day for 7 days. The placebo arm will receive normal saline IV (N=50) 4 times a day for 7 days. The investigators will follow up with patients for up to 60 days.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of subjects alive without having required mechanical ventilation</measure>
+    <time_frame>28 days post randomization</time_frame>
+    <description>This will be measured among subjects with COVID-19, features of CSS, and severe respiratory failure (WHO category 4 or 5) who are alive and without having required mechanical ventilation 28 days post randomization.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>60-day mortality</measure>
+    <time_frame>60 days post randomization</time_frame>
+    <description>Mortality of participants will be compared between those that received anakinra and those that did not.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient Hospitalization</measure>
+    <time_frame>28 days post randomization</time_frame>
+    <description>The number of days of hospitalization in the anakinra group compared to placebo after randomization up to day 28.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patient Mechanical Ventilation</measure>
+    <time_frame>28 days post randomization</time_frame>
+    <description>The number of days with supplemental oxygen, with noninvasive ventilation or high-flow oxygen at day 28 after randomization in the anakinra group compared to placebo.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Covid19</condition>
+  <condition>Cytokine Storm</condition>
+  <condition>Mechanical Ventilation Complication</condition>
+  <arm_group>
+    <arm_group_label>Anakinra IV</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients in the intervention arm will receive anakinra IV (N=50) 4 times a day for 7 days. The investigator will follow up with patients for up to 60 days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Normal Saline IV</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Patients in the placebo arm will receive normal saline IV (N=50) 4 times a day for 7 days. The investigator will follow up with patients for up to 60 days.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Anakinra</intervention_name>
+    <description>100 mg of Anakinra will be mixed with 100 mL of 0.9% saline solution for IV administration.</description>
+    <arm_group_label>Anakinra IV</arm_group_label>
+    <other_name>Anakinra IV</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>0.9% Saline</intervention_name>
+    <description>The placebo preparation will consist of a 100 mL of 0.9% saline solution without the addition of anakinra.</description>
+    <arm_group_label>Normal Saline IV</arm_group_label>
+    <other_name>Saline IV</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. An IRB approved written Informed Consent Form (ICF) is signed and dated by the subject&#xD;
+             or legal representative.&#xD;
+&#xD;
+          2. The subject or legal representative must be considered capable of understanding the&#xD;
+             study procedures to provide consent for participation according to the judgment of the&#xD;
+             Investigator.&#xD;
+&#xD;
+          3. Molecular diagnosis of SARS-CoV-2 infection within 14 days of screening assessment.&#xD;
+&#xD;
+          4. Radiographic evidence of pneumonia by either chest X-ray or computerized tomography&#xD;
+             (CT) scan of the chest.&#xD;
+&#xD;
+          5. Age between 18-89 years of age at the screening visit.&#xD;
+&#xD;
+          6. The subject must fulfill the inclusion criteria for CSS:&#xD;
+&#xD;
+               1. Fever documented ≥ 38 ˚C, or historical fever (patient-reported). AND&#xD;
+&#xD;
+               2. Respiratory failure defined as:&#xD;
+&#xD;
+             i. Requiring supplemental O2 of ≥ 4 L nasal cannula or more to maintain an O2&#xD;
+             saturation ≥ 92%, within 36 hours of the requirement for that level of O2.&#xD;
+             (Individuals on continuous positive airway pressure (CPAP) or high flow nasal cannula&#xD;
+             will be allowed) AND c. Ferritin &gt; 1000 ng/ml.&#xD;
+&#xD;
+          7. Background use of remdesivir is allowed.&#xD;
+&#xD;
+          8. Dexamethasone 6 mg daily or equivalent doses of other glucocorticoids as recommended&#xD;
+             per new treatment recommendations for patients with COVID-19 will be allowed at any&#xD;
+             time during the study.&#xD;
+&#xD;
+          9. Participation in anticoagulation studies for COVID-19 or convalescent plasma will be&#xD;
+             allowed.&#xD;
+&#xD;
+         10. The use of empiric or therapeutic doses of anticoagulants is allowed.&#xD;
+&#xD;
+         11. Subjects with a history of a treated lymphoproliferative disorder including lymphoma&#xD;
+             or signs and symptoms suggestive of the lymphoproliferative disease will be allowed in&#xD;
+             the study if they are not receiving any medical treatment (e.g. chemotherapy,&#xD;
+             radiotherapy) for these conditions and are considered to be in remission.&#xD;
+&#xD;
+         12. Subjects with a history of a treated solid tumor disorder including breast or prostate&#xD;
+             cancer will be allowed in the study if they are not receiving any medical treatment&#xD;
+             for these conditions.&#xD;
+&#xD;
+         13. The investigator will make every effort to include Hispanics, African Americans, and&#xD;
+             individuals from any other underrepresented racial/ethnic groups.&#xD;
+&#xD;
+         14. The investigator will exclude patients with GFR &lt; 30 at the time of enrollment.&#xD;
+             However, the investigator will include individuals with renal failure as long as their&#xD;
+             GFR is ≥ 30 mL/min at the time of enrollment without modifications of the dose of&#xD;
+             anakinra.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Subjects participating in studies for COVID-19 other than convalescent plasma or&#xD;
+             anticoagulation protocol, such as immunomodulating drugs, will be excluded.&#xD;
+&#xD;
+          2. Subject is currently participating in another study with an investigational new drug&#xD;
+             or device. Participation in observational studies is allowed.&#xD;
+&#xD;
+          3. Known hypersensitivity to anakinra or E. coli derived proteins.&#xD;
+&#xD;
+          4. Existence of other evidence that can explain pneumonia including but not limited to:&#xD;
+             Influenza A virus, Influenza B virus, bacterial pneumonia, fungal pneumonia, or&#xD;
+             mycobacterial infection.&#xD;
+&#xD;
+          5. Hematologic abnormalities such as neutropenia (ANC &lt; 1 x 109/L) or thrombocytopenia&#xD;
+             (platelet counts &lt; 50x109/L).&#xD;
+&#xD;
+          6. Subjects with known human immunodeficiency virus (HIV) infection.&#xD;
+&#xD;
+             a. Cytokine expression is altered in many patients with HIV infection.25 In addition,&#xD;
+             some anti-HIV drugs have off-target effects on the immune system function. Since the&#xD;
+             focus of treatment with anakinra is the modulation of inflammation due to COVID-19 and&#xD;
+             HIV patients may have HIV-related mechanisms inducing inflammation, including those&#xD;
+             patients, could confound the interpretation of the effects of anakinra.&#xD;
+&#xD;
+          7. Poor performance status, such as bed-bound and poor cognition prior to&#xD;
+             hospitalization.&#xD;
+&#xD;
+          8. Culture confirmed active bacterial infection requiring antibiotic therapy.&#xD;
+&#xD;
+          9. Subjects who are: do not intubate (DNI) and/or do not resuscitate (DNR) will not be&#xD;
+             allowed in the study.&#xD;
+&#xD;
+         10. Subjects already on mechanical ventilation or on extracorporeal membrane oxygenation&#xD;
+             (ECMO).&#xD;
+&#xD;
+         11. Subjects with life expectancy ≤ 24 hours.&#xD;
+&#xD;
+         12. Subjects with poor performance status prior to admission to the hospital.&#xD;
+&#xD;
+         13. Subjects with cancer on chemotherapy or immunotherapy.&#xD;
+&#xD;
+         14. Subjects receiving other immunosuppressant biologics.&#xD;
+&#xD;
+         15. Pregnant or breast-feeding females.&#xD;
+&#xD;
+         16. Subjects who are already using the following medications will not be allowed:&#xD;
+&#xD;
+               -  Tumor necrosis alpha inhibitors: Use on any of these biologics within 8 weeks of&#xD;
+                  Screening or Baseline visit.&#xD;
+&#xD;
+               -  IL-6 inhibitors: Use of any IL-6 inhibitors within 8 weeks of Screening or&#xD;
+                  Baseline visit&#xD;
+&#xD;
+               -  Janus Kinase inhibitors: Use of baricitinib, tofacinitib, upadacitinib, and&#xD;
+                  ruxolitinib, oclacitinib, fedratinib, within 2 weeks from Screening or Baseline&#xD;
+                  visit.&#xD;
+&#xD;
+               -  Bruton's tyrosine kinase inhibitors: Ibrutinib, acalabrutinib, zanubrutinib&#xD;
+&#xD;
+               -  CCR5 antagonist (CCR5 = C-C Chemokine Receptor Type 5; DMARD = Disease Modifying&#xD;
+                  Anti-Rheumatic Drug): Leronlimab is also an immunomodulator.&#xD;
+&#xD;
+               -  DMARDs - cyclosporine, cyclophosphamide, mycophenolic acid, chlorambucil,&#xD;
+                  penicillamine, Azathioprine: Use within 6 months prior to Screening or Baseline&#xD;
+                  visit.&#xD;
+&#xD;
+               -  Rituximab: Use of rituximab within 1 year of Screening or Baseline visit.&#xD;
+&#xD;
+               -  Abatacept: Use of abatacept within 8 weeks of Screening or Baseline visit.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>89 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Iris Y Navarro-Millan, MD, MSPH</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Weill Cornell Medicine</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Iris Y Navarro-Millan, MD, MSPH</last_name>
+    <phone>646-962-5896</phone>
+    <email>yin9003@med.cornell.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Weill Cornell Medcine</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Iris Y Navarro-Millan, MD, MSPH</last_name>
+      <phone>646-962-5896</phone>
+      <email>yin9003@med.cornell.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Fu L, Wang B, Yuan T, Chen X, Ao Y, Fitzpatrick T, Li P, Zhou Y, Lin YF, Duan Q, Luo G, Fan S, Lu Y, Feng A, Zhan Y, Liang B, Cai W, Zhang L, Du X, Li L, Shu Y, Zou H. Clinical characteristics of coronavirus disease 2019 (COVID-19) in China: A systematic review and meta-analysis. J Infect. 2020 Jun;80(6):656-665. doi: 10.1016/j.jinf.2020.03.041. Epub 2020 Apr 10.</citation>
+    <PMID>32283155</PMID>
+  </reference>
+  <reference>
+    <citation>Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, Zhang L, Fan G, Xu J, Gu X, Cheng Z, Yu T, Xia J, Wei Y, Wu W, Xie X, Yin W, Li H, Liu M, Xiao Y, Gao H, Guo L, Xie J, Wang G, Jiang R, Gao Z, Jin Q, Wang J, Cao B. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. 2020 Feb 15;395(10223):497-506. doi: 10.1016/S0140-6736(20)30183-5. Epub 2020 Jan 24. Erratum in: Lancet. 2020 Jan 30;:.</citation>
+    <PMID>31986264</PMID>
+  </reference>
+  <reference>
+    <citation>Chen N, Zhou M, Dong X, Qu J, Gong F, Han Y, Qiu Y, Wang J, Liu Y, Wei Y, Xia J, Yu T, Zhang X, Zhang L. Epidemiological and clinical characteristics of 99 cases of 2019 novel coronavirus pneumonia in Wuhan, China: a descriptive study. Lancet. 2020 Feb 15;395(10223):507-513. doi: 10.1016/S0140-6736(20)30211-7. Epub 2020 Jan 30.</citation>
+    <PMID>32007143</PMID>
+  </reference>
+  <reference>
+    <citation>Wang D, Hu B, Hu C, Zhu F, Liu X, Zhang J, Wang B, Xiang H, Cheng Z, Xiong Y, Zhao Y, Li Y, Wang X, Peng Z. Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China. JAMA. 2020 Mar 17;323(11):1061-1069. doi: 10.1001/jama.2020.1585.</citation>
+    <PMID>32031570</PMID>
+  </reference>
+  <reference>
+    <citation>Goyal P, Choi JJ, Pinheiro LC, Schenck EJ, Chen R, Jabri A, Satlin MJ, Campion TR Jr, Nahid M, Ringel JB, Hoffman KL, Alshak MN, Li HA, Wehmeyer GT, Rajan M, Reshetnyak E, Hupert N, Horn EM, Martinez FJ, Gulick RM, Safford MM. Clinical Characteristics of Covid-19 in New York City. N Engl J Med. 2020 Jun 11;382(24):2372-2374. doi: 10.1056/NEJMc2010419. Epub 2020 Apr 17.</citation>
+    <PMID>32302078</PMID>
+  </reference>
+  <reference>
+    <citation>Dinarello CA. The history of fever, leukocytic pyrogen and interleukin-1. Temperature (Austin). 2015 Apr 14;2(1):8-16. doi: 10.1080/23328940.2015.1017086. eCollection 2015 Jan-Mar.</citation>
+    <PMID>27226996</PMID>
+  </reference>
+  <reference>
+    <citation>WHO. Coronavirus disease (COVID-19) Therapeutic Trial Synopsis. 2020; https://www.who.int/blueprint/priority-diseases/key-action/COVID19_Treatment_Trial_Design_Master_Protocol_synopsis_Final_18022020.pdf. Accessed May 8, 2020, 2020.</citation>
+  </reference>
+  <reference>
+    <citation>Navarro-Millán I, Sattui SE, Lakhanpal A, Zisa D, Siegel CH, Crow MK. Use of Anakinra to Prevent Mechanical Ventilation in Severe COVID-19: A Case Series. Arthritis Rheumatol. 2020 Dec;72(12):1990-1997. doi: 10.1002/art.41422. Epub 2020 Nov 4.</citation>
+    <PMID>32602262</PMID>
+  </reference>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>October 21, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 23, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 27, 2020</study_first_posted>
+  <last_update_submitted>October 29, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 29, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 3, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Anakinra</keyword>
+  <keyword>Covid19</keyword>
+  <keyword>Mechanical Ventilation</keyword>
+  <keyword>Cytokine Storm</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Interleukin 1 Receptor Antagonist Protein</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

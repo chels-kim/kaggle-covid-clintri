@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3109">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04486508</url>
+  </required_header>
+  <id_info>
+    <org_study_id>99060</org_study_id>
+    <nct_id>NCT04486508</nct_id>
+  </id_info>
+  <brief_title>Intermediate-dose vs Standard Prophylactic Anticoagulation and Statin vs Placebo in ICU Patients With COVID-19</brief_title>
+  <acronym>INSPIRATION</acronym>
+  <official_title>Intermediate-dose Versus Standard Prophylactic Anticoagulation In cRitically-ill pATIents With COVID-19: An opeN Label Randomized Controlled Trial---A Randomized Trial of Atorvastatin vs. Placebo In Critically-ill Patients With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Rajaie Cardiovascular Medical and Research Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Brigham and Women's Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Tehran Heart Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Masih Daneshvari Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hazrat Rasool Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Modarres Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Firuzgar hospital affiliated to Iran University of Medical Sciences</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Imam Khomeini Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Sina Hospital, Iran</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Tabriz University of Medical Sciences</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Rajaie Cardiovascular Medical and Research Center</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In a 2x2 factorial design randomized controlled trial, the investigators aim to elaborate the&#xD;
+      safety and efficacy of two pharmacological regimens on outcomes of critically-ill patients&#xD;
+      with COVID-19. The first randomization entails open-label assignment to intermediate versus&#xD;
+      standard dose prophylactic anticoagulation. The investigators hypothesize that intermediate&#xD;
+      dose compared with standard prophylactic dose anticoagulation will have a superior efficacy&#xD;
+      with respect to a composite of venous thromboembolism (VTE), requirement for extracorporeal&#xD;
+      membrane oxygenation (ECMO), or all-cause mortality. The second randomization will be&#xD;
+      double-blind assignment of the included patients to atorvastatin 20mg daily versus matching&#xD;
+      placebo. The hypothesis is that statin therapy, compared with placebo, will reduce the&#xD;
+      composite of VTE, need for ECMO, or all-cause mortality.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Coronavirus disease-2019 (COVID-19) -- a viral illness caused by the severe acute respiratory&#xD;
+      syndrome coronavirus 2 (SARS-CoV-2) -- has important manifestations outside the pulmonary&#xD;
+      parenchyma, including microthrombosis and macrothrombosis, with venous thrombosis being the&#xD;
+      most common form of thrombotic involvement. Existing studies, depending on the type of&#xD;
+      outcome assessment and type and dose of prophylaxis, have reported thrombotic events in 7-85%&#xD;
+      of patients with COVID-19.&#xD;
+&#xD;
+      However, the optimal antithrombotic regimen in these patients remains uncertain. Although&#xD;
+      many clinicians continue to consider standard-dose prophylactic anticoagulation, other&#xD;
+      believe that more intense anticoagulation may reduce the thrombotic events, and improve&#xD;
+      outcomes. However, limited high-quality data exist to inform clinical practice and the&#xD;
+      existing guidelines recommendations are mostly based on expert opinion and consensus.&#xD;
+&#xD;
+      In addition, exuberant inflammatory response is known to play a role in the pathophysiology&#xD;
+      of acute respiratory distress syndrome (ARDS) and COVID-19. It is possible that the&#xD;
+      pleiotropic effects of statins, which include anti-inflammatory and antithrombotic effects,&#xD;
+      prove beneficial in patients with severe COVID-19.&#xD;
+&#xD;
+      This study plans to investigate the safety and efficacy of two pharmacological regimens on&#xD;
+      outcomes of critically-ill patients with COVID-19 using a 2x2 factorial design.&#xD;
+&#xD;
+      First, patients will be assessed for the eligibility criteria for the anticoagulation&#xD;
+      hypothesis. Those meeting the criteria, will be assigned to intermediate versus standard dose&#xD;
+      prophylactic anticoagulation. These patients will subsequently be assessed for eligibility&#xD;
+      for the second randomization, and if meeting the criteria, will be assigned to atorvastatin&#xD;
+      20mg/d or matching placebo.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">July 30, 2020</start_date>
+  <completion_date type="Anticipated">December 6, 2020</completion_date>
+  <primary_completion_date type="Anticipated">November 19, 2020</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Factorial Assignment</intervention_model>
+    <intervention_model_description>1:1 multicenter open-label 2x2 factorial design randomized controlled trial with allocation sequence concealment and blinded endpoint adjudication.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+    <masking_description>For the first hypothesis, allocation sequence concealment and blinded endpoint adjudication.&#xD;
+For the second hypothesis, allocation sequence concealment, double-blind medication administration, and blinded endpoint adjudication.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Composite of incident VTE, undergoing ECMO, and all-cause mortality</measure>
+    <time_frame>30 days from enrollment</time_frame>
+    <description>Composite of objectively-confirmed venous thromboembolism, undergoing extracorporeal membrane oxygenation (ECMO), or death from any cause</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Rate of all-cause mortality</measure>
+    <time_frame>30 days from enrollment</time_frame>
+    <description>Patient status regarding to being alive or dead at the end of 30-day follow up</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of objectively-confirmed VTE</measure>
+    <time_frame>30 days from enrollment</time_frame>
+    <description>Distal or proximal deep vein thrombosis which has been confirmed by ultrasonography or venography/ PE confirmed by at least one CTPA or lung scan</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ventilator free days</measure>
+    <time_frame>30 days from enrollment</time_frame>
+    <description>Difference between days of ICU stay and days on invasive mechanical ventilation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of major bleeding</measure>
+    <time_frame>30 days from enrollment</time_frame>
+    <description>According to the Bleeding Academic Research Consortium (BARC 3 or 5 bleeding)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of clinically-relevant non-major bleeding</measure>
+    <time_frame>30 days from enrollment</time_frame>
+    <description>Clinically-significant bleeding, not fulfilling criteria for major bleeding)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of severe thrombocytopenia</measure>
+    <time_frame>30 days from enrollment</time_frame>
+    <description>Platelet count &lt;20.000</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of rise in liver enzymes</measure>
+    <time_frame>30 days from enrollment</time_frame>
+    <description>Increase liver function tests&gt;3 times</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Rate of objectively clinically-diagnosed type I acute myocardial infarction</measure>
+    <time_frame>30 days from enrollment</time_frame>
+    <description>According to the fourth universal definition of myocardial infraction and confirmed by coronary angiography, intravascular imaging or autopsy</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Rate of objectively clinically -diagnosed stroke</measure>
+    <time_frame>30 days from enrollment</time_frame>
+    <description>Any stroke episode which has been confirmed with appropriate diagnostic imaging (brain CT and/or brain MRI)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Rate of objectively clinically -diagnosed acute peripheral arterial thrombosis</measure>
+    <time_frame>30 days from enrollment</time_frame>
+    <description>Imaging confirmed acute peripheral arterial thrombosis (by ultrasonography, CT, MRI, or invasive angiography)</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Median ICU length of stay</measure>
+    <time_frame>30 days from enrollment</time_frame>
+    <description>Number of days that a patient has stayed in the ICU</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>ICU discharge status</measure>
+    <time_frame>30 days from enrollment</time_frame>
+    <description>Status of patients regarding to mortality (alive/dead) at the time of discharge from ICU</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Incident atrial fibrillation</measure>
+    <time_frame>30 days from enrollment</time_frame>
+    <description>Any AF episode which has been confirmed by at least one ECG or telemetry monitoring, in patients without prior history of AF</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Rate of need for renal replacement therapy</measure>
+    <time_frame>30 days from enrollment</time_frame>
+    <description>Use hemodialysis or veno-venous hemofiltration or peritoneal dialysis for a patient during the hospitalization period, due to acute kidney injury</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Post-COVID-19 Functional Status</measure>
+    <time_frame>60 and 90 -day</time_frame>
+    <description>Based on Post-COVID-19 Functional Status questionnaire, which varies fro score 0 to 4, and higher scores mean worse outcome.</description>
+  </other_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">600</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Intermediate dose anticoagulation</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Intermediate dose anticoagulation will be the the tested regimen. The anticoagulation regimen will be modified according to weight/ body mass index, and creatinine clearance level (Cl Cr). Enoxaparin will be the primary agent for anticoagulation, with unfractionated heparin reserved only for patients with creatinine clearance of ≤15 mL/min according to Cockcroft-Gault Formula.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard Prophylaxis</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Standard prophylaxis dose anticoagulation will be the anticoagulation of choice in the control arm. Enoxaparin will be the primary agent for anticoagulation, with unfractionated heparin reserved only for patients with creatinine clearance of ≤15 mL/min according Cockcroft-Gault Formula.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Atorvastatin 20</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Atorvastatin 20 mg daily will be the statin therapy of choice in the intervention arm</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Atorvastatin 20 mg Matched placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Matching placebo will be used for the control arm</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>intermediate dose Enoxaparin/ unfractionated heparin</intervention_name>
+    <description>Intermediate dose anticoagulation according to creatinine clearance and weight</description>
+    <arm_group_label>Intermediate dose anticoagulation</arm_group_label>
+    <other_name>Intermediate dose anticoagulation</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>standard prophylactic dose Enoxaparin/ unfractionated heparin</intervention_name>
+    <description>Standard prophylaxis anticoagulation according to creatinine clearance and weight</description>
+    <arm_group_label>Standard Prophylaxis</arm_group_label>
+    <other_name>Standard dose prophylaxis anticoagulation</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Atorvastatin 20mg</intervention_name>
+    <description>Statin</description>
+    <arm_group_label>Atorvastatin 20</arm_group_label>
+    <other_name>Statin</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Matched placebo</intervention_name>
+    <description>Matched placebo to atorvastatin 20 mg</description>
+    <arm_group_label>Atorvastatin 20 mg Matched placebo</arm_group_label>
+    <other_name>Statin</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria for Anticoagulation Hypothesis&#xD;
+&#xD;
+          1. Adult patients (≥18 years), with polymerase chain reaction (PCR)-confirmed COVID-19&#xD;
+             admitted to ICU within 7 days of initial hospitalization , who do not have another&#xD;
+             firm indication for anticoagulation (such as mechanical valve, high-risk atrial&#xD;
+             fibrillation (AF), VTE, or left ventricle (LV) thrombus),who are not enrolled in&#xD;
+             another blinded randomized trial, and are willing to participate in the study and&#xD;
+             provide informed consent .&#xD;
+&#xD;
+          2. Estimated survival of at least 24 hours at the discretion of enrolling physician&#xD;
+&#xD;
+        Exclusion Criteria for Anticoagulation Hypothesis&#xD;
+&#xD;
+          1. Weight &lt;40 Kilogram (kg)&#xD;
+&#xD;
+          2. Overt bleeding at the day of enrollment&#xD;
+&#xD;
+          3. Known major bleeding within 30 days (according to the Bleeding Academic Research&#xD;
+             Consortium (BARC) definition, Appendix A)&#xD;
+&#xD;
+          4. Platelet count &lt;50,000/Fl&#xD;
+&#xD;
+          5. Pregnancy (as confirmed by Beta human chorionic gonadotropin (HCG) testing among&#xD;
+             female patients &lt;50 years)&#xD;
+&#xD;
+          6. Patients on Extracorporeal Membrane Oxygenation (ECMO)&#xD;
+&#xD;
+          7. History of heparin induced thrombocytopenia or immune thrombocytopenia&#xD;
+&#xD;
+          8. Ischemic stroke within the past 2 weeks&#xD;
+&#xD;
+          9. Craniotomy/major neurosurgery within the past 3 months&#xD;
+&#xD;
+         10. Major head or spinal trauma in the past 30 days&#xD;
+&#xD;
+         11. Known brain metastases or vascular malformations (aneurysm)&#xD;
+&#xD;
+         12. Presence of an epidural, spinal or pericardial catheter&#xD;
+&#xD;
+         13. Major surgery other than neurosurgery within 14 days prior to enrollment&#xD;
+&#xD;
+         14. Coexistence of severe obesity (weight &gt;120 kg or BMI&gt;35 kg/m2 along with severe renal&#xD;
+             insufficiency defined as creatinine clearance (CrCl) &lt;30 mL/sec)&#xD;
+&#xD;
+         15. Allergic reaction to study medications&#xD;
+&#xD;
+         16. Lack or withdrawal of informed consent&#xD;
+&#xD;
+        Inclusion Criteria for the Statin Randomization&#xD;
+&#xD;
+          1. Patients enrolled for the anticoagulation randomization&#xD;
+&#xD;
+          2. Willingness to participation in the study and providing informed consent&#xD;
+&#xD;
+        Exclusions Criteria for the Statin Randomization&#xD;
+&#xD;
+          1. Baseline liver function tests&gt; 3 times upper normal limits (ULN) or creatine kinase&#xD;
+             (CK) &gt;500 U/L&#xD;
+&#xD;
+          2. Active liver disease (LFT&gt;3 ULN plus histologic finding including cirrhosis or&#xD;
+             inflammation or necrosis)&#xD;
+&#xD;
+          3. Routine use of statins prior to the index hospitalization&#xD;
+&#xD;
+          4. Previous documented statin intolerance&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Parham Sadeghipour, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Rajaie Cardiovascular Medical and Research Center</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Behnood Bikdeli, MD, MS</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Brigham and Women's Hospital, Harvard Medical School</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Parham Sadeghipour, MD</last_name>
+    <phone>+989121454319</phone>
+    <email>psadeghipour@hotmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Sara Tayyebi, MS</last_name>
+    <phone>+989126541675</phone>
+    <email>sara.tayyebi@gmail.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Masih Daneshvari Hospital</name>
+      <address>
+        <city>Tehran</city>
+        <zip>199691110</zip>
+        <country>Iran, Islamic Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Babak Sharif Kashani</last_name>
+      <phone>+989121793688</phone>
+      <email>sharifkashani@yahoo.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Iran, Islamic Republic of</country>
+  </location_countries>
+  <link>
+    <url>https://pubmed.ncbi.nlm.nih.gov/32311448/</url>
+    <description>COVID-19 and Thrombotic or Thromboembolic Disease: Implications for Prevention, Antithrombotic Therapy, and Follow-Up: JACC State-of-the-Art Review</description>
+  </link>
+  <link>
+    <url>https://pubmed.ncbi.nlm.nih.gov/32473596/</url>
+    <description>Pharmacological Agents Targeting Thromboinflammation in COVID-19: Review and Implications for Future Research</description>
+  </link>
+  <results_reference>
+    <citation>Bikdeli B, Talasaz AH, Rashidi F, Sharif-Kashani B, Farrokhpour M, Bakhshandeh H, Sezavar H, Dabbagh A, Beigmohammadi MT, Payandemehr P, Yadollahzadeh M, Riahi T, Khalili H, Jamalkhani S, Rezaeifar P, Abedini A, Lookzadeh S, Shahmirzaei S, Tahamtan O, Matin S, Amin A, Parhizgar SE, Jimenez D, Gupta A, Madhavan MV, Parikh SA, Monreal M, Hadavand N, Hajighasemi A, Maleki M, Sadeghian S, Mohebbi B, Piazza G, Kirtane AJ, Lip GYH, Krumholz HM, Goldhaber SZ, Sadeghipour P. Intermediate versus standard-dose prophylactic anticoagulation and statin therapy versus placebo in critically-ill patients with COVID-19: Rationale and design of the INSPIRATION/INSPIRATION-S studies. Thromb Res. 2020 Dec;196:382-394. doi: 10.1016/j.thromres.2020.09.027. Epub 2020 Sep 24.</citation>
+    <PMID>32992075</PMID>
+  </results_reference>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>July 22, 2020</study_first_submitted>
+  <study_first_submitted_qc>July 22, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 24, 2020</study_first_posted>
+  <last_update_submitted>November 19, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 19, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 20, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Rajaie Cardiovascular Medical and Research Center</investigator_affiliation>
+    <investigator_full_name>Parham Sadeghipour</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <keyword>anticoagulation</keyword>
+  <keyword>statin</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Heparin</mesh_term>
+    <mesh_term>Calcium heparin</mesh_term>
+    <mesh_term>Enoxaparin</mesh_term>
+    <mesh_term>Atorvastatin</mesh_term>
+    <mesh_term>Hydroxymethylglutaryl-CoA Reductase Inhibitors</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

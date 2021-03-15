@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3229">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04579640</url>
+  </required_header>
+  <id_info>
+    <org_study_id>289515</org_study_id>
+    <nct_id>NCT04579640</nct_id>
+  </id_info>
+  <brief_title>Trial of Vitamin D to Reduce Risk and Severity of COVID-19 and Other Acute Respiratory Infections</brief_title>
+  <acronym>CORONAVIT</acronym>
+  <official_title>Phase 3 Randomised Controlled Trial of Vitamin D Supplementation to Reduce Risk and Severity of COVID-19 and Other Acute Respiratory Infections in the UK Population</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Queen Mary University of London</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Barts Charity</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Pharma Nord</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Fischer Family Trust</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>The AIM Foundation</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Synergy Biologics Ltd</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Cytoplan Ltd</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Queen Mary University of London</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      CORONAVIT is an open-label, phase 3, randomised clinical trial testing whether implementation&#xD;
+      of a test-and-treat approach to correction of sub-optimal vitamin D status results in reduced&#xD;
+      risk and/or severity of COVID-19 and other acute respiratory infections.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">October 27, 2020</start_date>
+  <completion_date type="Anticipated">June 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of participants experiencing at least one doctor-diagnosed or laboratory-confirmed acute respiratory infection of any cause.</measure>
+    <time_frame>Over 6 months</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants seroconverting to SARS-CoV-2 (i.e. with test results for antibodies to SARS-CoV-2 transitioning from negative at baseline to positive at follow-up)</measure>
+    <time_frame>Over 6 months</time_frame>
+    <description>Secondary efficacy outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants developing antigen test-positive COVID-19</measure>
+    <time_frame>Over 6 months</time_frame>
+    <description>Secondary efficacy outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants developing 'probable COVID-19', as adjudged using a validated symptom score</measure>
+    <time_frame>Over 6 months</time_frame>
+    <description>Secondary efficacy outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants developing antigen test-positive influenza</measure>
+    <time_frame>Over 6 months</time_frame>
+    <description>Secondary efficacy outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants reporting symptoms of acute respiratory infection</measure>
+    <time_frame>Over 6 months</time_frame>
+    <description>Secondary efficacy outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants who are prescribed one or more courses of antibiotic treatment for acute respiratory infection</measure>
+    <time_frame>Over 6 months</time_frame>
+    <description>Secondary efficacy outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants with asthma who experience one or more exacerbations of asthma requiring treatment with oral corticosteroids and/or requiring hospital treatment</measure>
+    <time_frame>Over 6 months</time_frame>
+    <description>Secondary efficacy outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants with COPD who experience one or more exacerbations of COPD requiring treatment with oral corticosteroids and/or antibiotics, and/or requiring hospital treatment</measure>
+    <time_frame>Over 6 months</time_frame>
+    <description>Secondary efficacy outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants who have had antigen test- or antibody test-confirmed SARS-CoV-2 infection who report symptoms of COVID-19 lasting more than 4 weeks after onset</measure>
+    <time_frame>Over 6 months</time_frame>
+    <description>Secondary efficacy outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean MRC dyspnoea score at the end of the study in people who have had antigen test- or antibody test-confirmed SARS-CoV-2 infection</measure>
+    <time_frame>6 months</time_frame>
+    <description>Secondary efficacy outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean FACIT Fatigue Scale score at the end of the study in people who have had antigen test- or antibody test-confirmed SARS-CoV-2 infection</measure>
+    <time_frame>6 months</time_frame>
+    <description>Secondary efficacy outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean COVID-19 Recovery Questionnaire score at the end of the study in people who have had antigen test- or antibody test-confirmed SARS-CoV-2 infection</measure>
+    <time_frame>6 months</time_frame>
+    <description>Secondary efficacy outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants who experience one or more acute respiratory infections requiring hospitalisation</measure>
+    <time_frame>Over 6 months</time_frame>
+    <description>Secondary efficacy outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants who experience COVID-19 requiring hospitalisation</measure>
+    <time_frame>Over 6 months</time_frame>
+    <description>Secondary efficacy outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants hospitalised for COVID-19 requiring ventilatory support</measure>
+    <time_frame>Over 6 months</time_frame>
+    <description>Secondary efficacy outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants who experience influenza requiring hospitalisation</measure>
+    <time_frame>Over 6 months</time_frame>
+    <description>Secondary efficacy outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants dying of any cause during participation in the trial</measure>
+    <time_frame>Over 6 months</time_frame>
+    <description>Secondary efficacy outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants dying of acute respiratory infection during participation in the trial</measure>
+    <time_frame>Over 6 months</time_frame>
+    <description>Secondary efficacy outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants dying of COVID-19 during participation in the trial</measure>
+    <time_frame>Over 6 months</time_frame>
+    <description>Secondary efficacy outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants dying of influenza during participation in the trial • mean end-study 25(OH)D concentrations (sub-set of participants having end-study tests of vitamin D status)</measure>
+    <time_frame>Over 6 months</time_frame>
+    <description>Secondary efficacy outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>mean end-study 25(OH)D concentration (sub-set of participants having end-study tests of vitamin D status) Mean end-study 25(OH)D concentration (sub-set of participants having end-study tests of vitamin D status)</measure>
+    <time_frame>6 months</time_frame>
+    <description>Secondary efficacy outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants experiencing known hypercalcaemia</measure>
+    <time_frame>Over 6 months</time_frame>
+    <description>Secondary safety outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants experiencing a probable or definite adverse reaction to vitamin D supplementation</measure>
+    <time_frame>Over 6 months</time_frame>
+    <description>Secondary safety outcome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants experiencing a serious adverse event of any cause</measure>
+    <time_frame>Over 6 months</time_frame>
+    <description>Secondary safety outcome</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">6200</enrollment>
+  <condition>Covid19</condition>
+  <condition>Acute Respiratory Tract Infection</condition>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Standard of care (national recommendation of 400 IU/day vitamin D)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Intervention: Lower-dose vitamin D</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Offer of a daily dose of 800 IU (20 micrograms) cholecalciferol to individuals with 25-hydroxyvitamin D level &lt;75 nmol/L</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Intervention: Higher-dose vitamin D</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Offer of a daily dose of 3200 IU (80 micrograms) cholecalciferol to individuals with 25-hydroxyvitamin D level &lt;75 nmol/L</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Vitamin D</intervention_name>
+    <description>Capsules containing 800 IU (20 micrograms) or 3,200 IU (80 micrograms) cholecalciferol</description>
+    <arm_group_label>Intervention: Higher-dose vitamin D</arm_group_label>
+    <arm_group_label>Intervention: Lower-dose vitamin D</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion criteria:&#xD;
+&#xD;
+          1. UK resident&#xD;
+&#xD;
+          2. Age ≥16 years&#xD;
+&#xD;
+          3. Gives informed consent to participate&#xD;
+&#xD;
+        Exclusion criteria:&#xD;
+&#xD;
+          1. taking digoxin, alfacalcidol, calcitriol, dihydrotachysterol or paricalcitol&#xD;
+&#xD;
+          2. known diagnosis of sarcoidosis, primary hyperparathyroidism, renal stones or renal&#xD;
+             failure requiring dialysis&#xD;
+&#xD;
+          3. known allergy to any ingredient in the study capsules (vitamin D, olive oil, caramel,&#xD;
+             gelatine or glycerol)&#xD;
+&#xD;
+          4. pregnancy&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>16 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Queen Mary University of London</name>
+      <address>
+        <city>London</city>
+        <state>County (optional)</state>
+        <zip>E1 2AB</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>October 6, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 6, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 8, 2020</study_first_posted>
+  <last_update_submitted>November 26, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 26, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 1, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Respiratory Tract Infections</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vitamin D</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>De-identified IPD will be shared with other researchers subject to terms of Data Transfer Agreement and IRB approval</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Analytic Code</ipd_info_type>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

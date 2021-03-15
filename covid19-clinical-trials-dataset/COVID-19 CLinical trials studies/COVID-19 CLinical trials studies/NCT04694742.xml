@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2656">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04694742</url>
+  </required_header>
+  <id_info>
+    <org_study_id>VentRatio-19</org_study_id>
+    <nct_id>NCT04694742</nct_id>
+  </id_info>
+  <brief_title>Ventilatory Efficiency in Critically Ill COVID-19 Patients</brief_title>
+  <official_title>Ventilatory Efficiency in Critically Ill COVID-19 Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>ASST Fatebenefratelli Sacco</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Ospedale Infermi Rimini</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>S. Anna Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Azienda Ospedaliero, Universitaria Ospedali Riuniti</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>ASST Fatebenefratelli Sacco</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The new severe acute respiratory syndrome coronavirus 2019 (SARS-CoV-2) causes the illness&#xD;
+      named COVID-19, which is primarily characterized by pneumonia. As of 27 December, there have&#xD;
+      been over 79.2 million cases and over 1.7 million deaths reported since the start of the&#xD;
+      pandemic. In many cases, pneumonia evolves to acute respiratory distress syndrome (ARDS) with&#xD;
+      the need for mechanical ventilation and patient admission to intensive care unit, determining&#xD;
+      a marked increase in the need for intensive care beds worldwide.&#xD;
+&#xD;
+      Pulmonary involvement causes predominantly hypoxemic respiratory failure. Although COVID-19&#xD;
+      pneumonia often falls within the diagnostic criteria of ARDS, it differs from it for some&#xD;
+      peculiar pathophysiological characteristics. In particular, patients with ARDS secondary to&#xD;
+      COVID-19 often have the compliance of the respiratory system within the normal range. A&#xD;
+      significant role in the pathophysiology of hypoxemia seems to depend on vascular alterations&#xD;
+      such as altered pulmonary vascular self-regulation, pulmonary capillary leakage, and&#xD;
+      microvascular thrombosis in a complex process known as &quot;immunothrombosis&quot;. All together they&#xD;
+      act by altering the relationship between ventilation and perfusion and increasing the dead&#xD;
+      space, which ultimately results in impaired efficiency of the pulmonary ventilation. Among&#xD;
+      the various markers associated with the prognosis of patients with COVID-19, D-dimer is&#xD;
+      linked to both the inflammatory state and thrombotic phenomena and could help to identify&#xD;
+      patients at greater risk of developing early ventilation-perfusion changes.&#xD;
+&#xD;
+      This study aims at measuring the ventilatory efficiency, assessed by Ventilatory Ratio, in&#xD;
+      critically ill, mechanically ventilated, COVID-19 patients and its correlation with plasma&#xD;
+      D-dimer and quasi-static respiratory compliance.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 1, 2020</start_date>
+  <completion_date type="Anticipated">April 15, 2021</completion_date>
+  <primary_completion_date type="Anticipated">March 31, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Ventilatory ratio correlation</measure>
+    <time_frame>24 hours from ICU admission</time_frame>
+    <description>Measure the correlation between ventilatory ratio, plasma D-dimer, and quasi-static compliance of the respiratory system</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>30 days</time_frame>
+    <description>Mortality among subgroups stratified according to Ventilatory ratio and quasi-static respiratory compliance. Subgroup will be identified according centiles of the distribution values of 1) Ventilatory Ratio, and 2) quasi-static compliance both measured in the first 24 hours.</description>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>ARDS</condition>
+  <arm_group>
+    <arm_group_label>ARDS COVID-19</arm_group_label>
+    <description>Patients who meet Berlin's ARDS diagnostic criteria, with confirmed SARS-CoV-2 infection, requiring invasive mechanical ventilation.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>data collecting</intervention_name>
+    <description>Within 24h from ICU admission, the ventilatory efficiency will be assessed by the following Ventilatory Ratio equation:&#xD;
+Ventilatory Ratio = [minute ventilation (ml/min) × PaCO2 (mm Hg)]/(predicted body weight × 100 × 37.5).&#xD;
+Where PaCO2 is the partial pressure of carbon dioxide in mmHg in the arterial blood.&#xD;
+Tha quasi-static compliance will be calculated according to the equation:&#xD;
+C=Tidal Volume/(Paw plateau - PEEP total)&#xD;
+where Paw plateau is the airway pressure measured during 4 seconds of inspiratory pause, PEEP total is the airway pressure measured during 4 seconds of expiratory pause.&#xD;
+In the same time frame, complete blood count, d-dimer, sequential organ failure assessment score, blood gas analysis, haemodynamic and ventilatory parameters will be collected.</description>
+    <arm_group_label>ARDS COVID-19</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All patients consecutively admitted to ICU with the eligibility criteria will be enrolled&#xD;
+        in the study. They will be treated according to the standard of care.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        All of the following:&#xD;
+&#xD;
+          -  confirmed SARS-CoV-2 infection by RT-PCR on a nasopharyngeal swab&#xD;
+&#xD;
+          -  severe hypoxemia due to COVID-19 who meets the diagnostic criteria of ARDS (Berlin's&#xD;
+             definition)&#xD;
+&#xD;
+          -  invasive mechanical ventilation&#xD;
+&#xD;
+          -  patients receiving neuromuscular blocking drugs&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  history of preexisting severe hypoxemia (i.e. primary pulmonary hypertension, COPD in&#xD;
+             therapy with O2 supplementation, pulmonary fibrosis, etc.)&#xD;
+&#xD;
+          -  severe haemodynamic instability defined as:&#xD;
+&#xD;
+               -  Mean arterial pressure &lt; 65 mmHg despite the infusion of norepinephrine, or&#xD;
+                  epinephrine, or dobutamine, or levosimendan&#xD;
+&#xD;
+               -  severe left ventricular dysfunction with ejection fraction &lt;20%&#xD;
+&#xD;
+               -  right ventricular failure due to pulmonary embolism&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Riccardo Colombo, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>ASST Fatebenefratelli Sacco - Ospedale Luigi Sacco</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Riccardo Colombo, M.D.</last_name>
+    <phone>+390239043023</phone>
+    <email>riccardo.colombo@asst-fbf-sacco.it</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Andrea Agarossi, M.D.</last_name>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Arcispedale Sant'Anna</name>
+      <address>
+        <city>Ferrara</city>
+        <state>Emilia Romagna</state>
+        <zip>44124</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Alberto Fogagnolo, M.D.</last_name>
+      <email>alberto.fogagnolo@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Alberto Fogagnolo, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Infermi</name>
+      <address>
+        <city>Rimini</city>
+        <state>Emilia Romagna</state>
+        <zip>47923</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Jonathan Montomoli, M.D.</last_name>
+      <email>jonathan.montomoli@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Jonathan Montomoli, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>ASST Fatebenefratelli Sacco</name>
+      <address>
+        <city>Milan</city>
+        <state>Lombardy</state>
+        <zip>20157</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Riccardo Colombo, M.D.</last_name>
+      <phone>0239043023</phone>
+      <email>riccardo.colombo@asst-fbf-sacco.it</email>
+    </contact>
+    <investigator>
+      <last_name>Riccardo Colombo, M.D.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Andrea Agarossi, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliero Universitaria Ospedali Riuniti</name>
+      <address>
+        <city>Ancona</city>
+        <state>Marche</state>
+        <zip>60126</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Andrea Carsetti, M.D.</last_name>
+      <email>a.carsetti@staff.univpm.it</email>
+    </contact>
+    <investigator>
+      <last_name>Andrea Carsetti, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <reference>
+    <citation>WHO Weekly epidemiological update - 29 December 2020 - https://www.who.int/publications/m/item/weekly-epidemiological-update---29-december-2020</citation>
+  </reference>
+  <reference>
+    <citation>Sinha P, Calfee CS, Beitler JR, Soni N, Ho K, Matthay MA, Kallet RH. Physiologic Analysis and Clinical Performance of the Ventilatory Ratio in Acute Respiratory Distress Syndrome. Am J Respir Crit Care Med. 2019 Feb 1;199(3):333-341. doi: 10.1164/rccm.201804-0692OC.</citation>
+    <PMID>30211618</PMID>
+  </reference>
+  <reference>
+    <citation>ARDS Definition Task Force, Ranieri VM, Rubenfeld GD, Thompson BT, Ferguson ND, Caldwell E, Fan E, Camporota L, Slutsky AS. Acute respiratory distress syndrome: the Berlin Definition. JAMA. 2012 Jun 20;307(23):2526-33. doi: 10.1001/jama.2012.5669.</citation>
+    <PMID>22797452</PMID>
+  </reference>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>January 3, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 3, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 5, 2021</study_first_posted>
+  <last_update_submitted>January 3, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 3, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 5, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>ASST Fatebenefratelli Sacco</investigator_affiliation>
+    <investigator_full_name>Riccardo Colombo</investigator_full_name>
+    <investigator_title>MD</investigator_title>
+  </responsible_party>
+  <keyword>Ventilatory ratio</keyword>
+  <keyword>Mechanical ventilation</keyword>
+  <keyword>ARDS</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>Critical illness</keyword>
+  <keyword>Dead-space</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Critical Illness</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

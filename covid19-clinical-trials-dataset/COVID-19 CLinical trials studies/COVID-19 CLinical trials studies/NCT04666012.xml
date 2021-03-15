@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3117">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04666012</url>
+  </required_header>
+  <id_info>
+    <org_study_id>AdCLD-CoV19-001</org_study_id>
+    <nct_id>NCT04666012</nct_id>
+  </id_info>
+  <brief_title>Safety and Immunogenicity Study of AdCLD-CoV19: A COVID-19 Preventive Vaccine in Healthy Volunteers</brief_title>
+  <official_title>A Phase 1/2a Study (Dose Escalation, Single Center, Open, Phase 1 and Multicenter, Randomized, Open, Phase 2a) to Assess the Safety and Immunogenicity of AdCLD-CoV19: A COVID-19 Preventive Vaccine in Healthy Volunteers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Cellid Co., Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Cellid Co., Ltd.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a Phase 1/2a clinical trial to assess the safety and immunogenicity of AdCLD-CoV19 in&#xD;
+      healthy adults.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Part A is conducted as dose-escalation, single-center, open-label, a Phase 1 clinical trial.&#xD;
+      Part B is conducted as multi-center, randomized, open-label, a Phase 2a clinical trial. In&#xD;
+      Part A, we assess safety in all dose groups and set suitable two doses for Part B. In Part B,&#xD;
+      we assess immune responses against SARS-CoV-2 and set suitable dose for next phase of&#xD;
+      clinical trial. DSMB will evaluate safety and immunogenicity during the whole study period.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 29, 2020</start_date>
+  <completion_date type="Anticipated">April 2022</completion_date>
+  <primary_completion_date type="Anticipated">March 2021</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>Phase I: Sequential Phase IIa: Parallel</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of solicited adverse events(AEs)</measure>
+    <time_frame>Through 7 days post-vaccination</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of unsolicited AEs</measure>
+    <time_frame>Through 28 days post-vaccination</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of serious adverse events(SAEs)</measure>
+    <time_frame>Through 12 months post-vaccination</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of adverse events of special interest(AESIs)</measure>
+    <time_frame>Through 12 months post-vaccination</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Seroconversion rate(SCR) of neutralization antibody using wild type SARS-CoV-2</measure>
+    <time_frame>4 weeks post-vaccination</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Geometric mean titer(GMT) of neutralization antibody using wild type SARS-CoV-2</measure>
+    <time_frame>4 weeks post-vaccination</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>GMT of S protein specific antibody</measure>
+    <time_frame>2, 4, 26, 52 weeks post-vaccination</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Index of T cell response</measure>
+    <time_frame>2, 4, 26, 52 weeks post-vaccination</time_frame>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>SCR of neutralization antibody using pseudovirus</measure>
+    <time_frame>2, 4, 26, 52 weeks post-vaccination</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>GMT of neutralization antibody using pseudovirus</measure>
+    <time_frame>2, 4, 26, 52 weeks post-vaccination</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>GMT of S protein receptor binding domain(RBD) specific antibody</measure>
+    <time_frame>2, 4, 26, 52 weeks post-vaccination</time_frame>
+  </other_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Anticipated">150</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Group 1: low dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subject will receive single dose of AdCLD-CoV19(2.5x10^10VP) as intramuscular injection.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 2: middle dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subject will receive single dose of AdCLD-CoV19(5.0x10^10VP) as intramuscular injection.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 3: high dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subject will receive single dose of AdCLD-CoV19(1.0x10^11VP) as intramuscular injection.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 4: selected dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subject will receive single dose of AdCLD-CoV19 as intramuscular injection.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 5: selected dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subject will receive single dose of AdCLD-CoV19 as intramuscular injection.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>AdCLD-CoV19</intervention_name>
+    <description>Replication-defective human adenovirus type 5/35 vector based vaccine expressing S protein of SARS-CoV-2.</description>
+    <arm_group_label>Group 1: low dose</arm_group_label>
+    <arm_group_label>Group 2: middle dose</arm_group_label>
+    <arm_group_label>Group 3: high dose</arm_group_label>
+    <arm_group_label>Group 4: selected dose</arm_group_label>
+    <arm_group_label>Group 5: selected dose</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Able and willing to agree informed consent and aged 19 to 64 years.&#xD;
+&#xD;
+          2. The BMI index is 18.5 kg/m2 to 30.0 kg/m2.&#xD;
+&#xD;
+          3. Weigh 40kg to 100kg (Part A only)&#xD;
+&#xD;
+          4. Able and willing to medically effective contraception during the whole study period.&#xD;
+&#xD;
+          5. Agreement to refrain from blood donation during the whole study period.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Anyone deemed infected by COVID-19.&#xD;
+&#xD;
+          2. Determined to be a close-contact of SARS-CoV-2 confirmed case or classified to&#xD;
+             symptomatic patient of COVID-19 prior to vaccination.&#xD;
+&#xD;
+          3. Clinically significant abnormal ranges of laboratory measurement, ECG, Chest X-ray at&#xD;
+             screening visit.&#xD;
+&#xD;
+          4. Positive in HIV, HBV, HCV test at screening visit.&#xD;
+&#xD;
+          5. Acute fever(≥ 38℃) or suspected infectious disease, symptoms of infectious&#xD;
+             disease(cough, difficulty breathing, chills, muscle aches, headache, sore throat, loss&#xD;
+             of smell, or loss of taste, etc.) within 3 days prior to vaccination.&#xD;
+&#xD;
+          6. Chronic respiratory disease: Asthma, chronic obstructive pulmonary disease, active&#xD;
+             tuberculosis, latent tuberculosis under treatment.&#xD;
+&#xD;
+          7. Clinically significant active or any history of disease: Hepatobiliary system, kidney,&#xD;
+             central or peripheral nervous system (epilepsy, seizure, etc.), endocrine system&#xD;
+             (uncontrolled diabetes, hyperlipidemia, etc.), cardiovascular system (congestive heart&#xD;
+             failure, coronary artery disease, myocardial infarction, control Hypertension, etc.),&#xD;
+             blood tumor, urinary system, mental, musculoskeletal system, immune system (rheumatoid&#xD;
+             arthritis, systemic lupus erythematosus).&#xD;
+&#xD;
+          8. Immunosuppressive disease including immunodeficiency disease.&#xD;
+&#xD;
+          9. Scheduled to undergo any surgery during the whole study period.&#xD;
+&#xD;
+         10. Healthcare worker who may provide medical care to SARS-CoV-2 cases or occupationally&#xD;
+             in high risk for SARS-CoV-2 exposure during the whole study period.&#xD;
+&#xD;
+         11. Prisoners or subjects who are compulsorily detained. (involuntary incarceration)&#xD;
+&#xD;
+         12. History of SARS or MERS.&#xD;
+&#xD;
+         13. Allergic reaction or hypersensitivity to any ingredient of AdCLD-CoV19.&#xD;
+&#xD;
+         14. Having hemophilia at risk of causing serious bleeding when injected intramuscularly or&#xD;
+             receiving anticoagulants.&#xD;
+&#xD;
+         15. Any history of malignant disease within the past 5 years.&#xD;
+&#xD;
+         16. History of hypersensitivity to inoculate vaccine such as Guillain-Barre syndrome.&#xD;
+&#xD;
+         17. History of serious adverse reaction or allergic reaction to inoculate vaccine.&#xD;
+&#xD;
+         18. Urticaria past 5 years prior to vaccination.&#xD;
+&#xD;
+         19. History of hereditary angioneurotic edema or acquired angioneurotic edema.&#xD;
+&#xD;
+         20. History of solid organ or bone marrow transplantation.&#xD;
+&#xD;
+         21. Suspected or a history of drug or alcohol abuse past 12 month before&#xD;
+             vaccination.(excess 21 units/week)&#xD;
+&#xD;
+         22. Receipt of vaccine of SARS-CoV, MERS-CoV, SARS-CoV-2.&#xD;
+&#xD;
+         23. Receipt of adenovirus vector based vaccine.&#xD;
+&#xD;
+         24. Chronic use of immunosuppressant or immune modifying drug within 6 months prior to&#xD;
+             vaccination. (use of inhaled, topical, nasal, and ophthalmic corticosteroids are&#xD;
+             allowed)&#xD;
+&#xD;
+         25. Having relied on antipsychotic drugs and narcotic analgesics within 6 months before&#xD;
+             vaccination or difficult to comply with the clinical trial procedure at the judgment&#xD;
+             of the investigator.&#xD;
+&#xD;
+         26. Administered to other investigational product or medical device within 6 months before&#xD;
+             vaccination.&#xD;
+&#xD;
+         27. Other vaccination history within 30 days prior to vaccination or being scheduled&#xD;
+             within 30 days after vaccination.&#xD;
+&#xD;
+         28. Receipt of immunoglobulin or any blood product within 3 month prior to vaccination.&#xD;
+&#xD;
+         29. Pregnant(including positive hCG test at screening visit) or breastfeeding female.&#xD;
+&#xD;
+         30. Current smoker or vaper. (use of cigarette or e-cigarette at least once in last 30&#xD;
+             days)&#xD;
+&#xD;
+         31. Those who are directly related to the investigator.&#xD;
+&#xD;
+         32. Other condition deemed ineligible for the study at the discretion of investigator.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>19 Years</minimum_age>
+    <maximum_age>64 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Geon Kim, PharmM</last_name>
+    <phone>+82-3285-7863</phone>
+    <email>gkim@cellid.co.kr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Korea University Guro Hospital</name>
+      <address>
+        <city>Seoul</city>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Geon Kim, M.S</last_name>
+      <email>gkim@cellid.co.kr</email>
+    </contact>
+    <contact_backup>
+      <last_name>Gaeun Park, B.S</last_name>
+      <email>gepark@cellid.co.kr</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Cheong Heejin, Ph.D</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>December 10, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 11, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 14, 2020</study_first_posted>
+  <last_update_submitted>January 3, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 3, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 5, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

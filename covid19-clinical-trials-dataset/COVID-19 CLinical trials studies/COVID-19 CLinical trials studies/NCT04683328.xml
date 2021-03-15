@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2600">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04683328</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SCTA01-C301</org_study_id>
+    <nct_id>NCT04683328</nct_id>
+  </id_info>
+  <brief_title>The Safety and Efficacy of SCTA01 Against COVID-19 in Patients Admitted to High Dependence or Intensive Care</brief_title>
+  <official_title>An Adaptive, Randomized, Double-blinded, Placebo-controlled, Phase II/III Trial of Monoclonal Antibody SCTA01 Against SARS-CoV-2 in Patients With Severe COVID-19 Admitted to High Dependence or Intensive Care Unit (MASP3 Trial)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sinocelltech Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Sinocelltech Ltd.</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is an adaptive, randomized, double-blinded, placebo-controlled, Phase II/III study&#xD;
+      conducted to evaluate the effect of SCTA01 on participant survival and clinical efficacy in&#xD;
+      participants with severe COVID-19 admitted to high dependence or ICUs.&#xD;
+&#xD;
+      The study duration of subject participation will be up to: 120 days Participants will receive&#xD;
+      a single intravenous (IV) infusion of SCTA01 at Treatment day 1. Follow up visits will be up&#xD;
+      to 120 days or early withdrawal visit.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The study is a multicenter, adaptive, randomized, double-blinded, and placebo-controlled&#xD;
+      Phase II/III trial. It will be conducted globally. The study will evaluate the efficacy and&#xD;
+      safety of SCTA01 compared to placebo both given with BSC in participants with severe&#xD;
+      COVID-19. The subjects will be randomized by 1:1 ratio to SCTA01 and placebo group. The&#xD;
+      primary objective of the study is to evaluate participant survival from randomization to Day&#xD;
+      29 between study group and control group. At the end of the Phase II part of the study, an&#xD;
+      interim analysis will be performed for safety run-in and futility stopping.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 25, 2021</start_date>
+  <completion_date type="Anticipated">November 25, 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 25, 2021</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>SCTA01+BSC vs Placebo+BSC</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>All-cause mortality rate at D29</measure>
+    <time_frame>Day 29</time_frame>
+    <description>The mortality rates in placebo and treatment groups regardless of the cause of death.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>All-cause mortality rate at Day 60</measure>
+    <time_frame>Day 60</time_frame>
+    <description>The mortality rates in placebo and treatment groups regardless of the cause of death.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to discontinue mechanical ventilation (MV) at Day 29</measure>
+    <time_frame>Baseline through Day 29</time_frame>
+    <description>The number of days from randomization to discontinue MV support</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to improvement of two categories on WHO 10-Point Ordinal Scale from baseline at Day 29</measure>
+    <time_frame>Baseline through Day 29</time_frame>
+    <description>The number of days from baseline to two categories decreases on World Health Organization (WHO) 10-Point Ordinal Scale at Day 29.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to discontinue supplemental oxygen at Day 29</measure>
+    <time_frame>Baseline through Day 29</time_frame>
+    <description>The number of days from randomization to discontinue supplemental oxygen support</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to hospital free at Day 29</measure>
+    <time_frame>Baseline through Day 29</time_frame>
+    <description>The number of days from randomization to subject's discharge from hospital.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in viral shedding as measured by quantitative reverse transcription polymerase chain reaction (RT-qPCR)</measure>
+    <time_frame>Baseline through Day 29</time_frame>
+    <description>Change from baseline in viral shedding</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SAE</measure>
+    <time_frame>Day 1 through Day 120</time_frame>
+    <description>SAEs collected from Day 1 to Day 120</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anti-drug antibody (ADA)</measure>
+    <time_frame>Day 29, Day 120</time_frame>
+    <description>ADA will be tested at Day 29 and Day120 after SCTA01/placebo administration</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">560</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>SCTA01 Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>SCTA01+Best Supportive Care</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo Group</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo+Best Supportive Care</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>SCTA01</intervention_name>
+    <description>Recombinant anti-SARS-CoV-2 spike protein monoclonal antibody</description>
+    <arm_group_label>SCTA01 Group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>SCTA01 Placebo</intervention_name>
+    <description>The excipients of SCTA01</description>
+    <arm_group_label>Placebo Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Male and female of ≥18years at time of enrollment;&#xD;
+&#xD;
+          -  Subject (or legally authorized representative [LAR]) is able and willing to provide&#xD;
+             written or verbal informed consent, which includes compliance with study requirements&#xD;
+             and restrictions listed in the consent form.&#xD;
+&#xD;
+          -  Female subjects must agree to use an approved highly effective birth control (BC)&#xD;
+             method (&lt;1% failure rate per year) throughout the study (until completion of the Day&#xD;
+             85 Follow-up Visit), unless documented to have a reproductive status of&#xD;
+             non-childbearing potential or is postmenopausal:&#xD;
+&#xD;
+               1. Non-childbearing potential defined as pre-menopausal female with medical history&#xD;
+                  of bilateral tubal ligation, bilateral oophorectomy (removal of the ovaries), or&#xD;
+                  hysterectomy; hysteroscopic sterilization,&#xD;
+&#xD;
+               2. Postmenopausal defined as 12 months of spontaneous amenorrhea&#xD;
+&#xD;
+          -  Woman of childbearing potential (WCBP) who is already using an established method of&#xD;
+             highly effective contraception or agrees to use one of the allowed BC methods listed&#xD;
+             in the protocol, for at least 28 days prior to the start of dosing (as determined by&#xD;
+             the Investigator or designee) to sufficiently minimize the risk of pregnancy&#xD;
+             throughout study participation (until completion of the Day 90 Follow-up Visit).&#xD;
+&#xD;
+          -  Hospitalized participants with severe COVID-19（6-8 point on WHO 10-Point Ordinal&#xD;
+             Scale):&#xD;
+&#xD;
+               1. Point 6: Oxygen by NIV or high flow;&#xD;
+&#xD;
+               2. Point 7: Intubation and MV, pO2/FiO2 ≥ 150 mmHg or SpO2/FiO2 ≥ 200 mmHg;&#xD;
+&#xD;
+               3. Point 8: MV pO2/FiO2 &lt; 150 mmHg (or SpO2/FiO2 &lt; 200 mmHg) or vasopressors .&#xD;
+&#xD;
+          -  Biological samples (not limited to any specific type) collected within 72 hours (allow&#xD;
+             retesting for potential subjects that tested positive beyond 72 hours) before&#xD;
+             randomization is laboratory-confirmed as SARS-CoV-2 infection (PCR, etc.);&#xD;
+&#xD;
+          -  ≤ 14 days since the onset of COVID-19 symptoms.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Subject has been intubated for &gt;72 hours. Note: in the event of extubation and&#xD;
+             re-intubation, the calculation for the number of hours the subject has been intubated&#xD;
+             begins at the first intubation&#xD;
+&#xD;
+          -  Require or anticipated need for extracorporeal membrane oxygenation (ECMO) Suspected&#xD;
+             or proven septic shock or shock ;&#xD;
+&#xD;
+          -  Alanine aminotransferase (ALT) or aspartate aminotransferase (AST) is &gt;5 times higher&#xD;
+             than the upper limit normal range;&#xD;
+&#xD;
+          -  Severe chronic respiratory disease (e.g., known chronic obstructive pulmonary disease&#xD;
+             [COPD], pulmonary arterial hypertension [PAH], idiopathic pulmonary fibrosis [IPF],&#xD;
+             interstitial lung disease [ILD]) requiring supplemental oxygen therapy or mechanical&#xD;
+             ventilation pre-hospitalization (e.g., prior to COVID-19 diagnosis)&#xD;
+&#xD;
+          -  Use of prohibited medications&#xD;
+&#xD;
+          -  Participants with severe COVID-19 who received convalescent plasma or COVID-19 vaccine&#xD;
+             , or anti-spike (S) SARS-CoV-2 therapy.&#xD;
+&#xD;
+          -  Moribund condition in the opinion of the clinical team&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Zhanghua Lan, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>SCT</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ji Qi, PhD</last_name>
+    <phone>+86-10-5862 8288</phone>
+    <phone_ext>9360</phone_ext>
+    <email>ji_qi@sinocelltech.com</email>
+  </overall_contact>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>December 20, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 22, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 24, 2020</study_first_posted>
+  <last_update_submitted>January 17, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 17, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 20, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

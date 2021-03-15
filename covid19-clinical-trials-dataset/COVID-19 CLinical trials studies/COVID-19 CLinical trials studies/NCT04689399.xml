@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1114">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04689399</url>
+  </required_header>
+  <id_info>
+    <org_study_id>COVID-19</org_study_id>
+    <nct_id>NCT04689399</nct_id>
+  </id_info>
+  <brief_title>Sensitivity and Specificity of SARS-CoV-2 Rapid Antigen Test Compared to RT-PCR Test</brief_title>
+  <official_title>Sensitivity and Specificity of SARS-CoV-2 Rapid Antigen Test Compared to RT-PCR Test</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Rigshospitalet, Denmark</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Testcenter Danmark, Statens Serum Institut</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Copenhagen Emergency Medical Services</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Rigshospitalet, Denmark</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This project aims to investigate the sensitivity and specificity of the rapid antigen test&#xD;
+      compared to RT-PCR test performed on samples from the nasopharynx and the oropharynx,&#xD;
+      respectively.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The purpose of the study is to investigate the sensitivity and specificity of correct&#xD;
+      SARS-CoV-2 test results of nasopharyngeal swabs examined by rapid antigen test (Standard Q&#xD;
+      COVID-19 Ag - test, SD Biosensor INC.) compared with swabs from the oropharynx examined by&#xD;
+      RT-PCR test among citizens who have booked an appointment for a COVID-19 test in one of&#xD;
+      Testcenter Denmark's test centers in the Capital Region.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 26, 2020</start_date>
+  <completion_date type="Anticipated">December 29, 2020</completion_date>
+  <primary_completion_date type="Anticipated">December 29, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Citizens who have booked an appointment and shows up for a COVID-19 test at a Testcenter Denmark test center in the Capital Region are offered to participate in the project.</intervention_model_description>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Sensitivity and specificity of the rapid antigen test of COVID-19</measure>
+    <time_frame>It is expected that the required number of participants can be included during approximately one week after t</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Economic analyses</measure>
+    <time_frame>It is expected that the required number of participants can be included during approximately one week after t</time_frame>
+    <description>We plan to calculate and compare costs of the antigen tests with the RT-PCR tests. Costs are calculated using the ingredients method, in which all components relevant to consider are included in cost estimates. The cost of the tests will include the test kit, instruments needed for testing and salaries of the personnel doing the swaps. Moreover, we will model the opportunity costs of the two alternatives (antigen tests vs. RT-PCR) in terms of their implications for number of sick days, in which patients/test takes cannot resume work. We anticipate that the antigen tests will be less expensive per positive test result and that they will have lower opportunity costs due to immediate test results instead of delayed test results.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PCR analysis on nasopharyngeal swabs</measure>
+    <time_frame>It is expected that the required number of participants can be included during approximately one week after t</time_frame>
+    <description>For a sample of the included patients the leftover material from the rapid antigen tests will subsequently be analyzed with the use of PCR to investigate if results diverge based on the anatomic location of the swabbed area. Patients included in the last two days of the study period (30th of December and 31th of December 2020) will be selected to have this additional analysis performed.</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">4000</enrollment>
+  <condition>Covid19</condition>
+  <condition>Rapid Antigen Test</condition>
+  <condition>SARS-CoV-2</condition>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Standard Q COVID-19 Ag - test, produced by SD Biosensor INC.</intervention_name>
+    <description>Alle Danish citizens tested for infection with SARS-CoV-2 by swabs in the oropharynx, and subsequently analysis of the specimens by RT-PCR test at Testcenter Danmark's test centers will be included in the study. Participants will, in addition to the oropharyngeal swab they are already schedule for, be examined by a rapid antigen test.</description>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age &gt; 18 years&#xD;
+&#xD;
+          -  A booked appointment for a COVID-19 test at one of Testcenter Denmark's test centers&#xD;
+             in the Capital Region&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Previously tested positive for COVID-19&#xD;
+&#xD;
+          -  Non-fluent in Danish&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Christian von Buchwald, MD, DMSc, Professor</name>
+      <address>
+        <city>Copenhagen</city>
+        <zip>2100</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Christian von Buchwald, MD, DMSc, Professor</last_name>
+      <phone>35 45 60 33</phone>
+      <email>Oere-Naese-Hals.rigshospitalet@regionh.dk</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Denmark</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>December 26, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 28, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 30, 2020</study_first_posted>
+  <last_update_submitted>January 3, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 3, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 5, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Rigshospitalet, Denmark</investigator_affiliation>
+    <investigator_full_name>Christian von Buchwald</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hypersensitivity</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

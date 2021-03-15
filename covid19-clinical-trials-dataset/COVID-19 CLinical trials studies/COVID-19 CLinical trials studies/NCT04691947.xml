@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1073">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04691947</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IDEAL00420-EU01-PK537-1</org_study_id>
+    <nct_id>NCT04691947</nct_id>
+  </id_info>
+  <brief_title>Safety and Immunogenicity of Two Different Strengths of the Inactivated COVID-19 Vaccine ERUCOV-VAC</brief_title>
+  <acronym>ERUCOV-VAC</acronym>
+  <official_title>Phase 1 Study for the Determination of Safety and Immunogenicity of Two Different Strengths of the Inactivated COVID-19 Vaccine ERUCOV-VAC, Given Twice Intramuscularly to Healthy Volunteers, in a Placebo Controlled Study Design.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Health Institutes of Turkey</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>TC Erciyes University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Health Institutes of Turkey</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The objective is to determine the safety and immunogenicity of two different strengths (3 µg&#xD;
+      and 6 µg) of an inactivated COVID 19 Vaccine compared to placebo so that to demonstrate the&#xD;
+      safety and efficacy in prophylaxis of COVID-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a double-blind, double dose, parallel, randomized vaccination study. Each subject&#xD;
+      will receive in random order a double intramuscular dose of ERUCOV-VAC 3 µg/0.5 ml Vaccine,&#xD;
+      ERUCOV-VAC 6 µg/0.5 ml Vaccine or 0.5 ml of placebo Vaccine according to a sequence&#xD;
+      determined by randomization, on Day 0 (1st vaccination) and Day 21 (2nd vaccination).In total&#xD;
+      34 healthy subjects of both genders will be monitored for one year in total, after Day 43 the&#xD;
+      study will be unblinded and the volunteers who took placebo vaccine will be released from the&#xD;
+      study. The most important evaluation will be performed on Day 43 after the first vaccine&#xD;
+      dose.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 5, 2020</start_date>
+  <completion_date type="Anticipated">March 15, 2022</completion_date>
+  <primary_completion_date type="Anticipated">March 1, 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To assess the safety and tolerability of the COVID-19 vaccine</measure>
+    <time_frame>43 days</time_frame>
+    <description>The number and proportion of subjects with adverse events observed until Day 43 post 1st vaccination are declared to be primary target variables.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Serum IgG antibody Levels</measure>
+    <time_frame>12 months</time_frame>
+    <description>Serum IgG antibody levels specific for the SARS-CoV-2 rS protein antigen(s).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neutralizing Antibodies Levels</measure>
+    <time_frame>12 months</time_frame>
+    <description>Serum Neutralizing antibody levels.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>TNF-alpha Levels</measure>
+    <time_frame>12 months</time_frame>
+    <description>Serum TNF-alpha levels.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Interferon Levels</measure>
+    <time_frame>12 months</time_frame>
+    <description>Serum IFN-γ levels.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Interleukine Levels</measure>
+    <time_frame>12 months</time_frame>
+    <description>Serum IL-2, -4, -5, -6 levels.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">44</enrollment>
+  <condition>COVID-19 Vaccine</condition>
+  <arm_group>
+    <arm_group_label>Low dose vaccine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Type: Biological/Vaccine Name: ERUCOV-VAC 3 µg/0.5 ml Vaccine Intervention Description:Two applications on Days 0 and 21</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Medium dose vaccine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Type: Biological/Vaccine Name: ERUCOV-VAC 6 µg/0.5 ml Vaccine Intervention Description: Two applications on Days 0 and 21</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo Vaccine, containing 0.9 % saline Intervention Description: Two applications on Days 0 and 21</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>ERUCOV-VAC</intervention_name>
+    <description>Vaccination on Day 0 and Day 21</description>
+    <arm_group_label>Low dose vaccine</arm_group_label>
+    <arm_group_label>Medium dose vaccine</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo Vaccine</intervention_name>
+    <description>Placebo Vaccination on Day 0 and Day 21</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  healthy Caucasian origin&#xD;
+&#xD;
+          -  age between 18 and 55 years&#xD;
+&#xD;
+          -  accepting not to participate in another COVID-19 vaccine study until the end of the&#xD;
+             study&#xD;
+&#xD;
+          -  volunteers who do not plan to get a child in the next one year; the volunteer and the&#xD;
+             partner should use a reliable form of contraception (abstinence, condom, birth control&#xD;
+             implant, birth control pills used or IUD used by the partner) during the study for at&#xD;
+             least 1 year&#xD;
+&#xD;
+          -  participants must refrain from blood or plasma donation from the time of first&#xD;
+             vaccination until 3 months after last vaccination&#xD;
+&#xD;
+          -  the outcome of the following examinations should be clinically insignificant: medical&#xD;
+             and surgical history (hypo-, hypertension, allergy, other diseases, major surgery,&#xD;
+             micturition, defecation, sleep, illness within the last 4 weeks prior to the start of&#xD;
+             the trial);&#xD;
+&#xD;
+          -  life style and habits (consumption of alcohol, nicotine, coffee, tea, coke, special&#xD;
+             diet, drug abuse) should be normal/acceptable&#xD;
+&#xD;
+          -  body temperature, pulse rate, blood pressure, respiratory rate and 12 lead ECG should&#xD;
+             be normal/acceptable.&#xD;
+&#xD;
+          -  physical examination (general state and abnormal findings per system:&#xD;
+             endocrine/metabolic, allergies, drug sensitivities, head, neck, eyes, ears, nose,&#xD;
+             throat, cardiovascular, respiratory, gastrointestinal, hepatic/biliary, urogenital,&#xD;
+             musculoskeletal, lymph nodes, skin, and neurological/psychiatric) should be&#xD;
+             normal/acceptable&#xD;
+&#xD;
+          -  laboratory examination (blood/serum examination: sodium, potassium, calcium, chloride,&#xD;
+             total protein, albumin, glucose, creatinine, BUN, uric acid, total bilirubin, direct&#xD;
+             and indirect bilirubin, lipid panel (total cholesterol, triglyceride, HDL, LDL), AST,&#xD;
+             ALT, GGT, ALP, haemoglobin, haematocrit, erythrocytes, leukocytes, platelet count,&#xD;
+             prothrombin time (PT) and activated partial thromboplastin time (aPTT); HBsAg, HIV-Ab,&#xD;
+             HCV-Ab; urine examination: urine color, appearance, specific gravity, pH, protein,&#xD;
+             glucose, ketones, blood, leukocytes, bilirubin, urobilinogen, nitrites and sediment if&#xD;
+             erythrocytes or leukocytes are out of the limits ) should be normal/acceptable.&#xD;
+&#xD;
+          -  antiSARS CoV 2 total antibody (including COVID-19 IgG and/or IgM) negative in serum.&#xD;
+&#xD;
+          -  drug screening negative (amphetamines, cannabinoids, benzodiazepines, cocaine,&#xD;
+             opioids, barbiturates)&#xD;
+&#xD;
+          -  normal body weight in relation to height and age according to BMI (accepted range 18.5&#xD;
+             and 30 kg/m2)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  women with a positive blood (β-HCG) pregnancy test&#xD;
+&#xD;
+          -  lactating women&#xD;
+&#xD;
+          -  history of COVID-19 infection or showing COVID-19 infection symptoms&#xD;
+&#xD;
+          -  having had contact to people with known COVID-19 infection in the last 14 days&#xD;
+&#xD;
+          -  having fever (&gt; 37.4oC in the last 24 hours), dry cough or feeling tired and having&#xD;
+             aches and pains, nasal congestion, runny nose, sore throat and diarrhea.&#xD;
+&#xD;
+          -  positive real time RT-PCR COVID-19 test.&#xD;
+&#xD;
+          -  persons with autoimmune diseases&#xD;
+&#xD;
+          -  allergic diathesis or any clinically significant allergic disease (i.e. asthma)&#xD;
+&#xD;
+          -  any condition that might impair the immune response&#xD;
+&#xD;
+          -  recent or current immunosuppressive medication&#xD;
+&#xD;
+          -  any other vaccine application 30 days before the first dose&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <gender_based>Yes</gender_based>
+    <gender_description>Non-pregnant women</gender_description>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Zafer Sezer</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Erciyes University Hakan Çetinsaya Iyi Klinik Uygulama ve Arastirma Merkezi, IKUM (Center for GCP)</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>ZAFER SEZER</last_name>
+    <phone>+90352 207 66 66</phone>
+    <phone_ext>24405</phone_ext>
+    <email>drzafersezer@gmail.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>AYKUT Özdarendeli</last_name>
+    <phone>+90 352 437 9300</phone>
+    <email>aozdarendelia@gmail.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Erciyes University Hakan Çetinsaya Iyi Klinik Uygulama ve Arastirma Merkezi, IKUM (Center for GCP)</name>
+      <address>
+        <city>Kayseri</city>
+        <zip>38038</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Ahmet İnal</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>M.Mümtaz Mazıcıoğlu</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Adnan Bayram</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Zeynep Türe Yüce</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Aykut Özdarendeli</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Turkey</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>November 14, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 30, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 31, 2020</study_first_posted>
+  <last_update_submitted>December 31, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 31, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 5, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Inactive Vaccine</keyword>
+  <keyword>Phase I</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

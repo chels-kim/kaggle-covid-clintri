@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1011">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04731051</url>
+  </required_header>
+  <id_info>
+    <org_study_id>HYDR0121/CCO</org_study_id>
+    <nct_id>NCT04731051</nct_id>
+  </id_info>
+  <brief_title>The Potential Use of Inhaled Hydroxychloroquine for the Treatment of COVID-19 in Cancer Patients</brief_title>
+  <official_title>A Pilot, Randomized, Open-label Trial to Determine the Feasibility, Safety, Efficacy, and Pharmacokinetics of Nebulized HCQ01 for the Treatment of Patients With COVID-19 and Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>King Hussein Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Amman Pharmaceutical Industries (API)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Sana Pharmaceutical Industry</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>ACDIMA Center for Bioequivalence and Pharmaceutical Studies (ACDIMA BioCenter)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>King Hussein Cancer Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a pilot, randomized, single-center, parallel group, open-label controlled study to&#xD;
+      evaluate the feasibility, safety, efficacy, and pharmacokinetics of nebulized HCQ01 plus&#xD;
+      Standard of Care (SOC) versus SOC alone in hospitalized cancer patients with COVID-19. King&#xD;
+      Hussein Cancer Center (KHCC) is the study sponsor, and the study will be conducted at KHCC&#xD;
+      COVID-19 wards.&#xD;
+&#xD;
+      Approximately 28 cancer patients, ≥18 years of age with a confirmed SARS-CoV-2 infection,&#xD;
+      will be enrolled and randomized 3:1 to the treatment and control arms where they will receive&#xD;
+      ten doses of Hydroxychloroquine solution via nebulizer in addition to SOC or the control arm&#xD;
+      where treatment will follow KHCC SOC.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 2021</start_date>
+  <completion_date type="Anticipated">September 2021</completion_date>
+  <primary_completion_date type="Anticipated">September 2021</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion of participants who improve by at least one level lower on the 11-point World Health Organization Ordinal Scale for Clinical Improvement (WHO-OSCI), where patients are scored on a scale of 0-10 with 0 being uninfected and 10 being dead .</measure>
+    <time_frame>Time Frame: Day 14</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of participants who improve by at least one level lower on the 11-point WHO-OSCI</measure>
+    <time_frame>Days 5, 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in condition measured using the 11-point WHO-OSCI</measure>
+    <time_frame>Days 5, 14, 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>All-cause mortality</measure>
+    <time_frame>Day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hydroxychloroquine (HCQ) concentration in plasma versus time profiles</measure>
+    <time_frame>Day 1 pre-dose (time 0) and +2, +5, +10, +15, +20, +25, and +30 minutes after dose, and also +1, +2, +3, +4 and +6 hours post-dose completion</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline Oxygenation as determined by the SpO2 / FiO2 ratio</measure>
+    <time_frame>Day 5 of treatment</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Treatment-related adverse events of HCQ</measure>
+    <time_frame>Up to day 28</time_frame>
+    <description>Incidence and severity of treatment-related adverse events.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of Transfer to the Intensive Care Unit</measure>
+    <time_frame>Up to day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Clinical Improvement</measure>
+    <time_frame>Up to day 28</time_frame>
+    <description>time (in days) to improvement in clinical status by at least one level lower on the 11 point WHO-OSCI</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of hospitalization</measure>
+    <time_frame>Up to 28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Hospital Discharge OR NEWS2 (National Early Warning Score 2) of ≤ 2 maintained for 24 hrs</measure>
+    <time_frame>Up to 28 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Status of discharged or not requiring supplemental oxygen</measure>
+    <time_frame>Day 14, 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rates of Intensive Care Unit mortality</measure>
+    <time_frame>Day 14, 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intensive Care length of stay</measure>
+    <time_frame>Up to day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Oxygenation free days</measure>
+    <time_frame>Day 14, 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ventilator free days</measure>
+    <time_frame>Day 14, 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence &amp; duration of new oxygen use</measure>
+    <time_frame>Day 14, 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence and duration of new mechanical ventilation use</measure>
+    <time_frame>Day 14, 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cardiac Arrhythmia - Polymorphic Ventricular Tachycardia</measure>
+    <time_frame>Up to day 28</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cardiac Arrhythmia - Ventricular Tachycardia</measure>
+    <time_frame>Up to day 28</time_frame>
+    <description>Cardiologist Diagnostic Documentation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cardiac Arrhythmia - Lengthening QTc</measure>
+    <time_frame>Up to day 28</time_frame>
+    <description>Cardiologist Diagnostic Documentation</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">28</enrollment>
+  <condition>2019 Novel Coronavirus</condition>
+  <arm_group>
+    <arm_group_label>First Arm (Hydroxychloroquine sulfate, 5 days)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive continued standard of care therapy (SOC) for COVID-19 together with 2 ml HCQ01 (12.5 mg/ml) twice a day for 5 consecutive days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Second Arm (Continued Standard of Care (SOC) Therapy)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants will receive continued standard of care therapy for COVID-19</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>HCQ01</intervention_name>
+    <description>HCQ01 is a sterile, clear and colorless, ready-to-use aqueous nebulizer solution. Hydroxychloroquine sulfate administered via nebulization</description>
+    <arm_group_label>First Arm (Hydroxychloroquine sulfate, 5 days)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>standard of care (SOC) for COVID-19</intervention_name>
+    <description>Standard of care (SOC) for COVID-19</description>
+    <arm_group_label>First Arm (Hydroxychloroquine sulfate, 5 days)</arm_group_label>
+    <arm_group_label>Second Arm (Continued Standard of Care (SOC) Therapy)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Documented informed consent of the patient and/or legally authorized representative.&#xD;
+             Assent, when appropriate, will be obtained per institutional guidelines.&#xD;
+&#xD;
+          2. Male or female ≥18 years of age at time of enrollment.&#xD;
+&#xD;
+          3. History of/ or active histologically or cytologically confirmed diagnosis of&#xD;
+             hematological or solid tumor (any type, any stage and any localization).&#xD;
+&#xD;
+          4. Eastern Cooperative Oncology Group (ECOG) Status &lt; or = 3.&#xD;
+&#xD;
+          5. Patients must have an active cancer treatment or have completed therapy within 12&#xD;
+             months of initiation of protocol specified therapy. This includes:&#xD;
+&#xD;
+               -  Patients with a new cancer diagnosis who have not yet initiated cancer therapy.&#xD;
+&#xD;
+               -  Patients on active or have recently completed cancer-directed therapy including&#xD;
+                  chemotherapy, targeted therapy, radiation therapy, immunotherapy or hormonal&#xD;
+                  therapy amongst others which would not increase the risk of having an adverse&#xD;
+                  outcome from participating in this study.&#xD;
+&#xD;
+          6. Currently hospitalized with laboratory-confirmed SARS-CoV-2 infection as determined by&#xD;
+             polymerase chain reaction (PCR) collected within one week prior to randomization.&#xD;
+&#xD;
+          7. Initial COVID-19 severity status on the WHO 11-point Ordinal Scale for Clinical&#xD;
+             Improvement = 5 (&quot;Hospitalized; oxygen by mask or nasal prongs &quot;), or 6&#xD;
+             (&quot;Hospitalized; oxygen by NIV or high flow &quot;).&#xD;
+&#xD;
+          8. Estimated life expectancy of at least 6 months at hospital admission for COVID-19.&#xD;
+&#xD;
+          9. Patients must be receiving standard of care for SARS-CoV-2.&#xD;
+&#xD;
+         10. Patients must have an assessment of adequate organ function within 28 days prior to&#xD;
+             enrollment, evidenced by:&#xD;
+&#xD;
+               -  Hemoglobin ≥ 9.0 g / dL&#xD;
+&#xD;
+               -  Leukometry&gt; 2,000 / mm3&#xD;
+&#xD;
+               -  Absolute neutrophil count ≥ 1,500 / mm3&#xD;
+&#xD;
+               -  Platelet count ≥ 100,000 / mm3&#xD;
+&#xD;
+               -  Creatinine clearance ≥ 30 mL / min. Creatinine clearance (CrCl) should be&#xD;
+                  calculated according to the Cockcroft-Gault formula.&#xD;
+&#xD;
+               -  Total bilirubin &lt;3 x the upper limit of normal (ULN), except for patients with&#xD;
+                  known Gilbert's syndrome.&#xD;
+&#xD;
+               -  Aspartate aminotransaminase (AST) &lt;3.0 x LSN.&#xD;
+&#xD;
+               -  Alanine aminotransaminase (ALT) &lt;3.0 x ULN.&#xD;
+&#xD;
+         11. Patient should have not received a prior systemic antiviral treatment for COVID-19&#xD;
+             disease.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Pregnant (positive β-human chorionic gonadotropin test, β-HCG) or lactating female at&#xD;
+             screening.&#xD;
+&#xD;
+          2. Patients with a history of retinopathy, sickle cell disease or trait, psoriasis,&#xD;
+             porphyria, history of splenectomy, mental illness or uncontrolled seizures disorder,&#xD;
+             known active tuberculosis or history of incompletely treated tuberculosis,&#xD;
+             uncontrolled systemic bacterial or fungal infections, active viral infection other&#xD;
+             than COVID-19, Patients on chronic immunosuppression for other medical conditions such&#xD;
+             as rheumatological disorders, inflammatory bowel disease, or in patients with organ&#xD;
+             transplants.&#xD;
+&#xD;
+          3. Patients admitted in ICU.&#xD;
+&#xD;
+          4. Taking medications which may lead to interactions with hydroxychloroquine, including&#xD;
+             penicillamine, telbivudine, botulinum toxin, fluconazole, digoxin, propafenone ,&#xD;
+             cimetidine, , statins, warfarin, and cyclosporine within 2 weeks of dosing start, and&#xD;
+             during the duration of the study.&#xD;
+&#xD;
+          5. Glucose-6-phosphate dehydrogenase deficiency.&#xD;
+&#xD;
+          6. Pre-treatment corrected QT interval (QTc) ≥450 milliseconds.&#xD;
+&#xD;
+          7. Acute or chronic kidney disease (stage-4 or -5 renal impairment; eGFR&lt;30 mL/min/1.73&#xD;
+             m2 or hemodialysis).&#xD;
+&#xD;
+          8. Liver Child-Pugh grade C.&#xD;
+&#xD;
+          9. Patients with Hypokalemia (&lt;3.5 mg/dl), Hypocalcemia (&lt;8.0 mg/dl), Hypomagnesemia&#xD;
+             (&lt;1.6mg/dl) will be included after correction.&#xD;
+&#xD;
+         10. Need for mechanical ventilation.&#xD;
+&#xD;
+         11. History of hypersensitivity to hydroxychloroquine.&#xD;
+&#xD;
+         12. Chronic Hepatitis B or hepatitis C infections.&#xD;
+&#xD;
+         13. Human Immunodeficiency Virus (HIV) infection.&#xD;
+&#xD;
+         14. No concurrent serious illness including, but not limited to, any of the following:&#xD;
+&#xD;
+               -  Clinically significant cardiovascular disease (e.g., uncontrolled hypertension,&#xD;
+                  myocardial infarction, or unstable angina).&#xD;
+&#xD;
+               -  New York Heart Association class II-IV congestive heart failure.&#xD;
+&#xD;
+               -  Serious cardiac arrhythmia requiring medication.&#xD;
+&#xD;
+               -  Peripheral vascular disease ≥ grade 2 within the past year.&#xD;
+&#xD;
+               -  Psychiatric illness/social situation that would limit compliance with study&#xD;
+                  requirements.&#xD;
+&#xD;
+         15. Any other significant finding based on the judgment of the PI would increase the risk&#xD;
+             of having an adverse outcome from participating in this study.&#xD;
+&#xD;
+         16. Any other concomitant treatment based on the judgment of the PI would increase the&#xD;
+             risk of having an adverse outcome from participating in this study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Feras Hawari, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>King Hussein Cancer Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Feras Hawari, MD</last_name>
+    <phone>00962796699092</phone>
+    <email>fhawari@khcc.jo</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Yasmeen Dodin, MSc</last_name>
+    <phone>00962798950958</phone>
+    <email>YD.14502@KHCC.JO</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>King Hussein Cancer Center</name>
+      <address>
+        <city>Amman</city>
+        <zip>11941</zip>
+        <country>Jordan</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Feras Hawari, MD</last_name>
+      <phone>+962796699092</phone>
+      <email>fhawari@khcc.jo</email>
+    </contact>
+    <contact_backup>
+      <last_name>Yasmeen Dodin, MSc</last_name>
+      <phone>+962798950958</phone>
+      <email>YD.14502@KHCC.JO</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Feras Hawari, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Nasir Idkaidek, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Kamal AlRabi, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Mu'taz Labib, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Deeb Zahran, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Layan Abu Abed, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Nour Obeidat, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Yasmeen Dodin, MSc</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Amal Al-Omari, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Asma Tbakhi, MSc</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Rabab Tayyem, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Samer Najar, MSc</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Jordan</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>January 28, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 28, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 29, 2021</study_first_posted>
+  <last_update_submitted>January 29, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 29, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>King Hussein Cancer Center</investigator_affiliation>
+    <investigator_full_name>Feras Hawari</investigator_full_name>
+    <investigator_title>Consultant in Pulmonary and Critical Care</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

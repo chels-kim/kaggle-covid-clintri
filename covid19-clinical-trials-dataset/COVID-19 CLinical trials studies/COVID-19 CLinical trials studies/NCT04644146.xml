@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1040">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04644146</url>
+  </required_header>
+  <id_info>
+    <org_study_id>69HCL20_1072</org_study_id>
+    <nct_id>NCT04644146</nct_id>
+  </id_info>
+  <brief_title>Genetic Predisposition to Severe Forms of COVID-19 (SARS-CoV2 Infection)</brief_title>
+  <acronym>COVIDGEN</acronym>
+  <official_title>Genetic Predisposition to Severe Forms of COVID-19 (SARS-CoV2 Infection) in Patients Without Comorbidities</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hospices Civils de Lyon</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hospices Civils de Lyon</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The main objective of this part of the project is to identify the germline genetic factors&#xD;
+      which discriminate the benign and severe forms of SARS-CoV2 (CoVID-19) infection in the&#xD;
+      context of the ongoing SARS-CoV2 (HCOVID-19) epidemic. The scientific arguments of the&#xD;
+      project are described in APPENDIX. We hypothesize that pathogenic variants in genes coding&#xD;
+      for crucial factors involved in the HOST PATHOGEN interaction could explain the&#xD;
+      susceptibility of some patients to severe disease, even in the absence of comorbidities. The&#xD;
+      challenge is to identify those of the genetic factors who may be related respiratory distress&#xD;
+      and potentially further death. Based on our previous experience in sarcoidosis, a&#xD;
+      multifactorial disease predisposing to opportunistic infections, we will focus particularly&#xD;
+      the regulation of apoptosis and autophagy, immune response to viral infection, and&#xD;
+      endoplasmic reticulum stress response (ER STRESS) which is closely linked to apoptosis.&#xD;
+      Genetic defects in such pathways may decrease the clearance of viral particles and induces&#xD;
+      the progressive invasion by SARS-CoV2 and destruction of lung parenchyma. Our strategy will&#xD;
+      be similar to that described in our previous studies on sarcoidosis, recently published. We&#xD;
+      will combine a comparative genotype analysis by WHOLE EXOME SEQUENCING (WES) of benign and&#xD;
+      severe forms of SARS-CoV2 infection through clinical subgroups defined by the infectious&#xD;
+      diseases experts and a bioinformatics analysis of the functional networks identified by the&#xD;
+      panel of genes sharing pathogenic variants and discriminating the severe forms of the&#xD;
+      diseases. WES data will be carefully analyzed and related to all the intracellular&#xD;
+      physiological process and also the functional pathways involved in host-pathogen interaction:&#xD;
+      viral targets on the cell surface and downstream signaling, viral genomic RNA replication and&#xD;
+      translation, production and release of new viral particles. Finally, our main objectives are&#xD;
+      the definition of a gene panel more specifically related to severe forms of infection and the&#xD;
+      characterization of defective pathways involved in pejorative forms of SARS-COv2 disease in&#xD;
+      order to identify putative therapeutic targets.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Anticipated">December 1, 2020</start_date>
+  <completion_date type="Anticipated">December 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 1, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Primary criteria of data evaluation</measure>
+    <time_frame>through study completion, average 6 months</time_frame>
+    <description>Number of genes affected by pathogenic variants in the SEVERE GROUP and for which no mutations have been observed in the CONTROL group For each gene sharing variants in the SEVERE GROUP and not in CONTROLS, the protein encoded by this gene will be identified and his function analyzed in the frame of various protein network software. The frequency of each mutation, so called the minor allele frequency will be evaluated in order to highlight only those which are rare (MAF &lt; 0,01) in the normal population and thus suggesting a putative pathogenic role in the response to SARS-CoV2 infection.</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>SEVERE</arm_group_label>
+    <description>Patients affected by SARS-CoV2 infection with severe lung dysfunction needing oxygen complementation and critical care supports - criteria 18-70yr old and without any comorbidities</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>CONTROL</arm_group_label>
+    <description>Patients affected by SARS-CoV2, as shown by PCR and/or antigen testing diagnosis and without any or minor clinical expression</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Genetic</intervention_type>
+    <intervention_name>GENETIC</intervention_name>
+    <description>It is a retrospective study on patients which has been hospitalized since the beginning of the COVID-19 pandemic in Lyon (march 2020). The blood samples have been collected I the frame of the regular follow-up of the patients and DNA extracted and conserved for the various research protocols ongoing in the University Hospital. The DNA will be analyzed by next generation sequencing</description>
+    <arm_group_label>CONTROL</arm_group_label>
+    <arm_group_label>SEVERE</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      DNA samples has been extracted for whole exome sequencing&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients affected by COVID-10 Age: 18-70 (values included) Without any co morbidities&#xD;
+        (analysis of the clinical files in our hospital) Without any regular treatments&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients affected by COVID-10 Age: 18-70 (values included) Without any co morbidities&#xD;
+             (analysis of the clinical files in our hospital) Without any regular treatments&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  below 18yr and higher than 70yr old&#xD;
+&#xD;
+          -  With comorbidities - ex: diabetes, obesity, hypertension, ischemic heart, neurological&#xD;
+             disorders, autoinflammatory / autoimmune diseases …&#xD;
+&#xD;
+          -  Not agreeing the protocol (absence of informed consent)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Alain CALENDER, MD</last_name>
+    <phone>0033 4 27 85 66 13</phone>
+    <email>alain.calender@chu-lyon.fr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University Hospital LYON (Hospices Civils de LYON)</name>
+      <address>
+        <city>Lyon</city>
+        <zip>69003</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>November 19, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 24, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 25, 2020</study_first_posted>
+  <last_update_submitted>November 24, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 24, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 25, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Coronavirus SARS CoV2</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>genetics</keyword>
+  <keyword>predisposition</keyword>
+  <keyword>critical care</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Disease Susceptibility</mesh_term>
+    <mesh_term>Genetic Predisposition to Disease</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

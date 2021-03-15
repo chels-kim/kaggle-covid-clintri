@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3163">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04351724</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ACOVACT</org_study_id>
+    <nct_id>NCT04351724</nct_id>
+  </id_info>
+  <brief_title>Austrian CoronaVirus Adaptive Clinical Trial (COVID-19)</brief_title>
+  <acronym>ACOVACT</acronym>
+  <official_title>A Multicenter, Randomized, Active Controlled, Open Label, Platform Trial on the Efficacy and Safety of Experimental Therapeutics for Patients With COVID-19 (Caused by Infection With Severe Acute Respiratory Syndrome Coronavirus-2)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Medical University of Vienna</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Kaiser Franz Josef Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>SMZ-Ost Donauspital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Otto Wagner Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Hospital Hietzing</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Wilhelminenspital Vienna</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Medical University Innsbruck</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Medical University of Graz</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Kepler University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Medical University of Vienna</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The Austrian Coronavirus Adaptive Clinical Trial (ACOVACT) is a randomized, controlled,&#xD;
+      multicenter, open-label basket trial that aims to compare various antiviral treatments for&#xD;
+      COVID-19. Moreover three substudies have been integrated. Currently, patients will be&#xD;
+      randomized to receive (hydroxy-)chloroquine (Treatment stopped after reports of safety&#xD;
+      issues), lopinavir/ritonavir, remdesivir or standard of care. Moreover, these patients are&#xD;
+      eligible for substudy A (randomized to rivaroxaban 5mg 1-0-1 vs. standard of care), substudy&#xD;
+      B (renin-angiotensin (RAS) blockade vs. no RAS blockade for patients with blood pressure&#xD;
+      &gt;120/80mmHg), and substudy C (asunercept vs standard of care, pentglobin vs. standard of care&#xD;
+      for patients with respiratory deterioration and high inflammatory biomarkers).&#xD;
+&#xD;
+      Endpoints were chosen based on the master protocol published by the World Health Organisation&#xD;
+      and include a 7-point scale of clinical performance, mortality, oxygen requirement (both dose&#xD;
+      and type), duration of hospitalization, viral load and safety.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 16, 2020</start_date>
+  <completion_date type="Anticipated">March 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 1, 2021</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Three main study arms (antiviral treatments) and three substudies (A, B, C) are planned. The main study arms are exclusive, while patients from the main study arms may participate in one or more substudies.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>sustained improvement (&gt;48h) of one point on the WHO Scale</measure>
+    <time_frame>Inclusion to day 29, daily evaluation</time_frame>
+    <description>The primary endpoint is time to clinical improvement which is defined as time from randomization to an (sustained) improvement of at least one category on two consecutive days compared to the status at randomization measured on a seven-category ordinal scale (proposed by WHO).&#xD;
+The 7-categories of the World Health Organization proposed scale, as follows:&#xD;
+Not hospitalized, no limitations on activities&#xD;
+Not hospitalized, limitation on activities;&#xD;
+Hospitalized, not requiring supplemental oxygen;&#xD;
+Hospitalized, requiring supplemental oxygen;&#xD;
+Hospitalized, on non-invasive ventilation or high flow oxygen devices;&#xD;
+Hospitalized, on invasive mechanical ventilation or ECMO;&#xD;
+Death.&#xD;
+During hospitalization this score will be determined daily (till day 29). If a patient is released from the hospital before day 29, the score will be determined at day 11 and 29 after randomization (depending when the patient was released or by telephone call).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to improvement on WHO Scale</measure>
+    <time_frame>Inclusion to day 29, daily evaluation</time_frame>
+    <description>The scale described in the primary endpoint is used</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mean change in the ranking on an ordinal scale from baseline</measure>
+    <time_frame>Inclusion to day 29, daily evaluation</time_frame>
+    <description>The scale described in the primary endpoint is used</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>time to discharge or a National Early Warning Score (NEWS) ≤2 (maintained for 24h), whichever occurs first</measure>
+    <time_frame>Inclusion to day 29, daily evaluation</time_frame>
+    <description>the National Early Warning Score includes respiratory rate, oxygen saturation, use of supplemental oxygen, temperature, systolic blood pressure, heart rate and levels of consciousness (AVPU Scale)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>change from baseline in National Early Warning Score (NEWS)</measure>
+    <time_frame>Inclusion to day 29, daily evaluation</time_frame>
+    <description>The scale described in the primary endpoint is used</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Oxygenation free days</measure>
+    <time_frame>Inclusion to day 29, daily evaluation</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of new oxygen use during the trial</measure>
+    <time_frame>Inclusion to day 29, daily evaluation</time_frame>
+    <description>new oxygen may include insufflation or oxygen mask, high flow oxygen devices, non-invasive ventilation devices or mechanical ventilation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>duration of oxygen use during the trial</measure>
+    <time_frame>Inclusion to day 29, daily evaluation</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ventilator free days until day 29</measure>
+    <time_frame>Inclusion to day 29, daily evaluation</time_frame>
+    <description>number of days with requirement of mechanical ventilation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of new mechanical ventilation use during the trial</measure>
+    <time_frame>Inclusion to day 29, daily evaluation</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>duration of mechanical ventilation use during the trial</measure>
+    <time_frame>Inclusion to day 29, daily evaluation</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Viral load/viral clearance</measure>
+    <time_frame>Inclusion to day 29, daily evaluation</time_frame>
+    <description>obtained by polymerase chain reaction in nasal/oropharyngeal swabs, performed at baseline and then three times a week, if possible</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Hospitalization</measure>
+    <time_frame>Inclusion to day 29, daily evaluation</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>15-day, 29-day, 60-day, 90-day mortality</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Obesity - mortality</measure>
+    <time_frame>BMI at admission, mortality until day 29</time_frame>
+    <description>BMI (kg/m2), within all subjects the impact of obesity on overall mortality will be investigated</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Obesity - duration of hospitalization</measure>
+    <time_frame>BMI at admission, duration of hospitalization until day 29 or discharge</time_frame>
+    <description>BMI (kg/m2) , within all subjects the impact of obesity on the duration of hospitalization will be investigated</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Obesity - ICU admission</measure>
+    <time_frame>BMI at admission, ICU admission until day 29 or discharge</time_frame>
+    <description>BMI (kg/m2) , within all subjects the impact of obesity on ICU admission will be investigated</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Obesity - new oxygen use</measure>
+    <time_frame>BMI at admission, new oxygen use until day 29 or discharge</time_frame>
+    <description>BMI (kg/m2) new oxygen may include insufflation or oxygen mask, high flow oxygen devices, non-invasive ventilation devices or mechanical ventilation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Drug-drug interactions with lopinavir/ritonavir</measure>
+    <time_frame>Inclusion to day 29, daily evaluation</time_frame>
+    <description>lopinavir and ritonavir both interact with numerous other drugs by inhibiting the cytochrome enzymes 3A4. Using commercially available drug-interaction programs, the number and severity grading of drug-drug-interactions will be documented (for instance uptodate interaction tool, medscape). This is an exploratory analysis of drug-drug interactions with the above mentioned substances. severity grading usually encompass &quot;contraindicated&quot;, &quot;serious&quot;, &quot;monitor closely&quot;, &quot;minor&quot; interaction.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Renin Angiotensin System (RAS) fingerprint</measure>
+    <time_frame>Inclusion to day 29, daily evaluation</time_frame>
+    <description>for sub-study B only: RAS fingerprint measures metabolites involved in the renin-angiotensin-system. The influence of randomized treatment with candesartan (RAS blockade) will be analyzed</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SpO2/FiO2 ratio</measure>
+    <time_frame>Inclusion to day 29, daily evaluation</time_frame>
+    <description>for sub-study C only</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>paO/FiO2 ratio</measure>
+    <time_frame>Inclusion to day 29, daily evaluation</time_frame>
+    <description>for sub-study C only, for ICU patients only</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>modified Sequential Organ Failure Assessment</measure>
+    <time_frame>Inclusion to day 29, daily evaluation</time_frame>
+    <description>for sub-study C only</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Inflammatory parameters</measure>
+    <time_frame>baseline, day 2, 3, 4, 5, 7</time_frame>
+    <description>C-reactive protein, interleukin-6, procalcitonin, IgM concentrations, IgA concentrations, IgG concentrations,</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>differential blood counts</measure>
+    <time_frame>baseline, day 2, 3, 4, 5, 7</time_frame>
+  </secondary_outcome>
+  <number_of_arms>14</number_of_arms>
+  <enrollment type="Anticipated">500</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>(Hydroxy)Chloroquine (STOPPED)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Due to limited availability of the experimental substances, this arm will include both chloroquine and hydroxychloroquine treatment. However, both substances are similar chemically and also with regards to the mechanism of action comparable.&#xD;
+Dosage: Hydroxychloroquine 200mg 2-0-2 on day 1 followed by 200mg 1-0-1, or Chloroquine 250mg 2-0-2, as available</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Lopinavir/Ritonavir</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Dosage: 200mg/50mg 4-0-4 on day 1 and 3-0-3 thereafter</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard of Care</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>patients will be treated with &quot;standard of care&quot;, which precludes treatment with lopinavir/ritonavir or (hydroxy-)chloroquine</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Rivaroxaban</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>5mg 1-0-1</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Thromboprophylaxis</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>according to local standard</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>RAS Blockade</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Renin-Angiotensin-System-Blockade (RAS) by candesartan intake starting with 4mg once daily and titrated to normotension patients &gt; 120/80 mmHG are eligible</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>non-RAS-Blockade</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>non-RAS blocking antihypertensive agents titrated to normotension Those with normal blood pressure may only be controlled without further treatment</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Asunercept 25mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>25mg 1x per week, maximum of four doses only patients with oxygen requirement</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Asunercept 100mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>100mg 1x per week, maximum of four doses only patients with oxygen requirement</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Asunercept 400mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>400mg 1x per week, maximum of four doses only patients with oxygen requirement</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Best Standard of Care - Control Group for Asunercept</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>only patients with oxygen requirement</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Remdesivir</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>200mg loading dose on day 1, 100mg for a total treatment duration of 5-10 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Pentaglobin</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients treated at the intensive care unit only, continuous infusion of 7ml/kg/day over 12h for 5 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>best standard of care</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Patients treated at the intensive care unit only</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Chloroquine or Hydroxychloroquine</intervention_name>
+    <description>Hydroxychloroquine 200mg 2-0-2 on day 1 followed by 200mg 1-0-1, or Chloroquine 250mg 2-0-2, as available</description>
+    <arm_group_label>(Hydroxy)Chloroquine (STOPPED)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Lopinavir/Ritonavir</intervention_name>
+    <description>Lopinavir/Ritonavir 200mg/50mg 2-0-2</description>
+    <arm_group_label>Lopinavir/Ritonavir</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Best standard of care</intervention_name>
+    <description>best standard of care</description>
+    <arm_group_label>Best Standard of Care - Control Group for Asunercept</arm_group_label>
+    <arm_group_label>Standard of Care</arm_group_label>
+    <arm_group_label>best standard of care</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Rivaroxaban</intervention_name>
+    <description>2.5mg 2-0-2 or 10mg 1/2-0-1/2, as applicable</description>
+    <arm_group_label>Rivaroxaban</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Thromboprophylaxis</intervention_name>
+    <description>as local standard, most likely to be low molecular weight heparin</description>
+    <arm_group_label>Thromboprophylaxis</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Candesartan</intervention_name>
+    <description>starting dose 4mg once daily, titrated to normotension</description>
+    <arm_group_label>RAS Blockade</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>non-RAS blocking antihypertensives</intervention_name>
+    <description>This excludes angiotensin converting enzyme inhibitors (ACEi) and angiotensin receptor blockers (AT-blockers, sartans) and includes alpha-receptor antagonists, calcium antagonists, amongst others</description>
+    <arm_group_label>non-RAS-Blockade</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Remdesivir</intervention_name>
+    <description>200mg on day 1, thereafter 100mg for a total of 5-10 treatment days, according to local standards</description>
+    <arm_group_label>Remdesivir</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Asunercept 400mg</intervention_name>
+    <description>asunercept 400mg once per week, up to 4 doses in total</description>
+    <arm_group_label>Asunercept 400mg</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Asunercept 100mg</intervention_name>
+    <description>asunercept 100mg once per week, up to 4 doses in total</description>
+    <arm_group_label>Asunercept 100mg</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Asunercept 25mg</intervention_name>
+    <description>asunercept 25mg once per week, up to 4 doses in total</description>
+    <arm_group_label>Asunercept 25mg</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pentaglobin</intervention_name>
+    <description>7ml/kg/day for 12h for 5 days</description>
+    <arm_group_label>Pentaglobin</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria&#xD;
+&#xD;
+        Laboratory confirmed (i.e. PCR-based assay) infection with SARS-CoV-2 (ideally but not&#xD;
+        necessarily&#xD;
+&#xD;
+        ≤72 hours before randomization for &quot;antiviral&quot; treatments) OR radiological signs of&#xD;
+        COVID-19 in chest X-ray or computed tomography&#xD;
+&#xD;
+          -  Hospitalisation due to SARS-CoV-2 infection, except for sub-study B, which may also&#xD;
+             include outpatients with COVID-19&#xD;
+&#xD;
+          -  Requirement of oxygen support (due to oxygen saturation &lt;94% on ambient air or &gt;3%&#xD;
+             drop in case of chronic obstructive lung disease)&#xD;
+&#xD;
+          -  Informed Consent obtained, the patient understands and agrees to comply with the&#xD;
+             planned study procedures, except for sub-study C: obtaining informed consent may be&#xD;
+             impossible due to the severe condition of the patient and may be waived&#xD;
+&#xD;
+          -  ≥18 years of age&#xD;
+&#xD;
+          -  Sub-study A: not on chronic anticoagulation Sub-study B: Sub-study B: blood pressure&#xD;
+             ≥130/85mmHg in 2 consecutive measurements OR patients with established and treated&#xD;
+             hypertension&#xD;
+&#xD;
+          -  Sub-study B: Control group 1: Patients with suspicion of but negative tests for&#xD;
+             COVID-19. This group may consist of hospitalized and non-hospitalized patients.&#xD;
+&#xD;
+          -  Sub-study B: healthy volunteers&#xD;
+&#xD;
+          -  Sub-study C: Signs of respiratory deterioration and progressing inflammation: need for&#xD;
+             oxygen supplementation, non-invasive ventilation, high-flow oxygen devices or&#xD;
+             mechanical ventilation AND CRP levels &gt;5mg/dL (for Pentaglobin only) and ICU admission&#xD;
+             (for Pentaglobin only)&#xD;
+&#xD;
+          -  For female patients with childbearing potential: willingness to perform effective&#xD;
+             measures of contraception during the study&#xD;
+&#xD;
+        Exclusion Criteria&#xD;
+&#xD;
+          -  Moribund, or estimated life expectancy &lt;1 month (e.g. terminal cancer, etc.)&#xD;
+&#xD;
+          -  Patient does not qualify for intensive care, based on local triage criteria&#xD;
+&#xD;
+          -  Pregnancy or breastfeeding&#xD;
+&#xD;
+          -  Severe liver dysfunction (e.g. ALT/AST &gt; 5 times upper limit of normal)&#xD;
+&#xD;
+          -  Stage 4 chronic kidney disease or requiring dialysis for direct anticoagulant&#xD;
+             treatment&#xD;
+&#xD;
+          -  Allergy or intolerances to experimental substance (ineligibility for treatment arm),&#xD;
+             for Asunercept known hereditary fructose intolerance&#xD;
+&#xD;
+          -  Anticipated discharge from hospital within 48 hours (for any given reason)&#xD;
+&#xD;
+          -  Contraindications for treatment arm 2 (lopinavir/ritonavir): severe hepatic&#xD;
+             impairment, CYP3A4/5 metabolized drugs, as deemed relevant by treating physicians&#xD;
+&#xD;
+          -  Contraindications for treatment arm 3 (remdesivir): &lt;40kg bodyweight&#xD;
+&#xD;
+          -  Known active HIV or viral hepatitis&#xD;
+&#xD;
+          -  Substudy A contraindications for rivaroxaban: active bleeding or bleeding diathesis,&#xD;
+             lesion or condition considered as major risk factor for bleeding, recent brain or&#xD;
+             spinal injury, recent brain or spinal or ophthalmic surgery, recent intracranial&#xD;
+             hemorrhage, known or suspected esophageal varices, arteriovenous malformations,&#xD;
+             vascular aneurysms, major intraspinal or intracerebral vascular abnormalities, ongoing&#xD;
+             therapeutic anticoagulation, which will be continued, according to clinical practice&#xD;
+&#xD;
+          -  Sub-study B contraindications for nitrendipine: chronic heart failure, allergies,&#xD;
+             hypersensitivities and intolerances, severe hepatic impairment and/or cholestasis,&#xD;
+             concomitant therapy with aliskirencontaining medications (for patients with diabetes&#xD;
+             mellitus or a GFR&lt;60ml/min/1.73m2), known significant bilateral renal artery stenosis&#xD;
+             or renal artery stenosis of a solitary kidney&#xD;
+&#xD;
+          -  Sub-study C contraindications for IL-6 blockade: Contraindications: allergies and&#xD;
+             intolerances, active untreated diverticulitis, inflammatory bowel disease, any&#xD;
+             treatment with an IL-6 or IL-6R blocking drug (e.g. tocilizumab, sarilumab,&#xD;
+             siltuximab) &lt;30 days before study inclusion.&#xD;
+&#xD;
+          -  Sub-study C: Known active tuberculosis.&#xD;
+&#xD;
+          -  Asunercept: females of childbearing potential&#xD;
+&#xD;
+          -  Sub-study C with Pentaglobin: Contraindications to Pentaglobin&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>99 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Bernd Jilma, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Medical University of Vienna</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Bernd Jilma, MD</last_name>
+    <phone>+4314040029810</phone>
+    <email>klin-pharmakologie@meduniwien.ac.at</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Christian Schörgenhofer, MD, PHD</last_name>
+    <phone>+4314040029810</phone>
+    <email>klin-pharmakologie@meduniwien.ac.at</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Medical University of Innsbruck</name>
+      <address>
+        <city>Innsbruck</city>
+        <state>Tirol</state>
+        <zip>6020</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Günter Weiss, MD</last_name>
+      <phone>+4351250423251</phone>
+      <email>guenter.weiss@i-med.ac.at</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Medical University of Graz</name>
+      <address>
+        <city>Graz</city>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Robert Krause, Prof.Dr.</last_name>
+      <phone>+43 316 385 81796</phone>
+      <email>robert.krause@medunigraz.at</email>
+    </contact>
+    <investigator>
+      <last_name>Robert Krause, Prof.Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Kepler University Hospital</name>
+      <address>
+        <city>Linz</city>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Bernd Lamprecht, MD</last_name>
+      <phone>+43 (0)5 7680 83 - 6910</phone>
+      <email>Bernd.Lamprecht@kepleruniklinikum.at</email>
+    </contact>
+    <investigator>
+      <last_name>Bernd Lamprecht, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Medical University of Vienna</name>
+      <address>
+        <city>Vienna</city>
+        <zip>1090</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Bernd Jilma, MD</last_name>
+      <phone>+4314040029810</phone>
+      <email>klin-pharmakologie@meduniwien.ac.at</email>
+    </contact>
+    <contact_backup>
+      <last_name>Christian Schörgenhofer, MD, PHD</last_name>
+      <phone>+4314040029810</phone>
+      <email>klin-pharmakologie@meduniwien.ac.at</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Wilhelminenspital</name>
+      <address>
+        <city>Vienna</city>
+        <zip>1090</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Georg-Christian Funk, MD</last_name>
+      <phone>+431491502201</phone>
+      <email>georg-christian.funk@wienkav.at</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>SMZ Süd Kaiser Franz Josef Spital</name>
+      <address>
+        <city>Vienna</city>
+        <zip>1100</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alexander Zoufaly, MD</last_name>
+      <phone>431601912408</phone>
+      <email>alexander.zoufaly@wienkav.at</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>KH Hietzing</name>
+      <address>
+        <city>Vienna</city>
+        <zip>1130</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Kurt Redlich, MD</last_name>
+      <phone>+431801103173</phone>
+      <email>kurt.redlich@wienkav.at</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>SMZ Baumgartner Höhe Otto Wagner Spital</name>
+      <address>
+        <city>Vienna</city>
+        <zip>1140</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Brigitte Schmied, MD</last_name>
+      <phone>+4319106042713</phone>
+      <email>brigitte.schmied@meduniwien.ac.at</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>SMZ Ost Donauspital</name>
+      <address>
+        <city>Vienna</city>
+        <zip>1220</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Thomas Stefenelli, MD</last_name>
+      <phone>+431288023102</phone>
+      <email>thomas.stefenelli@wienkav.at</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Austria</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>April 10, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 16, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 17, 2020</study_first_posted>
+  <last_update_submitted>January 27, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 27, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Medical University of Vienna</investigator_affiliation>
+    <investigator_full_name>Bernd Jilma</investigator_full_name>
+    <investigator_title>Univ.Prof.Dr. Bernd Jilma</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Ritonavir</mesh_term>
+    <mesh_term>Lopinavir</mesh_term>
+    <mesh_term>Hydroxychloroquine</mesh_term>
+    <mesh_term>Chloroquine</mesh_term>
+    <mesh_term>Candesartan</mesh_term>
+    <mesh_term>Antihypertensive Agents</mesh_term>
+    <mesh_term>Rivaroxaban</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Anonymized and pseudonymized data will be published in peer reviewed journals and may be presented at congresses and conferences</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

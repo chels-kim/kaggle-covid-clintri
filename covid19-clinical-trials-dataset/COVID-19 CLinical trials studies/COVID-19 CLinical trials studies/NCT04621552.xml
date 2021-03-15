@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4949">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04621552</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RECHMPL20_0601</org_study_id>
+    <nct_id>NCT04621552</nct_id>
+  </id_info>
+  <brief_title>Virtual Simulation for Woven EndoBridge Device Sizing</brief_title>
+  <acronym>VS-WEB</acronym>
+  <official_title>Comparison of Woven EndoBridge Device Sizing With Conventional Measurements and Virtual Simulation Using the Sim&amp;Size Software: A Multi-Center Experience</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Montpellier</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University Hospital, Bordeaux</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University Hospital, Montpellier</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Selection of the appropriate size of the device is mandatory during aneurysm treatment with a&#xD;
+      WEB. The Investigators aimed to investigate if virtual simulation with Sim&amp;Size software may&#xD;
+      have an impact on technical, angiographic, and clinical outcomes after WEB treatment. Data&#xD;
+      from two large-volume centers were collected and compared (January 2017-January 2020).&#xD;
+      Virtual simulation was systematically adopted in one center, while conventional sizing was&#xD;
+      used in the other one. Outcomes were the duration of intervention, the radiation dose (mGy),&#xD;
+      the number of corrective interventions for inappropriate WEB size, the number of WEBs not&#xD;
+      deployed, angiographic occlusion, and complications. Univariate and multivariate linear&#xD;
+      models were adopted.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Flow disruption with Woven EndoBridge (WEB) is an innovative treatment that has been&#xD;
+      evaluated in several prospective and retrospective studies1-3. The efficacy and safety of&#xD;
+      this strategy has been largely proved, and nowadays, indications for WEBs are progressively&#xD;
+      enlarged. Appropriate sizing of the device is the key factor for treatment with a WEB.&#xD;
+      Undersized devices may lead to insufficient coverage of the aneurysm neck and inadequate&#xD;
+      filling of the volume of the sac, lowering the angiographic success. On the other hand, an&#xD;
+      excessively oversized WEB may cause an unwarranted protrusion into the parent vessel,&#xD;
+      increasing the risk of ischemic events. The conventional approach for WEB sizing is based on&#xD;
+      two-dimensional digital subtraction angiography (2D-DSA), adding 1mm to the average width (to&#xD;
+      assure good wall apposition), and subtracting 1mm to the average height of the aneurysm (to&#xD;
+      adjust for the longitudinal increase caused by the horizontal compression)4. However, the&#xD;
+      operator has to anticipate the behavior of the device, predicting tridimensional&#xD;
+      modifications of the WEB in relation to the volume and shape of the aneurysm dome and neck.&#xD;
+      Accordingly, appropriate WEB sizing could be difficult and may require experience. Data about&#xD;
+      software-based simulation to predict changes after device implantation have been reported for&#xD;
+      flow diversion and braided stents5-7. The Sim&amp;Size software (Sim&amp;Cure, Grabels, France) is&#xD;
+      able to perform virtual sizing before WEB deployment using pre or per-operative&#xD;
+      three-dimensional rotational angiography (3D-RA) acquisition. The virtual simulation helps to&#xD;
+      select the most appropriate size of the device, predicting the behavior of the WEB inside the&#xD;
+      aneurysm dome, and the surface of the WEB apposition, anticipating protrusion over the neck&#xD;
+      or inappropriate coverage of the ostium. This multicenter study aimed to explore if the use&#xD;
+      of the Sim&amp;Size software during endovascular embolization of intracranial aneurysms with WEB&#xD;
+      devices was associated with measurables procedural advantages compared with conventional&#xD;
+      sizing methods.&#xD;
+&#xD;
+      The primary investigated outcomes were 1) the median duration of the intervention; 2) the&#xD;
+      median radiation dose; 3) the need of corrective interventions; and 4) the number of WEBs&#xD;
+      opened but finally not deployed because of the inappropriate size of the device.&#xD;
+&#xD;
+      The secondary investigated endpoints were 1) the overall rate of complications&#xD;
+      (peri-procedural and long-term adverse events); 2) the morbidity rate (complications&#xD;
+      associated with permanent change of the clinical and neurological status of the patient); and&#xD;
+      3) short-term (6 months) and long-term (12 months or more) aneurysm occlusion and WEB-shape&#xD;
+      change (&quot;compaction&quot;) (decrease in height of the device or a deepening of the proximal and&#xD;
+      distal concave recesses during follow-up9 based on non-subtracted images)&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">January 1, 2015</start_date>
+  <completion_date type="Actual">October 30, 2020</completion_date>
+  <primary_completion_date type="Actual">June 30, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Median duration of the intervention</measure>
+    <time_frame>1day</time_frame>
+    <description>the median duration of the intervention</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Median radiation dose</measure>
+    <time_frame>1 day</time_frame>
+    <description>the median radiation dose</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Need of corrective interventions</measure>
+    <time_frame>1 day</time_frame>
+    <description>the need of corrective interventions</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>number of WEBs opened</measure>
+    <time_frame>1 day</time_frame>
+    <description>the number of WEBs opened but finally not deployed because of the inappropriate size of the device.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall rate of complications</measure>
+    <time_frame>1 day</time_frame>
+    <description>the overall rate of complications (peri-procedural and long-term adverse events)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>morbidity rate</measure>
+    <time_frame>1 day</time_frame>
+    <description>the morbidity rate (complications associated with permanent change of the clinical and neurological status of the patient)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of Aneurysm occlusion</measure>
+    <time_frame>6 months and 12 months</time_frame>
+    <description>short-term (6 months) and long-term (12 months or more) aneurysm occlusion</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>WEB-shape change</measure>
+    <time_frame>6 months and 12 months</time_frame>
+    <description>WEB-shape change (&quot;compaction&quot;) (decrease in height of the device or a deepening of the proximal and distal concave recesses during follow-up9 based on non-subtracted images).</description>
+  </secondary_outcome>
+  <enrollment type="Actual">186</enrollment>
+  <condition>Aneurysm</condition>
+  <condition>Intracranial Aneurysm</condition>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>WEB embolization</intervention_name>
+    <description>Treatment of intracranial aneurysms with WEB with the use of the virtual simulation before implantation of the device</description>
+  </intervention>
+  <biospec_retention>None Retained</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      NC&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All patients &gt;18 years treated with WEB for an intracranial aneurysms&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion criteria:&#xD;
+&#xD;
+        - Patients &gt; 18 years treated with WEB for intracranial aneuryms&#xD;
+&#xD;
+        Exclusion criteria:&#xD;
+&#xD;
+          -  Patients &lt;18 years&#xD;
+&#xD;
+          -  no eligibility for treatment with WEB&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Federico Cagnazzo, MD PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>UH Montpellier</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Uhmontpellier</name>
+      <address>
+        <city>Montpellier</city>
+        <zip>34295</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>November 3, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 3, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 9, 2020</study_first_posted>
+  <last_update_submitted>November 9, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 9, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 10, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Intracranial Aneurysm</keyword>
+  <keyword>WEB</keyword>
+  <keyword>virtual simuation</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>Unruptured and Ruptrued intracranial aneurysms</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Intracranial Aneurysm</mesh_term>
+    <mesh_term>Aneurysm</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>NC</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

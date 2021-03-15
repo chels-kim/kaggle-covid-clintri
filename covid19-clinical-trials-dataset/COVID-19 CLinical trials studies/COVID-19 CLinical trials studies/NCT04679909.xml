@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4367">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04679909</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ALT-501-101</org_study_id>
+    <nct_id>NCT04679909</nct_id>
+  </id_info>
+  <brief_title>Safety and Immunogenicity of AdCOVID in Healthy Adults (COVID-19 Vaccine Study)</brief_title>
+  <official_title>A Phase 1, Double-blind, Randomized, Placebo-controlled, First-in-Human Study of the Safety and Immunogenicity of AdCOVID Administered as One or Two Doses</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Altimmune, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Altimmune, Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A study to evaluate the immune response and safety of AdCOVID administered as an intranasal&#xD;
+      spray in healthy adults.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 2021</start_date>
+  <completion_date type="Anticipated">February 2022</completion_date>
+  <primary_completion_date type="Anticipated">February 2022</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Reactogenicity</measure>
+    <time_frame>For 7 days after vaccination</time_frame>
+    <description>Counts and percentages of subjects with local and systemic events</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Adverse Events (AEs)</measure>
+    <time_frame>Day 1 to Day 57</time_frame>
+    <description>Counts and percentages of subjects with AEs</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Anti-SARS-CoV-2 spike IgG antibody levels</measure>
+    <time_frame>Day 1 to Day 366</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neutralizing antibody titer against live and/or pseudotyped SARS-CoV-2 virus</measure>
+    <time_frame>Day 1 to Day 366</time_frame>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Anti-SARS-CoV-2 RBD T cell responses by interferon (IFN)-gamma enzyme-linked immunosorbent spot (ELISpot)</measure>
+    <time_frame>Day 1 to Day 366</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Mucosal antibody responses in nasopharyngeal swabs (anti-SARS-CoV-2 spike IgA titers)</measure>
+    <time_frame>Day 1 to Day 366</time_frame>
+  </other_outcome>
+  <number_of_arms>8</number_of_arms>
+  <enrollment type="Anticipated">180</enrollment>
+  <condition>Healthy Volunteers</condition>
+  <arm_group>
+    <arm_group_label>Single Low Dose AdCOVID</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Single Medium Dose AdCOVID</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Single High Dose AdCOVID</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Two Low Doses AdCOVID</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Two Medium Doses AdCOVID</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Two High Doses AdCOVID</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Single Dose Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Two Dose Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>AdCOVID</intervention_name>
+    <description>Administered intranasally</description>
+    <arm_group_label>Single High Dose AdCOVID</arm_group_label>
+    <arm_group_label>Single Low Dose AdCOVID</arm_group_label>
+    <arm_group_label>Single Medium Dose AdCOVID</arm_group_label>
+    <arm_group_label>Two High Doses AdCOVID</arm_group_label>
+    <arm_group_label>Two Low Doses AdCOVID</arm_group_label>
+    <arm_group_label>Two Medium Doses AdCOVID</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Administered intranasally</description>
+    <arm_group_label>Single Dose Placebo</arm_group_label>
+    <arm_group_label>Two Dose Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Men and women ages 18 to 55 years, inclusive&#xD;
+&#xD;
+          -  Good general health status&#xD;
+&#xD;
+          -  Screening laboratory results within institutional normal range or Grade 1 abnormality&#xD;
+             if the Investigator documents clinical insignificance. Grade 2 laboratories may be&#xD;
+             permissible if considered not clinically significant by the investigator.&#xD;
+&#xD;
+          -  For women who have not been surgically sterilized or who do not have laboratory&#xD;
+             confirmation of postmenopausal status, negative pregnancy test&#xD;
+&#xD;
+          -  Willingness to practice a highly effective method of contraception&#xD;
+&#xD;
+          -  Ability and willingness to comply with all aspects of the study, including&#xD;
+             nasopharyngeal swabs and blood and urine samples, through the entire study period&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Subjects at increased risk of exposure to SARS-CoV-2, including healthcare workers,&#xD;
+             emergency response personnel, and those with known contact with COVID-19 patients&#xD;
+&#xD;
+          -  Pregnant or lactating women or planning to conceive a child during the next 3 months&#xD;
+&#xD;
+          -  Body mass index (BMI) &gt; 30.0 kg/m2&#xD;
+&#xD;
+          -  Acute COVID-19, a positive test result for SARS-CoV2 infection, a positive SARS-CoV-2&#xD;
+             serology for prior SARS-CoV-2 infection at screening, or exposure within 14 days to an&#xD;
+             individual with acute COVID-19&#xD;
+&#xD;
+          -  An acute respiratory illness&#xD;
+&#xD;
+          -  Positive result for HIV, hepatitis B virus, or hepatitis C virus at screening&#xD;
+&#xD;
+          -  Chronic or current cigarette smoking&#xD;
+&#xD;
+          -  Any medical, psychiatric, or social condition or occupational or other responsibility&#xD;
+             that in the judgment of the Investigator would interfere with or serve as a&#xD;
+             contraindication to protocol adherence, assessment of safety (including&#xD;
+             reactogenicity), or a subject's ability to give informed consent&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Altimmune CTM</last_name>
+    <phone>(240) 654-1450</phone>
+    <email>information@altimmune.com</email>
+  </overall_contact>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>December 21, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 21, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 22, 2020</study_first_posted>
+  <last_update_submitted>January 14, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 14, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 19, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>Intranasal Vaccine</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

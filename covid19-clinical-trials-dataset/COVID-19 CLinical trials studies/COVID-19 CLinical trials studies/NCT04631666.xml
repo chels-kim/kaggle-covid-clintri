@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3307">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04631666</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Uni-Koeln-4288</org_study_id>
+    <nct_id>NCT04631666</nct_id>
+  </id_info>
+  <brief_title>COVID-19 - Administration of the SARS-CoV-2-Neutralizing Monoclonal Antibody DZIF-10c (Infusion)</brief_title>
+  <official_title>A Phase 1/2a Trial of the Intravenous Administration of the SARS-CoV-2-Neutralizing Monoclonal Antibody DZIF-10c in SARS-CoV-2-Infected and -Uninfected Individuals</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Cologne</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>ZKS Köln</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Boehringer Ingelheim</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Cologne</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A Phase 1/2a Trial of the Intravenous Administration of the SARS-CoV-2-Neutralizing&#xD;
+      Monoclonal Antibody DZIF-10c in SARS-CoV-2-Infected and -Uninfected Individuals&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This trial is a phase 1/2a first-in-human clinical trial to evaluate the safety ,&#xD;
+      pharmacokinetics, and antiviral activity of the monoclonal SARS-CoV-2-neutralizing antibody&#xD;
+      DZIF-10c administered by intravenous infusion. This study includes both SARS-CoV-2-uninfected&#xD;
+      individuals (Groups 1A-1C) and SARS-CoV-2-infected individuals (Groups 2C-2D). Following a&#xD;
+      single-infusion open-label dose-escalation phase (Groups 1A-1C and Group 2C, phase I&#xD;
+      component), the highest tested and tolerated dose will be administered to an expansion cohort&#xD;
+      of SARS-CoV-2-infected individuals in a randomized double-blind placebo-controlled manner&#xD;
+      (Group 2D).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 23, 2020</start_date>
+  <completion_date type="Anticipated">June 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2021</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>This study includes a total of 5 trial groups (up to 6 in case of an additional dose group).&#xD;
+1A-1D+2C=Dose-escalation phase open label. 2D double blind placebo controlled randomized extension cohort.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of Treatment-Emergent Adverse Events [Safety and Tolerability]</measure>
+    <time_frame>3 Month</time_frame>
+    <description>Primary target variables are (S)AEs and Adverse Events of Special Interest (AESIs)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of Reactogenicity Adverse Events [Safety and Tolerability]</measure>
+    <time_frame>1. Week</time_frame>
+    <description>Reactogenicity Events occurring during the first week after study drug administration will be separately summarized based on their relationship to the study drug.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetic parameter AUC0-672</measure>
+    <time_frame>0 to 672 hours</time_frame>
+    <description>AUC0-672 (the area under the concentration-time curve of DZIF-10c in serum over the time interval from 0 to 672 hours (Day 28))</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetic parameter tmax</measure>
+    <time_frame>0 to 504 hours</time_frame>
+    <description>AUC0-504 (the area under the concentration-time curve of DZIF-10c in serum over the time interval from 0 to 504 hours) in healthy volunteers</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetic parameter AUC0-inf</measure>
+    <time_frame>3 Month</time_frame>
+    <description>AUC0-inf (the area under the concentration-time curve of DZIF-10c in serum over the time interval from 0 extrapolated to infinity)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetic parameter Cmax</measure>
+    <time_frame>3 Month</time_frame>
+    <description>Cmax (maximum measured concentration of DZIF-10c in serum)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetic parameter t1/2</measure>
+    <time_frame>3 Month</time_frame>
+    <description>t1/2 (the terminal elimination half-life of DZIF-10c in serum)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetic parameter CL</measure>
+    <time_frame>3 Month</time_frame>
+    <description>CL (total clearance of DZIF-10c in serum following i.v. administration)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetic parameter Vss</measure>
+    <time_frame>3 Month</time_frame>
+    <description>Vss (volume of distribution at steady state following i.v. administration)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetic parameter Vz</measure>
+    <time_frame>3 Month</time_frame>
+    <description>Vz (volume of distribution during the terminal phase following i.v. administration)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anti-Drug Antibodies</measure>
+    <time_frame>3 Month</time_frame>
+    <description>The frequency of participants with antibodies and magnitude of antibodies targeting DZIF-10c will be calculated and described in tables.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Viral Shedding nasopharyngeal</measure>
+    <time_frame>Day 0-28</time_frame>
+    <description>Viral Shedding Determined by qRT-PCR in nasopharyngeal swabs</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Viral Shedding oropharyngeal</measure>
+    <time_frame>Day 0-28</time_frame>
+    <description>Viral Shedding Determined by qRT-PCR in oropharyngeal swabs</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Viral Shedding Determined by the Isolation of Infectious Virus</measure>
+    <time_frame>Day 0-3</time_frame>
+    <description>Frequency of viral shedding by as determined by successful isolation of infectious virus in virus isolation assays will be analysed by visit at baseline and at days 1 and 3 (Groups 2C-2D).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Viral Replication Determined by Subgenomic SARS-CoV-2 mRNA</measure>
+    <time_frame>3 Month</time_frame>
+    <description>Levels of subgenomic SARS-CoV-2 mRNA will be determined swab samples by qRT-PCR (Groups 2C-2D).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of COVID-19-related hospitalizations and medically-attended contacts</measure>
+    <time_frame>3 Month</time_frame>
+    <description>The frequency of unplanned hospitalizations and medically-attended contacts deemed to be related to COVID-19 by the Investigator will be described (Groups 2C-2D).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of COVID-19 symptoms</measure>
+    <time_frame>3 Month</time_frame>
+    <description>The duration of COVID-19-related symptoms will be described based on participants's self-assessment documented on patient diaries.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Activity and Frequency of SARS-CoV-2-reactive immune responses</measure>
+    <time_frame>3 Month</time_frame>
+    <description>SARS-CoV-2-reactive B cells and T cells are evaluated as number of participants with reactive cells and as activity of reactive cells. This analysis only takes place in SARS-CoV-2-infected individuals (2C, 2D).</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">69</enrollment>
+  <condition>SARS-CoV Infection</condition>
+  <arm_group>
+    <arm_group_label>SARS-CoV-2-uninfected and -infected individuals (Group 1A-1B-1C-(1D)-2C) open label</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>During the dose escalation phase, SARS-CoV-2-uninfected (Groups 1A-C) and SARS-CoV-2-infected individuals (Group 2C) will receive a single intravenous infusion of DZIF-10c at the specified dose on day 0.&#xD;
+Group 1A (n=3-6): 2.5 mg/kg of DZIF-10c i.v. Group 1B (n=3-6): 10 mg/kg of DZIF-10c i.v. Group 1C (n=6): 40 mg/kg of DZIF-10c i.v. Should the dose escalation phase in Group 1C be completed without dose-limiting toxicities, an additional three participants of healthy volunteers will be enrolled to receive a single 40 mg/kg infusion of DZIF-10c Group 2C (n=3-6): 40 mg/kg of DZIF-10c i.v.&#xD;
+Should a maximum tolerated dose be defined during the dose escalation phase in healthy volunteers, participants in group 2C or group 2D will receive DZIF-10c at this maximum tolerated dose.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>SARS-CoV-2-infected individuals (Group 2D) Placebo double blind randomized</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Group 2D (n=13): sterile normal saline (NaCl 0.9%)&#xD;
+Should a maximum tolerated dose be defined during the dose escalation phase in healthy volunteers, participants in group 2C or group 2D will receive DZIF-10c at this maximum tolerated dose.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>human monoclonal antibody DZIF-10c (Group 1A-2D)</intervention_name>
+    <description>intravenous administration of the human monoclonal antibody DZIF-10c</description>
+    <arm_group_label>SARS-CoV-2-uninfected and -infected individuals (Group 1A-1B-1C-(1D)-2C) open label</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo (NaCl 0.9%) (Group 2D)</intervention_name>
+    <description>Placebo = intravenous administration of sterile normal saline (NaCl 0.9%)</description>
+    <arm_group_label>SARS-CoV-2-infected individuals (Group 2D) Placebo double blind randomized</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Groups 1A-1C&#xD;
+&#xD;
+          -  Age 18-65&#xD;
+&#xD;
+          -  SARS-CoV-2-RNA negative in naso- or oropharyngeal swab obtained within 72 hours before&#xD;
+             study drug administration by qRT-PCR.&#xD;
+&#xD;
+          -  Non-reactivity of serum antibodies (IgG, and IgA and/or IgM when tested) against&#xD;
+             SARS-CoV-2 by serological assay&#xD;
+&#xD;
+        Groups 2C-2D&#xD;
+&#xD;
+          -  Age 18-70&#xD;
+&#xD;
+          -  SARS-CoV-2-RNA positive in naso- or oropharyngeal swab obtained within 72 hours before&#xD;
+             study drug administration by qRT-PCR.&#xD;
+&#xD;
+          -  Non-reactivity of serum antibodies (IgM and IgG or IgA and IgG) against SARS-CoV- 2 by&#xD;
+             serological assay&#xD;
+&#xD;
+          -  Disease severity 1-3 as defined by WHO R&amp;D Blueprint Ordinal Scale (February 18, 2020)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Known hypersensitivity to any constituent of the investigational medicinal product.&#xD;
+&#xD;
+          -  Hepatitis B infection indicated by detectable HBsAg (Hepatitis B surface antigen) in&#xD;
+             blood.&#xD;
+&#xD;
+          -  Detectable antibodies against hepatitis C virus in blood unless active hepatitis C is&#xD;
+             ruled out by negative HCV-RNA.&#xD;
+&#xD;
+          -  HIV infection indicated by detectable HIV antigen and/or HIV antibodies in blood.&#xD;
+&#xD;
+          -  Blood laboratory parameter abnormalities as listed below&#xD;
+&#xD;
+          -  Neutrophil count ≤1,000 cells/µl&#xD;
+&#xD;
+          -  Hemoglobin ≤10 g/dl&#xD;
+&#xD;
+          -  Platelet count ≤100,000 cells/µl&#xD;
+&#xD;
+          -  ALT ≥2.0 x ULN&#xD;
+&#xD;
+          -  AST ≥2.0 x ULN&#xD;
+&#xD;
+          -  Total bilirubin ≥1.5 ULN&#xD;
+&#xD;
+          -  eGFR &lt;60 ml/min/1.73m2&#xD;
+&#xD;
+          -  Pregnancy or lactation.&#xD;
+&#xD;
+          -  Any vaccination within 14 days prior to DZIF-10c administration.&#xD;
+&#xD;
+          -  Receipt of any SARS-CoV-2 vaccine or SARS-CoV-2 monoclonal antibody in the past.&#xD;
+&#xD;
+          -  Diagnosis of bronchial asthma or history of bronchial hyperresponsiveness.&#xD;
+&#xD;
+          -  Any chronic or clinically significant medical condition that in the opinion of&#xD;
+             investigator would jeopardize the safety or rights of the volunteer.&#xD;
+&#xD;
+          -  History of systemic corticosteroids, immunosuppressive anti-cancer, or other&#xD;
+             medications considered significant by the trial physician within the last 6 months (a&#xD;
+             single administration of systemic corticosteroids within ≤6 months and ≥4 weeks of&#xD;
+             enrollment is acceptable).&#xD;
+&#xD;
+          -  Participation in another clinical trial of an investigational medicinal product within&#xD;
+             the past 12 weeks or expected participation during this study.&#xD;
+&#xD;
+          -  Any kind of dependency on the principal investigator or employment by the sponsor or&#xD;
+             principal investigator&#xD;
+&#xD;
+          -  Legally incapacitated individuals&#xD;
+&#xD;
+          -  Individuals held in an institution by legal or official order&#xD;
+&#xD;
+          -  If engaging in sexual activity that could result in pregnancy, inability or&#xD;
+             unwillingness to comply with the requirements for highly effective contraception&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Gerd Faetkenheuer, Univ.-Prof.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Klinische Infektiologie</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Florian Klein, Univ.Prof.</last_name>
+    <phone>0221 478 85801</phone>
+    <phone_ext>0049</phone_ext>
+    <email>florian.klein@uk-koeln.de</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Henning Gruell, Dr. med.</last_name>
+    <phone>0221 47896973</phone>
+    <phone_ext>0049</phone_ext>
+    <email>henning.gruell@uk-koeln.de</email>
+  </overall_contact_backup>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>November 5, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 14, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 17, 2020</study_first_posted>
+  <last_update_submitted>November 14, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 14, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 17, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Cologne</investigator_affiliation>
+    <investigator_full_name>Gerd Fätkenheuer</investigator_full_name>
+    <investigator_title>Coordinating Investigator</investigator_title>
+  </responsible_party>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>Covid19</keyword>
+  <keyword>Infusion</keyword>
+  <keyword>Antibody</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Antibodies</mesh_term>
+    <mesh_term>Antibodies, Monoclonal</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

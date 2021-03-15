@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1019">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04640402</url>
+  </required_header>
+  <id_info>
+    <org_study_id>JSVCT099</org_study_id>
+    <nct_id>NCT04640402</nct_id>
+  </id_info>
+  <brief_title>A Phase Ⅱ Clinical Trial of Recombinant Corona Virus Disease-19 (COVID-19) Vaccine (Sf9 Cells)</brief_title>
+  <official_title>A Single-center, Randomized, Double-Blinded, Placebo-Controlled, Phase Ⅱ Clinical Trial of Recombinant COVID-19 Vaccine (Sf9 Cells), in the Subjects From Healthy Aged 18 Years and Above</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Jiangsu Province Centers for Disease Control and Prevention</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>West China Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Jiangsu Province Centers for Disease Control and Prevention</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a phase Ⅱ, single-center, randomized, double-blind, placebo-controlled study, to&#xD;
+      evaluate the immunogenicity and safety of the recombinant COVID-19 vaccine (Sf9 cells) in the&#xD;
+      subjects from healthy adults and elderly adults aged 18 years and above (aged 18-60 and 60-85&#xD;
+      years) with different immunization procedures (0, 21 days and 0, 14, 28 days) and doses&#xD;
+      (20μg/40μg).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a phase Ⅱ, single-center, randomized, double-blind, placebo-controlled study, to&#xD;
+      evaluate the immunogenicity and safety of the recombinant COVID-19 vaccine (Sf9 cells) in the&#xD;
+      subjects from healthy adults and elderly adults aged 18 years and above (aged 18-60 and 60-85&#xD;
+      years) . The phase Ⅱ clinical trials designed 8 research group, including two immunization&#xD;
+      procedures (0, 21 days and 0, 14, 28 days), two doses (20μg/0.5ml, 40μg/1.0ml) and two ages&#xD;
+      group (adults and elder): Each group including 120 participants. Vaccination or placebo group&#xD;
+      will be randomly assigned to receive in a 5:1 ratio, 960 in total.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 17, 2020</start_date>
+  <completion_date type="Anticipated">November 18, 2021</completion_date>
+  <primary_completion_date type="Anticipated">February 18, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Geometric mean (GMT) of specific antibody</measure>
+    <time_frame>1 months after immunization in each study group</time_frame>
+    <description>Geometric mean (GMT) of specific antibody against Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Spike protein Receptor-binding domain(S-RBD) protein (ELISA)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The incidence of adverse reaction (AR)</measure>
+    <time_frame>0 to 7 days after vaccination in each study group</time_frame>
+    <description>The incidence of adverse reaction (AR)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The incidence of adverse events (AE)</measure>
+    <time_frame>0 to 28 days after vaccination in each study group</time_frame>
+    <description>The incidence of adverse events (AE)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The incidence of severe adverse events (SAE)</measure>
+    <time_frame>0 to 28 days after vaccination in each study group</time_frame>
+    <description>The incidence of severe adverse events (SAE)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The incidence of serious adverse events</measure>
+    <time_frame>6 months after vaccination in each study group</time_frame>
+    <description>The incidence of serious adverse events</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Geometric mean (GMT) of anti-SARS-CoV-2-specific neutralizing antibodies</measure>
+    <time_frame>1 months after immunization in each study group</time_frame>
+    <description>Geometric mean (GMT) of anti-SARS-CoV-2-specific neutralizing antibodies (euvirus and pseudovirus-neutralizing assays)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The positive conversion rate of S-RBD protein-specific antibody</measure>
+    <time_frame>14 days, 30 days after immunization in each study group</time_frame>
+    <description>The positive conversion rate of S-RBD protein-specific antibody (ELISA) against SARS-CoV-2</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Geometric mean fold increase (GMI) of S-RBD protein-specific antibody</measure>
+    <time_frame>14 days, 30 days after immunization in each study group</time_frame>
+    <description>Geometric mean fold increase (GMI) of S-RBD protein-specific antibody (ELISA) against SARS-CoV-2</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Geometric mean (GMT) of anti-SARS-CoV-2-specific neutralizing antibodies</measure>
+    <time_frame>14 days after immunization in each study group</time_frame>
+    <description>Geometric mean (GMT) of anti-SARS-CoV-2-specific neutralizing antibodies (euvirus and pseudovirus-neutralizing assays)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The positive conversion rate of anti-SARS-CoV-2 specific neutralizing antibody</measure>
+    <time_frame>14 days, 30 days after immunization in each study group</time_frame>
+    <description>The positive conversion rate of anti-SARS-CoV-2 specific neutralizing antibody (euvirus and pseudovirus neutralization test)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Geometric mean fold increase (GMI) of anti-SARS-CoV-2 specific neutralizing antibodies</measure>
+    <time_frame>14 days, 30 days after immunization in each study group</time_frame>
+    <description>Geometric mean fold increase (GMI) of anti-SARS-CoV-2 specific neutralizing antibodies (eucivirus and pseudovirus neutralization assays)</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>The consistency analysis of the specific antibody and the specific neutralizing antibody</measure>
+    <time_frame>1 months after immunization in each study group</time_frame>
+    <description>The consistency analysis of the specific antibody (ELISA) and the specific neutralizing antibody (euvirus and pseudovirus neutralization assays) against SARS-CoV-2 S-RBD protein</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>The geometric mean titer (GMT) ratio of the SARS-CoV-2 neutralizing antibody and the S-RBD protein specific antibody</measure>
+    <time_frame>1 months after immunization in each study group</time_frame>
+    <description>The geometric mean titer (GMT) ratio of the SARS-CoV-2 neutralizing antibody and the S-RBD protein specific antibody in each study groups</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>The persistence (GMT，GMI，positive conversion rate) of specific antibodies</measure>
+    <time_frame>6 months after vaccination in each study group</time_frame>
+    <description>The persistence (GMT，GMI，positive conversion rate) of specific antibodies against SARS-CoV-2 S-RBD protein</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Subtypes of immunoglobulin G (IgG) antibodies</measure>
+    <time_frame>1 months after immunization in each study group</time_frame>
+    <description>Subtypes of IgG antibodies against the S-RBD protein of SARS-CoV-2 after immunization in each study group</description>
+  </other_outcome>
+  <number_of_arms>16</number_of_arms>
+  <enrollment type="Anticipated">960</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Low-dose vaccine (18-59 years) &amp; Two dose regimen</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>two doses of low-dose Recombinant COVID-19 vaccine (Sf9 cells) at the schedule of day 0, 21.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Low-dose vaccine (18-59 years) &amp; Three dose regimen</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>three doses of low-dose Recombinant COVID-19 vaccine (Sf9 cells) at the schedule of day 0, 14, 28.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>High-dose vaccine (18-59 years) &amp; Two dose regimen</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>two doses of high-dose Recombinant COVID-19 vaccine (Sf9 cells) at the schedule of day 0, 21.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>High-dose vaccine (18-59 years) &amp; Three dose regimen</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>three doses of high-dose Recombinant COVID-19 vaccine (Sf9 cells) at the schedule of day 0, 14, 28.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Low-dose vaccine (60-85 years) &amp; Two dose regimen</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>two doses of low-dose Recombinant COVID-19 vaccine (Sf9 cells) at the schedule of day 0, 21.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Low-dose vaccine (60-85 years) &amp; Three dose regimen</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>three doses of low-dose Recombinant COVID-19 vaccine (Sf9 cells) at the schedule of day 0, 14, 28.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>High-dose vaccine (60-85 years) &amp; Two dose regimen</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>two doses of high-dose Recombinant COVID-19 vaccine (Sf9 cells) at the schedule of day 0, 21.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>High-dose vaccine (60-85 years) &amp; Three dose regimen</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>three doses of high-dose Recombinant COVID-19 vaccine (Sf9 cells) at the schedule of day 0, 14, 28.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Low-dose placebo (18-59 years) &amp; Two dose regimen</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>two doses of placebo at the schedule of day 0, 21.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Low-dose placebo (18-59 years) &amp; Three dose regimen</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>three doses of placebo at the schedule of day 0, 14, 28.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>High-dose placebo (18-59 years) &amp; Two dose regimen</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>two doses of placebo at the schedule of day 0, 21.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>High-dose placebo (18-59 years) &amp; Three dose regimen</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>three doses of placebo at the schedule of day 0, 14, 28.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Low-dose placebo (60-85 years) &amp; Two dose regimen</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>two doses of placebo at the schedule of day 0, 21.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Low-dose placebo (60-85 years) &amp; Three dose regimen</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>three doses of placebo at the schedule of day 0, 14, 28.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>High-dose placebo (60-85 years) &amp; Two dose regimen</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>two doses of placebo at the schedule of day 0, 21.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>High-dose placebo (60-85 years) &amp; Three dose regimen</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>three doses of placebo at the schedule of day 0, 14, 28.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Low-dose Recombinant COVID-19 vaccine (Sf9 cells) (18-59 years) &amp; Two dose regimen</intervention_name>
+    <description>18-59 years group, two doses of low-dose (20µg/0.5ml) Recombinant COVID-19 vaccine (Sf9 cells) at the schedule of day 0, 21.</description>
+    <arm_group_label>Low-dose vaccine (18-59 years) &amp; Two dose regimen</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Low-dose Recombinant COVID-19 vaccine (Sf9 cells) (18-59 years) &amp; Three dose regimen</intervention_name>
+    <description>18-59 years group, three doses of low-dose (20µg/0.5ml) Recombinant COVID-19 vaccine (Sf9 cells) at the schedule of day 0, 14, 28.</description>
+    <arm_group_label>Low-dose vaccine (18-59 years) &amp; Three dose regimen</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>High-dose Recombinant COVID-19 vaccine (Sf9 cells) (18-59 years) &amp; Two dose regimen</intervention_name>
+    <description>18-59 years group, two doses of high-dose (40µg/1.0ml) Recombinant COVID-19 vaccine (Sf9 cells) at the schedule of day 0, 21.</description>
+    <arm_group_label>High-dose vaccine (18-59 years) &amp; Two dose regimen</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>High-dose Recombinant COVID-19 vaccine (Sf9 cells) (18-59 years) &amp; Three dose regimen</intervention_name>
+    <description>18-59 years group, three doses of high-dose (40µg/1.0ml) Recombinant COVID-19 vaccine (Sf9 cells) at the schedule of day 0, 14, 28.</description>
+    <arm_group_label>High-dose vaccine (18-59 years) &amp; Three dose regimen</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Low-dose Recombinant COVID-19 vaccine (Sf9 cells) (60-85 years) &amp; Two dose regimen</intervention_name>
+    <description>60-85 years group, two doses of low-dose (20µg/0.5ml) Recombinant COVID-19 vaccine (Sf9 cells) at the schedule of day 0, 21.</description>
+    <arm_group_label>Low-dose vaccine (60-85 years) &amp; Two dose regimen</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Low-dose Recombinant COVID-19 vaccine (Sf9 cells) (60-85 years) &amp; Three dose regimen</intervention_name>
+    <description>60-85 years group, three doses of low-dose (20µg/0.5ml) Recombinant COVID-19 vaccine (Sf9 cells) at the schedule of day 0, 14, 28.</description>
+    <arm_group_label>Low-dose vaccine (60-85 years) &amp; Three dose regimen</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>High-dose Recombinant COVID-19 vaccine (Sf9 cells) (60-85 years) &amp; Two dose regimen</intervention_name>
+    <description>60-85 years group, two doses of high-dose (40µg/1.0ml) Recombinant COVID-19 vaccine (Sf9 cells) at the schedule of day 0, 21.</description>
+    <arm_group_label>High-dose vaccine (60-85 years) &amp; Two dose regimen</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>High-dose Recombinant COVID-19 vaccine (Sf9 cells) (60-85 years) &amp; Three dose regimen</intervention_name>
+    <description>60-85 years group, three doses of high-dose (40µg/1.0ml) Recombinant COVID-19 vaccine (Sf9 cells) at the schedule of day 0, 14, 28.</description>
+    <arm_group_label>High-dose vaccine (60-85 years) &amp; Three dose regimen</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Low-dose placebo (18-59 years) &amp; Two dose regimen</intervention_name>
+    <description>18-59 years group, two doses of placebo(0.5ml) at the schedule of day 0, 21.</description>
+    <arm_group_label>Low-dose placebo (18-59 years) &amp; Two dose regimen</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Low-dose placebo (18-59 years) &amp; Three dose regimen</intervention_name>
+    <description>18-59 years group, three doses of placebo(0.5ml) at the schedule of day 0, 14, 28.</description>
+    <arm_group_label>Low-dose placebo (18-59 years) &amp; Three dose regimen</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>High-dose placebo (18-59 years) &amp; Two dose regimen</intervention_name>
+    <description>18-59 years group, two doses of placebo(1.0ml) at the schedule of day 0, 21.</description>
+    <arm_group_label>High-dose placebo (18-59 years) &amp; Two dose regimen</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>High-dose placebo (18-59 years) &amp; Three dose regimen</intervention_name>
+    <description>18-59 years group, three doses of placebo(1.0ml) at the schedule of day 0, 14, 28.</description>
+    <arm_group_label>High-dose placebo (18-59 years) &amp; Three dose regimen</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Low-dose placebo (60-85 years) &amp; Two dose regimen</intervention_name>
+    <description>60-85 years group, two doses of placebo(0.5ml) at the schedule of day 0, 21.</description>
+    <arm_group_label>Low-dose placebo (60-85 years) &amp; Two dose regimen</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Low-dose placebo (60-85 years) &amp; Three dose regimen</intervention_name>
+    <description>60-85 years group, three doses of placebo(0.5ml) at the schedule of day 0, 14, 28.</description>
+    <arm_group_label>Low-dose placebo (60-85 years) &amp; Three dose regimen</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>High-dose placebo (60-85 years) &amp; Two dose regimen</intervention_name>
+    <description>60-85 years group, two doses of placebo(1.0ml) at the schedule of day 0, 21.</description>
+    <arm_group_label>High-dose placebo (60-85 years) &amp; Two dose regimen</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>High-dose placebo (60-85 years) &amp; Three dose regimen</intervention_name>
+    <description>60-85 years group, three doses of placebo(1.0ml) at the schedule of day 0, 14, 28.</description>
+    <arm_group_label>High-dose placebo (60-85 years) &amp; Three dose regimen</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Aged 18 years and above.&#xD;
+&#xD;
+          -  Able to understand the content of informed consent and willing to sign the informed&#xD;
+             consent.&#xD;
+&#xD;
+          -  Able and willing to complete all the secluded study process during the whole study&#xD;
+             follow-up period (about 7 months).&#xD;
+&#xD;
+          -  Axillary temperature ≤37.0℃.&#xD;
+&#xD;
+          -  General good health as established by medical history and physical examination.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        First dose exclusion criteria:&#xD;
+&#xD;
+          -  Positive serum immunoglobulin M (IgM) and IgG to the SARS-CoV-2.&#xD;
+&#xD;
+          -  A Known History of HIV infection&#xD;
+&#xD;
+          -  Family history of seizure, epilepsy, brain or mental disease.&#xD;
+&#xD;
+          -  Participant that has an allergic history to any ingredient of vaccines.&#xD;
+&#xD;
+          -  Woman who is pregnant, breast-feeding or positive in pregnancy test on day of&#xD;
+             enrollment, or is planning to be pregnant during the next 6 months.&#xD;
+&#xD;
+          -  Any acute fever disease or infections.&#xD;
+&#xD;
+          -  Have a medical history of SARS.&#xD;
+&#xD;
+          -  Have serious cardiovascular diseases, such as arrhythmia, conduction block, myocardial&#xD;
+             infarction, severe hypertension and not well-controlled.&#xD;
+&#xD;
+          -  Major chronic illness, such as asthma, diabetes, or thyroid disease, and not&#xD;
+             well-controlled.&#xD;
+&#xD;
+          -  Hereditary angioneurotic edema or acquired angioneurotic edema.&#xD;
+&#xD;
+          -  Urticaria in last one year.&#xD;
+&#xD;
+          -  Asplenia or functional asplenia.&#xD;
+&#xD;
+          -  Platelet disorder or other bleeding disorder may cause injection contraindication.&#xD;
+&#xD;
+          -  Faint at the sight of blood or needles.&#xD;
+&#xD;
+          -  Prior administration of immunodepressant or corticosteroids, antianaphylactics&#xD;
+             treatment, cytotoxic treatment in last 6 months.&#xD;
+&#xD;
+          -  Prior administration of blood products in last 4 months.&#xD;
+&#xD;
+          -  Prior administration of other research medicines in last 1 month.&#xD;
+&#xD;
+          -  Prior administration of attenuated vaccine in last 1 month.&#xD;
+&#xD;
+          -  Prior administration of subunit vaccine or inactivated vaccine in last 14 days.&#xD;
+&#xD;
+          -  Being treated for tuberculosis.&#xD;
+&#xD;
+          -  Any condition that in the opinion of the investigators may interfere with the&#xD;
+             evaluation of study objectives.&#xD;
+&#xD;
+        Exclusion criteria for subsequent doses:&#xD;
+&#xD;
+          -  Patients with severe allergic reactions after the previous dose of vaccination;&#xD;
+&#xD;
+          -  Patients with serious adverse events causally related to the previous dose of&#xD;
+             vaccination.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Fengcai Zhu, Doctor</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Jiangsu Provincial Center for Disease Control and Prevention</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Fanyue Meng, Doctor</last_name>
+    <phone>18915999245</phone>
+    <email>mfy19780712@163.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Jiangsu Provincial Center for Diseases Control and Prevention</name>
+      <address>
+        <city>Nanjing</city>
+        <state>Jiangsu</state>
+        <zip>210009</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Siyue Jia, PhD</last_name>
+      <phone>17826065671</phone>
+      <email>462371198@qq.com</email>
+    </contact>
+    <investigator>
+      <last_name>Fengcai Zhu, Doctor</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>November 19, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 20, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 23, 2020</study_first_posted>
+  <last_update_submitted>November 20, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 20, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 23, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Safety</keyword>
+  <keyword>Immunogenicity</keyword>
+  <keyword>COVID-19 Vaccine</keyword>
+  <keyword>Recombinant vaccine</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vaccines</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

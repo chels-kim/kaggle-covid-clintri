@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4122">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04569786</url>
+  </required_header>
+  <id_info>
+    <org_study_id>V590-001</org_study_id>
+    <secondary_id>V590-001</secondary_id>
+    <nct_id>NCT04569786</nct_id>
+  </id_info>
+  <brief_title>Dose Ranging Trial to Assess Safety and Immunogenicity of V590 (COVID-19 Vaccine) in Healthy Adults (V590-001)</brief_title>
+  <official_title>A Phase 1, Randomized, Double-Blind, Placebo-Controlled, Dose-Ranging Trial to Evaluate the Safety and Immunogenicity of V590 in Healthy Adults</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Merck Sharp &amp; Dohme Corp.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Merck Sharp &amp; Dohme Corp.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary objectives of this study is to evaluate the safety and tolerability of V590&#xD;
+      versus placebo and to assess the immunogenicity of V590 on Day 28. The primary hypothesis is&#xD;
+      that at least one well-tolerated dose of V590 increases the geometric mean titers (GMTs) of&#xD;
+      anti-severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) spike serum neutralizing&#xD;
+      antibody, as measured by plaque reduction neutralization test (PRNT), compared to placebo.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">October 29, 2020</start_date>
+  <completion_date type="Anticipated">February 15, 2021</completion_date>
+  <primary_completion_date type="Anticipated">February 15, 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage of Participants with at Least 1 Solicited Injection Site Adverse Event</measure>
+    <time_frame>Up to 5 days post-vaccination</time_frame>
+    <description>An adverse event (AE) is any untoward medical occurrence in a clinical study participant, temporally associated with the use of study intervention, whether or not considered related to the study intervention. Solicited injection-site AEs (redness, swelling, and tenderness/pain) will be assessed.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of Participants with at Least 1 Solicited Systemic Adverse Event</measure>
+    <time_frame>Up to 28 days post-vaccination</time_frame>
+    <description>An AE is any untoward medical occurrence in a clinical study participant, temporally associated with the use of study intervention, whether or not considered related to the study intervention. Solicited systemic AEs (muscle pain, joint pain, headache, tiredness, fatigue, rash, nausea, joint swelling, oral lesions, and sweating more than usual) will be assessed.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of Participants with at Least 1 Unsolicited Adverse Event</measure>
+    <time_frame>Up to 28 days post-vaccination</time_frame>
+    <description>An AE is any untoward medical occurrence in a clinical study participant, temporally associated with the use of study intervention, whether or not considered related to the study intervention. Unsolicited AEs will be assessed.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of Participants with at Least 1 Medically Attended Adverse Event</measure>
+    <time_frame>Up to 180 days post-vaccination</time_frame>
+    <description>A medically attended adverse event (MAAE) is an AE in which medical attention is received during an unscheduled, non-routine outpatient visit, such as an emergency room visit, office visit, or an urgent care visit with any medical personnel for any reason. Any MAAE will be assessed.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of Participants with at Least 1 Serious Adverse Event</measure>
+    <time_frame>Up to 365 days post-vaccination</time_frame>
+    <description>A serious adverse event is &quot;life threatening,&quot; requires inpatient hospitalization or prolongation of existing hospitalization, results in persistent or significant disability/incapacity and is a congenital anomaly/birth defect. Any SAE will be assessed.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Geometric Mean Titers for Serum Neutralizing Antibodies as Measured by Plaque Reduction Neutralization Test (Panels A - H)</measure>
+    <time_frame>Day 28 post-vaccination</time_frame>
+    <description>Serum samples will be collected and the presence of serum neutralization antibodies (SNAs) will be assessed using plaque reduction neutralization test (PRNT).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Geometric Mean Titers for SNAs as Measured by PRNT (Panels A-H)</measure>
+    <time_frame>Days 7, 14, 90, 180, 270, and 365 post-vaccination</time_frame>
+    <description>Serum samples will be collected and the presence of SNAs will be assessed using PRNT.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Geometric Mean Concentration of Total Anti-SARS-CoV-2 Spike SNAs as Measured by Enzyme-Linked Immunosorbent Assay (Panels A-H)</measure>
+    <time_frame>Days 7, 14, 28, 90, 180, 270, and 365 post-vaccination</time_frame>
+    <description>Serum samples will be collected and the total anti-spike IgG antibodies will be assessed using enzyme-linked immunosorbent assay (ELISA).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants with Vaccine Viremia as Measured by Reverse Transcription-Polymerase Chain Reaction</measure>
+    <time_frame>Days 1, 2, 3, 4, 5, 6, 7, 14 and 28 post-vaccination</time_frame>
+    <description>The percentage of participants with viremia detected by reverse transcription polymerase chain reaction (RT-PCR) of blood specimens will be assessed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants with Vaccine Shedding in Saliva or Urine as Measured by RT-PCR</measure>
+    <time_frame>Days 1, 2, 3, 4, 5, 6, 7, 14, and 28 post-vaccination</time_frame>
+    <description>The percentage of participants with viral shedding detected by RT-PCR in urine or saliva specimens will be assessed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants with Vaccine Shedding in Stool as Measured by RT-PCR</measure>
+    <time_frame>Days 2-4, 5-7 post-vaccination</time_frame>
+    <description>The percentage of participants with vaccine shedding in stool as measured by RT-PCR will be assessed. Total of 2 stool samples collected if produced: one sample on Days 2 to 4; one sample on Days 5 to 7.</description>
+  </secondary_outcome>
+  <number_of_arms>9</number_of_arms>
+  <enrollment type="Anticipated">252</enrollment>
+  <condition>Coronavirus Disease (COVID-19)</condition>
+  <arm_group>
+    <arm_group_label>Part 1: 5.00x10⁵ plaque forming units (pfu) (Panel A)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in this 18 to 54-year-old SARS-CoV-2 seronegative cohort (Panel A) will receive a single dose of V590 5.00x10⁵ pfu or placebo on Day 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 1: 2.40x10⁶ pfu (Panel B)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in this 18 to 54-year-old SARS-CoV-2 seronegative cohort (Panel B) will receive a single dose of 2.40x10⁶ pfu or placebo on Day 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 1: 1.15x10⁷ pfu (Panel C)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in this 18 to 54-year-old SARS-CoV-2 seronegative cohort (Panel C) will receive a single dose of 1.15x10⁷ pfu or placebo on Day 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 1: 5.55x10⁷ pfu (Panel D)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in this 18 to 54-year-old SARS-CoV-2 seronegative cohort (Panel D) will receive a single dose of V590 5.55x10⁷ pfu or placebo on Day 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 2: 5.00x10⁵ pfu (Panel E)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in this ≥ 55 years old SARS CoV-2 seronegative cohort (Panel E) will receive a single dose of V590 5.00x10⁵ pfu or placebo on Day 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 2: 2.40x10⁶ pfu (Panel F)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in this ≥ 55 years old SARS-CoV-2 seronegative cohort (Panel F) will receive a single dose of 2.40x10⁶ pfu or placebo on Day 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 2: 1.15x10⁷ pfu (Panel G)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in this ≥ 55 years old SARS-CoV-2 seronegative cohort (Panel G) will receive a single dose of V590 1.15x10⁷ pfu or placebo on Day 1</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 2: 5.55x10⁷ pfu (Panel H)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in this ≥ 55 years old SARS-CoV-2 seronegative cohort (Panel H) will receive a single dose of V590 5.55x10⁷ pfu or placebo on Day 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Part 3: 5.55x10⁷ pfu (Panel I)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in this 18 to 54-year-old SARS-CoV-2 seropositive cohort (Panel I) will receive a single dose of V590 5.55x10⁷ pfu or placebo on Day 1.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>V590</intervention_name>
+    <description>Single dose of V590 administered via intramuscular (IM) injection with dosage levels of 5.00x10⁵ pfu/mL (Panels A, E), 2.40x10⁶ pfu/mL (Panels B, F), 1.15x10⁷ pfu/mL (Panels C, G), 5.55x10⁷ pfu/mL (Panels D, H, I).</description>
+    <arm_group_label>Part 1: 1.15x10⁷ pfu (Panel C)</arm_group_label>
+    <arm_group_label>Part 1: 2.40x10⁶ pfu (Panel B)</arm_group_label>
+    <arm_group_label>Part 1: 5.00x10⁵ plaque forming units (pfu) (Panel A)</arm_group_label>
+    <arm_group_label>Part 1: 5.55x10⁷ pfu (Panel D)</arm_group_label>
+    <arm_group_label>Part 2: 1.15x10⁷ pfu (Panel G)</arm_group_label>
+    <arm_group_label>Part 2: 2.40x10⁶ pfu (Panel F)</arm_group_label>
+    <arm_group_label>Part 2: 5.00x10⁵ pfu (Panel E)</arm_group_label>
+    <arm_group_label>Part 2: 5.55x10⁷ pfu (Panel H)</arm_group_label>
+    <arm_group_label>Part 3: 5.55x10⁷ pfu (Panel I)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo administered via IM injection.</description>
+    <arm_group_label>Part 1: 1.15x10⁷ pfu (Panel C)</arm_group_label>
+    <arm_group_label>Part 1: 2.40x10⁶ pfu (Panel B)</arm_group_label>
+    <arm_group_label>Part 1: 5.00x10⁵ plaque forming units (pfu) (Panel A)</arm_group_label>
+    <arm_group_label>Part 1: 5.55x10⁷ pfu (Panel D)</arm_group_label>
+    <arm_group_label>Part 2: 1.15x10⁷ pfu (Panel G)</arm_group_label>
+    <arm_group_label>Part 2: 2.40x10⁶ pfu (Panel F)</arm_group_label>
+    <arm_group_label>Part 2: 5.00x10⁵ pfu (Panel E)</arm_group_label>
+    <arm_group_label>Part 2: 5.55x10⁷ pfu (Panel H)</arm_group_label>
+    <arm_group_label>Part 3: 5.55x10⁷ pfu (Panel I)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Is in overall good health based on medical history, physical examination, and vital&#xD;
+             sign (VS) measurements performed prior to randomization, as assessed by the&#xD;
+             investigator.&#xD;
+&#xD;
+          -  Is in overall good health based on laboratory safety tests obtained at the screening&#xD;
+             visit.&#xD;
+&#xD;
+          -  Has a body mass index (BMI) ≤30 kg/m2 inclusive (after rounding to the nearest whole&#xD;
+             number).&#xD;
+&#xD;
+          -  Parts 1 and 2 (Panels A-H) only: Has negative testing for severe acute respiratory&#xD;
+             syndrome coronavirus 2 (SARS-CoV-2) based on both antibody and reverse transcription&#xD;
+             polymerase chain reaction (RT-PCR), at screening and upon start of domiciling.&#xD;
+&#xD;
+          -  Part 3 (Panel I) only: Has positive serology (antibody) testing for SARS-CoV-2, also&#xD;
+             with negative SARS CoV-2 RT-PCR testing at screening and upon start of domiciling, and&#xD;
+             without symptoms of respiratory infection for at minimum 3 weeks preceding screening.&#xD;
+&#xD;
+          -  Has been practicing social distancing for at least two weeks prior to planned start of&#xD;
+             domiciling and has had no close contacts with known active SARS-CoV-2 infection in&#xD;
+             that time period.&#xD;
+&#xD;
+          -  Is male or female, from 18 years to 54 years of age inclusive (Parts 1 and 3 [Panels&#xD;
+             A-D, I]) or ≥ 55 years of age (Part 2 [Panels E-H]) at the time of signing the&#xD;
+             informed consent.&#xD;
+&#xD;
+          -  Male participants are eligible to participate if they agree to the following during&#xD;
+             the intervention period and for at least 2 months after administration of study&#xD;
+             intervention: be abstinent from heterosexual intercourse as their preferred and usual&#xD;
+             lifestyle and agree to remain abstinent OR agree to use contraception unless confirmed&#xD;
+             to be azoospermic (vasectomized or secondary to medical cause).&#xD;
+&#xD;
+          -  A female participant is eligible to participate if she is not pregnant or&#xD;
+             breastfeeding, and at least one of the following conditions applies: is not a woman of&#xD;
+             childbearing potential (WOCBP), or is a WOCBP and using an acceptable contraceptive&#xD;
+             method, or is abstinent from heterosexual intercourse as their preferred and usual&#xD;
+             lifestyle. A WOCBP must have a negative highly sensitive pregnancy test before the&#xD;
+             first dose of study intervention. If a urine test cannot be confirmed as negative, a&#xD;
+             serum pregnancy test is required.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Has a known hypersensitivity to any component of V590 or placebo.&#xD;
+&#xD;
+          -  Has any known or suspected active clinically significant autoimmune disease or&#xD;
+             immunosuppressive condition, acquired or congenital, as determined by medical history&#xD;
+             and/or physical examination.&#xD;
+&#xD;
+          -  Has thrombocytopenia or other coagulation disorder contraindicating intramuscular&#xD;
+             vaccination or repeated venipuncture.&#xD;
+&#xD;
+          -  Has history or current evidence of any condition, therapy, laboratory abnormality, or&#xD;
+             other circumstance that might expose the participant to risk by participating in the&#xD;
+             study, confound the results of the study or interfere with the participant's&#xD;
+             participation for the full duration of the study.&#xD;
+&#xD;
+          -  Has a history of ongoing liver disease or, at the time of screening, has any one of&#xD;
+             the following: Alanine aminotransferase (ALT) or aspartate aminotransferase (AST) &gt;&#xD;
+             1.5 × Upper Limit of Normal (ULN), alkaline phosphatase and direct bilirubin &gt; ULN&#xD;
+             (total bilirubin may be up to 2 × ULN as long as direct bilirubin is equal to or below&#xD;
+             the ULN), or prothrombin time (PT) international normalized ratio (INR) &gt; 1.25.&#xD;
+&#xD;
+          -  Has a history of asthma or allergic asthma that required systemic corticosteroids in&#xD;
+             the previous year.&#xD;
+&#xD;
+          -  Has a history of Guillain-Barré syndrome.&#xD;
+&#xD;
+          -  Has a history of diabetes mellitus, requiring medication at the time of assessment, OR&#xD;
+             has a hemoglobin A1c ≥ 6.5.&#xD;
+&#xD;
+          -  Has a history of any medical condition that would put the participant at risk for&#xD;
+             severe SARS-CoV-2 disease as judged by the investigator.&#xD;
+&#xD;
+          -  Has any ongoing, symptomatic, acute or chronic illness requiring medical or surgical&#xD;
+             care or any condition that is immunosuppressive.&#xD;
+&#xD;
+          -  Is mentally or legally incapacitated, has significant emotional problems at the time&#xD;
+             of screening visit or expected during the conduct of the study or has a history of&#xD;
+             clinically significant psychiatric disorder of the last 5 years.&#xD;
+&#xD;
+          -  Has a history of cancer (malignancy).&#xD;
+&#xD;
+          -  Participant has an estimated glomerular filtration rate (eGFR) ≤60 mL/min/1.73 m^2.&#xD;
+&#xD;
+          -  Has a history of significant multiple and/or severe allergies or has had an&#xD;
+             anaphylactic reaction or significant intolerability to a vaccine or prescription or&#xD;
+             non prescription drugs or food as judged by the investigator.&#xD;
+&#xD;
+          -  Is positive for hepatitis B surface antigen, hepatitis C antibodies or human&#xD;
+             immunodeficiency virus (HIV)-1 or 2 antibodies. Individuals with antibodies to&#xD;
+             hepatitis C may be enrolled if hepatitis C viral load is negative and there is no&#xD;
+             evidence of or history of liver disease.&#xD;
+&#xD;
+          -  Had major surgery, donated or lost 1 unit of blood (approximately 500 mL) within 4&#xD;
+             weeks prior to the pre-study (screening) visit.&#xD;
+&#xD;
+          -  A WOCBP who has a positive urine or serum pregnancy test before vaccination.&#xD;
+&#xD;
+          -  A WOCBP who is breastfeeding.&#xD;
+&#xD;
+          -  Has any unstable chronic medical condition, including one that has resulted in change&#xD;
+             in therapy (medication or other) in the 30 days prior to randomization or&#xD;
+             hospitalization in the previous year or might be predicted to result in&#xD;
+             hospitalization in the year after enrollment.&#xD;
+&#xD;
+          -  Has received or is expected to receive any SARS-CoV-2 vaccine or other coronavirus&#xD;
+             vaccine during the study (except V590), is using investigational agents for&#xD;
+             prophylaxis of SARS-CoV-2 or is taking any systemic antiviral medications.&#xD;
+&#xD;
+          -  Has received any intra-articular steroid injections within the 3 months prior to study&#xD;
+             vaccination or is expected to require intra-articular steroid injection during the&#xD;
+             study.&#xD;
+&#xD;
+          -  Is receiving immunosuppressive therapy or has received immunosuppressive therapy&#xD;
+             within 6 months of enrollment.&#xD;
+&#xD;
+          -  Has received a blood transfusion or blood products, including immunoglobulin, in the 3&#xD;
+             months before anticipated study vaccination.&#xD;
+&#xD;
+          -  Is expected to be receiving or is currently receiving antipyretic or analgesic&#xD;
+             medication on a daily or every other day basis from randomization through Day 7&#xD;
+&#xD;
+          -  Has ever participated in an investigational study of a SARS-CoV-2 vaccine, a&#xD;
+             coronavirus vaccine, or an antiviral or other biologic product intended for the&#xD;
+             treatment of COVID-19.&#xD;
+&#xD;
+          -  Has participated in another vaccine study within 3 months prior to screening or has&#xD;
+             participated in an investigational study within 4 weeks prior to the (screening)&#xD;
+             visit.&#xD;
+&#xD;
+          -  Has ever received a vaccine based on vesicular stomatitis virus (VSV).&#xD;
+&#xD;
+          -  Has a Fridericia's corrected time from Q wave to T wave (QTcF) interval &gt;470 msec&#xD;
+             (male) or &gt;480 msec (female), has a history of risk factors for Torsades de Pointes,&#xD;
+             or has uncorrected hypokalemia or hypomagnesemia.&#xD;
+&#xD;
+          -  Is under the age of legal consent.&#xD;
+&#xD;
+          -  Is smoking or vaping and/or has a history of chronic smoking or vaping within&#xD;
+             approximately six months prior to planned vaccination.&#xD;
+&#xD;
+          -  Does not agree to follow the alcohol restrictions&#xD;
+&#xD;
+          -  Has a tattoo, scar, or other physical finding at the area of the vaccination site that&#xD;
+             would interfere with intramuscular injection or a local tolerability assessment.&#xD;
+&#xD;
+          -  Is a regular user of any illicit drugs or has a history of drug (including alcohol)&#xD;
+             abuse within approximately 1 year.&#xD;
+&#xD;
+          -  Presents any concern by the investigator regarding safe participation in the study or&#xD;
+             for any other reason the investigator considers the participant inappropriate for&#xD;
+             participation in the study.&#xD;
+&#xD;
+          -  Lives in a nursing home or long-term care facility.&#xD;
+&#xD;
+          -  Is currently working in an occupation with high risk of exposure to SARS-CoV-2 (e.g.,&#xD;
+             health care worker with direct patient contact, emergency response personnel).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Medical Director</last_name>
+    <role>Study Director</role>
+    <affiliation>Merck Sharp &amp; Dohme Corp.</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Celerion ( Site 0002)</name>
+      <address>
+        <city>Tempe</city>
+        <state>Arizona</state>
+        <zip>85283</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Pharmacology of Miami ( Site 0003)</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33014</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>QPS Miami Research Associates ( Site 0005)</name>
+      <address>
+        <city>South Miami</city>
+        <state>Florida</state>
+        <zip>33143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bio-Kinetic Clinical Applications (QPS) ( Site 0006)</name>
+      <address>
+        <city>Springfield</city>
+        <state>Missouri</state>
+        <zip>65802</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Celerion ( Site 0001)</name>
+      <address>
+        <city>Lincoln</city>
+        <state>Nebraska</state>
+        <zip>68502</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Alliance for Multispecialty Reseach, LLC ( Site 0004)</name>
+      <address>
+        <city>Knoxville</city>
+        <state>Tennessee</state>
+        <zip>37920</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Worldwide Clinical Trials ( Site 0007)</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78217</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>September 24, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 24, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 30, 2020</study_first_posted>
+  <last_update_submitted>February 4, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 4, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 5, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>http://engagezone.msd.com/doc/ProcedureAccessClinicalTrialData.pdf</ipd_description>
+    <ipd_url>http://engagezone.msd.com/ds_documentation.php</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

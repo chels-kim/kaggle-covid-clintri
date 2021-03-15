@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1100">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04608266</url>
+  </required_header>
+  <id_info>
+    <org_study_id>APHP200702</org_study_id>
+    <nct_id>NCT04608266</nct_id>
+  </id_info>
+  <brief_title>CAMOVID : Evaluation of Efficacy and Safety of Camostat Mesylate for the Treatment of SARS-CoV-2 Infection - COVID-19 in Ambulatory Adult Patients</brief_title>
+  <acronym>CAMOVID</acronym>
+  <official_title>A Multicenter Randomized Trial to Evaluate the Efficacy and Safety of Camostat Mesylate for the Treatment of SARS-CoV-2 Infection - COVID-19 in Ambulatory Adult Patients (CAMOVID)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Assistance Publique - Hôpitaux de Paris</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Assistance Publique - Hôpitaux de Paris</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The overall objective of the study is to determine the therapeutic effect and tolerance of&#xD;
+      Camostat mesylate, compared to placebo in adult patients with ambulatory COVID-19 disease,&#xD;
+      presenting with risk factors of severe COVID-19. Camostat mesylate is a serine protease&#xD;
+      TMPRSS2 (Transmembrane Serine Protease 2) inhibitor which has been successfully and safely&#xD;
+      used to treat pancreatitis-associated pain and post-operative reflux oesophagitis in Japan.&#xD;
+      More recently, it has been shown to inhibit SARS-CoV-2 viral entry and reduce infection of&#xD;
+      human primary pneumocytes and lung cell lines.&#xD;
+&#xD;
+      Camostat mesylate or placebo will be administered to consenting adult patients with&#xD;
+      virologically confirmed COVID-19, not requiring initial hospitalization. All patients will&#xD;
+      receive standard of care along with randomized treatments. Outcomes of included patients will&#xD;
+      be compared between the 2 groups.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 3, 2020</start_date>
+  <completion_date type="Anticipated">March 2022</completion_date>
+  <primary_completion_date type="Anticipated">January 2022</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Hospitalization for COVID-19 deterioration or death without hospitalization</measure>
+    <time_frame>Day 21</time_frame>
+    <description>Proportion of patients hospitalized for COVID-19 deterioration or who died without hospitalization</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Adverse events</measure>
+    <time_frame>Day 21</time_frame>
+    <description>Number of patients with at least one adverse event</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Serious adverse events</measure>
+    <time_frame>Day 21</time_frame>
+    <description>Number of patients with at least one serious adverse event</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Investigational medication discontinuation</measure>
+    <time_frame>Day 21</time_frame>
+    <description>Number of patients who discontinued the investigational medication</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospitalization for COVID-19 deterioration or death without hospitalization, evaluated by independent adjudication comittee</measure>
+    <time_frame>Day 21</time_frame>
+    <description>Proportion of patients hospitalized for COVID-19 deterioration (reviewed by independent adjudication comitter) or who died without hospitalization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Clinical improvement using the Word Health Organization (WHO) COVID-19 scale</measure>
+    <time_frame>Day 7, 14, 21</time_frame>
+    <description>WHO clinical scale: Uninfected - No clinical or virological evidence of infection: 0; Ambulatory - No limitation of activities: 1; Ambulatory - limitation of activities: 2; Hospitalized - no oxygen therapy: 3; Hospitalized - oxygen by mask or nasal prongs: 4; Hospitalized; oxygen by non invasive ventilation or High flow: 5; Intubation and Mechanical ventilation: 6; Mechanical ventilation + additional organ support (pressors, Renal replacement therapy, ECMO):7; Dead: 8</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Need for intensive care</measure>
+    <time_frame>Day 21</time_frame>
+    <description>Proportion of patients admitted to an intensive care unit</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of hospitalization</measure>
+    <time_frame>Day 21</time_frame>
+    <description>Number of days alive without hospitalization up to day 21</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Need for invasive mechanical ventilation for severe COVID-19</measure>
+    <time_frame>Day 21</time_frame>
+    <description>Proportion of patients with initiation of invasive mechanical ventilation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Need for oxygen therapy for COVID-19</measure>
+    <time_frame>Day 21</time_frame>
+    <description>Proportion of patients with initiation of oxygen therapy</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival</measure>
+    <time_frame>Day 90</time_frame>
+    <description>Proportion of patients alive at day 90</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of symptoms</measure>
+    <time_frame>Day 21</time_frame>
+    <description>Number of days alive without symptoms at day 21</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV-2 virological assessment</measure>
+    <time_frame>Day 7, 14, 21</time_frame>
+    <description>By Reverse Transcriptase-Polymerase Chain Reaction (RT-PCR) on nasal swab and droplet quantification of SARS-CoV2 ribonucleic acid-emia (RNAemia)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV-2 serological assessment</measure>
+    <time_frame>Day 7, 14, 21 and 90</time_frame>
+    <description>SARS-CoV2 antibodies quantification in blood</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Peripheral blood lymphocyte phenotyping</measure>
+    <time_frame>Day 1, 14, 90</time_frame>
+    <description>Peripheral blood lymphocyte phenotyping with telomere length measurement</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Acute kidney failure</measure>
+    <time_frame>Day 21</time_frame>
+    <description>Acute kidney failure defined as at least serum creatinine increase of 0.3mg/dl or 1.5-1.9 times baseline and/or oliguria &lt; 0.5ml/kg/h</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Renal function</measure>
+    <time_frame>Day 7, 14 and 21</time_frame>
+    <description>estimated glomerular filtration rate</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Concentration of urea in blood</measure>
+    <time_frame>Day 7, 14 and 21</time_frame>
+    <description>Uricemia in mmol/L or mg/dL</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Concentration of potassium in blood</measure>
+    <time_frame>Day 7, 14 and 21</time_frame>
+    <description>Kaliemia in mmol/L</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Liver function</measure>
+    <time_frame>Day 7, 14 and 21</time_frame>
+    <description>Liver transaminases dosage on blood sample</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Liver function (2)</measure>
+    <time_frame>Day 7, 14 and 21</time_frame>
+    <description>Gamma-glutamyl transferase (gamma-GT) dosage on blood sample</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Biobanking for biomarker assessment</measure>
+    <time_frame>Day 1, 7, 14, 21, 90</time_frame>
+    <description>Biobanking of blood samples for predictive biomarker assessment</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">596</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Camostat mesylate</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Camostat mesylate, oral administration 600mg/day</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo tablets, oral administration</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Camostat Mesylate</intervention_name>
+    <description>Camostat mesylate, oral administration 600mg/day (2 x 100mg tablets every 8 hours) for 14 days</description>
+    <arm_group_label>Camostat mesylate</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo tablets, oral administration 2 tablets every 8 hours for 14 days</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients ≥ 18 years old&#xD;
+&#xD;
+          -  Patients with an increased risk of severe COVID-19 belonging to one or more of the&#xD;
+             following groups :&#xD;
+&#xD;
+               -  Age ≥ 50 years&#xD;
+&#xD;
+               -  Body Mass Index ≥ 30 kg/m²&#xD;
+&#xD;
+               -  Diabetes&#xD;
+&#xD;
+               -  Hypertension&#xD;
+&#xD;
+               -  Chronic renal failure (eGFR &lt;60 mL/min)&#xD;
+&#xD;
+               -  Chronic heart disease&#xD;
+&#xD;
+               -  Asthma/Chronic Obstructive Pumonary Disease/Cystic fibrosis&#xD;
+&#xD;
+               -  Chronic liver disease&#xD;
+&#xD;
+               -  Chronic neurological disease&#xD;
+&#xD;
+               -  Solid organ transplant&#xD;
+&#xD;
+               -  Bone marrow transplant&#xD;
+&#xD;
+               -  Sickle cell anemia/ Major thalassemias&#xD;
+&#xD;
+               -  Active or currently treated or &lt;1 year diagnosed cancer&#xD;
+&#xD;
+               -  Active or currently treated or &lt;1 year diagnosed malignant blood disease&#xD;
+&#xD;
+               -  Immunosuppressive treatment observed for more than 1 month&#xD;
+&#xD;
+          -  Laboratory confirmed SARS-CoV2 infection with mild COVID-19, fulfilling all the&#xD;
+             following criteria:&#xD;
+&#xD;
+               -  Positive SARS-CoV-2 RT-PCR nasal swab samples AND&#xD;
+&#xD;
+               -  Clinical symptoms and signs consistent with SARS-CoV2 infection including but not&#xD;
+                  limited to, fever, upper respiratory tract infection signs, digestive signs,&#xD;
+                  muscle pain, anosmia, dysgueusia…(1)&#xD;
+&#xD;
+          -  Informed consent to participate to the trial&#xD;
+&#xD;
+          -  Patients must be able and willing to comply with study visits and procedures&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Initial need for hospitalization for COVID-19 management&#xD;
+&#xD;
+          -  Pregnancy and breastfeeding&#xD;
+&#xD;
+          -  Participation to another interventional drug trial&#xD;
+&#xD;
+          -  Subject protected by law under guardianship or curatorship&#xD;
+&#xD;
+          -  Absence of health insurance&#xD;
+&#xD;
+          -  Known hypersensitivity to camostat mesylate&#xD;
+&#xD;
+          -  Known person sharing the same household already included in the study&#xD;
+&#xD;
+          -  Participation to another COVID-19 ambulatory interventional study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>David Boutboul, MD PhD</last_name>
+    <phone>+33 1 42 49 91 40</phone>
+    <email>david.boutboul@aphp.fr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Victor Dupouy</name>
+      <address>
+        <city>Argenteuil</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Gaëtan Plantefève, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>AP-HP Hôpital Henri Mondor</name>
+      <address>
+        <city>Créteil</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Raphaël Lepeule, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Christian Kassasseya, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Constance Guillaud, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Pablo Bartolucci, MD PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>AP-HP Hôpital Bichat</name>
+      <address>
+        <city>Paris</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Dorothée Vallois, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>APHP - Saint Louis</name>
+      <address>
+        <city>Paris</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>David Boutboul, MD PhD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Olivier Peyrony, MD PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centre de Santé Richerand</name>
+      <address>
+        <city>Paris</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Mariela Skendi, MD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>October 28, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 28, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 29, 2020</study_first_posted>
+  <last_update_submitted>December 3, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 3, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 7, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Camostat</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

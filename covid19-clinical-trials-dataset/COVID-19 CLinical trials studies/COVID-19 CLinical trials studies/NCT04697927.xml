@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1950">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04697927</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20-418</org_study_id>
+    <nct_id>NCT04697927</nct_id>
+  </id_info>
+  <brief_title>A Study of Risk Factors for the COVID-19 Virus Infection</brief_title>
+  <official_title>Ascertainment of Epidemiologic Risk Information to Assess Susceptibility to and Severity of SARS-CoV-2 Infection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Memorial Sloan Kettering Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Memorial Sloan Kettering Cancer Center</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to collect information that will help the reasearchers learn&#xD;
+      more about COVID-19 infections in cancer patients, and to find out about the effects of these&#xD;
+      infections on cancer treatment and outcomes. The research study involves asking people to&#xD;
+      complete a series of online questionnaires that include questions about their medical&#xD;
+      history, lifestyle, and risk factors related to the COVID-19 infection. The study will enroll&#xD;
+      both MSK patients and their household family members.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 30, 2020</start_date>
+  <completion_date type="Anticipated">December 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>develop a comprehensive registry database</measure>
+    <time_frame>2 years</time_frame>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">10000</enrollment>
+  <condition>COVID-19 Infections in Cancer Patients</condition>
+  <arm_group>
+    <arm_group_label>MSK Patients</arm_group_label>
+    <description>Patients include those undergoing cancer screening and treatment as well as cancer survivors that received COVID-related care. Both adult and pediatric patients will be included.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Household Members (identified by MSK Patient)</arm_group_label>
+    <description>Individuals over the age of 18 (i.e., individuals currently living in the same household as the MSK enrollee).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Questionnaires</intervention_name>
+    <description>The epidemiologic questionnaires used in this study are a composite of validated questions from multiple sources. Many of the questions are an expansion of the MSK General Medical Health clinical questionnaire. Validated questions capturing demographics, employment, lifestyle risk factors, family history, as well as, specific research domains including psychosocial, food security, and financial toxicity have already been utilized in other MSK minimal risk studies. The COVID-19 symptom and history tracker questions were largely drawn from the COronavirus Pandemic Epidemiology (COPE) consortium study.</description>
+    <arm_group_label>Household Members (identified by MSK Patient)</arm_group_label>
+    <arm_group_label>MSK Patients</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        As this is an institution-wide registry, potential research subjects will be identified by&#xD;
+        the Health Informatics group.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        MSK Patients&#xD;
+&#xD;
+          -  All individuals who have had at least one point of contact since January 1st 2019 as a&#xD;
+             patient, including visiting an MSK facility for treatment, clinical evaluation,&#xD;
+             follow-up or screening, COVID-related screening, or a telehealth visit. Household&#xD;
+             Members of MSK Patients&#xD;
+&#xD;
+          -  Individuals aged 18 or older&#xD;
+&#xD;
+          -  Currently reside in the same household of MSK patients enrolled onto this protocol&#xD;
+&#xD;
+          -  Have an email account&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Impaired decision-making capacity as noted in EHR&#xD;
+&#xD;
+          -  Current MSK employee&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+  </eligibility>
+  <overall_official>
+    <last_name>Jonine Bernstein, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Memorial Sloan Kettering Cancer Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jonine Bernstein, PhD</last_name>
+    <phone>646-888-8241</phone>
+    <email>bernstej@mskcc.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Colin Begg, PhD</last_name>
+    <phone>646-888-8239</phone>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Memoral Sloan Kettering Basking Ridge</name>
+      <address>
+        <city>Basking Ridge</city>
+        <state>New Jersey</state>
+        <zip>07920</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jonine Bernstein, PhD</last_name>
+      <phone>646-888-8241</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan Kettering Monmouth</name>
+      <address>
+        <city>Middletown</city>
+        <state>New Jersey</state>
+        <zip>07748</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jonine Bernstein, MD</last_name>
+      <phone>646-888-8241</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan Kettering Bergen</name>
+      <address>
+        <city>Montvale</city>
+        <state>New Jersey</state>
+        <zip>07645</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jonine Bernstein, PhD</last_name>
+      <phone>646-888-8241</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan Kettering Commack</name>
+      <address>
+        <city>Commack</city>
+        <state>New York</state>
+        <zip>11725</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jonine Bernstein, PhD</last_name>
+      <phone>646-888-8241</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan Kettering Westchester</name>
+      <address>
+        <city>Harrison</city>
+        <state>New York</state>
+        <zip>10604</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jonine Bernstein, PhD</last_name>
+      <phone>646-888-8241</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan Kettering Cancer Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jonine Bernstein, PhD</last_name>
+      <phone>646-888-8241</phone>
+    </contact>
+    <contact_backup>
+      <last_name>Colin Begg, PhD</last_name>
+      <phone>646-888-8239</phone>
+    </contact_backup>
+    <investigator>
+      <last_name>Jonine Bernstein, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan Kettering Nassau</name>
+      <address>
+        <city>Rockville Centre</city>
+        <state>New York</state>
+        <zip>11553</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jonine Bernstein, PhD</last_name>
+      <phone>646-888-8241</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.mskcc.org/mskcc/html/44.cfm</url>
+    <description>Memorial Sloan Kettering Cancer Center</description>
+  </link>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>January 4, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 4, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 6, 2021</study_first_posted>
+  <last_update_submitted>January 7, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 7, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>SARS-CoV-2 infection</keyword>
+  <keyword>Questionnaires</keyword>
+  <keyword>20-418</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Memorial Sloan Kettering Cancer Center supports the international committee of medical journal editors (ICMJE) and the ethical obligation of responsible sharing of data from clinical trials. The protocol summary, a statistical summary, and informed consent form will be made available on clinicaltrials.gov when required as a condition of Federal awards, other agreements supporting the research and/or as otherwise required. Requests for deidentified individual participant data can be made beginning 12 months after publication and for up to 36 months post publication. Deidentified individual participant data reported in the manuscript will be shared under the terms of a Data Use Agreement and may only be used for approved proposals. Requests may be made to: crdatashare@mskcc.org.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

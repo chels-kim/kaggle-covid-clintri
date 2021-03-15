@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3388">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04713111</url>
+  </required_header>
+  <id_info>
+    <org_study_id>4UCOVID1901</org_study_id>
+    <nct_id>NCT04713111</nct_id>
+  </id_info>
+  <brief_title>Stress and Recovery in Frontline COVID-19 Workers</brief_title>
+  <official_title>Stress and Recovery in Frontline Healthcare COVID-19 Workers: A Feasibility Study Using Wearable and Smartphone Devices</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>4YouandMe</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Center for International Emergency Medical Services</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Evidation Health</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Vector Institute for Artificial Intelligence</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Cambridge Cognition Ltd</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Bill and Melinda Gates Foundation</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>4YouandMe</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The novel coronavirus (COVID-19) pandemic has caused an unprecedented stress on healthcare&#xD;
+      systems in affected countries, and in particular, on the healthcare workers at the frontline&#xD;
+      working directly with COVID-19 positive patients. Numerous lines of evidence support the&#xD;
+      damaging impact of stress on our immune systems which increases susceptibility to infection.&#xD;
+      Yet, the accurate measurement of immediate stress responses in real time and in naturalistic&#xD;
+      settings has so far been a challenge, limiting our understanding of how different facets of&#xD;
+      acute or sustained stress increases susceptibility. Our study utilizes wearable technologies&#xD;
+      including an Oura smart ring as well as semi-continuous passive and active biometric&#xD;
+      measurements carried out using individuals' own smartphones equipped with applications to&#xD;
+      track and transmit key data to measure frontline workers stress and recovery during a&#xD;
+      uniquely stressful and high-risk work environment.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">May 4, 2020</start_date>
+  <completion_date type="Actual">November 30, 2020</completion_date>
+  <primary_completion_date type="Actual">November 30, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>All Interested and enrolled participants in the main Stress and Recovery were invited to participate in a lifestyle intervention arm. Participants were instructed to self-select into either a physical activity arm, or a meditation arm.&#xD;
+Participants were excluded if they were already partaking in both regular physical exercise, and meditation.</intervention_model_description>
+    <primary_purpose>Screening</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Study Retention</measure>
+    <time_frame>4 months</time_frame>
+    <description>Proportion of participants completing the study</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Daily survey/task adherence</measure>
+    <time_frame>4 months</time_frame>
+    <description>Average completion of daily app-based surveys/tasks</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Oura adherence</measure>
+    <time_frame>4 months</time_frame>
+    <description>Average usage of the Oura smartring during study follow-up</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Garmin adherence</measure>
+    <time_frame>4 months</time_frame>
+    <description>Average usage of the Garmin smartwatch during study follow-up</description>
+  </primary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Actual">383</enrollment>
+  <condition>Covid19</condition>
+  <condition>Stress</condition>
+  <condition>Wearables</condition>
+  <arm_group>
+    <arm_group_label>Lifestyle Intervention Group (Exercisers)</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>All Interested and enrolled participants in the main Stress and Recovery were invited to participate in a lifestyle intervention arm. Participants were instructed to self-select into either a physical activity arm, or a meditation arm.&#xD;
+Participants were excluded if they were already partaking in both regular physical exercise, and meditation.&#xD;
+Those in the meditation arm (exercisers) were instructed to complete meditation sessions from the smartphone app, Headspace, 2 or more times a week for a duration of 4 weeks.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Lifestyle Intervention Group (Meditators)</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>All Interested and enrolled participants in the main Stress and Recovery were invited to participate in a lifestyle intervention arm. Participants were instructed to self-select into either a physical activity arm, or a meditation arm.&#xD;
+Participants were excluded if they were already partaking in both regular physical exercise, and meditation.&#xD;
+Those in the physical activity arm (meditators) were instructed to complete 30 minutes to 1 hour of physical activity for 2 or more sessions per week for 4 weeks.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Garmin wearable arm</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Existing stress and recovery participants were invited to participate in a Garmin wearable arm where they were provided a Garmin Vivoactive 4 smartwatch to wear continuously, and in particular, while they were on shift at work for a total of 4 consecutive weeks.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Hair cortisol arm</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Interested existing stress and recovery participants were invited to participate in a one time hair sample collection for cortisol analysis.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Lifestyle (Meditation)</intervention_name>
+    <description>Those in the meditation arm (exercisers) were instructed to complete meditation sessions from the smartphone app, Headspace 2 or more times a week for a duration of 4 weeks.</description>
+    <arm_group_label>Lifestyle Intervention Group (Exercisers)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Lifestyle (Exercise)</intervention_name>
+    <description>Those in the physical activity arm (meditators) were instructed to complete 30 minutes to 1 hour of physical activity for 2 or more sessions per week for 4 weeks.</description>
+    <arm_group_label>Lifestyle Intervention Group (Meditators)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Healthcare workers working directly with COVID-19 patients, or whose work routines&#xD;
+             have been shifted from COVID-19&#xD;
+&#xD;
+          -  Age over 18 years&#xD;
+&#xD;
+          -  Able to speak, write and read English, given the app will be available only in English&#xD;
+&#xD;
+          -  Able to provide informed consent&#xD;
+&#xD;
+          -  Have a personal IOS mobile phone (OS11 and above).&#xD;
+&#xD;
+          -  Own a personal wearable device including a Fitbit, Garmin, or Oura ring (BYOD arm&#xD;
+             only)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        - Prior COVID-19 infection&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Stephen Friend, PhD, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>4YouandMe</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>4YouandMe</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98121</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://doi.org/10.1145/3292500.3330690</url>
+    <description>Developing Measures of Cognitive Impairment in the Real World from Consumer-Grade Multimodal Sensor Stream</description>
+  </link>
+  <reference>
+    <citation>Bot BM, Suver C, Neto EC, Kellen M, Klein A, Bare C, Doerr M, Pratap A, Wilbanks J, Dorsey ER, Friend SH, Trister AD. The mPower study, Parkinson disease mobile data collected using ResearchKit. Sci Data. 2016 Mar 3;3:160011. doi: 10.1038/sdata.2016.11.</citation>
+    <PMID>26938265</PMID>
+  </reference>
+  <reference>
+    <citation>Ghassemi M, Naumann T, Doshi-Velez F, Brimmer N, Joshi R, Rumshisky A, Szolovits P. Unfolding Physiological State: Mortality Modelling in Intensive Care Units. KDD. 2014 Aug 24;2014:75-84.</citation>
+    <PMID>25289175</PMID>
+  </reference>
+  <reference>
+    <citation>Ghassemi M, Wu M, Hughes MC, Szolovits P, Doshi-Velez F. Predicting intervention onset in the ICU with switching state space models. AMIA Jt Summits Transl Sci Proc. 2017 Jul 26;2017:82-91. eCollection 2017.</citation>
+    <PMID>28815112</PMID>
+  </reference>
+  <reference>
+    <citation>Goodday SM, Friend S. Unlocking stress and forecasting its consequences with digital technology. NPJ Digit Med. 2019 Jul 31;2:75. doi: 10.1038/s41746-019-0151-8. eCollection 2019.</citation>
+    <PMID>31372508</PMID>
+  </reference>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>January 8, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 14, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 19, 2021</study_first_posted>
+  <last_update_submitted>January 14, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 14, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 19, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>stress</keyword>
+  <keyword>frontliner</keyword>
+  <keyword>covid19</keyword>
+  <keyword>wearables</keyword>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Under the 4YouandMe open source model, we will make all data, findings, digital health applications and algorithms available in the public domain. Accordingly, de-identified data produced from this project will be shared broadly with qualified researchers (among participants who opt in) through Sage Bionetworks Synapse and will serve as an immense resource, reflecting a highly granular and high- dimensional map of physiological stress responses and knowledge surrounding inadvertent consequences of objective stress measurement. Only data from consenting participants will be shared through Sage Bionetworks Synapse. Additionally, Source code for the developed app will be made available as open source software on GitHub so it can be evolved for future work by others.</ipd_description>
+    <ipd_time_frame>Internal collaborative researchers will have access to all coded data during the full duration of the study. Consented participants' coded data will be available in the Synapse at Sage Bionetworks for selected researchers to access indefinitely, one year after study completion.</ipd_time_frame>
+    <ipd_access_criteria>As coded study data will then exist among consenting participants in the Synapse at Sage Bionetworks in de-identified form, the electronic data files will be kept indefinitely. The Principal Investigator will be responsible for receipt and/or transmission of data as required.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

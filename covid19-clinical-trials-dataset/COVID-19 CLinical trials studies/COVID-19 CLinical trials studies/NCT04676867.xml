@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="757">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04676867</url>
+  </required_header>
+  <id_info>
+    <org_study_id>DAL-401</org_study_id>
+    <nct_id>NCT04676867</nct_id>
+  </id_info>
+  <brief_title>Effect of Dalcetrapib in Patients With Confirmed Mild to Moderate COVID-19</brief_title>
+  <official_title>A Double-blind, Placebo-controlled, Phase 2a Proof-of-concept Trial of Dalcetrapib in Patients With Confirmed Mild to Moderate COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>DalCor Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>The Montreal Health Innovations Coordinating Center (MHICC)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Covance</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>DalCor Pharmaceuticals</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is a placebo-controlled, Phase 2a proof-of-concept clinical study which will&#xD;
+      evaluate efficacy and safety of dalcetrapib in outpatients patients with mild to moderate,&#xD;
+      symptomatic, confirmed COVID 19.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 11, 2021</start_date>
+  <completion_date type="Anticipated">March 2021</completion_date>
+  <primary_completion_date type="Anticipated">February 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>This is a randomized, double blind, multicenter, Phase 2a proof-of-concept study in outpatients with confirmed, mild to moderate, symptomatic COVID-19.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+    <masking_description>This is a double blind study.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To evaluate the time to sustained clinical resolution of symptoms of COVID-19</measure>
+    <time_frame>28 Days</time_frame>
+    <description>Sustained clinical resolution is defined as occurring when no key COVID-19 related symptom has a score higher than 1 over a 72-hour period (as documented using an electronic patient-reported outcome [ePRO] instrument), except for sense of smell and taste where the score should be 0 over a 72-hour period. The time to resolution will be taken as the time from randomization until the first day of the last 72 hour period where the patient meets the definition of resolution within 28 days. Patients who do not meet the definition of resolution 28 days after randomization will be considered not resolved.</description>
+  </primary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">208</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>900 mg dose</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients will receive Dalcetrapib 900 mg for 10 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>1800 mg dose</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients will receive Dalcetrapib 1800 mg for 10 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>3600 mg dose</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients will receive Dalcetrapib 3600 mg for 10 days</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo tablets</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Patients will receive Placebo for 10 days</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Dalcetrapib</intervention_name>
+    <description>Dalcetrapib 300 mg Film-Coated Tablets</description>
+    <arm_group_label>1800 mg dose</arm_group_label>
+    <arm_group_label>3600 mg dose</arm_group_label>
+    <arm_group_label>900 mg dose</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo Tablets</description>
+    <arm_group_label>Placebo tablets</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients must satisfy all of the following criteria unless otherwise stated:&#xD;
+&#xD;
+               1. Willing and able to provide informed consent&#xD;
+&#xD;
+               2. Male or female patients &gt; 18 years of age on the day of informed consent&#xD;
+&#xD;
+               3. Have received a confirmed diagnosis of COVID-19 (positive for SARS CoV 2), as&#xD;
+                  assessed by PCR or point-of-care within 72 hours of first dose on Day 1&#xD;
+&#xD;
+               4. Have mild to moderate signs or symptoms of COVID-19 with onset within 5 days of&#xD;
+                  first dose on Day 1, at least two of the following symptoms:&#xD;
+&#xD;
+                    -  stuffy or runny nose&#xD;
+&#xD;
+                    -  sore throat&#xD;
+&#xD;
+                    -  shortness of breath&#xD;
+&#xD;
+                    -  cough&#xD;
+&#xD;
+                    -  fatigue&#xD;
+&#xD;
+                    -  myalgia&#xD;
+&#xD;
+                    -  headache&#xD;
+&#xD;
+                    -  chills or shivering&#xD;
+&#xD;
+                    -  feeling hot or feverish&#xD;
+&#xD;
+                    -  nausea&#xD;
+&#xD;
+                    -  vomiting&#xD;
+&#xD;
+                    -  diarrhea&#xD;
+&#xD;
+                    -  anosmia&#xD;
+&#xD;
+                    -  ageusia&#xD;
+&#xD;
+               5. Outpatient with COVID-19 disease (not requiring oxygen therapy [WHO COVID-19&#xD;
+                  Clinical Improvement Ordinal Scale, score of 3])&#xD;
+&#xD;
+               6. Patient is aware of the investigational nature of this study and willing to&#xD;
+                  comply with protocol treatments, blood tests, and other evaluations listed in the&#xD;
+                  ICF.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients will be excluded from the study if they satisfy any of the following criteria&#xD;
+             unless otherwise stated:&#xD;
+&#xD;
+               1. Females who are pregnant (negative pregnancy test required for all women of child&#xD;
+                  bearing potential at Screening) or breast-feeding&#xD;
+&#xD;
+               2. Male patients and women of childbearing potential (women who are not surgically&#xD;
+                  sterile or postmenopausal defined as amenorrhea for &gt;12 months) who are not using&#xD;
+                  at least one protocol specified method of contraception&#xD;
+&#xD;
+               3. Severe COVID-19 disease as defined by the WHO COVID-19 Clinical Improvement&#xD;
+                  Ordinal Scale, scores of 5 (non invasive ventilation or high-flow oxygen), 6&#xD;
+                  (intubation and mechanical ventilation), or 7 (ventilation + additional organ&#xD;
+                  support pressors, renal replacement therapy [RRT], extracorporeal membrane&#xD;
+                  oxygenation [ECMO])&#xD;
+&#xD;
+               4. Expected survival less than 72 hours&#xD;
+&#xD;
+               5. Peripheral capillary oxygen saturation (SpO2) &lt;90% while breathing room air&#xD;
+&#xD;
+               6. Treatment with other drugs thought to possibly have activity against SARS CoV 2&#xD;
+                  infection like remdesivir, favipiravir, within 7 days prior to enrollment or&#xD;
+                  concurrently&#xD;
+&#xD;
+               7. History of abuse of drugs or alcohol that could interfere with adherence to study&#xD;
+                  requirements as judged by the Investigator&#xD;
+&#xD;
+               8. Use of any other concurrent investigational drugs while participating in the&#xD;
+                  present study&#xD;
+&#xD;
+               9. Patient requires frequent or prolonged use of systemic corticosteroids (≥20 mg of&#xD;
+                  prednisone/day or equivalent for &gt;4 weeks) or other immunosuppressive drugs&#xD;
+                  (e.g., for organ transplantation or autoimmune conditions)&#xD;
+&#xD;
+              10. Known renal disease with an estimated glomerular filtration rate (eGFR) &lt;50&#xD;
+                  mL/min based on local laboratory results&#xD;
+&#xD;
+              11. Patients with clinically apparent liver disease, e.g., jaundice, cholestasis,&#xD;
+                  hepatic synthetic impairment, or active hepatitis&#xD;
+&#xD;
+              12. Alanine transaminase (ALT) or aspartate transaminase (AST) &gt;3 × upper limit of&#xD;
+                  normal (ULN) or alkaline phosphatase or bilirubin levels &gt; 2 × ULN based on local&#xD;
+                  laboratory results&#xD;
+&#xD;
+              13. Co administration of clinical doses of orlistat with dalcetrapib&#xD;
+&#xD;
+              14. Inability to swallow oral medications or a gastrointestinal disorder with&#xD;
+                  diarrhea (e.g., Crohn's disease) or malabsorption at Screening&#xD;
+&#xD;
+              15. Any other clinically significant medical condition or laboratory abnormality&#xD;
+                  that, in the opinion of the Investigator, would jeopardize the safety of the&#xD;
+                  patient or potentially impact patient compliance or the safety/efficacy&#xD;
+                  observations in the study&#xD;
+&#xD;
+              16. History of an allergic reaction or hypersensitivity to the study drug or any&#xD;
+                  component of the study drug formulation.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>David Kallend</last_name>
+    <role>Study Director</role>
+    <affiliation>DalCor Pharmaceuticals</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>David Kallend</last_name>
+    <phone>+41 79 174 1830</phone>
+    <email>dkallend@dalcorpharma.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Marianne Rufiange</last_name>
+    <phone>514-461-1300</phone>
+    <phone_ext>2036</phone_ext>
+    <email>Marianne.Rufiange@mhicc.org</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Institut de Cardiologie de Montréal</name>
+      <address>
+        <city>Montréal</city>
+        <state>Quebec</state>
+        <zip>H1T 1C8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jean C. Gregoire</last_name>
+    </contact>
+    <investigator>
+      <last_name>Jean C. Gregoire</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <link>
+    <url>https://www.fda.gov/media/136238/download</url>
+    <description>Guidance for Industry, Investigators, and Institutional Review Boards: FDA Guidance on Conduct of Clinical Trials of Medical Products during COVID-19 Public Health Emergency [Internet]. Food and Drug Administration; 2020.</description>
+  </link>
+  <link>
+    <url>https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020</url>
+    <description>World Health Organization. WHO Director-General's opening remarks at the media briefing on COVID-19 - 11 March 2020.</description>
+  </link>
+  <link>
+    <url>https://covid19.who.int/?gclid=CjwKCAjwm_P5BRAhEiwAwRzSO9jpEwPeoHR8NmLUmBMkH5BdQEdGyjVJa5ktZh6WxXPcKP3RaC2M_BoCO-UQAvD_BwE</url>
+    <description>World Health Organization. WHO Coronavirus Disease (COVID-19) Dashboard.</description>
+  </link>
+  <reference>
+    <citation>U.S. Department of Health and Human Services, Determination of a Public Health Emergency and Declaration that Circumstances Exist Justifying Authorizations Pursuant to Section 564(b) of the Federal Food, Drug, and Cosmetic Act, 21 U.S.C. § 360bbb-3. February 4, 2020.</citation>
+  </reference>
+  <reference>
+    <citation>Schwartz GG, Olsson AG, Abt M, Ballantyne CM, Barter PJ, Brumm J, Chaitman BR, Holme IM, Kallend D, Leiter LA, Leitersdorf E, McMurray JJ, Mundl H, Nicholls SJ, Shah PK, Tardif JC, Wright RS; dal-OUTCOMES Investigators. Effects of dalcetrapib in patients with a recent acute coronary syndrome. N Engl J Med. 2012 Nov 29;367(22):2089-99. doi: 10.1056/NEJMoa1206797. Epub 2012 Nov 5.</citation>
+    <PMID>23126252</PMID>
+  </reference>
+  <reference>
+    <citation>Dai W, Zhang B, Jiang XM, Su H, Li J, Zhao Y, Xie X, Jin Z, Peng J, Liu F, Li C, Li Y, Bai F, Wang H, Cheng X, Cen X, Hu S, Yang X, Wang J, Liu X, Xiao G, Jiang H, Rao Z, Zhang LK, Xu Y, Yang H, Liu H. Structure-based design of antiviral drug candidates targeting the SARS-CoV-2 main protease. Science. 2020 Jun 19;368(6497):1331-1335. doi: 10.1126/science.abb4489. Epub 2020 Apr 22.</citation>
+    <PMID>32321856</PMID>
+  </reference>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>December 17, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 18, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 21, 2020</study_first_posted>
+  <last_update_submitted>January 14, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 14, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 19, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Coronavirus disease</keyword>
+  <keyword>Dalcetrapib</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Dalcetrapib</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

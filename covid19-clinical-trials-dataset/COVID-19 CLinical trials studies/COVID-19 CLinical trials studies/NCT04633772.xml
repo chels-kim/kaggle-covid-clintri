@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4330">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04633772</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RBR-35734p</org_study_id>
+    <nct_id>NCT04633772</nct_id>
+  </id_info>
+  <brief_title>Use of Angiotensin-(1-7) in COVID-19</brief_title>
+  <official_title>Randomized Clinical Trial Phase I/II for the Use of Angiotensin-(1-7) in the Treatment of Severe Infection by Sars-CoV-2</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Erasme University Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Federal University of Minas Gerais</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Angitec</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Fonds Erasme pour la Recherche Medicale</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Erasme University Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The renin-angiotensin system (RAS) has a relevant role in COVID-19, as the virus will enter&#xD;
+      host's cells via the angiotensin-converting enzyme 2 (ACE2); RAS disequilibrium might also&#xD;
+      play a key role in the modulation of the inflammatory response that characterizes the lung&#xD;
+      involvement. Angiotensin-(1-7) is a peptide that could be altered in COVID-19 patient and its&#xD;
+      supplementation may potentially helpful in this setting.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      A novel Coronavirus (SARS-CoV-2) described in late 2019 in Wuhan, China, has led to a&#xD;
+      pandemic and to a specific coronavirus-related disease (COVID-19), which is mainly&#xD;
+      characterized by a respiratory involvement. While researching for a vaccine has been started,&#xD;
+      effective therapeutic solutions are urgently needed to face this threaten. The&#xD;
+      renin-angiotensin system (RAS) has a relevant role in COVID-19, as the virus will enter&#xD;
+      host's cells via the angiotensin-converting enzyme 2 (ACE2); RAS disequilibrium might also&#xD;
+      play a key role in the modulation of the inflammatory response that characterizes the lung&#xD;
+      involvement. Angiotensin-(1-7) is a peptide that could be altered in COVID-19 patient and it&#xD;
+      may potentially improve respiratory function in this setting. This a randomized, controlled,&#xD;
+      investigator-initiated Phase I/Phase II trial is conceived to test the safety and the&#xD;
+      efficacy of intravenous angiotensin-(1-7) infusion in COVID-19 patients with severe pneumonia&#xD;
+      admitted to the intensive care unit (ICU). The first phase of the study, with a limited&#xD;
+      number of patients (n=30) will serve to confirm the safety of the intravenous infusion of the&#xD;
+      drug by observing the incidence of the adverse events (phase I, open label). In a second&#xD;
+      phase of the study, conducted in a double-blind manner and including a larger cohort of&#xD;
+      patients (n=100, Phase II), patients will be randomly assigned to receive either an&#xD;
+      Angiotensin-(1-7) infusion or placebo. The primary endpoint of the study will be the number&#xD;
+      of supplemental oxygen-free days by day 28. Secondary outcomes will include length of&#xD;
+      hospital stay, ICU and hospital free days, ICU and hospital mortality, need for mechanical&#xD;
+      ventilation, weaning time from mechanical ventilation if intubated, secondary infections,&#xD;
+      vasopressor needs, changes in PaO2 / FiO2, incidence of deep vein thrombosis, changes in&#xD;
+      inflammatory markers, plasma levels of angiotensin II and angiotensin (1-7) and radiological&#xD;
+      findings.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 5, 2020</start_date>
+  <completion_date type="Anticipated">February 28, 2021</completion_date>
+  <primary_completion_date type="Anticipated">February 1, 2021</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>supplemental oxygen-free days (SOFDs)</measure>
+    <time_frame>28 days</time_frame>
+    <description>28 - x, where x = number of days on which the patient is released from supplemental oxygen therapy after start</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Hospital length of stay</measure>
+    <time_frame>through study completion, on average 60 days</time_frame>
+    <description>Hospital length of stay</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ventilator free days</measure>
+    <time_frame>28 days</time_frame>
+    <description>composite outcome of mortality and necessity of mechanical ventilation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ICU free days</measure>
+    <time_frame>through study completion, on average 40 days</time_frame>
+    <description>number of days free from intensive care unit</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>RAS effectors levels</measure>
+    <time_frame>Baseline, 3 and 24 hours after randomization and 72 hours after randomization</time_frame>
+    <description>Ang II and Ang-(1-7) circulating levels using mass spectrometry</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CT scan findings</measure>
+    <time_frame>through study completion, on average 30 days</time_frame>
+    <description>CT scan evolutions compared to baseline including findings compatible with late pulmonary fibrosis.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in inflammatory markers: C reactive protein</measure>
+    <time_frame>through study completion, on average 30 days</time_frame>
+    <description>C-reactive protein levels daily measurements</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in clinical state: vasopressors usage</measure>
+    <time_frame>through study completion, on average 30 days</time_frame>
+    <description>use of vasopressors during hospitalization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Chest X ray findings</measure>
+    <time_frame>through study completion, on average 30 days</time_frame>
+    <description>Chest X-ray modifications until hospital discharge</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in inflammatory markers: chemokines</measure>
+    <time_frame>Baseline, 3 and 24 hours after randomization and 72 hours after randomization</time_frame>
+    <description>pro-inflammatory chemokine levels (IL-1/IL-6) at baseline day 3 and 7</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in inflammatory markers: troponin</measure>
+    <time_frame>Baseline, 3 and 24 hours after randomization and 72 hours after randomization</time_frame>
+    <description>Troponin plasmatic levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in thrombotic markers: D-Dimer</measure>
+    <time_frame>Baseline, 3 and 24 hours after randomization and 72 hours after randomization</time_frame>
+    <description>D-Dimer</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in clinical state: secondary infections</measure>
+    <time_frame>through study completion, on average 30 days</time_frame>
+    <description>Secondary infections recorded during hospitalization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in clinical state: deep venous thrombosis</measure>
+    <time_frame>through study completion, on average 30 days</time_frame>
+    <description>deep venous thrombosis recorded during hospitalization</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">130</enrollment>
+  <condition>Infection, Coronavirus</condition>
+  <condition>Respiratory Failure</condition>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Angiotensin-(1-7)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Angiotensin-(1-7)</intervention_name>
+    <description>Intravenous supplementation of Angiotensin-(1-7)</description>
+    <arm_group_label>Angiotensin-(1-7)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>NaCl 0.9%</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Admission to the Intensive Care Unit with severe pneumonia criteria (clinical signs of&#xD;
+             pneumonia + one of the following criteria: respiratory rate greater than 30/minute;&#xD;
+             signs of respiratory effort, SatO2 &lt; 90% in room air);&#xD;
+&#xD;
+          -  COVID-19 confirmed or highly suspicious (positive contact or suggestive image)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Diagnosed with cancer (at any stage);&#xD;
+&#xD;
+          -  Hemodynamic instability (need for vasopressors);&#xD;
+&#xD;
+          -  Pregnant women; Immunocompromised patients;&#xD;
+&#xD;
+          -  Palliative Care;&#xD;
+&#xD;
+          -  Inclusion in any other interventionist study;&#xD;
+&#xD;
+          -  Heart failure as a predominant cause of acute respiratory failure;&#xD;
+&#xD;
+          -  Decompensated liver cirrhosis;&#xD;
+&#xD;
+          -  HIV +;&#xD;
+&#xD;
+          -  Dialysis;&#xD;
+&#xD;
+          -  Home / long-term oxygen therapy;&#xD;
+&#xD;
+          -  Idiopathic pulmonary fibrosis&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>17 Years</minimum_age>
+    <maximum_age>81 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Robson AS Santos</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Angitex</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Ana Martins Valle</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Federal University of Minas Gerais</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Filippo Annoni</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hôpital Erasme</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Robson AS Santos</last_name>
+    <phone>+55(31)987762956</phone>
+    <email>santos@icb.ufmg.br</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Ana Luiza Martins Valle</last_name>
+    <phone>+55(31)97654162</phone>
+    <email>anavalle9@icloud.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Hospital Eduardo de Menezes</name>
+      <address>
+        <city>Belo Horizonte</city>
+        <state>Minas Gerais</state>
+        <zip>30190-081</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ana Luiza Martins Valle</last_name>
+      <phone>+55(31)97654162</phone>
+      <email>anavalle9@icloud.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Mater Dei</name>
+      <address>
+        <city>Belo Horizonte</city>
+        <state>Minas Gerais</state>
+        <zip>31270-910</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ana Luiza Martins Valle</last_name>
+      <phone>+55(31)97654162</phone>
+    </contact>
+    <contact_backup>
+      <last_name>anavalle9@icloud.com</last_name>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+  </location_countries>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>November 6, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 17, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 18, 2020</study_first_posted>
+  <last_update_submitted>November 19, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 19, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 23, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>angiotensin-(1-7)</keyword>
+  <keyword>ARDS</keyword>
+  <keyword>renin angiotensin system</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Respiratory Insufficiency</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Angiotensin I (1-7)</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

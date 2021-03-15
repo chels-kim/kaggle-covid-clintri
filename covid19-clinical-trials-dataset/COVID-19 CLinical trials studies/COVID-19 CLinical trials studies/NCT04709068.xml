@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1261">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04709068</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Pro00047371</org_study_id>
+    <nct_id>NCT04709068</nct_id>
+  </id_info>
+  <brief_title>Risk Stratification and Early Alerting Regarding COVID-19 Hospitalization</brief_title>
+  <acronym>RiskSEARCH</acronym>
+  <official_title>Risk Stratification and Early Alerting Regarding COVID-19 Hospitalization</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Current Health</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Biomedical Advanced Research and Development Authority</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Current Health</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this research is to remotely monitor individuals who have tested positive for&#xD;
+      COVID-19 to learn more about progression and recovery from the disease. Individuals who test&#xD;
+      positive for COVID-19 will wear the Current Health wearable device continuously and answer a&#xD;
+      brief series of questions on Current Health tablet daily for up to 30 days. The health data&#xD;
+      will be used to develop predictive models of hospitalization risk.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 20, 2021</start_date>
+  <completion_date type="Anticipated">July 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">March 19, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Hospitalization</measure>
+    <time_frame>up to 30 days</time_frame>
+    <description>Digital biomarker-based algorithm that predicts likelihood of requiring hospitalization of at least 24 hours.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Recovery</measure>
+    <time_frame>up to 30 days</time_frame>
+    <description>Digital biomarker-based algorithm that predicts likelihood of recovery from COVID-19.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>ICU Admission</measure>
+    <time_frame>up to 30 days</time_frame>
+    <description>Digital biomarker-based algorithm that predicts likelihood of being admitted to the ICU for either non-invasive, invasive ventilation or vasopressor support.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Death</measure>
+    <time_frame>up to 30 days</time_frame>
+    <description>Digital biomarker-based algorithm that predicts likelihood of death.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Participant Compliance</measure>
+    <time_frame>up to 30 days</time_frame>
+    <description>amount of time device worn compared to duration of study participation</description>
+  </other_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">2050</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>COVID19+</arm_group_label>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Current Health</intervention_name>
+    <description>wearable device and tablet used to collect health measures at home</description>
+    <arm_group_label>COVID19+</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        community sample&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Living in the United States (contiguous states)&#xD;
+&#xD;
+          -  Aged 21 years or older&#xD;
+&#xD;
+          -  Able to provide documentation of +PCR or +antigen test for COVID-19 within the past 48&#xD;
+             hours&#xD;
+&#xD;
+          -  Self-reports that comfortable and willing to wear the wearable device and interact&#xD;
+             with a tablet-based interface daily&#xD;
+&#xD;
+          -  Able to provide a next of kin/designated person who can be contacted in the event of&#xD;
+             hospitalization for follow up.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Under the age of 21&#xD;
+&#xD;
+          -  Received a positive test result more than 48 hours prior to contacting study staff or&#xD;
+             has a pending test for COVID-19&#xD;
+&#xD;
+          -  Cannot confirm a PCR or antigen positive test for COVID-19&#xD;
+&#xD;
+          -  Is unable to read English&#xD;
+&#xD;
+          -  Is unwilling to wear the device 24 hours/day except for showering/bathing or interact&#xD;
+             with a tablet-based interface for daily questionnaire&#xD;
+&#xD;
+          -  Is unwilling or unable to provide baseline data required for entry into the study&#xD;
+&#xD;
+          -  Is unable to provide a next of kin/designated person who can be contacted in the event&#xD;
+             of hospitalization for follow-up&#xD;
+&#xD;
+          -  Heavy tattooing on both upper arms&#xD;
+&#xD;
+          -  Known atrial fibrillation (permanent or paroxysmal)&#xD;
+&#xD;
+          -  Has taken/is taking part in a COVID-19 vaccine or treatment trial&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Adam Wolfberg, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Current Health</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Nicole Clinical Research Lead, PhD</last_name>
+    <phone>855-576-0823</phone>
+    <email>nicole.zahradka@currenthealth.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Jessie Clinical Research Associate, MSc</last_name>
+    <email>jessie.levertaylor@currenthealth.com</email>
+  </overall_contact_backup>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>January 12, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 13, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 14, 2021</study_first_posted>
+  <last_update_submitted>January 13, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 13, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 14, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>wearable</keyword>
+  <keyword>at-home</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

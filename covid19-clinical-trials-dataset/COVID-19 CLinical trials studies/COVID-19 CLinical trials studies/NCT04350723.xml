@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4520">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04350723</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2154</org_study_id>
+    <nct_id>NCT04350723</nct_id>
+  </id_info>
+  <brief_title>Awake Prone Position in Hypoxemic Patients With Coronavirus Disease 19 (COVI-PRONE): A Randomized Clinical Trial</brief_title>
+  <acronym>COVI-PRONE</acronym>
+  <official_title>Awake Prone Position in Hypoxemic Patients With Coronavirus Disease 19 (COVI-PRONE): A Randomized Clinical Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>St. Joseph's Healthcare Hamilton</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>King Abdullah International Medical Research Center (KAIMRC)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>McMaster University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Canadian Institutes of Health Research (CIHR)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>St. Joseph's Healthcare Hamilton</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The aim of the COVI-PRONE Trial is to determine if early awake prone positioning in COVID-19&#xD;
+      patients with hypoxemic respiratory failure; irrespective of the mode of oxygen delivery;&#xD;
+      reduces the need for invasive mechanical ventilation.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 10, 2020</start_date>
+  <completion_date type="Anticipated">August 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">July 30, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>A multicenter, parallel-group randomized controlled trial</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Endotracheal intubation</measure>
+    <time_frame>within 30 days of randomization</time_frame>
+    <description>Medical procedure in which a tube is placed into the windpipe (trachea) through the mouth.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>60 days</time_frame>
+    <description>Death</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Invasive mechanical ventilation free days</measure>
+    <time_frame>30 Days</time_frame>
+    <description>Number of days not receiving mechanical ventilation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Non-invasive ventilation free days</measure>
+    <time_frame>30 days</time_frame>
+    <description>Number of days not receiving non-invasive mechanical ventilation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ICU length of stay</measure>
+    <time_frame>30 Days</time_frame>
+    <description>Number of days admitted to ICU</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hospital length of stay</measure>
+    <time_frame>30 days</time_frame>
+    <description>Number of days admitted to the hospital</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in oxygenation</measure>
+    <time_frame>30 days</time_frame>
+    <description>defined as the difference in SpO2: FiO2 ratio. The difference in SpO2: FiO2 ratio.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Complications from proning,</measure>
+    <time_frame>30 days</time_frame>
+    <description>Includes any of the following: accidental removal of intravenous access, vomiting, falls from bed, pressure injuries, or cardiac arrest.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">350</enrollment>
+  <condition>Corona Virus Infection</condition>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Intervention - Awake Proning</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The oxygen mask or NIPPV or HFNC will be initiated at the treating team's discretion. The patient will be observed for 15 minutes to ensure that: SPO2 &gt; 90% and the patient is tolerating oxygen mask or NIPPV or HFNC treatment.&#xD;
+Once the patient achieves the above parameters within 15 minutes of initiating oxygen therapy through any modality, the healthcare team will start awake proning.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control - Standard of Care</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>The patient will receive usual care without proning at the discretion of the treating team.&#xD;
+The oxygen mask or NIPPV or HFNC will be initiated, the choice of starting oxygen mask versus NIPPV versus HFNC will be up to the treating team, the patient will be observed for 15 minutes to ensure that: SPO2 &gt; 90% and the patient is tolerating NIPPV or HFNC treatment.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Awake Proning</intervention_name>
+    <description>The duration of proning will be a total of 8-10 hours with 1-2 hours break in supine position.</description>
+    <arm_group_label>Intervention - Awake Proning</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Adults ≥ 18 years of age. Suspected or confirmed COVID-19. Defined as: a positive PCR for&#xD;
+        SARS CoV-2 or pending PCR results for patients that are suspected to have COVID-19.&#xD;
+&#xD;
+        Hypoxemia on room air (SPO2&lt;90%), and oxygen requirement ≥ 0.4 FiO2 (i.e. ≥ 40% oxygen).&#xD;
+&#xD;
+        Bilateral or unilateral chest infiltrates on x-ray as interpreted by the treating team.&#xD;
+&#xD;
+        Admitted to the ICU or an acute care bed where hemodynamic and respiratory monitoring is&#xD;
+        feasible.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Immediate need for intubation as determined by the treating team.&#xD;
+&#xD;
+        Glasgow Coma Scale score &lt;10&#xD;
+&#xD;
+        Contraindication to proning including any of the following: open chest or abdomen,&#xD;
+        abdominal surgery (i.e. laparotomy) within the 4 days, or facial, pelvic or cervical spine&#xD;
+        fractures or instability.&#xD;
+&#xD;
+        Patient/substitute decision maker (SDM) or caring physician's refusal to enroll in the&#xD;
+        study.&#xD;
+&#xD;
+        Patients with hemodynamic instability and moderate to high dose of vasopressors&#xD;
+        (norepinephrine dose ≥ 0.15 mcg/kg/min)&#xD;
+&#xD;
+        Body mass index (BMI) &gt; 40 kg/m2.&#xD;
+&#xD;
+        Skeletal deformities that interfere with proning such as severe kyphoscoliosis and severe&#xD;
+        limb contractures.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Waleed Alhazzani</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>St. Joseph's Healthcare Hamilton</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Yaseen Arabi</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>King Saud Bin Abdulaziz University for Health Sciences</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Zainab Alduhailib</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>King Faisal Specialist Hospital and Research Center, Jeddah</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Sarah Culgin</last_name>
+    <phone>905-522-1155</phone>
+    <phone_ext>32873</phone_ext>
+    <email>sculgin@stjoes.ca</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Zainab Al Duhalib</last_name>
+    <email>zainajd@gmail.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>St. Joseph's Healthcare Hamilton</name>
+      <address>
+        <city>Hamilton</city>
+        <state>Ontario</state>
+        <zip>L8N 4A6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Waleed Alhazzani</last_name>
+      <email>waleed.al-hazzani@medportal.ca</email>
+    </contact>
+    <contact_backup>
+      <last_name>Sarah Culgin</last_name>
+      <email>sculgin@stjoes.ca</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Dan Perri, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hamilton General Hospital</name>
+      <address>
+        <city>Hamilton</city>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Lori Hand</last_name>
+    </contact>
+    <investigator>
+      <last_name>Maureen Meade</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Juravinski Hospital</name>
+      <address>
+        <city>Hamilton</city>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Tina Millen</last_name>
+    </contact>
+    <investigator>
+      <last_name>Bram Rochwerg</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>St. Catharine's General -</name>
+      <address>
+        <city>St. Catharines</city>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Lisa Patterson</last_name>
+    </contact>
+    <investigator>
+      <last_name>Erick Duan</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Jenn Tsang</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>King Fahad Hospital of the University</name>
+      <address>
+        <city>Khobar</city>
+        <state>Eastern Province</state>
+        <country>Saudi Arabia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mohammed Alshahrani, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Yousef Almubarak, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Mohammed Alshahrani, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>King Faisal Specialist Hospital &amp; Research Center</name>
+      <address>
+        <city>Riyadh</city>
+        <country>Saudi Arabia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sheryl Abdukahil</last_name>
+    </contact>
+    <investigator>
+      <last_name>Yaseen Arabi</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+    <country>Saudi Arabia</country>
+  </location_countries>
+  <link>
+    <url>http://www.coviprone.com</url>
+    <description>Related Info</description>
+  </link>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>April 14, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 14, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 17, 2020</study_first_posted>
+  <last_update_submitted>October 19, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 19, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 22, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>St. Joseph's Healthcare Hamilton</investigator_affiliation>
+    <investigator_full_name>Waleed Al-Hazzani</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

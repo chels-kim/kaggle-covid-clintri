@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3717">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04705831</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IIS202001-Neuroimmune</org_study_id>
+    <nct_id>NCT04705831</nct_id>
+  </id_info>
+  <brief_title>Study to Evaluate the Benefit of RUCONEST in Improving Neurological Symptoms in Post COVID-19 Infection</brief_title>
+  <official_title>A Randomized, Double Blind, Placebo Controlled, Cross-Over, Proof-of-Concept Study to Evaluate the Benefit of RUCONEST (C1 Esterase Inhibitor [Recombinant]) in Improving Neurological Symptoms in Post-SARS-CoV-2 Infection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>IMMUNOe Research Centers</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>IMMUNOe Research Centers</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Randomized, Double Blind, Placebo Controlled, Proof-of-Concept Study to Evaluate the Benefit&#xD;
+      of RUCONEST in Improving Neurological Symptoms in Post-SARS-CoV-2 Infection.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study will last approximately 19 weeks including 16 infusions total, each one week&#xD;
+      apart. This is to help patients that have developed &quot;Post-Viral Fatigue Syndrome&quot; which can&#xD;
+      include symptoms such as: extreme fatigue, lost of taste, brain fog, and/or seizures.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 30, 2020</start_date>
+  <completion_date type="Anticipated">January 2022</completion_date>
+  <primary_completion_date type="Anticipated">January 2022</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Care Provider)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Neuropsychological Measures (BRIEF-A)</measure>
+    <time_frame>Week 0</time_frame>
+    <description>Behavior Rating Inventory of Executive Function- Adult (BRIEF-A)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Neuropsychological Measures (BRIEF-A)</measure>
+    <time_frame>Week 9</time_frame>
+    <description>Behavior Rating Inventory of Executive Function- Adult (BRIEF-A)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Neuropsychological Measures (BRIEF-A)</measure>
+    <time_frame>Week 17</time_frame>
+    <description>Behavior Rating Inventory of Executive Function- Adult (BRIEF-A)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Neuropsychological Measures (RBANS)</measure>
+    <time_frame>Week 0</time_frame>
+    <description>Repeatable Battery for the Assessment of Neuropsychological Status (RBANS)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Neuropsychological Measures (RBANS)</measure>
+    <time_frame>Week 9</time_frame>
+    <description>Repeatable Battery for the Assessment of Neuropsychological Status (RBANS)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Neuropsychological Measures (RBANS)</measure>
+    <time_frame>Week 17</time_frame>
+    <description>Repeatable Battery for the Assessment of Neuropsychological Status (RBANS)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Neuropsychological Measures (BDI II)</measure>
+    <time_frame>Week 0</time_frame>
+    <description>Beck Depression Inventory II (BDI II)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Neuropsychological Measures (BDI II)</measure>
+    <time_frame>Week 9</time_frame>
+    <description>Beck Depression Inventory II (BDI II)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Neuropsychological Measures (BDI II)</measure>
+    <time_frame>Week 17</time_frame>
+    <description>Beck Depression Inventory II (BDI II)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Neuropsychological Measures (MoCA)</measure>
+    <time_frame>Week 0</time_frame>
+    <description>Montreal Cognitive Assessment (MoCA)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Neuropsychological Measures (MoCA)</measure>
+    <time_frame>Week 9</time_frame>
+    <description>Montreal Cognitive Assessment (MoCA)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Neuropsychological Measures (MoCA)</measure>
+    <time_frame>Week 17</time_frame>
+    <description>Montreal Cognitive Assessment (MoCA)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient-Rate Questionnaires (FSS)</measure>
+    <time_frame>Week 0</time_frame>
+    <description>Fatigue Severity Scale (FSS)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient-Rate Questionnaires (FSS)</measure>
+    <time_frame>Week 5</time_frame>
+    <description>Fatigue Severity Scale (FSS)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient-Rate Questionnaires (FSS)</measure>
+    <time_frame>Week 9</time_frame>
+    <description>Fatigue Severity Scale (FSS)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient-Rate Questionnaires (FSS)</measure>
+    <time_frame>Week 14</time_frame>
+    <description>Fatigue Severity Scale (FSS)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient-Rate Questionnaires (FSS)</measure>
+    <time_frame>Week 17</time_frame>
+    <description>Fatigue Severity Scale (FSS)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient-Rate Questionnaires (MIDAS)</measure>
+    <time_frame>Week 0</time_frame>
+    <description>Migraine Disability Assessment (MIDAS)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient-Rate Questionnaires (MIDAS)</measure>
+    <time_frame>Week 5</time_frame>
+    <description>Migraine Disability Assessment (MIDAS)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient-Rate Questionnaires (MIDAS)</measure>
+    <time_frame>Week 9</time_frame>
+    <description>Migraine Disability Assessment (MIDAS)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient-Rate Questionnaires (MIDAS)</measure>
+    <time_frame>Week 14</time_frame>
+    <description>Migraine Disability Assessment (MIDAS)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient-Rate Questionnaires (MIDAS)</measure>
+    <time_frame>Week 17</time_frame>
+    <description>Migraine Disability Assessment (MIDAS)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient-Rate Questionnaires (HIT)</measure>
+    <time_frame>Week 0</time_frame>
+    <description>Headache Impact Scale (HIT)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient-Rate Questionnaires (HIT)</measure>
+    <time_frame>Week 5</time_frame>
+    <description>Headache Impact Scale (HIT)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient-Rate Questionnaires (HIT)</measure>
+    <time_frame>Week 9</time_frame>
+    <description>Headache Impact Scale (HIT)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient-Rate Questionnaires (HIT)</measure>
+    <time_frame>Week 14</time_frame>
+    <description>Headache Impact Scale (HIT)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient-Rate Questionnaires (HIT)</measure>
+    <time_frame>Week 17</time_frame>
+    <description>Headache Impact Scale (HIT)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient-Rate Questionnaires (Activities)</measure>
+    <time_frame>Week 0</time_frame>
+    <description>Activities of Daily Living Sliding Scale and Questionnaire</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient-Rate Questionnaires (Activities)</measure>
+    <time_frame>Week 5</time_frame>
+    <description>Activities of Daily Living Sliding Scale and Questionnaire</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient-Rate Questionnaires (Activities)</measure>
+    <time_frame>Week 9</time_frame>
+    <description>Activities of Daily Living Sliding Scale and Questionnaire</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient-Rate Questionnaires (Activities)</measure>
+    <time_frame>Week 14</time_frame>
+    <description>Activities of Daily Living Sliding Scale and Questionnaire</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient-Rate Questionnaires (Activities)</measure>
+    <time_frame>Week 17</time_frame>
+    <description>Activities of Daily Living Sliding Scale and Questionnaire</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient-Rate Questionnaires (SF)</measure>
+    <time_frame>Week 0</time_frame>
+    <description>SF McGill Pain Questionnaire</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient-Rate Questionnaires (SF)</measure>
+    <time_frame>Week 5</time_frame>
+    <description>SF McGill Pain Questionnaire</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient-Rate Questionnaires (SF)</measure>
+    <time_frame>Week 9</time_frame>
+    <description>SF McGill Pain Questionnaire</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient-Rate Questionnaires (SF)</measure>
+    <time_frame>Week 14</time_frame>
+    <description>SF McGill Pain Questionnaire</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient-Rate Questionnaires (SF)</measure>
+    <time_frame>Week 17</time_frame>
+    <description>SF McGill Pain Questionnaire</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient-Rate Questionnaires (GSRS)</measure>
+    <time_frame>Week 0</time_frame>
+    <description>Gastrointestinal Symptoms Rating Scale (GSRS)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient-Rate Questionnaires (GSRS)</measure>
+    <time_frame>Week 5</time_frame>
+    <description>Gastrointestinal Symptoms Rating Scale (GSRS)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient-Rate Questionnaires (GSRS)</measure>
+    <time_frame>Week 9</time_frame>
+    <description>Gastrointestinal Symptoms Rating Scale (GSRS)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient-Rate Questionnaires (GSRS)</measure>
+    <time_frame>Week 14</time_frame>
+    <description>Gastrointestinal Symptoms Rating Scale (GSRS)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient-Rate Questionnaires (GSRS)</measure>
+    <time_frame>Week 17</time_frame>
+    <description>Gastrointestinal Symptoms Rating Scale (GSRS)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient-Rate Questionnaires (SF-36)</measure>
+    <time_frame>Week 0</time_frame>
+    <description>SF-36</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient-Rate Questionnaires (SF-36)</measure>
+    <time_frame>Week 5</time_frame>
+    <description>SF-36</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient-Rate Questionnaires (SF-36)</measure>
+    <time_frame>Week 9</time_frame>
+    <description>SF-36</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient-Rate Questionnaires (SF-36)</measure>
+    <time_frame>Week 14</time_frame>
+    <description>SF-36</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Patient-Rate Questionnaires (SF-36)</measure>
+    <time_frame>Week 17</time_frame>
+    <description>SF-36</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Neurological Exam (0)</measure>
+    <time_frame>Week 0</time_frame>
+    <description>Complete neurological examination</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Neurological Exam (9)</measure>
+    <time_frame>Week 9</time_frame>
+    <description>Complete neurological examination</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Neurological Exam (17)</measure>
+    <time_frame>Week 17</time_frame>
+    <description>Complete neurological examination</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Immunological Biomarkers (Toll)</measure>
+    <time_frame>Week 1</time_frame>
+    <description>Toll Like Receptor Function Assay</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Immunological Biomarkers (Toll)</measure>
+    <time_frame>Week 9</time_frame>
+    <description>Toll Like Receptor Function Assay</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Immunological Biomarkers (Toll)</measure>
+    <time_frame>Week 17</time_frame>
+    <description>Toll Like Receptor Function Assay</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Immunological Biomarkers (GAD)</measure>
+    <time_frame>Week 1</time_frame>
+    <description>GAD-65</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Immunological Biomarkers (GAD)</measure>
+    <time_frame>Week 9</time_frame>
+    <description>GAD-65</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Immunological Biomarkers (GAD)</measure>
+    <time_frame>Week 17</time_frame>
+    <description>GAD-65</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Immunological Biomarkers (Com)</measure>
+    <time_frame>Week 1</time_frame>
+    <description>Complement Panel (C4, C1-INH, C1-INH Function)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Immunological Biomarkers (Com)</measure>
+    <time_frame>Week 9</time_frame>
+    <description>Complement Panel (C4, C1-INH, C1-INH Function)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Immunological Biomarkers (Com)</measure>
+    <time_frame>Week 17</time_frame>
+    <description>Complement Panel (C4, C1-INH, C1-INH Function)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Immunological Biomarkers (Ig)</measure>
+    <time_frame>Week 1</time_frame>
+    <description>Immunoglobulins-Quantitative (IgA, IgE, IgG, IgM)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Immunological Biomarkers (Ig)</measure>
+    <time_frame>Week 9</time_frame>
+    <description>Immunoglobulins-Quantitative (IgA, IgE, IgG, IgM)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Immunological Biomarkers (Ig)</measure>
+    <time_frame>Week 17</time_frame>
+    <description>Immunoglobulins-Quantitative (IgA, IgE, IgG, IgM)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Immunological Biomarkers (IgG)</measure>
+    <time_frame>Week 1</time_frame>
+    <description>Immunoglobulins G, Subclasses (1-4)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Immunological Biomarkers (IgG)</measure>
+    <time_frame>Week 9</time_frame>
+    <description>Immunoglobulins G, Subclasses (1-4)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Immunological Biomarkers (IgG)</measure>
+    <time_frame>Week 17</time_frame>
+    <description>Immunoglobulins G, Subclasses (1-4)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Immunological Biomarkers (TH/TH)</measure>
+    <time_frame>Week 1</time_frame>
+    <description>TH1/TH2 Cytokine Levels</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Immunological Biomarkers (TH/TH)</measure>
+    <time_frame>Week 9</time_frame>
+    <description>TH1/TH2 Cytokine Levels</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Immunological Biomarkers (TH/TH)</measure>
+    <time_frame>Week 17</time_frame>
+    <description>TH1/TH2 Cytokine Levels</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Post-Viral Fatigue Syndrome</condition>
+  <condition>Post-Viral Disorder (Disorder)</condition>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>RUCONEST</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>IV Ruconest</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ruconest</intervention_name>
+    <description>C1 Esterase Inhibitor</description>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_label>RUCONEST</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Age 18 and older, male or female&#xD;
+&#xD;
+          2. Previous confirmed diagnosis of SARS-CoV-2&#xD;
+&#xD;
+          3. Experiencing SARS-CoV-2 post-viral fatigue syndrome 4 weeks after recovery for&#xD;
+             SARS-CoV-2&#xD;
+&#xD;
+          4. Experiencing neurological symptoms including fatigue&#xD;
+&#xD;
+          5. Willing to comply with all aspects of the protocol, including blood draws&#xD;
+&#xD;
+          6. Patient is able to understand and fully participate in the activities of the study and&#xD;
+             the consent in accordance with guidelines&#xD;
+&#xD;
+          7. Female patients of childbearing potential who are sexually active must be willing to&#xD;
+             use an acceptable form of contraception. Acceptable forms of contraception are defined&#xD;
+             as those with a failure rate of &lt; 1% when properly applied and include: a combination&#xD;
+             pill, some intra-uterine devices, and a sterilized partner in a stable relationship.&#xD;
+             Female patients must not be pregnant, planning to become pregnant, or be actively&#xD;
+             breastfeeding through the entire period.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Receiving any form of C1-INH therapy either acute or prophylactic treatment&#xD;
+&#xD;
+          2. History or suspicion of allergy to rabbits&#xD;
+&#xD;
+          3. Neurological conditions related to injury&#xD;
+&#xD;
+          4. Neuropathy related to diabetes&#xD;
+&#xD;
+          5. Participants who are pregnant or lactating&#xD;
+&#xD;
+          6. Largely incapacitated or bed ridden&#xD;
+&#xD;
+          7. Currently enrolled in any other clinical study involving an investigational product or&#xD;
+             any other type of medical research judged not to be scientifically or medically&#xD;
+             compatible with this study or have discontinued with 30 days of study entry from any&#xD;
+             other clinical study involving an investigational product&#xD;
+&#xD;
+          8. Patients who, in the investigator's opinion, might not be suitable for the trial for&#xD;
+             safety reasons&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Maureen Collins</last_name>
+    <phone>303-771-9000</phone>
+    <phone_ext>1248</phone_ext>
+    <email>mcollins@immunoe.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Alicia Palm</last_name>
+    <phone>303-225-0087</phone>
+    <email>apalm@immunoe.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>IMMUNOe Research Centers</name>
+      <address>
+        <city>Centennial</city>
+        <state>Colorado</state>
+        <zip>80112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Maureen Collins</last_name>
+      <phone>303-771-9000</phone>
+      <phone_ext>1248</phone_ext>
+      <email>mcollins@immunoe.com</email>
+    </contact>
+    <investigator>
+      <last_name>Isaac Melamed, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>January 7, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 8, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 12, 2021</study_first_posted>
+  <last_update_submitted>January 8, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 8, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 12, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>IMMUNOe Research Centers</investigator_affiliation>
+    <investigator_full_name>Isaac Melamed, MD</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Post-COVID Symptoms</keyword>
+  <keyword>Post-Viral Fatigue Syndrome</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Fatigue Syndrome, Chronic</mesh_term>
+    <mesh_term>Fatigue</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Complement C1 Inhibitor Protein</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

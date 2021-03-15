@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="381">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04581863</url>
+  </required_header>
+  <id_info>
+    <org_study_id>844043</org_study_id>
+    <nct_id>NCT04581863</nct_id>
+  </id_info>
+  <brief_title>COVID-19 Watch + COVID-19 Pulse</brief_title>
+  <official_title>Randomized Trial of Adding Pulse Oximetry to an Automated Text-messaging Program for Remotely Monitoring Patients at Home With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Pennsylvania</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Patient-Centered Outcomes Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Pennsylvania</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The clinical guidance for 90 percent of infected COVID-19 adult patients who do not meet&#xD;
+      eligibility for inpatient admission is to self-isolate. To support these patients,&#xD;
+      alternatives to in-person care are needed to manage an unpredictable clinical course;&#xD;
+      identify and intercept patients rapidly deteriorating at home, prevent viral spread during&#xD;
+      in-person visits; and minimize future surges in emergency departments (EDs). In addition,&#xD;
+      fingertip pulse oximeters have been proposed to improve in-home early detection of&#xD;
+      respiratory deteriorations but are untested and the operational infrastructure to support&#xD;
+      large-scale monitoring is limited.&#xD;
+&#xD;
+      While telemedicine has been widely adopted during the pandemic as an alternative to&#xD;
+      conventional outpatient care, limited telemedicine access may be exacerbating observed&#xD;
+      disparities for Black and Latino patients. In our health system, Black and Latino patients&#xD;
+      used video-visits 15 percent less often than white patients. Text messaging and phone calls&#xD;
+      may improve healthcare access for communities of color, but the evidence for these&#xD;
+      telecommunication modalities to be effective and improve equity are limited.&#xD;
+&#xD;
+      The University of Pennsylvania Health System (UPHS) developed and deployed COVID Watch to&#xD;
+      improve access to health care for COVID-19 patients who are self-isolating at home. COVID&#xD;
+      Watch sends twice-daily, scheduled text messages to assess patients for shortness of breath&#xD;
+      using a clinical algorithm to determine whether patients need an urgent escalation to a team&#xD;
+      of dedicated, on-call nurses within one hour. These nurses are supported by an on-call team&#xD;
+      of clinicians who can conduct urgent phone or video assessments. Patients can also trigger&#xD;
+      the algorithmic assessment independent of the scheduled messages. As of May 21, 2020, COVID&#xD;
+      Watch has managed 3,628 COVID-19 patients at home, of which 1,295 are confirmed COVID-19&#xD;
+      positive; of these, 61 percent are Black or Latino, higher than the proportion of all UPHS&#xD;
+      COVID-19 positive patients that are Black or Latino (55 percent).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Most (80-90%) COVID-19 positive patients are asked to self-isolate at home because they do&#xD;
+      not qualify for home care or inpatient admission. Alternatives to in-person care are urgently&#xD;
+      needed to: (1) manage an unpredictable clinical course; (2) identify and intercept patients&#xD;
+      rapidly deteriorating at home, (3) prevent viral spread during in-person visits; and (4)&#xD;
+      triage symptoms to minimize surges to emergency departments (EDs). In addition, fingertip&#xD;
+      pulse oximeters (&quot;pulse oximetry&quot;) have been proposed to improve in-home early detection of&#xD;
+      respiratory deteriorations but are untested and the operational infrastructure to support&#xD;
+      large-scale monitoring is limited. While telemedicine has been widely adopted during the&#xD;
+      pandemic as an alternative to conventional outpatient care, worse COVID-19 outcomes observed&#xD;
+      among Black and Latino patients may be due, in part, to worse telemedicine access for these&#xD;
+      socially and medically disadvantaged groups.&#xD;
+&#xD;
+      To improve in-home monitoring and health care access for patients with suspected or confirmed&#xD;
+      COVID-19, the health innovation team at University of Pennsylvania Health System (&quot;UPHS&quot;)&#xD;
+      developed COVID Watch, a free of charge, 24/7, automated, text message-based, home monitoring&#xD;
+      program across UPHS' large geographic catchment area. This study will answer the question,&#xD;
+      &quot;How does the addition of pulse oximetry affect clinical outcomes for COVID-19 patients?&quot;&#xD;
+&#xD;
+      COVID Watch was first implemented on March 24, 2020 and has enrolled 3,628 patients through&#xD;
+      May 21, 2020 of which 1,295 were COVID-19 positive. Understanding the effect of COVID Watch&#xD;
+      with and without pulse oximetry on Black and Latino patients is important because communities&#xD;
+      of color have had disproportionately higher rates of COVID-19 morbidity and mortality&#xD;
+      nationally, and locally in Pennsylvania, ranking 5th total deaths, and New Jersey, ranking&#xD;
+      2nd. Symptom monitoring apps and programs are commercially available. However, COVID Watch is&#xD;
+      uniquely embedded into its host healthcare system, UPHS. Patients are enrolled using the&#xD;
+      electronic medical record (EMR), escalations are addressed by UPHS nurses, and they are&#xD;
+      referred to UPHS-based telemedicine, primary care, and social services when appropriate.&#xD;
+      COVID Watch is a scalable operational platform for monitoring patients with home pulse&#xD;
+      oximetry readings. Whether remote monitoring with or without pulse oximetry helps COVID-19&#xD;
+      patients stay safe at home is an urgent, patient-centered question. Finally, with COVID-19&#xD;
+      surges projected in late 2020, health systems will need to be prepared with evidence-based&#xD;
+      strategies for managing more COVID-19 patients at home.&#xD;
+&#xD;
+      COVID Watch (https://covidwatch.waytohealth.org/) is powered by UPHS' NIH-funded research and&#xD;
+      operational texting platform (www.waytohealth.org), integrated with UPHS' EMR. Since&#xD;
+      hypoxemia is the primary driver of admission and fatality among COVID-19 patients, the&#xD;
+      investigators focused the algorithm on shortness of breath, our closest approximation for&#xD;
+      concerning hypoxemia. Given the rapid and unpredictable decompensation of COVID-19 patients,&#xD;
+      patients receive clinical support 24 hours/day, 7 days/week. COVID Watch sends twice-daily,&#xD;
+      scheduled text messages to assess patients for shortness of breath using an algorithm to&#xD;
+      determine whether patients need an urgent escalation to a team of dedicated nurses within 1&#xD;
+      hour. These nurses are supported by an on-call team of clinicians who can conduct urgent&#xD;
+      phone or video assessments. At each level patients' clinical needs are either managed with&#xD;
+      self-care advice, prescriptions, or a referral to the ED. The majority of COVID Watch&#xD;
+      patients (83.7%) have been enrolled by outpatient providers conducting telephone and video&#xD;
+      visits; 8.7% and 7.6% have been enrolled at ED and inpatient discharge, respectively. The&#xD;
+      program is available at all six of UPHS's hospitals and EDs, and all 530 affiliated&#xD;
+      ambulatory settings using the EMR. Any clinical staff member (e.g., RN, physician, medical&#xD;
+      assistants) logged on to the EMR is able to enroll patients. Patients can also trigger the&#xD;
+      algorithmic assessment independent of the scheduled messages. Patients only continue the&#xD;
+      intervention if they are agreeable (&quot;opt-out&quot;) and can stop anytime. Patients are scheduled&#xD;
+      to be in COVID Watch for 14 days, with the option to extend to 21 days if interested. A&#xD;
+      Spanish-language version of COVID Watch was made available to patients on May 18, 2020, with&#xD;
+      nurses using translation lines to communicate with patients.&#xD;
+&#xD;
+      COVID Watch engagement is high. To date, nearly 80% of enrolled patients have engaged with&#xD;
+      the program, defined as responding to scheduled text messages at least once every two days.&#xD;
+      RNs have managed over 600 calls with a mean response time (median) of 25 minutes (11&#xD;
+      minutes). Of the calls, 37% were asked to continue to monitor at home, 41% were scheduled for&#xD;
+      an urgent follow-up telemedicine visit, and 9% were sent to the ED for emergent evaluation.&#xD;
+&#xD;
+      The investigative team provides a conceptual model of how adding home pulse oximetry may&#xD;
+      potentially improve outcomes. Preventing or aggressively treating respiratory failure is&#xD;
+      essential for patients infected with COVID-19. Among all infected patients, an estimated&#xD;
+      10-20% of patients with COVID-19 develop severe illness requiring hospitalization, of which&#xD;
+      30-40% develop critical illness requiring support in an intensive care unit. Among the&#xD;
+      critically ill, respiratory failure is common and results from acute hypoxemic respiratory&#xD;
+      failure due to acute respiratory distress syndrome (ARDS). ARDS is a clinical manifestation&#xD;
+      of pulmonary tissue inflammation, preventing the exchange of oxygen between inhaled air and&#xD;
+      blood circulating in patients' lungs (&quot;hypoxemia&quot;). Increasing the concentration of oxygen in&#xD;
+      the air that patients breathe (e.g., supplemental oxygen) and reducing the degree of&#xD;
+      pulmonary inflammation can support patients with COVID-19 by reducing the severity of&#xD;
+      hypoxemia and providing sufficient oxygen supply to vital organs. Measures of pulse oximetry&#xD;
+      - the oxygen saturation in the blood - can provide an objective measure to identify which&#xD;
+      patients have or are beginning to experience declines in their respiratory function.&#xD;
+&#xD;
+      The investigators' conceptual model is based on emerging evidence that early medical&#xD;
+      interventions can improve clinical outcomes for COVID-19, resulting in less severe clinical&#xD;
+      sequelae and reduced mortality. For COVID-19 patients requiring supplemental oxygen, new&#xD;
+      preliminary data from a large multicenter randomized controlled trial of dexamethasone&#xD;
+      indicates that patients have markedly reduced mortality when given dexamethasone. This&#xD;
+      corticosteroid likely reduces pulmonary inflammation and prevents the development of severe&#xD;
+      ARDS. These findings suggest that earlier treatment for patients who develop more severe&#xD;
+      forms of COVID-19 may prevent unwanted outcomes. Secondly, there is additional evidence that&#xD;
+      remdesivir can speed recovery and reduce hospital days among patients with COVID-19. Finally,&#xD;
+      there is promising data that simple changes in ED care and hospital practices may improve&#xD;
+      outcomes. For example, &quot;awake proning,&quot; which involves positioning an awake, non-intubated&#xD;
+      patients at regular intervals onto their abdomen with their face down can enable greater&#xD;
+      recruitment of lung tissue for oxygen exchange and reduce the need for subsequent intubation&#xD;
+      and mechanical ventilation. These sorts of interventions can reduce the days that patients&#xD;
+      spend in the hospital, prevent complications such as ventilator associated pneumonia, and&#xD;
+      reduce mortality related to COVID-19.&#xD;
+&#xD;
+      Respiratory decline needs to be identified early for patients to benefit from early medical&#xD;
+      interventions. Respiratory decline can be (a) signaled when patients report the sensation of&#xD;
+      feeling &quot;shortness of breath&quot; or &quot;difficulty breathing&quot; (i.e., dyspnea), or (b) identified&#xD;
+      when the concentration of oxygen in patients' blood or oxygen saturation are objectively&#xD;
+      measured. Current models of care (&quot;Usual Care&quot;), even with expanded telemedicine access, rely&#xD;
+      on patients contacting providers - a reactive process. This reactive process can delay care&#xD;
+      because most primary care practices use an intermediary (e.g., a staff member or message&#xD;
+      inbox) to screen communications for busy clinicians. Many practices do not respond to&#xD;
+      patients' concerns efficiently overnight or on weekends. These processes frustrate patients&#xD;
+      because they are concerned about contacting their providers for mild changes, irrespective of&#xD;
+      the time or day the event is occurring, because they are concerned about respiratory failure.&#xD;
+      This process is even harder for patients with limited primary care or telemedicine access or&#xD;
+      language barriers, problems disproportionately faced by Black and Latino communities. In&#xD;
+      contrast, COVID Watch is a proactive process, requesting patients report symptoms twice a&#xD;
+      day, and patients can trigger a phone call to a nurse within an hour by simply texting. COVID&#xD;
+      Watch + pulse oximetry mirrors COVID Watch but can proactively detect respiratory decline&#xD;
+      using an objective measure of oxygen saturation. In addition, COVID Watch is available free&#xD;
+      of charge and is now available in Spanish, with over 85 Spanish speaking patients enrolled to&#xD;
+      date.&#xD;
+&#xD;
+      To not overburden emergency departments (EDs), respiratory decline needs to be identified&#xD;
+      accurately. Both unnecessary escalations of care to the ED for patients with mild COVID-19&#xD;
+      and delayed detection of respiratory decline in patients with severe COVID-19 may occur when&#xD;
+      managing patients with COVID-19. For usual care and COVID Watch, clinicians are reliant on&#xD;
+      the subjective sensation of dyspnea. Dyspnea is concerning enough that patients are often&#xD;
+      redirected to an urgent care center or emergency department so patients can have their oxygen&#xD;
+      saturation measured. Referring patients with an oxygen saturation &lt;94% would justify&#xD;
+      redirecting patients to the ED for additional clinical evaluation and supportive therapy.&#xD;
+      Referring patients with mild dyspnea who turn out to have a normal oxygen saturation may be a&#xD;
+      burden to patients and their families and requires additional resource from EDs and&#xD;
+      hospitals. During times of rapid rises in community infection rates, or surges, efficient&#xD;
+      resource allocations are imperative for supporting patients who are critically ill. At the&#xD;
+      same time, patients still benefit from enhanced connections with clinical providers to&#xD;
+      reassure them that they are not experiencing respiratory decline. COVID Watch, supplemented&#xD;
+      by pulse oximetry, could provide this highly responsive team of clinicians objective data so&#xD;
+      they can accurately assess a patient's respiratory state.&#xD;
+&#xD;
+      In an alternative scenario, patients may have low oxygen saturation without the sensation of&#xD;
+      dyspnea, a phenomenon unique to COVID-19 infected patients, and is commonly known as &quot;silent&quot;&#xD;
+      or &quot;happy&quot; hypoxemia. These patients receive medical interventions late because they are&#xD;
+      unaware they are hypoxemic. There have been reports of COVID-19 patients arriving in EDs with&#xD;
+      profoundly low oxygen saturation levels with relatively little or no dyspnea. This has led to&#xD;
+      proposals to use home pulse oximetry to detect silent hypoxemia which have been widely&#xD;
+      reported in the media (e.g. New York Times) and resuscitation medicine forums. To address&#xD;
+      this phenomenon, the Vermont Department of Public Health has implemented a program to mail&#xD;
+      pulse oximeters to newly diagnosed COVID-19 cases 24-48 hours after contact tracing&#xD;
+      interviews. But as reported in Science: &quot;No one, however, has studied whether early detection&#xD;
+      of hypoxia might head off bad outcomes. Some physicians believe pulse oximeters are best used&#xD;
+      with a doctor's guidance, perhaps through telemedicine. With many COVID-19 patients&#xD;
+      frightened to visit a hospital and arriving only when their symptoms have dangerously&#xD;
+      advanced, doctors also wonder whether home monitoring could hasten treatment-and whether, for&#xD;
+      some, that could make all the difference.&quot;&#xD;
+&#xD;
+      Based on lack of studies determining whether pulse oximetry can hasten treatment for patients&#xD;
+      deteriorating at home relative to the current standard of care in the health system of&#xD;
+      automated text messaging paired with telemedicine, the investigators believe there is&#xD;
+      equipoise between these two treatment strategies: automated text messaging with telemedicine&#xD;
+      vs. automated text messaging with telemedicine plus pulse oximetry. Therefore, a randomized&#xD;
+      comparison is needed to guide health system programs to better address this pandemic.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 30, 2020</start_date>
+  <completion_date type="Anticipated">October 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">February 21, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Difference in Days Alive and Out of Hospital</measure>
+    <time_frame>30 days</time_frame>
+    <description>Primary outcome will be reported for patients who are confirmed to be COVID positive. Outcomes include time-based and categorical clinical outcomes. Time-based measures will be assessed at 30 days and begin when a COVID-19 patient was tested (e.g., nasopharyngeal swab) in outpatient and ED settings, or starting at the time of discharge from the hospital if enrolled in COVID Watch as an inpatient. Staying safe and out of the hospital using Days Alive and Out of Hospital (DAOH) since the date of the positive COVID-19 test. Initial analyses will include in-hospital deaths. Deaths that occur outside the hospital in 2020 will be added to a follow up analysis when National Death Index (NDI) becomes available (est. January 2021).&quot;</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">850</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>COVID Watch</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>COVID Watch provides text-based assessments, two times a day for 14 days and escalates care to a nurse via telemedicine for any reported worsening of symptoms not severe enough to recommend going to the ED immediately. This service is provided free of charge to patients, a benefit to patients without insurance or established primary care. UPHS already offers a version of COVID Watch with pulse oximetry to patients with COVID-19 being discharged from the ED who meet specific criteria: a discharge pulse ox less than 95%, an infiltrate on chest x-ray, are or age of 60 years or older, or who are deemed by the ED clinician to have significant comorbid conditions.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>PCORI Pulse</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This arm is COVID Watch + pulse oximeter device. Patients sent a pulse oximeter will be prompted twice daily to text their oxygen saturation level after walking in place for 1 minute. If the oxygen saturation is &gt;3% lower than than the baseline first O2 sat measurement, or if it falls below an absolute level of 90%, the patient will receive an immediate call from the same on-call RN's for COVID Watch and undergo the same triage protocol .</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>pulse oximeter</intervention_name>
+    <description>Patients will be prompted twice daily to text their oxygen saturation level after walking in place for 1 minute. If the oxygen saturation is &gt;3% lower than than the baseline first O2 sat measurement, or if it falls below an absolute level of 90%, the patient will receive an immediate call from the same on-call RN's for COVID Watch and undergo the same triage protocol .</description>
+    <arm_group_label>PCORI Pulse</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>COVID Watch</intervention_name>
+    <description>Enrolled patients receive text-based assessments, two times a day for 14 days and escalates care to a nurse via telemedicine for any reported worsening of symptoms not severe enough to recommend going to the ED immediately.</description>
+    <arm_group_label>COVID Watch</arm_group_label>
+    <arm_group_label>PCORI Pulse</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  patients with suspected or confirmed COVID-19 started on COVID Watch as routine care&#xD;
+             via (1) outpatient COVID-19 testing or (2) who were tested for COVID-19 and discharged&#xD;
+             from the ED.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  less than 18 years of age&#xD;
+&#xD;
+          -  were provided a pulse oximeter upon discharge from the ED (available for distribution&#xD;
+             as usual care for patients with suspected COVID-19 being discharged from the ED with&#xD;
+             an ED pulse ox less than 95%, who have an infiltrate on chest x-ray, are greater than&#xD;
+             60 years of age, or who are deemed by the ED clinician to have significant comorbid&#xD;
+             conditions).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Jessie Hemmons, MS</last_name>
+    <phone>215.746.8255</phone>
+    <email>jhemmons@pennmedicine.upenn.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Dina Abdel-Rahman, BS</last_name>
+    <email>dina.abdel-rahman@pennmedicine.upenn.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Perelman Center for Advanced Medicine</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Dina Abdel-Rahman</last_name>
+      <email>dina.abdel-rahman@pennmedicine.upenn.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>October 7, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 8, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 9, 2020</study_first_posted>
+  <last_update_submitted>December 16, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 16, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 19, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4946">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04696406</url>
+  </required_header>
+  <id_info>
+    <org_study_id>DXT-CS-005</org_study_id>
+    <nct_id>NCT04696406</nct_id>
+  </id_info>
+  <brief_title>Multicenter, Multinational, Clinical Trial of the Performance of RESPINOR DXT to Identify Patients at Increased Risk of Weaning Failure</brief_title>
+  <acronym>DE-RISK WF</acronym>
+  <official_title>Multicenter, Multinational, Clinical Trial of the Performance of RESPINOR DXT to Identify Patients at Increased Risk of Weaning Failure</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Respinor AS</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>The Research Council of Norway</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Respinor AS</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study will be a multicenter, multinational, prospective single arm blinded study to&#xD;
+      validate DXT's performance to identify patients at increased risk of weaning failure during&#xD;
+      the spontaneous breathing trial (SBT). Continuous diaphragmatic excursion measurements by DXT&#xD;
+      will be conducted during the patients' first SBT. The recording shall be initiated 15 minutes&#xD;
+      prior to the first SBT and will end 15 minutes post SBT.&#xD;
+&#xD;
+      All patients on mechanical ventilation in the ICU meeting the eligibility criteria shall&#xD;
+      undergo a daily screen for weaning readiness. If any of the components of the daily screen is&#xD;
+      not met, the patient will not undergo a SBT that day and continued to be screened daily.&#xD;
+      Patients passing daily screening criteria shall automatically receive an SBT.&#xD;
+&#xD;
+      The SBT shall last for 30-120 minutes and be performed on continuous positive airway pressure&#xD;
+      up to 5 cm H2O and pressure support up to 7 cm H2O. The SBT shall be terminated and&#xD;
+      mechanical ventilation reinstituted at the original settings if the patient meets any of the&#xD;
+      SBT failure criteria.&#xD;
+&#xD;
+      A trial is considered successful and physicians will be asked to approve extubation when the&#xD;
+      patient can breathe spontaneously for the whole trial.&#xD;
+&#xD;
+      Patients shall be continued to be screened daily until extubation, 21 days after enrolment,&#xD;
+      performance of tracheostomy, death, or withdrawal of care. All patients shall be followed&#xD;
+      until hospital discharge or death.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 1, 2021</start_date>
+  <completion_date type="Anticipated">September 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">September 30, 2021</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>21 Days</target_duration>
+  <primary_outcome>
+    <measure>Difference in the rate of weaning failure between patients with a DE &lt; 1.1 cm compared to those with a DE &gt; 1.1 cm.</measure>
+    <time_frame>Second minute of the first SBT</time_frame>
+    <description>Median DE measurements taken during the second minute of the SBT will be used in the analysis. The hypothesis is that patients with DE &lt; 1.1 cm will have significantly higher rate of weaning failure compared to those with a DE &gt; 1.1 cm. The relative risk (RR) statistic will be used to assess the null hypothesis of equality.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Difference in the rate of weaning failure with reintubation failure 72 hours and 7 days after extubation between patients with a DE &lt;1.1 cm compared to those with a DE &gt;1.1 cm.</measure>
+    <time_frame>Second minute of the first SBT</time_frame>
+    <description>Median DE measurements taken during the second minute of the SBT will be used in the analysis. The hypothesis is that patients with DE &lt; 1.1 cm will have significantly higher rate of weaning failure compared to those with a DE &gt; 1.1 cm. The relative risk (RR) statistic will be used to assess the null hypothesis of equality.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Subgroup analysis on the difference in the rate of weaning failure between patients with a DE &lt;1.1 cm compared to those with a DE &gt;1.1 cm excluding COVID-19 patients. Similar subgroup analysis for COVID-19 patients.</measure>
+    <time_frame>Second minute of the first SBT</time_frame>
+    <description>Median DE measurements taken during the second minute of the SBT will be used in the analysis. The hypothesis is that patients with DE &lt; 1.1 cm will have significantly higher rate of weaning failure compared to those with a DE &gt; 1.1 cm. The relative risk (RR) statistic will be used to assess the null hypothesis of equality.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation between median DE measurements taken during the second minute of the SBT and duration of mechanical ventilation prior to the first SBT, after the SBT and total mechanical ventilation time.</measure>
+    <time_frame>Second minute of the first SBT</time_frame>
+    <description>Plots of DE values versus MV duration will be presented, together with the estimated correlation coefficient.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation between median DE measurements taken during the second minute of the SBT and duration of ICU stay prior to the first SBT, after the SBT and total ICU time.</measure>
+    <time_frame>Second minute of the first SBT</time_frame>
+    <description>Plots of DE values versus ICU duration will be presented, together with the estimated correlation coefficient.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Confirm thresholds for DE to predict weaning outcome during the SBT for the whole sample.</measure>
+    <time_frame>Second minute of the first SBT</time_frame>
+    <description>Thresholds for continuous DE will be defined by ROC curve analysis.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Efficacy - number of patients with overall acceptable signal quality from predefined quality criteria</measure>
+    <time_frame>First SBT</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Safety - skin irritation severity</measure>
+    <time_frame>After first SBT, when removing the sensors</time_frame>
+    <description>options 'no irritation', slight redness', 'red and moist tissue', 'granulation tissue', and 'infection leading to debridement'</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Time spent on achieving good sensor placement</measure>
+    <time_frame>During sensor attachment before the first SBT</time_frame>
+    <description>with options 0-5, 6-10 mins, 11-20 mins, 21-30 mins, &gt; 30 mins</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>Safety - skin irritation frequency</measure>
+    <time_frame>After first SBT, when removing the sensors</time_frame>
+    <description>Frequency of skin irritation presented in percentage for each category of skin irritation severity</description>
+  </other_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">250</enrollment>
+  <condition>Respiratory Failure</condition>
+  <arm_group>
+    <arm_group_label>Weaning failure</arm_group_label>
+    <description>Defined as the failure to pass a spontaneous breathing trial or the need for reintubation or death within 48 hours</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Weaning success</arm_group_label>
+    <description>Defined as a successful spontaneous breathing trial and is not reintubated or dies in the first 48 hours after extubation.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>RESPINOR DXT</intervention_name>
+    <description>Blinded, continuous diaphragmatic excursion measurements by DXT will be conducted during the patients' first SBT. The recording shall be initiated 15 minutes prior to the first SBT and will end 15 minutes post SBT.</description>
+    <arm_group_label>Weaning failure</arm_group_label>
+    <arm_group_label>Weaning success</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients under invasive mechanical ventilation in the intensive care unit&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Patients willing and able to give informed consent (either themselves or next of kin)&#xD;
+&#xD;
+          2. Have undergone invasive mechanical ventilation &gt; 24 hours&#xD;
+&#xD;
+          3. Ready to wean according to criteria (from the sixth international consensus conference&#xD;
+             on intensive care medicine):&#xD;
+&#xD;
+               1. Adequate cough&#xD;
+&#xD;
+               2. Absence of excessive tracheobronchial secretion&#xD;
+&#xD;
+               3. Resolution of disease acute phase for which the patient was intubated&#xD;
+&#xD;
+               4. Clinical stability, defined as stable cardiovascular status (i.e. fC &lt; 140&#xD;
+                  beats·min-1, systolic BP 90-160 mmHg, no or minimal vasopressors) and stable&#xD;
+                  metabolic status&#xD;
+&#xD;
+               5. Adequate oxygenation, defined as SaO2 &gt; 90% on &lt; FIO2 0.4 (or PaO2/FIO2 &gt; 150&#xD;
+                  mmHg) and PEEP &lt; 8 cmH2O&#xD;
+&#xD;
+               6. Adequate pulmonary function, i.e. fR &lt; 35 breaths·min-1&#xD;
+&#xD;
+               7. Adequate mentation, defined as no sedation or adequate mentation on sedation (or&#xD;
+                  stable neurologic patient), i.e., patient awake, calm and responsive to simple&#xD;
+                  orders (squeeze hand, knock the head, close the eyes), no agitation.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Not registered with a social security system nor entitled to be&#xD;
+&#xD;
+          2. Central or spinal neurological injury involving central ventilatory control&#xD;
+&#xD;
+          3. Presence of a neuromuscular disease involving respiratory muscles&#xD;
+&#xD;
+          4. Use of muscle-paralyzing agents within 24h before the study, except if given for&#xD;
+             intubation&#xD;
+&#xD;
+          5. Known paralysis of a hemidiaphragm or suspicion of paralysis of a hemidiaphragm,&#xD;
+             defined by the radiographic evidence of elevation of a dome &gt; 2.5 cm compared to the&#xD;
+             contralateral dome&#xD;
+&#xD;
+          6. Tracheostomy&#xD;
+&#xD;
+          7. Body mass index &gt;35 kg/m2&#xD;
+&#xD;
+          8. Patient with therapeutic limitation, i.e. reduced expectancy to survive&#xD;
+&#xD;
+          9. Pregnant woman or protected adult&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Alexandre Demoule, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hôpital Universitaire Pitié Salpêtrière</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Michele Umbrello, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Ospedale San Carlo Borromeo</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Øyvind Skraastad, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Oslo University Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Marit Mellemseter</last_name>
+    <phone>+4746810529</phone>
+    <email>m.mellemseter@respinor.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Universitaire d'Angers</name>
+      <address>
+        <city>Angers</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Alain Mercat, MD</last_name>
+    </contact>
+    <contact_backup>
+      <last_name>Satar Mortaza, MD</last_name>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Saint Joseph Saint Luc</name>
+      <address>
+        <city>Lyon</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Emmanuel Vivier, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hôpital Universitaire Pitié Salpêtrière</name>
+      <address>
+        <city>Paris</city>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Alexandre Demoule, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale San Carlo Borromeo</name>
+      <address>
+        <city>Milan</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Michele Umbrello, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Oslo University Hospital</name>
+      <address>
+        <city>Oslo</city>
+        <country>Norway</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Øyvind Skraastad, MD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>St. Olavs University Hospital</name>
+      <address>
+        <city>Trondheim</city>
+        <country>Norway</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Daniel Bergum, MD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+    <country>Italy</country>
+    <country>Norway</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>December 23, 2020</study_first_submitted>
+  <study_first_submitted_qc>January 4, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 6, 2021</study_first_posted>
+  <last_update_submitted>January 4, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 4, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 6, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Diaphragm ultrasound</keyword>
+  <keyword>Diaphragm function</keyword>
+  <keyword>Mechanical ventilation</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Insufficiency</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

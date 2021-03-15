@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1654">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04699227</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20/SC/0192</org_study_id>
+    <nct_id>NCT04699227</nct_id>
+  </id_info>
+  <brief_title>Can RIC Prevent Deterioration to Critical Care in Covid19</brief_title>
+  <official_title>CAN REMOTE ISCHAEMIC CONDITIONING REDUCE INFLAMMATORY MARKERS IN COVID-19 PATIENTS - A MULTI-SITE, RANDOMISED PILOT STUDY</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Derek Yellon</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University College London Hospitals</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The coronavirus disease (COVID-19) emerged in late 2019 and has since been diagnosed in over&#xD;
+      a million persons worldwide. As this virus progresses, it causes an extreme and uncontrolled&#xD;
+      response from the patient's immune system accompanied by reduced oxygen flow to major organs,&#xD;
+      and subsequent ischaemic injury.&#xD;
+&#xD;
+      The current treatment of COVID-19 is largely supportive without any cure or vaccine available&#xD;
+      at this time. Developing new methods to reduce this heightened inflammatory response is&#xD;
+      essential to halting progression of COVID-19 in patients and reducing the severity of damage.&#xD;
+&#xD;
+      The cellular mechanisms seen in COVID-19 are similar to those seen in patients with sepsis. A&#xD;
+      process known as Remote Ischemic Conditioning (RIC) is an intervention which has been shown&#xD;
+      to prevent cellular injury including those associated with sepsis. Based on the evidence from&#xD;
+      studies looking at sepsis, it is anticipated the same benefit would be seen in patients&#xD;
+      diagnosed with COVID-19.&#xD;
+&#xD;
+      RIC is a simple, non-invasive procedure where a blood pressure cuff is applied to the arm for&#xD;
+      repeated cycles of inflating and deflating (typically 3-5 cycles of 5 minutes each). This&#xD;
+      process activates pro-survival mechanisms in the body to protect vital organs and improve the&#xD;
+      immune system. Therefore, we believe it represents an exciting strategy to protect organs&#xD;
+      against reduced blood flow and extreme immune response, as seen in COVID-19 infections.&#xD;
+&#xD;
+      This study has already been fully approved&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      COVID-19 has an early phase and a late, with rapid progression to ARDS (due to cytokine&#xD;
+      storm), multi-organ failure and death. Suppressing these cytokine elevations maybe a key to&#xD;
+      improved outcomes. Acute and Chronic (repeated) RIC has been shown to benefit in reducing the&#xD;
+      levels cytokines following LPS-induced sepsis in animal models (1). Furthermore, mortality&#xD;
+      was significantly reduced, following chronic RIC administration as opposed to acute RIC&#xD;
+      administration.&#xD;
+&#xD;
+      RIC in COVID-19 patients is a pilot, multi-centre, randomised study, designed to ascertain&#xD;
+      whether RIC decreases the severity of inflammatory markers associated with a &quot;storm&quot; score.&#xD;
+&#xD;
+      20 adult patients admitted to either The Royal Free or The Lister Hospital (Stevenage) with&#xD;
+      diagnosed COVID-19 will be enrolled into the study, of confirmed but not critical status.&#xD;
+      After enrolment, patients will be randomised (n = 10 per group) 1:1 to receive RIC or no&#xD;
+      adjunctive intervention.&#xD;
+&#xD;
+      RIC will consist of 3-4 cycles of cuff inflations to 200 mmHg for 5 min with deflation to 0&#xD;
+      mmHg for another 5 min, which is automatically administered by the pre-programmed cuff. Those&#xD;
+      randomised to the control group will have the blood pressure cuff placed on the arm, but it&#xD;
+      will not be inflated. RIC will be performed daily for 15 days.&#xD;
+&#xD;
+      Venous blood will be collected following RIC administration (where possible) and saved for&#xD;
+      the subsequent measurement of inflammatory markers such as TNF, IL-1β, IL-6, and HMGB1 in&#xD;
+      addition to cardiac biomarkers Troponin T and NT pro terminal BNP. All biomarker analysis&#xD;
+      will occur at The Hatter Cardiovascular Institute, UCL.&#xD;
+&#xD;
+      The endpoint is area under the curve of inflammatory markers and cardiac biomarkers.&#xD;
+      Secondary endpoint will be the need for intensive care admission or death.&#xD;
+&#xD;
+      It would be our intention to use autoRIC devices (CellAegis, Canada) to ascertain whether RIC&#xD;
+      can lower the cytokine response. These devices are specifically designed, blood-pressure&#xD;
+      cuffs pre-programmed for the number of uses required by each patient; the intent being &quot;a&#xD;
+      single patient-multiple use&quot; cuff.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 23, 2020</start_date>
+  <completion_date type="Anticipated">April 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 30, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Single (Participant)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Primary Endpoint</measure>
+    <time_frame>12 months</time_frame>
+    <description>The primary outcome is to demonstrate that remote ischaemic conditioning reduces the severity of inflammatory cytokine release which are responsible for the cytokine &quot;storm&quot; that occurs in following COVID-19 infection.&#xD;
+The endpoint is area under the curve of inflammatory markers and cardiac biomarkers.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Secondary Endpoint</measure>
+    <time_frame>12 months</time_frame>
+    <description>Secondary endpoint will be the need for intensive care admission or death.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>Covid19</condition>
+  <condition>Ischemia</condition>
+  <arm_group>
+    <arm_group_label>Control group not receiving RIC</arm_group_label>
+    <arm_group_type>Sham Comparator</arm_group_type>
+    <description>Those randomised to the control group will have the blood pressure cuff placed on the arm, but it will not be inflated.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Interventional group receiving RIC</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>RIC will consist of 3-4 cycles of cuff inflations to 200 mmHg for 5 min with deflation to 0 mmHg for another 5 min, which is automatically administered by the pre-programmed cuff.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Cuff application with inflation</intervention_name>
+    <description>The blood pressure cuff will be placed on the arm and inflated.</description>
+    <arm_group_label>Interventional group receiving RIC</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Sham inflation</intervention_name>
+    <description>The blood pressure cuff will be placed on the arm and not inflated.</description>
+    <arm_group_label>Control group not receiving RIC</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        - Adult patients (aged 18 - 80 yrs) with diagnosed COVID-19.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Contraindication for the use of a brachial cuff on either arm.&#xD;
+&#xD;
+          -  Intercurrent disease with an expected life expectancy of less than 24 h, cardiac&#xD;
+             arrest, - Pregnant or breastfeeding women.&#xD;
+&#xD;
+          -  Bleeding disorder or platelet count below 50.&#xD;
+&#xD;
+          -  Currently enrolled in another research study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Royal Free London NHS Foundation Trust,</name>
+      <address>
+        <city>London</city>
+        <zip>NW3 2QG</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alan Salama, MBBS PhD</last_name>
+      <phone>020 7794 0500</phone>
+      <email>alan.salama@nhs.net</email>
+    </contact>
+    <investigator>
+      <last_name>Alan Salama, MBBS PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>East and North Hertfordshire NHS TrusEast and North Hertfordshire NHS Trus</name>
+      <address>
+        <city>Stevenage</city>
+        <zip>SG1 4AB</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Diana A Gorog, MB BS MD PhD</last_name>
+      <phone>01707247512</phone>
+      <email>d.gorog@nhs.net</email>
+    </contact>
+    <investigator>
+      <last_name>Diana A Gorog, MB BS MD PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>January 6, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 6, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 7, 2021</study_first_posted>
+  <last_update_submitted>January 6, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 6, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 7, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>University College London Hospitals</investigator_affiliation>
+    <investigator_full_name>Derek Yellon</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>Covid19</keyword>
+  <keyword>Ischemia</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Ischemia</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>No identifiable, personal data will be collected as part of this study.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

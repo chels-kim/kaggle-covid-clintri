@@ -1,0 +1,1290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="585">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04491240</url>
+  </required_header>
+  <id_info>
+    <org_study_id>COVID-19 EXO</org_study_id>
+    <nct_id>NCT04491240</nct_id>
+  </id_info>
+  <brief_title>Evaluation of Safety and Efficiency of Method of Exosome Inhalation in SARS-CoV-2 Associated Pneumonia.</brief_title>
+  <acronym>COVID-19EXO</acronym>
+  <official_title>The Protocol of Evaluation of Safety and Efficiency of Method of Exosome Inhalation in SARS-CoV-2 Associated Two-Sided Pneumonia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>State-Financed Health Facility &quot;Samara Regional Medical Center Dinasty&quot;</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Clinics of the Federal State Budgetary Educational Institution SSMU</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Samara Regional Clinical Hospital V.D. Seredavin</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>State-Financed Health Facility &quot;Samara Regional Medical Center Dinasty&quot;</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Coronavirus is an acute viral disease with prevailing upper respiratory tract infections&#xD;
+      caused by the RNA-containing virus of the genus Betacoronavirus of the Coronaviridae family.&#xD;
+      Most patients with severe COVID-19 develop pneumonia in the first week of the disease. As the&#xD;
+      infection progresses, the infiltration increases, and the affected areas increases. Excessive&#xD;
+      and uncontrolled immune system response with rapidly developing fatal cytokine storm plays&#xD;
+      the main role in the pathogenesis of acute respiratory distress syndrome (ARDS) due to&#xD;
+      SARS-CoV-2 infection.&#xD;
+&#xD;
+      According to available data, exosomes can regulate inflammation and regenerative processes&#xD;
+      due to the change in the concentration of anti-inflammatory cytokines and switch the immune&#xD;
+      cell to regenerative secretome. Inhalation of exosomes may reduce inflammation and damage to&#xD;
+      the lung tissue and stimulate the regenerative processes.&#xD;
+&#xD;
+      This protocol has been developed based on the literature, information about the ongoing tests&#xD;
+      NCT04276987 (A Pilot Clinical Study on Inhalation of Mesenchymal Stem Cells Exosomes Treating&#xD;
+      Severe Novel Coronavirus Pneumonia) and NCT04384445 (Organicell Flow for Patients With&#xD;
+      COVID-19), Patent No 271036826 of 2019. &quot;A method for obtaining and concentrating&#xD;
+      microRNA-containing exosomal multi-potent mesenchymal-stromal cells for use in cosmetic and&#xD;
+      pharmaceutical products to stimulate regenerative processes and slow down aging.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      COVID-19 is an infectious disease caused by the most recently discovered coronavirus. This&#xD;
+      new virus and disease were unknown before the outbreak began in Wuhan, China, in December&#xD;
+      2019. COVID-19 is now a pandemic affecting many countries worldwide. Globally, as of 1:09 pm&#xD;
+      CEST, 27 July 2020, there have been 16 096 741 confirmed cases of COVID-19, including 646 384&#xD;
+      deaths, reported to WHO.&#xD;
+&#xD;
+      The main and rapidly achievable target of SARS-CoV-2 is lung type II alveolar cells (AT2),&#xD;
+      which determines the development of diffuse alveolar damage. In the pathogenesis of ARDS due&#xD;
+      to COVID-19, the main role is played by an over-response of the immune system with rapidly&#xD;
+      developing severe life-threatening cytokine release syndrome (cytokine storm). Cytokine&#xD;
+      release syndrome threatens the emergence and progression of ARDS. The key components of the&#xD;
+      pathogenesis of ARDS also include disruption of cell cytotoxicity mechanisms, excessive&#xD;
+      activation of cytotoxic lymphocytes and macrophages with a massive release of proinflammatory&#xD;
+      cytokines (FNO-α, IL-1, IL-2, IL-6, IL-8, IL-10), granulocytic colony-stimulating factor,&#xD;
+      monocytic chemoattractive protein 1), and inflammatory markers (CRP, serum ferritin),&#xD;
+      infiltration of internal organs and tissues by activated T-lymphocytes and macrophages,&#xD;
+      resulting in a hyperinflammatory reaction. Such severe lesions can lead to death or severe&#xD;
+      lung damage, including long rehabilitation after discharge.&#xD;
+&#xD;
+      Experimental studies have demonstrated that mesenchymal stem cells (MSCs) may significantly&#xD;
+      reduce lung inflammation and pathological impairment resulting from different types of lung&#xD;
+      injury. Many researchers connect the anti-inflammatory effect of MSC with their secretome&#xD;
+      which includes MSC derived exosomes. It is highly likely that MSC exosomes have the same&#xD;
+      therapeutic effect on inoculation pneumonia as MSCs themselves. Moreover, exosomes show a&#xD;
+      strong effect of regenerative stimulation on different wounds so the regenerative effect can&#xD;
+      be extended on patients with COVID-19 pneumonia.&#xD;
+&#xD;
+      The purpose of this protocol is to explore the safety and efficiency of aerosol inhalation of&#xD;
+      the exosomes in the treatment of severe patients hospitalized with novel coronavirus&#xD;
+      pneumonia (NCP).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">July 20, 2020</start_date>
+  <completion_date type="Actual">October 20, 2020</completion_date>
+  <primary_completion_date type="Actual">October 1, 2020</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>The trial has three groups, each with 10 subjects (n=30). All eligible study subjects will be randomized, double-blinded, to either the two treatment groups or placebo group.</intervention_model_description>
+    <primary_purpose>Other</primary_purpose>
+    <masking>Double (Participant, Care Provider)</masking>
+    <masking_description>Two main groups will be provided with exosomes in a specially provided solution, the third group (control) will receive the same solution without exosomes. Due to exosomes are nanoparticles and requires special methods and devices to be detected the hospital staff and patients have no way to check which group receives exosomes.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants With Non-serious and Serious Adverse Events During Trial</measure>
+    <time_frame>30 days after clinic discharge</time_frame>
+    <description>Safety assessment such as adverse events will be registered. Adverse events will be monitored during all trial</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants With Non-serious and Serious Adverse During Inhalation Procedure</measure>
+    <time_frame>after each inhalation during 10 days</time_frame>
+    <description>Safety assessments such as adverse events during the inhalation procedures will be registered.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to Clinical Recovery (TTCR)</measure>
+    <time_frame>from first inhalation until discharge from the clinic, up to 30 days</time_frame>
+    <description>Measure and compare time to clinical recovery compared to placebo. Time to clinical recovery calculated by the number of days the patient has hospitalized.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SpO2 Concentration</measure>
+    <time_frame>10 days during inhalation</time_frame>
+    <description>The concentration of SpO2 by Pulse oximetry device during procedures in the groups. The measure was done before and after each inhalation (total 4 measures per day). The intraday SpO2 data of all patients in groups was calculated as Median with Inter-Quartile Range and presented in the table by days.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>C-reactive Protein</measure>
+    <time_frame>At the begining of inhalation (day 1) and on next day of last inhalation (day 11)</time_frame>
+    <description>Blood biochemistry C reactive protein level in serum.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lactic Acid Dehydrogenase (LDH)</measure>
+    <time_frame>At the beginning of inhalation (day 1) and on next day of last inhalation (day 11)</time_frame>
+    <description>Lactic Acid Dehydrogenase (LDH) level in serum</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">30</enrollment>
+  <condition>Covid19</condition>
+  <condition>SARS-CoV-2 PNEUMONIA</condition>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>EXO-1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants (n=10) in this group will receive standard therapy and exosomes of the first type.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>EXO-2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants (n=10) in this group will receive standard therapy and exosomes of the second type.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants (n=10) in this group will receive standard therapy and inhalation placebo solution.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>EXO 1 inhalation</intervention_name>
+    <description>Twice a day during 10 days inhalation of 3 ml special solution contained 0.5-2x10^10 of nanoparticles (exosomes) of the first type.</description>
+    <arm_group_label>EXO-1</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>EXO 2 inhalation</intervention_name>
+    <description>Twice a day during 10 days inhalation of 3 ml special solution contained 0.5-2x10^10 of nanoparticles (exosomes) of the second type.</description>
+    <arm_group_label>EXO-2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo inhalation</intervention_name>
+    <description>Twice a day during 10 days inhalation of 3 ml special solution free of nanoparticles (exosomes).</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Ability to understand the study objectives and risks and provide signed and dated&#xD;
+             informed consent;&#xD;
+&#xD;
+          -  Confirmed COVID-19 infection (by PCR or antibody test);&#xD;
+&#xD;
+          -  Pneumonia requiring hospitalization, and oxygen saturation of &lt;94% indoors or a need&#xD;
+             for auxiliary oxygen. The confirmed volume of lung damage by CT: not less than 30% and&#xD;
+             not more than 80%;&#xD;
+&#xD;
+          -  ability to proceed with inhalation by self;&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Severe respiratory failure at the time of screening due to COVID-19 pneumonia;&#xD;
+&#xD;
+          -  Known to undergo medical resuscitation for 14 days before randomization;&#xD;
+&#xD;
+          -  Any serious medical condition or deviation of the clinical laboratory parameter that,&#xD;
+             in the opinion of the researcher, prevents safe participation and completion of the&#xD;
+             study by the participant Confirmed uncontrolled active bacterial, fungal, viral or&#xD;
+             other infection (other than SARS-CoV-2).&#xD;
+&#xD;
+          -  According to the researcher, the progression to death is inevitable and will occur&#xD;
+             within the next 24 hours, regardless of the therapy.&#xD;
+&#xD;
+          -  The life expectancy of fewer than 28 days, taking into account a medical condition&#xD;
+             already existing that cannot be corrected, e.g. participants with the following&#xD;
+             conditions or suspicions: polyorganic insufficiency, poorly controlled neoplasms,&#xD;
+             terminal stage heart disease, cardiopulmonary cardiac arrest that required&#xD;
+             cardiopulmonary resuscitation, or electrical activity not accompanied by a pulse, or&#xD;
+             asystole within the last 30 days, terminal stage liver disease, terminal stage liver&#xD;
+             disease, or liver disease;&#xD;
+&#xD;
+          -  Pregnancy or breastfeeding;&#xD;
+&#xD;
+          -  Liver function failure (Class C for Child-Pugh), detected within 24 hours at screening&#xD;
+             (local laboratory);&#xD;
+&#xD;
+          -  Absolute neutrophil count (ANC) &lt;500 cells/µL at screening (local laboratory);&#xD;
+&#xD;
+          -  Platelet count &lt;50000 cells/µL at screening (based on laboratory data);&#xD;
+&#xD;
+          -  Creatinine level ≥ 1.5 from the upper limit;&#xD;
+&#xD;
+          -  Uncontrolled or untreated arrhythmia with clinical manifestations, myocardial&#xD;
+             infarction within the last 6 weeks or congestive heart failure (NYHA Degrees 3 or 4);&#xD;
+&#xD;
+          -  Respiratory failure in the last 6 months or home use of oxygen in severe chronic&#xD;
+             respiratory disease (COPD);&#xD;
+&#xD;
+          -  Quadriplegia;&#xD;
+&#xD;
+          -  Primary immunodeficiency, tuberculosis, progressive multifocal leukoencephalopathy,&#xD;
+             aspergillosis or other invasive mold/fungal infection in anamnesis, or internal or&#xD;
+             bone marrow transplantation for 6 months before randomization;&#xD;
+&#xD;
+          -  Known infection with hepatitis B or C viruses requiring therapy;&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Medical Centre Dinasty</name>
+      <address>
+        <city>Samara</city>
+        <zip>443095</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Russian Federation</country>
+  </location_countries>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>July 27, 2020</study_first_submitted>
+  <study_first_submitted_qc>July 27, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">July 29, 2020</study_first_posted>
+  <results_first_submitted>October 21, 2020</results_first_submitted>
+  <results_first_submitted_qc>October 28, 2020</results_first_submitted_qc>
+  <results_first_posted type="Actual">November 4, 2020</results_first_posted>
+  <last_update_submitted>October 28, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 28, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 4, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Covid-19</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>exosomes</keyword>
+  <keyword>MSC</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia</mesh_term>
+  </condition_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>July 6, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/40/NCT04491240/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>EXO-1</title>
+          <description>Participants (n=10) in this group will receive standard therapy and exosomes of the first type.&#xD;
+EXO 1 inhalation: Twice a day during 10 days inhalation of 3 ml special solution contained 0.5-2x10^10 of nanoparticles (exosomes) of the first type.</description>
+        </group>
+        <group group_id="P2">
+          <title>EXO-2</title>
+          <description>Participants (n=10) in this group will receive standard therapy and exosomes of the second type.&#xD;
+EXO 2 inhalation: Twice a day during 10 days inhalation of 3 ml special solution contained 0.5-2x10^10 of nanoparticles (exosomes) of the second type.</description>
+        </group>
+        <group group_id="P3">
+          <title>Placebo</title>
+          <description>Participants (n=10) in this group will receive standard therapy and inhalation placebo solution.&#xD;
+Placebo inhalation: Twice a day during 10 days inhalation of 3 ml special solution free of nanoparticles (exosomes).</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="10"/>
+                <participants group_id="P2" count="10"/>
+                <participants group_id="P3" count="10"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="10"/>
+                <participants group_id="P2" count="10"/>
+                <participants group_id="P3" count="10"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>EXO-1</title>
+          <description>Participants (n=10) in this group will receive standard therapy and exosomes of the first type.&#xD;
+EXO 1 inhalation: Twice a day during 10 days inhalation of 3 ml special solution contained 0.5-2x10^10 of nanoparticles (exosomes) of the first type.</description>
+        </group>
+        <group group_id="B2">
+          <title>EXO-2</title>
+          <description>Participants (n=10) in this group will receive standard therapy and exosomes of the second type.&#xD;
+EXO 2 inhalation: Twice a day during 10 days inhalation of 3 ml special solution contained 0.5-2x10^10 of nanoparticles (exosomes) of the second type.</description>
+        </group>
+        <group group_id="B3">
+          <title>Placebo</title>
+          <description>Participants (n=10) in this group will receive standard therapy and inhalation placebo solution.&#xD;
+Placebo inhalation: Twice a day during 10 days inhalation of 3 ml special solution free of nanoparticles (exosomes).</description>
+        </group>
+        <group group_id="B4">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="10"/>
+            <count group_id="B2" value="10"/>
+            <count group_id="B3" value="10"/>
+            <count group_id="B4" value="30"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="10"/>
+                    <count group_id="B2" value="10"/>
+                    <count group_id="B3" value="10"/>
+                    <count group_id="B4" value="30"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                    <measurement group_id="B2" value="10"/>
+                    <measurement group_id="B3" value="10"/>
+                    <measurement group_id="B4" value="30"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Full Range</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="10"/>
+                    <count group_id="B2" value="10"/>
+                    <count group_id="B3" value="10"/>
+                    <count group_id="B4" value="30"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="47.9" lower_limit="29" upper_limit="62"/>
+                    <measurement group_id="B2" value="52.5" lower_limit="39" upper_limit="60"/>
+                    <measurement group_id="B3" value="53.3" lower_limit="38" upper_limit="64"/>
+                    <measurement group_id="B4" value="51.23" lower_limit="29" upper_limit="64"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="10"/>
+                    <count group_id="B2" value="10"/>
+                    <count group_id="B3" value="10"/>
+                    <count group_id="B4" value="30"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="8"/>
+                    <measurement group_id="B3" value="5"/>
+                    <measurement group_id="B4" value="19"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="5"/>
+                    <measurement group_id="B4" value="11"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race and Ethnicity Not Collected</title>
+          <population>Race and Ethnicity were not collected from any participant.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="0"/>
+                    <count group_id="B2" value="0"/>
+                    <count group_id="B3" value="0"/>
+                    <count group_id="B4" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B4" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>Russia</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="10"/>
+                    <count group_id="B2" value="10"/>
+                    <count group_id="B3" value="10"/>
+                    <count group_id="B4" value="30"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="10"/>
+                    <measurement group_id="B2" value="10"/>
+                    <measurement group_id="B3" value="10"/>
+                    <measurement group_id="B4" value="30"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants With Non-serious and Serious Adverse Events During Trial</title>
+        <description>Safety assessment such as adverse events will be registered. Adverse events will be monitored during all trial</description>
+        <time_frame>30 days after clinic discharge</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>EXO-1</title>
+            <description>Participants (n=10) in this group will receive standard therapy and exosomes of the first type.&#xD;
+EXO 1 inhalation: Twice a day during 10 days inhalation of 3 ml special solution contained 0.5-2x10^10 of nanoparticles (exosomes) of the first type.</description>
+          </group>
+          <group group_id="O2">
+            <title>EXO-2</title>
+            <description>Participants (n=10) in this group will receive standard therapy and exosomes of the second type.&#xD;
+EXO 2 inhalation: Twice a day during 10 days inhalation of 3 ml special solution contained 0.5-2x10^10 of nanoparticles (exosomes) of the second type.</description>
+          </group>
+          <group group_id="O3">
+            <title>Placebo</title>
+            <description>Participants (n=10) in this group will receive standard therapy and inhalation placebo solution.&#xD;
+Placebo inhalation: Twice a day during 10 days inhalation of 3 ml special solution free of nanoparticles (exosomes).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With Non-serious and Serious Adverse Events During Trial</title>
+          <description>Safety assessment such as adverse events will be registered. Adverse events will be monitored during all trial</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+                <count group_id="O2" value="10"/>
+                <count group_id="O3" value="10"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Number of participants with serious adverse events during trial</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Number of participants with non-serious adverse events during trial</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants With Non-serious and Serious Adverse During Inhalation Procedure</title>
+        <description>Safety assessments such as adverse events during the inhalation procedures will be registered.</description>
+        <time_frame>after each inhalation during 10 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>EXO-1</title>
+            <description>Participants (n=10) in this group will receive standard therapy and exosomes of the first type.&#xD;
+EXO 1 inhalation: Twice a day during 10 days inhalation of 3 ml special solution contained 0.5-2x10^10 of nanoparticles (exosomes) of the first type.</description>
+          </group>
+          <group group_id="O2">
+            <title>EXO-2</title>
+            <description>Participants (n=10) in this group will receive standard therapy and exosomes of the second type.&#xD;
+EXO 2 inhalation: Twice a day during 10 days inhalation of 3 ml special solution contained 0.5-2x10^10 of nanoparticles (exosomes) of the second type.</description>
+          </group>
+          <group group_id="O3">
+            <title>Placebo</title>
+            <description>Participants (n=10) in this group will receive standard therapy and inhalation placebo solution.&#xD;
+Placebo inhalation: Twice a day during 10 days inhalation of 3 ml special solution free of nanoparticles (exosomes).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants With Non-serious and Serious Adverse During Inhalation Procedure</title>
+          <description>Safety assessments such as adverse events during the inhalation procedures will be registered.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+                <count group_id="O2" value="10"/>
+                <count group_id="O3" value="10"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Temperature increase</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Bronchospasm</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>allergic reaction in the form of swelling Quincke, rash, seizures, etc.</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Other</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Time to Clinical Recovery (TTCR)</title>
+        <description>Measure and compare time to clinical recovery compared to placebo. Time to clinical recovery calculated by the number of days the patient has hospitalized.</description>
+        <time_frame>from first inhalation until discharge from the clinic, up to 30 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>EXO-1</title>
+            <description>Participants (n=10) in this group will receive standard therapy and exosomes of the first type.&#xD;
+EXO 1 inhalation: Twice a day during 10 days inhalation of 3 ml special solution contained 0.5-2x10^10 of nanoparticles (exosomes) of the first type.</description>
+          </group>
+          <group group_id="O2">
+            <title>EXO-2</title>
+            <description>Participants (n=10) in this group will receive standard therapy and exosomes of the second type.&#xD;
+EXO 2 inhalation: Twice a day during 10 days inhalation of 3 ml special solution contained 0.5-2x10^10 of nanoparticles (exosomes) of the second type.</description>
+          </group>
+          <group group_id="O3">
+            <title>Placebo</title>
+            <description>Participants (n=10) in this group will receive standard therapy and inhalation placebo solution.&#xD;
+Placebo inhalation: Twice a day during 10 days inhalation of 3 ml special solution free of nanoparticles (exosomes).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time to Clinical Recovery (TTCR)</title>
+          <description>Measure and compare time to clinical recovery compared to placebo. Time to clinical recovery calculated by the number of days the patient has hospitalized.</description>
+          <units>days</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+                <count group_id="O2" value="10"/>
+                <count group_id="O3" value="10"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="13.8" spread="1.55"/>
+                    <measurement group_id="O2" value="14.8" spread="2.35"/>
+                    <measurement group_id="O3" value="14.1" spread="1.37"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>SpO2 Concentration</title>
+        <description>The concentration of SpO2 by Pulse oximetry device during procedures in the groups. The measure was done before and after each inhalation (total 4 measures per day). The intraday SpO2 data of all patients in groups was calculated as Median with Inter-Quartile Range and presented in the table by days.</description>
+        <time_frame>10 days during inhalation</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>EXO-1</title>
+            <description>Participants (n=10) in this group will receive standard therapy and exosomes of the first type.&#xD;
+EXO 1 inhalation: Twice a day during 10 days inhalation of 3 ml special solution contained 0.5-2x10^10 of nanoparticles (exosomes) of the first type.</description>
+          </group>
+          <group group_id="O2">
+            <title>EXO-2</title>
+            <description>Participants (n=10) in this group will receive standard therapy and exosomes of the second type.&#xD;
+EXO 2 inhalation: Twice a day during 10 days inhalation of 3 ml special solution contained 0.5-2x10^10 of nanoparticles (exosomes) of the second type.</description>
+          </group>
+          <group group_id="O3">
+            <title>Placebo</title>
+            <description>Participants (n=10) in this group will receive standard therapy and inhalation placebo solution.&#xD;
+Placebo inhalation: Twice a day during 10 days inhalation of 3 ml special solution free of nanoparticles (exosomes).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>SpO2 Concentration</title>
+          <description>The concentration of SpO2 by Pulse oximetry device during procedures in the groups. The measure was done before and after each inhalation (total 4 measures per day). The intraday SpO2 data of all patients in groups was calculated as Median with Inter-Quartile Range and presented in the table by days.</description>
+          <units>O2 concentration in percent</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+                <count group_id="O2" value="10"/>
+                <count group_id="O3" value="10"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="93.8" lower_limit="93.5" upper_limit="94"/>
+                    <measurement group_id="O2" value="94.5" lower_limit="93.6" upper_limit="94.9"/>
+                    <measurement group_id="O3" value="94" lower_limit="94" upper_limit="94.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 2</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="94.8" lower_limit="94" upper_limit="95"/>
+                    <measurement group_id="O2" value="95.3" lower_limit="94.1" upper_limit="95.9"/>
+                    <measurement group_id="O3" value="96" lower_limit="95.6" upper_limit="96"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="95.3" lower_limit="95" upper_limit="95.5"/>
+                    <measurement group_id="O2" value="95.5" lower_limit="94.6" upper_limit="95.9"/>
+                    <measurement group_id="O3" value="96" lower_limit="95.1" upper_limit="96.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 4</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="95.5" lower_limit="95.1" upper_limit="95.9"/>
+                    <measurement group_id="O2" value="96" lower_limit="95.6" upper_limit="96.9"/>
+                    <measurement group_id="O3" value="96.5" lower_limit="96" upper_limit="96.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 5</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="96" lower_limit="95.3" upper_limit="96.4"/>
+                    <measurement group_id="O2" value="96.5" lower_limit="95.6" upper_limit="96.9"/>
+                    <measurement group_id="O3" value="97.3" lower_limit="96.6" upper_limit="97.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 6</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="96" lower_limit="96" upper_limit="96.9"/>
+                    <measurement group_id="O2" value="97" lower_limit="96.3" upper_limit="97"/>
+                    <measurement group_id="O3" value="97" lower_limit="97" upper_limit="97.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 7</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="96.8" lower_limit="96.5" upper_limit="97.5"/>
+                    <measurement group_id="O2" value="97.5" lower_limit="97" upper_limit="97.5"/>
+                    <measurement group_id="O3" value="97.5" lower_limit="97" upper_limit="97.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 8</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="97.3" lower_limit="97" upper_limit="98"/>
+                    <measurement group_id="O2" value="97.3" lower_limit="97" upper_limit="97.9"/>
+                    <measurement group_id="O3" value="98.3" lower_limit="97.1" upper_limit="98.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 9</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="97.3" lower_limit="97" upper_limit="98"/>
+                    <measurement group_id="O2" value="97.8" lower_limit="97" upper_limit="99"/>
+                    <measurement group_id="O3" value="98.5" lower_limit="98.1" upper_limit="98.9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 10</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="97.8" lower_limit="97.1" upper_limit="98.8"/>
+                    <measurement group_id="O2" value="98.5" lower_limit="97.6" upper_limit="99"/>
+                    <measurement group_id="O3" value="98.8" lower_limit="98" upper_limit="99"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>C-reactive Protein</title>
+        <description>Blood biochemistry C reactive protein level in serum.</description>
+        <time_frame>At the begining of inhalation (day 1) and on next day of last inhalation (day 11)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>EXO-1</title>
+            <description>Participants (n=10) in this group will receive standard therapy and exosomes of the first type.&#xD;
+EXO 1 inhalation: Twice a day during 10 days inhalation of 3 ml special solution contained 0.5-2x10^10 of nanoparticles (exosomes) of the first type.</description>
+          </group>
+          <group group_id="O2">
+            <title>EXO-2</title>
+            <description>Participants (n=10) in this group will receive standard therapy and exosomes of the second type.&#xD;
+EXO 2 inhalation: Twice a day during 10 days inhalation of 3 ml special solution contained 0.5-2x10^10 of nanoparticles (exosomes) of the second type.</description>
+          </group>
+          <group group_id="O3">
+            <title>Placebo</title>
+            <description>Participants (n=10) in this group will receive standard therapy and inhalation placebo solution.&#xD;
+Placebo inhalation: Twice a day during 10 days inhalation of 3 ml special solution free of nanoparticles (exosomes).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>C-reactive Protein</title>
+          <description>Blood biochemistry C reactive protein level in serum.</description>
+          <units>mg/L</units>
+          <param>Mean</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+                <count group_id="O2" value="10"/>
+                <count group_id="O3" value="10"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Day 1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="78.3" lower_limit="4.3" upper_limit="299"/>
+                    <measurement group_id="O2" value="75.4" lower_limit="5.7" upper_limit="137"/>
+                    <measurement group_id="O3" value="61.5" lower_limit="11.6" upper_limit="147"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Day 11</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5.04" lower_limit="0.5" upper_limit="12.5"/>
+                    <measurement group_id="O2" value="5.83" lower_limit="0.4" upper_limit="32.1"/>
+                    <measurement group_id="O3" value="8.29" lower_limit="0.4" upper_limit="41.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+            </group_id_list>
+            <groups_desc>The study results were statistically processed using STATA version 9.0, Statistica for Windows version 6.0. Changes from the beginning of inhalation and after were compared using the T-test for depended group criterion, data between the main group and the control group were compared using the non-parametric method, box-plot. The data in the table presented as a Mean with full range (min-max). The difference calculated as Mean difference with 95% confidence interval and Standard Deviation (SD)</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.020875</p_value>
+            <method>t-test, 2 sided</method>
+            <param_type>Mean Difference (Net)</param_type>
+            <param_value>73.29000</param_value>
+            <dispersion_type>Standard Deviation</dispersion_type>
+            <dispersion_value>82.91404</dispersion_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>13.97687</ci_lower_limit>
+            <ci_upper_limit>132.6031</ci_upper_limit>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>The study results were statistically processed using STATA version 9.0, Statistica for Windows version 6.0. Changes from the beginning of inhalation and after were compared using the T-test for depended group criterion, data between the main group and the control group were compared using the non-parametric method, box-plot. The data in the table presented as a Mean with full range (min-max). The difference calculated as Mean difference with 95% confidence interval and Standard Deviation (SD)</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.000953</p_value>
+            <method>t-test, 2 sided</method>
+            <param_type>Mean Difference (Net)</param_type>
+            <param_value>69.56000</param_value>
+            <dispersion_type>Standard Deviation</dispersion_type>
+            <dispersion_value>45.67648</dispersion_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>36.88502</ci_lower_limit>
+            <ci_upper_limit>102.2350</ci_upper_limit>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O3</group_id>
+            </group_id_list>
+            <groups_desc>The study results were statistically processed using STATA version 9.0, Statistica for Windows version 6.0. Changes from the beginning of inhalation and after were compared using the T-test for depended group criterion, data between the main group and the control group were compared using the non-parametric method, box-plot. The data in the table presented as a Mean with full range (min-max). The difference calculated as Mean difference with 95% confidence interval and Standard Deviation (SD)</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.002233</p_value>
+            <method>t-test, 2 sided</method>
+            <param_type>Mean Difference (Net)</param_type>
+            <param_value>53.21000</param_value>
+            <dispersion_type>Standard Deviation</dispersion_type>
+            <dispersion_value>39.85531</dispersion_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>24.69923</ci_lower_limit>
+            <ci_upper_limit>81.72077</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Lactic Acid Dehydrogenase (LDH)</title>
+        <description>Lactic Acid Dehydrogenase (LDH) level in serum</description>
+        <time_frame>At the beginning of inhalation (day 1) and on next day of last inhalation (day 11)</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>EXO-1</title>
+            <description>Participants (n=10) in this group will receive standard therapy and exosomes of the first type.&#xD;
+EXO 1 inhalation: Twice a day during 10 days inhalation of 3 ml special solution contained 0.5-2x10^10 of nanoparticles (exosomes) of the first type.</description>
+          </group>
+          <group group_id="O2">
+            <title>EXO-2</title>
+            <description>Participants (n=10) in this group will receive standard therapy and exosomes of the second type.&#xD;
+EXO 2 inhalation: Twice a day during 10 days inhalation of 3 ml special solution contained 0.5-2x10^10 of nanoparticles (exosomes) of the second type.</description>
+          </group>
+          <group group_id="O3">
+            <title>Placebo</title>
+            <description>Participants (n=10) in this group will receive standard therapy and inhalation placebo solution.&#xD;
+Placebo inhalation: Twice a day during 10 days inhalation of 3 ml special solution free of nanoparticles (exosomes).</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Lactic Acid Dehydrogenase (LDH)</title>
+          <description>Lactic Acid Dehydrogenase (LDH) level in serum</description>
+          <units>U/L</units>
+          <param>Mean</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="10"/>
+                <count group_id="O2" value="10"/>
+                <count group_id="O3" value="10"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>at Day 1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="773" lower_limit="383" upper_limit="1285"/>
+                    <measurement group_id="O2" value="732" lower_limit="380" upper_limit="1867"/>
+                    <measurement group_id="O3" value="669" lower_limit="333" upper_limit="1260"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>at Day 11</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="441" lower_limit="280" upper_limit="740"/>
+                    <measurement group_id="O2" value="365" lower_limit="30.4" upper_limit="648"/>
+                    <measurement group_id="O3" value="430" lower_limit="306" upper_limit="686"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+            </group_id_list>
+            <groups_desc>The study results were statistically processed using STATA version 9.0, Statistica for Windows version 6.0. Changes from the beginning of inhalation and after were compared using the T-test for depended group criterion, data between the main group and the control group were compared using the non-parametric method, box-plot. The data in the table presented as a Mean with full range (min-max). The difference calculated as Mean difference with 95% confidence interval and Standard Deviation (SD)</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.008948</p_value>
+            <method>t-test, 2 sided</method>
+            <param_type>Mean Difference (Net)</param_type>
+            <param_value>331.5200</param_value>
+            <dispersion_type>Standard Deviation</dispersion_type>
+            <dispersion_value>315.8230</dispersion_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>105.5938</ci_lower_limit>
+            <ci_upper_limit>557.4462</ci_upper_limit>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>The study results were statistically processed using STATA version 9.0, Statistica for Windows version 6.0. Changes from the beginning of inhalation and after were compared using the T-test for depended group criterion, data between the main group and the control group were compared using the non-parametric method, box-plot. The data in the table presented as a Mean with full range (min-max). The difference calculated as Mean difference with 95% confidence interval and Standard Deviation (SD)</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.020921</p_value>
+            <method>t-test, 2 sided</method>
+            <param_type>Mean Difference (Net)</param_type>
+            <param_value>366.6300</param_value>
+            <dispersion_type>Standard Deviation</dispersion_type>
+            <dispersion_value>414.9726</dispersion_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>69.77651</ci_lower_limit>
+            <ci_upper_limit>663.4835</ci_upper_limit>
+          </analysis>
+          <analysis>
+            <group_id_list>
+              <group_id>O3</group_id>
+            </group_id_list>
+            <groups_desc>The study results were statistically processed using STATA version 9.0, Statistica for Windows version 6.0. Changes from the beginning of inhalation and after were compared using the T-test for depended group criterion, data between the main group and the control group were compared using the non-parametric method, box-plot. The data in the table presented as a Mean with full range (min-max). The difference calculated as Mean difference with 95% confidence interval and Standard Deviation (SD)</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.004873</p_value>
+            <method>t-test, 2 sided</method>
+            <param_type>Mean Difference (Net)</param_type>
+            <param_value>239.2000</param_value>
+            <dispersion_type>Standard Deviation</dispersion_type>
+            <dispersion_value>204.0934</dispersion_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>93.20037</ci_lower_limit>
+            <ci_upper_limit>385.1996</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>During medical procedures and 1-month post-discharge from the clinic.</time_frame>
+      <desc>Collection of information on unwanted reactions to inhalation after each inhalation, e.g. 1) temperature increase, 2) allergic reaction in the form of Quincke's disease, rash, seizures, etc.; 3) bronchospasm for inhalation.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>EXO-1</title>
+          <description>Participants (n=10) in this group will receive standard therapy and exosomes of the first type.&#xD;
+EXO 1 inhalation: Twice a day during 10 days inhalation of 3 ml special solution contained 0.5-2x10^10 of nanoparticles (exosomes) of the first type.</description>
+        </group>
+        <group group_id="E2">
+          <title>EXO-2</title>
+          <description>Participants (n=10) in this group will receive standard therapy and exosomes of the second type.&#xD;
+EXO 2 inhalation: Twice a day during 10 days inhalation of 3 ml special solution contained 0.5-2x10^10 of nanoparticles (exosomes) of the second type.</description>
+        </group>
+        <group group_id="E3">
+          <title>Placebo</title>
+          <description>Participants (n=10) in this group will receive standard therapy and inhalation placebo solution.&#xD;
+Placebo inhalation: Twice a day during 10 days inhalation of 3 ml special solution free of nanoparticles (exosomes).</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="10"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="10"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="10"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Immune system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Allergic reactions</sub_title>
+                <description>Allergic reactions in the form of Quincke's disease, rash, seizures were assessed after each inhalation.</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="10"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Injury, poisoning and procedural complications</title>
+            <event_list>
+              <event>
+                <sub_title>Temperature increase</sub_title>
+                <description>Increase in body temperature after each inhalation.</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="10"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Bronchospasm</sub_title>
+                <description>bronchospasm for inhalation after the procedure were assessed after inhalation</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="10"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="10"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Tyumina Olga</name_or_title>
+      <organization>MC Dinasty</organization>
+      <phone>+78462039808 ext 201</phone>
+      <email>centr123@bk.ru</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

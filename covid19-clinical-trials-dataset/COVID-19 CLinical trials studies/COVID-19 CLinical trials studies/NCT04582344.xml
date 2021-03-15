@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="291">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04582344</url>
+  </required_header>
+  <id_info>
+    <org_study_id>9026-ASI</org_study_id>
+    <nct_id>NCT04582344</nct_id>
+  </id_info>
+  <brief_title>Clinical Trial For SARS-CoV-2 Vaccine (COVID-19)</brief_title>
+  <official_title>Randomized, Double-Blind, Placebo-Controlled Phase III Clinical Trial For Evaluation of Efficacy and Safety of SARS-CoV-2 Vaccine (Vero Cell), Inactivated</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Health Institutes of Turkey</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Health Institutes of Turkey</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is a randomized, double-blinded, and placebo controlled phase III clinical trial&#xD;
+      of the SARS-CoV-2 inactivated vaccine manufactured by Sinovac Research &amp; Development Co.,&#xD;
+      Ltd. The purpose of this study is to evaluate the efficacy, safety and immunogenicity of the&#xD;
+      experimental vaccine in healthy adults aged 18~59 Years.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study is a randomized, double-blinded, multi-center, placebo-controlled phase III&#xD;
+      clinical trial in adults aged 18~59 years. The purpose of this study is to evaluate the&#xD;
+      efficacy, safety and immunogenicity of the experimental SARS-CoV-2 inactivated vaccine. The&#xD;
+      experimental vaccine and placebo were both manufactured by Sinovac Research &amp; Development&#xD;
+      Co., Ltd. A total of 13.000 subjects will be enrolled. Participant will be assigned to&#xD;
+      receive two doses of experimental vaccine or placebo on the schedule of day 0,14. It is&#xD;
+      planned that the study will be conducted with two separate cohorts. The first cohort will be&#xD;
+      healthcare workers in the high risk group (K-1) and the second cohort will be people at&#xD;
+      normal risk (K-2). After 2 doses of vaccination of 1300 volunteers are completed, safety data&#xD;
+      will be evaluated by the data safety monitoring board without breaking the blinding, and if&#xD;
+      there is no safety issue, the K2 cohort will continue to be vaccinated.1.300 volunteers,&#xD;
+      including 650 volunteers SARS-CoV-2 vaccine and placebo arms, will be included in the K-1&#xD;
+      cohort. In the K-2 cohort (normal risk group for COVID-19), 7.650 volunteers were planned to&#xD;
+      be included in the SARS-CoV-2 vaccine group, and 3.500 volunteers in the placebo group.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 14, 2020</start_date>
+  <completion_date type="Anticipated">April 15, 2021</completion_date>
+  <primary_completion_date type="Anticipated">February 15, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Randomized, Double-Blind, Placebo-Controlled Phase III Clinical Trial</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+    <masking_description>Double-Blind</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Protection Indexes of Two Vaccine Doses For Symptomatic COVID-19</measure>
+    <time_frame>2 weeks after the second dose of vaccination</time_frame>
+    <description>The protection rate of a two-dose of SARS-CoV-2 (Vero Cell) vaccine against RT-PCR confirmed symptomatic COVID-19</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Protection Indexes of One Vaccine Dose For Symptomatic COVID-19</measure>
+    <time_frame>2 weeks after the second dose of vaccination</time_frame>
+    <description>The protection rate of, at least, one dose of SARS-CoV-2 (Vero Cell) vaccine against RT-PCR confirmed symptomatic COVID-19 Two weeks after the last dose vaccination.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Protection Indexes of Second Vaccine Dose For Hospitalization, Disease Severity/and Death</measure>
+    <time_frame>2 weeks after the second dose of vaccination</time_frame>
+    <description>The protection rate of a two-dose of SARS-CoV-2 (Vero Cell) vaccine against rates of hospitalization, disease severity/and death two weeks after the second dose of vaccination</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Protection Indexes of Two Vaccine Doses For SARS-CoV-2 infection</measure>
+    <time_frame>2 weeks after the second dose of vaccination</time_frame>
+    <description>The protection rate of a two dose of SARS-CoV-2 (Vero Cell) vaccine against RT-PCR confirmed SARS-CoV-2 infection two weeks after the second dose of vaccination</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety indexes of adverse reactions in 28 days</measure>
+    <time_frame>28 days after the second dose of vaccination</time_frame>
+    <description>The incidence of adverse reactions from the day of first vaccination to 28 days after the second dose of vaccination.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety indexes of adverse reactions in 7 days</measure>
+    <time_frame>7 days after each dose of vaccination</time_frame>
+    <description>The incidence of adverse reactions within 7 days after each dose of vaccination</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety indexes of serious adverse events in 1 year</measure>
+    <time_frame>1 year after second dose of vaccination</time_frame>
+    <description>The incidence of SAEs from the first vaccination to one year after the second dose vaccination</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Immunogenicity parameters (seroconversion rate, seropositivity rate) in 14 days</measure>
+    <time_frame>14 days after each dose vaccination</time_frame>
+    <description>The seroconversion rate, seropositivity rate 14 days after each dose vaccination</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Immunogenicity parameters (seroconversion rate, seropositivity rate) in 28 days</measure>
+    <time_frame>28 days after the second dose vaccination</time_frame>
+    <description>The seroconversion rate, seropositive rate 28 days after the second dose vaccination</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Immunogenicity parameters (GMT and GMI of neutralizing antibody and IgG) in 14 days</measure>
+    <time_frame>14 days after each dose vaccination</time_frame>
+    <description>GMT and GMI of neutralizing antibody and IgG 14 days after each dose vaccination</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Immunogenicity parameters (GMT and GMI of neutralizing antibody and IgG) in 28 days</measure>
+    <time_frame>28 days after the second dose vaccination</time_frame>
+    <description>GMT and GMI of neutralizing antibody and IgG 28 days after the second dose vaccination</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">13000</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>SARS-COV-2 Vaccine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>600 SU of SARS-CoV-2 virus antigen, intramuscular injection, two doses given 14 days apart.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Aluminium hydroxide, disodium hydrogen phosphate, sodium dihydrogen phosphate, sodium chloride 0.5mL/dose, intramuscular injection, two doses given 14 days apart.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>CoronaVac</intervention_name>
+    <description>Two doses at 14-day interval, each inoculation dose is 0.5 mL. Two doses of dosage (each prefilled syringe of the vaccine contains 600 SU of SARS-CoV-2 virus antigen) experimental vaccine at the schedule of day 0,14</description>
+    <arm_group_label>SARS-COV-2 Vaccine</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Aluminium hydroxide, disodium hydrogen phosphate, sodium dihydrogen phosphate, sodium chloride 0.5mL/dose, two doses given 14 days apart.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  18-59 years of age (including 18 and 59 years of ages),&#xD;
+&#xD;
+          -  For only K1 cohort, health care workers such as medical doctor, nurse, ward boy,&#xD;
+             cleaner, hospital technician, administrative personnel who work in any department of a&#xD;
+             hospital.&#xD;
+&#xD;
+          -  Signed informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Previously PCR positive for COVID-19&#xD;
+&#xD;
+          -  IgG or IgM is positive&#xD;
+&#xD;
+          -  For females: Pregnancy (confirmed by positive beta-hCG test), breastfeeding or intent&#xD;
+             to engage in sexual relations with reproductive intent without use of birth control&#xD;
+             methods in the three months following vaccination&#xD;
+&#xD;
+          -  Known allergy to components of the study vaccine or control&#xD;
+&#xD;
+          -  Use of immunosuppressant therapy regimens within the six months prior to enrollment in&#xD;
+             the study or planned use within the two years following enrollment. Immunosuppressant&#xD;
+             therapy regimens include: antineoplastic chemotherapy, radiation therapy and&#xD;
+             immunosuppressants to induce transplant tolerance, among others&#xD;
+&#xD;
+          -  Use of immunosuppressive doses of corticosteroids within the three months prior to the&#xD;
+             enrollment in the study and planned use of immunosuppressive doses of corticoids&#xD;
+             within the three months following enrollment in the study. Immunosuppressive doses of&#xD;
+             corticosteroids will be considered the equivalent prednisone 20 mg/day for adults, for&#xD;
+             longer than one week. Continued use of topical or nasal corticosteroids is not&#xD;
+             considered an immunosuppressant&#xD;
+&#xD;
+          -  History of asplenia&#xD;
+&#xD;
+          -  History of bleeding disorder (e.g. factor deficiency, coagulopathy or platelet&#xD;
+             disorder), or prior history of significant bleeding or bruising following IM&#xD;
+             injections or venipuncture&#xD;
+&#xD;
+          -  Any alcohol or drug abuse over the 12 months prior to enrollment in the study that has&#xD;
+             caused medical, professional or family problems, indicated by clinical history&#xD;
+&#xD;
+          -  Administration of immunoglobulins and/or any blood products within the three months&#xD;
+             preceding the planned administration of the vaccine candidate&#xD;
+&#xD;
+          -  Participation in another clinical trial with an investigational product in the six&#xD;
+             months prior to enrollment in the study or planned participation in another clinical&#xD;
+             trial within the two years following enrollment&#xD;
+&#xD;
+          -  Received live attenuated virus vaccine 14 days prior to enrollment in the study&#xD;
+&#xD;
+          -  Inactivated vaccine or sub unit vaccine 7 days prior to enrollment in the study&#xD;
+&#xD;
+          -  Fever (oral temperature &gt;37.2℃, axillary temperature will not be accepted) within the&#xD;
+             past 24 hours&#xD;
+&#xD;
+          -  Any other condition that, in the opinion of the principal investigator or his/her&#xD;
+             representative physician, could put the safety/rights of potential participants at&#xD;
+             risk or prevent them from complying with this protocol.&#xD;
+&#xD;
+          -  Any confirmed or suspected autoimmune disease or immunodeficiency disease, including&#xD;
+             human immunodeficiency virus (HIV) infection.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>59 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Murat Akova, Prof.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Faculty Member</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Murat Akova, Prof.</last_name>
+    <phone>+90 (312) 305 12 96</phone>
+    <email>makova@hacettepe.edu.tr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Serhat Ünal, Prof.</last_name>
+    <phone>+90 (312) 305 12 96</phone>
+    <email>sunal@hacettepe.edu.tr</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>T.R. Ministry of Health Ankara City Hospital, Infectious Diseases and Clinical Microbiology Clinic</name>
+      <address>
+        <city>Ankara</city>
+        <state>Turkey Region</state>
+        <zip>06800</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hatice Rahmet Güner, Prof.</last_name>
+      <phone>+90 (312) 552 60 00</phone>
+      <email>rahmetguner@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Hatice Rahmet Güner, Prof.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>T.R. Ministry of Health Ankara Provincial Health Directorate Ankara Training and Research Hospital, Infectious Diseases</name>
+      <address>
+        <city>Ankara</city>
+        <state>Turkey Region</state>
+        <zip>06800</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Fatma Şebnem Erdinç, Prof.</last_name>
+      <phone>+90 (312) 595 30 00</phone>
+      <email>seberd67@yahoo.com</email>
+    </contact>
+    <investigator>
+      <last_name>Fatma Şebnem Erdinç, Prof.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Ankara University Faculty of Medicine, Department of Infectious Diseases and Clinical Microbiology</name>
+      <address>
+        <city>Ankara</city>
+        <state>Turkey Region</state>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alpay Azap, Prof.</last_name>
+      <phone>+90 (312) 508 26 81</phone>
+      <email>azap@medicine.ankara.edu.tr</email>
+    </contact>
+    <investigator>
+      <last_name>Alpay Azap, Prof.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Çukurova University Faculty of Medicine, Department of Infectious Diseases</name>
+      <address>
+        <city>Adana</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yeşim Taşova, Prof.</last_name>
+      <phone>+90 (322) 338 60 60</phone>
+      <email>ytasova@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Yeşim Taşova, Prof.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hacettepe University Faculty of Medicine Department of Infections Diseases and Clinical Microbiology</name>
+      <address>
+        <city>Ankara</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Murat Akova, Professor</last_name>
+      <phone>+90 (312) 305 12 96</phone>
+      <email>makova@hacettepe.edu.tr</email>
+    </contact>
+    <investigator>
+      <last_name>Murat Akova, Professor</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>T.C Ministry of Health Ankara Provincial Health Directorate Health Sciences University Ankara Atatürk Chest Diseases and Thoracic Surgery Training and Research Hospital</name>
+      <address>
+        <city>Ankara</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Aydın Yılmaz, Prof.</last_name>
+      <phone>+90 (312) 567 70 00</phone>
+      <email>aydinyilmaz587@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Aydın Yılmaz, Prof.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Bursa Uludağ University Faculty of Medicine, Department of Infectious Diseases and Clinical Microbiology</name>
+      <address>
+        <city>Bursa</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Emin Halis Akalın, Prof.</last_name>
+      <phone>+90 (224) 295 00 00</phone>
+      <email>halis@uludag.edu.tr</email>
+    </contact>
+    <investigator>
+      <last_name>Emin Halis Akalın, Prof.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Dicle University Faculty of Medicine, Department of Infectious Diseases and Clinical Microbiology</name>
+      <address>
+        <city>Diyarbakır</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mustafa Kemal Çelen, Prof.</last_name>
+      <phone>+90 (412) 248 80 01</phone>
+      <email>mkcelen@hotmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Mustafa Kemal Çelen, Prof.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Gaziantep University Faculty of Medicine, Department of Infectious Diseases and Clinical Microbiology</name>
+      <address>
+        <city>Gaziantep</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>İlkay Karaoğlan, Prof.</last_name>
+      <phone>+90 (342) 360 60 60</phone>
+      <email>ikaraoglan10@hotmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>İlkay Karaoğlan, Prof.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Acıbadem Atakent Hospital, Infectious Diseases and Clinical Microbiology</name>
+      <address>
+        <city>Istanbul</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>İftihar Köksal, Prof.</last_name>
+      <phone>+90 (0212) 404 44 44</phone>
+      <email>iftihar@yahoo.com</email>
+    </contact>
+    <investigator>
+      <last_name>İftihar Köksal, Prof.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Altınbaş University Medical Park Bahçelievler Infectious Diseases and Microbiology</name>
+      <address>
+        <city>Istanbul</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gülgün Dilek Arman, Prof.</last_name>
+      <phone>+90 (212) 484 14 84</phone>
+      <email>dilek.arman@mlpcare.com</email>
+    </contact>
+    <investigator>
+      <last_name>Gülgün Dilek Arman, Prof.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Cerrahpaşa Faculty of Medicine, Department of Internal Medicine - Department of Infectious Diseases and Clinical Microbiology</name>
+      <address>
+        <city>Istanbul</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ömer Fehmi Tabak, Prof.</last_name>
+      <phone>+90 (212) 414 20 00</phone>
+      <email>fehmitabak@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Ömer Fehmi Tabak, Prof.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Istanbul Medipol University Faculty of Medicine, Department of Internal Medicine</name>
+      <address>
+        <city>Istanbul</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ali Mert, Prof.</last_name>
+      <phone>+90 (212) 444 70 44</phone>
+      <email>alimert@medipol.edu.tr</email>
+    </contact>
+    <investigator>
+      <last_name>Ali Mert, Prof.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Istanbul University Istanbul Faculty of Medicine, Department of Infectious Diseases and Clinical Microbiology</name>
+      <address>
+        <city>Istanbul</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Serap Şimşek Yavuz, Prof.</last_name>
+      <phone>+90 (212) 414 20 00</phone>
+      <email>serapsimsekyavuz@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Serap Şimşek Yavuz, Prof.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>T.R. Ministry of Health Istanbul Provincial Health Directorate Marmara Univesity Istanbul Pendik Education and Research Hospital</name>
+      <address>
+        <city>Istanbul</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Volkan Korten, Prof.</last_name>
+      <phone>+90 (216) 625 45 45</phone>
+      <email>vkorten@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Volkan Korten, Prof.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>T.R. Ministry of Health Istanbul Provincial Health Directorate Prof. Dr. Cemil Taşçıoğlu City Hospital, Infectious Diseases Clinic</name>
+      <address>
+        <city>Istanbul</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Taner Yıldırmak, Assoc. Prof.</last_name>
+      <phone>+90 (212) 314 55 55</phone>
+      <email>mtanery@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Assoc. Prof.</last_name>
+    </contact_backup>
+    <investigator>
+      <last_name>Taner Yıldırmak, Prof.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>T.R. Ministry of Health Istanbul Yedikule Chest Diseases and Thoracic Surgery Training and Research Hospital</name>
+      <address>
+        <city>Istanbul</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sedat Altın, Prof.</last_name>
+      <phone>+90 (212) 409 02 00</phone>
+      <email>draltinsedat@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Sedat Altın, Prof.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Ege University Faculty of Medicine Hospital, Department of Infectious Diseasesaculty of Medicine Hospital, Department of Infectious Diseases</name>
+      <address>
+        <city>İzmir</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hüsnü Pullukçu, Prof.</last_name>
+      <phone>+90 (232) 444 13 43</phone>
+      <email>husnup@yahoo.com</email>
+    </contact>
+    <investigator>
+      <last_name>Hüsnü Pullukçu, Prof.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Republic Of Turkey Ministry Of Health Izmir Provincial Health Directorate Health Sciences University Dr Suat Seren Chest Diseases And Chest Surgery Training And Research Hospital</name>
+      <address>
+        <city>İzmir</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Özgür Batum, Specialist</last_name>
+      <phone>+90 (232) 433 33 33</phone>
+      <email>ozgurbat@yahoo.com</email>
+    </contact>
+    <investigator>
+      <last_name>Özgür Batum, Specialist</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>T.R. Ministry of Health İzmir Provincial Health Directorate İzmir Health Sciences University Tepecik Training and Research Hospital, Infectious Diseases</name>
+      <address>
+        <city>İzmir</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Şükran Köse, Prof.</last_name>
+      <phone>+90 (232) 469 69 69</phone>
+      <email>sukrankose@yahoo.com</email>
+    </contact>
+    <investigator>
+      <last_name>Şükran Köse, Prof.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>T.R. Ministry of Health Kayseri City Training and Research Hospital, Infectious Diseases and Clinical Microbiology Department</name>
+      <address>
+        <city>Kayseri</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>İlhami Çelik, Prof.</last_name>
+      <phone>+90 (352) 315 77 00</phone>
+      <email>ilhamicelik@hotmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>İlhami Çelik, Prof.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Kocaeli University Faculty of Medicine, Department of Infectious Diseases and Clinical Microbiology</name>
+      <address>
+        <city>Kocaeli</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sıla Akhan, Prof.</last_name>
+      <phone>+90 (262) 303 7563</phone>
+      <email>cetinakhan@yahoo.com.tr</email>
+    </contact>
+    <investigator>
+      <last_name>Sıla Akhan, Prof.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Malatya İnönü University Faculty of Medicine, Department of Infectious Diseases</name>
+      <address>
+        <city>Malatya</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yaşar Bayındır, Prof.</last_name>
+      <phone>+90 (422) 341 06 60</phone>
+      <email>yasarb44@hotmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Yaşar Bayındır, Prof.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Karadeniz Technical University Medical Faculty Hospital, Department of Infectious Diseases and Clinical Microbiology</name>
+      <address>
+        <city>Trabzon</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gürdal Yılmaz, Prof.</last_name>
+      <phone>+90 (462) 377 50 00</phone>
+      <email>gurdalyilmaz53@yahoo.com</email>
+    </contact>
+    <investigator>
+      <last_name>Gürdal Yılmaz, Prof.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Turkey</country>
+  </location_countries>
+  <reference>
+    <citation>Gao Q, Bao L, Mao H, Wang L, Xu K, Yang M, Li Y, Zhu L, Wang N, Lv Z, Gao H, Ge X, Kan B, Hu Y, Liu J, Cai F, Jiang D, Yin Y, Qin C, Li J, Gong X, Lou X, Shi W, Wu D, Zhang H, Zhu L, Deng W, Li Y, Lu J, Li C, Wang X, Yin W, Zhang Y, Qin C. Development of an inactivated vaccine candidate for SARS-CoV-2. Science. 2020 Jul 3;369(6499):77-81. doi: 10.1126/science.abc1932. Epub 2020 May 6.</citation>
+    <PMID>32376603</PMID>
+  </reference>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>October 1, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 8, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 9, 2020</study_first_posted>
+  <last_update_submitted>October 8, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 8, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 9, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19, SARS-CoV-2 Vaccine</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

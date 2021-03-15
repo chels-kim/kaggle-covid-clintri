@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1449">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04636333</url>
+  </required_header>
+  <id_info>
+    <org_study_id>JSVCT096</org_study_id>
+    <nct_id>NCT04636333</nct_id>
+  </id_info>
+  <brief_title>Phase I Trial of a Recombinant COVID-19 Vaccine (CHO Cell)</brief_title>
+  <official_title>Safety and Immunogenicity of a Recombinant COVID-19 Vaccine (CHO Cell) in Healthy Population Aged 18 Years and Older: A Phase I Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Jiangsu Province Centers for Disease Control and Prevention</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Academy of Military Medical Sciences，Academy of Military Sciences，PLA</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>ZHONGYIANKE Biotech Co, Ltd.</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>LIAONINGMAOKANGYUAN Biotech Co, Ltd</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Jiangsu Province Centers for Disease Control and Prevention</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a phase I, randomized, placebo-controlled, double-blind study, to evaluate safety and&#xD;
+      immunogenicity of a recombinant SARS-CoV-2 vaccine (CHO cell) in Chinese healthy population&#xD;
+      aged 18 years and older. After randomization, the trial for each subject will last for&#xD;
+      approximately 13 months. Screening period is 1 week prior to randomization (Day -7 to Day&#xD;
+      -1), and each dose of either SARS-CoV-2 vaccine (CHO Cell) or placebo will be given&#xD;
+      intramuscularly (IM) on Day 0 and Day 14 for a two-dose regimen, or on Day 0, Day 14, and Day&#xD;
+      28 for a three-dose regimen. Subjects who are ≥18 years old and ≤ 59 years old will be&#xD;
+      enrolled in adult group, and healthy elderly population who are &gt;59 years old will be&#xD;
+      enrolled in elderly group. After adult group completes the follow-up 7 days after first&#xD;
+      vaccination, elderly group will be recruited.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a phase I, randomized, placebo-controlled, double-blind study, to evaluate safety and&#xD;
+      immunogenicity of a recombinant SARS-CoV-2 vaccine (CHO cell) in Chinese healthy population&#xD;
+      aged 18 years and older. Healthy adults who are ≥18 years old and ≤59 years old will be&#xD;
+      enrolled in the adult group and healthy elderly population who are &gt;59 years old will be&#xD;
+      enrolled in the elderly group. To ensure the enrollment of healthy subjects, screening tests&#xD;
+      (hematology, biochemistry, and urinalysis) will be performed prior to the vaccination. In the&#xD;
+      adults group, there are four regimen cohort: middle-dose at 0, 14 schedule, high-dose at 0,&#xD;
+      14 schedule, middle-dose at 0,14, 28 schedule and high-dose at 0,14,28 schedule. In the&#xD;
+      elderly group, there are two regimen cohort: middle-dose at 0,14, 28 schedule and high-dose&#xD;
+      at 0,14,28 schedule. The subjects in regimen cohort will be randomized to receive vaccines or&#xD;
+      placebos at a ratio of 2:1.&#xD;
+&#xD;
+      The study will set up an Independent Data Monitoring Committee (IDMC) to conduct overall&#xD;
+      supervision. The IDMC is required to review the unblinded data when a significant event or&#xD;
+      risk occurs in the study that might cause the study to be suspended.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 30, 2020</start_date>
+  <completion_date type="Anticipated">January 7, 2022</completion_date>
+  <primary_completion_date type="Anticipated">April 7, 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Triple (Participant, Care Provider, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The proportion of adverse reactions (AR) up to Day 28 after prime and boost vaccination of the recombinant SARS-CoV-2 vaccine (CHO cell) or placebo.</measure>
+    <time_frame>28 days after first dose</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The proportion of adverse events (AE) within 7 days after each dose of the recombinant SARS-CoV-2 vaccine (CHO cell) or placebo.</measure>
+    <time_frame>7 days after each dose</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The proportion of abnormal markers of hematology, blood chemistry and urine analysis within 3 days after each dose of the recombinant SARS-CoV-2 vaccine (CHO cell) or placebo</measure>
+    <time_frame>3 days after each dose</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The proportion of serious adverse events up to Month 12 after prime and boost vaccination.</measure>
+    <time_frame>Month 12 after prime and boost vaccination</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The proportion of neutralizing antibody positive conversion rate, positive rate, GMT and GMI at Day 14, Day 21, Day 28, Day 42 after prime vaccination of recombinant SARS-CoV-2 vaccine (CHO cell) or placebo.#Day 0, Day 14 vaccination program#</measure>
+    <time_frame>Day 14, Day 21, Day 28, Day 42 after prime vaccination</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The proportion of IgG antibody positive rate at Day 14, Day 21, Day 28, Day 42 after prime vaccination of recombinant SARS-CoV-2 vaccine (CHO cell) or placebo.#Day 0, Day 14 vaccination program#</measure>
+    <time_frame>Day 14, Day 21, Day 28, Day 42 after prime vaccination</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The proportion of neutralizing antibody positive conversion rate, positive rate, GMT and GM at Day 28, Day 35, Day 42, Day 56 after prime vaccination of recombinant SARS-CoV-2 vaccine (CHO cell) or placebo.#Day 0, Day 14 ,Day 28 vaccination program#</measure>
+    <time_frame>Day 28, Day 35, Day 42, Day 56 after prime vaccination</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>The proportion of IgG antibody positive rate at Day 28, Day 35, Day 42, Day 56 after prime vaccination of recombinant SARS-CoV-2 vaccine (CHO cell) or placebo.#Day 0, Day 14 ,Day 28 vaccination program#</measure>
+    <time_frame>Day 28, Day 35, Day 42, Day 56 after prime vaccination</time_frame>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>The proportion of IFN-γ secreted by T cells at Day 14 after prime vaccination of recombinant SARS-CoV-2 vaccine (CHO cell) or placebo using ELISpot detection method</measure>
+    <time_frame>Day 14 after prime vaccination of recombinant SARS-CoV-2 vaccine (CHO cell) or placebo</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Changes in serum cytokine (IL2, IL6) levels from baseline after 3 days of each dose</measure>
+    <time_frame>3 days of each dose</time_frame>
+    <description>The units of IL2 and IL6 are both pg/ml</description>
+  </other_outcome>
+  <other_outcome>
+    <measure>The proportion of neutralizing antibody and the GMT up to Month 3 after the whole process of vaccination</measure>
+    <time_frame>Month 3 after the whole process of vaccination</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>The proportion of neutralizing antibody and the GMT up to Month 6 after the whole process of vaccination</measure>
+    <time_frame>Month 6 after the whole process of vaccination</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>The proportion of neutralizing antibody and the GMT up to Month12 after the whole process of vaccination</measure>
+    <time_frame>Month 12 after the whole process of vaccination</time_frame>
+  </other_outcome>
+  <number_of_arms>12</number_of_arms>
+  <enrollment type="Anticipated">216</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Middle-dose vaccine (18-59 years) &amp; Two dose regimen</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Two doses of middle-dose experimental vaccine at the schedule of day 0, 14.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Middle-dose vaccine (18-59 years) &amp; Three dose regimen</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Three doses of middle-dose experimental vaccine at the schedule of day 0, 14 28.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>High-dose vaccine (18-59 years) &amp; Two dose regimen</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Two doses of high-dose experimental vaccine at the schedule of day 0, 14.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>High-dose vaccine (18-59 years) &amp; Three dose regimen</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Two doses of High-dose vaccine at the schedule of day 0, 14, 28.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Middle-dose vaccine (&gt; 59 years) &amp; Three dose regimen</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Three doses of middle-dose experimental vaccine at the schedule of day 0, 14, 28.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>High-dose vaccine (&gt; 59 years) &amp; Three dose regimen</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Three doses of high-dose experimental vaccine at the schedule of day 0, 14, 28.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Middle-dose placebo (18-59 years) &amp; Two dose regimen</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Two doses of middle-dose placebo at the schedule of day 0, 14.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Middle-dose placebo (18-59 years) &amp; Three dose regimen</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Three doses of middle-dose placebo at the schedule of day 0, 14, 28.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>High-dose placebo (18-59 years) &amp; Two dose regimen</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Two doses of high-dose placebo at the schedule of day 0, 14.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>High-dose placebo (18-59 years) &amp; Three dose regimen</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Three doses of high-dose placebo at the schedule of day 0, 14, 28.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Middle-dose placebo (&gt; 59 years) &amp; Three dose regimen</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Three doses of high-dose placebo at the schedule of day 0, 14, 28.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>High-dose placebo (&gt; 59 years) &amp; Three dose regimen</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Three doses of high-dose placebo at the schedule of day 0, 14, 28.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Two doses of middle-dose recombinant SARS-CoV-2 vaccine (CHO Cell) at the schedule of day 0, 14</intervention_name>
+    <description>Two doses of middle-dose (20µg/0.5ml) recombinant SARS-CoV-2 vaccine (CHO Cell) at the schedule of day 0, 14.</description>
+    <arm_group_label>Middle-dose vaccine (18-59 years) &amp; Two dose regimen</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Three doses of middle-dose recombinant SARS-CoV-2 vaccine (CHO Cell) at the schedule of day 0, 14, 28</intervention_name>
+    <description>Three doses of middle-dose (20µg/0.5ml) recombinant SARS-CoV-2 vaccine (CHO Cell) at the schedule of day 0, 14, 28.</description>
+    <arm_group_label>Middle-dose vaccine (18-59 years) &amp; Three dose regimen</arm_group_label>
+    <arm_group_label>Middle-dose vaccine (&gt; 59 years) &amp; Three dose regimen</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Two doses of high-dose recombinant SARS-CoV-2 vaccine (CHO Cell) at the schedule of day 0, 14</intervention_name>
+    <description>Two doses of high-dose (40µg/0.5ml) recombinant SARS-CoV-2 vaccine (CHOCell) at the schedule of day 0, 14.</description>
+    <arm_group_label>High-dose vaccine (18-59 years) &amp; Two dose regimen</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Three doses of high-dose recombinant SARS-CoV-2 vaccine (CHO Cell) at the schedule of day 0, 14, 28</intervention_name>
+    <description>Three doses of middle-dose (40µg/0.5ml) recombinant SARS-CoV-2 vaccine (CHO Cell) at the schedule of day 0, 14, 28.</description>
+    <arm_group_label>High-dose vaccine (18-59 years) &amp; Three dose regimen</arm_group_label>
+    <arm_group_label>High-dose vaccine (&gt; 59 years) &amp; Three dose regimen</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Two doses of placebo at the schedule of day 0, 14 #middle-dose group#</intervention_name>
+    <description>Two doses of placebo (0.5ml) at the schedule of day 0, 14.</description>
+    <arm_group_label>Middle-dose placebo (18-59 years) &amp; Two dose regimen</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Three doses of placebo at the schedule of day 0, 14, 28 #middle-dose group#</intervention_name>
+    <description>Three doses of placebo (0.5ml) at the schedule of day 0, 14, 28.</description>
+    <arm_group_label>Middle-dose placebo (18-59 years) &amp; Three dose regimen</arm_group_label>
+    <arm_group_label>Middle-dose placebo (&gt; 59 years) &amp; Three dose regimen</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Two doses of placebo at the schedule of day 0, 14 #High-dose group#</intervention_name>
+    <description>Two doses of placebo (0.5ml) at the schedule of day 0, 14.</description>
+    <arm_group_label>High-dose placebo (18-59 years) &amp; Two dose regimen</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Three doses of placebo at the schedule of day 0, 14, 28 #High-dose group#</intervention_name>
+    <description>Three doses of placebo (0.5ml) at the schedule of day 0, 14, 28.</description>
+    <arm_group_label>High-dose placebo (18-59 years) &amp; Three dose regimen</arm_group_label>
+    <arm_group_label>High-dose placebo (&gt; 59 years) &amp; Three dose regimen</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Healthy subjects of ≥ 18 years old.&#xD;
+&#xD;
+          -  The subject can understand and voluntarily sign the informed consent.&#xD;
+&#xD;
+          -  The subject can The subject canprovide legal identification.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Have a history of close contact with a confirmed case of SARS-CoV-2, an asymptomatic&#xD;
+             infection in the previous 14 days, or a travel history/residential history in a&#xD;
+             community where a case has been reported.&#xD;
+&#xD;
+          -  Have a history of contact with a person infected with SARS-CoV-2(a person with a&#xD;
+             positive nucleic acid test) in the previous 14 days.&#xD;
+&#xD;
+          -  Patients with fever or respiratory symptoms who have been to middle or high-risk areas&#xD;
+             in the past 14 days or have exit history, or come from communities with case reports.&#xD;
+&#xD;
+          -  In the past 14 days, there have been 2 or more cases of fever and/or respiratory&#xD;
+             symptoms in small areas such as homes, offices, school classes, etc.&#xD;
+&#xD;
+          -  Have a history of SARS.&#xD;
+&#xD;
+          -  Have a history of SARS-CoV-2 infection.&#xD;
+&#xD;
+          -  Positive in SARS-CoV-2 IgG or IgM antibody screening.&#xD;
+&#xD;
+          -  Positive in RT-PCR test of SARS-CoV-2 in throat swab.&#xD;
+&#xD;
+          -  Positive in HIVantibody screening.&#xD;
+&#xD;
+          -  Women who are breastfeeding, pregnant, or planning to become pregnant during the study&#xD;
+             period (based on the subject's self-report and blood pregnancy test results for women&#xD;
+             of childbearing age), or men who plan to conceive their partners during the study&#xD;
+             period.&#xD;
+&#xD;
+          -  Subjects with body mass index (BMI) ≥35 kg/m2.&#xD;
+&#xD;
+          -  Have a history of asthma, a history of vaccine or vaccine component allergy, have&#xD;
+             serious adverse reactions to the vaccine, such as urticaria, dyspnea, angioedema.&#xD;
+&#xD;
+          -  Subjects with congenital malformations or developmental disorders, genetic defects,&#xD;
+             severe malnutrition, etc.&#xD;
+&#xD;
+          -  Subjects with autoimmune diseases or immunodeficiency/immunosuppression.&#xD;
+&#xD;
+          -  Subjects with severe chronic diseases, severe cardiovascular diseases, hypertension&#xD;
+             and diabetes that cannot be controlled by drugs, liver and kidney diseases, malignant&#xD;
+             tumors, etc.&#xD;
+&#xD;
+          -  Subjects with severe neurological disease (epilepsy, convulsions or convulsions) or&#xD;
+             mental illness.&#xD;
+&#xD;
+          -  Subjects with thyroid disease or history of thyroidectomy, no spleen, functional&#xD;
+             asthenia, and any spleen or splenectomy caused by any condition.&#xD;
+&#xD;
+          -  Abnormal blood coagulation function diagnosed by a doctor (such as coagulation factor&#xD;
+             deficiency, coagulopathy, abnormal platelet) or obvious bruise or coagulation&#xD;
+             disorder.&#xD;
+&#xD;
+          -  Have received immunosuppressant therapy, cytotoxic therapy, and inhaled&#xD;
+             corticosteroids in the past 6 months (excluding corticosteroid spray therapy for&#xD;
+             allergic rhinitis and surface corticosteroid therapy for acute non-complicated&#xD;
+             dermatitis).&#xD;
+&#xD;
+          -  Physical examination or chest CT imaging reveals clinically significant abnormalities.&#xD;
+&#xD;
+          -  Abnormal laboratory test results such as hematology and biochemistry that are beyond&#xD;
+             the reference value range and have clinical significance.&#xD;
+&#xD;
+               1. Routine blood test: white blood cell count, hemoglobin, platelet count.&#xD;
+&#xD;
+               2. Blood biochemical index detection: alanine aminotransferase (ALT), aspartate&#xD;
+                  aminotransferase (AST), fasting blood glucose, C-reactive protein, total&#xD;
+                  bilirubin (TBIL), creatinine (CR), creatine phosphokinase (CPK).&#xD;
+&#xD;
+               3. Urine routine indicators: urine protein (PRO), urine sugar, urine red blood&#xD;
+                  cells.&#xD;
+&#xD;
+               4. Coagulation function test: prothrombin time (PT), activated partial&#xD;
+                  thromboplastin time (APTT), thrombin time (TT), fibrinogen (FIB).&#xD;
+&#xD;
+          -  Have a long history of alcohol or drug abuse.&#xD;
+&#xD;
+          -  Received blood products within 3 months before receiving trial vaccine.&#xD;
+&#xD;
+          -  Received other study drugs within 30 days before receiving the trail vaccine.&#xD;
+&#xD;
+          -  Received a live attenuated vaccine within 14 days before receiving the experimental&#xD;
+             vaccine.&#xD;
+&#xD;
+          -  Received a subunit or inactivated vaccine within 7 days before receiving the&#xD;
+             experimental vaccine.&#xD;
+&#xD;
+          -  Various acute or chronic diseases occurred in the past 7 days.&#xD;
+&#xD;
+          -  Axillary body temperature&gt;37.0℃ before vaccination.&#xD;
+&#xD;
+          -  According to the judgment of the investigator, the subject has any other factors that&#xD;
+             are not suitable for participating in the clinical trial.&#xD;
+&#xD;
+        Exclusion criteria of subsequent dose:&#xD;
+&#xD;
+        If one of the following (1) to (4) adverse events (AE) occurs, the vaccination is&#xD;
+        prohibited, but other research steps can be continued according to the investigator's&#xD;
+        judgment; if one of the following (5), (6) adverse events occurs , The investigator will&#xD;
+        judge whether to inoculate; if one of the following events (7) to (10) occurs, the&#xD;
+        vaccination can be postponed within the time window specified in the plan.&#xD;
+&#xD;
+          -  (1)The subjects used the same vaccine other than the experimental vaccine during the&#xD;
+             study.&#xD;
+&#xD;
+          -  (2)Any serious adverse reactions that are causally related to vaccination.&#xD;
+&#xD;
+          -  (3)Severe allergic or hypersensitivity reactions after vaccination (including&#xD;
+             urticaria/skin rash within 30 minutes after vaccination).&#xD;
+&#xD;
+          -  (4)Any confirmed or suspected autoimmune disease or immunodeficiency disease,&#xD;
+             including human immunodeficiency virus (HIV) infection.&#xD;
+&#xD;
+          -  (5)Acute or new-onset chronic disease after vaccination.&#xD;
+&#xD;
+          -  (6)Other reactions (including severe pain, severe swelling, severe activity&#xD;
+             limitation, persistent high fever, severe headache, or other systemic or local&#xD;
+             reactions) are judged by the investigator.&#xD;
+&#xD;
+          -  (7)Acute illness at the time of vaccination (Acute illness refers to moderate or&#xD;
+             severe illness with or without fever).&#xD;
+&#xD;
+          -  (8)Axillary temperature &gt;37.0℃ before vaccination.&#xD;
+&#xD;
+          -  (9)Vaccination of subunit vaccine or inactivated vaccine within 7 days, live&#xD;
+             attenuated vaccine within 14 days.&#xD;
+&#xD;
+          -  (10)According to the investigator's judgment, the subject has any other factors that&#xD;
+             are not suitable for vaccination.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Fengcai Zhu, Doctor</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Jiangsu Provincial Center for Disease Control and Prevention</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Fanyue Meng, Doctor</last_name>
+    <phone>18915999245</phone>
+    <email>mfy19780712@163.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Jiangsu Provincial Center for Diseases Control and Prevention</name>
+      <address>
+        <city>Nanjing</city>
+        <state>Jiangsu</state>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mingwei Wei</last_name>
+      <phone>15950529760</phone>
+      <email>wnmcwmw@163.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>November 17, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 17, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 19, 2020</study_first_posted>
+  <last_update_submitted>January 6, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 6, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Safety</keyword>
+  <keyword>Tolerability</keyword>
+  <keyword>Immunogenicity</keyword>
+  <keyword>SARS-CoV-2 Vaccine</keyword>
+  <keyword>Recombinant vaccine</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vaccines</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

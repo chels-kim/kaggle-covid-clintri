@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1776">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04668950</url>
+  </required_header>
+  <id_info>
+    <org_study_id>202011101</org_study_id>
+    <nct_id>NCT04668950</nct_id>
+  </id_info>
+  <brief_title>Fluvoxamine for Early Treatment of Covid-19 (Stop Covid 2)</brief_title>
+  <official_title>Fluvoxamine for Early Treatment of Covid-19: a Fully-remote, Randomized Placebo Controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Washington University School of Medicine</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Covid-19 Early Treatment Fund</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>McGill University Health Centre Department of Medicine Clinical Practice Assessment Unit</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Washington University School of Medicine</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this research study is to determine if a drug called fluvoxamine can be used&#xD;
+      early in the course of the COVID-19 infection to prevent more serious complications like&#xD;
+      shortness of breath. Fluvoxamine is an anti-depressant drug approved by the FDA for the&#xD;
+      treatment of obsessive-compulsive disorder. The use of fluvoxamine for the treatment of&#xD;
+      COVID-19 is considered investigational, which means the US Food and Drug Administration has&#xD;
+      not approved it for this use.&#xD;
+&#xD;
+      This study is fully-remote, which means that there is no face-to-face contact; study&#xD;
+      materials including study drug will be shipped to participants' houses. People around the&#xD;
+      United States and Canada can participate.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The investigators will randomize approximately 880 participants, age 18 and older, who have&#xD;
+      tested tested positive for COVID-19 and are currently experiencing mild symptoms. People&#xD;
+      around the United States and Canada can participate. All interactions for this study will be&#xD;
+      conducted remotely by videoconferencing, email, or phone.&#xD;
+&#xD;
+      Screening: All participants will first complete a pre-screen to see if they may be eligible&#xD;
+      for the study. Once a participant is confirmed eligible and consented, the study team will&#xD;
+      send the study materials. These materials will consist of study medication and&#xD;
+      self-monitoring equipment, including an oxygen saturation monitor, blood pressure monitor,&#xD;
+      and thermometer.&#xD;
+&#xD;
+      RCT: Participants will be randomly assigned (1:1) to take either fluvoxamine or a placebo.&#xD;
+      This phase of the study will last approximately 15 days and is double-blinded. Participants&#xD;
+      will take up to 100mg of fluvoxamine or placebo by mouth twice a day for a daily total of&#xD;
+      200mg. Participants will continue this dose for approximately 15 days. Depending on&#xD;
+      tolerability, the dose may be adjusted. Participants will also complete short 5 minute&#xD;
+      assessments daily to report the results of self-monitoring (including oxygen level, blood&#xD;
+      pressure, and temperature), a shortness of breath rating and any adverse events.&#xD;
+&#xD;
+      Follow-up Phase: The study team will follow participants for approximately 90 days after the&#xD;
+      end of the randomized phase. If needed, the study team will review medical records to&#xD;
+      determine the clinical course of participants.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 22, 2020</start_date>
+  <completion_date type="Anticipated">September 2021</completion_date>
+  <primary_completion_date type="Anticipated">July 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Clinical deterioration</measure>
+    <time_frame>RCT-approximately 15 days</time_frame>
+    <description>Defined as both of the following: 1)Presence of dyspnea and/or hospitalization for shortness of breath or pneumonia, 2)) decrease in O2 saturation (&lt;92% on room air) and/or supplemental oxygen requirement to keep O2 saturation ≥92%).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Post Covid Functioning</measure>
+    <time_frame>Day 15 and Day 90</time_frame>
+    <description>Self report post Covid Functioning using the PROMIS Global Health Scale. It is a 10-item patient-reported questionnaire in which the response options are presented as 5-point, and one 11-point, rating scales. Higher scores indicate better health.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">1100</enrollment>
+  <condition>Covid19</condition>
+  <condition>Coronavirus</condition>
+  <arm_group>
+    <arm_group_label>Fluvoxamine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Start fluvoxamine 50mg capsule once, then 100mg twice daily. May reduce dose for tolerability reasons. Will be followed in the RCT for approximately 15 days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Start placebo one capsule, twice daily. May reduce dose for tolerability reasons. Will be followed in RCT for approximately 15 days.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Fluvoxamine</intervention_name>
+    <description>Up to 200mg per day (2 capsules per day) as tolerated, for approximately 15 days</description>
+    <arm_group_label>Fluvoxamine</arm_group_label>
+    <other_name>Luvox</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Will take 2 capsules per day as tolerated for approximately 15 days</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Men and woman age 18 and older;&#xD;
+&#xD;
+          2. Not currently hospitalized&#xD;
+&#xD;
+          3. Proven SARS-CoV-2 positive (per lab or physician report).&#xD;
+&#xD;
+          4. Currently symptomatic with one or more of the following symptoms: fever, cough,&#xD;
+             myalgia, mild dyspnea, chest pain, diarrhea, nausea, vomiting, anosmia (inability to&#xD;
+             smell), ageusia (inability to taste), sore throat, nasal congestion.&#xD;
+&#xD;
+          5. Able to provide informed consent.&#xD;
+&#xD;
+          6. Upon initial screening, participant reports one of the following risk factors for&#xD;
+             clinical deterioration: age≥40, racial/ethnic group African-American, Hispanic, or&#xD;
+             Native American (including more than one race), or 1+ of the following medical&#xD;
+             conditions which increase risk for developing moderate-severe COVID illness: obesity,&#xD;
+             hypertension, diabetes, heart disease (coronary artery disease, history of myocardial&#xD;
+             infarction, or heart failure), lung disease (eg asthma, COPD), immune disorder (eg&#xD;
+             rheumatoid arthritis, lupus).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Illness severe enough to require hospitalization or already meeting study's primary&#xD;
+             endpoint for clinical worsening (eg current O2 saturation &lt;92% on room air, current&#xD;
+             use of supplemental oxygen to maintain O2 saturation ≥92%).&#xD;
+&#xD;
+          2. Unstable medical comorbidities (eg decompensated cirrhosis), per patient report and/or&#xD;
+             medical records.&#xD;
+&#xD;
+          3. Immunocompromised (solid organ transplant, BMT, AIDS, on immunological biologics&#xD;
+             and/or high dose steroids (&gt;20mg prednisone per day)&#xD;
+&#xD;
+          4. Already enrolled in another COVID 19 medication trial (not including vaccination or&#xD;
+             prophylaxis trials)&#xD;
+&#xD;
+          5. Unable to provide informed consent&#xD;
+&#xD;
+          6. Unable to perform the study procedures&#xD;
+&#xD;
+          7. Taking donepezil (rationale: donepezil is a S1R agonist), or sertraline (rationale:&#xD;
+             sertraline is a strong sigma-1 antagonist).&#xD;
+&#xD;
+          8. Taking warfarin-also known as Coumadin (rationale: increased risk of bleeding),&#xD;
+             phenytoin (rationale: fluvoxamine inhibits its metabolism), clopidogrel (rationale:&#xD;
+             fluvoxamine inhibits its metabolism from pro-drug to active drug which raises risk of&#xD;
+             cardiovascular events), and St John's wort (rationale: fluvoxamine + St John's wort&#xD;
+             are considered contraindicated because of the risk of serotonin syndrome)&#xD;
+&#xD;
+          9. Taking SSRIs, SNRIs, or tricyclic antidepressants, unless these are at a low dose such&#xD;
+             that a study investigator concludes that a clinically significant interaction with&#xD;
+             fluvoxamine (ie either serotonin syndrome or TCA overdose) is unlikely (examples:&#xD;
+             participant takes escitalopram but only at 5-10mg daily; that dose plus 200mg&#xD;
+             fluvoxamine would be insufficient to cause serotonin syndrome; or, participant takes&#xD;
+             amitriptyline but only at 25mg nightly; even if fluvoxamine inhibits its metabolism,&#xD;
+             it would be an insufficient dose to cause QTc prolongation or problematic side&#xD;
+             effects).&#xD;
+&#xD;
+         10. Individuals who report they have bipolar disorder or are taking medication for bipolar&#xD;
+             disorder (lithium, valproate, high-dose antipsychotic), unless the investigator&#xD;
+             concludes that the risk for mania is unlikely (ie it is doubtful that the patient&#xD;
+             actually has bipolar disorder).&#xD;
+&#xD;
+         11. Individuals who take alprazolam or diazepam and are unwilling to cut the medication by&#xD;
+             25% (rationale: fluvoxamine modestly inhibits the metabolism of these drugs).&#xD;
+&#xD;
+         12. Participants taking theophylline, tizanidine, clozapine, or olanzapine (drugs with a&#xD;
+             narrow therapeutic index that are primarily metabolized by CYP 1A2, which is inhibited&#xD;
+             by fluvoxamine) will be reviewed with a study investigator and excluded unless the&#xD;
+             investigator concludes that the risk to the participant is low (this would be&#xD;
+             unlikely; example: participant takes tizanidine only as needed and is willing to avoid&#xD;
+             it for the 15 days of the study).&#xD;
+&#xD;
+         13. Received vaccine for COVID-19.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Angela Stevens</last_name>
+    <phone>314-362-6291</phone>
+    <email>stevens.a@wustl.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Northwestern University</name>
+      <address>
+        <city>Evanston</city>
+        <state>Illinois</state>
+        <zip>60208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Washington University School of Medicine</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Angela Stevens</last_name>
+      <email>stevens.a@wustl.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Eric Lenze, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Angela Reiersen, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Utah</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84108</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Fred Hutchinson</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>McGill University Health Center</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H4A3S9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Emily McDonald, MD</last_name>
+      <email>emily.mcdonald@mcgill.ca</email>
+    </contact>
+    <investigator>
+      <last_name>Emily McDonald, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>December 11, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 11, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 16, 2020</study_first_posted>
+  <last_update_submitted>January 14, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 14, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 19, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Washington University School of Medicine</investigator_affiliation>
+    <investigator_full_name>Eric Lenze</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>fluvoxamine</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Fluvoxamine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

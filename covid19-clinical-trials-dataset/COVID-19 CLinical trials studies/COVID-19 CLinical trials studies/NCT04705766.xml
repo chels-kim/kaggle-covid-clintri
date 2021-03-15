@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2695">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04705766</url>
+  </required_header>
+  <id_info>
+    <org_study_id>KIDCOV2020</org_study_id>
+    <secondary_id>R01DK109720</secondary_id>
+    <nct_id>NCT04705766</nct_id>
+  </id_info>
+  <brief_title>KIDney Injury in Times of COVID-19 (KIDCOV)</brief_title>
+  <acronym>KIDCOV</acronym>
+  <official_title>The KIDCOV Study: ASSESSMENT of SARS-CoV-2 Without HOSPITALIZATION as a RISK FACTOR for ACUTE KIDNEY INJURY</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of California, San Francisco</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Rush University Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Michigan</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of California</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of California, San Francisco</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      There is an unmet need to evaluate the impact of sub-clinical/mild COVID19 disease in the&#xD;
+      outpatient setting on prevalent and incident renal injury, as this data is currently&#xD;
+      unavailable. To capture the diversity of race/ethnic risk and COVID19 related municipal&#xD;
+      shelter-in-place guidance, the investigators will enroll COVID19-negative and&#xD;
+      COVID19-positive samples balanced by race/ethnicity from 3 different states, California,&#xD;
+      Michigan, and Illinois. Study endpoints will be assayed from urine samples mailed to the&#xD;
+      study team at 2, 6, and 12 months after their date of PCR test, with no requirement for these&#xD;
+      individuals to leave their homes to participate.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      KIDCOV is a longitudinal cohort study that will prospectively follow cohorts of&#xD;
+      COVID19-negative and COVID19-positive adults for episodes of kidney injury over a 12-months&#xD;
+      period. Study candidates will be identified via site-specific electronic medical records&#xD;
+      (EMR) at seven academic medical centers in the U.S. within 4 weeks of a PCR-based test for&#xD;
+      SARS-Cov2. Screen-positive individuals will be contacted by email or text and invited to&#xD;
+      complete an online consent form documenting their willingness to participate. Participation&#xD;
+      will involve completion of questionnaires and return of urine samples in mailed collection&#xD;
+      kits at 2, 6, and 12 months after their date of PCR test. The primary endpoint will be the&#xD;
+      urine-based KIT Score, based on the composite measurement of multiple DNA, protein and&#xD;
+      metabolite urinary biomarkers (reference). Secondary endpoints include NGAL and KIM-1 urinary&#xD;
+      biomarkers for kidney injury assessment.&#xD;
+&#xD;
+      Early detection of new or worsening kidney injury is urgently needed in order to implement&#xD;
+      preventative measures and target therapeutics that can minimize excess post-COVID19 kidney&#xD;
+      damage. A complete and standardized understanding of the trajectory and risk factors for&#xD;
+      kidney injury associated with COVID19+ disease is critical to informing the design and&#xD;
+      implementation of preventative and therapeutic strategies for COVID19-mediated kidney injury.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 2021</start_date>
+  <completion_date type="Anticipated">January 2022</completion_date>
+  <primary_completion_date type="Anticipated">January 2022</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>1 Year</target_duration>
+  <primary_outcome>
+    <measure>Continuous, Quantitative KIT Score</measure>
+    <time_frame>1 year</time_frame>
+    <description>The 12-month continuous, quantitative Kidney Injury Test (KIT) score, measured on a scale of 0-100, where a higher urine-based KIT score correlates to worse kidney injury.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with a level of Kidney Injury Molecule-1 (KIM1) above 1 ng/ml</measure>
+    <time_frame>1 year</time_frame>
+    <description>Number of participants with a level of Kidney Injury Molecule-1 (KIM1) above 1 ng/ml, indicating the presence of kidney injury (higher value indicates worse kidney injury).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with a level of Neutrophil Gelatinase-Associated Lipocalin (NGAL) above 1 ng/ml</measure>
+    <time_frame>1 year</time_frame>
+    <description>Number of participants with a level of Neutrophil Gelatinase-Associated Lipocalin (NGAL) above 1 ng/ml, indicating the presence of kidney injury (higher value indicates worse kidney injury).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of participants with a level of soluble urokinase-type plasminogen activator receptor (suPAR) above 1 ng/ml</measure>
+    <time_frame>1 year</time_frame>
+    <description>Number of participants with a level of soluble urokinase-type plasminogen activator receptor (suPAR), indicating the presence of kidney injury (higher value indicates worse kidney injury).</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">2000</enrollment>
+  <condition>SARS-CoV Infection</condition>
+  <condition>Covid19</condition>
+  <condition>Corona Virus Infection</condition>
+  <condition>Acute Kidney Injury</condition>
+  <condition>Kidney Injury</condition>
+  <arm_group>
+    <arm_group_label>COVID-19 Negative</arm_group_label>
+    <description>Control group to measure progression of AKI/kidney injury overtime</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>COVID-19 Positive</arm_group_label>
+    <description>Study group to assess AKI trajectory/progression and associated risk factors of kidney injury with SARS-CoV-2 infection</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Urine Collection</intervention_name>
+    <description>A urine collection kit will be mailed to subjects' residence at 3 different timepoints over the course of 1 year to be returned to study team, upon which KIT score and other biomarkers will be assessed as outlined in the study design.</description>
+    <arm_group_label>COVID-19 Negative</arm_group_label>
+    <arm_group_label>COVID-19 Positive</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Participation will involve completion of questionnaires with return of urine samples in&#xD;
+      mailed collection kits at 2, 6, and 12 months after their date of PCR test.&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Individuals with current SARS-CoV-2 test result recorded in their electronic medical record&#xD;
+        (EMR) at a participating Academic Medical Center (AMC). EMR must also record: contact&#xD;
+        information (for inviting participation and mailing urine kits), age (to confirm 18+&#xD;
+        years), race and sex (to balance COVID- vs. COVID+ samples), current serum creatinine (an&#xD;
+        outcome), history of kidney transplant or dialysis (ineligible), and hospitalization up to&#xD;
+        4 weeks after SARS-CoV-2 test (ineligible).&#xD;
+&#xD;
+        By restricting eligibility to individuals not hospitalized within the month after their PCR&#xD;
+        test, the investigators study people at low risk of kidney injury, as the investigators&#xD;
+        survey a population of otherwise well people. This reflects the public health goal: To&#xD;
+        estimate excess risk of kidney injury among the &gt;80% of COVID19-infected individuals in&#xD;
+        whom the infection resolves without intensive healthcare intervention, in order to unveil&#xD;
+        an otherwise silent health burden on society.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Result of PCR-based COVID-19 test conducted in the past 4 weeks posted in EMR of&#xD;
+             participating AMC&#xD;
+&#xD;
+          -  Age 18 years or older at enrollment&#xD;
+&#xD;
+          -  Race/ethnicity, sex, age, and phone and/or home/email address provided&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Failure of a candidate participant to give written informed consent to comply with the&#xD;
+             study protocol&#xD;
+&#xD;
+          -  Hospitalization up to 4 weeks after SARS-CoV-2 test&#xD;
+&#xD;
+          -  History of kidney transplant&#xD;
+&#xD;
+          -  History of dialysis&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Minnie Sarwal, M.D., Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of California, San Francisco</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Tara Sigdel, Ph.D.</last_name>
+    <phone>4155027921</phone>
+    <email>tara.sigdel@ucsf.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Tariq Mukatash, B.A./B.S.</last_name>
+    <phone>4155140192</phone>
+    <email>tariq.mukatash@ucsf.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of California</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Tara Sigdel, PhD</last_name>
+      <phone>415-502-3561</phone>
+      <email>tara.sigdel@ucsf.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Tariq Mukatash, BA/BS</last_name>
+      <phone>(415)514-0192</phone>
+      <email>tariq.mukatash@ucsf.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Minnie Sarwal, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Rush University</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Beata Samelko</last_name>
+      <phone>312-942-0143</phone>
+      <email>beata_samelko@rush.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Jochen Reiser, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Michigan</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Pennelope Kunkle</last_name>
+      <phone>734-936-2813</phone>
+      <email>penegonz@med.umich.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Salim Hayek, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Watson D, Yang JYC, Sarwal RD, Sigdel TK, Liberto JM, Damm I, Louie V, Sigdel S, Livingstone D, Soh K, Chakraborty A, Liang M, Lin PC, Sarwal MM. A Novel Multi-Biomarker Assay for Non-Invasive Quantitative Monitoring of Kidney Injury. J Clin Med. 2019 Apr 12;8(4). pii: E499. doi: 10.3390/jcm8040499.</citation>
+    <PMID>31013714</PMID>
+  </reference>
+  <reference>
+    <citation>Yao Z, Zheng Z, Wu K, Junhua Z. Immune environment modulation in pneumonia patients caused by coronavirus: SARS-CoV, MERS-CoV and SARS-CoV-2. Aging (Albany NY). 2020 May 2;12(9):7639-7651. doi: 10.18632/aging.103101. Epub 2020 May 2.</citation>
+    <PMID>32364527</PMID>
+  </reference>
+  <reference>
+    <citation>Shang J, Ye G, Shi K, Wan Y, Luo C, Aihara H, Geng Q, Auerbach A, Li F. Structural basis of receptor recognition by SARS-CoV-2. Nature. 2020 May;581(7807):221-224. doi: 10.1038/s41586-020-2179-y. Epub 2020 Mar 30.</citation>
+    <PMID>32225175</PMID>
+  </reference>
+  <reference>
+    <citation>Roussel Y, Giraud-Gatineau A, Jimeno MT, Rolain JM, Zandotti C, Colson P, Raoult D. SARS-CoV-2: fear versus data. Int J Antimicrob Agents. 2020 May;55(5):105947. doi: 10.1016/j.ijantimicag.2020.105947. Epub 2020 Mar 19.</citation>
+    <PMID>32201354</PMID>
+  </reference>
+  <reference>
+    <citation>Manski CF, Molinari F. Estimating the COVID-19 infection rate: Anatomy of an inference problem. J Econom. 2021 Jan;220(1):181-192. doi: 10.1016/j.jeconom.2020.04.041. Epub 2020 May 6.</citation>
+    <PMID>32377030</PMID>
+  </reference>
+  <reference>
+    <citation>Li X, Ma X. Acute respiratory failure in COVID-19: is it &quot;typical&quot; ARDS? Crit Care. 2020 May 6;24(1):198. doi: 10.1186/s13054-020-02911-9. Review.</citation>
+    <PMID>32375845</PMID>
+  </reference>
+  <reference>
+    <citation>Zhou F, Yu T, Du R, Fan G, Liu Y, Liu Z, Xiang J, Wang Y, Song B, Gu X, Guan L, Wei Y, Li H, Wu X, Xu J, Tu S, Zhang Y, Chen H, Cao B. Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study. Lancet. 2020 Mar 28;395(10229):1054-1062. doi: 10.1016/S0140-6736(20)30566-3. Epub 2020 Mar 11. Erratum in: Lancet. 2020 Mar 28;395(10229):1038. Lancet. 2020 Mar 28;395(10229):1038.</citation>
+    <PMID>32171076</PMID>
+  </reference>
+  <reference>
+    <citation>Tang N, Li D, Wang X, Sun Z. Abnormal coagulation parameters are associated with poor prognosis in patients with novel coronavirus pneumonia. J Thromb Haemost. 2020 Apr;18(4):844-847. doi: 10.1111/jth.14768. Epub 2020 Mar 13.</citation>
+    <PMID>32073213</PMID>
+  </reference>
+  <reference>
+    <citation>Cheng Y, Luo R, Wang K, Zhang M, Wang Z, Dong L, Li J, Yao Y, Ge S, Xu G. Kidney disease is associated with in-hospital death of patients with COVID-19. Kidney Int. 2020 May;97(5):829-838. doi: 10.1016/j.kint.2020.03.005. Epub 2020 Mar 20.</citation>
+    <PMID>32247631</PMID>
+  </reference>
+  <reference>
+    <citation>Baud D, Qi X, Nielsen-Saines K, Musso D, Pomar L, Favre G. Real estimates of mortality following COVID-19 infection. Lancet Infect Dis. 2020 Jul;20(7):773. doi: 10.1016/S1473-3099(20)30195-X. Epub 2020 Mar 12.</citation>
+    <PMID>32171390</PMID>
+  </reference>
+  <reference>
+    <citation>Meyerowitz-Katz G, Merone L. A systematic review and meta-analysis of published research data on COVID-19 infection fatality rates. Int J Infect Dis. 2020 Dec;101:138-148. doi: 10.1016/j.ijid.2020.09.1464. Epub 2020 Sep 29.</citation>
+    <PMID>33007452</PMID>
+  </reference>
+  <reference>
+    <citation>Serfozo P, Wysocki J, Gulua G, Schulze A, Ye M, Liu P, Jin J, Bader M, Myöhänen T, García-Horsman JA, Batlle D. Ang II (Angiotensin II) Conversion to Angiotensin-(1-7) in the Circulation Is POP (Prolyloligopeptidase)-Dependent and ACE2 (Angiotensin-Converting Enzyme 2)-Independent. Hypertension. 2020 Jan;75(1):173-182. doi: 10.1161/HYPERTENSIONAHA.119.14071. Epub 2019 Dec 2.</citation>
+    <PMID>31786979</PMID>
+  </reference>
+  <reference>
+    <citation>Yaqinuddin A, Kashir J. Innate immunity in COVID-19 patients mediated by NKG2A receptors, and potential treatment using Monalizumab, Cholroquine, and antiviral agents. Med Hypotheses. 2020 Apr 22;140:109777. doi: 10.1016/j.mehy.2020.109777. [Epub ahead of print]</citation>
+    <PMID>32344314</PMID>
+  </reference>
+  <reference>
+    <citation>Ye M, Wysocki J, William J, Soler MJ, Cokic I, Batlle D. Glomerular localization and expression of Angiotensin-converting enzyme 2 and Angiotensin-converting enzyme: implications for albuminuria in diabetes. J Am Soc Nephrol. 2006 Nov;17(11):3067-75. Epub 2006 Oct 4.</citation>
+    <PMID>17021266</PMID>
+  </reference>
+  <reference>
+    <citation>Su H, Yang M, Wan C, Yi LX, Tang F, Zhu HY, Yi F, Yang HC, Fogo AB, Nie X, Zhang C. Renal histopathological analysis of 26 postmortem findings of patients with COVID-19 in China. Kidney Int. 2020 Jul;98(1):219-227. doi: 10.1016/j.kint.2020.04.003. Epub 2020 Apr 9.</citation>
+    <PMID>32327202</PMID>
+  </reference>
+  <reference>
+    <citation>Mizuiri S, Hemmi H, Arita M, Ohashi Y, Tanaka Y, Miyagi M, Sakai K, Ishikawa Y, Shibuya K, Hase H, Aikawa A. Expression of ACE and ACE2 in individuals with diabetic kidney disease and healthy controls. Am J Kidney Dis. 2008 Apr;51(4):613-23. doi: 10.1053/j.ajkd.2007.11.022. Epub 2008 Mar 4.</citation>
+    <PMID>18371537</PMID>
+  </reference>
+  <reference>
+    <citation>Sun P, Lu X, Xu C, Sun W, Pan B. Understanding of COVID-19 based on current evidence. J Med Virol. 2020 Jun;92(6):548-551. doi: 10.1002/jmv.25722. Epub 2020 Mar 5. Review.</citation>
+    <PMID>32096567</PMID>
+  </reference>
+  <reference>
+    <citation>Brake SJ, Barnsley K, Lu W, McAlinden KD, Eapen MS, Sohal SS. Smoking Upregulates Angiotensin-Converting Enzyme-2 Receptor: A Potential Adhesion Site for Novel Coronavirus SARS-CoV-2 (Covid-19). J Clin Med. 2020 Mar 20;9(3). pii: E841. doi: 10.3390/jcm9030841.</citation>
+    <PMID>32244852</PMID>
+  </reference>
+  <reference>
+    <citation>Yancy CW. COVID-19 and African Americans. JAMA. 2020 May 19;323(19):1891-1892. doi: 10.1001/jama.2020.6548.</citation>
+    <PMID>32293639</PMID>
+  </reference>
+  <reference>
+    <citation>Khunti K, Singh AK, Pareek M, Hanif W. Is ethnicity linked to incidence or outcomes of covid-19? BMJ. 2020 Apr 20;369:m1548. doi: 10.1136/bmj.m1548.</citation>
+    <PMID>32312785</PMID>
+  </reference>
+  <reference>
+    <citation>Levey AS, Stevens LA, Schmid CH, Zhang YL, Castro AF 3rd, Feldman HI, Kusek JW, Eggers P, Van Lente F, Greene T, Coresh J; CKD-EPI (Chronic Kidney Disease Epidemiology Collaboration). A new equation to estimate glomerular filtration rate. Ann Intern Med. 2009 May 5;150(9):604-12. Erratum in: Ann Intern Med. 2011 Sep 20;155(6):408.</citation>
+    <PMID>19414839</PMID>
+  </reference>
+  <reference>
+    <citation>Norris KC, Smoyer KE, Rolland C, Van der Vaart J, Grubb EB. Albuminuria, serum creatinine, and estimated glomerular filtration rate as predictors of cardio-renal outcomes in patients with type 2 diabetes mellitus and kidney disease: a systematic literature review. BMC Nephrol. 2018 Feb 9;19(1):36. doi: 10.1186/s12882-018-0821-9. Review.</citation>
+    <PMID>29426298</PMID>
+  </reference>
+  <reference>
+    <citation>Yang JYC, Sarwal RD, Fervenza FC, Sarwal MM, Lafayette RA. Noninvasive Urinary Monitoring of Progression in IgA Nephropathy. Int J Mol Sci. 2019 Sep 10;20(18). pii: E4463. doi: 10.3390/ijms20184463.</citation>
+    <PMID>31510053</PMID>
+  </reference>
+  <reference>
+    <citation>Kearney A, Williamson P, Young B, Bagley H, Gamble C, Denegri S, Muir D, Simon NA, Thomas S, Elliot JT, Bulbeck H, Crocker JC, Planner C, Vale C, Clarke M, Sprosen T, Woolfall K. Priorities for methodological research on patient and public involvement in clinical trials: A modified Delphi process. Health Expect. 2017 Dec;20(6):1401-1410. doi: 10.1111/hex.12583. Epub 2017 Jun 15.</citation>
+    <PMID>28618076</PMID>
+  </reference>
+  <reference>
+    <citation>McDougall GJ Jr, Simpson G, Friend ML. Strategies for research recruitment and retention of older adults of racial and ethnic minorities. J Gerontol Nurs. 2015 May;41(5):14-23; quiz 24-5. doi: 10.3928/00989134-20150325-01. Epub 2015 Mar 30.</citation>
+    <PMID>25849063</PMID>
+  </reference>
+  <reference>
+    <citation>Hurd TC, Kaplan CD, Cook ED, Chilton JA, Lytton JS, Hawk ET, Jones LA. Building trust and diversity in patient-centered oncology clinical trials: An integrated model. Clin Trials. 2017 Apr;14(2):170-179. doi: 10.1177/1740774516688860. Epub 2017 Feb 7. Review.</citation>
+    <PMID>28166647</PMID>
+  </reference>
+  <reference>
+    <citation>Browne S, Carter T, Eckes R, Grandits G, Johnson M, Moore I, McNay L. A review of strategies used to retain participants in clinical research during an infectious disease outbreak: The PREVAIL I Ebola vaccine trial experience. Contemp Clin Trials Commun. 2018 Jun 5;11:50-54. doi: 10.1016/j.conctc.2018.06.004. eCollection 2018 Sep.</citation>
+    <PMID>30003168</PMID>
+  </reference>
+  <reference>
+    <citation>Kellum JA, Lameire N; KDIGO AKI Guideline Work Group. Diagnosis, evaluation, and management of acute kidney injury: a KDIGO summary (Part 1). Crit Care. 2013 Feb 4;17(1):204. doi: 10.1186/cc11454. Review.</citation>
+    <PMID>23394211</PMID>
+  </reference>
+  <reference>
+    <citation>Section 2: AKI Definition. Kidney Int Suppl (2011). 2012 Mar;2(1):19-36.</citation>
+    <PMID>25018918</PMID>
+  </reference>
+  <reference>
+    <citation>Caramelo, F., N. Ferreira, and B. Oliveiros, Estimation of risk factors for COVID-19 mortality - preliminary results. medRxiv, 2020: p. 2020.02.24.20027268.</citation>
+  </reference>
+  <reference>
+    <citation>Muus, C., et al., Integrated analyses of single-cell atlases reveal age, gender, and smoking status associations with cell type-specific expression of mediators of SARS-CoV-2 viral entry and highlights inflammatory programs in putative target cells. bioRxiv, 2020: p. 2020.04.19.049254.</citation>
+  </reference>
+  <reference>
+    <citation>Diao, B., et al., Human Kidney is a Target for Novel Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Infection. medRxiv, 2020: p. 2020.03.04.20031120.</citation>
+  </reference>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>December 16, 2020</study_first_submitted>
+  <study_first_submitted_qc>January 11, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 12, 2021</study_first_posted>
+  <last_update_submitted>January 11, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 11, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 12, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>Acute Kidney Injury</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>Coronaviurs</keyword>
+  <keyword>COVID-19 Infection</keyword>
+  <keyword>SARS-CoV-2 infection</keyword>
+  <keyword>Coronavirus infection</keyword>
+  <keyword>COVID-19 and Acute Kidney Injury</keyword>
+  <keyword>SARS-CoV-2 &amp; Kidney Injury Risk Factors</keyword>
+  <keyword>Kidney Injury</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+    <mesh_term>Acute Kidney Injury</mesh_term>
+    <mesh_term>Wounds and Injuries</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Research records will be kept confidential to the extent permitted by law. Subjects will be identified by a code, and personal information from study records will not be released without the subject's permission. Study subjects will not be identified in any publication that may result from this study. However, the records may be reviewed under guidelines of the Federal Privacy Act by site monitors to assure the accuracy and completeness of study data. The investigators will make sure patient health information is removed from all the bio-samples and data obtained. The investigators will adhere to the NIH and HHS policies regarding the sharing of data and resources with the scientific community, publications, and intellectual property rights, and sharing of biomedical research resources.</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

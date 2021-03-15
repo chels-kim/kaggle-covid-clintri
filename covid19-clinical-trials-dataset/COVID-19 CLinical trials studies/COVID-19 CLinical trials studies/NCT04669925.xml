@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2177">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04669925</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Tsunami</org_study_id>
+    <nct_id>NCT04669925</nct_id>
+  </id_info>
+  <brief_title>COVID-19 Impact on the Lombardy Region's Emergency System</brief_title>
+  <official_title>Tsunami Project - Description and Prediction of COVID-19 Impact on the Lombardy Region's Emergency System</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Mario Negri Institute for Pharmacological Research</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Mario Negri Institute for Pharmacological Research</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study has 3 main goals:&#xD;
+&#xD;
+        -  to quantitavely describe the Covid-19 impact on the organization and functioning of the&#xD;
+           Lombardy's emergency system;&#xD;
+&#xD;
+        -  to create statistical model able to predict the flow of patients to the emergency room&#xD;
+           during the epidemic period and their destination (ex: discharge, hospitalization,&#xD;
+           death);&#xD;
+&#xD;
+        -  to value the impact on the non Covid-19 patients, both for their possibility to receive&#xD;
+           medical treatment and as an outcome on their health&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The aim of this study is to evaluate the impact that Covid-19 had on the Emergency System of&#xD;
+      Lombardy. For instance, it affected the job organization and the possibility of responding to&#xD;
+      general health needs.&#xD;
+&#xD;
+      First of all, the study will consider the calls to the Emergency Medical Service, the number&#xD;
+      of accesses to the Emergency Department, the waiting time before hospitalization, the ED&#xD;
+      output home (discharge, hospitalization, death, self-discharge before the end of the visit).&#xD;
+&#xD;
+      Secondly, a statistical model will be implemented, in order to predict the number of patients&#xD;
+      in need of hospitalization for each day during the pandemic period. This model could help the&#xD;
+      re-organization of the hospital itself in case of a new Covid-19 outbreak.&#xD;
+&#xD;
+      Finally, it will evaluate the impact on non-Covid patients, to see the difference in the&#xD;
+      mortality trends and their possiblity to be cured in a proper way.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">September 1, 2020</start_date>
+  <completion_date type="Anticipated">July 2021</completion_date>
+  <primary_completion_date type="Anticipated">January 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Daily calls to the Emergency System</measure>
+    <time_frame>jan 2020 - dec 2020</time_frame>
+    <description>The number of calls to the Lombardy Emergency System will be evaluated daily during the study period</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Daily count of Emergency Department visits</measure>
+    <time_frame>jan 2020 - dec 2020</time_frame>
+    <description>The number of people accessing to each ED will be evaluated daily</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Daily average boarding time</measure>
+    <time_frame>jan 2020 - dec 2020</time_frame>
+    <description>The average time between the end of the ED visit and the hospital admission will be measured daily</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Outcome at ED discharge</measure>
+    <time_frame>jan 2020 - dec 2020</time_frame>
+    <description>Distribution of the ED outcome (home discharge, hospitalization, death, self-discharge before the end of the visit)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>jan 2020 - dec 2020</time_frame>
+    <description>Daily mortality for any cause</description>
+  </primary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">10000</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Users of Lombardy Emergency System 2018-2020</arm_group_label>
+    <description>Adults (affected or not affected by Covid-19) who asked for assistance to the Lombardy region's emergency system during the pandemic period and the previous two years</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        patients who asked for assistance to the Lombardy region's emergency system during the&#xD;
+        pandemic period and the previous two years&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  over 18y&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  none&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Guido Bertolini</last_name>
+    <role>Study Chair</role>
+    <affiliation>istituto di ricerche farmacologiche Mario Negri IRCCS</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Ospedale Papa Giovanni XXIII</name>
+      <address>
+        <city>Bergamo</city>
+        <zip>24127</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Presidio Ospedaliero di Lodi</name>
+      <address>
+        <city>Lodi</city>
+        <zip>26900</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico</name>
+      <address>
+        <city>Milan</city>
+        <zip>20122</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale San Carlo Borromeo</name>
+      <address>
+        <city>Milan</city>
+        <zip>20153</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>August 31, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 15, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 17, 2020</study_first_posted>
+  <last_update_submitted>December 15, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 15, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 17, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Emergency Department</keyword>
+  <keyword>Emergency Medical Services</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Emergencies</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>Protecting the privacy policy, all the data that underlie results in a publication will be shared. The scientific commettee of the study has to decide the criteria and the best way to share them</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

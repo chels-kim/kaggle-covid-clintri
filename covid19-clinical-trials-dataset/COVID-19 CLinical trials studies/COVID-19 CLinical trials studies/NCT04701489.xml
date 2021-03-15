@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3563">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04701489</url>
+  </required_header>
+  <id_info>
+    <org_study_id>STUDY00011290</org_study_id>
+    <nct_id>NCT04701489</nct_id>
+  </id_info>
+  <brief_title>UNITE Study (UMN-GE) for COVID-19</brief_title>
+  <official_title>Ultrasound Neural and Immunomodulation Treatment Evaluation Study (UMN-GE) for COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Minnesota</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>General Electric Research</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>DARPA (Department of Defense)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Minnesota</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The research objective of the UNITE Study is to assess the potential efficacy of ultrasound&#xD;
+      application to the spleen in the treatment of coronavirus disease 2019 (COVID-19) in a pilot&#xD;
+      study.&#xD;
+&#xD;
+      Specific Aims:&#xD;
+&#xD;
+        1. Determine the efficacy of splenic ultrasound in affecting markers of systemic&#xD;
+           inflammation in COVID-19 infection.&#xD;
+&#xD;
+        2. Evaluate the potential efficacy of splenic ultrasound in affecting clinical outcomes in&#xD;
+           COVID-19 infection.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Ultrasound is widely used in human medicine because it is safe, non-invasive, and painless.&#xD;
+      The same kind of ultrasound that is used for imaging (for example, to visualize babies in&#xD;
+      utero) may be able to treat inflammatory diseases including COVID-19. COVID-19 is a disease&#xD;
+      caused by infection with the SARS-CoV-2 virus. Some COVID-19 patients develop a severe&#xD;
+      respiratory disease called acute respiratory distress syndrome and this disease is caused, in&#xD;
+      part, by a significant increase in inflammatory factors. Clinical therapies that reduce this&#xD;
+      elevated inflammation in the body (e.g., inflammation molecules in your body called&#xD;
+      cytokines) may be capable of diminishing symptoms in severe cases of COVID-19.&#xD;
+&#xD;
+      Multiple studies in animals with hyper-inflammation conditions (e.g., inflammatory arthritis&#xD;
+      and sepsis/LPS injections) and recent human studies (e.g., for the treatment of joint&#xD;
+      inflammation in Rheumatoid Arthritis) have shown that ultrasound applied to the spleen can&#xD;
+      suppress blood/genetic markers of inflammation. Similar inflammatory markers, or cytokines,&#xD;
+      are elevated in the lungs of COVID-19 patients and believed to cause severe symptoms. Splenic&#xD;
+      ultrasound can potentially lower these inflammatory cytokines without hindering antibody&#xD;
+      production, leading to clinical improvements in COVID-19 patients.&#xD;
+&#xD;
+      This study will employ ultrasound devices produced by General Electric (GE LOGIQ E10 device&#xD;
+      with C1-6 ultrasound probe) that are currently used in hospitals and approved for diagnostic&#xD;
+      imaging by the FDA. The ultrasound energies applied to the spleen in this study in COVID-19&#xD;
+      patients will not exceed what is currently approved for diagnostic imaging with those GE&#xD;
+      ultrasound devices.&#xD;
+&#xD;
+      There will be two groups in this study with 15 participants in each group. One group will&#xD;
+      receive ultrasound application to the spleen, in addition to the standard clinical care. A&#xD;
+      control group will receive standard clinical care without splenic ultrasound. Each ultrasound&#xD;
+      application session will last about 15-20 minutes per day for 7 days, unless the participant&#xD;
+      is discharged sooner. For ultrasound stimulation, a small gel-coated probe is positioned on&#xD;
+      the upper left abdomen area over the ribs. The ultrasound session includes a period of 5-10&#xD;
+      minutes when study personnel use the ultrasound device to locate the spleen and to position&#xD;
+      the ultrasound probe in a proper location around the ribs area, and an approximately&#xD;
+      10-minute period for application of ultrasound to the spleen. Collection of clinical outcome&#xD;
+      data and daily blood draws will be performed in each participant throughout the study.&#xD;
+      Additional data collected from each participant during their routine clinical care beyond&#xD;
+      their study involvement will also be analyzed together with the study data to evaluate the&#xD;
+      specific aims of the clinical trial.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Anticipated">January 2021</start_date>
+  <completion_date type="Anticipated">June 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>The participants will be randomized to two groups: ultrasound group and control group. All participants will still receive standard clinical care. The ultrasound group will receive daily ultrasound application to the spleen for up to 7 days, in addition to the standard clinical care. The control group will receive standard clinical care without ultrasound stimulation.</intervention_model_description>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Between-arm change of IL-6 levels from baseline to end of treatment between groups</measure>
+    <time_frame>Baseline to Day 7 (end of treatment; or date of discharge)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Between-arm change of IL-1β levels from baseline to end of treatment between groups</measure>
+    <time_frame>Baseline to Day 7 (end of treatment; or date of discharge)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Between-arm change of CRP levels from baseline to end of treatment between groups</measure>
+    <time_frame>Baseline to Day 7 (end of treatment; or date of discharge)</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in time to recovery</measure>
+    <time_frame>Baseline to date of recovery, assessed up to 6 months</time_frame>
+    <description>Day of recovery is defined as the first day on which the subject satisfies this category from the ordinal scale: Hospitalized, no oxygen therapy - no longer requires ongoing medical care.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Change in death rate</measure>
+    <time_frame>Baseline to date of discharge or date of death, whichever came first, assessed up to 6 months</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in rate of requiring mechanical ventilation</measure>
+    <time_frame>Baseline to date of discharge or date of death, whichever came first, assessed up to 6 months</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in duration of hypoxemia</measure>
+    <time_frame>Baseline to date of discharge or date of death, whichever came first, assessed up to 6 months</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in D-dimer levels</measure>
+    <time_frame>Baseline to Day 7 (end of treatment; or date of discharge)</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in serum cytokine concentration of TNF</measure>
+    <time_frame>Baseline to Day 7 (end of treatment; or date of discharge)</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in serum cytokine concentration of IL-10</measure>
+    <time_frame>Baseline to Day 7 (end of treatment; or date of discharge)</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in serum cytokine concentration of IFN-gamma</measure>
+    <time_frame>Baseline to Day 7 (end of treatment; or date of discharge)</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in serum cytokine concentration of IL-18</measure>
+    <time_frame>Baseline to Day 7 (end of treatment; or date of discharge)</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in serum cytokine concentration of IL2R-alpha</measure>
+    <time_frame>Baseline to Day 7 (end of treatment; or date of discharge)</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in serum cytokine concentration of IL-4</measure>
+    <time_frame>Baseline to Day 7 (end of treatment; or date of discharge)</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>Change in RNAseq identified pro-inflammatory pathways</measure>
+    <time_frame>Baseline to Day 7 (end of treatment; or date of discharge)</time_frame>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Covid19</condition>
+  <condition>Cytokine Storm</condition>
+  <condition>Inflammation</condition>
+  <arm_group>
+    <arm_group_label>Ultrasound Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Daily ultrasound application to the spleen of approximately 10 minutes for up to 7 days, in addition to standard clinical care.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control Group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Standard clinical care with no ultrasound stimulation.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Splenic ultrasound</intervention_name>
+    <description>GE LOGIQ E10 device with C1-6 ultrasound probe</description>
+    <arm_group_label>Ultrasound Group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age 18 and above&#xD;
+&#xD;
+          -  Positive for SARS-CoV-2 (via PCR)&#xD;
+&#xD;
+          -  Decreased blood oxygen saturation: Room air SaO2 &lt; 94% and/or requiring supplemental&#xD;
+             oxygen to maintain SaO2 &gt; 90%&#xD;
+&#xD;
+          -  Admission to the hospital&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Pregnant women&#xD;
+&#xD;
+          -  Asplenia&#xD;
+&#xD;
+          -  Ascites&#xD;
+&#xD;
+          -  Open wound/sores near the stimulation site&#xD;
+&#xD;
+          -  Recent abdominal surgery&#xD;
+&#xD;
+          -  Splenomegaly&#xD;
+&#xD;
+          -  Mechanically ventilated (if patient goes onto mechanical ventilation while&#xD;
+             participating in the study, they can continue ultrasound treatment if recommended by&#xD;
+             standard of care clinician and investigators of the study)&#xD;
+&#xD;
+          -  Comfort care status&#xD;
+&#xD;
+          -  Any other clinical reasons deemed by the investigators of the study in which the&#xD;
+             patient would not be an appropriate candidate for the study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Hubert Lim, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Minnesota</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>M Health Fairview St. Joseph's Hospital</name>
+      <address>
+        <city>Saint Paul</city>
+        <state>Minnesota</state>
+        <zip>55102</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://www.medrxiv.org/content/10.1101/2020.07.14.20153528v2</url>
+    <description>First-in-human demonstration of splenic ultrasound stimulation for non-invasively controlling inflammation</description>
+  </link>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>January 5, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 6, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 8, 2021</study_first_posted>
+  <last_update_submitted>January 11, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 11, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 14, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>ultrasound</keyword>
+  <keyword>ultrasound stimulation</keyword>
+  <keyword>spleen</keyword>
+  <keyword>immunomodulation</keyword>
+  <keyword>neuromodulation</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Inflammation</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

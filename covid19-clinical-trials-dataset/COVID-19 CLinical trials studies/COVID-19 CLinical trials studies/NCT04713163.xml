@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="99">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04713163</url>
+  </required_header>
+  <id_info>
+    <org_study_id>B2021:008</org_study_id>
+    <nct_id>NCT04713163</nct_id>
+  </id_info>
+  <brief_title>COVID-19 Vaccine Induced Immunity</brief_title>
+  <official_title>Prospective Evaluation of COVID-19 Vaccine Induced Immunity</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Manitoba</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Public Health Agency of Canada (PHAC)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Cadham Provincial Lab</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Manitoba</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study aims to address the following three objectives:&#xD;
+&#xD;
+        1. Longitudinal evaluation of the development of CMI responses in response to SARS-CoV-2&#xD;
+           Vaccine: T cells isolated from the blood of COVID-19 vaccine recipients will be&#xD;
+           evaluated for their functionality in response to vaccine antigens. The temporal and&#xD;
+           functional properties of CMI responses will be correlated with the humoral or antibody&#xD;
+           responsiveness. CMI responses will be measured in vaccine recipients prior to&#xD;
+           vaccination to determine whether the presence or functionality of pre-existing responses&#xD;
+           to common cold coronaviruses (CCCs) or previous SARS-CoV-2 infections affect the&#xD;
+           development of CMI responses to the COVID-19 vaccine.&#xD;
+&#xD;
+        2. Identification of cellular and soluble factors that influence vaccine responsiveness:&#xD;
+&#xD;
+           While it is known that poor clinical outcomes in COVID-19 patients are strongly&#xD;
+           associated with markers of systemic inflammation, the influence these systemic markers&#xD;
+           will have on COVID-19 vaccine responsiveness is not clear. Using systems biology&#xD;
+           approaches, the investigators will perform comprehensive profiling of cellular immune&#xD;
+           subsets, inflammatory signatures to identify determinants influencing the development of&#xD;
+           CMI responses to vaccine.&#xD;
+&#xD;
+        3. Examine variability of immune and viral genes and their relationship to vaccine induced&#xD;
+           immune responses: Human leukocyte antigen (HLA), T cell receptor (TCR) and B cell&#xD;
+           receptor (BCR) proteins are highly genetically diverse and critical to development of&#xD;
+           protective immunity. The investigators will perform HLA sequencing on whole&#xD;
+           blood-derived DNA samples and TCR and BCR sequencing on sorted, SARS-CoV2 vaccine&#xD;
+           antigen-specific T cells and B cells, respectively, to assess how different sequence&#xD;
+           combinations impact the CMI responses to vaccine.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 2021</start_date>
+  <completion_date type="Anticipated">December 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 2021</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>6 Months</target_duration>
+  <primary_outcome>
+    <measure>Nasal T cell responses</measure>
+    <time_frame>Change from Baseline to 12 days post second vaccine dose</time_frame>
+    <description>Phenotype of CD4 and CD8+ T cells measured by nasal swabs</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Systemic T cell responses</measure>
+    <time_frame>Change from Baseline to 12 days post second vaccine dose</time_frame>
+    <description>Cytokine responsiveness to SARS-CoV-2-specific CD4 and CD8+ T cells in blood</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Systemic and nasal antibody responses</measure>
+    <time_frame>Change from Baseline to 12 days post second vaccine dose</time_frame>
+    <description>IgA and IgG responses to SARS-CoV-2</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Health care or laboratory-based workers</arm_group_label>
+    <description>Healthy individuals about to receive any approved COVID-19 vaccine</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Outpatients</arm_group_label>
+    <description>Outpatients about to receive any approved COVID-19 vaccine</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>covid19 vaccine</intervention_name>
+    <description>Vaccine</description>
+    <arm_group_label>Health care or laboratory-based workers</arm_group_label>
+    <arm_group_label>Outpatients</arm_group_label>
+    <other_name>moderna or Pfizer mRNA vaccines, or any other vaccine for Covid19 that becomes approved in Canada</other_name>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        healthy volunteers eligible to receive Covid-19 vaccines&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  all individuals eligible to receive one of the approved SARS-CoV-2/COVID-19 vaccines.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  individuals under 18 years of age&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Lyle R Mckinnon, PhD</last_name>
+    <phone>2049757708</phone>
+    <email>lyle.mckinnon@umanitoba.ca</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Blake Ball, PhD</last_name>
+    <phone>2047892000</phone>
+    <email>tblake.ball@canada.ca</email>
+  </overall_contact_backup>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>January 12, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 14, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 19, 2021</study_first_posted>
+  <last_update_submitted>January 14, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 14, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 19, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Manitoba</investigator_affiliation>
+    <investigator_full_name>Lyle Mckinnon</investigator_full_name>
+    <investigator_title>Assistant Professor</investigator_title>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vaccines</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>January 11, 2021</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/63/NCT04713163/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

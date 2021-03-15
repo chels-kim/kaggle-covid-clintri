@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2466">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04737161</url>
+  </required_header>
+  <id_info>
+    <org_study_id>56248</org_study_id>
+    <nct_id>NCT04737161</nct_id>
+  </id_info>
+  <brief_title>Safety of T Regulatory Cell Therapy in Subjects With COVID-19 Induced Acute Respiratory Distress Syndrome</brief_title>
+  <official_title>A Phase 1 Study to Assess the Safety of Living Related Donor Derived T Regulatory Cell Therapy in Subjects With COVID 19 Induced Acute Respiratory Distress Syndrome (ARDS)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Stanford University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Stanford University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is to evaluate the feasibility and safety of treatment with related donor Human&#xD;
+      Leukocyte Antigen (HLA) matched or haploidentical allogeneic T regulatory cells in patients&#xD;
+      with COVID 19 induced ARDS.&#xD;
+&#xD;
+      Study treatment will be administered in 1 to 2 doses, with the possibility of a second&#xD;
+      infusion given 14 days after the initial infusion.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 2021</start_date>
+  <completion_date type="Anticipated">August 2022</completion_date>
+  <primary_completion_date type="Anticipated">August 2022</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>The number of participants that experience the occurrence of infusion associated adverse events (AEs)</measure>
+    <time_frame>within 6 hours of study infusion</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The number of patients that experience treatment emergent AEs</measure>
+    <time_frame>6 to 24 hours after infusion treatment</time_frame>
+    <description>Treatment related adverse events or serious adverse events</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The number of patients who receive the target dose for one or more intravenous infusions</measure>
+    <time_frame>up to 14 days (approximately 1.5 hours average per infusion)</time_frame>
+    <description>Patients will receive 1 or 2 infusions, with the possibility of a second infusion given 14 days after the initial infusion.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>The ratio of average daily partial pressure of oxygen (PaO2) to average fraction of inspired oxygen (FiO2) (PaO2:FiO2) over time</measure>
+    <time_frame>up to 14 days (assessed at baseline, and 3, 7, and 14 days post-infusion)</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>World Health Organization (WHO) COVID-19 ordinal scale score for clinical improvement</measure>
+    <time_frame>assessed at 28 days post-infusion</time_frame>
+    <description>The scale specifies a point value for each of the following parameters including: death (8 points), hospitalized on invasive mechanical ventilation and additional organ support including extracorporeal membrane oxygenation (ECMO) (7 points), hospitalized on invasive mechanical ventilation (6 points), hospitalized on non-invasive ventilation or high flow nasal cannula (HFNC) (5 points), hospitalized on supplemental oxygen (4 points), hospitalized not on supplemental oxygen (3 points), not hospitalized with limitation in activity (continued symptoms) (2 points) and not hospitalized without limitation in activity (no symptoms) (1 point) and no clinical or virological evidence of infection (0 points).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Sequential Organ Failure Assessment (SOFA) Score over time</measure>
+    <time_frame>up to 14 days (assessed at baseline, and 1, 3, 5, 7, and 14 days post-infusion)</time_frame>
+    <description>The SOFA score is designed to predict mortality based on the degree of dysfunction of six organ systems (neurologic, respiratory, cardiovascular, hepatic, coagulation and renal). Score range: 0-24 (summed from each of the 6 organ systems individually graded on a 0 to 4 scale); higher numbers represent a greater degree of organ dysfunction for the subscales and overall scale.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality following initial infusion</measure>
+    <time_frame>28 days</time_frame>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>Acute Respiratory Distress Syndrome</condition>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>T regulatory cell infusion</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Infusion will be administered to the patient within 72 hours of collection from donor.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>T regulatory cells</intervention_name>
+    <description>T regulatory cells isolated by immunomagnetic selection; donor cells collected through large volume apheresis.</description>
+    <arm_group_label>T regulatory cell infusion</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age 18 years to 75 years&#xD;
+&#xD;
+          -  All patients at entry are required to be at high risk for the development of ARDS or&#xD;
+             receiving mechanical ventilatory support&#xD;
+&#xD;
+          -  Provision of signed written informed consent from the patient or patients legally&#xD;
+             authorized representative&#xD;
+&#xD;
+          -  Only patients who are committed to full life support (Do not resuscitate (DNR)&#xD;
+             allowed)&#xD;
+&#xD;
+          -  Initiation of study drug within 120 hours of the diagnosis of acute lung injury&#xD;
+             (ALI)/ARDS&#xD;
+&#xD;
+          -  COVID positive by PCR testing&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Concurrent illness that shortens life expectancy to less than 6 months&#xD;
+&#xD;
+          -  Inability to obtain adequate study follow-up&#xD;
+&#xD;
+          -  Greater than 90 hours since first meeting ARDS criteria per the Berlin definition&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Joe L Hsu, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Stanford University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Stanford University</name>
+      <address>
+        <city>Stanford</city>
+        <state>California</state>
+        <zip>94305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>February 1, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 2, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 3, 2021</study_first_posted>
+  <last_update_submitted>February 2, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 2, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 3, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Distress Syndrome, Newborn</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Adult</mesh_term>
+    <mesh_term>Acute Lung Injury</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

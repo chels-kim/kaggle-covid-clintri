@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2739">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04711863</url>
+  </required_header>
+  <id_info>
+    <org_study_id>S2020-3124-0001</org_study_id>
+    <nct_id>NCT04711863</nct_id>
+  </id_info>
+  <brief_title>Fluvoxamine for Adults With Mild to Moderate COVID-19</brief_title>
+  <official_title>Fluvoxamine for Adults With Mild to Moderate COVID-19: A Single-blind, Randomized, Placebo-controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Asan Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Asan Medical Center</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This clinical trial aims to determine if fluvoxamine, a selective serotonin reuptake&#xD;
+      inhibitor with high affinity for the sigma-1 receptor, can be used in mild to moderate&#xD;
+      COVID-19 to prevent the progression to severe COVID-19. Fluvoxamine is an anti-depressant&#xD;
+      drug approved by the FDA for the treatment of obsessive-compulsive disorder and has a&#xD;
+      potential for immune modulation as a sigma-1 receptor agonist. The investigational use of&#xD;
+      fluvoxamine for the treatment of COVID-19 is approved by the South Korean Ministry of Food&#xD;
+      and Drug Safety.&#xD;
+&#xD;
+      This study is performed fully-remotely at COVID-19 community treatment centers, temporary&#xD;
+      facilities in Seoul, Korea, to accommodate and monitor asymptomatic to moderately symptomatic&#xD;
+      case-patients who do not require hospital admission.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The investigators will randomize approximately 400 participants, age 18 and older, who have&#xD;
+      laboratory-confirmed, mild to moderate COVID-19 and are admitted to community treatment&#xD;
+      centers. All interactions for this study will be conducted remotely by videoconferencing,&#xD;
+      mobile application, or phone.&#xD;
+&#xD;
+      Screening Phase: All patients admitted to community treatment centers receive self-monitoring&#xD;
+      equipment, including an oxygen saturation monitor, blood pressure monitor, and thermometer.&#xD;
+      All participants will first complete a pre-screen to see if they may be eligible for the&#xD;
+      study. Once a participant is confirmed eligible and consented, the study team will deliver&#xD;
+      study drugs to each participant room.&#xD;
+&#xD;
+      RCT Phase: Participants will be randomly assigned (1:1) to take either fluvoxamine or placebo&#xD;
+      (ursodeoxycholate). This phase of the study will last until discharge from community&#xD;
+      treatment centers (usually 10 days) and is single-blinded as the participants will not know&#xD;
+      which treatment they receive. Participants will take up to 100 mg of fluvoxamine or placebo&#xD;
+      by mouth twice a day for a daily total of 200 mg. Participants will continue this dose until&#xD;
+      discharge from community treatment centers (for approximately 10 days). The dose may be&#xD;
+      adjusted depending on tolerability. Participants will complete short 10 minute assessments&#xD;
+      twice a day to report the results of self-monitoring (oxygen saturation, blood pressure, and&#xD;
+      temperature), COVID-19 symptoms, and any adverse events using mobile application or phone.&#xD;
+&#xD;
+      Follow-up Phase: The study team will follow participants for approximately 30 days after the&#xD;
+      end of the randomized phase (after discharge from community treatment centers) using phone.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">January 16, 2021</start_date>
+  <completion_date type="Anticipated">July 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 31, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Participant)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Clinical deterioration</measure>
+    <time_frame>up to 10 days</time_frame>
+    <description>Defined as one of the followings: 1) Decrease in O2 saturation (SpO2 &lt;94%) on room air, 2) Supplemental oxygen requirement in order to keep O2 saturation ≥94%, 3) Aggravation of pneumonia with dyspnea: clinically devastating condition judged by clinician plus increased infiltration of chest X-ray or minute respiratory rate over 25. 4) WHO Clinical Progression Scale ≥5 including intubation and death)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to clinical deterioration</measure>
+    <time_frame>up to 10 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of each component of primary outcome including WHO Clinical Progression Scale</measure>
+    <time_frame>up to 10 days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of transfer to general hospital regardless of any reasons</measure>
+    <time_frame>up to 10 days</time_frame>
+    <description>Percentage of patients who are transferred to a hospital to manage various conditions</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Evaluation of adverse events</measure>
+    <time_frame>up to 10 days</time_frame>
+    <description>Rate of adverse events</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">400</enrollment>
+  <condition>Severe Acute Respiratory Syndrome Coronavirus 2</condition>
+  <condition>Coronavirus Infection</condition>
+  <condition>Mild to Moderate COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Fluvoxamine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Start fluvoxamine 50 mg once, then 100 mg twice daily until discharge from community treatment center or for approximately 10 days. The maintenance dose may be reduced for tolerability reasons.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Start ursodeoxycholate (UDCA) 100 mg once, then 100 mg twice daily until discharge from community treatment center or for approximately 10 days. The maintenance dose may be reduced for tolerability reasons.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Fluvoxamine</intervention_name>
+    <description>Up to 200 mg per day as tolerated until discharge from community treatment center or for approximately 10 days</description>
+    <arm_group_label>Fluvoxamine</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Up to 200 mg per day as tolerated until discharge from community treatment center or for approximately 10 days</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Men and women age 18 and older&#xD;
+&#xD;
+          2. Laboratory-confirmed SARS-CoV-2 patients who have mild to moderate symptoms related to&#xD;
+             COVID-19 infection and are admitted to community treatment centers in Seoul, Korea&#xD;
+&#xD;
+          3. Has symptoms consistent with COVID-19 with onset ≤7 days of randomization&#xD;
+&#xD;
+               -  Currently symptomatic with one or more of the following symptoms: fever, cough,&#xD;
+                  myalgia, shortness of breath, nausea, anorexia, diarrhea, vomiting, anosmia&#xD;
+                  (inability to smell), ageusia (inability to taste), sore throat, headache&#xD;
+&#xD;
+          4. Has laboratory-confirmed SARS-COV-2 infection (positive RT-PCR test) ≤ 3 days of&#xD;
+             randomization&#xD;
+&#xD;
+          5. Able to provide informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Severe illness enough to require hospitalization or already meeting the study's&#xD;
+             primary endpoint for clinical deterioration&#xD;
+&#xD;
+          2. Patients who cannot take oral medication&#xD;
+&#xD;
+          3. Pregnancy or breastfeeding&#xD;
+&#xD;
+          4. History of the psychiatric disorder including major depressive disorder&#xD;
+&#xD;
+          5. Patients who are taking or took selective serotonin reuptake inhibitors, serotonin and&#xD;
+             noradrenaline reuptake inhibitor, or tricyclic anti-depressants within 2 weeks&#xD;
+&#xD;
+          6. Patients who are taking an anti-epileptic drug&#xD;
+&#xD;
+          7. Patients who are taking co-prescribed drugs (as below) which are contraindicated by&#xD;
+             manufacturers due to drug-drug interaction&#xD;
+&#xD;
+               -  Alosetron, tizanidine, theophylline, clozapine, olanzapine (drugs with a narrow&#xD;
+                  therapeutic index that are primarily metabolized by cytochrome P450 1A2)&#xD;
+&#xD;
+               -  Donepezil, sertraline (sigma-1 receptor agonists)&#xD;
+&#xD;
+               -  Warfarin (increased risk of bleeding)&#xD;
+&#xD;
+               -  Phenytoin (rationale: fluvoxamine inhibits its metabolism)&#xD;
+&#xD;
+               -  Clopidogrel (fluvoxamine inhibits its metabolism from pro-drug to active drug&#xD;
+                  which raises the risk of cardiovascular events)&#xD;
+&#xD;
+               -  Monoamine oxidase inhibitors (linezolid, rasagiline, selegiline), triptans&#xD;
+                  (sumatriptan, naratriptan, almotriptan, frovatriptan, zolmitriptan, rizatriptan),&#xD;
+                  lithium, tramadol (rationale: to prevent the possible development of serotonin&#xD;
+                  syndrome)&#xD;
+&#xD;
+               -  Alprazolam, diazepam (fluvoxamine modestly inhibits the metabolism of these&#xD;
+                  drugs): The patient could be enrolled in case of agreeing 25% dose reduction of&#xD;
+                  these medications.&#xD;
+&#xD;
+          8. Already enrolled in another COVID-19 medication trial&#xD;
+&#xD;
+          9. Medical comorbidities such as severe underlying lung disease (chronic obstructive&#xD;
+             pulmonary disease on home oxygen, interstitial lung disease, pulmonary hypertension),&#xD;
+             decompensated cirrhosis, chronic viral hepatitis, congestive heart failure (stage 3 or&#xD;
+             4 per patient report and/or medical records), chronic kidney disease, or end-stage&#xD;
+             renal disease requiring renal replacement therapy&#xD;
+&#xD;
+         10. Immunocompromised (solid organ transplant, bone-marrow transplant, acquired immune&#xD;
+             deficiency syndrome, on biologics and/or high dose steroids [&gt;20mg prednisone per&#xD;
+             day])&#xD;
+&#xD;
+         11. Unable to provide informed consent (e.g., moderate-severe dementia diagnosis)&#xD;
+&#xD;
+         12. Unable to perform the study procedures (self-assessment of oxygen saturation, blood&#xD;
+             pressure, and temperature using self-monitoring equipment)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Yong Pil Chong, M.D., Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Asan Medical Center, Seoul, Korea</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Yong Pil Chong, M.D., Ph.D.</last_name>
+    <phone>+82230103306</phone>
+    <email>drchong@amc.seoul.kr</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Seongman Bae, M.D.</last_name>
+    <phone>+821025024925</phone>
+    <email>songman.b@gmail.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Asan Medical Center</name>
+      <address>
+        <city>Seoul</city>
+        <zip>05505</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sun Hwa Park</last_name>
+      <phone>821051751534</phone>
+      <email>Sunhwa1534@naver.com</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>January 13, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 13, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 15, 2021</study_first_posted>
+  <last_update_submitted>January 16, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 16, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 20, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Asan Medical Center</investigator_affiliation>
+    <investigator_full_name>Yong Pil Chong, MD</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <keyword>Fluvoxamine</keyword>
+  <keyword>mild to moderate COVID-19</keyword>
+  <keyword>SARS-CoV-2 treatment</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Fluvoxamine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

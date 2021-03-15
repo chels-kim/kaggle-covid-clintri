@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2959">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04676971</url>
+  </required_header>
+  <id_info>
+    <org_study_id>hzVSF_v13-0006</org_study_id>
+    <nct_id>NCT04676971</nct_id>
+  </id_info>
+  <brief_title>Efficacy and Safety of hzVSF-v13 in Patients With COVID-19 Pneumonia</brief_title>
+  <official_title>Efficacy and Safety of Intravenously Administered hzVSF-v13 in Patients With COVID-19 Pneumonia: a Phase II, Proof of Concept, Multicentre, Randomized, Parallel-group, Double-blind, Placebo-controlled Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>ImmuneMed, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>ImmuneMed, Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Preliminarily investigate the safety and efficacy of two doses of hzVSF-v13 + SOC vs. placebo&#xD;
+      + SOC for the treatment of COVID-19 pneumonia.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Proof of concept, multicentre, randomized, parallel-group, double-blind, placebo-controlled&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 11, 2020</start_date>
+  <completion_date type="Anticipated">October 18, 2021</completion_date>
+  <primary_completion_date type="Anticipated">July 7, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Clinical failure at Day 28</measure>
+    <time_frame>Day 28</time_frame>
+    <description>A patient will be considered a clinical failure if on Day 28 the patient is dead, intubated and/or in ICU.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Clinical Improvement, defined as a decrease of at least 2 points on the World Health Organization (WHO) ordinal scale</measure>
+    <time_frame>Day 28</time_frame>
+    <description>Clinical improvement is defined as a decrease of at least two points on the WHO ordinal scale from the Day 1 visit to the Day 28 visit.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of overall survival (OS) at Day 28 and Day 60</measure>
+    <time_frame>Day 28, Day 60</time_frame>
+    <description>Overall survival (OS), defined as the time from randomization to the date of death due to any cause, will be analysed by means of Kaplan-Meier methodology.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence and severity of adverse events according to NCI CTCAE v5.0</measure>
+    <time_frame>Day 60</time_frame>
+    <description>The incidence of AEs will be tabulated by MedDRA System Organ Class and Preferred Term. The incidence of AEs will also be summarised by System Organ Class, Preferred Term, and severity (based on NCI CTCAE v5.0 grades)</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">105</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>100 mg hzVSF-v13 IV + SOC</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>100 mg hzVSF-v13 IV + SOC</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>200 mg hzVSF-v13 IV + SOC</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>200 mg hzVSF-v13 IV + SOC</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo (saline) IV + SOC</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo (saline) IV + SOC</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>hzVSF-v13</intervention_name>
+    <description>Dosage form: 100mg / 200mg of hzVSF-v13 (40 mg/mL in a 5 mL vial) Frequency: Dose at Day 1, 3, 7, D14(if necessary)</description>
+    <arm_group_label>100 mg hzVSF-v13 IV + SOC</arm_group_label>
+    <arm_group_label>200 mg hzVSF-v13 IV + SOC</arm_group_label>
+    <other_name>a humanized monoclonal antibody (mAb)</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo (Normal saline solution)</intervention_name>
+    <description>Dosage form: 0.9% NaCl Solution Frequency: Dose at Day 1, 3, 7, D14(if necessary)</description>
+    <arm_group_label>Placebo (saline) IV + SOC</arm_group_label>
+    <other_name>0.9% Normal saline</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Signed written informed consent from any patient capable of giving consent, or, when&#xD;
+             the patient is incapable of doing so, by his or her legal/authorized representative.&#xD;
+             Note: In accordance with the European Medicines Agency (EMA) &quot;Guidance on the&#xD;
+             management of clinical trials during the covid-19 (coronavirus) pandemic version 3&#xD;
+             28/04/2020&quot;, if written consent by the trial participant is not possible (for example&#xD;
+             because of physical isolation due to COVID-19 infection), consent may be given orally&#xD;
+             by the trial participant in the presence of an impartial witness.&#xD;
+&#xD;
+          2. Age 18 years or older.&#xD;
+&#xD;
+          3. Patient is currently hospitalized.&#xD;
+&#xD;
+          4. Diagnosis of COVID-19 pneumonia including a positive RT-PCR test for SARS-CoV-2 of any&#xD;
+             specimen and lung involvement confirmed with chest imaging (X-ray or computed&#xD;
+             tomography [CT] scan).&#xD;
+&#xD;
+          5. Able to comply with the study protocol.&#xD;
+&#xD;
+          6. Female patients must be postmenopausal (24 months of amenorrhea), surgically sterile&#xD;
+             or must agree to use an effective method of contraception throughout the study and for&#xD;
+             up to 120 days after stopping treatment. Effective contraception includes an&#xD;
+             established hormonal therapy or intrauterine device for females, and the use of a&#xD;
+             barrier contraceptive (i.e. diaphragm or condoms) with spermicide.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Patients with known or suspected hypersensitivity to hzVSF-v13 or to any of its&#xD;
+             excipients.&#xD;
+&#xD;
+          2. Active tuberculosis or suspected active bacterial, fungal, viral, or other infection&#xD;
+             (besides COVID-19).&#xD;
+&#xD;
+          3. Anti-rejection or immunomodulatory drugs within the past 3 months.&#xD;
+&#xD;
+          4. Absolute neutrophil count (ANC) &lt; 1000/µL at screening.&#xD;
+&#xD;
+          5. Platelet count &lt; 50,000/ µL at screening.&#xD;
+&#xD;
+          6. ALT or AST &gt; 5 x upper limit of normal (ULN) within 24 hours at screening.&#xD;
+&#xD;
+          7. Serum creatinine &gt; 2 mg/dL (&gt; 176.8 μmol/L) or estimated creatinine clearance &lt; 30&#xD;
+             ml/min measured or calculated by Cockroft Gault equation.&#xD;
+&#xD;
+          8. Pregnancy or breastfeeding.&#xD;
+&#xD;
+          9. Treatment with an investigational drug within 5 half-lives or 30 days (whichever is&#xD;
+             longer) of randomization (approved/investigational COVID-19 antivirals and other&#xD;
+             off-label drugs recommended by local health authorities are permitted).&#xD;
+&#xD;
+         10. Patients who in the opinion of the treating physician should not participate in this&#xD;
+             program (ex: severe acute respiratory distress syndrome [ARDS], septicaemia).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Davide Sonnino, phD</last_name>
+    <role>Study Chair</role>
+    <affiliation>OPIS s.r.l</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Byoungok Ahn, phD</last_name>
+    <phone>+82-2-527-8391</phone>
+    <email>ahnbo@immunemed.co.kr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>UOC Pneumologia</name>
+      <address>
+        <city>Bergamo</city>
+        <zip>24127</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Fabiano Di Marco, phD</last_name>
+      <phone>390352673456</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Dipartimento di Medicina Interna</name>
+      <address>
+        <city>Milano</city>
+        <zip>20122</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Francesco Blasi, phD</last_name>
+      <phone>393472351913</phone>
+      <email>francesco.blasi@unimi.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Federal Siberian Scientific and Clinical Center of the Federal Medical and Biological Agency</name>
+      <address>
+        <city>Krasnoyarsk</city>
+        <zip>660037</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tamara Gaygolnik, phD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Central City Hospital of Novoshakhtinsk</name>
+      <address>
+        <city>Novoshakhtinsk</city>
+        <zip>346918</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Sergey Ryzhkov, phD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Regional Clinical Hospital</name>
+      <address>
+        <city>Saratov</city>
+        <zip>410053</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Olga Reshetko, phD</last_name>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Federal State Budgetary Educational Institution of Higher Education</name>
+      <address>
+        <city>Ufa</city>
+        <zip>450008</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Khalida Gantseva, phD</last_name>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+    <country>Russian Federation</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>December 16, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 17, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 21, 2020</study_first_posted>
+  <last_update_submitted>January 6, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 6, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 8, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Antibodies, Monoclonal</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

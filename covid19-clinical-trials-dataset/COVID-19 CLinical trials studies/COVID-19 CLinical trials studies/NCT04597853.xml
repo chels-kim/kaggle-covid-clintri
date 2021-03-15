@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3386">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04597853</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020-01999</org_study_id>
+    <nct_id>NCT04597853</nct_id>
+  </id_info>
+  <brief_title>Assessment of Lung Mechanics in COVID-19 Acute Respiratory Distress Syndrome</brief_title>
+  <acronym>LungMechCoV-19</acronym>
+  <official_title>Assessment of Lung Mechanics in SARS-CoV-2/ COVID-19 Acute Respiratory Distress Syndrome: A Holistic, Longitudinal Analysis of the Lung-heart-ventilator Interaction</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Zurich</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Zurich</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is meant to assess the lung mechanics in SARS-CoV-2 induced acute respiratory&#xD;
+      failure. A precise characterisation of lung mechanics and heart-lung-interactions might allow&#xD;
+      a better understanding of SARS-CoV-2 induced acute respiratory failure and thus lead to&#xD;
+      better mechanical ventilation strategies.&#xD;
+&#xD;
+      This monocentric, observational study of critically ill COVID-19 patients in the ICU, will&#xD;
+      employ impedance tomography, right-heart catheterization, oesophageal pressure measurements,&#xD;
+      indirect calorimetry as well as classic mechanical ventilation parameters to characterise the&#xD;
+      mechanical characteristics of the lung as well as the heart-lung interactions in SARS-CoV-2&#xD;
+      induced acute respiratory failure.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">October 20, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">October 31, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Time dependent compliance change</measure>
+    <time_frame>Mixed Model Assessment of compliance over time until extubation (measurements every 2 days up to 90 days)</time_frame>
+    <description>Compliance change over the length of mechanical ventilation</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>PEEP and time dependent change in dead space</measure>
+    <time_frame>Mixed Model Assessment of Dead Space over time until extubation (measurements every 2 days up to 90 days)</time_frame>
+    <description>Change in Dead Space over the length of mechanical ventilation</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>PEEP and time dependent change in shunt fraction</measure>
+    <time_frame>Mixed Model Assessment of shunt fraction over time until extubation (measurements every 2 days up to 90 days)</time_frame>
+    <description>Change in shunt fraction over the length of mechanical ventilation</description>
+  </primary_outcome>
+  <enrollment type="Anticipated">25</enrollment>
+  <condition>Covid19</condition>
+  <condition>ARDS</condition>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>Assessment of lung mechanics and heart-lung interactions</intervention_name>
+    <description>Impedance tomography, right-heart catheterization, oesophageal pressure measurements, indirect calorimetry and classic mechanical ventilation parameters</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The project population targeted with this research, consists of a critically ill COVID-19&#xD;
+        diagnosed population being admitted to the Institute of Intensive Care of the University&#xD;
+        Hospital Zurich and treated with mechanical ventilation.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  SARS-CoV-2 infection&#xD;
+&#xD;
+          -  Moderate to Severe ARDS after Berlin Classification at PEEP 5&#xD;
+&#xD;
+          -  Admission to the Institute of Intensive Care of the University Hospital Zurich&#xD;
+&#xD;
+          -  Invasive Mechanical Ventilation&#xD;
+&#xD;
+          -  Signed Study Informed Consent or emergency procedure according to article 30 HFG&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Pregnant or breast feeding patients&#xD;
+&#xD;
+          -  Age &lt;18 years&#xD;
+&#xD;
+          -  Presumed rejection of the study intervention&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Philipp K Buehler, MD</last_name>
+    <phone>+41 43 25 31340</phone>
+    <email>Philipp.Buehler@usz.ch</email>
+  </overall_contact>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>October 19, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 21, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 22, 2020</study_first_posted>
+  <last_update_submitted>October 21, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 21, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 22, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>lung mechanics</keyword>
+  <keyword>heart-lung interaction</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Distress Syndrome, Newborn</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Adult</mesh_term>
+    <mesh_term>Acute Lung Injury</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

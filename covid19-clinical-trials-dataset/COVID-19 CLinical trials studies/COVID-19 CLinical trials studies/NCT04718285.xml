@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3337">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04718285</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MON786.168.1</org_study_id>
+    <nct_id>NCT04718285</nct_id>
+  </id_info>
+  <brief_title>Investigation the Effect of Montelukast in COVID-19</brief_title>
+  <official_title>A National, Multi-Center, Open-Label, Three-Arm, Phase II Study to Investigate the Effect of Montelukast Between Emergency Room Visits and Hospitalizations in COVID-19 Pneumonia in Comparison With Standard Treatment</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Bahçeşehir University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Medipol University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>The Scientific and Technological Research Council of Turkey</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Bahçeşehir University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Small molecule inhibitors have previously been investigated in different studies as possible&#xD;
+      therapeutics in the treatment of SARS-CoV-2. In the current drug repurposing study, the&#xD;
+      investigators identified the leukotriene (D4) receptor antagonist Montelukast as a novel&#xD;
+      agent that simultaneously targets two important drug targets of SARS-CoV-2. The investigators&#xD;
+      initially demonstrated the dual inhibition (main protease and Spike/ACE2) profile of&#xD;
+      Montelukast through multiscale molecular modeling studies. Next, the investigators&#xD;
+      characterized its effect on both targets by different in vitro experiments including the&#xD;
+      Fluorescent Resonance Energy Transfer (FRET)-based main protease enzyme inhibition assay,&#xD;
+      surface plasmon resonance (SPR) spectroscopy, pseudovirus neutralization on HEK293T / hACE2,&#xD;
+      and virus neutralization assay using xCELLigence MP real time cell analyzer.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The 2019 new coronavirus (SARS-CoV-2), was first reported in December 2019 in Wuhan (Hubei,&#xD;
+      China). It has quickly spread to other countries all around the world and effected more than&#xD;
+      67 million people worldwide becoming an urgent global pandemic. Coronaviruses are enveloped,&#xD;
+      non-segmented positive-sense RNA viruses belonging to the family of Coronaviridae, the&#xD;
+      largest family in Nidovirales and widely distributed in humans, other mammals and birds,&#xD;
+      causing respiratory, enteric, hepatic and neurological diseases. Seven species of coronavirus&#xD;
+      are known to cause disease in humans. Four of them (229E, OC43, NL63, and HKU1) are common&#xD;
+      and they mostly cause common cold symptoms in immunocompetent individuals while the other&#xD;
+      three, SARS-CoV, MERS-CoV, and SARSCoV-2 cause serious symptoms and death.&#xD;
+&#xD;
+      SARS-CoV-2 has four structural proteins which are nucleocapsid, envelope, membrane and spike.&#xD;
+      These four proteins play a vital role during the viral infection. The Spike glycoprotein (S&#xD;
+      protein) located on the external surface of coronaviruses are responsible for the connection&#xD;
+      and entry of the virus to host cells. The S protein mediates receptor recognition, cell&#xD;
+      attachment, and fusion during viral infection. While the virus is in its natural environment,&#xD;
+      S protein of coronavirus is inactive. During viral infection, target cell proteases activate&#xD;
+      the S protein by cleaving it into S1 and S2 subunits, which are required to activate the&#xD;
+      membrane fusion domain after viral entry into target cells. The S1 subunit includes the&#xD;
+      receptor binding domain (RBD). This domain binds directly to the peptidase domain angiotensin&#xD;
+      converting enzyme 2 (ACE-2). S2 functions during membrane fusion. The chymotrypsin-like&#xD;
+      cysteine protease called 3C-like protease (3CLpro) aka main protease (Mpro) in SARS-CoV-2 is&#xD;
+      a vital enzyme involved in processes such as the processing, assembly, and replication of the&#xD;
+      virus.&#xD;
+&#xD;
+      One of the key characteristics of severe COVID-19 is increased cytokine production. It is&#xD;
+      thought that the severity of the disease is primarily associated with the cytokine storm,&#xD;
+      which is an aggressive immune response to the virus. The number of white blood cells,&#xD;
+      neutrophils, and levels of procalcitonin, C-reactive protein and other inflammatory indices&#xD;
+      like IL2, IL7, IL10, granulocyte-colony stimulating factor (GSCF), interferon inducible&#xD;
+      protein -10 (IP10), monocyte chemotactic protein-1 (MCP1), macrophage inflammatory protein-1α&#xD;
+      (MIP1A), and TNF are significantly higher in severe cases in patients with COVID-19.&#xD;
+      Specifically, IL-1β, IL-6, and IL-10 are the three most elevated cytokines in serious cases.&#xD;
+      One result of the cytokine storm is lung injury that can develop into acute lung injury or&#xD;
+      its more severe type (acute respiratory distress syndrome, ARDS). Studies have shown the&#xD;
+      relation between COVID-19 and the most common chronic conditions such as diabetes,&#xD;
+      cardiovascular diseases, respiratory system diseases, immune system disorders, etc. Asthma&#xD;
+      and chronic obstructive pulmonary disease (COPD) are among the diseases of the respiratory&#xD;
+      system that are most emphasized. Asthma is a chronic inflammatory airway condition. There is&#xD;
+      significant evidence that represents the relation of asthmatic patients in the population&#xD;
+      with viral infections like rhinoviruses. Virus infections cause upper respiratory tract&#xD;
+      infection, like influenza A, rhinovirus, and respiratory syncytial virus (RSV) elevate local&#xD;
+      leukotriene levels. Leukotrienes, which play a role in the contraction of bronchial muscles,&#xD;
+      are effective in initiating and amplifying many biological responses, including mast cell&#xD;
+      cytokine secretion, macrophage activation, and dendritic cell maturation and migration.&#xD;
+      Leukotrienes (LTC4, LTD4 and LTE4), activated basophils, eosinophils, macrophages, and&#xD;
+      products of mast cells are types of lipids conjugated with peptides. LTD4 receptors belong to&#xD;
+      G protein-coupled receptor (GPCR) family. Montelukast is a selective leukotriene (D4)&#xD;
+      receptor antagonist which is a member of quinolines and it was approved by FDA as an oral&#xD;
+      tablet in 1998. It is a licensed drug used for allergic rhinitis, exercise-induced&#xD;
+      bronchospasm and especially prophylaxis and chronic treatment of asthma. As a result of LTD4&#xD;
+      blockage, NF-kB pathway activation and release of the proinflammatory mediators (i.e., IL-6,8&#xD;
+      and 10, TNF-a and MCP-1) decrease. Considering these anti-inflammatory effects by leukotriene&#xD;
+      receptor inhibition and possible antiviral effects, Montelukast maybe considered for the&#xD;
+      effective medication against SARS CoV-2.&#xD;
+&#xD;
+      Here, initially the investigators explored the potential role of Montelukast in the&#xD;
+      management of SARS-CoV-2 infection with multiscale molecular modeling approaches and its&#xD;
+      promising results both in main protease and Spike/ACE2 interface encouraged the investigators&#xD;
+      to perform further detailed in vitro experiments. The results of FRET-based biochemical&#xD;
+      assays, surface plasmon resonance (SPR), pseudovirus neutralization and virus neutralization&#xD;
+      experiments demonstrated the effect of Montelukast on SARS-CoV-2.&#xD;
+&#xD;
+      This study was designed as a national, multi-center, open-label, randomized, parallel,&#xD;
+      three-arm, phase-II study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 30, 2021</start_date>
+  <completion_date type="Anticipated">May 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 30, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Hospitalized patient rates</measure>
+    <time_frame>15 days</time_frame>
+    <description>The number of hospitalized patients</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Emergency room visit rates of patients</measure>
+    <time_frame>15 days</time_frame>
+    <description>The number of emergency room visits of patients not hospitalized</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to emergency room visit</measure>
+    <time_frame>15 days</time_frame>
+    <description>The time (days) until the emergency room visit</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to hospitalization</measure>
+    <time_frame>15 days</time_frame>
+    <description>The time (days) until the hospitalization</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Inpatient length of stay</measure>
+    <time_frame>15 days</time_frame>
+    <description>Length of stay in the hospital (days)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to ICU admission</measure>
+    <time_frame>15 days</time_frame>
+    <description>The time (days) until admission to intensive care unit</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to intubation</measure>
+    <time_frame>15 days</time_frame>
+    <description>The time (days) until intubation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality rate</measure>
+    <time_frame>15 days</time_frame>
+    <description>All-cause mortality rate</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Family members rates with PCR positive test results</measure>
+    <time_frame>15 days</time_frame>
+    <description>The number of family members with PCR positive</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number/characteristics of AEs and SAEs</measure>
+    <time_frame>21 days</time_frame>
+    <description>Number/characteristics of Adverse Event (AE) and Serious Adverse Event (SAE) related to study drug or hematological and biochemical parameters from baseline until the end of study</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in blood pressure from baseline</measure>
+    <time_frame>21 days</time_frame>
+    <description>Clinical evaluation of systolic and diastolic blood pressure changes from baseline until the end of study</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in pulse from baseline</measure>
+    <time_frame>21 days</time_frame>
+    <description>Clinical evaluation of pulse values from baseline until the end of study</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in respiratory rate from baseline</measure>
+    <time_frame>21 days</time_frame>
+    <description>Clinical evaluation of respiratory rate levels from baseline until the end of study</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in fever from baseline</measure>
+    <time_frame>21 days</time_frame>
+    <description>Clinical evaluation of fever changes from baseline until the end of study</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Changes in oxygen saturation from baseline</measure>
+    <time_frame>21 days</time_frame>
+    <description>Clinical evaluation of oxygen saturation changes from baseline until the end of study</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">380</enrollment>
+  <condition>COVID-19</condition>
+  <condition>SARS-CoV-2</condition>
+  <arm_group>
+    <arm_group_label>Montelukast</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>6x10 mg oral montelukast daily for 14 days.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Montelukast plus Favicovir (Favipiravir)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>200 mg oral favicovir for 5 days in a regimen of 2x1600 mg (oral) loading dose on day-1 (eight tablets in the morning and eight tablets in the evening) followed by 2x600 mg maintenance dose (three tablets in the morning and three tablets in the evening) on day-2 to day-5 and 6x10 mg oral montelukast daily for 14 days, concurrently.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Favicovir (Standard Treatment)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>200 mg oral favicovir for 5 days in a regimen of 2x1600 mg (oral) loading dose on day-1 (eight tablets in the morning and eight tablets in the evening) followed by 2x600 mg maintenance dose (three tablets in the morning and three tablets in the evening) on day-2 to day-5.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Montelukast Oral Tablet</intervention_name>
+    <description>6x10 mg oral montelukast daily for 14 days.</description>
+    <arm_group_label>Montelukast</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Montelukast plus Favicovir (Favipiravir)</intervention_name>
+    <description>200 mg oral favicovir for 5 days in a regimen of 2x1600 mg (oral) loading dose on day-1 (eight tablets in the morning and eight tablets in the evening) followed by 2x600 mg maintenance dose (three tablets in the morning and three tablets in the evening) on day-2 to day-5 and 6x10 mg oral montelukast daily for 14 days, concurrently.</description>
+    <arm_group_label>Montelukast plus Favicovir (Favipiravir)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Favicovir (Standard Treatment)</intervention_name>
+    <description>200 mg oral favicovir for 5 days in a regimen of 2x1600 mg (oral) loading dose on day-1 (eight tablets in the morning and eight tablets in the evening) followed by 2x600 mg maintenance dose (three tablets in the morning and three tablets in the evening) on day-2 to day-5.</description>
+    <arm_group_label>Favicovir (Standard Treatment)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Male or female patients aged 18 years and older infected with the SARS-CoV-2 infection&#xD;
+&#xD;
+          -  Patients with COVID-19 symptoms and have a positive PCR test result&#xD;
+&#xD;
+          -  Patients in a stable clinical condition and basically in an outpatient condition&#xD;
+&#xD;
+          -  Patients who sign the informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients with a partial oxygen pressure &lt; 90% and who have required hospitalization&#xD;
+&#xD;
+          -  Patients who have required intensive care&#xD;
+&#xD;
+          -  Any condition which, in the opinion of the Principal Investigator, would prevent full&#xD;
+             participation in and compliance with the trial protocol&#xD;
+&#xD;
+          -  Patients who have been involved in any other interventional studies&#xD;
+&#xD;
+          -  Patients with uncontrolled Type I or Type II diabetes mellitus (DM)&#xD;
+&#xD;
+          -  Patients with severe liver failure (Child Pugh score ≥ C, AST&gt; 5 times the upper limit&#xD;
+             of normal (ULN)&#xD;
+&#xD;
+          -  Patients with severe renal failure (GFR ≤30 mL/min/1.73 m2) or continuous dialysis&#xD;
+             (hemodialysis, peritoneal dialysis) or continuous renal replacement therapy&#xD;
+&#xD;
+          -  Patients with serious cardiac problems such as heart failure&#xD;
+&#xD;
+          -  Patients with hypersensitivity to montelukast or other drugs in the study&#xD;
+&#xD;
+          -  Patients with rare hereditary problems of galactose / fructose intolerance, glucose-&#xD;
+             galactose malabsorption or sucrase-isomaltase insufficiency&#xD;
+&#xD;
+          -  Pregnant and lactating women&#xD;
+&#xD;
+          -  Patients who cannot use sexual abstinence or appropriate contraceptive method during&#xD;
+             the study&#xD;
+&#xD;
+          -  Patients who are treated with any other antiviral drugs for COVID-19 in the last 30&#xD;
+             days&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Prof. Serdar Durdagi, Ph.D.</last_name>
+    <phone>+90-216-579-8217</phone>
+    <email>serdar.durdagi@med.bau.edu.tr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Bahcesehir University, School of Medicine, Department of Biophysics,</name>
+      <address>
+        <city>Istanbul</city>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Prof. Serdar Durdagi, Ph.D.</last_name>
+      <phone>+90-216-579-8217</phone>
+      <email>serdar.durdagi@med.bau.edu.tr</email>
+    </contact>
+    <contact_backup>
+      <last_name>durdagilab.com</last_name>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Turkey</country>
+  </location_countries>
+  <reference>
+    <citation>Durdagi S, et al. The neutralization effect of Montelukast on SARS-CoV-2 is shown by multiscale in silico simulations and combined in vitro studies. bioRxiv 2020.12.26.424423; doi: https://doi.org/10.1101/2020.12.26.424423</citation>
+  </reference>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>January 15, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 20, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 22, 2021</study_first_posted>
+  <last_update_submitted>January 20, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 20, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 22, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Bahçeşehir University</investigator_affiliation>
+    <investigator_full_name>Serdar Durdagi</investigator_full_name>
+    <investigator_title>Prof., Ph.D.</investigator_title>
+  </responsible_party>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Montelukast</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

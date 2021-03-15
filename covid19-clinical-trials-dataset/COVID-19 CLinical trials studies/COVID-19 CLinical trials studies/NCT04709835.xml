@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1411">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04709835</url>
+  </required_header>
+  <id_info>
+    <org_study_id>WV43042</org_study_id>
+    <nct_id>NCT04709835</nct_id>
+  </id_info>
+  <brief_title>Study to Evaluate the Effects of AT-527 in Non-Hospitalized Adult Patients With Mild or Moderate COVID-19</brief_title>
+  <official_title>A Phase II Randomized, Double-Blind, Placebo-Controlled Study to Evaluate the Antiviral Activity, Safety, Pharmacokinetics, and Efficacy of RO7496998 (AT-527) in Otherwise Healthy Non-Hospitalized Adult Patients With Mild or Moderate COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hoffmann-La Roche</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Atea Pharmaceuticals, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Hoffmann-La Roche</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This randomized study evaluates the antiviral activity, safety, efficacy and pharmacokinetics&#xD;
+      of AT-527 versus a placebo in participants with mild or moderate coronavirus disease&#xD;
+      (COVID-19) who are not hospitalized and are otherwise healthy.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 15, 2021</start_date>
+  <completion_date type="Anticipated">February 15, 2021</completion_date>
+  <primary_completion_date type="Anticipated">February 15, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change from Baseline in the Amount of Severe Acute Respiratory Syndrome Coronavirus-2 (SARS-CoV-2) Virus RNA</measure>
+    <time_frame>Cohort A: Up to Day 7; Cohorts B-E: Up to Day 14.</time_frame>
+    <description>SARS-CoV-2 virus RNA will be measured by reverse-transcription polymerase chain reaction (RT-PCR).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to Cessation of SARS-CoV-2 Viral Shedding</measure>
+    <time_frame>Cohort A: Up to Day 7; Cohorts B-E: Up to Day 14.</time_frame>
+    <description>Time to cessation of viral shedding is defined as the time between the initiation of any study treatment and first time when the virus RNA by RT-PCR is below the limit of detection.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Sustained Non-Detectable SARS-CoV-2 Virus RNA</measure>
+    <time_frame>Cohort A: Up to Day 7; Cohorts B-E: Up to Day 14.</time_frame>
+    <description>Time to sustained non-detectable SARS-CoV-2 virus RNA is defined as the time from initiation of study treatment to the last timepoint when the virus RNA by RT-PCR is below the limit of detection.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of Participants Positive for SARS-CoV-2 Virus RNA at Specified Timepoints</measure>
+    <time_frame>Cohort A: Up to Day 7; Cohorts B-E: Up to Day 14.</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area Under the Curve (AUC) in the Amount of SARS-CoV-2 Virus RNA</measure>
+    <time_frame>Cohort A: Up to Day 7; Cohorts B-E: Up to Day 14.</time_frame>
+    <description>AUC in the amount of SARS-CoV-2 virus RNA from baseline to the last sample timepoint.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Alleviation of COVID-19 Symptoms</measure>
+    <time_frame>Up to 28 Days</time_frame>
+    <description>Alleviation of symptoms is defined as the length of time taken from start of treatment to the point at which the following criteria are met and maintained for at least 21.5 hours: Score of 0 or 1 on Items 1-12 of the COVID-19 Symptom Diary.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Fever</measure>
+    <time_frame>Up to 28 Days</time_frame>
+    <description>Defined as the time to return to an afebrile state (temperature ≤ 37.5°C) maintained for at least 21.5 hours</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Frequency of COVID-19 Related Complications</measure>
+    <time_frame>Up to 33 Days</time_frame>
+    <description>Examples of COVID-19 related complications include death, hospitalization, radiologically confirmed pneumonia, acute respiratory failure, sepsis, coagulopathy, pericarditis, myocarditis, and cardiac failure.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Alleviation of an Individual Symptom</measure>
+    <time_frame>Up to 28 Days</time_frame>
+    <description>Time to alleviation of an individual symptom is defined as the time taken from the start of treatment to the point at which the following criterion is met and maintained (for each individual symptom) for at least 21.5 hours:&#xD;
+Score of 0 or 1 for Items 1-12 of the COVID-19 Symptom Diary.&#xD;
+Score of 0 for Items 13 and 14 of the COVID-19 Symptom Diary.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants with Adverse Events (AEs)</measure>
+    <time_frame>Up to 33 Days</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma Concentration of AT-511, AT-551, AT-229 and AT-273</measure>
+    <time_frame>Cohort A: Up to Day 7; Cohorts B-E: Up to Day 8</time_frame>
+    <description>AT-511 is the free base form of AT-527. Its major metabolites are AT-551, AT-229, and AT 273.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Relationship Between Plasma Concentration of AT- 273 and Anti-Viral Activity</measure>
+    <time_frame>Cohort A: Up to Day 7; Cohorts B-E: Up to Day 8</time_frame>
+    <description>Drug exposure response relationship will be explored through modelling (PK-PD modelling) to evaluate the relationship between plasma concentrations of AT-273 and viral load at each timepoint</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">220</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>AT-527</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive 550 mg AT-527 twice a day (BID) on an outpatient basis in Cohort A. Cohorts B-E doses are to be determined.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>AT-527</intervention_name>
+    <description>Results from Cohort A will determine the dose and regimen to be used for Cohort B. Cohort C, D and E dose and regimen will also be based on emerging data.</description>
+    <arm_group_label>AT-527</arm_group_label>
+    <other_name>RO7496998</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>The dose and regimen of the placebo will match that of the respective AT-527 comparator arm.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Positive SARS-CoV-2 diagnostic test (RT-PCR or rapid antigen test)at screening&#xD;
+&#xD;
+          -  Has symptoms consistent with mild or moderate COVID-19, as determined by the&#xD;
+             investigator, with onset ≤5 days before dosing on Day 1&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Clinical signs indicative of COVID-19 illness requiring hospitalization, defined as&#xD;
+             any of the following: shortness of breath at rest, respiratory rate&#xD;
+&#xD;
+             ≥30, heart rate ≥125, peripheral capillary oxygen saturation ≤93% on room air&#xD;
+&#xD;
+          -  Presence of any of the following risk factors for severe COVID-19 illness: obesity&#xD;
+             (body mass index ≥30 kg/m2), chronic kidney disease, chronic obstructive pulmonary&#xD;
+             disease, asthma, heart conditions (e.g., heart failure, coronary artery disease,&#xD;
+             cardiomyopathies), hypertension, diabetes, liver disease, hematological disorders, or&#xD;
+             immunosuppression&#xD;
+&#xD;
+          -  Treatment with a therapeutic agent against SARS-CoV-2 including, but not limited to,&#xD;
+             other direct acting antivirals, convalescent plasma, monoclonal antibodies against&#xD;
+             SARS CoV-2, or intravenous immunoglobulin within 3 months or less than 5 drug&#xD;
+             elimination half-lives (whichever is longer) prior to screening&#xD;
+&#xD;
+          -  Concurrent infection requiring systemic antiviral or antibacterial therapy at&#xD;
+             screening&#xD;
+&#xD;
+          -  Requirement, in the opinion of the investigator, for any of the prohibited medications&#xD;
+             during the study&#xD;
+&#xD;
+          -  Use of hydroxychloroquine or amiodarone within 7 days of screening&#xD;
+&#xD;
+          -  Pregnant or breastfeeding, or intending to become pregnant during the study or within&#xD;
+             30 days after the final dose of AT-527. Women of childbearing potential must have a&#xD;
+             negative urine pregnancy test result at screening&#xD;
+&#xD;
+          -  Planned procedure or surgery during the study&#xD;
+&#xD;
+          -  Active cancer at any site&#xD;
+&#xD;
+          -  History of organ transplant&#xD;
+&#xD;
+          -  Known history of hepatitis C&#xD;
+&#xD;
+          -  Known history of hepatitis B&#xD;
+&#xD;
+          -  Known HIV infection&#xD;
+&#xD;
+          -  Known allergy or hypersensitivity to study drug or drug product excipients&#xD;
+&#xD;
+          -  Current smoker, or former smoker with a smoking history of ≥10 pack-years&#xD;
+&#xD;
+          -  Substance abuse, as determined by the investigator, within 12 months prior to&#xD;
+             screening&#xD;
+&#xD;
+          -  Poor peripheral venous access&#xD;
+&#xD;
+          -  Malabsorption syndrome or other condition that would interfere with enteral absorption&#xD;
+&#xD;
+          -  For Cohorts B-E only: Active psychiatric disease requiring treatment, or history of&#xD;
+             any psychiatric disorder, which, in the investigator's judgment, could deteriorate&#xD;
+             during the 14 day residential stay period of the study&#xD;
+&#xD;
+          -  Any clinically significant history of epistaxis within the last 3 months and/or&#xD;
+             history of being hospitalized due to epistaxis of any previous occasion&#xD;
+&#xD;
+          -  History of anaphylaxis&#xD;
+&#xD;
+          -  Any serious medical condition or abnormality in clinical laboratory tests that, in the&#xD;
+             investigator's judgment, precludes the patient's safe participation in and completion&#xD;
+             of the study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>64 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Clinical Trials</last_name>
+    <role>Study Director</role>
+    <affiliation>Hoffmann-La Roche</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>WV43042 www.roche.com/about_roche/roche_worldwide.htm</last_name>
+    <phone>888-662-6728</phone>
+    <email>global-roche-genentech-trials@gene.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Multiprofile Hospital For Active Treatment Dr. Tota Venkova JSC</name>
+      <address>
+        <city>Gabrovo</city>
+        <zip>5300</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>MHAT Dr. Atanas Dafovski AD</name>
+      <address>
+        <city>Kardzhali</city>
+        <zip>6600</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Multiprofile Hospital for Active Treatment - Prof. Dr. Paraskev Stoyanov AD</name>
+      <address>
+        <city>Lovech</city>
+        <zip>5500</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Multiprofile Hospital for Active Treatment Plovdiv</name>
+      <address>
+        <city>Plovdiv</city>
+        <zip>4003</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Multiprofile Hospital for Active Treatment (MHAT) - Targovishte</name>
+      <address>
+        <city>Targovishte</city>
+        <zip>7700</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Connolly Hospital</name>
+      <address>
+        <city>Dublin</city>
+        <zip>15</zip>
+        <country>Ireland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Tower Family Healthcare - Moorgate Primary Care Ce</name>
+      <address>
+        <city>Bury</city>
+        <zip>BL9 0NJ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Bulgaria</country>
+    <country>Ireland</country>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>January 12, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 13, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 14, 2021</study_first_posted>
+  <last_update_submitted>January 13, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 13, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 14, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Qualified researchers may request access to individual patient level data through the clinical study data request platform (www.vivli.org). Further details on Roche's criteria for eligible studies are available here (https://vivli.org/ourmember/roche/). For further details on Roche's Global Policy on the Sharing of Clinical Information and how to request access to related clinical study documents, see here (https://www.roche.com/research_and_development/who_we_are_how_we_work/clinical_trials/our_commitment_to_data_sharing.htm)</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

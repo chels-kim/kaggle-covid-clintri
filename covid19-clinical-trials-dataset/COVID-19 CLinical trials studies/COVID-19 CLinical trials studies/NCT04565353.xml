@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4986">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04565353</url>
+  </required_header>
+  <id_info>
+    <org_study_id>843523</org_study_id>
+    <nct_id>NCT04565353</nct_id>
+  </id_info>
+  <brief_title>Testing Multiple Behavioral Science Strategies to Increase Flu-Shot Rates</brief_title>
+  <official_title>Testing Multiple Behavioral Science Strategies to Increase Flu-Shot Rates</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Pennsylvania</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Geisinger Clinic</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Pennsylvania</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This research aims to identify which behavioral science strategies are most effective at&#xD;
+      increasing flu vaccination rates overall and based on patients' individual characteristics.&#xD;
+      Past behavioral science interventions have shown promise in increasing flu vaccinations. For&#xD;
+      example, successful interventions have encouraged people to make concrete plans for when they&#xD;
+      will get a flu vaccination (Milkman et al. 2011), sent automated calls or text messages&#xD;
+      reminding patients to get a flu vaccination (Cutrona et al. 2018; Regan et al. 2017), or&#xD;
+      provided financial incentives for getting vaccinated (Nowalk et al. 2010). Although these&#xD;
+      results are promising, these studies have been conducted in isolation on different&#xD;
+      populations, which makes it difficult to compare their interventions' effectiveness or to&#xD;
+      have enough power to reliably detect differing responses to interventions based on individual&#xD;
+      characteristics.&#xD;
+&#xD;
+      This research will simultaneously test 19 different SMS interventions to increase flu&#xD;
+      vaccinations in a &quot;mega-study&quot; and apply machine learning to identify which interventions&#xD;
+      work best for whom. The interventions are designed by behavioral science experts from the&#xD;
+      Behavior Change for Good Initiative (BCFG), Penn Medicine Nudge Unit (PMNU), and Geisinger&#xD;
+      Behavioral Insights Team (BIT). We expect to include at least 80,000 participants.&#xD;
+&#xD;
+      The specific aims of this research are to identify (1) which behavioral science strategies&#xD;
+      effectively increase flu vaccination rates overall, and (2) which strategies are most&#xD;
+      effective for different subgroups (e.g., based on age, gender, race).&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 20, 2020</start_date>
+  <completion_date type="Anticipated">March 2021</completion_date>
+  <primary_completion_date type="Anticipated">March 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Participants will be randomly assigned to the different arms. Randomization will be stratified by age (65+ vs. 18-64), vaccine receipt in 2019-2020 flu season (yes vs. no/unknown), and study site (Penn Medicine vs. Geisinger).</intervention_model_description>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>Double (Care Provider, Outcomes Assessor)</masking>
+    <masking_description>As treated participants will receive text messages, there is no scope for blinding. Care providers will not be made aware of subjects' participation in the study, or assigned treatment arms. The study team will only receive data on subjects' assigned arms at the end of the study.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Flu shot receipt at or before appointment</measure>
+    <time_frame>The dependent variable will be assessed during a 4-day period after randomization starting three days prior to the participant's target primary care appointment through the date of the target appointment (including the date of the appointment)</time_frame>
+    <description>Our field experiment will be conducted with Penn Medicine and Geisinger Health patients via SMS messages sent prior to their first primary care appointment during the study period, hereafter referred to as the &quot;target appointment.&quot; The key dependent variable is whether participants receive a flu shot at or before their target appointment (as recorded in their electronic health records).&#xD;
+If participants cancel or do not show up for their target appointment after they have been randomized to a treatment and then schedule a new appointment during the study period, their new primary care appointment becomes the target appointment.&#xD;
+Participants who have been randomized to a treatment will be counted as not having received a flu shot if they cancel or do not show up for their target appointment and do not schedule a new appointment during the study period.&#xD;
+Participants who receive a flu shot before they receive the SMS intervention will be excluded from the analyses.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Flu shot receipt before March 31, 2021</measure>
+    <time_frame>Up to 6 months after randomization.</time_frame>
+    <description>The secondary dependent variable is whether participants receive the flu shot at or before their target appointment or at any time after this appointment (by March 31, 2021), as recorded in their electronic health records.&#xD;
+Participants who receive a flu shot before they receive the SMS intervention will be excluded from the analyses.</description>
+  </secondary_outcome>
+  <number_of_arms>20</number_of_arms>
+  <enrollment type="Anticipated">80000</enrollment>
+  <condition>Influenza, Human</condition>
+  <arm_group>
+    <arm_group_label>Holdout control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Participants will only receive the standard appointment reminders from their providers.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Default Reservations Opt-Out Condition</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The day before their scheduled appointment, participants receive a text reading: &quot;A flu shot has been reserved for you to receive at your appointment tomorrow. Reply Y if you want this shot held for you, N if you don't.&quot; The text will include a picture of a vial that says &quot;Your Flu Shot&quot; on it.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Default Reservations Opt-In Condition</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The day before their scheduled appointment, participants receive a text reading: &quot;Reply Y if you would like to receive a flu shot at your appointment tomorrow, N if not.&quot; The text will include a picture of vial with no text on it.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Intergroup Competition Treatment Condition</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Three days before their scheduled appointment, participants will receive a text message with information about how much &quot;your region&quot; lagged behind &quot;another region&quot; in flu shot rate last year (&quot;your region&quot; and &quot;another region&quot; will depend on the study site and include realistic flu shot rates based on historical CDC data). Participants will receive a reminder message on the day of the appointment.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Intergroup Competition Control Condition</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Three days before their scheduled appointment, participants will receive a text message with information about how much &quot;your region&quot; lagged behind the target flu shot rate of 70% last year (&quot;your region&quot; will depend on the study site and include realistic flu shot rates based on historical CDC data). Participants will receive a reminder message on the day of the appointment.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Flu Shot for You Symbolic Condition</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Three days before their scheduled appointment, participants will receive a text message encouraging them to get a flu shot. They will also be told that they have the opportunity to dedicate getting the flu shot to someone by texting back the initials of an individual. Participants will receive a reminder message on the day of the appointment.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Flu Shot for You Herd Immunity Condition</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Three days before their scheduled appointment, participants will receive a text message encouraging them to get a flu shot. They will also be told that they have the opportunity of getting the flu shot to protect a vulnerable loved one by texting back the initials of an individual. Participants will receive a reminder message on the day of the appointment.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Flu Shot for You Control Condition</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Three days before their scheduled appointment, participants will receive a text message encouraging them to get a flu shot. They will also receive a reminder message on the day of the appointment. They will not receive any further information, nor will they be asked to respond with initials of an individual.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Prosocial Condition</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The day before their scheduled appointment, participants will receive a message describing the pro-social benefits of getting a flu shot, and a reminder to ask for their flu shot. The described pro-social benefits will vary whether they emphasize the COVID-19 pandemic (e.g., protecting loved ones from the risk of hospital-acquired COVID-19 infection) or not (e.g., protecting loved ones from serious complications from the flu). Participants will also receive a reminder message on the day of the appointment.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Self-Oriented Condition</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The day before their scheduled appointment, participants will receive a message describing the self-oriented benefits of getting a flu shot, and a reminder to ask for their flu shot. The described self-oriented benefits will vary whether they emphasize the COVID-19 pandemic (e.g., protecting oneself from the risk of hospital-acquired COVID-19 infection) or not (e.g., protecting oneself from serious complications from the flu).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Information Vivid Condition</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Three days before their scheduled appointment, participants will receive a message inviting them to watch a 2-minute wellness video and answer some related questions, as well as encouragement to get the flu shot. In this condition, the video will contain vivid information about getting the flu. Participants will also receive a reminder message the day before the appointment.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Information Basic Condition</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Three days before their scheduled appointment, participants will receive a message inviting them to watch a 2-minute wellness video and answer some related questions, as well as encouragement to get the flu shot. In this condition, the video will contain basic information about getting the flu. Participants will also receive a reminder message the day before the appointment.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Information Control Condition</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Three days before their scheduled appointment, participants will receive a message inviting them to watch a 2-minute wellness video and answer some related questions, as well as encouragement to get the flu shot. In this condition, the video will contain information about exercising. Participants will also receive a reminder message the day before the appointment.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sharing Humor Condition</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The day before their scheduled appointment, participants will receive a text message encouraging them to get the flu shot. The message will include a joke about the flu and will encourage participants to share the joke with nurses, doctors, or pharmacists.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>No Humor Condition</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The day before their scheduled appointment, participants will receive a text message encouraging them to get the flu shot.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Healthy Habits Easy Health Behavior Condition</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The day before their scheduled appointment, participants will be asked if they have completed a series of easy health behaviors (e.g., whether they walked 500 feet yesterday, at least two serving of fruits and vegetables in the last week, and slept at least 6 hours the previous night). They will then be encouraged to get a flu shot at their appointment.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Healthy Habits Difficult Health Behavior Condition</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The day before their scheduled appointment, participants will be asked if they have completed a series of difficult health behaviors (e.g., whether they walked 3 miles yesterday, ate 4-6 servings of fruits and vegetables yesterday, and slept at least 9 hours the previous night). They will then be encouraged to get a flu shot at their appointment.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Healthy Habits Control Condition</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The day before their scheduled appointment, participants will receive a text message encouraging them to get a flu shot.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Just-In-Time Reminders 24-Hour Condition</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Seventy-two hours before their appointment, participants will receive a text message alerting them to the availability of the flu vaccine at their upcoming appointment. Participants will be told they'll receive a reminder, which they can opt-out from receiving. The text message reminder will be sent 24 hours before their appointment.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Just-In-Time Reminders 15-Minute Condition</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Just-In-Time Reminders 15-Minute Condition: Seventy-two hours before their appointment, participants will receive a text message alerting them to the availability of the flu vaccine at their upcoming appointment. Participants will be told they'll receive a reminder, which they can opt-out from receiving. The text message reminder will be sent 15 minutes before their appointment.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Flu shot text messages</intervention_name>
+    <description>Participants will receive text messages per descriptions listed in the arms.</description>
+    <arm_group_label>Default Reservations Opt-In Condition</arm_group_label>
+    <arm_group_label>Default Reservations Opt-Out Condition</arm_group_label>
+    <arm_group_label>Flu Shot for You Control Condition</arm_group_label>
+    <arm_group_label>Flu Shot for You Herd Immunity Condition</arm_group_label>
+    <arm_group_label>Flu Shot for You Symbolic Condition</arm_group_label>
+    <arm_group_label>Healthy Habits Control Condition</arm_group_label>
+    <arm_group_label>Healthy Habits Difficult Health Behavior Condition</arm_group_label>
+    <arm_group_label>Healthy Habits Easy Health Behavior Condition</arm_group_label>
+    <arm_group_label>Information Basic Condition</arm_group_label>
+    <arm_group_label>Information Control Condition</arm_group_label>
+    <arm_group_label>Information Vivid Condition</arm_group_label>
+    <arm_group_label>Intergroup Competition Control Condition</arm_group_label>
+    <arm_group_label>Intergroup Competition Treatment Condition</arm_group_label>
+    <arm_group_label>Just-In-Time Reminders 15-Minute Condition</arm_group_label>
+    <arm_group_label>Just-In-Time Reminders 24-Hour Condition</arm_group_label>
+    <arm_group_label>No Humor Condition</arm_group_label>
+    <arm_group_label>Prosocial Condition</arm_group_label>
+    <arm_group_label>Self-Oriented Condition</arm_group_label>
+    <arm_group_label>Sharing Humor Condition</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Penn Medicine and Geisinger patients will be included if they:&#xD;
+&#xD;
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Have a cell phone number recorded in a Penn Medicine or Geisinger database&#xD;
+&#xD;
+          -  Have a new or routine primary care appointment during the study recruitment period&#xD;
+             (not a sick visit)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Have documentation of allergy or adverse event to influenza vaccination in medical&#xD;
+             records&#xD;
+&#xD;
+          -  Have documentation of already receiving their 2020 influenza vaccination prior to&#xD;
+             randomization in medical records&#xD;
+&#xD;
+          -  Have opted out of receiving text message appointment reminders&#xD;
+&#xD;
+          -  Have asked not to be contacted for research purposes&#xD;
+&#xD;
+          -  Have an appointment with someone other than their primary care physician&#xD;
+&#xD;
+          -  Have an appointment with someone other than a physician, resident, nurse practitioner,&#xD;
+             or physician assistant&#xD;
+&#xD;
+        We will recruit as many patients as possible starting in September 2020. We will stop&#xD;
+        enrolling participants with appointments scheduled to occur after December 31, 2020 if we&#xD;
+        have reached 4,000 participants per condition. If we do not have 4,000 participants per&#xD;
+        condition by December 31, 2020, we will continue enrolling participants until we have&#xD;
+        reached 4,000 per condition, or until March 31, 2021 (discontinuing enrollment at whichever&#xD;
+        milestone arrives sooner - 4,000 people enrolled or 3/31/21).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Joseph Kay, PhD</last_name>
+    <phone>215-746-6609</phone>
+    <email>jskay@wharton.upenn.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Dena Gromet, PhD</last_name>
+    <phone>215-898-3387</phone>
+    <email>denag@wharton.upenn.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Geisinger Health</name>
+      <address>
+        <city>Danville</city>
+        <state>Pennsylvania</state>
+        <zip>17822</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Pennsylvania Health System</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Joseph S Kay</last_name>
+      <email>jskay@wharton.upenn.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Cutrona SL, Golden JG, Goff SL, Ogarek J, Barton B, Fisher L, Preusse P, Sundaresan D, Garber L, Mazor KM. Improving Rates of Outpatient Influenza Vaccination Through EHR Portal Messages and Interactive Automated Calls: A Randomized Controlled Trial. J Gen Intern Med. 2018 May;33(5):659-667. doi: 10.1007/s11606-017-4266-9. Epub 2018 Jan 30.</citation>
+    <PMID>29383550</PMID>
+  </reference>
+  <reference>
+    <citation>Milkman KL, Beshears J, Choi JJ, Laibson D, Madrian BC. Using implementation intentions prompts to enhance influenza vaccination rates. Proc Natl Acad Sci U S A. 2011 Jun 28;108(26):10415-20. doi: 10.1073/pnas.1103170108. Epub 2011 Jun 13.</citation>
+    <PMID>21670283</PMID>
+  </reference>
+  <reference>
+    <citation>Regan AK, Bloomfield L, Peters I, Effler PV. Randomized Controlled Trial of Text Message Reminders for Increasing Influenza Vaccination. Ann Fam Med. 2017 Nov;15(6):507-514. doi: 10.1370/afm.2120.</citation>
+    <PMID>29133488</PMID>
+  </reference>
+  <reference>
+    <citation>Nowalk MP, Lin CJ, Toback SL, Rousculp MD, Eby C, Raymund M, Zimmerman RK. Improving influenza vaccination rates in the workplace: a randomized trial. Am J Prev Med. 2010 Mar;38(3):237-46. doi: 10.1016/j.amepre.2009.11.011. Epub 2009 Dec 24.</citation>
+    <PMID>20036102</PMID>
+  </reference>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>September 10, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 21, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 25, 2020</study_first_posted>
+  <last_update_submitted>January 29, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 29, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Influenza vaccination</keyword>
+  <keyword>behavioral science interventions</keyword>
+  <keyword>vaccination promotion</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Influenza, Human</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

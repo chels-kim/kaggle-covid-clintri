@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1253">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04689711</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PCORI-ME-1606-35555</org_study_id>
+    <nct_id>NCT04689711</nct_id>
+  </id_info>
+  <brief_title>Prognostic Models for COVID-19 Care</brief_title>
+  <official_title>Generalizable Prognostic Models for Patient-Centered Decisions in COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Tufts Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Northwell Health</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Erasmus Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Tufts Medical Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Approximately 20% of patients hospitalized with COVID-19 require intensive care and possibly&#xD;
+      invasive mechanical ventilation (MV). Patient preferences with COVID-19 for MV may be&#xD;
+      different, because intubation for these patients is often prolonged (for several weeks), is&#xD;
+      administered in settings characterized by social isolation and is associated with very high&#xD;
+      average mortality rates. Supporting patients facing this decision requires providing an&#xD;
+      accurate forecast of their likely outcomes based on their individual characteristics.&#xD;
+&#xD;
+      The investigators therefore aim to:&#xD;
+&#xD;
+        1. Develop 3 CPMs in each of 2 hospital systems (i.e., 6 distinct models) to predict:&#xD;
+&#xD;
+           i) the need for MV in patients hospitalized with COVID-19; ii) mortality in patients&#xD;
+           receiving MV; iii) length of stay in the ICU.&#xD;
+&#xD;
+        2. Evaluate the geographic and temporal transportability of these models and examine&#xD;
+           updating approaches.&#xD;
+&#xD;
+             1. To evaluate geographic transportability, the investigators will apply the&#xD;
+                evaluation and updating framework developed (in the parent PCORI grant) to assess&#xD;
+                CPM validity and generalizability across the different datasets.&#xD;
+&#xD;
+             2. To evaluate temporal transportability, the investigators will examine both the main&#xD;
+                effect of calendar time and also examine calendar time as an effect modifier.&#xD;
+&#xD;
+        3. Engage stakeholders to facilitate best use of these CPMs in the care of patients with&#xD;
+           COVID-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      There has been a proliferation of COVID-19 clinical prediction models (CPMs) reported in the&#xD;
+      literature across health systems, but the validity and potential generalizability of these&#xD;
+      models to other settings is unknown. Generally, most hospitals (and systems) do not have a&#xD;
+      sufficient number of cases (and outcomes) to develop models fit to their local population,&#xD;
+      and predictor variables are not uniformly and reliably obtained across systems. Therefore,&#xD;
+      pooling and harmonizing data resources and assessing generalizability across different sites&#xD;
+      is urgently needed to create tools that may help support decision making across settings. In&#xD;
+      addition, since best practices are rapidly evolving over time (e.g., proning, minimizing&#xD;
+      paralytics, lung-protective volumes, remdesivir, dexamethasone or other treatments), updating&#xD;
+      and recalibrating these CPMs is crucially important.&#xD;
+&#xD;
+      In the current PCORI Methods project, the investigators developed a CPM evaluation and&#xD;
+      updating framework including both conventional and novel performance measures. The&#xD;
+      investigators will use this framework to evaluate COVID-19 prognostic models in the largest&#xD;
+      cohort of COVID-19 patients examined to date, spanning 2 datasets from very different&#xD;
+      settings. As the COVID-19 pandemic affects different regions, with subsequent waves expected,&#xD;
+      identifying the most accurate, robust and generalizable prognostic tools is needed to guide&#xD;
+      patient-centered decision making across diverse populations and settings.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Actual">December 7, 2020</start_date>
+  <completion_date type="Anticipated">August 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">August 31, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Changes in model discrimination (Model 1: need for MV in patients hospitalized with COVID-19)</measure>
+    <time_frame>30 days from hospitalization</time_frame>
+    <description>Aim 1 Outcome: Changes in Area under receiver operating characteristic curve (AUC) [delta AUC] for models predicting the probability of: the need for MV in patients hospitalized with COVID-19.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in model discrimination (Model 2: mortality in patients receiving MV)</measure>
+    <time_frame>30 days from hospitalization</time_frame>
+    <description>Aim 1 Outcome: Changes in Area under receiver operating characteristic curve (AUC) [delta AUC] for models predicting the probability of: mortality in patients receiving MV.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in model discrimination (Model 3: length of stay in the ICU)</measure>
+    <time_frame>30 days from hospitalization</time_frame>
+    <description>Aim 1 Outcome: Changes in Area under receiver operating characteristic curve (AUC) [delta AUC] for models predicting the probability of: length of stay in the ICU.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in model calibration (Model 1: need for MV in patients hospitalized with COVID-19)</measure>
+    <time_frame>30 days from hospitalization</time_frame>
+    <description>Aim 1 Outcome-Changes in Harrell's E for models predicting the probability of: the need for MV in patients hospitalized with COVID-19.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in model calibration (Model 2: mortality in patients receiving MV)</measure>
+    <time_frame>30 days from hospitalization</time_frame>
+    <description>Aim 1 Outcome-Changes in Harrell's E for models predicting the probability of: mortality in patients receiving MV.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in model calibration (Model 3: length of stay in the ICU)</measure>
+    <time_frame>30 days from hospitalization</time_frame>
+    <description>Aim 1 Outcome-Changes in Harrell's E for models predicting the probability of: length of stay in the ICU.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in net benefit (Model 1: need for MV in patients hospitalized with COVID-19)</measure>
+    <time_frame>30 days from hospitalization</time_frame>
+    <description>Aim 1 Outcome-Changes in Net Benefit for models predicting the probability of: the need for MV in patients hospitalized with COVID-19.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in net benefit (Model 2: mortality in patients receiving MV)</measure>
+    <time_frame>30 days from hospitalization</time_frame>
+    <description>Aim 1 Outcome-Changes in Net Benefit for models predicting the probability of: mortality in patients receiving MV.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in net benefit (Model 3: length of stay in the ICU)</measure>
+    <time_frame>30 days from hospitalization</time_frame>
+    <description>Aim 1 Outcome-Changes in Net Benefit for models predicting the probability of: length of stay in the ICU.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in model discrimination in external database after updating (Model 1: need for MV in patients hospitalized with COVID-19)</measure>
+    <time_frame>30 days from hospitalization</time_frame>
+    <description>Aim 2 Outcome-Changes in Area under receiver operating characteristic curve (AUC) [delta AUC] for models predicting the probability of: the need for MV in patients hospitalized with COVID-19.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in model discrimination in external database after updating (Model 2: mortality in patients receiving MV)</measure>
+    <time_frame>30 days from hospitalization</time_frame>
+    <description>Aim 2 Outcome-Changes in Area under receiver operating characteristic curve (AUC) [delta AUC] for models predicting the probability of: mortality in patients receiving MV.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in model discrimination in external database after updating (Model 3: length of stay in the ICU)</measure>
+    <time_frame>30 days from hospitalization</time_frame>
+    <description>Aim 2 Outcome-Changes in Area under receiver operating characteristic curve (AUC) [delta AUC] for models predicting the probability of: length of stay in the ICU.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in model calibration in external database after updating (Model 1: need for MV in patients hospitalized with COVID-19)</measure>
+    <time_frame>30 days from hospitalization</time_frame>
+    <description>Aim 2 Outcome-Changes in Harrell's E for models predicting the probability of: the need for MV in patients hospitalized with COVID-19.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in model calibration in external database after updating (Model 2: mortality in patients receiving MV)</measure>
+    <time_frame>30 days from hospitalization</time_frame>
+    <description>Aim 2 Outcome-Changes in Harrell's E for models predicting the probability of: mortality in patients receiving MV.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in model calibration in external database after updating (Model 3: length of stay in the ICU)</measure>
+    <time_frame>30 days from hospitalization</time_frame>
+    <description>Aim 2 Outcome-Changes in Harrell's E for models predicting the probability of: length of stay in the ICU.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in net benefit in external database after updating (Model 1: need for MV in patients hospitalized with COVID-19)</measure>
+    <time_frame>30 days from hospitalization</time_frame>
+    <description>Aim 2 Outcome-Changes in Net Benefit for models predicting the probability of: the need for MV in patients hospitalized with COVID-19.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in net benefit in external database after updating (Model 2: mortality in patients receiving MV)</measure>
+    <time_frame>30 days from hospitalization</time_frame>
+    <description>Aim 2 Outcome-Changes in Net Benefit for models predicting the probability of: mortality in patients receiving MV.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Changes in net benefit in external database after updating (Model 3: length of stay in the ICU)</measure>
+    <time_frame>30 days from hospitalization</time_frame>
+    <description>Aim 2 Outcome-Changes in Net Benefit for models predicting the probability of: length of stay in the ICU.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Stakeholder perceptions, beliefs and opinions on COVID prediction models</measure>
+    <time_frame>6 months</time_frame>
+    <description>Aim 3 Outcome-The outcome will be assessed with a codebook derived deductively from our structured interview guide to identify themes that emerge in the semi-structured sessions. Through focus groups held via synchronous video conferences, we will engage with patients and clinical providers to identify patient- and provider-reported themes that emerge in how clinical prediction models can support decision making in the care of patients with COVID-19. Themes will be identified through qualitative analysis of patient and provider feedback. We expect to elicit patient and provider beliefs, opinions and values around the scientific, ethical and pragmatic aspects of use of these models to support decision making.</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">16</enrollment>
+  <condition>Covid19</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The population will include COVID-19 survivors; family members of COVID-19 patients;&#xD;
+        caregivers for COVID-19 patients; critical care physicians; palliative care physicians;&#xD;
+        hospitalists; nurses; respiratory therapists; leaders of our clinical ethics committees and&#xD;
+        pastoral care representatives.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  COVID-19 patient survivor&#xD;
+&#xD;
+          -  Family member/caregiver of patient hospitalized for COVID-19&#xD;
+&#xD;
+          -  Physician with experience caring for COVID-19 patients&#xD;
+&#xD;
+          -  Other provider (pastoral care, nursing, respiratory therapy) with experience caring&#xD;
+             for COVID-19 patients&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Not proficient in reading or speaking English&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>David M Kent, MD, MS</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Tufts Medical Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Tufts Medical Center</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02111</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Northwell Health (The Feinstein Institutes for Medical Research)</name>
+      <address>
+        <city>Manhasset</city>
+        <state>New York</state>
+        <zip>11030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://www.pcori.org/research-results/2016/understanding-and-improving-accuracy-clinical-prediction-models-heart-disease</url>
+    <description>Parent study funded through the Patient Centered Outcome Research Institute (PCORI) to develop evaluation and updating framework for clinical prediction models used in this study.</description>
+  </link>
+  <link>
+    <url>https://cbmi.northwell.edu/nocos/</url>
+    <description>Northwell COVID-19 Survival (NOCOS) Calculator</description>
+  </link>
+  <reference>
+    <citation>Richardson S, Hirsch JS, Narasimhan M, Crawford JM, McGinn T, Davidson KW; the Northwell COVID-19 Research Consortium, Barnaby DP, Becker LB, Chelico JD, Cohen SL, Cookingham J, Coppa K, Diefenbach MA, Dominello AJ, Duer-Hefele J, Falzon L, Gitlin J, Hajizadeh N, Harvin TG, Hirschwerk DA, Kim EJ, Kozel ZM, Marrast LM, Mogavero JN, Osorio GA, Qiu M, Zanos TP. Presenting Characteristics, Comorbidities, and Outcomes Among 5700 Patients Hospitalized With COVID-19 in the New York City Area. JAMA. 2020 May 26;323(20):2052-2059. doi: 10.1001/jama.2020.6775. Erratum in: JAMA. 2020 May 26;323(20):2098.</citation>
+    <PMID>32320003</PMID>
+  </reference>
+  <reference>
+    <citation>Zhou F, Yu T, Du R, Fan G, Liu Y, Liu Z, Xiang J, Wang Y, Song B, Gu X, Guan L, Wei Y, Li H, Wu X, Xu J, Tu S, Zhang Y, Chen H, Cao B. Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study. Lancet. 2020 Mar 28;395(10229):1054-1062. doi: 10.1016/S0140-6736(20)30566-3. Epub 2020 Mar 11. Erratum in: Lancet. 2020 Mar 28;395(10229):1038. Lancet. 2020 Mar 28;395(10229):1038.</citation>
+    <PMID>32171076</PMID>
+  </reference>
+  <reference>
+    <citation>Clarification of Mortality Rate and Data in Abstract, Results, and Table 2. JAMA. 2020 May 26;323(20):2098. doi: 10.1001/jama.2020.7681.</citation>
+    <PMID>32330939</PMID>
+  </reference>
+  <reference>
+    <citation>Wynants L, Van Calster B, Collins GS, Riley RD, Heinze G, Schuit E, Bonten MMJ, Damen JAA, Debray TPA, De Vos M, Dhiman P, Haller MC, Harhay MO, Henckaerts L, Kreuzberger N, Lohman A, Luijken K, Ma J, Andaur CL, Reitsma JB, Sergeant JC, Shi C, Skoetz N, Smits LJM, Snell KIE, Sperrin M, Spijker R, Steyerberg EW, Takada T, van Kuijk SMJ, van Royen FS, Wallisch C, Hooft L, Moons KGM, van Smeden M. Prediction models for diagnosis and prognosis of covid-19 infection: systematic review and critical appraisal. BMJ. 2020 Apr 7;369:m1328. doi: 10.1136/bmj.m1328. Erratum in: BMJ. 2020 Jun 3;369:m2204.</citation>
+    <PMID>32265220</PMID>
+  </reference>
+  <reference>
+    <citation>Levy TJ, Richardson S, Coppa K, et al. Development and Validation of a Survival Calculator for Hospitalized Patients with COVID-19. medRxiv. 2020:2020.2004.2022.20075416.</citation>
+  </reference>
+  <reference>
+    <citation>Tibshirani R. Regression Shrinkage and Selection via the Lasso. Journal of the Royal Statistical Society Series B (Methodological). 1996;58(1):267-288.</citation>
+  </reference>
+  <reference>
+    <citation>Putter H, Fiocco M, Geskus RB. Tutorial in biostatistics: competing risks and multi-state models. Stat Med. 2007 May 20;26(11):2389-430.</citation>
+    <PMID>17031868</PMID>
+  </reference>
+  <reference>
+    <citation>de Wreede LC, Fiocco M, Putter H. The mstate package for estimation and prediction in non- and semi-parametric multi-state and competing risks models. Comput Methods Programs Biomed. 2010 Sep;99(3):261-74. doi: 10.1016/j.cmpb.2010.01.001. Epub 2010 Mar 15.</citation>
+    <PMID>20227129</PMID>
+  </reference>
+  <reference>
+    <citation>van Klaveren D, Steyerberg EW, Gönen M, Vergouwe Y. The calibrated model-based concordance improved assessment of discriminative ability in patient clusters of limited sample size. Diagn Progn Res. 2019 Jun 6;3:11. doi: 10.1186/s41512-019-0055-8. eCollection 2019.</citation>
+    <PMID>31183411</PMID>
+  </reference>
+  <reference>
+    <citation>Jones AE, Trzeciak S, Kline JA. The Sequential Organ Failure Assessment score for predicting outcome in patients with severe sepsis and evidence of hypoperfusion at the time of emergency department presentation. Crit Care Med. 2009 May;37(5):1649-54. doi: 10.1097/CCM.0b013e31819def97.</citation>
+    <PMID>19325482</PMID>
+  </reference>
+  <reference>
+    <citation>Lim WS, van der Eerden MM, Laing R, Boersma WG, Karalus N, Town GI, Lewis SA, Macfarlane JT. Defining community acquired pneumonia severity on presentation to hospital: an international derivation and validation study. Thorax. 2003 May;58(5):377-82.</citation>
+    <PMID>12728155</PMID>
+  </reference>
+  <reference>
+    <citation>Griffith GJ, Morris TT, Tudball MJ, Herbert A, Mancano G, Pike L, Sharp GC, Sterne J, Palmer TM, Davey Smith G, Tilling K, Zuccolo L, Davies NM, Hemani G. Collider bias undermines our understanding of COVID-19 disease risk and severity. Nat Commun. 2020 Nov 12;11(1):5749. doi: 10.1038/s41467-020-19478-2.</citation>
+    <PMID>33184277</PMID>
+  </reference>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>November 20, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 28, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 30, 2020</study_first_posted>
+  <last_update_submitted>December 28, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 28, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 30, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>December 1, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/11/NCT04689711/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

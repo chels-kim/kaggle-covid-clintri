@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="223">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04716907</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2020/06</org_study_id>
+    <nct_id>NCT04716907</nct_id>
+  </id_info>
+  <brief_title>Thymic Function in Patients With COVID-19</brief_title>
+  <acronym>COVITHYM</acronym>
+  <official_title>Thymic Function in Patients With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>CMC Ambroise Paré</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>CMC Ambroise Paré</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The main clinical manifestation associated with SARS-CoV-2 infection is an influenza-like&#xD;
+      illness that follows the infection of the respiratory tract. In a few percent of infected&#xD;
+      people, inflammation of the lungs leads to severe pneumonia that requires hospitalization, in&#xD;
+      intensive care units for the more severe cases. Despite intensive care, a fatal outcome&#xD;
+      occurs in 6% and 12% of women and men over 80 years of age hospitalized for severe COVID,&#xD;
+      respectively.&#xD;
+&#xD;
+      Factors associated with a higher risk of death in patients with SARS-CoV-2 include age and&#xD;
+      low circulating lymphocyte counts. Significant lymphopenia is indeed frequently observed in&#xD;
+      patients with severe COVID-19 and both phenotypic and functional changes in antiviral T cells&#xD;
+      have been correlated with the severity of COVID-19.&#xD;
+&#xD;
+      The thymus, the organ that produces T lymphocytes, undergoes progressive physiological&#xD;
+      involution with age. However, in the elderly, rare cases of thymic hyperplasia are reported&#xD;
+      in autoimmune diseases or cancers, or are observed in response to deep lymphopenia, whether&#xD;
+      or not associated with sepsis.&#xD;
+&#xD;
+      This cohort of patients treated for a SARS-CoV-2 infection could allow to better understand&#xD;
+      the role of the thymus in this pathology.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 1, 2021</start_date>
+  <completion_date type="Anticipated">February 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">February 1, 2022</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Genetic Predisposition to severe forms of COVID-19</measure>
+    <time_frame>through study completion, average 1 year</time_frame>
+    <description>Test of association between single-nucleotide polymorphisms (SNP) within the TCRA/D region known to influence the level of thymopoiesis (Clave et al., Sci Transl Med., 2018) and CT scan classification of COVID-associated pneumopathy (0=Absent or minor pulmonary parenchymal changes ; 1=Limited ground-glass opacities ; 2=Bilateral ground-glass opacities &lt; 50% of pulmonary parenchyma ; 3=Idem 2, with superimposed inter/intra lobular septal thickening, i.e. 'crazy paving' ; 4=Bilateral ground-glass opacities &gt; 50% of pulmonary parenchyma ; 5=Idem 4, with superimposed 'crazy paving' ; 6=Idem 5, with pulmonary fibrosis).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Genetic Predisposition to thymic enlargement observed during COVID-19 infection</measure>
+    <time_frame>through study completion, average 1 year</time_frame>
+    <description>Test of association between single-nucleotide polymorphisms (SNP) within the TCRA/D region known to influence the level of thymopoiesis (Clave et al., Sci Transl Med., 2018) and CT scan classification of thymus aspects (0=Fatty thymus atrophy (the most common in middle aged adults) ; A=Homogeneous non-fatty thymus (common in young adults) or Fat in the thymus area associated with micronodules or Moderate infiltration of the thymus area ; B=Hyperplasia, marked infiltration, micronodules or Hyperplasia with well-defined contours or Nodular hyperplasia without a tumour mass or Pseudo-tumoral mass with well-defined contours).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Genetic Predisposition to enhanced thymic function during COVID-19 infection</measure>
+    <time_frame>through study completion, average 1 year</time_frame>
+    <description>Test of association between single-nucleotide polymorphisms (SNP) within the TCRA/D region known to influence the level of thymopoiesis (Clave et al., Sci Transl Med., 2018) and sj/βTREC ratio.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Genetic Predisposition to severity of COVID-19 pathology</measure>
+    <time_frame>through study completion, average 1 year</time_frame>
+    <description>Test of association between single-nucleotide polymorphisms (SNP) within the TCRA/D region known to influence the level of thymopoiesis (Clave et al., Sci Transl Med., 2018) and ICU length of stay.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Basal thymic function in COVID patients</measure>
+    <time_frame>through study completion, average 1 year</time_frame>
+    <description>Analysis of sj/βTREC ratio during infection and away from infection (&gt; 6 months).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Thymic function in COVID patients</measure>
+    <time_frame>through study completion, average 1 year</time_frame>
+    <description>Analysis of sj/βTREC ratio in COVID positive patients and in COVID negative patients</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Immune response in COVID patients</measure>
+    <time_frame>through study completion, average 1 year</time_frame>
+    <description>Analysis of lymphocytes in COVID positive patients and in COVID negative patients</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Inflammatory response in COVID patients</measure>
+    <time_frame>through study completion, average 1 year</time_frame>
+    <description>Analysis of serum concentrations of cytokines and chemokines in pg/ml (composite : IFNα, IFNβ, IL-17A, IL17F, IL21, IL22, IL23, IL27, IL29, TSLP, GM-CSF, IL10, IL12p70, IL1β, IL4, IL6, TNFα, VEGF, IL15, IL17E, IL33, IL8, MDC, Mip1α, Mip1β, Mip3α, SDF1), in COVID positive patients and in COVID negative patients</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">36</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Case : COVID-19 positive patients</arm_group_label>
+    <description>patients infected by COVID-19 and hospitalized during the first wave of the COVID-19 pandemic</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control : COVID-19 negative patients</arm_group_label>
+    <description>patients hospitalized for other reasons</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Genetic</intervention_type>
+    <intervention_name>Single-Nucleotide Polymorphisms (SNP) within the TCRA/D region</intervention_name>
+    <description>DNA extraction from blood samples, PCR and Sequencing</description>
+    <arm_group_label>Case : COVID-19 positive patients</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Blood sample</intervention_name>
+    <description>Dosage of sj/βTREC ratio, lymphocytes, cytokines and chemokines.</description>
+    <arm_group_label>Case : COVID-19 positive patients</arm_group_label>
+    <arm_group_label>Control : COVID-19 negative patients</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Diagnostic Test</intervention_type>
+    <intervention_name>CT Scan</intervention_name>
+    <description>Thymus and lung imaging</description>
+    <arm_group_label>Case : COVID-19 positive patients</arm_group_label>
+    <arm_group_label>Control : COVID-19 negative patients</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        A total of 18 cases and 18 control subjects&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Cases :&#xD;
+&#xD;
+          -  Patients with confirmed COVID-19 infection&#xD;
+&#xD;
+          -  Hospitalized during the first wave of the SARS-CoV-2 pandemic (march/april 2020)&#xD;
+&#xD;
+          -  Having signed a written informed consent form&#xD;
+&#xD;
+          -  Affiliation to the social security system&#xD;
+&#xD;
+        Controls :&#xD;
+&#xD;
+          -  Non-COVID-19 patients&#xD;
+&#xD;
+          -  Hospitalized for other reasons&#xD;
+&#xD;
+          -  Age and sex-matched controls&#xD;
+&#xD;
+          -  Having signed a written informed consent form,&#xD;
+&#xD;
+          -  Affiliation to the social security system&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Autoimmune disease&#xD;
+&#xD;
+          -  HIV, Hepatitis B or Hepatitis C&#xD;
+&#xD;
+          -  Pregnant or breastfeeding women&#xD;
+&#xD;
+          -  A mental or linguistic inability to understand the study&#xD;
+&#xD;
+          -  Patient under protection of the adults (guardianship, curators or safeguard of&#xD;
+             justice)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Rémi Cheynier, PhD</last_name>
+    <phone>0140516541</phone>
+    <phone_ext>+33</phone_ext>
+    <email>remi.cheynier@inserm.fr</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>CMC Ambroise Paré</name>
+      <address>
+        <city>Neuilly-sur-Seine</city>
+        <zip>92200</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Pierre Squara, MD</last_name>
+      <phone>0146415079</phone>
+      <phone_ext>+33</phone_ext>
+      <email>pierre.squara@clinique-a-pare.fr</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>January 16, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 16, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 20, 2021</study_first_posted>
+  <last_update_submitted>January 20, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 20, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 22, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Covid19</keyword>
+  <keyword>Thymic function</keyword>
+  <keyword>Genetic polymorphism</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

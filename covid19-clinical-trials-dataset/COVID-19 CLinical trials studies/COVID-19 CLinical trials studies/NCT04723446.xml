@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="439">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04723446</url>
+  </required_header>
+  <id_info>
+    <org_study_id>TBC</org_study_id>
+    <nct_id>NCT04723446</nct_id>
+  </id_info>
+  <brief_title>Efficacy of Mouthwashes in Reducing Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) Viral Load in the Saliva</brief_title>
+  <acronym>COVID-19</acronym>
+  <official_title>Efficacy of Three Antimicrobial Mouthwashes in Reducing SARS-CoV-2 Viral Load in the Saliva of Patients Diagnosed With COVID-19: A Pilot Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Queen Mary University of London</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>GlaxoSmithKline</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Queen Mary University of London</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a single-blind, parallel-group, randomized pilot study designed to evaluate and&#xD;
+      compare the efficacy of 3 different mouthwashes containing 0.2% Chlorhexidine digluconate,&#xD;
+      1.5% Hydroxide peroxide or Cetylpyridinium chloride in reducing Severe acute respiratory&#xD;
+      syndrome coronavirus 2 (SARS-CoV-2) viral load in the saliva of COVID-19 positive patients at&#xD;
+      different time-points.&#xD;
+&#xD;
+      A convenient sample of up to 40 COVID-19 positive patients diagnosed via test and/or&#xD;
+      presenting COVID-19 clinical symptoms will be identified in the inpatients and/or outpatient&#xD;
+      clinics at the Newham University Hospital and at The Royal London Hospital, Barts Health&#xD;
+      National Health Service (NHS) Trust, United Kingdom (UK).&#xD;
+&#xD;
+      The study will consist of one visit. Unstimulated saliva samples will be collected from all&#xD;
+      COVID-19 positive patients before and at 30 minutes, 1, 2, and 3 hours after mouth rinsing&#xD;
+      (Group 1-3 ) or no rinsing (Group 4). Viral load analysis of saliva samples in the different&#xD;
+      time-points will be then assessed by Reverse Transcription quantitative PCR (RT- qPCR).&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 1, 2021</start_date>
+  <completion_date type="Anticipated">January 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">July 1, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Other</primary_purpose>
+    <masking>Single (Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Viral load changes in the saliva within groups</measure>
+    <time_frame>30 minutes, 1, 2 and 3 hours after mouth rinsing or no rinsing.</time_frame>
+    <description>Viral load changes in the saliva of COVID-19 positive patients assessed by RT-qPCR assays at 30 minutes, 1, 2 and 3 hours after mouth rinsing with a mouthwash containing 0.2 % Chlorhexidine digluconate, 1.5% Hydroxide peroxide or Cetylpyridinium chloride compared to baseline.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Difference in the viral load changes in the saliva between groups</measure>
+    <time_frame>30 minutes, 1, 2 and 3 hours after mouth rinsing or no rinsing.</time_frame>
+    <description>Difference in the viral load changes in the saliva of COVID-19 positive patients assessed by RT-qPCR assays, at the different study time-points, between groups 0.2 % Chlorhexidine digluconate, 1.5% Hydroxide peroxide, Cetylpyridinium chloride mouthwash and no rinsing (control).</description>
+  </secondary_outcome>
+  <number_of_arms>4</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Covid19</condition>
+  <condition>Coronavirus</condition>
+  <arm_group>
+    <arm_group_label>Group 1 (test group; n= up to 10 patients) - 0.2 % Chlorhexidine digluconate</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will be instructed to rinse their mouth with 10 ml of Corsodyl® Alcohol free mouthwash for 1 minute.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 2 (test group; n= up to 10 patients) - 1.5% Hydrogen peroxide</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will be instructed to rinse their mouth with 10 ml of Colgate® Peroxyl mouthwash for 1 minute.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 3 (test group; n= up to 10 patients) - Cetylpyridinium chloride</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will be instructed to rinse their mouth with 10 ml of Oral-B® Gum &amp; Enamel Care mouthwashes for 1 minute.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 4 (control group; n= up to 10 patients) - No rinsing</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients will be instructed to not rinse their mouth with any solution, not even water.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Corsodyl® Alcohol free -0.2 % Chlorhexidine digluconate</intervention_name>
+    <description>Corsodyl® Alcohol-free is a clear to slightly opalescent oromucosal solution with an odour of peppermint that contains 0.2% w/v chlorhexidine digluconate which is an antimicrobial preparation for external use. It is effective against a wide range of Gram negative and Gram positive vegetative bacteria, yeasts, dermatophyte fungi and lipophilic viruses. It is active against a wide range of important oral pathogens and is therefore effective in the treatment of many common oral conditions.</description>
+    <arm_group_label>Group 1 (test group; n= up to 10 patients) - 0.2 % Chlorhexidine digluconate</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Colgate Peroxyl® -1.5% Hydrogen peroxide</intervention_name>
+    <description>Peroxyl mouthwash is a clear aqua-blue liquid oromucosal solution which 100ml of solution contains 1.5g of Hydrogen peroxide (as 30% Hydrogen Peroxide solution). It is an oral antiseptic cleanser for external use. The principal action is brought about by contact of hydrogen peroxide with peroxidases and catalases present in tissues and saliva, which causes the rapid release of oxygen. This provides mechanical cleansing which flushes out mouth debris and helps in the treatment of oral irritations. This mouthwash is used as a cleanser in the symptomatic relief of minor mouth and gum irritations.</description>
+    <arm_group_label>Group 2 (test group; n= up to 10 patients) - 1.5% Hydrogen peroxide</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Oral-B® Gum &amp; Enamel Care -Cetylpyridinium chloride</intervention_name>
+    <description>The Oral-B® Gum &amp; Enamel Care mouthwash is an oromucosal solution containing Cetylpyridinium chloride (CPC) and used as an adjunct to oral hygiene.</description>
+    <arm_group_label>Group 3 (test group; n= up to 10 patients) - Cetylpyridinium chloride</arm_group_label>
+    <other_name>Cosmetic product</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>No rinsing</intervention_name>
+    <description>No rinsing</description>
+    <arm_group_label>Group 4 (control group; n= up to 10 patients) - No rinsing</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        All of the following criteria must be fulfilled for inclusion:&#xD;
+&#xD;
+          -  Patients must have willingness to read and sign a copy of Informed Consent Form.&#xD;
+&#xD;
+          -  Males and females, ≥ 18 years old.&#xD;
+&#xD;
+          -  COVID-19 positive patients confirmed via any diagnostic test and/or presented with&#xD;
+             COVID-19 clinical symptoms at point of consent.&#xD;
+&#xD;
+        Exclusion criteria for patients&#xD;
+&#xD;
+        Patients presenting with any of the following will not be included in the trial:&#xD;
+&#xD;
+          -  Known pre-existing chronic mucosal lesions e.g. lichen planus or other oropharyngeal&#xD;
+             lesions, reported by patient or recorded in the existing patient' medical notes;&#xD;
+&#xD;
+          -  Patients currently intubated or not capable of mouth rinse or spit;&#xD;
+&#xD;
+          -  History of head and neck radiotherapy or chemotherapy;&#xD;
+&#xD;
+          -  Self-reported xerostomia;&#xD;
+&#xD;
+          -  Known allergy or hypersensitivity to chlorhexidine digluconate or one of the&#xD;
+             mouthwashes constituents;&#xD;
+&#xD;
+          -  Other severe acute or chronic medical or psychiatric condition or laboratory&#xD;
+             abnormality that may increase the risk associated with trial participation or may&#xD;
+             interfere with the interpretation of trial results and, in the judgement of the&#xD;
+             investigator, would make the subject inappropriate for entry into this trial;&#xD;
+&#xD;
+          -  Inability to comply with study protocol.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Prof Nikos Donos, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Queen Mary University London</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Dr Rinat Ezra, PhD</last_name>
+    <phone>02078823063</phone>
+    <phone_ext>Prof Donos Ext</phone_ext>
+    <email>BHNT.Clinicaloralresearchcentre@nhs.net</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Dr Nikos Gkranias, PhD</last_name>
+    <phone>02078823063</phone>
+    <phone_ext>Prof Donos Ext</phone_ext>
+    <email>BHNT.Clinicaloralresearchcentre@nhs.net</email>
+  </overall_contact_backup>
+  <link>
+    <url>https://www.ecdc.europa.eu/sites/default/files/documents/Infection-prevention-control-for-the-care-of-patients-with-2019-nCoV-healthcare-settings_third-update.pdf</url>
+    <description>Related Info</description>
+  </link>
+  <link>
+    <url>https://covid19.who.int/</url>
+    <description>Related Info</description>
+  </link>
+  <reference>
+    <citation>Bernstein D, Schiff G, Echler G, Prince A, Feller M, Briner W. In vitro virucidal effectiveness of a 0.12%-chlorhexidine gluconate mouthrinse. J Dent Res. 1990 Mar;69(3):874-6.</citation>
+    <PMID>2109001</PMID>
+  </reference>
+  <reference>
+    <citation>Caruso AA, Del Prete A, Lazzarino AI, Capaldi R, Grumetto L. Might hydrogen peroxide reduce the hospitalization rate and complications of SARS-CoV-2 infection? Infect Control Hosp Epidemiol. 2020 Nov;41(11):1360-1361. doi: 10.1017/ice.2020.170. Epub 2020 Apr 22.</citation>
+    <PMID>32319881</PMID>
+  </reference>
+  <reference>
+    <citation>Cheng VCC, Wong SC, Kwan GSW, Hui WT, Yuen KY. Disinfection of N95 respirators by ionized hydrogen peroxide during pandemic coronavirus disease 2019 (COVID-19) due to SARS-CoV-2. J Hosp Infect. 2020 Jun;105(2):358-359. doi: 10.1016/j.jhin.2020.04.003. Epub 2020 Apr 8.</citation>
+    <PMID>32277965</PMID>
+  </reference>
+  <reference>
+    <citation>Corman VM, Landt O, Kaiser M, Molenkamp R, Meijer A, Chu DK, Bleicker T, Brünink S, Schneider J, Schmidt ML, Mulders DG, Haagmans BL, van der Veer B, van den Brink S, Wijsman L, Goderski G, Romette JL, Ellis J, Zambon M, Peiris M, Goossens H, Reusken C, Koopmans MP, Drosten C. Detection of 2019 novel coronavirus (2019-nCoV) by real-time RT-PCR. Euro Surveill. 2020 Jan;25(3). doi: 10.2807/1560-7917.ES.2020.25.3.2000045. Erratum in: Euro Surveill. 2020 Apr;25(14):. Erratum in: Euro Surveill. 2020 Jul;25(30):.</citation>
+    <PMID>31992387</PMID>
+  </reference>
+  <reference>
+    <citation>Costa X, Laguna E, Herrera D, Serrano J, Alonso B, Sanz M. Efficacy of a new mouth rinse formulation based on 0.07% cetylpyridinium chloride in the control of plaque and gingivitis: a 6-month randomized clinical trial. J Clin Periodontol. 2013 Nov;40(11):1007-15. doi: 10.1111/jcpe.12158. Epub 2013 Sep 11.</citation>
+    <PMID>24024983</PMID>
+  </reference>
+  <reference>
+    <citation>Eggers M, Eickmann M, Zorn J. Rapid and Effective Virucidal Activity of Povidone-Iodine Products Against Middle East Respiratory Syndrome Coronavirus (MERS-CoV) and Modified Vaccinia Virus Ankara (MVA). Infect Dis Ther. 2015 Dec;4(4):491-501. doi: 10.1007/s40121-015-0091-9. Epub 2015 Sep 28.</citation>
+    <PMID>26416214</PMID>
+  </reference>
+  <reference>
+    <citation>Gottsauner MJ, Michaelides I, Schmidt B, Scholz KJ, Buchalla W, Widbiller M, Hitzenbichler F, Ettl T, Reichert TE, Bohr C, Vielsmeier V, Cieplik F. A prospective clinical pilot study on the effects of a hydrogen peroxide mouthrinse on the intraoral viral load of SARS-CoV-2. Clin Oral Investig. 2020 Oct;24(10):3707-3713. doi: 10.1007/s00784-020-03549-1. Epub 2020 Sep 2.</citation>
+    <PMID>32876748</PMID>
+  </reference>
+  <reference>
+    <citation>Gusberti FA, Sampathkumar P, Siegrist BE, Lang NP. Microbiological and clinical effects of chlorhexidine digluconate and hydrogen peroxide mouthrinses on developing plaque and gingivitis. J Clin Periodontol. 1988 Jan;15(1):60-7.</citation>
+    <PMID>3422246</PMID>
+  </reference>
+  <reference>
+    <citation>Hossainian N, Slot DE, Afennich F, Van der Weijden GA. The effects of hydrogen peroxide mouthwashes on the prevention of plaque and gingival inflammation: a systematic review. Int J Dent Hyg. 2011 Aug;9(3):171-81. doi: 10.1111/j.1601-5037.2010.00492.x. Epub 2011 Jan 31. Review.</citation>
+    <PMID>21356027</PMID>
+  </reference>
+  <reference>
+    <citation>Kampf G, Todt D, Pfaender S, Steinmann E. Persistence of coronaviruses on inanimate surfaces and their inactivation with biocidal agents. J Hosp Infect. 2020 Mar;104(3):246-251. doi: 10.1016/j.jhin.2020.01.022. Epub 2020 Feb 6. Review. Erratum in: J Hosp Infect. 2020 Jun 17;:.</citation>
+    <PMID>32035997</PMID>
+  </reference>
+  <reference>
+    <citation>Kronbichler A, Kresse D, Yoon S, Lee KH, Effenberger M, Shin JI. Asymptomatic patients as a source of COVID-19 infections: A systematic review and meta-analysis. Int J Infect Dis. 2020 Sep;98:180-186. doi: 10.1016/j.ijid.2020.06.052. Epub 2020 Jun 17.</citation>
+    <PMID>32562846</PMID>
+  </reference>
+  <reference>
+    <citation>Marui VC, Souto MLS, Rovai ES, Romito GA, Chambrone L, Pannuti CM. Efficacy of preprocedural mouthrinses in the reduction of microorganisms in aerosol: A systematic review. J Am Dent Assoc. 2019 Dec;150(12):1015-1026.e1. doi: 10.1016/j.adaj.2019.06.024.</citation>
+    <PMID>31761015</PMID>
+  </reference>
+  <reference>
+    <citation>Naik S, Tredwin CJ, Scully C. Hydrogen peroxide tooth-whitening (bleaching): review of safety in relation to possible carcinogenesis. Oral Oncol. 2006 Aug;42(7):668-74. Epub 2006 Feb 20. Review.</citation>
+    <PMID>16488181</PMID>
+  </reference>
+  <reference>
+    <citation>Pan Y, Zhang D, Yang P, Poon LLM, Wang Q. Viral load of SARS-CoV-2 in clinical samples. Lancet Infect Dis. 2020 Apr;20(4):411-412. doi: 10.1016/S1473-3099(20)30113-4. Epub 2020 Feb 24.</citation>
+    <PMID>32105638</PMID>
+  </reference>
+  <reference>
+    <citation>Pan Y, Liu H, Chu C, Li X, Liu S, Lu S. Transmission routes of SARS-CoV-2 and protective measures in dental clinics during the COVID-19 pandemic. Am J Dent. 2020 Jun;33(3):129-134. Review.</citation>
+    <PMID>32470237</PMID>
+  </reference>
+  <reference>
+    <citation>Pitten FA, Kramer A. Efficacy of cetylpyridinium chloride used as oropharyngeal antiseptic. Arzneimittelforschung. 2001;51(7):588-95.</citation>
+    <PMID>11505791</PMID>
+  </reference>
+  <reference>
+    <citation>Pitten FA, Kramer A. Antimicrobial efficacy of antiseptic mouthrinse solutions. Eur J Clin Pharmacol. 1999 Apr;55(2):95-100.</citation>
+    <PMID>10335902</PMID>
+  </reference>
+  <reference>
+    <citation>Popkin DL, Zilka S, Dimaano M, Fujioka H, Rackley C, Salata R, Griffith A, Mukherjee PK, Ghannoum MA, Esper F. Cetylpyridinium Chloride (CPC) Exhibits Potent, Rapid Activity Against Influenza Viruses in vitro and in vivo. Pathog Immun. 2017;2(2):252-269. doi: 10.20411/pai.v2i2.200. Epub 2017 Jun 26.</citation>
+    <PMID>28936484</PMID>
+  </reference>
+  <reference>
+    <citation>Tartaglia GM, Tadakamadla SK, Connelly ST, Sforza C, Martín C. Adverse events associated with home use of mouthrinses: a systematic review. Ther Adv Drug Saf. 2019 Sep 23;10:2042098619854881. doi: 10.1177/2042098619854881. eCollection 2019. Review.</citation>
+    <PMID>31579502</PMID>
+  </reference>
+  <reference>
+    <citation>To KK, Tsang OT, Yip CC, Chan KH, Wu TC, Chan JM, Leung WS, Chik TS, Choi CY, Kandamby DH, Lung DC, Tam AR, Poon RW, Fung AY, Hung IF, Cheng VC, Chan JF, Yuen KY. Consistent Detection of 2019 Novel Coronavirus in Saliva. Clin Infect Dis. 2020 Jul 28;71(15):841-843. doi: 10.1093/cid/ciaa149.</citation>
+    <PMID>32047895</PMID>
+  </reference>
+  <reference>
+    <citation>Thomas E. Efficacy of two commonly available mouth rinses used as preprocedural rinses in children. J Indian Soc Pedod Prev Dent. 2011 Apr-Jun;29(2):113-6. doi: 10.4103/0970-4388.84682.</citation>
+    <PMID>21911948</PMID>
+  </reference>
+  <reference>
+    <citation>Zhang CZ, Cheng XQ, Li JY, Zhang P, Yi P, Xu X, Zhou XD. Saliva in the diagnosis of diseases. Int J Oral Sci. 2016 Sep 29;8(3):133-7. doi: 10.1038/ijos.2016.38. Review.</citation>
+    <PMID>27585820</PMID>
+  </reference>
+  <reference>
+    <citation>Walsh LJ. Safety issues relating to the use of hydrogen peroxide in dentistry. Aust Dent J. 2000 Dec;45(4):257-69; quiz 289. Review.</citation>
+    <PMID>11225528</PMID>
+  </reference>
+  <reference>
+    <citation>Yoon JG, Yoon J, Song JY, Yoon SY, Lim CS, Seong H, Noh JY, Cheong HJ, Kim WJ. Clinical Significance of a High SARS-CoV-2 Viral Load in the Saliva. J Korean Med Sci. 2020 May 25;35(20):e195. doi: 10.3346/jkms.2020.35.e195.</citation>
+    <PMID>32449329</PMID>
+  </reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>January 5, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 22, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 25, 2021</study_first_posted>
+  <last_update_submitted>January 22, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 22, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 25, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Mouthwash</keyword>
+  <keyword>Chlorhexidine digluconate</keyword>
+  <keyword>Hydroxide peroxide</keyword>
+  <keyword>Cetylpyridinium chloride</keyword>
+  <keyword>Viral load</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Chlorhexidine</mesh_term>
+    <mesh_term>Chlorhexidine gluconate</mesh_term>
+    <mesh_term>Hydrogen Peroxide</mesh_term>
+    <mesh_term>Cetylpyridinium</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Aggregated/collective data regarding the efficacy of the different mouthwashes will be shared with the scientific community as a de-identified/coded information</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

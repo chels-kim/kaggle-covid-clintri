@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1740">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04444609</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20IC5943</org_study_id>
+    <nct_id>NCT04444609</nct_id>
+  </id_info>
+  <brief_title>PROSAIC-19 - Prospective Longitudinal Assessment in a COVID-19 Infected Cohort</brief_title>
+  <acronym>PROSAIC-19</acronym>
+  <official_title>PROSAIC-19 - Prospective Longitudinal Assessment in a COVID-19 Infected Cohort</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Imperial College London</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Royal Brompton &amp; Harefield NHS Foundation Trust</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Chelsea and Westminster NHS Foundation Trust</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Imperial College Healthcare NHS Trust</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Imperial College London</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      DESIGN Longitudinal prospective observational multicentre study.&#xD;
+&#xD;
+      Primary objective:&#xD;
+&#xD;
+      Understand the immune mechanisms driving COVID-19 disease in patients with a history of lung&#xD;
+      disease&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      INTRODUCTION&#xD;
+&#xD;
+      1.1 BACKGROUND&#xD;
+&#xD;
+      Coronavirus disease 2019 (COVID-19) caused by SARS-CoV-2 infection is a new rapidly spreading&#xD;
+      infectious disease with no proven treatment options. The virus causes a spectrum of disease&#xD;
+      ranging from mild coryzal symptoms to severe respiratory compromise requiring ventilatory&#xD;
+      support. Guidance from Public Health England identifies several groups that are at risk of&#xD;
+      severe disease including the elderly and individuals with chronic lung disease. Additionally,&#xD;
+      there is also debate over the role of corticosteroids with some hospital guidelines&#xD;
+      recommending their use despite WHO guidance contradicting this due to concerns that they may&#xD;
+      impair antiviral immunity and worsen disease. The mechanisms driving severity of disease in&#xD;
+      certain individuals infected with COVID-19 are poorly understood. We urgently need to&#xD;
+      understand these mechanisms to facilitate rapid development of novel effective therapies and&#xD;
+      vaccines&#xD;
+&#xD;
+      1. Immunosusceptibility to severe COVID-19 disease&#xD;
+&#xD;
+      There are several putative mechanisms through which SARS-CoV-2 could drive greater disease&#xD;
+      severity in pre-disposed individuals. These include:&#xD;
+&#xD;
+        1. Impaired innate anti-viral immune responses&#xD;
+&#xD;
+           Following viral entry, the innate immune response to respiratory viruses involves&#xD;
+           induction of the type I and III interferons (IFN). This initiates a cascade that&#xD;
+           triggers expression of a range of interferon-stimulated genes expressing proteins that&#xD;
+           act in concert to limit viral replication. Chronic lung diseases, particularly asthma,&#xD;
+           cystic Fibrosis (CF) and COPD are associated with impaired or dysregulated induction of&#xD;
+           interferon to commonly encountered viruses such as rhinovirus and influenza and similar&#xD;
+           dysregulation may occur with SARS-CoV-2. Inhaled interferon-β is currently in trials as&#xD;
+           an anti-viral therapy for asthma and COPD.&#xD;
+&#xD;
+        2. Exaggerated inflammatory responses to viral infection&#xD;
+&#xD;
+           Common respiratory viral infections such as influenza and respiratory syncyitial virus&#xD;
+           (RSV) can promote viral pathology mediated by antibodies and T cell responses. Early&#xD;
+           evidence suggests that severe COVID-19 disease is associated with hyperinflammation, a&#xD;
+           feature that could be directly driven by virus burden or occur due to independent&#xD;
+           hyperactivation of the immune system. Human coronavirus infections including SARS-CoV&#xD;
+           can induce immunopathology in the lungs through a number of different mechanisms&#xD;
+           including antibody enhancement of SARS-CoV infection by human macrophages. Significant&#xD;
+           increases in CD4 and CD8 expressing pro-inflammatory cytokines have been shown in severe&#xD;
+           SARS-CoV disease compared to mild/moderate disease.&#xD;
+&#xD;
+           Accordingly, there has been considerable interest in a potential role of repurposing&#xD;
+           existing immunosuppressive therapies for treatment of severe COVID-19. The key mediators&#xD;
+           and pathways that drive hyperinflammation in COVID-19 are unclear and greater&#xD;
+           elucidation of these processes will inform repurposing of existing therapies or&#xD;
+           development of novel approaches to effective treatment. The implication of baseline&#xD;
+           dysregulated T cell responses such as those seen in chronic lung disease (e.g. asthma,&#xD;
+           COPD, Cystic Fibrosis) is again unclear and requires further mechanistic understanding.&#xD;
+           As such it is, as yet, unclear whether immunosuppressive therapies currently in clinical&#xD;
+           trials will be beneficial or harmful in these large cohorts of susceptible patients.&#xD;
+&#xD;
+        3. Dysregulated interferon-dependent endothelial function to COVID-19&#xD;
+&#xD;
+           Acute respiratory distress syndrome (ARDS) is characterised by hydrostatic pulmonary&#xD;
+           oedema, elevated pulmonary vascular resistance and coagulopathy, there is disruption of&#xD;
+           endothelial function with dysregulated release of the endothelially derived vasoactive&#xD;
+           hormones. Circulating levels of endothelin-1 are raised in patients with ARDS[16],&#xD;
+           likely due to increased production and decreased clearance in the lungs potentially&#xD;
+           regulated by Angiopoietin-1.&#xD;
+&#xD;
+           Severe SARS-CoV-2 infection is associated with cytokine storm. Raised serum levels of a&#xD;
+           number of key inflammatory cytokines including IFN-gamma, TNF-alpha, IP10, IL-8 and&#xD;
+           IL-10 and elevated levels of IL-6 are strongly associated with mortality. IL-6 release&#xD;
+           is synergistically induced by IFN-gamma and TNF-alpha and in a positive feedback&#xD;
+           mechanism, a low dose of IL-6 strongly enhances the cellular responses to IFN-alpha and&#xD;
+           modulates interferon-stimulated gene expression. In an experimental murine model, we&#xD;
+           found that infection with rhinovirus with IFN co-stimulation leads to elevated&#xD;
+           bronchoalveolar lavage levels of IL-6 (Singanayagam et al, unpublished observations).&#xD;
+           These data suggest that in patients with severe COVID-19, a hyperinflammatory process&#xD;
+           ensues and we hypothesise that through dysregulated and unchecked IFN production, key&#xD;
+           vasculo-inflammatory interferon-stimulated genes including IP10 and ET-1 drive worse&#xD;
+           outcomes with increased parenchymal and pulmonary vascular inflammation. This results in&#xD;
+           a dichotomy whereby initial IFN induction is required to limit viral replication, but&#xD;
+           late unchecked production can worsen pathophysiology. This is supported by emerging&#xD;
+           clinical data suggesting a unique phenotype to SARS-CoV-2 critical care patients&#xD;
+           characterised by severe hypoxia with near normal lung compliance.&#xD;
+&#xD;
+        4. Altered viral entry receptor expression: Recent data indicates SARS-CoV-2 utilises&#xD;
+           angiotensin-converting enzyme (ACE)2 as a receptor for viral attachment and also the&#xD;
+           protease TMPRSS2 which cleaves the spike(S) protein to allow fusion of the virus with&#xD;
+           cellular membranes. ACE2 and TMPRSS2 are frequently co-expressed in the pulmonary&#xD;
+           epithelium. A recent study also showed that ACE2 is an interferon stimulated gene&#xD;
+           (ISG)(i.e. directly induced by the anti-viral response) and therefore, SARS-CoV-2 might&#xD;
+           upregulate its own receptor to propagate infection. Recent data indicates that smokers&#xD;
+           and subjects with chronic obstructive pulmonary disease (COPD) have increased pulmonary&#xD;
+           ACE2 expression suggesting that chronic lung disease might facilitate greater infection&#xD;
+           with SARS-CoV-2. Conversely, ACE2 expression protects against acute lung injury in the&#xD;
+           context of acid aspiration or sepsis and therefore, if ACE2 induction by SARS-CoVs is&#xD;
+           impaired in chronic lung disease, this could predispose to adverse outcome.&#xD;
+&#xD;
+        5. Increased secondary bacterial and/or fungal infections&#xD;
+&#xD;
+      In early case series, secondary infections have been observed more frequently in subjects&#xD;
+      with severe COVID-19 disease. Secondary bacterial infection is a well-recognised phenomenon&#xD;
+      following rhinovirus, influenza or respiratory syncytial virus and may be mechanistically&#xD;
+      driven by a range of possible mechanisms including macrophage phagocytosis or neutrophil&#xD;
+      elastase-mediated cleavage of anti-microbial peptides. These processes may be worsened by use&#xD;
+      of corticosteroids28 and, notably, a greater proportion of patients with secondary infections&#xD;
+      following COVID-19 had been prescribed steroids.&#xD;
+&#xD;
+      Invasive fungal disease consistent with aspergillosis has also been observed for both severe&#xD;
+      acute respiratory syndrome coronavirus (SARS-CoV-2003) and Middle East Respiratory Syndrome&#xD;
+      coronavirus (MERS-CoV), and anecdotal reports of post-mortems in patients with COVID-19 from&#xD;
+      China suggest that Aspergillus pulmonary infections occur. These data are early warning signs&#xD;
+      that secondary invasive fungal infections may present an increasingly serious complication in&#xD;
+      patients affected with COVID-19 as the pandemic progresses. Understanding the mechanistic&#xD;
+      basis for immune susceptibility to secondary bacterial/fungal infection and an ability to&#xD;
+      prevent these secondary infections could be a key step towards improving outcomes from the&#xD;
+      disease.&#xD;
+&#xD;
+      1.2 RATIONALE FOR CURRENT STUDY&#xD;
+&#xD;
+      In this study, the investigators will analyse blood and airway samples from individuals with&#xD;
+      confirmed COVID-19 to understand the immune mechanisms that lead to severe disease. We will&#xD;
+      elucidate specific mechanisms that drive more severe pathology in higher risk individuals&#xD;
+      such as those with chronic lung disease. Through detailed immunoprofiling, we will identify&#xD;
+      key pathways and druggable targets to exploit in future clinical intervention studies.&#xD;
+&#xD;
+      Hypotheses:&#xD;
+&#xD;
+        1. High risk individuals including individuals with chronic lung disease have impaired&#xD;
+           anti-viral immune responses to SARS-CoV-2, increasing virus-induced inflammation.&#xD;
+&#xD;
+        2. Interferon-dependent endothelial dysfunction drives pathogenicity in SARS-CoV-2&#xD;
+           infection.&#xD;
+&#xD;
+        3. Susceptibility to secondary bacterial and fungal infection in chronic lung disease is&#xD;
+           related to selective pathway defects in innate immune function.&#xD;
+&#xD;
+      2. STUDY OBJECTIVES&#xD;
+&#xD;
+      Primary objective:&#xD;
+&#xD;
+      1. Understand the immune mechanisms driving COVID-19 disease in patients with a history of&#xD;
+      lung disease&#xD;
+&#xD;
+      Secondary objectives&#xD;
+&#xD;
+        1. Identify immune correlates of protection and lung pathology in SARS-CoV-2 infection.&#xD;
+&#xD;
+        2. Analysis of endothelial function in mild and severe COVID-19 patients and ex vivo using&#xD;
+           virus stimulated blood-derived endothelial cells from patients with COVID-19.&#xD;
+&#xD;
+        3. Evaluation of changes in upper/lower airway microbiota and mycobiota occurring during&#xD;
+           COVID-19.&#xD;
+&#xD;
+        4. Evaluation of ex vivo peripheral blood immune responses to viral, bacterial and fungal&#xD;
+           stimuli in patients with COVID-19 and chronic lung disease in comparison to patients&#xD;
+           with COVID-19 and no chronic lung disease.&#xD;
+&#xD;
+        5. Analysis of quality of life impact of COVID-19 infection in chronic lung disease.&#xD;
+&#xD;
+      3. STUDY DESIGN&#xD;
+&#xD;
+      Through a 24 month prospective longitudinal multicentre (Royal Brompton &amp; Harefield NHS Trust&#xD;
+      Chelsea and Westminster NHS Foundation Trust, and Imperial College Healthcare NHS Trusts)&#xD;
+      observational study, the study team will analyse blood, sputum and nasal sampling alongside&#xD;
+      non-invasive EndoPAT device testing in a total pf 230 subjects. The study team will obtain&#xD;
+      peripheral blood, sputum, nasal lavage, brushings and nasal synthetic absorptive matrix (SAM)&#xD;
+      samples and perform non-invasive EndoPAT testing on the day of hospital presentation and at&#xD;
+      weekly intervals during inpatient setting and then during outpatient visits post-discharge&#xD;
+      over a 12 month follow-up period. The study team will collect clinical information including&#xD;
+      demographics, routine laboratory investigations, clinical symptom scores and outcomes. Linked&#xD;
+      pseudoanonymised radiology imaging will also be transferred for analysis.&#xD;
+&#xD;
+      Spontaneously expectorated sputum, nasal lavage, brushings and nasal synthetic absorptive&#xD;
+      matrix (SAM) samples will be taken and processed as previously described and stored at -800C&#xD;
+      for downstream analyses including ELISA/MSD, viral load measurement and microbiome analysis.&#xD;
+      Venous blood (60mls) will be taken into Lithium Heparin tubes and PAXgene RNA tubes and&#xD;
+      transferred to Imperial College (RBH) for processing and storage. PBMCs will be extracted for&#xD;
+      in vitro stimulation assays and whole blood (1ml) and serum (2mls) isolated and stored at&#xD;
+      -80oC for further analysis. PAXgene tubes will be stored at -80C for further host genetic&#xD;
+      sequencing analysis. Further immunological analysis using yeast surface display for serum&#xD;
+      antibody profiling, single B cell sorting to generate monoclonal antibodies and ELISPOT to&#xD;
+      analyse CD4 and CD8 T cell ELISPOT to SARS CoV-2 peptide pools. Further deep immunological&#xD;
+      profiling using cytokine analysis, PBMC cytokine response to viral (or viral PRR agonist),&#xD;
+      fungal stimuli, yeast surface display for serum antibody profiling, single memory B cell&#xD;
+      expression cloning will be carried. CD4 and CD8 T cell ELISPOT will be performed as&#xD;
+      previously described. Non-invasive EndoPAT testing will also be performed as previously&#xD;
+      described.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">June 18, 2020</start_date>
+  <completion_date type="Anticipated">June 2022</completion_date>
+  <primary_completion_date type="Anticipated">June 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Anti-viral cytokine levels in blood samples in chronic respiratory disease associated with susceptibility to severe COVID-19 infection</measure>
+    <time_frame>Through study completion an average of 1 year</time_frame>
+    <description>Anti-viral cytokine protein concentration in blood samples by ELISA</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Anti-viral cytokines profiles within sputum samples in chronic respiratory disease associated with susceptibility to severe COVID-19 infection</measure>
+    <time_frame>Through study completion an average of 1 year</time_frame>
+    <description>Inflammatory cytokine protein concentration in sputum samples by ELISA</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Anti-viral cytokine profiles within nasal lavage samples in chronic respiratory disease associated with susceptibility to severe COVID-19 infection associated with susceptibility to severe COVID-19 infection</measure>
+    <time_frame>Through study completion an average of 1 year</time_frame>
+    <description>Inflammatory cytokine protein concentration in nasal lavage samples by ELISA</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Expression of inflammatory gene expression in upper respiratory epithelial airway cells using nasal brush specimens in chronic respiratory disease associated with susceptibility to severe COVID-19 infection</measure>
+    <time_frame>Through study completion an average of 1 year</time_frame>
+    <description>Inflammatory gene expression in upper airway respiratory epithelial cells by RNA sequencing.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Identify the T cell antigens and B cell epitopes in chronic respiratory disease associated with susceptibility to severe COVID-19 infection</measure>
+    <time_frame>Through study completion an average of 1 year</time_frame>
+    <description>Analysis of viral components recognized by the adaptive immune system</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Peripheral blood mononuclear cell (PBMC) interferon mediated immune responses to pathogen recognition receptor agonists in chronic respiratory disease associated with susceptibility to severe COVID-19 infection</measure>
+    <time_frame>Through study completion an average of 1 year</time_frame>
+    <description>Cytokine protein concentration following PBMC stimulation to pathogen recognition receptor agonists by Elispot</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Identify endothelial function in chronic respiratory disease associated with susceptibility to severe COVID-19 infection using EndoPAT testing</measure>
+    <time_frame>Through study completion an average of 1 year</time_frame>
+    <description>Analysis of endothelial function</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Endothelial cell inflammation biomarkers in chronic respiratory disease associated with susceptibility to severe COVID-19 infection</measure>
+    <time_frame>Through study completion an average of 1 year</time_frame>
+    <description>Serum and plasma protein concentration of endothelial cell inflammation biomarkers by ELISA</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Identify sputum 16S rRNA and ITS sequences in chronic respiratory disease associated with susceptibility to severe COVID-19 infection</measure>
+    <time_frame>Through study completion an average of 1 year</time_frame>
+    <description>Analysis of sputum microbiome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Identify nasal lavage 16S rRNA and ITS sequences in chronic respiratory disease associated with susceptibility to severe COVID-19 infection</measure>
+    <time_frame>Through study completion an average of 1 year</time_frame>
+    <description>Analysis of nasal microbiome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Identify quality of life markers in chronic respiratory disease associated with susceptibility to severe COVID-19 infection</measure>
+    <time_frame>Through study completion an average of 1 year</time_frame>
+    <description>Study participant survey</description>
+  </secondary_outcome>
+  <number_of_groups>4</number_of_groups>
+  <enrollment type="Anticipated">230</enrollment>
+  <condition>COVID-19</condition>
+  <condition>SARS-CoV 2</condition>
+  <condition>ARDS, Human</condition>
+  <condition>Immune System Disorder</condition>
+  <arm_group>
+    <arm_group_label>COVID -19 with chronic lung disease</arm_group_label>
+    <description>Subjects with swab confirmed COVID-19 and underlying chronic lung disease (n=60)&#xD;
+Severe (n=30) (defined by presence of ARDS, sepsis or severe pneumonia)&#xD;
+Mild/Moderate ( n =30) (absence of severe criteria)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>COVID-19 without chronic lung disease</arm_group_label>
+    <description>Subjects with swab confirmed COVID-19 and no chronic lung disease (n=60)&#xD;
+Severe (n=30) (defined by presence of ARDS, sepsis or severe pneumonia)&#xD;
+Mild/Moderate ( n =30) (absence of severe criteria)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Chronic Lung disease</arm_group_label>
+    <description>Subjects with chronic lung disease (identified as requiring shielding based on severity) but no COVID-19 (n=80)&#xD;
+Asthma (defined as severe) - (n=20)&#xD;
+CF (FEV1% predicted baseline &lt;50%) - (n=20)&#xD;
+COPD (FEV1% predicted baseline &lt;50%) - (n=20)&#xD;
+Idiopathic Pulmonary Fibrosis (n=20)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Healthy volunteers</arm_group_label>
+    <description>Healthy subjects with no COVID-19 (n=30)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Blood tests sputum, nasal lavage and brushing</intervention_name>
+    <description>Venesection, sputum nasal lavage and brushing if appropriate</description>
+    <arm_group_label>COVID -19 with chronic lung disease</arm_group_label>
+    <arm_group_label>COVID-19 without chronic lung disease</arm_group_label>
+    <arm_group_label>Chronic Lung disease</arm_group_label>
+    <arm_group_label>Healthy volunteers</arm_group_label>
+    <other_name>Blood tests</other_name>
+    <other_name>Sputum</other_name>
+    <other_name>Nasal lavage</other_name>
+    <other_name>Nasal brushings</other_name>
+    <other_name>EndoPAT</other_name>
+  </intervention>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Spontaneously expectorated sputum, nasal lavage, brushings and nasal synthetic absorptive&#xD;
+      matrix (SAM) samples&#xD;
+&#xD;
+      Venous blood (60mls) will be taken into Lithium Heparin tubes and PAXgene RNA tubes&#xD;
+&#xD;
+      PAXgene tubes will be stored at -80C for further host genetic sequencing analysis. Further&#xD;
+      immunological analysis using yeast surface display for serum antibody profiling, single B&#xD;
+      cell sorting to generate monoclonal antibodies and ELISPOT to analyse CD4 and CD8 T cell&#xD;
+      ELISPOT to SARS CoV-2 peptide pools.&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Subjects with swab confirmed COVID-19 and underlying chronic lung disease (n=60)&#xD;
+&#xD;
+          -  Severe (n=30) (defined by presence of ARDS, sepsis or severe pneumonia)&#xD;
+&#xD;
+          -  Mild/Moderate ( n =30) Absence of features of severe disease&#xD;
+&#xD;
+        Subjects with swab confirmed COVID-19 and no chronic lung disease (n=60)&#xD;
+&#xD;
+          -  Severe (n=30) (defined by presence of ARDS, sepsis or severe pneumonia)&#xD;
+&#xD;
+          -  Mild/Moderate ( n =30) Absence of features of severe disease&#xD;
+&#xD;
+        Subjects with chronic lung disease (identified as requiring shielding based on severity)&#xD;
+        but no COVID-19 (n=80)&#xD;
+&#xD;
+          -  Asthma (defined as severe) - (n=20)&#xD;
+&#xD;
+          -  CF (FEV1% predicted baseline &lt;50%) - (n=20)&#xD;
+&#xD;
+          -  COPD (FEV1% predicted baseline &lt;50%) - (n=20)&#xD;
+&#xD;
+          -  Idiopathic Pulmonary Fibrosis (n=20)&#xD;
+&#xD;
+             3.Healthy subjects with no COVID-19 (n=30)&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. All patients ≥16 years old with confirmation of COVID-19&#xD;
+&#xD;
+          2. All patients ≥ 16 years old with chronic lung disease (CF, non-CF bronchiectasis,&#xD;
+             asthma, COPD or Idiopathic Pulmonary Fibrosis) or with no evidence of prior chronic&#xD;
+             lung disease&#xD;
+&#xD;
+          3. Healthy volunteers&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        None&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>16 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Peter Kelleher, MD PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Imperial College London</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Peter Kelleher, MD PhD</last_name>
+    <phone>00 44 (0) 331 58228</phone>
+    <email>p.kelleher@imperial.ac.uk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Anand Shah, MD PhD</last_name>
+    <phone>00 44 (0) 352 8121</phone>
+    <phone_ext>8674</phone_ext>
+    <email>s.anand@imperial.ac.uk</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Royal Brompton &amp; Harefileld NHS Trusts</name>
+      <address>
+        <city>London</city>
+        <zip>SW3 6PP</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Anand Shah, MD PhD</last_name>
+      <phone>0044 352 8121</phone>
+      <phone_ext>8674</phone_ext>
+      <email>s.anand@imperial.ac.uk</email>
+    </contact>
+    <contact_backup>
+      <last_name>Peter Kelleher, MD PhD</last_name>
+      <phone>0044 746 8000</phone>
+      <phone_ext>58228</phone_ext>
+      <email>p.kelleher@imperial.ac.uk</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>June 16, 2020</study_first_submitted>
+  <study_first_submitted_qc>June 22, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">June 23, 2020</study_first_posted>
+  <last_update_submitted>August 18, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 18, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 19, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Distress Syndrome, Adult</mesh_term>
+    <mesh_term>Immune System Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+    <ipd_description>Under consideration</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

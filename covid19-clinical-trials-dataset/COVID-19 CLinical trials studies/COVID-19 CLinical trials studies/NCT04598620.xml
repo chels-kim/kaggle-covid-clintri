@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="43">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04598620</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ILG-VTE-COVID-19-2020</org_study_id>
+    <secondary_id>N-20200069</secondary_id>
+    <nct_id>NCT04598620</nct_id>
+  </id_info>
+  <brief_title>Non-invasive Prognostication of COVID-19 Patients by Use of Biomarkers in Exhaled Breath Condensate</brief_title>
+  <acronym>VTE-COVID-19</acronym>
+  <official_title>Non-invasive Prognostication of COVID-19 Patients by Use of Biomarkers in Exhaled Breath Condensate</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Inger Lise Gade</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Aarhus University Hospital Skejby</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Aalborg University Hospital</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The main objective of this study is to assess if analysis of exhaled breath condensate (EBC)&#xD;
+      can provide useful prognostic markers for admission to the intensive care unit (ICU) due to&#xD;
+      acute respiratory insufficiency among patients with Coronavirus disease 2019 (COVID-19).&#xD;
+      Additionally, to give a characterization of the lung damage caused by COVID-19 by analysis of&#xD;
+      daily blood samples.&#xD;
+&#xD;
+      The hypothesis is that the protein content of the EBC from COVID-19 patients who require&#xD;
+      admission to the ICU differs from the EBC from COVID-19 patients with uncomplicated&#xD;
+      hospitalization, potentially providing diagnostic markers of COVID-19 related pulmonary&#xD;
+      damage.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Two EBC samples will be collected from each study participant; a baseline sample (at&#xD;
+      admission) and a sample at either hospital discharge or transfer to the ICU. In addition,&#xD;
+      blood samples will be collected in order to investigate the pathophysiology of COVID-19 using&#xD;
+      metabolomics analysis, and for standardization and validation of the putative markers from&#xD;
+      the EBC.&#xD;
+&#xD;
+      The investigators will collect EBC from COVID-19 positive patients acutely admitted to&#xD;
+      Aalborg University Hospital due to COVID-19 symptoms and compare the protein and metabolite&#xD;
+      profiles in patients, who are treated at the ward with patients, who are transferred to the&#xD;
+      ICU for mechanical ventilation. The main-outcome (i.e. means of the relative amounts of&#xD;
+      specific proteins in the EBC samples) will be compared by unpaired t-tests after assessment&#xD;
+      of normality and standard deviations within the two groups in the following comparison: EBC&#xD;
+      collected at admission (baseline) from patients who did not need mechanical ventilation vs.&#xD;
+      EBC at admission from patients who did need mechanical ventilation. Paired t-tests will&#xD;
+      compare the proteins in baseline EBC samples and samples at either transfer to the ICU&#xD;
+      intubation or discharge to home in order to describe the pathophysiology in the two groups&#xD;
+      (no ICU need versus need of ICU admission). The investigators will not collect EBC from&#xD;
+      patients admitted to the ICU for open-circuit respiratory support, e.g. high-flow&#xD;
+      oxygenation; these patients will be asked to give an EBC sample before discharge, like the&#xD;
+      patients who did not need ICU care.&#xD;
+&#xD;
+      A blood sample will be drawn at the two days of EBC collection (i.e. a 9 mL tube drawn along&#xD;
+      with routine work-up blood samples) from the study participants for two purposes: 1)&#xD;
+      Standardization of the putative markers and verification and supplementing analysis of the&#xD;
+      EBC markers. In order to qualify the most suitable markers and substrates for&#xD;
+      standardization, the analysis of the EBC samples must be completed before the blood samples&#xD;
+      can be analyzed. Conventional biochemical analysis will be used for this purpose. 2)&#xD;
+      Pathophysiological description of patients hospitalized with COVID-19 using metabolomics and&#xD;
+      proteomics analysis. No genetic analysis will be conducted on the stored blood samples.&#xD;
+&#xD;
+      After collection of the EBC, the samples will be stored directly in the collection tube&#xD;
+      marked with study subject id at -80⁰C. The EBC samples will be used solely for the subsequent&#xD;
+      analysis of the protein composition (i.e. proteomics) and metabolites (i.e. metabolomics).&#xD;
+&#xD;
+      The collection of EBC will not lead to deviations from standard diagnostic procedures or&#xD;
+      treatments. The patients will have routine blood samples drawn as a part of the diagnostic&#xD;
+      work-up and daily disease monitoring. The investigators will ask for consent to draw an extra&#xD;
+      9 mL blood sample along with the routine blood samples at the two days of EBC collection.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 19, 2020</start_date>
+  <completion_date type="Anticipated">October 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">October 1, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Only</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Prediction of admission to ICU in hospitalized COVID-19 patients</measure>
+    <time_frame>1 year</time_frame>
+    <description>The primary outcome is prediction of admission to ICU in hospitalized COVID-19 patients by use of one or more novel biomarkers in the EBC</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Pathophysiology in COVID-19 patients</measure>
+    <time_frame>1 year</time_frame>
+    <description>In a sub-study, we will collect the daily blood samples for analysis in order to investigate the pathophysiology in COVID-19, and for standardization and validation of putative EBC markers in the blood.</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Covid19</condition>
+  <condition>Corona Virus Infection</condition>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Exhaled breath condensate (EBC) Blood samples&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        COVID-19 positive patients acutely admitted to Aalborg University Hospital due to COVID-19&#xD;
+        symptoms.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age ≥18 years and admitted at Aalborg Hospital with confirmed COVID-19&#xD;
+&#xD;
+          -  Need for hospitalization due to COVID-19 symptoms.&#xD;
+&#xD;
+          -  Able to provide informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        • Need for vasopressor therapy, mechanical ventilation, extracorporal circulation, or&#xD;
+        dialysis at admission&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Inger L Gade, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Aalborg University Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Inger L Gade, MD, PhD</last_name>
+    <phone>+4561656584</phone>
+    <email>inlg@rn.dk</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Lise T Elkjær</last_name>
+    <email>lit@rn.dk</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Aalborg Hospital</name>
+      <address>
+        <city>Aalborg</city>
+        <zip>9000</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Inger L Gade, MD, PhD</last_name>
+      <phone>+4561656584</phone>
+      <email>inlg@rn.dk</email>
+    </contact>
+    <contact_backup>
+      <last_name>Lise T Elkjær</last_name>
+      <email>lit@rn.dk</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Denmark</country>
+  </location_countries>
+  <verification_date>October 2020</verification_date>
+  <study_first_submitted>October 21, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 21, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 22, 2020</study_first_posted>
+  <last_update_submitted>October 28, 2020</last_update_submitted>
+  <last_update_submitted_qc>October 28, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 30, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Aalborg University Hospital</investigator_affiliation>
+    <investigator_full_name>Inger Lise Gade</investigator_full_name>
+    <investigator_title>MD, PhD, Registrar</investigator_title>
+  </responsible_party>
+  <keyword>Exhaled breath condensate</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

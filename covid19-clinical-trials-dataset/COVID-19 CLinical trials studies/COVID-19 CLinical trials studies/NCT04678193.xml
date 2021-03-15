@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="841">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04678193</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CORAVT 001</org_study_id>
+    <nct_id>NCT04678193</nct_id>
+  </id_info>
+  <brief_title>COVID-19 Risk Assessment for Hospitalization Outcomes and Epidemiology Efficacy</brief_title>
+  <acronym>COROMEC</acronym>
+  <official_title>COVID-19 Risk Assessment Hospitalization Outcomes Epidemiology Efficacy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Aventyn, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Intel Corporation</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Abrazo Health Network</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Karolinska Institutet</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>ASU College of Health Solutions</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Aventyn, Inc.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Researchers are creating real-time epidemiology registry to evaluate the efficacy of COVID-19&#xD;
+      subject risk assessment scores based on recording of symptoms, biomarkers, chronic illness&#xD;
+      and mental health assessments with digital technology using wearables and mobile app tools.&#xD;
+      Researchers aim to study in Phase 1, epidemiological variations in COVID-19 presentation in&#xD;
+      both PCR positive and negative subjects in the registry. Assessment of variables, predictive&#xD;
+      modeling of variables that impact severity of COVID-19 positive and negative subjects and&#xD;
+      assessment of predictors for post COVID-19 complications. In Phase 2, 2700 subjects with&#xD;
+      COVID-19 positive test will be studied in the intervention group comparing ECL-19 vs placebo&#xD;
+      with primary end point of hospital admission assessment. Treatment strategy for PCR positive&#xD;
+      COVID-19 subjects in the registry who are in Stage I of the disease process with ECL-19 drug&#xD;
+      compared to placebo in reducing hospital admissions&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Investigators aim is to create a real time COVID-19 Coromec epidemiology registry to assess&#xD;
+      the feasibility of monitoring subject infection progress using Vitalbeat digital therapeutics&#xD;
+      monitoring platform for remote patient monitoring and integrated chronic disease management&#xD;
+      with mobile app, AI-bot, IoT wearables and cloud computing algorithms developed by health&#xD;
+      technology company Aventyn, Inc., in collaboration with Intel Corp., clinicians and&#xD;
+      scientists from Baylor Heart, Abrazo Health, Karolinska Institute, Dignity Health. Coromec&#xD;
+      registry is a real time epidemiology solution deploying Vitalbeat for pandemic public health&#xD;
+      stakeholders to enable immediate reporting, assess subject risk prediction for COVID-19&#xD;
+      avoiding hospitalization.&#xD;
+&#xD;
+      The digital health technology aims to assess predictors of risk and predictors of preventing&#xD;
+      COVID-19, assess what preventive strategies are being used and the efficacy of treatment&#xD;
+      strategies for avoiding hospitalization. The platform launched globally and is available on&#xD;
+      the public internet at www.coromec.org&#xD;
+&#xD;
+      Users can self-report symptoms, mental health assessment, chronic illness status and vital&#xD;
+      sign measures on a daily basis for risk assessment and preventive treatment with a variety of&#xD;
+      digital tools by downloading Coromec mobile app, access interactive chatbots and the Coromec&#xD;
+      real time epidemiology website Researchers aim to study ECL-19 as a drug treatment in&#xD;
+      stabilizing the endothelium as the first line of approach in COVID 19 positive subjects that&#xD;
+      may quickly restore their glycocalyx and endothelium thus avoiding hospitalizations and&#xD;
+      progression of disease with ECL-19&#xD;
+&#xD;
+      A validated approach would enable vulnerable subjects and communities access to pandemic&#xD;
+      care. Registry data can assist public health scientists in further studies and enable global&#xD;
+      registries in future pandemic emergencies to help better understand use of digital tools,&#xD;
+      intelligent algorithms and predict risk outcomes with targeted novel treatment strategies&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Actual">December 24, 2020</start_date>
+  <completion_date type="Anticipated">June 30, 2022</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2021</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Other</time_perspective>
+  </study_design_info>
+  <target_duration>2 Years</target_duration>
+  <primary_outcome>
+    <measure>Predictors of post COVID-19 complications and predictors of hospitalization</measure>
+    <time_frame>1 Day</time_frame>
+    <description>Measure COVID-19 infection risk score based on PCR Positive Test</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Health symptom score</measure>
+    <time_frame>1 Day</time_frame>
+    <description>Measure COVID-19 infection risk score based on health symptoms</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Vital signs SpO2 score</measure>
+    <time_frame>1 Day</time_frame>
+    <description>Measure COVID-19 infection high risk score based on vital signs SpO2 &lt;94%</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Vital signs BMI score of 40 kg/m2</measure>
+    <time_frame>1 Day</time_frame>
+    <description>Measure COVID-19 infection high risk score based on Height 0.15 meters and Weight of 122 Kgs</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Chronic Illness score</measure>
+    <time_frame>1 Day</time_frame>
+    <description>Measure COVID-19 infection high risk score based on chronic illness response; Yes on uncontrolled Asthma, COPD, Hypertension, T2DM</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Mental health assessment high score &gt;11 on PHQ9 Depression score</measure>
+    <time_frame>1 Day</time_frame>
+    <description>Measure COVID-19 infection risk score based on mental health assessment for Depression</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Mental health assessment high score &gt;11 on GAD 7 Anxiety score</measure>
+    <time_frame>1 Day</time_frame>
+    <description>Measure COVID-19 infection risk score based on mental health assessment for Anxiety</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Evaluate a treatment strategy with ECL-19</measure>
+    <time_frame>1 Day</time_frame>
+    <description>Measure hospital admissions in PCR positive COVID 19 subjects within 48 hours who are in Stage I of the disease process</description>
+  </primary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">27000</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>COVID19 PCR positive test and negative or high risk asymptomatic</arm_group_label>
+    <description>Patient population COVID-19 infection risk assessment real time epidemiology with 27000 subjects</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>COVID19 PCR positive test Stage 1 infection</arm_group_label>
+    <description>Patient population of PCR positive COVID-19 Stage 1 infection in registry targeted for ECL-19 treatment for reduced hospitalization with 2700 subjects (10% ECL-19 and 20% Placebo)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Coromec Registry with ECL-19</intervention_name>
+    <description>Glycocheck to assess Microvascular Score will be used on all patients. An algorithm-based identification of symptoms and objective evidence using care coordination and remote sensor driven technology</description>
+    <arm_group_label>COVID19 PCR positive test Stage 1 infection</arm_group_label>
+    <other_name>Glycocheck</other_name>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Unselected patient population of COVID 19 positive infection&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  COVID-19 PCR positive&#xD;
+&#xD;
+          -  COVID-19 PCR negative&#xD;
+&#xD;
+          -  COVID-19 PCR pending&#xD;
+&#xD;
+          -  COVID-19 high risk score&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Subjects unwilling to participate in the study before, during or after consent&#xD;
+&#xD;
+          -  Patients considered unreliable by the investigator concerning the requirements for&#xD;
+             follow-up visits.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Peter A McCullough, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Baylor Heart and Vascular Institute</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Michael Castro, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Abrazo Health Network</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Kris Vijay, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Abrazo Health Network</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Multiple Locations</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Multiple Locations</name>
+      <address>
+        <city>Bangalore</city>
+        <country>India</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Multiple Locations</name>
+      <address>
+        <city>Stockholm</city>
+        <country>Sweden</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>India</country>
+    <country>Sweden</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://www.ahajournals.org/doi/abs/10.1161/circ.130.suppl_2.18895</url>
+    <description>Utility of Remote Monitoring Using a Mobile Phone in Patients with Heart Failure: the REMOTE-HF-1 Study</description>
+  </link>
+  <reference>
+    <citation>Rovas A, Lukasz AH, Vink H, Urban M, Sackarnd J, Pavenstädt H, Kümpers P. Bedside analysis of the sublingual microvascular glycocalyx in the emergency room and intensive care unit - the GlycoNurse study. Scand J Trauma Resusc Emerg Med. 2018 Feb 14;26(1):16. doi: 10.1186/s13049-018-0483-4.</citation>
+    <PMID>29444696</PMID>
+  </reference>
+  <reference>
+    <citation>Weissgerber TL, Garcia-Valencia O, Milic NM, Codsi E, Cubro H, Nath MC, White WM, Nath KA, Garovic VD. Early Onset Preeclampsia Is Associated With Glycocalyx Degradation and Reduced Microvascular Perfusion. J Am Heart Assoc. 2019 Feb 19;8(4):e010647. doi: 10.1161/JAHA.118.010647.</citation>
+    <PMID>30764695</PMID>
+  </reference>
+  <reference>
+    <citation>Rovas A, Seidel LM, Vink H, Pohlkötter T, Pavenstädt H, Ertmer C, Hessler M, Kümpers P. Association of sublingual microcirculation parameters and endothelial glycocalyx dimensions in resuscitated sepsis. Crit Care. 2019 Jul 24;23(1):260. doi: 10.1186/s13054-019-2542-2.</citation>
+    <PMID>31340868</PMID>
+  </reference>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>November 6, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 18, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 21, 2020</study_first_posted>
+  <last_update_submitted>January 8, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 8, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 12, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

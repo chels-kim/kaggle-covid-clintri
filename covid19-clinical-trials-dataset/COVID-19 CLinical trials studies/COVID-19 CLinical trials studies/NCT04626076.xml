@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1111">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04626076</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CER-HCW-001</org_study_id>
+    <nct_id>NCT04626076</nct_id>
+  </id_info>
+  <brief_title>International Registry of Healthcare Workers Exposed to COVID-19 Patients</brief_title>
+  <acronym>UNITY Global</acronym>
+  <official_title>International Registry of Healthcare Workers Exposed to COVID-19 Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Certara</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Bill and Melinda Gates Foundation</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Parexel</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Certara</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The International Registry of Healthcare Workers Exposed to COVID-19 Patients (UNITY Global),&#xD;
+      is an international registry of approximately 10,000 healthcare workers in low- and&#xD;
+      middle-income countries experiencing increasing numbers of COVID-19 cases and commensurate&#xD;
+      increased exposure to the SARS-CoV-2 virus among their healthcare worker populations.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The registry will enrol HCWs who are experiencing or are expected to experience ongoing and&#xD;
+      recurrent close contact with confirmed or clinically diagnosed COVID-19 patients. Recruitment&#xD;
+      for the registry will aim to enrol a representative distribution of HCWs on the front lines&#xD;
+      of diagnosing and caring for COVID-19 patients in both hospitals and community settings, as&#xD;
+      well as a balanced sample of HCWs receiving the most commonly administered putatively&#xD;
+      prophylactic drug regimens.&#xD;
+&#xD;
+      The registry will collect information on a weekly basis from HCWs across a 12-week period&#xD;
+      following their first known exposure to confirmed or clinically diagnosed COVID-19 patients&#xD;
+      prior to or within 30 days after enrollment. Data collection will include the drug regimens&#xD;
+      being taken by the HCWs, information about their level of exposure to COVID-19 patients,&#xD;
+      their personal health status, and other factors such as the use of PPE which would likely&#xD;
+      impact their risk of developing a SARS-CoV-2 infection.&#xD;
+&#xD;
+      A standard pharmaco-epidemiological inferential analysis will be conducted treating the&#xD;
+      registry data as a cohort with dynamic exposure to both prophylactic treatment and to&#xD;
+      COVID-19 infected patients and adjusting for potential confounding. Crude and adjusted&#xD;
+      hazards ratios will be estimated for each of the prophylactic regimens of interest and any&#xD;
+      observed impact on the risk of infection among HCWs based on all statistical inferential&#xD;
+      models will be reported&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 13, 2020</start_date>
+  <completion_date type="Anticipated">October 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2021</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Other</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>12 Weeks</target_duration>
+  <primary_outcome>
+    <measure>Occurrence of SARS-CoV-2 infection among HCWs caring for COVID-19 patients, in terms of time, geography, healthcare setting, type of HCW.</measure>
+    <time_frame>12 weeks</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Occurrence of SARS-CoV-2 uninfected HCWs</measure>
+    <time_frame>12 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Occurrence of SARS-CoV-2 infection with ambulatory status and no limitation of activities</measure>
+    <time_frame>12 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Occurrence of SARS-CoV-2 infection with ambulatory status and limitation of activities</measure>
+    <time_frame>12 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Occurrence of hospitalization due to COVID-19 illness with mild disease</measure>
+    <time_frame>12 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Occurrence of hospitalization due to COVID-19 illness with severe disease</measure>
+    <time_frame>12 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Occurrence of all-cause mortality</measure>
+    <time_frame>12 weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Type of prophylactic treatments by dose, frequency and duration, overall and by country/region/site</measure>
+    <time_frame>12 weeks</time_frame>
+  </secondary_outcome>
+  <number_of_groups>9</number_of_groups>
+  <enrollment type="Anticipated">10000</enrollment>
+  <condition>SARS-CoV Infection</condition>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Aga Khan University</arm_group_label>
+    <description>Pakistan</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Wits Reproductive Health Institute</arm_group_label>
+    <description>South Africa</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>African Medical and Research Foundation- Uganda</arm_group_label>
+    <description>Uganda</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>African Medical and Research Foundation- Kenya</arm_group_label>
+    <description>Kenya</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>African Medical and Research Foundation- Zambia</arm_group_label>
+    <description>Zambia</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>African Medical and Research Foundation- Senegal</arm_group_label>
+    <description>Senegal</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>World Mosquito Program</arm_group_label>
+    <description>Indonesia</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>54Gene</arm_group_label>
+    <description>Nigeria</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>African Institute of Biomedical Science &amp; Technology</arm_group_label>
+    <description>Zimbabwe</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Comparative Observational Cohort Study</intervention_name>
+    <description>This is a comparative observational cohort study; therefore, no preventive interventions, visits or laboratory tests are mandated. Dosing and duration of potential prophylactic treatment is at the discretion of the institution and/or healthcare provider, in accordance with regular local practice. However, serology testing for SARS-CoV-2 antibodies will be offered to the first 50% of participating HCWs per country, at enrollment and at the last follow-up (i.e. at Week 12)</description>
+    <arm_group_label>54Gene</arm_group_label>
+    <arm_group_label>African Institute of Biomedical Science &amp; Technology</arm_group_label>
+    <arm_group_label>African Medical and Research Foundation- Kenya</arm_group_label>
+    <arm_group_label>African Medical and Research Foundation- Senegal</arm_group_label>
+    <arm_group_label>African Medical and Research Foundation- Uganda</arm_group_label>
+    <arm_group_label>African Medical and Research Foundation- Zambia</arm_group_label>
+    <arm_group_label>Aga Khan University</arm_group_label>
+    <arm_group_label>Wits Reproductive Health Institute</arm_group_label>
+    <arm_group_label>World Mosquito Program</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        As per the WHO definition10, HCWs eligible for enrollment are limited, based on the high&#xD;
+        likelihood of being exposed to COVID-19 patients during patient care, to the following&#xD;
+        positions:&#xD;
+&#xD;
+          -  Medical doctors*&#xD;
+&#xD;
+          -  Clinical officers*&#xD;
+&#xD;
+          -  Licensed physician assistant or nurse practitioner*&#xD;
+&#xD;
+          -  Registered nurse (or equivalent)*&#xD;
+&#xD;
+          -  Assistant nurse, nurse technician (or equivalent)*&#xD;
+&#xD;
+          -  Phlebotomist&#xD;
+&#xD;
+          -  Clinical pharmacist&#xD;
+&#xD;
+          -  Clinical physical therapist&#xD;
+&#xD;
+          -  Respiratory therapist&#xD;
+&#xD;
+          -  Community healthcare worker&#xD;
+&#xD;
+             *These should include the following primary specialties:&#xD;
+&#xD;
+          -  Surgery (all sub-specialties)&#xD;
+&#xD;
+          -  Internal medicine (general)&#xD;
+&#xD;
+          -  Pulmonology/critical care&#xD;
+&#xD;
+          -  Emergency medicine&#xD;
+&#xD;
+          -  Geriatrics&#xD;
+&#xD;
+          -  Cardiology&#xD;
+&#xD;
+          -  Infectious disease&#xD;
+&#xD;
+          -  Anesthesiology&#xD;
+&#xD;
+          -  Pediatrics&#xD;
+&#xD;
+          -  Obstetrics/Midwifery&#xD;
+&#xD;
+          -  Other&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Healthcare workers will be entered into this study only if they meet ALL the following&#xD;
+        criteria:&#xD;
+&#xD;
+          -  Healthcare workers aged ≥ 18 years.&#xD;
+&#xD;
+          -  Healthcare workers must be exposed through ongoing and recurrent contact to a&#xD;
+             confirmed or clinically diagnosed COVID-19 patient prior to enrollment, or anticipated&#xD;
+             within 30 days after enrollment.&#xD;
+&#xD;
+          -  Healthcare workers must consent to provide data for the registry and must be willing&#xD;
+             to be contacted/reminded about data entry at each follow-up time point.&#xD;
+&#xD;
+          -  Healthcare workers must agree to provide a secondary contact for follow-up.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  A confirmed SARS-CoV-2 infection or clinically diagnosed COVID-19 prior to the first&#xD;
+             known exposure to confirmed or clinically diagnosed COVID-19 patient (Index Date).&#xD;
+&#xD;
+          -  Participation in a 'blinded' clinical trial, i.e. unaware of exact treatment received&#xD;
+             as part of the clinical trial.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Roman Casciano, Masters</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Certara</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Craig Rayner, PharmD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Certara</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Roman Casciano, Masters</last_name>
+    <phone>+1 (917) 369 0113</phone>
+    <email>roman.casciano@certara.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Marta Martinez, PharmD</last_name>
+    <email>marta.martinez@certara.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Aga Khan University</name>
+      <address>
+        <city>Karachi</city>
+        <zip>74800</zip>
+        <country>Pakistan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Zainab Samad, Dr.</last_name>
+      <email>samad.zainab@aku.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Pakistan</country>
+  </location_countries>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>November 10, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 10, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 12, 2020</study_first_posted>
+  <last_update_submitted>November 10, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 10, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 12, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>SARS-CoV-2 infection</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>Healthcare Workers</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Plan is currently in draft</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

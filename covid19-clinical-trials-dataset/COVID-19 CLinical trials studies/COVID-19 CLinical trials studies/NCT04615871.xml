@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2766">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04615871</url>
+  </required_header>
+  <id_info>
+    <org_study_id>UHNSEMPATICO1</org_study_id>
+    <nct_id>NCT04615871</nct_id>
+  </id_info>
+  <brief_title>Semaglutide to Reduce Myocardial Injury in PATIents With COVID-19</brief_title>
+  <acronym>SEMPATICO</acronym>
+  <official_title>Semaglutide to Reduce Myocardial Injury in PATIents With COVID-19 Randomized Controlled Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Vladimír Džavík</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Unity Health Toronto</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Canadian Institutes of Health Research (CIHR)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Toronto</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University Health Network, Toronto</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      With the results of this study the investigators aim to identify an effective treatment that&#xD;
+      will reduce morbidity and mortality of patients with symptomatic COVID-19 infection, which&#xD;
+      would in turn reduce the burden on the healthcare system by decreasing the need for intensive&#xD;
+      care.&#xD;
+&#xD;
+      Objectives: The main objective of this research is to determine if once weekly treatment with&#xD;
+      the GLP-1 agonist semaglutide for 4 doses will reduce cardiac as well as non-cardiac&#xD;
+      complications of COVID-19 infection.&#xD;
+&#xD;
+      Study Plan: The study design is prospective randomized open-label blinded-evaluation (PROBE).&#xD;
+      Eligible patients with symptomatic COVID-19 infection and an enhanced risk profile as&#xD;
+      described above, who have been admitted to hospital due to symptoms of COVID-19 infection but&#xD;
+      do not as yet require critical care will be approached to participate in this study. Provided&#xD;
+      there are no exclusion criteria and the participants agree by means of documented written&#xD;
+      informed consent, The participants the participantswill be randomized to receive s.c.&#xD;
+      semaglutide 0.25 mg s.c. or control immediately after randomization and then 0.5 mg s.c. at&#xD;
+      Day 7, Day 14 and Day 21. Blood will be drawn at Day 7±2 and Day 14±2 for the cardiac&#xD;
+      troponin biomarker and safety parameters. ECG will be obtained at Day 7±2 and Day 14±2.&#xD;
+      Primary outcome will be assessed on Day 28.&#xD;
+&#xD;
+      Primary outcome measure: A composite of (1) death from any cause or (2) mechanical&#xD;
+      ventilation (invasive or non-invasive) at 28 days.&#xD;
+&#xD;
+      Major secondary outcome measure:&#xD;
+&#xD;
+      (1) an elevation to &gt;99th percentile URL upper reference limit (URL) in those with a baseline&#xD;
+      cardiac troponin level ≤99th percentile URL; or 3x elevation from baseline in those with a&#xD;
+      baseline cardiac troponin &gt;99th percentile URL; measured at Day 7±2 days and Day 14±2 days&#xD;
+      post randomization.&#xD;
+&#xD;
+      Other major secondary outcome measure:&#xD;
+&#xD;
+      A composite of&#xD;
+&#xD;
+        1. Death from any cause, mechanical ventilation or vasopressor or ECLS support at 28 days&#xD;
+&#xD;
+        2. an elevation to &gt;99th percentile URL in those with a normal baseline troponin level; or&#xD;
+           3x elevation from baseline in those with a baseline troponin; measured at 1 and 2 weeks&#xD;
+           (7±2 and 14±2 days) post randomization.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      6.1 Background&#xD;
+&#xD;
+      The current COVID-19 pandemic is rapidly spreading with a global total of ~35 million cases,&#xD;
+      with close to 170,000 cases and over 9,500 deaths in Canada alone (as of 10/05/2020). Most&#xD;
+      affected patients have mild or even no symptoms, however, those requiring hospitalization&#xD;
+      have a more severe presentation including pneumonia, acute respiratory distress syndrome&#xD;
+      (ARDS), cardiovascular collapse and death. There is mounting evidence that myocardial injury,&#xD;
+      occurring in 8-28% of hospitalized patients, has a major impact on mortality. In a study from&#xD;
+      Wuhan in China, mortality was 59.6% in COVID-19 patients with an elevated troponin and only&#xD;
+      8.9% in those with a normal troponin level. ARDS was also more common in troponin-positive&#xD;
+      patients. The pathophysiology of myocardial injury following COVID-19 infection is not well&#xD;
+      understood, but may include viral myocarditis, cardiomyocyte injury from systemic cytokine&#xD;
+      storm, reductions in myocardial blood flow from micro- and macro-vascular thromboses, and&#xD;
+      severe hypoxemia in the setting of pre-existing cardiovascular disease (CVD).1 Higher rates&#xD;
+      of adverse outcomes with COVID-19 have also been noted in patients with hypertension and&#xD;
+      diabetes. Based on these data, approaches to prevent or reduce the vascular consequences of&#xD;
+      COVID-19 may be beneficial and should be prioritized for rapid evaluation in controlled&#xD;
+      clinical trials.&#xD;
+&#xD;
+      Currently there is a paucity of approved therapies for COVID-19 infection. Current&#xD;
+      interventions are either supportive in nature or experimental anti-viral, anti-inflammatory,&#xD;
+      or anti-coagulant in nature. Only dexamethasone has recently been shown to reduce mortality.&#xD;
+      To date, there is no proposed treatment directly addressing the mechanisms of increased&#xD;
+      cardiovascular risk in this deadly disease. The investigators have strong rationale and&#xD;
+      world-leading expertise in this area. This is a prospective, randomized, controlled,&#xD;
+      open-label, blinded-evaluation, exploratory (vanguard) study in hospitalized symptomatic&#xD;
+      COVID-19 patients age with any two of the following high-risk features: age &gt;60 years,&#xD;
+      obesity (BMI&gt; 30), diabetes (by history - with or without medical treatment), hypertension&#xD;
+      (on any treatment), cardiovascular disease (by history), chronic kidney disease (eGFR &lt;60) or&#xD;
+      elevated biomarkers on admission to hospital (troponin, d-dimer). Eligible and consented&#xD;
+      patients will be randomized to one of the following two treatment regimens in a 1:1 ratio:&#xD;
+      (1) semaglutide 0.25 mg s.c. immediately after randomization at baseline, then 0.5 mg s.c. at&#xD;
+      day 7, day 14, and day 21. The end of treatment period and primary outcome assessments will&#xD;
+      occur on day 28. Final secondary clinical outcome assessment will be at 180 days.&#xD;
+&#xD;
+      With the results of this study the investigators aim to identify an effective treatment that&#xD;
+      will reduce morbidity and mortality of patients with symptomatic COVID-19 infection, which&#xD;
+      would in turn reduce the burden on the healthcare system by decreasing the need for intensive&#xD;
+      care.&#xD;
+&#xD;
+      Objectives: The main objective of this research is to determine if once weekly treatment with&#xD;
+      the GLP-1 agonist semaglutide for 4 doses will reduce cardiac as well as non-cardiac&#xD;
+      complications of COVID-19 infection.&#xD;
+&#xD;
+      Study Plan: The study design is prospective randomized open-label blinded-evaluation (PROBE).&#xD;
+      Eligible patients with symptomatic COVID-19 infection and an enhanced risk profile as&#xD;
+      described above, who have been admitted to hospital due to symptoms of COVID-19 infection but&#xD;
+      do not as yet require critical care will be approached to participate in this study. Provided&#xD;
+      there are no exclusion criteria and the participants agree by means of documented written&#xD;
+      informed consent, The participants will be randomized to receive s.c. semaglutide 0.25 mg&#xD;
+      s.c. or control immediately after randomization and then 0.5 mg s.c. at Day 7, Day 14 and Day&#xD;
+      21. Blood will be drawn at Day 7 and Day 14 for the cardiac troponin biomarker and safety&#xD;
+      parameters. ECG will be obtained at Day 7±2 and Day 14±2. Primary outcome will be assessed on&#xD;
+      Day 28.&#xD;
+&#xD;
+      Primary outcome measure: A composite on Day 28 after randomization of (1) death from any&#xD;
+      cause, (2) mechanical ventilation (invasive or non-invasive [bilevel positive airway pressure&#xD;
+      or BIPAP])&#xD;
+&#xD;
+      Major secondary outcome measure:&#xD;
+&#xD;
+      (1) an elevation to &gt;99th percentile URL upper reference limit (URL) in those with a baseline&#xD;
+      cardiac troponin level ≤99th percentile URL; or 3x elevation from baseline in those with a&#xD;
+      baseline cardiac troponin &gt;99th percentile URL; measured at Day 7±2 and Day 14±2 post&#xD;
+      randomization.&#xD;
+&#xD;
+      Other major secondary outcome measure:&#xD;
+&#xD;
+        1. A composite on Day 28 after randomization of (1) death from any cause, (2) mechanical&#xD;
+           ventilation (invasive or non-invasive [bilevel positive airway pressure] (3) an&#xD;
+           elevation to &gt;99th percentile URL in those with a normal baseline troponin level; or 3x&#xD;
+           elevation from baseline in those with a baseline troponin; measured at Day 7±2 and Day&#xD;
+           14±2 post randomization.&#xD;
+&#xD;
+        2. ECG at Day 7±2 and Day 14±2: QRS and ST-T wave changes&#xD;
+&#xD;
+        3. 28-day organ support-free days&#xD;
+&#xD;
+        4. A composite of death or intensification of medical therapy in hospitalized symptomatic&#xD;
+           patients infected with the COVID-19 virus, that includes the need for ECLS, mechanical&#xD;
+           ventilation (invasive or non-invasive [BIPAP]) and/or vasopressor/inotropic therapy on&#xD;
+           Day 180 post randomization.&#xD;
+&#xD;
+      Sample size estimation: The study plan is to enroll 50 patients in an initial feasibility&#xD;
+      phase and continue to a total of 400 patients in the complete vanguard study based on the&#xD;
+      assumption of a 20% primary event rate in the control group, and a 50% relative risk&#xD;
+      reduction in the event rate in the active treatment arm. The rationale for the large effect&#xD;
+      size to be tested is the need for a rapid answer for this life-threatening pandemic. A&#xD;
+      conditional power analysis will allow the investigators to adjust the study size as needed.&#xD;
+      When 70% of the randomized patients have reached the 28-day time-point, conditional power&#xD;
+      will be estimated on the primary outcome. If the conditional power is between 60% and 80%,&#xD;
+      the sample size will be adjusted to raise the power to 80%.&#xD;
+&#xD;
+      Planned subgroup analyses: Planned subgroup analyses for the primary endpoint include: 1)&#xD;
+      Diabetes vs. no diabetes, 2) baseline troponin &gt;99% percentile URL vs. not, 3) age &lt; 60 y vs.&#xD;
+      age ≥ 60 y, 4) eGFR &lt; 60 mL/min vs. eGFR ≥ 60 mL/min, , 6) male vs. female. These subgroup&#xD;
+      effects will be explored using a treatment-interaction test.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">November 30, 2020</start_date>
+  <completion_date type="Anticipated">March 31, 2022</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Patients will be randomized to receive active treatment - s.c. semaglutide for 4 weekly doses in addition to standard of care or control - standard of care only</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Outcomes Assessor)</masking>
+    <masking_description>Randomized open-label blinded evaluation trial. There will be an independent events adjudication committee</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Composite of death or mechanical ventilation</measure>
+    <time_frame>28 days after randomization</time_frame>
+    <description>All cause death or invasive or non-invasive mechanical ventilation</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>cardiac troponin level</measure>
+    <time_frame>7±2 days after randomization</time_frame>
+    <description>(1) an elevation to &gt;99th percentile URL upper reference limit (URL) in those with a baseline cardiac troponin level ≤99th percentile URL; or 3x elevation from baseline in those with a baseline cardiac troponin &gt;99th percentile URL; measured at 1 week (7-days) post randomization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>cardiac troponin level</measure>
+    <time_frame>14±2 days after randomization</time_frame>
+    <description>(1) an elevation to &gt;99th percentile URL upper reference limit (URL) in those with a baseline cardiac troponin level ≤99th percentile URL; or 3x elevation from baseline in those with a baseline cardiac troponin &gt;99th percentile URL; measured at 1 week (7-days) post randomization.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ECG</measure>
+    <time_frame>Day 7±2 and Day 14±2</time_frame>
+    <description>The ECG will be evaluated for deviation from normal or from baseline (QRS, ST-T wave changes</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>28-day organ support-free days</measure>
+    <time_frame>28 days</time_frame>
+    <description>The number of days that a patient is alive and free of organ support through 28 days after trial entry. Organ support is defined by receipt for non-invasive mechanical ventilation, high flow nasal cannula oxygen, mechanical ventilation, or vasopressor therapy.&#xD;
+Non-invasive mechanical ventilation is defined as bilevel positive airway pressure (BIPAP) or continuous positive airway pressure (CPAP) when used for acute respiratory support (Use of BIPAP or CPAP at night or when sleeping for sleep apnea is not considered organ support) High Flow Nasal Cannula Oxygen: defined as receiving ≥30 l/min flow at FiO2 ≥40% Invasive mechanical ventilation is defined as positive pressure ventilation through endotracheal tube or tracheostomy Vasopressor support includes infusion of any vasoactive or inotropic medication</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>A composite of death or intensification of medical therapy</measure>
+    <time_frame>180 days</time_frame>
+    <description>Intensification of medical therapy includes the need for ECLS, mechanical ventilation (invasive or non-invasive [BIPAP]) and/or vasopressor/inotropic therapy on Day 180 post randomization.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">400</enrollment>
+  <condition>Covid19</condition>
+  <condition>Myocardial Injury</condition>
+  <arm_group>
+    <arm_group_label>semaglutide</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Eligible subjects randomized to this arm will receive semaglutide 0.25 mg s.c. after randomization (Day 0), then semaglutide 0.5 mg s.c. on Day 7, Day 14 and Day 21 in addition to standard of care.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Eligible subjects randomized to the control arm will receive no active treatment, only standard of care.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>semaglutide</intervention_name>
+    <description>semaglutide 0.25 mg s.c. on Day 0 after randomization, then semaglutide 0.5 mg s.c. on Day 7, Day 14 and Day 21</description>
+    <arm_group_label>semaglutide</arm_group_label>
+    <other_name>Ozempic</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Symptomatic* COVID-2 infection confirmed by a positive COVID-19 test requiring&#xD;
+        hospitalization [or equivalent health care setting] with any two of the following high-risk&#xD;
+        features:&#xD;
+&#xD;
+          -  age ≥ 60 years&#xD;
+&#xD;
+          -  obesity (BMI &gt;30)&#xD;
+&#xD;
+          -  diabetes mellitus&#xD;
+&#xD;
+          -  hypertension (on treatment or recently diagnosed)h&#xD;
+&#xD;
+          -  coronary artery, cerebrovascular or peripheral vascular disease∫&#xD;
+&#xD;
+          -  chronic kidney disease (CKD) [eGFR &lt;60 mL/min/1.73m2 using the CKD Epidemiology&#xD;
+             Collaboration equation&#xD;
+&#xD;
+          -  admission troponin &gt;99% of ULN&#xD;
+&#xD;
+          -  admission d-dimer &gt; 1µg/ml&#xD;
+&#xD;
+          -  O2 saturation ≤93% e on room air or ≤95% on O2 therapy at 1-4 LPM&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Age &lt;18 years&#xD;
+&#xD;
+          -  History of pancreatitis&#xD;
+&#xD;
+          -  History of multiple endocrine neoplasia or medullary thyroid cancer&#xD;
+&#xD;
+          -  Current use of a GLP-1 receptor agonist [use of a DPP-4 inhibitor is allowed]&#xD;
+&#xD;
+          -  Positive beta-HCG (pregnancy test is mandated with baseline bloodwork for all female&#xD;
+             subjects ≤50 years of age&#xD;
+&#xD;
+          -  Elevation of serum lipase, direct (conjugated) bilirubin, or alkaline phosphatase&#xD;
+             (ALP) more than 3X the upper limit of normal on baseline bloodwork&#xD;
+&#xD;
+          -  history of decompensated heart failure with reduced ejection fraction (&lt;35%) within 90&#xD;
+             days, or known stable NYHA class IV heart failure prior to their COVID-19 illness&#xD;
+&#xD;
+          -  imminent mechanical ventilation or death&#xD;
+&#xD;
+          -  O2 therapy &gt;4 LPM by nasal cannula or mask or already receiving non-invasive&#xD;
+             mechanical ventilation on enrolment&#xD;
+&#xD;
+          -  Any marker of hemodynamic instability at baseline defined as persistent SBP &lt;90 mmHg&#xD;
+             after rehydration, or &gt; 220 mmHg after receiving routine antihypertensive therapy, or&#xD;
+             HR &lt;50 bpm or &gt; 140 bpm after rehydration.&#xD;
+&#xD;
+          -  inability to provide informed consent&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Vladimir Dzavik, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University Health Network, Toronto</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Instituto Prevent Senior</name>
+      <address>
+        <city>São Paulo</city>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Priscilla Griffo</last_name>
+      <email>Priscilla.Griffo@institutopreventsenior.com.br</email>
+    </contact>
+    <investigator>
+      <last_name>Rodrigo B Esper, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>State University of Campinas</name>
+      <address>
+        <city>São Paulo</city>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Ticiane Bovi</last_name>
+      <email>ticianenutri@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Andrei C Sposito, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Trillium Health Partners</name>
+      <address>
+        <city>Mississauga</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Anil Gupta, MD</last_name>
+    </contact>
+    <investigator>
+      <last_name>Anil Gupta, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>St. Michael's Hospital</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M5B 1W8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Carlos Fernando</last_name>
+      <phone>416-864-6060</phone>
+      <phone_ext>46969</phone_ext>
+      <email>carlos.fernando@unityhealth.to</email>
+    </contact>
+    <investigator>
+      <last_name>Kim Connelly, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University Health Network - Peter Munk Cardiac Centre</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Cheryl Geen-Smith</last_name>
+      <phone>416-340-4800</phone>
+      <phone_ext>4969</phone_ext>
+      <email>Cheryl.Geen-Smith@uhn.ca</email>
+    </contact>
+    <investigator>
+      <last_name>Vladimír Džavík, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Mansoor Husain, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>McGill University Health Centre</name>
+      <address>
+        <city>Montréal</city>
+        <state>Quebec</state>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Sarah Elsayed</last_name>
+      <phone>(514)934-1934</phone>
+      <phone_ext>23730</phone_ext>
+      <email>sarah.elsayed@mail.mcgill.ca</email>
+    </contact>
+    <investigator>
+      <last_name>Emily McDonald, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital de Infectologia</name>
+      <address>
+        <city>Mexico City</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Daniela M Rosiles, MD</last_name>
+      <email>danierof@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Eduardo Mateos, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital General Regional</name>
+      <address>
+        <city>Mexico City</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Beatriz Villegas, DDS</last_name>
+      <email>beatrizvillegaslara@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Jorge Escobedo, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Regional 2</name>
+      <address>
+        <city>Querétaro</city>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Juan A Santillan, MD</last_name>
+      <email>anwarsantillan30@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Julieta Valenzuela, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Sandwell and West Birmingham NHS Trust</name>
+      <address>
+        <city>Birmingham</city>
+        <zip>B18 7QH</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Gina Dutton</last_name>
+      <phone>44 (0) 121 507 4811</phone>
+      <email>gina.dutton1@nhs.net</email>
+    </contact>
+    <investigator>
+      <last_name>Vinoda Sharma, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+    <country>Canada</country>
+    <country>Mexico</country>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>October 29, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 2, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 4, 2020</study_first_posted>
+  <last_update_submitted>November 2, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 2, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 4, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>University Health Network, Toronto</investigator_affiliation>
+    <investigator_full_name>Vladimír Džavík</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Covid-19</keyword>
+  <keyword>myocardial injury</keyword>
+  <keyword>GLP-1 agonist</keyword>
+  <keyword>semaglutide</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Wounds and Injuries</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

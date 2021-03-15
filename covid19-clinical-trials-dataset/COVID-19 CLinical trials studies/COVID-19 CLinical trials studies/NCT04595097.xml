@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3435">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04595097</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CNPQ092020</org_study_id>
+    <nct_id>NCT04595097</nct_id>
+  </id_info>
+  <brief_title>Inspiratory Muscle Training in COVID-19 Patients</brief_title>
+  <acronym>ADDIMTCOVID</acronym>
+  <official_title>Adjunctive Inspiratory Muscle Training for Patients With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Escola Superior de Ciencias da Saude</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Brasilia</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>JBS/CNPq</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Escola Superior de Ciencias da Saude</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study aims to investigate whether adjunctive inspiratory muscle training (IMT) can&#xD;
+      enhance the benefits of pulmonary rehabilitation (PR) in patients with COVID-19. 120 patients&#xD;
+      will be randomized into an interventional group (PR plus IMT) and a control group (sham IMT&#xD;
+      plus PR). Improvement in quality of life, peak VO2 and VE/VCO2 slope will be defined as a&#xD;
+      primary outcome. Maximal inspiratory pressure, inspiratory muscle endurance, pulmonary&#xD;
+      function testing, severity of fatigue, cost-effectiveness and six minute walk test will be&#xD;
+      defined as the secondary outcomes.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 1, 2021</start_date>
+  <completion_date type="Anticipated">September 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">August 20, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Health- related quality of life</measure>
+    <time_frame>change from baseline in EQ-5D score at 8 weeks and 6 months</time_frame>
+    <description>EQ-5D is a standardized tool for the assessment of quality of life in 5 different dimensions (Mobility, Self-Care, Usual Activities, Pain/Discomfort, Anxiety/Depression). Possible scores range from 1 (No problem) to 3 (Extreme problems) and each dimension are evaluated individually</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Peak VO2</measure>
+    <time_frame>change from baseline in Peak VO2 at 8 weeks and 6 months</time_frame>
+    <description>Peak VO2 is a measurement of oxygen consumption rate during exercise (milliliters of oxygen per minute). It is calculated by continuous measurement of oxygen consumed during exercise while patients breath through a mask/tube. To account for variability in patient size, the oxygen consumption is divided by patient body weight.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Minute Ventilation and Carbon Dioxide Production (VE/VCO2 Slope)</measure>
+    <time_frame>change from baseline in VE/VCO2 Slope at 8 weeks and 6 months</time_frame>
+    <description>The VE/VCO2 slope is calculated as the ratio of minute ventilation (VE) and carbon dioxide production (VCO2). Because these measurements share the same units, the resultant ratio is unitless.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Dyspnea</measure>
+    <time_frame>change from baseline in mMRC score at 8 weeks and 6 months</time_frame>
+    <description>The modified Medical Research Council Dyspnea Scale (mMRC). A score from 0-4 is used to classify the impact of dyspnea on physical function in patients with respiratory limitations. 0 represents a person who suffers from dyspnea only with strenuous exercise. 4 represents a person who are to breathless to leave the house, or breathless when dressing/undressing.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Respiratory muscle strength</measure>
+    <time_frame>change from baseline in MIP and MEP at 8 weeks and 6 months</time_frame>
+    <description>Pulmonary function test with Maximal inspiratory pressure (MIP) and maximal expiratory pressure (MEP) measurements</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Exercise Capacity</measure>
+    <time_frame>change from baseline in distance during Six minute walking test at 8 weeks and 6 months</time_frame>
+    <description>Six minute walking test ia a field test designed to measure exercise capacity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>severity of fatigue</measure>
+    <time_frame>change from baseline in FSS score at 8 weeks and 6 months</time_frame>
+    <description>Fatigue severity scale (FSS) is a questionnaire consisting of 9 questions showing the degree of fatigue of patients. An average score of less than 2.8 indicates no fatigue, and more than 6.1 indicates chronic fatigue syndrome</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Anxiety and Depression</measure>
+    <time_frame>Change from baseline in HADS score at 8 weeks and 6 months</time_frame>
+    <description>Hospital anxiety and depression scale (HADS) is a 14-item questionnaire for screening anxiety (7 items) and depression (7 items). Each item is scored from 0-3 (a 4-point severity scale). Highest anxiety or depression score is 21. Patients are defined as having anxiety or depression or both if the score is 8 or more in the each subscale.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>incremental cost-utility ratio</measure>
+    <time_frame>6 months</time_frame>
+    <description>Utility will be measured by Quality Adjusted Life Year (QALYs) as estimated from responses to the Euroqol-5 Dimensions (EQ-5D 5L) health-related quality of life questionnaire. The questionnaire focuses on 5 dimensions: mobility, personal autonomy, current activities, pain/discomfort and anxiety/depression. For each of these dimensions, 5 answers are possible.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>Covid19</condition>
+  <condition>Exercise</condition>
+  <arm_group>
+    <arm_group_label>Intervention Group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The training volume will be 24 sessions. Training frequency will be 3 sessions per week. Duration of training sessions will be around 60min. Patients will performe endurance training or interval training at moderate to high intensities. IMT in both groups will be performed using the PowerBreathe KHP2 device (POWERbreatheKHP2, HaB, International, Southam, UK). Training intensity in the intervention group will be set initially at a load of 50% of patients' maximal inspiratory mouth pressure (MIP). This initial load will be continuously and gradually increased to the highest tolerable intensity during each of the supervised sessions.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>The training volume will be 24 sessions. Training frequency will be 3 sessions per week. Duration of training sessions will be around 60min. Patients will performe endurance training or interval training at moderate to high intensities. Sham IMT will be performed using the PowerBreathe KHP2 device (POWERbreatheKHP2, HaB, International, Southam, UK). Training intensity in the control group will be set at 10% baseline PImax and will be not modified throughout the intervention period.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>inspiratory muscle traiing</intervention_name>
+    <description>The patients are encouraged to inhale against a load to increase the inspirarpy muscle stregnth and endurance</description>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_label>Intervention Group</arm_group_label>
+    <other_name>tapered flow resistevie loading</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Confirmed COVID-19 diagnosis&#xD;
+&#xD;
+          -  Suspected or confirmed COVID-19 requiring hospitalisation and either i) non- invasive&#xD;
+             respiratory support [CPAP, HFNO, NIV] or ii) invasive mechanical ventilation within 3&#xD;
+             months of study recruitment.&#xD;
+&#xD;
+               -  4 weeks since first positive COVID-19 swab at time of screening&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Pregnancy&#xD;
+&#xD;
+          -  Severe neurological disease (Parkinson's disease, dementia, amyotrophic lateral&#xD;
+             sclerosis, aphasia, constituted ischemic stroke with significant sequelae)&#xD;
+&#xD;
+          -  Osteoarticular pathology reducing mobility&#xD;
+&#xD;
+          -  Dependent for activities of daily living in the month prior to current ICU admission&#xD;
+             (gait aids are acceptable),&#xD;
+&#xD;
+          -  documented cognitive impairment,&#xD;
+&#xD;
+          -  Proven or suspected spinal cord injury or other neuromuscular disease that will result&#xD;
+             in a permanent or prolonged weakness (not including ICU acquired weakness)&#xD;
+&#xD;
+          -  death is deemed inevitable as a result of the current illness and either the patient&#xD;
+             or treating clinical or substitute decision maker are not committed to full active&#xD;
+             treatment,&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Vinicius Maldaner</last_name>
+    <phone>61996522517</phone>
+    <email>viniciusmaldaner@gmail.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Secretaria de Saúde do Distrito Federal</name>
+      <address>
+        <city>Brasilia</city>
+        <state>DF</state>
+        <zip>700000</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Vinicius Silva, PhD</last_name>
+      <phone>+55 61 20172145</phone>
+      <email>viniciius.maldaner@escs.edu.br</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>October 19, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 19, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 20, 2020</study_first_posted>
+  <last_update_submitted>January 12, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 12, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 13, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Escola Superior de Ciencias da Saude</investigator_affiliation>
+    <investigator_full_name>Vinicius Zacarias Maldaner da silva</investigator_full_name>
+    <investigator_title>PhD</investigator_title>
+  </responsible_party>
+  <keyword>respiratory function tests</keyword>
+  <keyword>inspiratory muscle training</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Respiratory Aspiration</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

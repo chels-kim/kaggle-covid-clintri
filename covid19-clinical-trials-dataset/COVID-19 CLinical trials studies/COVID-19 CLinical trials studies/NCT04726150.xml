@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2829">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04726150</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1499</org_study_id>
+    <nct_id>NCT04726150</nct_id>
+  </id_info>
+  <brief_title>Effect of CoVid-19 (CoronaVirusDisease-19) and Exercise on Myocardial Fibrosis and Ventricular Arrhythmias</brief_title>
+  <acronym>CoViDEx</acronym>
+  <official_title>Effect of CoVid-19 and Exercise on Myocardial Fibrosis and Ventricular Arrhythmias (CovidEx)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Antwerp</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Medtronic</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University Hospital, Antwerp</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      COVID-19 can cause myocarditis, which can cause myocardial fibrosis. This has been shown to&#xD;
+      increase mortality and morbidity among athletes. Several efforts have been made to guide&#xD;
+      sports participation after COVID-19, but not much scientific evidence is present to back-up&#xD;
+      those guidelines. The current initiative aims gain a heightened insight in this matter.To&#xD;
+      identify the presence of fibrosis athletes who recovered from COVID-19 will undergo CMR&#xD;
+      (Cardiac MRI). All athletes will also undergo echocardiography, 5-day Holtermonitoring among&#xD;
+      others. This will allow to determine whether differences between those with and those without&#xD;
+      fibrosis are present. If fibrosis is present, athletes will be offered an implantation of a&#xD;
+      very small monitoring device that will be able to detect arrhythmias with a much higher&#xD;
+      sensitivity. Also an exercise echocardiography will be performed, to determine the safety of&#xD;
+      continuation of athletic efforts.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Baseline investigations will depend on the clinical presentation of the athlete. Three groups&#xD;
+      are identified:&#xD;
+&#xD;
+        1. Asymptomatic/mildly symptomatic: anosmia, ageusia, headache, mild fatigue, fever ≤3d,&#xD;
+           myalgias ≤3d , mild upper respiratory tract illness, and mild gastrointestinal illness&#xD;
+&#xD;
+        2. Moderate to severe symptoms: at least 2 of: persistent fever ≥4d, chills ≥4d, myalgias&#xD;
+           ≥4d, lethargy impairing activities of daily life (ADL) ≥4d, dyspnea during ADL ≥4d, and&#xD;
+           chest tightness ≥4d. Or cardiac symptoms: dyspnea, exercise intolerance, chest&#xD;
+           tightness, dizziness, (pre)syncope, and (new onset) palpitations.&#xD;
+&#xD;
+        3. Hospitalized: all athletes admitted for COVID-19, whether or not on the intensive care&#xD;
+           unit.&#xD;
+&#xD;
+             -  Group 1 will undergo a thorough history, clinical examination, ECG, laboratory&#xD;
+                tests for hs-Troponin T (TnT) and hsCRP, echocardiography at rest, 5-day-Holter and&#xD;
+                CMR. These examinations will take place at least 30 days after the first symptoms&#xD;
+                or positive test. Follow-up will be performed as pointed out with the grey crosses&#xD;
+                in the table. Depending on the results further investigation may be required (as in&#xD;
+                group 2 and 3). This part of the study is interventional in nature (not according&#xD;
+                to standard of care in those individuals).&#xD;
+&#xD;
+             -  Groups 2 and 3 will undergo a more extensive evaluation: a thorough history,&#xD;
+                clinical examination, ECG, laboratory tests for hs-TnT and hsCRP, echocardiography&#xD;
+                at rest, CardioPulmonary Exercise Test (CPET), 5-day-Holter, late potentials and&#xD;
+                CMR.&#xD;
+&#xD;
+      If in any athlete the CMR shows signs of fibrosis or myocarditis, an exercise&#xD;
+      echocardiography will be performed additionally. Those subjects will be part of a more&#xD;
+      extensive follow-up schedule (both white and grey in the table) In the case of the presence&#xD;
+      of a non-ischemic pattern of Late Gadolinium Enhancement (LGE) or raised myocardial T2 and&#xD;
+      normal of only mildly contractile reserve, implantation of an Implantable Loop Recorder (ILR)&#xD;
+      will be performed as a part of the study. This then will be remotely followed-up through&#xD;
+      telemonitoring. Other athletes (and those who refuse an ILR will receive a 5d-Holter&#xD;
+      monitoring.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">April 2021</start_date>
+  <completion_date type="Anticipated">April 2026</completion_date>
+  <primary_completion_date type="Anticipated">April 2023</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>3 Years</target_duration>
+  <primary_outcome>
+    <measure>Percentage of athletes with LGE on CMR</measure>
+    <time_frame>6months - 3 years post COVID diagnosis</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Arrhythmic Burden on ILR</measure>
+    <time_frame>6months to 2 to3 years post implantation (depending on device longevity)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Arrhythmic Burden on 5d Holter</measure>
+    <time_frame>At inclusion</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Arrhythmic Burden on 5d Holter</measure>
+    <time_frame>At 6 months</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Arrhythmic Burden on 5d Holter</measure>
+    <time_frame>At 12 months</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Arrhythmic Burden on 5d Holter</measure>
+    <time_frame>At 3 years</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Occurrence of (pre)syncope or SCD</measure>
+    <time_frame>throughout the duration of the study, preamble is 3 years</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Long-term evolution of cardiac function on echo/CMR: ejection fraction</measure>
+    <time_frame>reevaluation at 3 years</time_frame>
+  </secondary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">250</enrollment>
+  <condition>Covid19</condition>
+  <condition>Athletes Heart</condition>
+  <condition>Myocarditis Viral</condition>
+  <condition>Ventricular Arrythmia</condition>
+  <arm_group>
+    <arm_group_label>Mildly of Asymptomatic COVID</arm_group_label>
+    <description>Athletes with prior COVID-19 that had a mildly or asymptomatic course</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Moderate to Severe Symptoms, Cardiac Symptoms</arm_group_label>
+    <description>Athletes with prior COVID-19 that had a moderate to severely symptomatic course, or who experience(d) cardiac symptoms</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Hospitalized for</arm_group_label>
+    <description>Athletes that were hospitalized for COVID-19</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>ILR implantation</intervention_name>
+    <description>If LGE is present on CMR, ILR implantation will be proposed</description>
+    <arm_group_label>Hospitalized for</arm_group_label>
+    <arm_group_label>Mildly of Asymptomatic COVID</arm_group_label>
+    <arm_group_label>Moderate to Severe Symptoms, Cardiac Symptoms</arm_group_label>
+  </intervention>
+  <biospec_retention>Samples Without DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Blood samples will be taken to determine the levels of hsTn&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Athletes &gt;= 18 years if age who suffered from COVID, who are at least one month post&#xD;
+        diagnosis of COVID-19 and who are willing to start exercising again&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Athletes (professional or recreational but aiming to compete at a national or&#xD;
+             international level), performing mixed-type or endurance sports as defined by&#xD;
+             Pelliccia et al. who:&#xD;
+&#xD;
+               1. have recovered from a proven (either by PCR (Polymerase Chain Reaction), serology&#xD;
+                  or chest Computed Tomography) COVID-19 infection&#xD;
+&#xD;
+               2. are more than 1-month post onset of symptoms or the first positive PCR and&#xD;
+&#xD;
+               3. are willing to start (or are) exercising again&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. known prior cardiac fibrosis&#xD;
+&#xD;
+          2. known or newly diagnosed coronary artery disease&#xD;
+&#xD;
+          3. allergy or contraindications for gadolinium contrast.&#xD;
+&#xD;
+          4. unwillingness or impossibility to give informed consent&#xD;
+&#xD;
+          5. Presence of edema on the CMR&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>January 13, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 26, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 27, 2021</study_first_posted>
+  <last_update_submitted>January 26, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 26, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 27, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Arrhythmias, Cardiac</mesh_term>
+    <mesh_term>Myocarditis</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

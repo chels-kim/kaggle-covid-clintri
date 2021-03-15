@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="736">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04717024</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NWCT20-SS-002</org_study_id>
+    <nct_id>NCT04717024</nct_id>
+  </id_info>
+  <brief_title>The Nanowear Wearable Covid-19 Observational and Analysis Trend</brief_title>
+  <acronym>NanoCOAT</acronym>
+  <official_title>The Nanowear Wearable Covid-19 Observational and Analysis Trend</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Nanowear Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Nanowear Inc.</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>Yes</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The NanoCOAT study is a multi-center, prospective, non-randomized, feasibility,&#xD;
+      observational, non-significant risk study. The NanoCOAT study will enroll a minimum of 10 and&#xD;
+      a maximum of 100 subjects in a potential for a multi-site in order to collect data and&#xD;
+      analyze physiological and biometric trends due to Covid-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 15, 2020</start_date>
+  <completion_date type="Anticipated">December 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Hosptialized patient data</measure>
+    <time_frame>up to 30 days of monitoring leading to discharge or admission to ICU</time_frame>
+    <description>The primary study endpoint is adequate collection of hospitalized COVID 19 patient health metric data through the Nanowear WMDRS</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Trends in COVID 19 exacerbation</measure>
+    <time_frame>up to 30 days of monitoring leading to discharge or admission to ICU</time_frame>
+    <description>Exploratory information will be used to compare the signals obtained from the device to the severity of Covid-19 as measured by clinical evaluation</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Covid19</condition>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Observational Study - no intervention</intervention_name>
+    <description>Observational Study - no intervention</description>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Subjects of legal age to give informed consent who are currently or recently hospitalized&#xD;
+        with a primary diagnosis of Covid-19&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Subject has provided informed consent&#xD;
+&#xD;
+          -  Male or female over the age of 18 years&#xD;
+&#xD;
+          -  The patient is currently hospitalized with a primary diagnosis of Covid-19&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Subject is unwilling or unable to wear the vest during hospitalization.&#xD;
+&#xD;
+          -  Subjects who are pregnant.&#xD;
+&#xD;
+          -  Subject is intubated or admitted to ICU&#xD;
+&#xD;
+          -  Subject has an implantable cardiac device (i.e pacemaker or internal cardioverter&#xD;
+             defibrillator)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Hackensack University Medical Center</name>
+      <address>
+        <city>Hackensack</city>
+        <state>New Jersey</state>
+        <zip>07601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Patricia Arakelian, RN, BSN, CCRP</last_name>
+      <phone>551-996-5722</phone>
+      <email>Patricia.Arakelian@hackensackmeridian.org</email>
+    </contact>
+    <investigator>
+      <last_name>Sameer Jamal, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Maimonides Medical Center</name>
+      <address>
+        <city>Brooklyn</city>
+        <state>New York</state>
+        <zip>11219</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rukshana Hossain, MPH</last_name>
+      <phone>718-283-8693</phone>
+      <email>RHossain@maimonidesmed.org</email>
+    </contact>
+    <investigator>
+      <last_name>Sergey Motov, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>John D Marshall, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>January 19, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 19, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 20, 2021</study_first_posted>
+  <last_update_submitted>January 19, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 19, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 20, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

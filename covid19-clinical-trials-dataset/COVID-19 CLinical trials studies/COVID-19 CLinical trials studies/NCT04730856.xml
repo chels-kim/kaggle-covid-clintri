@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3455">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04730856</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PROTHROMCOVID</org_study_id>
+    <nct_id>NCT04730856</nct_id>
+  </id_info>
+  <brief_title>Standard vs High Prophylactic Doses or Anticoagulation in Patients With High Risk of Thrombosis Admitted With COVID-19 Pneumonia (PROTHROMCOVID)</brief_title>
+  <official_title>Standard vs High Prophylactic Doses or Anticoagulation in Patients With High Risk of Thrombosis Admitted With COVID-19 Pneumonia (PROTHROMCOVID)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hospital Universitario Infanta Leonor</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hospital Universitario Infanta Leonor</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>No</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The main objective is to evaluate the efficacy and safety of three doses of tinzaparin&#xD;
+      (prophylactic, intermediate and therapeutic) in hospitalized patients with COVID-19&#xD;
+      pneumonia.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 29, 2021</start_date>
+  <completion_date type="Anticipated">July 31, 2021</completion_date>
+  <primary_completion_date type="Anticipated">June 1, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Reduction of suspicion of systemic thrombotic symptomatic events</measure>
+    <time_frame>30 days</time_frame>
+    <description>Reduction of symptomatic thrombotic events: rate of venous thromboembolism confirmed by objective test.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Use of Mechanical ventilation</measure>
+    <time_frame>30 days</time_frame>
+    <description>Mechanical ventilation (invasive or non-invasive) free survival.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Progression on the WHO Progression Scale during follow-up.</measure>
+    <time_frame>30 days</time_frame>
+    <description>Progression on the WHO (World Health Organization) Progression Scale during follow-up. Score: 0 to 8 points. Worst situation corresponds to 8 points.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Overall survival at 30 days.</measure>
+    <time_frame>30 days</time_frame>
+    <description>Overall survival at 30 days: number of deaths.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Length of hospital stay (days)</measure>
+    <time_frame>30 days</time_frame>
+    <description>Length of hospital stay (days): number of days from hospital admission to hospital discharge</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Length of ICU stay (days)</measure>
+    <time_frame>30 days</time_frame>
+    <description>Length of ICU stay (days): number of days from admission to ICU to discharge ICU</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of bleedings and adverse reactions</measure>
+    <time_frame>30 days</time_frame>
+    <description>Safety of the different strategies of prophylaxis and anticoagulation: number of bleedings and adverse reactions in each group:&#xD;
+Evaluation of the following variables:&#xD;
+Incidence of major bleeding, defined as meeting any of these criteria:&#xD;
+a) fatal bleeding or bleeding that occurs in a critical area or organ (for example, intracranial, intraspinal, intraocular, retroperitoneal, intraarticular or pericardial, or intramuscular with compartment syndrome), b ) causes a drop in hemoglobin level of 20 g/L or more, or c) requires the transfusion of 2 or more units of whole blood or packed red blood cells.&#xD;
+Incidence of clinically relevant non-major bleeding: manifest, spontaneous or post-traumatic bleeding, which does not meet the criteria for major bleeding but which in the judgment of the investigator is relevant.&#xD;
+Incidence of clinically relevant bleeding: all major and non-major hemorrhages clinically relevant.&#xD;
+Incidence of adverse reactions.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">600</enrollment>
+  <condition>Covid19</condition>
+  <condition>Thrombosis</condition>
+  <arm_group>
+    <arm_group_label>Tinzaparin 4500 UI/day</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Procedure: Tinzaparin 4500 UI/day SC until hospital discharge.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Tinzaparin 100 UI/Kg/day</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Procedure: Tinzaparin 100 UI/Kg/day SC until hospital discharge.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Tinzaparin 175 UI/Kg/day</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Procedure: Tinzaparin 175 UI/Kg/day SC until hospital discharge.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Tinzaparin</intervention_name>
+    <description>day subcutaneously • Follow-up phase 1 (Day 15 to day 30): The information is obtained at discharge and on day +14, + 28 on 30 days. The latter information is obtained from patients, from medical records or by telephone contact at the patient's home.&#xD;
+• Follow-up phase 2 (At 6 months: Information is obtained from patients, medical records, or by telephone contact at the patient's home.</description>
+    <arm_group_label>Tinzaparin 100 UI/Kg/day</arm_group_label>
+    <arm_group_label>Tinzaparin 175 UI/Kg/day</arm_group_label>
+    <arm_group_label>Tinzaparin 4500 UI/day</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Patients admitted to hospital with COVID-19, PCR + SARS-CoV-2 infection or (presence&#xD;
+             of infiltrate compatible with Chest X-ray or TC)&#xD;
+&#xD;
+          2. Patients with, at least, one of the following evolution disease risk criteria:&#xD;
+&#xD;
+               -  Sat 02&lt;94%&#xD;
+&#xD;
+               -  Need for oxygen therapy or pAO2/FiO2&lt;300mmHg&#xD;
+&#xD;
+               -  DD&gt;1000µg/L&#xD;
+&#xD;
+               -  PCR &gt;150mg/L&#xD;
+&#xD;
+               -  IL6 &gt;40pg/ml&#xD;
+&#xD;
+          3. Age &gt; 18 years&#xD;
+&#xD;
+          4. Weight 50-100 Kg&#xD;
+&#xD;
+          5. After receiving oral and written information about the study, patient must give&#xD;
+             Informed Consent duly signed and dated before performing any activity related to the&#xD;
+             study.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Patients who need mechanical ventilation or admission to ICU at the moment of&#xD;
+             randomization.&#xD;
+&#xD;
+          2. Current diagnosis of acute bronchial asthma attack.&#xD;
+&#xD;
+          3. History or clinical suspicion of pulmonary fibrosis.&#xD;
+&#xD;
+          4. Current diagnosis or suspicion of pulmonary thromboembolism or deep vein thrombosis.&#xD;
+&#xD;
+          5. Patients who need anticoagulant treatment due to previous venous or arterial&#xD;
+             thrombotic disease, or due to atrial fibrillation.&#xD;
+&#xD;
+          6. Patients with pneumonectomy or lobectomy.&#xD;
+&#xD;
+          7. Renal failure with MDRD&lt;30 ml/min&#xD;
+&#xD;
+          8. Patients with contraindication for anticoagulant treatment.&#xD;
+&#xD;
+          9. Congenital bleeding disorders.&#xD;
+&#xD;
+         10. Hypersensitivity to tinzaparin or UFH or some of its excipients.&#xD;
+&#xD;
+         11. History of heparin-induced thrombocytopenia.&#xD;
+&#xD;
+         12. Active bleeding or situation that predispose to bleeding.&#xD;
+&#xD;
+         13. Moderate or severe anaemia (Hb&lt;10 g/dl)&#xD;
+&#xD;
+         14. Low platelet count &lt; 80000/µl&#xD;
+&#xD;
+         15. Patients with life expectancy less than 3 months due to primary disease evaluated by&#xD;
+             the physician.&#xD;
+&#xD;
+         16. Patients currently intubated or intubated between the screening and the randomization.&#xD;
+&#xD;
+         17. Pregnancy.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Nuria Muñoz Rivas</last_name>
+    <role>Study Chair</role>
+    <affiliation>Hospital Universitario Infanta Leonor</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>ANGEL PUEYO</last_name>
+    <phone>+34 618 448 807</phone>
+    <email>angel.pueyo@salud.madrid.org</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Hospital Clínico San Carlos</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Manuel Méndez Bailón</last_name>
+    </contact>
+    <investigator>
+      <last_name>Pablo Demelo Rodriguez</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Manuel Mendez Bailon</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital General Universitario Gregorio Marañón</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario 12 Octubre</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Antonio Lalueza Blanco</last_name>
+    </contact>
+    <investigator>
+      <last_name>Antonio Lalueza Blanco</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Infanta Leonor</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Nuria Muñoz Rivas</last_name>
+    </contact>
+    <investigator>
+      <last_name>Nuria Muñoz Rivas</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Infanta Sofía</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Olga Madridano Cobo</last_name>
+    </contact>
+    <investigator>
+      <last_name>Olga Madridano Cobo</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Ramón y Cajal</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Vicente Gomez del Olmo</last_name>
+    </contact>
+    <investigator>
+      <last_name>Vicente Gomez Del Olmo</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Álvaro Cunqueiro</name>
+      <address>
+        <city>Vigo</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Alberto Rivera Gallego</last_name>
+    </contact>
+    <investigator>
+      <last_name>Alberto Rivera Gallego</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <reference>
+    <citation>Lew TW, Kwek TK, Tai D, Earnest A, Loo S, Singh K, Kwan KM, Chan Y, Yim CF, Bek SL, Kor AC, Yap WS, Chelliah YR, Lai YC, Goh SK. Acute respiratory distress syndrome in critically ill patients with severe acute respiratory syndrome. JAMA. 2003 Jul 16;290(3):374-80.</citation>
+    <PMID>12865379</PMID>
+  </reference>
+  <reference>
+    <citation>Bikdeli B, Madhavan MV, Jimenez D, Chuich T, Dreyfus I, Driggin E, Nigoghossian C, Ageno W, Madjid M, Guo Y, Tang LV, Hu Y, Giri J, Cushman M, Quéré I, Dimakakos EP, Gibson CM, Lippi G, Favaloro EJ, Fareed J, Caprini JA, Tafur AJ, Burton JR, Francese DP, Wang EY, Falanga A, McLintock C, Hunt BJ, Spyropoulos AC, Barnes GD, Eikelboom JW, Weinberg I, Schulman S, Carrier M, Piazza G, Beckman JA, Steg PG, Stone GW, Rosenkranz S, Goldhaber SZ, Parikh SA, Monreal M, Krumholz HM, Konstantinides SV, Weitz JI, Lip GYH; Global COVID-19 Thrombosis Collaborative Group, Endorsed by the ISTH, NATF, ESVM, and the IUA, Supported by the ESC Working Group on Pulmonary Circulation and Right Ventricular Function. COVID-19 and Thrombotic or Thromboembolic Disease: Implications for Prevention, Antithrombotic Therapy, and Follow-Up: JACC State-of-the-Art Review. J Am Coll Cardiol. 2020 Jun 16;75(23):2950-2973. doi: 10.1016/j.jacc.2020.04.031. Epub 2020 Apr 17. Review.</citation>
+    <PMID>32311448</PMID>
+  </reference>
+  <reference>
+    <citation>Zhou F, Yu T, Du R, Fan G, Liu Y, Liu Z, Xiang J, Wang Y, Song B, Gu X, Guan L, Wei Y, Li H, Wu X, Xu J, Tu S, Zhang Y, Chen H, Cao B. Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study. Lancet. 2020 Mar 28;395(10229):1054-1062. doi: 10.1016/S0140-6736(20)30566-3. Epub 2020 Mar 11. Erratum in: Lancet. 2020 Mar 28;395(10229):1038. Lancet. 2020 Mar 28;395(10229):1038.</citation>
+    <PMID>32171076</PMID>
+  </reference>
+  <results_reference>
+    <citation>Huang C, Wang Y, Li X, Ren L, Zhao J, Hu Y, Zhang L, Fan G, Xu J, Gu X, Cheng Z, Yu T, Xia J, Wei Y, Wu W, Xie X, Yin W, Li H, Liu M, Xiao Y, Gao H, Guo L, Xie J, Wang G, Jiang R, Gao Z, Jin Q, Wang J, Cao B. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. Lancet. 2020 Feb 15;395(10223):497-506. doi: 10.1016/S0140-6736(20)30183-5. Epub 2020 Jan 24. Erratum in: Lancet. 2020 Jan 30;:.</citation>
+    <PMID>31986264</PMID>
+  </results_reference>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>January 14, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 28, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 29, 2021</study_first_posted>
+  <last_update_submitted>January 28, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 28, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 29, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia</mesh_term>
+    <mesh_term>Thrombosis</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Tinzaparin</mesh_term>
+    <mesh_term>Heparin, Low-Molecular-Weight</mesh_term>
+    <mesh_term>Dalteparin</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

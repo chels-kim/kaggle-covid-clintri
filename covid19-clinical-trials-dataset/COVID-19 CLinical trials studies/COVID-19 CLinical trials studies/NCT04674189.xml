@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2889">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04674189</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CV-NCOV-005</org_study_id>
+    <nct_id>NCT04674189</nct_id>
+  </id_info>
+  <brief_title>A Study to Evaluate the Safety and Immunogenicity of Vaccine CVnCoV in Healthy Adults in Germany for COVID-19</brief_title>
+  <official_title>COVID-19: A Phase 3, Randomized, Observer-Blinded, Placebo-Controlled Clinical Study Evaluating the Safety and Immunogenicity of Investigational SARS-CoV-2 mRNA Vaccine CVnCoV in Adult Health Care Workers in Mainz (Germany)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>CureVac AG</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>CureVac AG</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study aims to evaluate the safety (in all participants) and reactogenicity (in a subset&#xD;
+      of participants) of CVnCoV administered as a 2-dose schedule to adult participants 18 years&#xD;
+      of age or older. The study also aims to assess antibody responses to the receptor-binding&#xD;
+      domain (RBD) of spike (S) protein of SARS-CoV-2 after 1 and 2 doses of CVnCoV in adults 18&#xD;
+      years of age or older included in a subset of participants.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 23, 2020</start_date>
+  <completion_date type="Anticipated">April 30, 2022</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2021</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants with Medically-attended Adverse Events</measure>
+    <time_frame>Day 29 to Day 211</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Intensity of Medically-attended Adverse Events per Investigator's Assessment</measure>
+    <time_frame>Day 29 to Day 211</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with Medically-attended Adverse Events Considered Related to Trial Vaccine</measure>
+    <time_frame>Day 29 to Day 211</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with One or More Serious Adverse Events (SAEs)</measure>
+    <time_frame>Day 29 to Day 393</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Intensity of Serious Adverse Events (SAEs) per Investigator's Assessment</measure>
+    <time_frame>Day 29 to Day 393</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with One or More Serious Adverse Events (SAEs) Considered Related to Trial Vaccine</measure>
+    <time_frame>Day 29 to Day 393</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with One or More Adverse Events of Special Interest (AESIs)</measure>
+    <time_frame>Day 29 to Day 393</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Intensity of Adverse Events of Special Interest (AESIs) per Investigator's Assessment</measure>
+    <time_frame>Day 29 to Day 393</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with One or More Serious Adverse Events of Special Interest (AESIs) Considered Related to Trial Vaccine</measure>
+    <time_frame>Day 29 to Day 393</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with Death due to a Serious Adverse Event (SAE)</measure>
+    <time_frame>Day 29 to Day 393</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with Adverse Events (AEs) Leading to Vaccine Withdrawal or Study Disctontinuation</measure>
+    <time_frame>Day 29 to Day 393</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with Solicited Local Adverse Events</measure>
+    <time_frame>7 days after vaccination</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Intensity of Solicited Local Adverse Events per the FDA Toxicity Grading Scale</measure>
+    <time_frame>7 days after vaccination</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Duration of Solicited Local Adverse Events</measure>
+    <time_frame>7 days after vaccination</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with Solicited Systemic Adverse Events</measure>
+    <time_frame>7 days after vaccination</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Intensity of Solicited Systemic Adverse Events per the FDA Toxicity Grading Scale</measure>
+    <time_frame>7 days after vaccination</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Duration of Solicited Systemic Adverse Events</measure>
+    <time_frame>7 days after vaccination</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with Unsolicited Adverse Events</measure>
+    <time_frame>28 days after vaccination</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Intensity of Unsolicited Adverse Events per the Investigator's Assessment</measure>
+    <time_frame>28 days after vaccination</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants with Unsolicited Adverse Events Considered Related to Trial Vaccine</measure>
+    <time_frame>28 days after vaccination</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Individual SARS-CoV-2 Spike (S) Protein-Specific Antibody Levels in Serum</measure>
+    <time_frame>Days 1, 29, 43, 57, 120, 211 and 393</time_frame>
+    <description>Measured using Enzyme-Linked Immunosorbent Assay (ELISA).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Participants Seroconverting for SARS-CoV-2 Spike (S) Protein Antibodies</measure>
+    <time_frame>Days 1, 29, 43, 57, 120, 211 and 393</time_frame>
+    <description>Measured using Enzyme-Linked Immunosorbent Assay (ELISA). Seroconversion is defined as detectable SARS-CoV-2 RBD of S protein antibodies in the serum of participants who tested seronegative on prior to vaccination on Day 1.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants that Contract COVID-19 of Any Severity</measure>
+    <time_frame>Day 1 to Day 393</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants that Contract Mild, Moderate, Severe and Moderate to Severe COVID-19</measure>
+    <time_frame>Day 1 to Day 393</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants Seroconverting to the Nucleocapsid (N) Protein of SARS-SoV-2</measure>
+    <time_frame>Day 1, 43, 211 and 393</time_frame>
+    <description>Seroconversion is defined as detectable SARS-CoV-2 N protein antibodies in the serum of subjects on Day 211 and/or Day 393 of the trial, who tested seronegative at prior to vaccination on Day 1 and Day 43.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Burden of Disease (BoD) Score Based on First Episodes of Virologically-confirmed Cases of COVID-19</measure>
+    <time_frame>Day 1 to Day 393</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Individual SARS-CoV-2 Neutralizing Antibody Levels in Serum</measure>
+    <time_frame>Days 1, 29, 43, 57, 120, 211 and 393</time_frame>
+    <description>Measured by a virus neutralizing assay in a subset of participants.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants Seroconverting to SARS-CoV-2</measure>
+    <time_frame>Days 1, 29, 43, 57, 120, 211 and 393</time_frame>
+    <description>Measured by a virus neutralizing assay in a subset of participants.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Individual Serum Antibodies to Spike (S) Protein of SARS-CoV-2</measure>
+    <time_frame>Days 43, 57, 120, 211 and 393</time_frame>
+    <description>Measured by a virus neutralizing assay in a subset of participants.</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">2520</enrollment>
+  <condition>Coronavirus</condition>
+  <condition>Covid19</condition>
+  <condition>SARS-CoV-2</condition>
+  <condition>Severe Acute Respiratory Syndrome</condition>
+  <arm_group>
+    <arm_group_label>CVnCoV: Group 1, Lot 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in Group 1 will be vaccinated with CVnCoV 12 µg mRNA on Day 1 and Day 29 in the deltoid area, preferably in the non-dominant arm.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>CVnCoV: Group 2, Lot 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in Group 2 will be vaccinated with CVnCoV 12 µg mRNA on Day 1 and Day 29 in the deltoid area, preferably in the non-dominant arm.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants will receive a placebo on Day 1 and Day 29 in the deltoid area, preferably in the non-dominant arm.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>CVnCoV Vaccine</intervention_name>
+    <description>Intramuscular injection</description>
+    <arm_group_label>CVnCoV: Group 1, Lot 1</arm_group_label>
+    <arm_group_label>CVnCoV: Group 2, Lot 2</arm_group_label>
+    <other_name>CV07050101</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Intramuscular injection</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Male or female participants 18 years of age or older.&#xD;
+&#xD;
+          -  Health care workers (HCWs), employees or students in the clinical years.&#xD;
+&#xD;
+          -  Provide written informed consent prior to initiation of any trial procedures.&#xD;
+&#xD;
+          -  Expected compliance with protocol procedures and availability for clinical follow-up&#xD;
+             through the last planned visit.&#xD;
+&#xD;
+          -  Females of non-childbearing potential defined as follows: surgically sterile (history&#xD;
+             of bilateral tubal ligation, bilateral oophorectomy or hysterectomy) or postmenopausal&#xD;
+             (defined as amenorrhea for ≥12 consecutive months prior to screening [Day 1] without&#xD;
+             an alternative medical cause). A follicle-stimulating hormone (FSH) level may be&#xD;
+             measured at the discretion of the investigator to confirm postmenopausal status.&#xD;
+&#xD;
+          -  Females of childbearing potential: negative urine pregnancy test (human chorionic&#xD;
+             gonadotropin [hCG]) within 24 hours prior to each trial vaccination on Day 1 and Day&#xD;
+             29.&#xD;
+&#xD;
+          -  Females of childbearing potential must use highly effective methods of birth control&#xD;
+             from 2 weeks before the first administration of the trial vaccine until 3 months&#xD;
+             following the last administration. The following methods of birth control are&#xD;
+             considered highly effective when used consistently and correctly:&#xD;
+&#xD;
+               -  Combined (estrogen and progestogen containing) hormonal contraception associated&#xD;
+                  with inhibition of ovulation (oral, intravaginal or transdermal);&#xD;
+&#xD;
+               -  Progestogen-only hormonal contraception associated with inhibition of ovulation&#xD;
+                  (oral, injectable or implantable);&#xD;
+&#xD;
+               -  Intrauterine devices (IUDs);&#xD;
+&#xD;
+               -  Intrauterine hormone-releasing systems (IUSs);&#xD;
+&#xD;
+               -  Bilateral tubal occlusion;&#xD;
+&#xD;
+               -  Vasectomized partner;&#xD;
+&#xD;
+               -  Sexual abstinence (periodic abstinence [e.g., calendar, ovulation, symptothermal&#xD;
+                  and post-ovulation methods] and withdrawal are not acceptable).&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  History of virologically confirmed SARS-CoV-2 infection or SARS-CoV-2 positive&#xD;
+             serology.&#xD;
+&#xD;
+          -  For females: pregnancy or lactation.&#xD;
+&#xD;
+          -  Use of any investigational or non-registered product (vaccine or drug) within 28 days&#xD;
+             preceding the administration of the first trial vaccine or planned use during the&#xD;
+             trial.&#xD;
+&#xD;
+          -  Receipt of licensed vaccines within 28 days (for live vaccines) or 14 days (for&#xD;
+             inactivated vaccines) prior to the administration of trial vaccine.&#xD;
+&#xD;
+          -  Prior administration of any investigational SARS-CoV-2 vaccine or other coronavirus&#xD;
+             (SARS-CoV, MERS-CoV) vaccine or planned use during the trial.&#xD;
+&#xD;
+          -  Any treatment with immunosuppressants or other immune-modifying drugs (including but&#xD;
+             not limited to corticosteroids, biologicals and methotrexate) for &gt; 14 days total&#xD;
+             within 6 months preceding the administration of trial vaccine or planned use during&#xD;
+             the trial. For corticosteroid use, this means prednisone or equivalent, 0.5 mg/kg/day&#xD;
+             for 14 days or more. The use of inhaled, topical, or localized injections of&#xD;
+             corticosteroids (e.g., for joint pain/inflammation) is permitted.&#xD;
+&#xD;
+          -  Any medically diagnosed or suspected immunosuppressive or immunodeficient condition&#xD;
+             based on medical history and physical examination including known infection with human&#xD;
+             immunodeficiency virus (HIV), current diagnosis of or treatment for cancer including&#xD;
+             leukemia, lymphoma, Hodgkin disease, multiple myeloma or generalized malignancy;&#xD;
+             chronic renal failure or nephrotic syndrome; and receipt of an organ or bone marrow&#xD;
+             transplant.&#xD;
+&#xD;
+          -  Active or chronic disease of, or currently on treatment for, hepatitis B virus (HBV)&#xD;
+             or hepatitis C virus (HCV).&#xD;
+&#xD;
+          -  History of angioedema (hereditary or idiopathic), or a history of any anaphylactic&#xD;
+             reactions and potential immune mediated disease.&#xD;
+&#xD;
+          -  History of allergy to any component of CVnCoV vaccine.&#xD;
+&#xD;
+          -  Administration of immunoglobulins or any blood products within 3 months prior to the&#xD;
+             administration of trial vaccine, or planned receipt during the trial.&#xD;
+&#xD;
+          -  Participants with a significant acute or chronic medical or psychiatric illness that,&#xD;
+             in the opinion of the investigator, precludes trial participation (e.g., may increase&#xD;
+             the risk of trial participation, render the participant unable to meet the&#xD;
+             requirements of the trial, or may interfere with the participant's trial evaluations).&#xD;
+             These include severe and/or un-controlled cardiovascular disease, gastrointestinal&#xD;
+             disease, liver disease, renal disease, respiratory disease, endocrine disorder, and&#xD;
+             neurological and psychiatric illnesses.&#xD;
+&#xD;
+          -  Participants with impaired coagulation or any bleeding disorder in whom an&#xD;
+             intramuscular (IM) injection or a blood draw is contraindicated. However, those with&#xD;
+             controlled and stable cases can be included in the trial.&#xD;
+&#xD;
+          -  Foreseeable non-compliance with protocol as judged by the Investigator.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Universitätsmedizin der Johannes Gutenberg-Universität Mainz Langenbeckstr. 1</name>
+      <address>
+        <city>Mainz</city>
+        <zip>55131</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stephan Gehring</last_name>
+      <phone>+49 6131 17 3560 / 2786</phone>
+      <email>Stephan.Gehring@uni-mainz.de</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>December 14, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 14, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 19, 2020</study_first_posted>
+  <last_update_submitted>January 12, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 12, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 14, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Vaccine</keyword>
+  <keyword>SARS</keyword>
+  <keyword>COVID</keyword>
+  <keyword>Safety</keyword>
+  <keyword>Immunogenicity</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

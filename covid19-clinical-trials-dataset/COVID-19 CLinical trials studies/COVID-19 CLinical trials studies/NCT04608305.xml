@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1856">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04608305</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IIBR 20-001</org_study_id>
+    <nct_id>NCT04608305</nct_id>
+  </id_info>
+  <brief_title>Evaluate the Safety, Immunogenicity and Potential Efficacy of an rVSV-SARS-CoV-2-S Vaccine</brief_title>
+  <official_title>A Phase I/II Randomized, Multi-Center, Placebo-Controlled, Dose-Escalation Study to Evaluate the Safety, Immunogenicity and Potential Efficacy of an rVSV-SARS-CoV-2-S Vaccine (IIBR-100) in Adults</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Israel Institute for Biological Research (IIBR)</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Israel Institute for Biological Research (IIBR)</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The SARS-CoV-2 virus is responsible for the COVID-19 pandemic. The pandemic emerged from&#xD;
+      Wuhan Province in China in December 2019 and was declared by the WHO Director-General a&#xD;
+      Public Health Emergency of International Concern on 30 January 2020.&#xD;
+&#xD;
+      In this study, a vaccine developed by IIBR for SARS-CoV-2 virus will be assessed for its&#xD;
+      safety and potential efficacy in volunteers. The study is comprised of two phases, a&#xD;
+      dose-escalation phase (phase I) during which subjects (18-55 years old) will be randomly&#xD;
+      allocated to receive a single administration of IIBR-100 100 at low, mid or high dose or&#xD;
+      saline or two administrations of IIBR-100 at low dose, or saline, 28 days apart.&#xD;
+&#xD;
+      Based on results obtained during phase I, and cumulative phase I data review, the expansion&#xD;
+      phase (phase II) will begin, during which larger cohorts as well as elderly age subjects will&#xD;
+      be randomly allocated to receive a single administration of IIBR-100 at low, mid or high dose&#xD;
+      or saline, or two administrations of IIBR-100 at low dose (prime-boost) or saline, 28 days&#xD;
+      apart.&#xD;
+&#xD;
+      The subjects will be followed for a period of up to 12 months post last vaccine&#xD;
+      administration to assess the safety and efficacy of the vaccine.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 28, 2020</start_date>
+  <completion_date type="Anticipated">June 1, 2022</completion_date>
+  <primary_completion_date type="Anticipated">May 1, 2021</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <intervention_model_description>The study is comprised of two phases, a dose-escalation Phase I (sentinels + expansions) and expansion to Phase II that includes larger cohorts as well as elderly age groups. Subjects will be randomly allocated to the study groups in both phases.&#xD;
+Dosing of prime during phase I will occur in a sequential fashion (partially overlapping), starting from low-dose and continuing to mid and high doses following safety reviews. Prior to expansion to phase II, cumulative data from phase I will be evaluated (dose and regimen) by the data safety monitoring board which will issue its recommendations regarding expansion to phase II.</intervention_model_description>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Phase I and II - The number, grade and percentage of study participants who experience any study injection-associated AEs or SAEs.</measure>
+    <time_frame>365 days post last vaccination</time_frame>
+    <description>Solicited events for 7 days after vaccination.&#xD;
+Unsolicited events through 28 days after vaccination.&#xD;
+SAEs 365 days after last vaccination&#xD;
+New Onset Chronic Medical Condition (NOCMC) or Medically Attended AE (MAAE) 365 days after last vaccination.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Phase II - IIBR-100 Immunogenicity as determined by GMT, GMFR, Seroconversion rates of the neutralizing antibody titers to SARS-CoV-2 per group at 28 days following last vaccination (in relation to Day 0-baseline).</measure>
+    <time_frame>28 days post last vaccination</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Phase I and II - IIBR-100 Immunogenicity as determined by GMT, GMFR, Seroconversion rates of the neutralizing antibody titers to SARS-CoV-2 at baseline (day 0) and throughout the study</measure>
+    <time_frame>365 days post last vaccination</time_frame>
+    <description>Immunogenicity will be evaluated at the following days: 0, 7±2d, 14±2d, 28±4d, 56±5d, 84±4d, 168±14d and 365±14d after the first vaccination for single-dose groups (prime), and at days 0, 14±2d, 28±4d, 35±4d, 42±4d, 56±5d, 84±4d, 112±14d, 196±14d and 393±14d for the prime-boost groups</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase I and II - IIBR-100 immunogenicity as determined by GMT, GMFR, Seroconversion rates of the binding antibody titers to SARS-CoV-2 at baseline (day 0) and throughout the study</measure>
+    <time_frame>365 days post last vaccination</time_frame>
+    <description>Immunogenicity will be evaluated at the following days: 0, 7±2d, 14±2d, 28±4d, 56±5d, 84±4d, 168±14d and 365±14d after the first vaccination for single-dose groups (prime), and at days 0, 14±2d, 28±4d, 35±4d, 42±4d, 56±5d, 84±4d, 112±14d, 196±14d and 393±14d for the prime-boost groups</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Phase I and II - Cellular immunity as assessed by ELISPOT and ELISA.</measure>
+    <time_frame>365 days post last vaccination</time_frame>
+    <description>Cellular immunity will be assessed at the following days: 0, 28±4d, 56±5d, 84±4d, 168±14d and 365±14d for single dose groups and at days 0, 56±5d, 84±4d, 112±14d, 196±14d and 393±14d for the prime-boost groups.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>phase I and II - Number of virologically confirmed (PCR positive) symptomatic cases of COVID-19, 14 days after having received on or two active vaccine injections</measure>
+    <time_frame>14 days post last vaccination</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>phase I and II - Number of virologically confirmed (PCR positive) severe cases of COVID-19, 14 days after having received on or two active vaccine injections</measure>
+    <time_frame>14 days post last vaccination</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>phase I and II - Number of serology confirmed symptomatic cases of COVID-19, 14 days after having received on or two active vaccine injections</measure>
+    <time_frame>14 days post last vaccination</time_frame>
+  </other_outcome>
+  <other_outcome>
+    <measure>phase I and II - Evaluate the kinetics of antibody decline based on temporal sub-group analyses (at 3, 6, 9, 12 months post first vaccination)</measure>
+    <time_frame>365 days</time_frame>
+    <description>immunogenicity as determined by GMT, GMFR and seroconversion rates of the neutralizing, and binding, antibody titers to SARS-CoV-2 at 3, 6, 9 and 12 months after first vaccination, in a sub-group of subjects.</description>
+  </other_outcome>
+  <number_of_arms>12</number_of_arms>
+  <enrollment type="Anticipated">1040</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>phase I - Group Ia, prime, low dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Male and female subjects (18-55 years old) administered with a single-dose of IIBR-100 1*10E5 pfu/ml or saline placebo at day 0</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>phase I - Group Ib, Prime, medium dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Male and female subjects (18-55 years old) administered with a single-dose of IIBR-100 1*10E6 pfu/ml or saline placebo at day 0</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>phase I - Group Ic, Prime, high dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Male and female subjects (18-55 years old) administered with a single-dose of IIBR-100 1*10E7 pfu/ml or saline placebo at day 0</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>phase I - Group Id, prime-boost, low dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Male and female subjects (18-55 years old) administered twice with IIBR-100 1*10E5 pfu/ml or saline placebo, 4 weeks apart, at days 0 and 28.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>phase II - Group IIa, prime, low dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Male and female subjects (18-55 years old) administered with a single-dose of IIBR-100 1*10E5 pfu/ml or saline placebo at day 0.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase II - Group IIb, Prime, low dose, elderly subjects</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Male and female subjects (56-85 years old) administered with a single-dose of IIBR-100 1*10E5 pfu/ml or saline placebo at day 0.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>phase II - Group IIc, Prime, medium dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Male and female subjects (18-55 years old) administered with a single-dose of IIBR-100 1*10E6 pfu/ml or saline placebo at day 0.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>phase II - Group IId, Prime, medium dose, elderly subjects</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Male and female subjects (56-85 years old) administered with a single-dose of IIBR-100 1*10E6 pfu/ml or saline placebo at day 0.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase II - Group IIe, prime, high dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Male and female subjects (18-55 years old) administered with a single-dose of IIBR-100 1*10E7 pfu/ml or saline placebo at day 0.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Phase II - Group IIf, Prime, high dose, elderly subjects</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Male and female subjects (56-85 years old) administered with a single-dose of IIBR-100 1*10E7 pfu/ml or saline placebo at day 0.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>phase II - Group IIg, prime-boost, low dose</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Male and female subjects (18-55 years old) administered twice with IIBR-100 1*10E5 pfu/ml or saline placebo, 4 weeks apart at days 0 and 28.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>phase II - Group IIh, prime-boost, low dose, elderly subjects</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Male and female subjects (56-85 years old) administered twice with IIBR-100 1*10E5 pfu/ml or saline placebo, 4 weeks apart, at days 0 and 28.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>IIBR-100, low dose (prime)</intervention_name>
+    <description>Single administration of IIBR-100 1*10E5 pfu/ml</description>
+    <arm_group_label>Phase II - Group IIb, Prime, low dose, elderly subjects</arm_group_label>
+    <arm_group_label>phase I - Group Ia, prime, low dose</arm_group_label>
+    <arm_group_label>phase II - Group IIa, prime, low dose</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>IIBR-100 medium dose (prime)</intervention_name>
+    <description>Single administration of IIBR-100 1*10E6 pfu/ml</description>
+    <arm_group_label>phase I - Group Ib, Prime, medium dose</arm_group_label>
+    <arm_group_label>phase II - Group IIc, Prime, medium dose</arm_group_label>
+    <arm_group_label>phase II - Group IId, Prime, medium dose, elderly subjects</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>IIBR-100 high-dose (prime)</intervention_name>
+    <description>Single administration of IIBR-100 1*10E7 pfu/ml</description>
+    <arm_group_label>Phase II - Group IIe, prime, high dose</arm_group_label>
+    <arm_group_label>Phase II - Group IIf, Prime, high dose, elderly subjects</arm_group_label>
+    <arm_group_label>phase I - Group Ic, Prime, high dose</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>IIBR-100 low-dose (prime-boost)</intervention_name>
+    <description>Two administrations of IIBR-100 1*10E5 pfu/ml, 28 days apart</description>
+    <arm_group_label>phase I - Group Id, prime-boost, low dose</arm_group_label>
+    <arm_group_label>phase II - Group IIg, prime-boost, low dose</arm_group_label>
+    <arm_group_label>phase II - Group IIh, prime-boost, low dose, elderly subjects</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Saline Placebo</intervention_name>
+    <description>Single administration of saline placebo</description>
+    <arm_group_label>Phase II - Group IIb, Prime, low dose, elderly subjects</arm_group_label>
+    <arm_group_label>Phase II - Group IIe, prime, high dose</arm_group_label>
+    <arm_group_label>Phase II - Group IIf, Prime, high dose, elderly subjects</arm_group_label>
+    <arm_group_label>phase I - Group Ia, prime, low dose</arm_group_label>
+    <arm_group_label>phase I - Group Ib, Prime, medium dose</arm_group_label>
+    <arm_group_label>phase I - Group Ic, Prime, high dose</arm_group_label>
+    <arm_group_label>phase II - Group IIa, prime, low dose</arm_group_label>
+    <arm_group_label>phase II - Group IIc, Prime, medium dose</arm_group_label>
+    <arm_group_label>phase II - Group IId, Prime, medium dose, elderly subjects</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Saline Placebo</intervention_name>
+    <description>Two administrations of saline placebo, 28 days apart</description>
+    <arm_group_label>phase I - Group Id, prime-boost, low dose</arm_group_label>
+    <arm_group_label>phase II - Group IIg, prime-boost, low dose</arm_group_label>
+    <arm_group_label>phase II - Group IIh, prime-boost, low dose, elderly subjects</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Phase I (abbreviated):&#xD;
+&#xD;
+          -  Healthy males or females, ages 18 to 55 (inclusive) at the time of screening.&#xD;
+&#xD;
+          -  Negative PCR and no presence of ELISA antibody titers to SARS-CoV-2 at screening.&#xD;
+&#xD;
+          -  Females of childbearing potential and males must be willing to use effective methods&#xD;
+             of contraception such as hormones (OCP, oral contraceptive pill), condom or occlusive&#xD;
+             cap with spermicidal agents, intrauterine device (IUD) or intrauterine system (IUS)&#xD;
+             from at least 14 days prior to vaccination through 90 days following last injection.&#xD;
+&#xD;
+          -  Subjects in general good health with no chronic disease nor consumes chronic&#xD;
+             medication in the opinion of the investigator as determined by medical history, vital&#xD;
+             signs and a physical examination.&#xD;
+&#xD;
+          -  No clinically significant abnormalities in hematology, blood chemistry, or urinalysis&#xD;
+             laboratory tests at screening.&#xD;
+&#xD;
+          -  Negative HIV, Hepatitis B and Hepatitis C serology tests.&#xD;
+&#xD;
+          -  Normal oral temperature, normal sinus rhythm, pulse rate no greater than 100 beats per&#xD;
+             minute and normal systolic blood pressure (below 140/90 mmHg)&#xD;
+&#xD;
+          -  Must be willing to forgo blood donation during the blood drawing phase of the study.&#xD;
+&#xD;
+          -  Must agree not to enroll in another study of an investigational agent prior to&#xD;
+             completion of the study.&#xD;
+&#xD;
+          -  Subjects must be able to understand the requirements of the study and must be&#xD;
+             accessible and willing to comply with the study procedures even under lock down&#xD;
+             conditions.&#xD;
+&#xD;
+          -  Ability to provide informed consent.&#xD;
+&#xD;
+        Phase II (abbreviated):&#xD;
+&#xD;
+          -  Males or females, ages 18 to 85 (inclusive) at the time of screening.&#xD;
+&#xD;
+          -  Negative PCR and no presence of ELISA antibody titers to SARS-CoV-2 at screening.&#xD;
+&#xD;
+          -  Females of childbearing potential and males must be willing to use effective methods&#xD;
+             of contraception such as hormones (OCP, oral contraceptive pill), condom or occlusive&#xD;
+             cap with spermicidal agents, intrauterine device (IUD) or intrauterine system (IUS)&#xD;
+             from at least 14 days prior to vaccination through 90 days following last injection.&#xD;
+&#xD;
+          -  No clinically significant abnormalities in hematology, blood chemistry, or urinalysis&#xD;
+             laboratory tests at screening.&#xD;
+&#xD;
+          -  Must be willing to forgo blood donation during the blood drawing phase of the study&#xD;
+&#xD;
+          -  Must agree not to enroll in another study of an investigational agent prior to&#xD;
+             completion of the study.&#xD;
+&#xD;
+          -  Normal oral temperature, pulse rate no greater than 100 beats per minute (sinus&#xD;
+             rhythm) and controlled blood pressure (in the case of hypertensives under treatment,&#xD;
+             below 140/90 mmHg).&#xD;
+&#xD;
+          -  Subjects must be able to understand the requirements of the study and must be&#xD;
+             accessible and willing to comply with the study procedures even under lock down&#xD;
+             conditions.&#xD;
+&#xD;
+          -  Ability to provide informed consent.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Phase I (abbreviated):&#xD;
+&#xD;
+          -  History of severe local or systemic reactions to any vaccination or a history of&#xD;
+             severe allergic reactions or known allergy to the components of the vaccine, including&#xD;
+             allergy to rice.&#xD;
+&#xD;
+          -  Receipt of investigational product up to 30 days prior to screening or ongoing&#xD;
+             participation in another clinical trial&#xD;
+&#xD;
+          -  Receipt of licensed vaccines within 14 days of planned study immunization and any AE's&#xD;
+             possibly related to licensed vaccine immunization at Day 0.&#xD;
+&#xD;
+          -  Inability to observe possible local reactions at the injection sites due to a physical&#xD;
+             condition or permanent body art.&#xD;
+&#xD;
+          -  Known hemoglobinopathy or coagulation abnormality.&#xD;
+&#xD;
+          -  New onset of fever &gt;37.8 ºC AND [cough OR shortness of breath OR anosmia/ageusia] or&#xD;
+             any other inter current illness within 14 days prior to screening&#xD;
+&#xD;
+          -  High risk of exposure to SARS-CoV-2 prior to enrollment (close contact, self-isolation&#xD;
+             at present due to household contact, frontline healthcare provider in contact with&#xD;
+             COVID-19 subjects).&#xD;
+&#xD;
+          -  Clinically significant medical condition, physical examination findings, clinically&#xD;
+             significant abnormal laboratory results, or past medical history with clinically&#xD;
+             significant implications for current health, per the best clinical judgement of the&#xD;
+             investigator.&#xD;
+&#xD;
+          -  Women who are pregnant or breastfeeding.&#xD;
+&#xD;
+          -  Positive urine pregnancy test or women have an intention to be pregnant during the&#xD;
+             study.&#xD;
+&#xD;
+          -  Confirmed or suspected illness caused by coronaviruses, SARS-CoV 1, and Middle East&#xD;
+             Respiratory Syndrome (MERS)-CoV.&#xD;
+&#xD;
+          -  Received any prior vaccine against a coronavirus&#xD;
+&#xD;
+          -  Receipt of blood/plasma products or immunoglobulin, from within 60 days before study&#xD;
+             intervention administration or planned receipt throughout the study.&#xD;
+&#xD;
+          -  History of alcohol or drug abuse per clinical judgement within 5 years prior to study&#xD;
+             vaccination.&#xD;
+&#xD;
+          -  Participants who, in the judgment of the investigator, will be unlikely to comply with&#xD;
+             the requirements of this protocol.&#xD;
+&#xD;
+          -  Any other significant finding that in the opinion of the investigator would increase&#xD;
+             the risk of the individual having an adverse outcome from participating in this study.&#xD;
+&#xD;
+          -  Individuals who are living with severely immunocompromised people (e.g. transplant&#xD;
+             patients, those under active cancer immunosuppressant therapy), pregnant women,&#xD;
+             lactating women, children under 12 months old, or any other individual that, in the&#xD;
+             judgment of the investigator, might be at increased risk.&#xD;
+&#xD;
+        Phase II (abbreviated):&#xD;
+&#xD;
+          -  History of severe local or systemic reactions to any vaccination or a history of&#xD;
+             severe allergic reactions or known allergy to the components of the vaccine, including&#xD;
+             allergy to rice.&#xD;
+&#xD;
+          -  Receipt of investigational product up to 30 days prior to screening or ongoing&#xD;
+             participation in another clinical trial.&#xD;
+&#xD;
+          -  Receipt of licensed vaccines within 14 days of planned study immunization and any AE's&#xD;
+             possibly related to licensed vaccine immunization at Day 0.&#xD;
+&#xD;
+          -  Inability to observe possible local reactions at the injection sites due to a physical&#xD;
+             condition or permanent body art.&#xD;
+&#xD;
+          -  Known hemoglobinopathy or coagulation abnormality (subjects treated by anticoagulation&#xD;
+             or anti platelets are not excluded).&#xD;
+&#xD;
+          -  New onset of fever &gt;37.8ºC AND [cough OR shortness of breath OR anosmia/ageusia], or&#xD;
+             any other inter current illness within 14 days prior to screening&#xD;
+&#xD;
+          -  Factors that increase risk to the subject to severe disease per CDC guidance including&#xD;
+             the following risk factors (in any case of ambiguous grading, decision will be made&#xD;
+             per investigator's best clinical judgement): Cancer [ongoing malignancy or recently&#xD;
+             diagnosed malignancy in the last five years, not including non-melanotic skin cancer],&#xD;
+             Chronic Kidney Disease (eGFR&lt;60 mL/min/1.73 m^2), liver disease (ALT or AST) &gt; 1.5 ×&#xD;
+             ULN; or alkaline phosphatase and direct bilirubin &gt; ULN (total bilirubin may be up to&#xD;
+             2 × ULN as long as direct bilirubin is equal to or below the ULN); or PT INR &gt; 1.25),&#xD;
+             COPD; Immunocompromised state from solid organ transplant; Obesity (BMI≥30kg/m2);&#xD;
+             Serious heart conditions, such as heart failure, coronary artery disease, or&#xD;
+             cardiomyopathies; Sickle cell disease; Type 1/2 diabetes mellitus (HbA1C&gt;8.0%, per&#xD;
+             medical history questioning or records) ); Asthma; Cerebrovascular disease; Cystic&#xD;
+             fibrosis, uncontrolled hypertension that does not respond to therapy, Pulmonary&#xD;
+             fibrosis, Thalassemia.&#xD;
+&#xD;
+          -  Anticipating the need for immunosuppressive treatment within the next 6 months.&#xD;
+&#xD;
+          -  Clinically significant (by means of potentially risking the subject or that would be&#xD;
+             potentially detrimental to the results of the study) medical condition, physical&#xD;
+             examination findings, clinically significant abnormal laboratory results, or past&#xD;
+             medical history with clinically significant implications for current health or for&#xD;
+             severe COVID-19, per the investigator.&#xD;
+&#xD;
+          -  Any progressive or severe neurologic condition/disorder, dementia, seizure disorder,&#xD;
+             or history of Guillian-Barré syndrome.&#xD;
+&#xD;
+          -  Known or suspected impairment of the immune system including rheumatic, connective&#xD;
+             tissue or vascular disease of autoimmune origin&#xD;
+&#xD;
+          -  Women who are pregnant or breastfeeding.&#xD;
+&#xD;
+          -  Positive urine or serum pregnancy test or women have an intention to be pregnant&#xD;
+             during the study.&#xD;
+&#xD;
+          -  Clinically significant abnormal CBC results in WBC, hemoglobin, hematocrit, or&#xD;
+             platelets.&#xD;
+&#xD;
+          -  Clinically significant abnormal urinalysis: RBC, protein, or glucose only.&#xD;
+&#xD;
+          -  Positive serology for: hepatitis B surface antigen, hepatitis C, HIV.&#xD;
+&#xD;
+          -  Receipt of medications intended to prevent COVID-19.&#xD;
+&#xD;
+          -  Confirmed or suspected illness caused by coronaviruses, SARS-CoV 1, and Middle East&#xD;
+             Respiratory Syndrome (MERS)-CoV.&#xD;
+&#xD;
+          -  Received any prior vaccine against a coronavirus.&#xD;
+&#xD;
+          -  Receipt of blood/plasma products or immunoglobulin, from within 60 days before study&#xD;
+             intervention administration or planned receipt throughout the study.&#xD;
+&#xD;
+          -  Immunosuppressive medications received within 90 days before screening. (Not including&#xD;
+             [1] corticosteroid nasal spray for allergic rhinitis; [2] topical corticosteroids for&#xD;
+             mild, uncomplicated dermatitis; or [3] oral/parenteral corticosteroids given for&#xD;
+             non-chronic conditions not expected to recur [length of therapy 10 days or less with&#xD;
+             completion at least 30 days prior to vaccination].)&#xD;
+&#xD;
+          -  History of alcohol or drug abuse per clinical judgement within 5 years prior to study&#xD;
+             vaccination (excluding cannabis)&#xD;
+&#xD;
+          -  Participants who, in the judgment of the investigator, will be unlikely to comply with&#xD;
+             the requirements of this protocol.&#xD;
+&#xD;
+          -  Any other significant finding that in the opinion of the investigator would increase&#xD;
+             the risk of the individual having an adverse outcome from participating in this study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Hadar Marcus, Dr.</last_name>
+    <phone>972-50-6234230</phone>
+    <email>IIBR100_1@iibr.gov.il</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Noa Madar Balakirski, Dr.</last_name>
+    <phone>972-50-6234202</phone>
+    <email>IIBR100_2@iibr.gov.il</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Assuta - University Hospital</name>
+      <address>
+        <city>Ashdod</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tal Brosh, Dr.</last_name>
+    </contact>
+    <contact_backup>
+      <last_name>Mor / Bat-El, Attias / Ohayon</last_name>
+      <phone>0534559362</phone>
+      <email>CoronaVAC@assuta.co.il</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Barzilai MC</name>
+      <address>
+        <city>Ashkelon</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Shlomo Ma'ayan, Prof.</last_name>
+    </contact>
+    <contact_backup>
+      <last_name>Amihai / Orly Gottlieb / Israeli</last_name>
+      <phone>086745960</phone>
+      <email>orlyi@bmc.org.il</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Rambam MC</name>
+      <address>
+        <city>Haifa</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Avivit Peer, Dr.</last_name>
+    </contact>
+    <contact_backup>
+      <last_name>Limor Rosner</last_name>
+      <phone>050-2060316</phone>
+      <email>l_rosner@rambam.health.gov.il</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Hadassah Medical Center</name>
+      <address>
+        <city>Jerusalem</city>
+        <zip>91120</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yoseph Caraco, Prof.</last_name>
+    </contact>
+    <contact_backup>
+      <last_name>Lea Lipsker</last_name>
+      <phone>02-6779165</phone>
+      <email>leali@hadassah.org.il</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Meir MC</name>
+      <address>
+        <city>Kfar Saba</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Victor Vishlitzky, Dr.</last_name>
+    </contact>
+    <contact_backup>
+      <last_name>Leed Nathan</last_name>
+      <phone>09-7471932</phone>
+      <email>leead.nachmias@clalit.org.il</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Rabin MC</name>
+      <address>
+        <city>Petach Tikva</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Noa Eliakim Raz, Dr.</last_name>
+    </contact>
+    <contact_backup>
+      <last_name>Tal / Anat Gilat / Dagan</last_name>
+      <phone>03-9376834</phone>
+      <email>Talgi2@clalit.org.il</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Sheba Medical Center Hospital- Tel Hashomer</name>
+      <address>
+        <city>Ramat Gan</city>
+        <zip>52621</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Eytan Ben Ami, Dr.</last_name>
+    </contact>
+    <contact_backup>
+      <last_name>Ilana Shinder</last_name>
+      <phone>03-5309657</phone>
+      <email>Clinical.trials@sheba.health.gov.il</email>
+    </contact_backup>
+  </location>
+  <location>
+    <facility>
+      <name>Sourasky MC</name>
+      <address>
+        <city>Tel Aviv</city>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>David Zeltser, Prof.</last_name>
+    </contact>
+    <contact_backup>
+      <last_name>Nurit Platner</last_name>
+      <phone>03-6974961 052-4266763</phone>
+      <email>nuritp@tlvmc.gov.il</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Israel</country>
+  </location_countries>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>October 26, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 27, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 29, 2020</study_first_posted>
+  <last_update_submitted>January 4, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 4, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 5, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>Vaccine</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

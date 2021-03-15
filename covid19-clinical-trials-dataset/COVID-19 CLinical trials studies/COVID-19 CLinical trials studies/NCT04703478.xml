@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3124">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04703478</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CovidSal02</org_study_id>
+    <nct_id>NCT04703478</nct_id>
+  </id_info>
+  <brief_title>RespiraConNosotros:a Mobile Application for COVID-19 Respiratory Rehabilitation.</brief_title>
+  <official_title>RespiraConNosotros: Creation and Implementation of a Mobile Application for the Rehabilitation of Patients With Respiratory Sequelae of the SARS-CoV-2 (COVID-19)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Salamanca</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Salamanca</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Platform with a mobile application to encourage the performance of respiratory exercises,&#xD;
+      controlled and supervised by physiotherapists. It also includes recommendations, frequently&#xD;
+      asked questions and the possibility of contacting by chat or video calls with experts to&#xD;
+      solve possible doubts.&#xD;
+&#xD;
+      Currently, the application is ready for use, the registration of users and professionals is&#xD;
+      enabled and have 20 exercises divided into three intensity levels.&#xD;
+&#xD;
+      It is available for all platforms (PC, ANDROID, iOS). presents a simple deployment,&#xD;
+      accessible to the entire population and does not require installation.&#xD;
+&#xD;
+      In the future, investigators will include more languages, a greater variety of exercises and&#xD;
+      even other types of therapies. Investigators will also carry out the adaptation to functional&#xD;
+      diversity with subtitles and voice commands.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">January 20, 2021</start_date>
+  <completion_date type="Anticipated">April 20, 2021</completion_date>
+  <primary_completion_date type="Anticipated">April 20, 2021</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Rating of perceived exertion (Borg Scale)</measure>
+    <time_frame>10 minutes.</time_frame>
+    <description>Scale from 1-10 points. Where number 1 means very light activity and 10, represents an extreme intensity of activity.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Level of satisfaction and acceptability.</measure>
+    <time_frame>20 minutes.</time_frame>
+    <description>A Likert-type scale will be used. 1-Not Satisfied to 5-Extremely satisfied.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>St. George's Respiratory Questionnaire, SGRQ</measure>
+    <time_frame>40 minutes.</time_frame>
+    <description>scale from 0-100 points.Where higher scores mean worse outcomes.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Age</measure>
+    <time_frame>2 minutes.</time_frame>
+    <description>The date of birth will be registered in order to calculate the age of the participant.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Sex</measure>
+    <time_frame>2 minutes.</time_frame>
+    <description>Participant's sex will be registered</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Diagnosis of respiratory pathology</measure>
+    <time_frame>2 minutes.</time_frame>
+    <description>Participant's diagnosis will be registered.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Single group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Implementation of a mobile application for the rehabilitation of patients with respiratory sequelae of COVID-19</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Breathing exercise</intervention_name>
+    <description>Participants will carry out a breathing exercise program through the RespiraConNosotros mobile application. They will be asked to carry out the proposed exercises with a frequency of 3 times a week for 3 months.</description>
+    <arm_group_label>Single group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Respiratory affectation diagnosis&#xD;
+&#xD;
+          -  Internet access to run the application&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Presence of contraindications to physical exercise or the lack of comprehensive&#xD;
+             ability to access the application will be considered.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Beatriz M Bermejo-Gil, Prof.</last_name>
+    <phone>+34 622 289 468</phone>
+    <email>beatriz.bermejo@usal.es</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Rocio Llamas-Ramos, Dr.</last_name>
+    <phone>+34 657 854 188</phone>
+    <email>rociollamas@usal.es</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Ines Llamas-Ramos</name>
+      <address>
+        <city>Salamanca</city>
+        <zip>37007</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Ines Llamas-Ramos, Dr.</last_name>
+      <phone>+34 663 008736</phone>
+      <email>inesllamas@usal.es</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>January 4, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 8, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 11, 2021</study_first_posted>
+  <last_update_submitted>January 8, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 8, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 12, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Salamanca</investigator_affiliation>
+    <investigator_full_name>Beatriz-María Bermejo-Gil</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>respiration disorders</keyword>
+  <keyword>telerehabilitation</keyword>
+  <keyword>breathing exercises</keyword>
+  <keyword>complications</keyword>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

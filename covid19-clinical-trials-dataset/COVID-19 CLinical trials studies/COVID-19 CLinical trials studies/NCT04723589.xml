@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="839">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04723589</url>
+  </required_header>
+  <id_info>
+    <org_study_id>300005853</org_study_id>
+    <nct_id>NCT04723589</nct_id>
+  </id_info>
+  <brief_title>Restoration of Endothelial Integrity in Patients With COVID-19 (RELIC)</brief_title>
+  <acronym>RELIC</acronym>
+  <official_title>Restoration of Endothelial Integrity in Patients With COVID-19 (RELIC)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Alabama at Birmingham</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Alabama at Birmingham</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+    <is_us_export>Yes</is_us_export>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a pilot study designed to demonstrate the feasibility of conducting a larger study of&#xD;
+      standard plasma therapy in COVID-19 patients.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a randomized trial in hospitalized COVID-19-positive patients. This trial compares&#xD;
+      standard care to standard care plus an infusion of non-convalescent thawed plasma. Blood will&#xD;
+      be collected from all participants at eight timepoints, and clinical data will be collected&#xD;
+      for 30 days or until discharge/death.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 1, 2021</start_date>
+  <completion_date type="Anticipated">December 1, 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 1, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Group 1: Standard care for COVID-19 Group 2: Standard care plus non-convalescent plasma infusion</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+    <masking_description>Masking will not be used. Participants randomized to standard care will not receive a sham treatment.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of participants completing plasma infusion for COVID-19</measure>
+    <time_frame>Track patient progress for 30 days post transfusion.</time_frame>
+    <description>Identification of patient population who are COVID-19-positive and transfused with plasma</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants intubated</measure>
+    <time_frame>Track patient progress for 30 days post transfusion</time_frame>
+    <description>Participants who are intubated during hospital stay</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Sequential Organ Failure Assessment (SOFA) score change</measure>
+    <time_frame>Track patient progress for 30 days post transfusion</time_frame>
+    <description>SOFA is used as a clinical indicator of morbidity severity. The scale is 0-24, with 0 being normal.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>National Early Warning Score change</measure>
+    <time_frame>Track patient progress for 30 days post transfusion</time_frame>
+    <description>This score is used as a clinical indicator of patient deterioration. The total possible score ranges from 0 to 20. The higher the score the greater the clinical risk.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ventilator-free Days</measure>
+    <time_frame>Track patient progress for 30 days post transfusion</time_frame>
+    <description>Number of in-hospital days that patient is not ventilated</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Intensive care unit-free Days</measure>
+    <time_frame>Track patient progress for 30 days post transfusion</time_frame>
+    <description>Number of days patient is hospitalized and not in ICU</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>In hospital mortality</measure>
+    <time_frame>Track patient progress for 30 days post transfusion</time_frame>
+    <description>Number of patients who receive transfusion but do not survive for 30 days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Angiopoietin 1&amp;2 blood test</measure>
+    <time_frame>0, 12, 24, 48, 72 hours. Day 7, 14 and 30.</time_frame>
+    <description>Angiopoietin, a protein, that plays a role in blood vessel formation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Soluble Tie2 blood test</measure>
+    <time_frame>0, 12, 24, 48, 72 hours. Day 7, 14 and 30.</time_frame>
+    <description>Soluble Tie2 is a protein that mediates the function of angiopoietin</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Soluble Thrombomodulin blood test</measure>
+    <time_frame>0, 12, 24, 48, 72 hours. Day 7, 14 and 30.</time_frame>
+    <description>This test indicates blood vessel injury</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Syndecan-1 blood test</measure>
+    <time_frame>0, 12, 24, 48, 72 hours. Day 7, 14 and 30.</time_frame>
+    <description>This test indicates blood vessel injury</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prothrombin time blood test</measure>
+    <time_frame>0, 12, 24, 48, 72 hours. Day 7, 14 and 30.</time_frame>
+    <description>This test measures blood coagulation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Partial thromboplastin time blood test</measure>
+    <time_frame>0, 12, 24, 48, 72 hours. Day 7, 14 and 30.</time_frame>
+    <description>This test measures blood coagulation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>D-dimer blood test</measure>
+    <time_frame>0, 12, 24, 48, 72 hours. Day 7, 14 and 30.</time_frame>
+    <description>This test measures for D-dimer concentration, indicating that the blood has been breaking down blood clots</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fibrinogen blood test</measure>
+    <time_frame>0, 12, 24, 48, 72 hours. Day 7, 14 and 30.</time_frame>
+    <description>Tests for a protein important to clotting</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Thromboelastography blood test</measure>
+    <time_frame>0, 12, 24, 48, 72 hours. Day 7, 14 and 30.</time_frame>
+    <description>Measures blood coagulation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Von Willebrand Factor Antigen blood test</measure>
+    <time_frame>0, 12, 24, 48, 72 hours. Day 7, 14 and 30.</time_frame>
+    <description>This test measures a blood clotting protein</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Factor VIII blood test</measure>
+    <time_frame>0, 12, 24, 48, 72 hours. Day 7, 14 and 30.</time_frame>
+    <description>This test measures a blood clotting protein</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Standard Arm</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Participants randomized to standard care will not receive an intervention but will participate in other study procedures, which are blood collection and data collection.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Intervention Arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants randomized to the intervention arm will receive standard care plus an infusion of thawed plasma, starting rate 30 ml/hour for 24 hours, increased to 50 ml/hour if deemed to be hypovolemic (low fluid volume). Only non-convalescent (COVID-antibody-free) plasma will be used.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Thawed plasma</intervention_name>
+    <description>Plasma not labeled &quot;convalescent plasma&quot; is presumed to be free of COVID antibodies, but is not tested for antibodies. To ensure that we are using antibody-free plasma, we will test each unit of plasma with a quick COVID test before it is utilized in this study.</description>
+    <arm_group_label>Intervention Arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  18 years of age or older&#xD;
+&#xD;
+          -  COVID-19 positive by PCR or assay within 72 hours or less&#xD;
+&#xD;
+          -  Oxygen saturation of ≤94% on room air or requiring supplemental oxygen at screening&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  mechanically ventilated&#xD;
+&#xD;
+          -  pregnant&#xD;
+&#xD;
+          -  prisoners&#xD;
+&#xD;
+          -  receiving resuscitation with blood products for hemorrhagic shock&#xD;
+&#xD;
+          -  receiving an investigational therapy for COVID-19&#xD;
+&#xD;
+          -  diagnosed with severe comorbidities&#xD;
+&#xD;
+          -  not expected to survive more than 24 hours&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Karen N Brown, MSHA</last_name>
+    <phone>205-975-2393</phone>
+    <email>karenbrown@uabmc.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Shannon W Stephens</last_name>
+    <phone>205-934-5890</phone>
+    <email>swstephens@uabmc.edu</email>
+  </overall_contact_backup>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>November 26, 2020</study_first_submitted>
+  <study_first_submitted_qc>January 22, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 25, 2021</study_first_posted>
+  <last_update_submitted>January 22, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 22, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 25, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Alabama at Birmingham</investigator_affiliation>
+    <investigator_full_name>Rondi Gelbard</investigator_full_name>
+    <investigator_title>Associate Professor, Department of Surgery</investigator_title>
+  </responsible_party>
+  <keyword>plasma</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

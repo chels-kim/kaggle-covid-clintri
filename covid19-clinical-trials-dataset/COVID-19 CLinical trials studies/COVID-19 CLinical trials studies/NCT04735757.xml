@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2229">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04735757</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NL 72271.029.20</org_study_id>
+    <nct_id>NCT04735757</nct_id>
+  </id_info>
+  <brief_title>Effects of COVID-19 Infection and Critical Illness on Diaphragm Tissue Characteristics and Movement, Visualized With MRI</brief_title>
+  <official_title>Effects of COVID-19-infection and Mechanical Ventilation on Movement and Tissue Characteristics of the Diaphragm, Visualized by Magnetic Resonance Imaging: a Proof-of-concept Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>VU University Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>VU University Medical Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      COVID-19-infection has a large impact on the respiratory system and possibly on the&#xD;
+      diaphragm, the main respiratory muscle. In ICU-patients, diaphragm weakness is associated&#xD;
+      with prolonged ICU-stay, difficult weaning and increased mortality. Our research group&#xD;
+      recently found evidence for fibrosis and expression of genes involved in fibrosis as well as&#xD;
+      viral infiltration of the SARS-CoV-2 virus in diaphragm biopsies from COVID-19 ICU patients.&#xD;
+      This finding suggests a unique manifestation of diaphragm injury in COVID-19 patients after&#xD;
+      mechanical ventilation. However, it remains unclear what the exact nature and location of&#xD;
+      diaphragm injury is.&#xD;
+&#xD;
+      Additionally, it is largely unknown whether this injury affects the movement of the&#xD;
+      diaphragm, but this might have important clinical implications. Therefore, we aim at&#xD;
+      visualizing the tissue characteristics and movement of the diaphragm in COVID-19 patients who&#xD;
+      recently received long-term mechanical ventilation, other ICU patients and healthy controls,&#xD;
+      using magnetic resonance imaging (MRI). MRI of the diaphragm was already shown feasible in&#xD;
+      previous research from our group (article currently under review).&#xD;
+&#xD;
+      New insights in the characteristics of diaphragm weakness and injury in COVID-19 patients and&#xD;
+      control ICU-patients will contribute to strategies to prevent it and monitor the diaphragm of&#xD;
+      patients under mechanical ventilation, which can contribute to better patient outcomes.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">February 2, 2021</start_date>
+  <completion_date type="Anticipated">January 19, 2023</completion_date>
+  <primary_completion_date type="Anticipated">January 19, 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Tissue characteristics of the diaphragm</measure>
+    <time_frame>1 hour</time_frame>
+    <description>Extracted from contrast enhanced imaging</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Movement of the diaphragm</measure>
+    <time_frame>1 hour</time_frame>
+    <description>Description of the movement of the diaphragm in 4D fashion.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Quantitative dynamic contrast enhanced imaging of the diaphragm</measure>
+    <time_frame>1 hour</time_frame>
+    <description>Application of modelling to describe tissue characteristics of the diaphragm using contrast inflow.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation of movement and tissue characteristics of the diaphragm with measurements of maximum inspiratory and expiratory pressure</measure>
+    <time_frame>1 hour</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation of movement and tissue characteristics of the diaphragm with clinical parameters</measure>
+    <time_frame>1 hour</time_frame>
+    <description>Clinical parameters include ventilator settings, biomarkers for inflammation (CRP, white blood cell count) during ICU admission, daily dosage of drugs known with adverse effects on respiratory muscles, fluid balance, protein intake, primary reason for ICU admission and weaning duration.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Correlation of diaphragm tissue characteristics with tissue characteristics of the abdominal muscles</measure>
+    <time_frame>1 hour</time_frame>
+  </other_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Diaphragm Disease</condition>
+  <condition>Covid19</condition>
+  <arm_group>
+    <arm_group_label>Healthy volunteers</arm_group_label>
+    <description>Healthy volunteers, matched by age and gender to patient groups.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>COVID-19 patients</arm_group_label>
+    <description>Patients discharged from the ICU after invasive ventilation for COVID-19.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>ICU patients</arm_group_label>
+    <description>Patients discharged from the ICU after invasive ventilation for ARDS.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Contrast-enhanced MRI</intervention_name>
+    <description>Contrast-enhanced MRI</description>
+    <arm_group_label>COVID-19 patients</arm_group_label>
+    <arm_group_label>Healthy volunteers</arm_group_label>
+    <arm_group_label>ICU patients</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Measurement of respiratory muscle force</intervention_name>
+    <description>Measurement of the maximum inspiratory and expiratory pressure.</description>
+    <arm_group_label>COVID-19 patients</arm_group_label>
+    <arm_group_label>Healthy volunteers</arm_group_label>
+    <arm_group_label>ICU patients</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients that were recently (&lt;= 7 days ago) discharged from the ICU and received mechanical&#xD;
+        ventilation form the study population with a specific sub group of COVID-19 patients.&#xD;
+        Healthy, age and gender matched volunteers are selected as control group.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion criteria&#xD;
+&#xD;
+        In order to be eligible to participate in this study, a subject in the case group must meet&#xD;
+        all of the following criteria:&#xD;
+&#xD;
+          -  Invasive mechanical ventilation &gt; 72 hours during current hospital admission&#xD;
+&#xD;
+          -  Admitted for COVID-19-infection (n = 10)&#xD;
+&#xD;
+          -  Currently negative COVID-19 PCR test&#xD;
+&#xD;
+          -  Discharged from the ICU ≤ 7 days ago&#xD;
+&#xD;
+          -  Signed informed consent&#xD;
+&#xD;
+          -  Age ≥ 18 years&#xD;
+&#xD;
+        In order to be eligible to participate in this study, a subject in the control group must&#xD;
+        meet all of the following criteria:&#xD;
+&#xD;
+          -  Signed informed consent&#xD;
+&#xD;
+          -  Age ≥ 18 years&#xD;
+&#xD;
+          -  Similar age (max 5 years difference) and gender of one of the subjects in case group&#xD;
+&#xD;
+        Exclusion criteria&#xD;
+&#xD;
+        A potential subject for the case group who meets any of the following criteria will be&#xD;
+        excluded from participation in this study:&#xD;
+&#xD;
+          -  Known history of:&#xD;
+&#xD;
+               -  Diaphragmatic injury or weakness prior to ICU stay&#xD;
+&#xD;
+               -  COPD (GOLD IV)&#xD;
+&#xD;
+               -  Neuromuscular disease (including pathology of the n. phrenicus)&#xD;
+&#xD;
+               -  Connective tissue disease&#xD;
+&#xD;
+               -  Chronic use of corticosteroids (&gt;7.5 mg/day for at least 3 months before hospital&#xD;
+                  admission)&#xD;
+&#xD;
+               -  &gt;10% weight loss within last 6 months prior to ICU admission&#xD;
+&#xD;
+          -  Obesity (BMI &gt; 30 kg/m2 at hospital admission)&#xD;
+&#xD;
+          -  Known pregnancy&#xD;
+&#xD;
+          -  Contraindications for MRI&#xD;
+&#xD;
+               -  Electrical/metallic implants&#xD;
+&#xD;
+               -  Claustrophobia&#xD;
+&#xD;
+          -  Unable to hold breath for 10 seconds&#xD;
+&#xD;
+          -  Hierarchical relation with one of the collaborating investigators&#xD;
+&#xD;
+          -  Incapacitation&#xD;
+&#xD;
+          -  Contraindications for the use of a Gadolinium based contrast agent for MRI&#xD;
+&#xD;
+               -  Known eGFR &lt; 30 ml/min/1.73m2&#xD;
+&#xD;
+               -  Known history of allergic reactions to an MRI contrast medium&#xD;
+&#xD;
+               -  Known history of allergic reactions requiring immediate treatment&#xD;
+&#xD;
+               -  Known history of atopy&#xD;
+&#xD;
+               -  Asthma These exclusion criteria are based on the guidelines for contrast agents&#xD;
+                  from the European Society for Urogenital Radiology&#xD;
+                  (http://www.esur.org/guidelines/).&#xD;
+&#xD;
+        Additional exclusion criteria for the case group, subset non-infected patients are:&#xD;
+&#xD;
+        • History of COVID-19-infection (confirmed with positive test)&#xD;
+&#xD;
+        Additional exclusion criteria for the control group are:&#xD;
+&#xD;
+          -  History of mechanical ventilation &gt; 24 hours&#xD;
+&#xD;
+          -  History of COVID-19-infection (confirmed with positive test)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>January 14, 2021</study_first_submitted>
+  <study_first_submitted_qc>February 2, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">February 3, 2021</study_first_posted>
+  <last_update_submitted>February 2, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 2, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 3, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>VU University Medical Center</investigator_affiliation>
+    <investigator_full_name>Prof.dr. L.M.A. Heunks</investigator_full_name>
+    <investigator_title>Professor Doctor</investigator_title>
+  </responsible_party>
+  <keyword>MRI</keyword>
+  <keyword>Mechanical ventilation</keyword>
+  <keyword>Diaphragm</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infection</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3331">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04341116</url>
+  </required_header>
+  <id_info>
+    <org_study_id>TJ003234COV201</org_study_id>
+    <nct_id>NCT04341116</nct_id>
+  </id_info>
+  <brief_title>Study of TJ003234 (Anti-GM-CSF Monoclonal Antibody) in Subjects With Severe Coronavirus Disease 2019 (COVID-19)</brief_title>
+  <official_title>A Phase 2/3, Randomized, Double-Blind, Placebo-Controlled, Multi-Center Study to Evaluate the Safety and Efficacy of TJ003234 in Subjects With Severe Coronavirus Disease 2019 (COVID-19)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>I-Mab Biopharma Co. Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>I-Mab Biopharma Co. Ltd.</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a randomized, double-blind, placebo-controlled, multi-center trial to evaluate the&#xD;
+      safety and efficacy of TJ003234 administered as an intravenous (IV) infusion in subjects with&#xD;
+      severe COVID-19 under supportive care, and to assess the effect of TJ003234 on the levels of&#xD;
+      cytokines.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 11, 2020</start_date>
+  <completion_date type="Anticipated">December 2021</completion_date>
+  <primary_completion_date type="Anticipated">December 2021</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Proportion (%) of subjects recovered</measure>
+    <time_frame>Day 1 through Day 14</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Proportion (%) of subjects recovered on Day 30</measure>
+    <time_frame>Day 1 through Day 30</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>All-cause mortality rate by Day 30</measure>
+    <time_frame>Day 1 through Day 30</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to recovery among subjects alive by Day 30</measure>
+    <time_frame>Day 1 through Day 30</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Length of hospitalization</measure>
+    <time_frame>Day 1 through Day 30</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of treatment-emergent Adverse events by Day 30</measure>
+    <time_frame>Day 1 through Day 30</time_frame>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">384</enrollment>
+  <condition>Coronavirus Disease 2019 COVID-19</condition>
+  <arm_group>
+    <arm_group_label>TJ003234 6 mg/kg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>TJ003234 3 mg/kg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Part 1 only</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>TJ003234</intervention_name>
+    <description>patients receive a single infusion</description>
+    <arm_group_label>TJ003234 3 mg/kg</arm_group_label>
+    <arm_group_label>TJ003234 6 mg/kg</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>patients receive a single infusion</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age: 18 years or older (including 18 years); male or female&#xD;
+&#xD;
+          -  Laboratory-confirmed SARS-CoV-2 or COVID-19 infection as determined by polymerase&#xD;
+             chain reaction (PCR) or other commercial or public health assay.&#xD;
+&#xD;
+          -  Bilateral lung infection confirmed by imaging.&#xD;
+&#xD;
+          -  Severe disease that meets one of the following conditions: (i) At rest, finger blood&#xD;
+             oxygen saturation ≤ 93% or PaO2/FiO2 ≤ 300 mmHg; (ii) Requiring non-invasive or&#xD;
+             invasive mechanical ventilation; OR (iii) Requiring high flow oxygen ≥ 15L/min&#xD;
+&#xD;
+          -  Hospitalized for no more than 5 calendar days at the time of screening&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Any previous and/or current clinically significant disease or condition that has not&#xD;
+             been stable within 3 months prior to enrollment, or acute illness, planned medical/&#xD;
+             surgical procedure, or any trauma that occurred within 2 weeks prior to enrollment.&#xD;
+&#xD;
+          -  Chronic obstructive pulmonary disease (COPD) patients requiring inhaled&#xD;
+             corticosteroid, long-acting beta-adrenergic agonists, long-acting anticholinergics, or&#xD;
+             long-term oxygen therapy (Part 1 only).&#xD;
+&#xD;
+          -  Pulmonary interstitial disease, pulmonary alveolar proteinosis, and pulmonary&#xD;
+             granulomatosis.&#xD;
+&#xD;
+          -  Cardiovascular event in the 3 months prior to study drug administration: acute&#xD;
+             myocardial infarction or unstable angina pectoris, severe arrhythmia (multiple sources&#xD;
+             of frequent ventricular premature beat, ventricular tachycardia and ventricular&#xD;
+             fibrillation); New York Heart Association Classification (NYHA): Class III-Class IV.&#xD;
+&#xD;
+          -  Blood system disorders or routine blood analysis test abnormalities: Hemoglobin &lt; 8&#xD;
+             g/dL; Absolute neutrophil count (ANC) &lt;1500 × 109/L; Platelets &lt; 50 × 109/L.&#xD;
+&#xD;
+          -  Dependence on glucocorticoid treatment equivalent to methylprednisolone 2 mg/kg/ day&#xD;
+             or more or long-term use of anti-rejection or immunomodulatory drugs.&#xD;
+&#xD;
+          -  Subjects that have been on invasive mechanical ventilation for ≥120 hours at the time&#xD;
+             of dosing&#xD;
+&#xD;
+          -  Subjects that require ECMO.&#xD;
+&#xD;
+          -  Pregnant or breastfeeding females.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Claire Xu, MD, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>I-Mab Biopharma US Limited</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>US Site Head</last_name>
+    <phone>240-767-6981</phone>
+    <email>US.Info@I-MabBiopharma.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Olive View-UCLA Medical Center</name>
+      <address>
+        <city>Sylmar</city>
+        <state>California</state>
+        <zip>91342</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Principal Investigator</last_name>
+    </contact>
+    <investigator>
+      <last_name>Greg Moran, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Georgetown University Hospital</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20007</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Maximiliano Menna</last_name>
+      <phone>202-444-0371</phone>
+      <email>mpm229@georgetown.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Princy Kumar, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The GW Medical Faculty Associates</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20037</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <email>msiegel@mfa.gwu.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Marc Siegel, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>OSF Healthcare Saint Francis Medical Center</name>
+      <address>
+        <city>Peoria</city>
+        <state>Illinois</state>
+        <zip>61637</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <email>skwynn@uic.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Kap Sum Foong, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Indiana University Health</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <email>chage@iu.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Chadi A. Hage, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Medpharmics, LLC</name>
+      <address>
+        <city>Metairie</city>
+        <state>Louisiana</state>
+        <zip>70006</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <email>andreajeanfreau@medpharmics.com</email>
+    </contact>
+    <investigator>
+      <last_name>Robert Jeanfreau, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Ochsner Medical Center</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70121</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Maryland Medical Center</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ilise Marrazzo</last_name>
+      <email>IMarrazzo@ihv.umaryland.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Rohit Talwani, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Brigham and Women's Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alexander Hill</last_name>
+      <phone>617-732-5638</phone>
+      <email>ahill@bwh.harvard.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Edward Boyer, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Henry Ford Health System</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Principal Investigator</last_name>
+    </contact>
+    <investigator>
+      <last_name>John McKinnon, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Mississippi Medical Center</name>
+      <address>
+        <city>Jackson</city>
+        <state>Mississippi</state>
+        <zip>39216</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <email>crsp@umc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Gailen D. Marshall, Jr., MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University Medical Center of Southern Nevada</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89102</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Robert Bimbi</last_name>
+    </contact>
+    <investigator>
+      <last_name>Shadaba Asad, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>UNM Hospitals</name>
+      <address>
+        <city>Albuquerque</city>
+        <state>New Mexico</state>
+        <zip>87106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jon Femling, MD</last_name>
+      <email>JFemling@salud.unm.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Jon Femling, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Oregon Health and Science University</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97239</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Temple Univeristy Hospital</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19140</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <email>ngentile@temple.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Nina Gentile, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Houston Methodist Hospital</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <email>dgotur@houstonmethodist.org</email>
+    </contact>
+    <investigator>
+      <last_name>Deepa Gotur, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>April 4, 2020</study_first_submitted>
+  <study_first_submitted_qc>April 9, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">April 10, 2020</study_first_posted>
+  <last_update_submitted>December 10, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 10, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 14, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2775">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04621461</url>
+  </required_header>
+  <id_info>
+    <org_study_id>20-19</org_study_id>
+    <nct_id>NCT04621461</nct_id>
+  </id_info>
+  <brief_title>Placebo Controlled Trial to Evaluate Zinc for the Treatment of COVID-19 in the Outpatient Setting</brief_title>
+  <official_title>A Randomized, Placebo-Controlled Study Evaluating the Efficacy of Zinc for the Treatment of COVID-19 in the Outpatient Setting</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>St. Francis Hospital, New York</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>St. Francis Hospital, New York</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a randomized, double-blind, placebo-controlled trial to assess the efficacy of zinc&#xD;
+      in a higher risk COVID-19 positive outpatient population.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Zinc, a micronutrient, appears to have anti-viral properties with various mechanisms of&#xD;
+      action depending on the concentration Zinc supplementation has been reviewed extensively for&#xD;
+      use in the common cold, and has been shown to reduce the duration of symptoms. In-vitro&#xD;
+      studies have shown zinc can inhibit RNA-dependent RNA polymerase (RdRP) in coronavirus, which&#xD;
+      is typically a conserved region in the viral genome. In-vitro experiments have also shown&#xD;
+      that lung epithelium in a zinc depleted state can become susceptible to apoptosis and loss of&#xD;
+      barrier function, increasing permeability, which can lead to acute respiratory distress&#xD;
+      syndrome (ARDS).&#xD;
+&#xD;
+      If a patient can travel to St. Francis Hospital they can have a COVID test on site at a&#xD;
+      designated St. Francis testing location. The COVID test will be resulted via a rapid Covid&#xD;
+      (Point of Care device) or at a local lab.&#xD;
+&#xD;
+      Patients who are unable to travel to St. Francis Hospital or one of the outpatient practices,&#xD;
+      will be allowed to enroll remotely. Patients are eligible to enroll within 72 hours of a&#xD;
+      positive Covid-19 test result. Study medications will be mailed to the patient overnight&#xD;
+      after being enrolled.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">December 20, 2020</start_date>
+  <completion_date type="Anticipated">May 2021</completion_date>
+  <primary_completion_date type="Anticipated">May 2021</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>This is a randomized, double-blind, placebo-controlled trial to assess the efficacy of zinc in a higher risk COVID-19 positive outpatient population. Patients will randomized to zinc or placebo.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+    <masking_description>Patients will be randomized via a randomization block. Only the research coordinator will know which group the patients belong to. Placebo pills given to the patient will be similar in size and shape to zinc.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of participants hospitalized and/or requiring repeat emergency room visits</measure>
+    <time_frame>21 days</time_frame>
+    <description>COVID-19 related complications that require the participant to be hospitalized or have an emergency room visit</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants admitted to the Intensive care unit (ICU)</measure>
+    <time_frame>30 days</time_frame>
+    <description>If hospitalized, number of participants admitted to the ICU, and number of days in the ICU</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of participants on a ventilator</measure>
+    <time_frame>30 days</time_frame>
+    <description>If placed on ventilator, number of days on a ventilator</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>All-cause mortality</measure>
+    <time_frame>Up to 30 days</time_frame>
+    <description>Total number of deaths in the cohort.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to resolution of COVID-19 symptoms</measure>
+    <time_frame>Evaluated at day 2, 6, day 14, and day 21</time_frame>
+    <description>Time at which the patient is completely symptom free.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Severity of symptoms</measure>
+    <time_frame>Evaluated at day 2, 6, day 14, and day 21</time_frame>
+    <description>Scored by the participant for feverishness, sore throat, cough, shortness of breath, myalgias. (0 =none; 1 = mild; 2 = moderate; 3 = severe)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">750</enrollment>
+  <condition>Corona Virus Infection</condition>
+  <arm_group>
+    <arm_group_label>Experimental Arm #1</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Experimental Arm #2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Zinc sulfate</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>Zinc Sulfate 220 MG</intervention_name>
+    <description>220mg once daily for 5 days</description>
+    <arm_group_label>Experimental Arm #2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Once daily for 5 days</description>
+    <arm_group_label>Experimental Arm #1</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Able to read and understand informed consent.&#xD;
+&#xD;
+          -  High initial clinical suspicion by physician based on signs and symptoms (fever,&#xD;
+             cough, myalgias, fatigue, shortness of breath) followed by confirmation of COVID-19&#xD;
+             diagnosis&#xD;
+&#xD;
+          -  Any gender&#xD;
+&#xD;
+          -  Age 60 years and older&#xD;
+&#xD;
+          -  Age 30-59 years with one or more of the following:&#xD;
+&#xD;
+               -  abnormal lung exam&#xD;
+&#xD;
+               -  abnormal oxygen saturation &lt;95%&#xD;
+&#xD;
+               -  abnormal Chest X-ray or chest CT&#xD;
+&#xD;
+               -  persistent fever &gt;100.4 degrees Fahrenheit&#xD;
+&#xD;
+               -  one of the following co-morbidities: hypertension, diabetes mellitus, history of&#xD;
+                  coronary artery disease, chronic kidney disease (CKD), asthma, COPD, current or&#xD;
+                  former smoker, or morbid obesity (Body Mass Index ≥35)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Severe COVID-19 requiring admission for inpatient treatment&#xD;
+&#xD;
+          -  Need for any oxygen supplementation&#xD;
+&#xD;
+          -  Need for mechanical ventilatory support&#xD;
+&#xD;
+          -  History of oxygen supplementation dependency&#xD;
+&#xD;
+          -  History of cancer with ongoing chemotherapy or radiation therapy&#xD;
+&#xD;
+          -  Known hypersensitivity to zinc&#xD;
+&#xD;
+          -  Severe renal disease: Glomerular Filtration Rate &lt;30ml/min&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>30 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Avni Thakore, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>St. Francis Hospital - The Heart Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Avni Thakore, MD</last_name>
+    <phone>516-563-7938</phone>
+    <email>avni.thakore@chsli.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Elizabeth S Haag, RN</last_name>
+    <phone>516-622-4512</phone>
+    <email>elizabeth.haag@chsli.org</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>St. Francis Hospital - The Heart Center</name>
+      <address>
+        <city>Roslyn</city>
+        <state>New York</state>
+        <zip>11576</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <contact>
+      <last_name>Elizabeth Haag, RN</last_name>
+      <phone>516-622-4512</phone>
+      <email>elizabeth.haag@chsli.org</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Wu C, Liu Y, Yang Y, Zhang P, Zhong W, Wang Y, Wang Q, Xu Y, Li M, Li X, Zheng M, Chen L, Li H. Analysis of therapeutic targets for SARS-CoV-2 and discovery of potential drugs by computational methods. Acta Pharm Sin B. 2020 May;10(5):766-788. doi: 10.1016/j.apsb.2020.02.008. Epub 2020 Feb 27.</citation>
+    <PMID>32292689</PMID>
+  </reference>
+  <reference>
+    <citation>Korant BD, Butterworth BE. Inhibition by zinc of rhinovirus protein cleavage: interaction of zinc with capsid polypeptides. J Virol. 1976 Apr;18(1):298-306.</citation>
+    <PMID>176466</PMID>
+  </reference>
+  <reference>
+    <citation>Katz E, Margalith E. Inhibition of vaccinia virus maturation by zinc chloride. Antimicrob Agents Chemother. 1981 Feb;19(2):213-7.</citation>
+    <PMID>7347557</PMID>
+  </reference>
+  <reference>
+    <citation>Kümel G, Schrader S, Zentgraf H, Daus H, Brendel M. The mechanism of the antiherpetic activity of zinc sulphate. J Gen Virol. 1990 Dec;71 ( Pt 12):2989-97.</citation>
+    <PMID>2177090</PMID>
+  </reference>
+  <reference>
+    <citation>Suara RO, Crowe JE Jr. Effect of zinc salts on respiratory syncytial virus replication. Antimicrob Agents Chemother. 2004 Mar;48(3):783-90.</citation>
+    <PMID>14982765</PMID>
+  </reference>
+  <reference>
+    <citation>Eby GA, Davis DR, Halcomb WW. Reduction in duration of common colds by zinc gluconate lozenges in a double-blind study. Antimicrob Agents Chemother. 1984 Jan;25(1):20-4.</citation>
+    <PMID>6367635</PMID>
+  </reference>
+  <reference>
+    <citation>te Velthuis AJ, van den Worm SH, Sims AC, Baric RS, Snijder EJ, van Hemert MJ. Zn(2+) inhibits coronavirus and arterivirus RNA polymerase activity in vitro and zinc ionophores block the replication of these viruses in cell culture. PLoS Pathog. 2010 Nov 4;6(11):e1001176. doi: 10.1371/journal.ppat.1001176.</citation>
+    <PMID>21079686</PMID>
+  </reference>
+  <reference>
+    <citation>Singh M, Das RR. Zinc for the common cold. Cochrane Database Syst Rev. 2013 Jun 18;(6):CD001364. doi: 10.1002/14651858.CD001364.pub4. Review. Update in: Cochrane Database Syst Rev. 2015;(4):CD001364.</citation>
+    <PMID>23775705</PMID>
+  </reference>
+  <reference>
+    <citation>Bao S, Knoell DL. Zinc modulates airway epithelium susceptibility to death receptor-mediated apoptosis. Am J Physiol Lung Cell Mol Physiol. 2006 Mar;290(3):L433-41. Epub 2005 Nov 11.</citation>
+    <PMID>16284213</PMID>
+  </reference>
+  <verification_date>May 2020</verification_date>
+  <study_first_submitted>November 6, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 6, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 9, 2020</study_first_posted>
+  <last_update_submitted>December 14, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 14, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 17, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>Zinc</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Zinc Sulfate</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

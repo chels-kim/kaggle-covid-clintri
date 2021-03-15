@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3766">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04619290</url>
+  </required_header>
+  <id_info>
+    <org_study_id>064.I.2020</org_study_id>
+    <nct_id>NCT04619290</nct_id>
+  </id_info>
+  <brief_title>Outpatient Treatment With CoVid-19 With Prexablu</brief_title>
+  <official_title>Treatment in Outpatient Patients With Covid-19 With Methylene Blue and Photodynamic</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hospital Reg. Lic. Adolfo Lopez Mateos</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hospital Reg. Lic. Adolfo Lopez Mateos</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Within the epidemic context of phase 3 in Mexico, the implementation of new treatments that&#xD;
+      have been shown to be beneficial for patients in other countries is an urgent need. Methylene&#xD;
+      blue (MB, the oxidized form, blue color) has been used in many different clinical medicine&#xD;
+      areas, ranging from malaria to orthopedics. Methylene blue absorbs energy directly from a&#xD;
+      light source and then transfers this energy to molecules of oxygen creating singlet oxygen&#xD;
+      (O2), which is the first electronic excited state of molecular oxygen (O2). Singlet oxygen is&#xD;
+      extremely electrophilic; thus, it can directly oxidize electron-rich double bonds in&#xD;
+      biological molecules and macromolecules. For this reason, methylene blue has been used as a&#xD;
+      photosensitizer in the treatment of cancer and the protection of serum from viral agents.&#xD;
+      Methylene blue can be reactivated using energy from a light source in the body until&#xD;
+      processed out through the kidneys.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Patients diagnosed with COVID-19 and confirmed positive with the virus by PCR will be treated&#xD;
+      with Prexablu for seven days. The administration is Sublingual 1 ml Prexablu once a day and&#xD;
+      PDT for 1 hour daily x 7 days. Days to clinical improvement to be evaluated for seven days&#xD;
+      considering temperature and other vital signs measurement, arterial oxygen saturation.&#xD;
+&#xD;
+      I. On day one and day seven a blood sample will be drawn to assess chemistry (including liver&#xD;
+      function tests), C reactive protein, IgG, IgM, IL-6, erythrocyte sedimentation rates like&#xD;
+      procalcitonin, ferritin levels, and the D dimer II. Daily PCR Swabs measuring cycle threshold&#xD;
+      (CT) will be collected (days 1 - 7) III. Daily 1ml Prexablu will be placed sublingual&#xD;
+&#xD;
+        1. Prexablu activated for 10 minutes with Low Level Light Therapy (670 nm light) before&#xD;
+           being placed sublingually.&#xD;
+&#xD;
+        2. Low Level Light Therapy (NocUlite device) will be placed on wrist for 50 minutes.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">October 12, 2020</start_date>
+  <completion_date type="Anticipated">December 30, 2020</completion_date>
+  <primary_completion_date type="Anticipated">November 30, 2020</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Single group comparison with contemporaneous conventionally treated patients.</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Change form baseline in Arterial oxygen saturation</measure>
+    <time_frame>up to 7 days</time_frame>
+    <description>Aretrial oxygen saturation will be taken by an oximeter</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Days to clinical improvement</measure>
+    <time_frame>up to 7 days</time_frame>
+    <description>Number of days of patient discharge</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change Form Baseline in C reactive protein at 7 days</measure>
+    <time_frame>up to 7 days</time_frame>
+    <description>Blood samples will be taken on days 1 and 7</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change Form Baseline in IL-1β</measure>
+    <time_frame>up to 7 days</time_frame>
+    <description>Blood samples to analyse IL-1β will be taken on days 1 and 7.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change Form Baseline in Erythrocyte sedimentation rate like procalcitonin</measure>
+    <time_frame>up to 7 days</time_frame>
+    <description>Blood samples to analyse the Erythrocyte sedimentation rate like procalcitonin</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change Form Baseline in Ferritin levels</measure>
+    <time_frame>up to 7 days</time_frame>
+    <description>Blood samples to analyse Ferritin levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change Form Baseline in D dimer</measure>
+    <time_frame>up to 7 days</time_frame>
+    <description>Blood samples to analyse D dimer will be taken on days 1 and 7</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">46</enrollment>
+  <condition>Sars Cov 2</condition>
+  <arm_group>
+    <arm_group_label>Methylene blue treated group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients will be included in this group with the following symptoms: with at least one of the following symptoms: headache, nausea, dyspnea, myalgia, vomiting. Also that they meet the inclusion criteria</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Conventionally treated group</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients will be included in this group with the following symptoms: with at least one of the following symptoms: headache, nausea, dyspnea, myalgia, vomiting. Also that they meet the inclusion criteria</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Sublingual Methylene blue</intervention_name>
+    <description>Patients will be received the treatment as follow: it will be placed Low Level Light Therapy (LLLT) NocUlite on the ventral side of the wrist on full power. Draw out 1ml of diluted Prexablu into a syringe. Activate this syringe LLLT device for 10 minutes. Then place 1ml of this activated solution of Prexablu sublingually. Patients must keep the solution under the tongue for 10 minutes before swallowing. Keep wrist pads on patients for 50 minutes.</description>
+    <arm_group_label>Methylene blue treated group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Control patients</intervention_name>
+    <description>Control patients will be received the conventional treatment that may include analgesic, anti-inflammatory, antibiotic, steroid, antiplatelet, and anticoagulant.</description>
+    <arm_group_label>Conventionally treated group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients over 18 years of age&#xD;
+&#xD;
+          -  Of both sexes&#xD;
+&#xD;
+          -  Confirmed case of Covid-19 (by RT-PCR) and CT less than 32 in the E&#xD;
+&#xD;
+          -  That they go to the ER service due to COVID symptoms, and that they voluntarily agree&#xD;
+             to participate in the study by written the informed consent&#xD;
+&#xD;
+          -  With at least 1 of the following symptoms: fever, headache, nausea, dyspnea, myalgia,&#xD;
+             vomiting, or diarrhea&#xD;
+&#xD;
+          -  With chest X-ray without pneumonia criteria&#xD;
+&#xD;
+          -  With SO2&gt; 90&#xD;
+&#xD;
+          -  No history of allergic reaction to methylene blue&#xD;
+&#xD;
+          -  No history of treatment with medication with methylene blue negative interaction&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Pregnancy and breastfeeding&#xD;
+&#xD;
+          -  Preadmission anticoagulation&#xD;
+&#xD;
+          -  Severe renal insufficiency (glomerular filtration rate &lt;30 mL/min/1.73m2)&#xD;
+&#xD;
+          -  Active chronic hepatitis&#xD;
+&#xD;
+          -  Patients with history of allergic reaction or significant sensitivity to methylene&#xD;
+             blue&#xD;
+&#xD;
+          -  Treatment with immunosuppressive agents&#xD;
+&#xD;
+          -  Diagnosis of cancer at any stage and of any type.&#xD;
+&#xD;
+          -  Pregnancy and breastfeeding&#xD;
+&#xD;
+          -  Patients who plan to become pregnant during the study period or within 6 months after&#xD;
+             the end of the study period.&#xD;
+&#xD;
+          -  Participation in another clinical trial with an experimental drug in the last 30 days.&#xD;
+&#xD;
+          -  Other pathologies that, in the medical opinion, contraindicate participation in the&#xD;
+             study.&#xD;
+&#xD;
+          -  Uncompensated comorbidities&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Martha E. Rodríguez Arellano, MD</last_name>
+    <phone>52 5512999131</phone>
+    <email>marthaeunicer@yahoo.com.mx</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Robin Messier</last_name>
+    <phone>+18184343667</phone>
+    <email>robbin.messier@i-wellnessnetwork.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Hospital Regional Lic Adolfo Lopez Mateos</name>
+      <address>
+        <city>Mexico City</city>
+        <state>Ciudad De Mexico CDMX (Mexico City)</state>
+        <zip>01030</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Martha E. Rodríguez Arellano, MD</last_name>
+      <phone>+52 5512999131</phone>
+      <email>marthaeunicer@yahoo.com.mx</email>
+    </contact>
+    <contact_backup>
+      <last_name>Paula Costa Urrutia, PhD</last_name>
+      <phone>+52 5530395269</phone>
+      <email>paula.costa.urrutia@gmail.com</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>Mexico</country>
+  </location_countries>
+  <reference>
+    <citation>Wu Z, McGoogan JM. Characteristics of and Important Lessons From the Coronavirus Disease 2019 (COVID-19) Outbreak in China: Summary of a Report of 72 314 Cases From the Chinese Center for Disease Control and Prevention. JAMA. 2020 Apr 7;323(13):1239-1242. doi: 10.1001/jama.2020.2648.</citation>
+    <PMID>32091533</PMID>
+  </reference>
+  <reference>
+    <citation>Ji W, Wang W, Zhao X, Zai J, Li X. Cross-species transmission of the newly identified coronavirus 2019-nCoV. J Med Virol. 2020 Apr;92(4):433-440. doi: 10.1002/jmv.25682.</citation>
+    <PMID>31967321</PMID>
+  </reference>
+  <reference>
+    <citation>Baud D, Qi X, Nielsen-Saines K, Musso D, Pomar L, Favre G. Real estimates of mortality following COVID-19 infection. Lancet Infect Dis. 2020 Jul;20(7):773. doi: 10.1016/S1473-3099(20)30195-X. Epub 2020 Mar 12.</citation>
+    <PMID>32171390</PMID>
+  </reference>
+  <reference>
+    <citation>Backer JA, Klinkenberg D, Wallinga J. Incubation period of 2019 novel coronavirus (2019-nCoV) infections among travellers from Wuhan, China, 20-28 January 2020. Euro Surveill. 2020 Feb;25(5). doi: 10.2807/1560-7917.ES.2020.25.5.2000062.</citation>
+    <PMID>32046819</PMID>
+  </reference>
+  <reference>
+    <citation>Wang W, Xu Y, Gao R, Lu R, Han K, Wu G, Tan W. Detection of SARS-CoV-2 in Different Types of Clinical Specimens. JAMA. 2020 May 12;323(18):1843-1844. doi: 10.1001/jama.2020.3786.</citation>
+    <PMID>32159775</PMID>
+  </reference>
+  <reference>
+    <citation>Oz M, Lorke DE, Hasan M, Petroianu GA. Cellular and molecular actions of Methylene Blue in the nervous system. Med Res Rev. 2011 Jan;31(1):93-117. doi: 10.1002/med.20177. Review.</citation>
+    <PMID>19760660</PMID>
+  </reference>
+  <reference>
+    <citation>Bradberry SM. Occupational methaemoglobinaemia. Mechanisms of production, features, diagnosis and management including the use of methylene blue. Toxicol Rev. 2003;22(1):13-27. Review.</citation>
+    <PMID>14579544</PMID>
+  </reference>
+  <reference>
+    <citation>Barbosa P, Peters TM. The effects of vital dyes on living organisms with special reference to methylene blue and neutral red. Histochem J. 1971 Jan;3(1):71-93. Review.</citation>
+    <PMID>4106597</PMID>
+  </reference>
+  <reference>
+    <citation>Wainwright M, Crossley KB. Methylene Blue--a therapeutic dye for all seasons? J Chemother. 2002 Oct;14(5):431-43. Review.</citation>
+    <PMID>12462423</PMID>
+  </reference>
+  <reference>
+    <citation>Lee SK, Mills A. Novel photochemistry of leuco-Methylene Blue. Chem Commun (Camb). 2003 Sep 21;(18):2366-7.</citation>
+    <PMID>14518917</PMID>
+  </reference>
+  <reference>
+    <citation>Khan S, Alam F, Azam A, Khan AU. Gold nanoparticles enhance methylene blue-induced photodynamic therapy: a novel therapeutic approach to inhibit Candida albicans biofilm. Int J Nanomedicine. 2012;7:3245-57. doi: 10.2147/IJN.S31219. Epub 2012 Jun 29.</citation>
+    <PMID>22802686</PMID>
+  </reference>
+  <reference>
+    <citation>Wainwright M. Methylene blue derivatives--suitable photoantimicrobials for blood product disinfection? Int J Antimicrob Agents. 2000 Dec;16(4):381-94. Review.</citation>
+    <PMID>11118846</PMID>
+  </reference>
+  <reference>
+    <citation>Tardivo JP, Del Giglio A, de Oliveira CS, Gabrielli DS, Junqueira HC, Tada DB, Severino D, de Fátima Turchiello R, Baptista MS. Methylene blue in photodynamic therapy: From basic mechanisms to clinical applications. Photodiagnosis Photodyn Ther. 2005 Sep;2(3):175-91. doi: 10.1016/S1572-1000(05)00097-9. Epub 2005 Nov 21.</citation>
+    <PMID>25048768</PMID>
+  </reference>
+  <reference>
+    <citation>Tuite EM, Kelly JM. Photochemical interactions of methylene blue and analogues with DNA and other biological substrates. J Photochem Photobiol B. 1993 Dec;21(2-3):103-24. Review.</citation>
+    <PMID>8301408</PMID>
+  </reference>
+  <reference>
+    <citation>Eickmann M, Gravemann U, Handke W, Tolksdorf F, Reichenberg S, Müller TH, Seltsam A. Inactivation of Ebola virus and Middle East respiratory syndrome coronavirus in platelet concentrates and plasma by ultraviolet C light and methylene blue plus visible light, respectively. Transfusion. 2018 Sep;58(9):2202-2207. doi: 10.1111/trf.14652. Epub 2018 May 6.</citation>
+    <PMID>29732571</PMID>
+  </reference>
+  <reference>
+    <citation>Chatterjee GC, Noltmann EA. Dye-sensitized photooxidation as a tool for the elucidation of critical amino acid residues in phosphoglucose isomerase. Eur J Biochem. 1967 Jul;2(1):9-18.</citation>
+    <PMID>6079766</PMID>
+  </reference>
+  <reference>
+    <citation>Triesscheijn M, Baas P, Schellens JH, Stewart FA. Photodynamic therapy in oncology. Oncologist. 2006 Oct;11(9):1034-44. Review.</citation>
+    <PMID>17030646</PMID>
+  </reference>
+  <reference>
+    <citation>Faddy HM, Fryk JJ, Hall RA, Young PR, Reichenberg S, Tolksdorf F, Sumian C, Gravemann U, Seltsam A, Marks DC. Inactivation of yellow fever virus in plasma after treatment with methylene blue and visible light and in platelet concentrates following treatment with ultraviolet C light. Transfusion. 2019 Jul;59(7):2223-2227. doi: 10.1111/trf.15332. Epub 2019 May 3.</citation>
+    <PMID>31050821</PMID>
+  </reference>
+  <reference>
+    <citation>Fryk JJ, Marks DC, Hobson-Peters J, Watterson D, Hall RA, Young PR, Reichenberg S, Tolksdorf F, Sumian C, Gravemann U, Seltsam A, Faddy HM. Reduction of Zika virus infectivity in platelet concentrates after treatment with ultraviolet C light and in plasma after treatment with methylene blue and visible light. Transfusion. 2017 Nov;57(11):2677-2682. doi: 10.1111/trf.14256. Epub 2017 Jul 17.</citation>
+    <PMID>28718518</PMID>
+  </reference>
+  <reference>
+    <citation>Eickmann M, Gravemann U, Handke W, Tolksdorf F, Reichenberg S, Müller TH, Seltsam A. Inactivation of three emerging viruses - severe acute respiratory syndrome coronavirus, Crimean-Congo haemorrhagic fever virus and Nipah virus - in platelet concentrates by ultraviolet C light and in plasma by methylene blue plus visible light. Vox Sang. 2020 Apr;115(3):146-151. doi: 10.1111/vox.12888. Epub 2020 Jan 12.</citation>
+    <PMID>31930543</PMID>
+  </reference>
+  <reference>
+    <citation>Ziv G, Heavner JE. Permeability of the blood-milk barrier to methylene blue in cows and goats. J Vet Pharmacol Ther. 1984 Mar;7(1):55-9.</citation>
+    <PMID>6708167</PMID>
+  </reference>
+  <reference>
+    <citation>Albert M, Lessin MS, Gilchrist BF. Methylene blue: dangerous dye for neonates. J Pediatr Surg. 2003 Aug;38(8):1244-5.</citation>
+    <PMID>12891503</PMID>
+  </reference>
+  <reference>
+    <citation>Sills MR, Zinkham WH. Methylene blue-induced Heinz body hemolytic anemia. Arch Pediatr Adolesc Med. 1994 Mar;148(3):306-10. Review.</citation>
+    <PMID>8130867</PMID>
+  </reference>
+  <reference>
+    <citation>McFadyen I. The dangers of intra-amniotic methylene blue. Br J Obstet Gynaecol. 1992 Feb;99(2):89-90.</citation>
+    <PMID>1554680</PMID>
+  </reference>
+  <reference>
+    <citation>Dolk H. Methylene blue and atresia or stenosis of ileum and jejunum. EUROCAT Working Group. Lancet. 1991 Oct 19;338(8773):1021-2.</citation>
+    <PMID>1681328</PMID>
+  </reference>
+  <reference>
+    <citation>van der Pol JG, Wolf H, Boer K, Treffers PE, Leschot NJ, Hey HA, Vos A. Jejunal atresia related to the use of methylene blue in genetic amniocentesis in twins. Br J Obstet Gynaecol. 1992 Feb;99(2):141-3.</citation>
+    <PMID>1554667</PMID>
+  </reference>
+  <reference>
+    <citation>Iyengar B, Lal SK. Methylene blue and organised differentiation in the chick embryo. Acta Anat (Basel). 1985;123(4):220-3.</citation>
+    <PMID>4061041</PMID>
+  </reference>
+  <reference>
+    <citation>Tiboni GM, Lamonaca D. Transplacental exposure to methylene blue initiates teratogenesis in the mouse: preliminary evidence for a mechanistic implication of cyclic GMP pathway disruption. Teratology. 2001 Oct;64(4):213-20.</citation>
+    <PMID>11598927</PMID>
+  </reference>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>November 4, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 4, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 6, 2020</study_first_posted>
+  <last_update_submitted>November 9, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 9, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 12, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Hospital Reg. Lic. Adolfo Lopez Mateos</investigator_affiliation>
+    <investigator_full_name>M. Eunice Rodríguez Arellano</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>COVID-19</keyword>
+  <keyword>methylene blue</keyword>
+  <keyword>photodynamic interval therapy</keyword>
+  <keyword>outpatient</keyword>
+  <keyword>Mexico</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Methylene Blue</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

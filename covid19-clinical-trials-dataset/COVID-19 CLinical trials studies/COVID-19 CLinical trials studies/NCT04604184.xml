@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2632">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04604184</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1434-0009</org_study_id>
+    <secondary_id>2020-003211-96</secondary_id>
+    <nct_id>NCT04604184</nct_id>
+  </id_info>
+  <brief_title>ACTION ON COVID-19: A Study to Test Whether BI 764198 Helps Lung Health of People Hospitalised With COVID-19</brief_title>
+  <official_title>BI 764198 Efficacy and Safety in Prevention/Progression of ARDS and ARDS-related Complications Secondary to COVID-19 (ACTION ON COVID-19)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Boehringer Ingelheim</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Boehringer Ingelheim</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is open to adults with COVID-19 infection who are in hospital and receive oxygen.&#xD;
+      Participants need to be 50 years of age or older and need to be at risk of further worsening&#xD;
+      of their condition.&#xD;
+&#xD;
+      The purpose of the study is to find out whether a medicine called BI 764198 helps people with&#xD;
+      COVID-19 infection and breathing problems. BI 764198 may prevent cell death and swelling of&#xD;
+      the lung tissue and therefore help patients with COVID-19 infection.&#xD;
+&#xD;
+      Participants are put into 2 groups by chance. One group of participants gets BI 764198&#xD;
+      capsules and the other group gets placebo capsules. The placebo capsules look exactly like&#xD;
+      the BI 764198 capsules but do not contain any medicine. Participants take 1 capsule per day.&#xD;
+&#xD;
+      Participants are in the study for about a month. At study end, doctors compare the 2 groups&#xD;
+      for the number of patients that are alive and do not need mechanical breathing support.&#xD;
+      During the study, the doctors collect information on any health problems of the participants.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">November 3, 2020</start_date>
+  <completion_date type="Anticipated">May 26, 2021</completion_date>
+  <primary_completion_date type="Anticipated">March 20, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Patients alive and free of mechanical ventilation</measure>
+    <time_frame>At Day 29</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Patients alive and discharged free of oxygen</measure>
+    <time_frame>At Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Patients with occurrence of any component of composite: In-hospital mortality or intensive care unit (ICU) admission or mechanical ventilation</measure>
+    <time_frame>At Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to response</measure>
+    <time_frame>Up to Day 29</time_frame>
+    <description>Clinical improvement of at least 2 points (from randomisation) on the World Health Organization Clinical Progression Scale, discharge from the hospital, or considered fit for discharge (a score of 0, 1, 2, or 3 on the Clinical Progression Scale), whichever comes first. The scale provides a measure of illness severity across a range from 0 (not infected) to 10 (dead).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of ventilator free days</measure>
+    <time_frame>Up to Day 29</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>At Day 15, 29, 60 and 90</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">130</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Treatment group</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo group</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>BI 764198</intervention_name>
+    <description>BI 764198</description>
+    <arm_group_label>Treatment group</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo</description>
+    <arm_group_label>Placebo group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Age ≥ 50 years&#xD;
+&#xD;
+          -  SARS-CoV-2 infection positive confirmed by PCR or approved point-of-care test&#xD;
+&#xD;
+          -  A score of 5 (hospitalised; oxygen by mask or nasal prongs) or 6 (hospitalised; oxygen&#xD;
+             by non-invasive ventilation or high flow), but not previously ≥7, on the WHO Clinical&#xD;
+             Progression Scale.&#xD;
+&#xD;
+          -  Signed and dated written informed consent in accordance with ICH-GCP and local&#xD;
+             legislation prior to admission to the trial.&#xD;
+&#xD;
+          -  Male or female patients. Women of childbearing potential (WOCBP) and men able to&#xD;
+             father a child must abstain from male female sex or must use highly effective methods&#xD;
+             of birth control per ICH M3 (R2) that result in a low failure rate of less than 1% per&#xD;
+             year when used consistently and correctly during hospitalisation for at least 7 days&#xD;
+             after last trial drug intake&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Alanine aminotransferase (ALT)/aspartate aminotransferase (AST) &gt;5 × the upper limit&#xD;
+             of normal (ULN).&#xD;
+&#xD;
+          -  Known active infection with HIV or hepatitis B or C.&#xD;
+&#xD;
+          -  Pulmonary oedema/respiratory failure due to cardiogenic insult.&#xD;
+&#xD;
+          -  Previous to hospitalisation, on long-term oxygen therapy.&#xD;
+&#xD;
+          -  A confirmed baseline prolongation of QTc interval to greater than 450 ms in males or&#xD;
+             470 ms in females according to the Bazett formula, or any other relevant ECG finding&#xD;
+             at screening, or concomitant use of medication prolonging QT interval.&#xD;
+&#xD;
+          -  Stage 4 severe chronic kidney disease or requiring dialysis (i.e., eGFR &lt;30&#xD;
+             mL/min/1.73 m2).&#xD;
+&#xD;
+        History of the following cardiac conditions:&#xD;
+&#xD;
+          -  Myocardial infarction within 3 months prior to the first dose&#xD;
+&#xD;
+          -  Unstable angina&#xD;
+&#xD;
+          -  History of clinically significant long QT features on electrocardiogram (ECG) or&#xD;
+             history of familial long QT&#xD;
+&#xD;
+               -  Anticipated transfer/discharge to another hospital or care facility other than&#xD;
+                  their place of residence&#xD;
+&#xD;
+               -  Further exclusion criteria apply&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>50 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Boehringer Ingelheim</last_name>
+    <phone>1-800-243-0127</phone>
+    <email>clintriage.rdg@boehringer-ingelheim.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of California Irvine</name>
+      <address>
+        <city>Orange</city>
+        <state>California</state>
+        <zip>92868</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Richard Lee</last_name>
+      <phone>+001 (714) 456-3597</phone>
+      <email>richaral@hs.uci.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Rapides Regional Medical Center</name>
+      <address>
+        <city>Alexandria</city>
+        <state>Louisiana</state>
+        <zip>71301</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Naseem Jaffrani</last_name>
+      <phone>+001 (318) 308-7007</phone>
+      <email>njaffrani@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>St. Elizabeth's Medical Center</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02135</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Peter LaCamera</last_name>
+      <phone>+001 (617) 789-2078</phone>
+      <email>peter.lacamera@steward.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Newton-Wellesley Hospital</name>
+      <address>
+        <city>Newton</city>
+        <state>Massachusetts</state>
+        <zip>02462</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Harry Schrager</last_name>
+      <phone>+001 (617) 243-6000</phone>
+      <email>hschrager@partners.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Mercy Health St. Vincent Medical Center</name>
+      <address>
+        <city>Toledo</city>
+        <state>Ohio</state>
+        <zip>43608</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Salil Avasthi</last_name>
+      <phone>+001 (419) 251-4919</phone>
+      <email>savasthi@mercy.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Providence Regional Medical Center</name>
+      <address>
+        <city>Everett</city>
+        <state>Washington</state>
+        <zip>98201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>George Diaz</last_name>
+      <phone>+001 (425) 261-4905</phone>
+      <email>George.Diaz@providence.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>MultiCare Tacoma General Hospital</name>
+      <address>
+        <city>Tacoma</city>
+        <state>Washington</state>
+        <zip>98405</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Patrick Meehan</last_name>
+      <phone>+001 (253) 403-7251</phone>
+      <email>pmeehan@multicare.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>IPECC - Instituto de Pesquisa Clínica de Campinas</name>
+      <address>
+        <city>Campinas</city>
+        <zip>13060-080</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>José Francisco Saraiva</last_name>
+      <phone>+55 19 3343 8450</phone>
+      <email>jfsaraiva@uol.com.br</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Regional Hans Dieter Schmidt</name>
+      <address>
+        <city>Santa Catarina</city>
+        <zip>89227</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Conrado Hoffman Filho</last_name>
+      <phone>55 (47) 3025-7079</phone>
+      <email>conrado@corsanus.com.br</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Cardiologica Aguascalientes</name>
+      <address>
+        <city>Aguascalientes</city>
+        <zip>20230</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Francisco Marquez Díaz</last_name>
+      <phone>4499154000, ext. 314</phone>
+      <email>francisco.marquez.md@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital General de Culiacán &quot;Dr. Bernardo J. Gastellum&quot;</name>
+      <address>
+        <city>Culiacán</city>
+        <zip>80230</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jorge Zamudio Lerma</last_name>
+      <phone>0052 667 715 7919</phone>
+      <email>jorgezamudio2000@hotmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Dr Jose Eleuterio Gonzalez</name>
+      <address>
+        <city>Monterrey</city>
+        <zip>64460</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Luis Adrian Rendon Perez</last_name>
+      <phone>52 81 83338111 ext 408</phone>
+      <email>adrianrendon@hotmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Auxilio Mutuo</name>
+      <address>
+        <city>Hato Rey</city>
+        <zip>00919</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alvaro Aranda-Rodriguez</last_name>
+      <phone>+001 (787) 397-8809</phone>
+      <email>alvaroacc@aol.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Municipal de San Juan</name>
+      <address>
+        <city>Rio Piedras</city>
+        <zip>00936</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ricardo Fernandez-Gonzalez</last_name>
+      <phone>+001 (787) 755-4245</phone>
+      <email>rfernandezg74@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital A Coruña</name>
+      <address>
+        <city>A Coruña</city>
+        <zip>15006</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Enrique Míguez</last_name>
+      <phone>+34981178000</phone>
+      <email>enrique.miguez.rey@sergas.es</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Universitario Infanta Leonor</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28031</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jesús Troya García</last_name>
+      <phone>+34911918281</phone>
+      <email>jestrogar@hotmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Clínico San Carlos</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28040</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Vicente Estrada</last_name>
+      <phone>+34913303000</phone>
+      <email>vicente.estrada@salud.madrid.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Son Espases</name>
+      <address>
+        <city>Palma de Mallorca</city>
+        <zip>07120</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Melchor Riera Jaume</last_name>
+      <phone>+34871205000</phone>
+      <email>melchor.riera@ssib.es</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+    <country>Mexico</country>
+    <country>Puerto Rico</country>
+    <country>Spain</country>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://www.mystudywindow.com/</url>
+    <description>Related Info</description>
+  </link>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>October 26, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 26, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 27, 2020</study_first_posted>
+  <last_update_submitted>January 26, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 26, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 27, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>After the study is completed and the primary manuscript is accepted for publishing, researchers can use this following link https://trials.boehringer-ingelheim.com/trial_results/clinical_submission_documents.html to request access to the clinical study documents regarding this study, and upon a signed &quot;Document Sharing Agreement&quot;.&#xD;
+Also, Researchers can use the following link http://trials.boehringer-ingelheim.com/ to find information in order to request access to the clinical study data, for this and other listed studies, after the submission of a research proposal and according to the terms outlined in the website.&#xD;
+The data shared are the raw clinical study data sets.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Clinical Study Report (CSR)</ipd_info_type>
+    <ipd_time_frame>After all regulatory activities are completed in the US and EU for the product and indication, and after the primary manuscript has been accepted for publication.</ipd_time_frame>
+    <ipd_access_criteria>For study documents - upon signing of a 'Document Sharing Agreement'. For study data - 1. after the submission and approval of the research proposal (checks will be performed by both the independent review panel and the sponsor, including checking that the planned analysis does not compete with sponsor's publication plan); 2. and upon signing of a 'Data Sharing Agreement'.</ipd_access_criteria>
+    <ipd_url>https://trials.boehringer-ingelheim.com</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

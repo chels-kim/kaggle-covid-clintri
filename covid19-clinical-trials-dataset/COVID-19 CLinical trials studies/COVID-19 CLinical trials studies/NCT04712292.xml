@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2667">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04712292</url>
+  </required_header>
+  <id_info>
+    <org_study_id>854/2020/Oss/AOUBo</org_study_id>
+    <nct_id>NCT04712292</nct_id>
+  </id_info>
+  <brief_title>Effects of COVID-19 Pandemic on the Diagnosis and Outcomes of Colorectal Cancer (COVID-CRC)</brief_title>
+  <acronym>COVID-CRC</acronym>
+  <official_title>Impact of the Healthcare Lockdown Due to COVID-19 Pandemic on the Diagnosis, Treatment and Outcomes of Patients Affected by Colorectal Cancer Requiring Surgery: Results From a Retrospective Multicentric Study in Northern Italy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Matteo Rottoli</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Bologna</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection has been identified as&#xD;
+      the cause of the Coronavirus disease 19 (COVID-19), which was initially reported in December&#xD;
+      2019 in China and has since rapidly spread worldwide. Italy, in particular, witnessed the&#xD;
+      rapid and uncontrolled spread of the infection between March and May 2020, and a worrisome&#xD;
+      increasing number of related deaths which rapidly surpassed those of China.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection has been identified as&#xD;
+      the cause of the Coronavirus disease 19 (COVID-19), which was initially reported in December&#xD;
+      2019 in China and has since rapidly spread worldwide. Italy, in particular, witnessed the&#xD;
+      rapid and uncontrolled spread of the infection between March and May 2020, and a worrisome&#xD;
+      increasing number of related deaths which rapidly surpassed those of China.&#xD;
+&#xD;
+      The need for increased capacity for COVID-19 patients required elective activities to be&#xD;
+      drastically reduced or canceled. In the Northern regions of Italy, which were hit the most&#xD;
+      during the first peak of COVID-19 pandemic, the unprecedented stress on the healthcare system&#xD;
+      was associated with the reduction of the elective surgery and the cancer screening programs,&#xD;
+      including that of colorectal cancer. Studies predicting harmful impact of the COVID-19&#xD;
+      pandemic on cancer care have been already published. However, it has not been proved whether&#xD;
+      the potential delay of diagnosis and treatment could have a measurable effect on patients&#xD;
+      undergoing surgery for colorectal cancer between March and December 2020.&#xD;
+&#xD;
+      The aim of the study is therefore to compare the characteristics of patients, the time&#xD;
+      between the onset of symptoms and the diagnosis, the oncologic stage, the therapeutic&#xD;
+      treatment and the postoperative outcomes between patients undergoing surgery for cancer of&#xD;
+      the colon and rectum between March and December 2020 and those who had surgery for colorectal&#xD;
+      cancer between March and December 2019.&#xD;
+&#xD;
+      Anonimyzed data will be retrospectively collected on a RedCap platform hosted on the servers&#xD;
+      of the Alma Mater Studiorum University of Bologna. The variables included demographic&#xD;
+      characteristics, comorbidities, details of the disease at the diagnosis, details of the&#xD;
+      neoadjuvant therapy, perioperative variables and 30-day postoperative follow-up variables.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 8, 2020</start_date>
+  <completion_date type="Anticipated">February 28, 2021</completion_date>
+  <primary_completion_date type="Anticipated">January 31, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Oncologic stage according to TNM classification</measure>
+    <time_frame>30 days from the surgery</time_frame>
+    <description>The stage will be reported at the histological examination</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>30-day outcome</measure>
+    <time_frame>30 days from the surgery</time_frame>
+    <description>The study will measure the onset of complications at 30 day postoperatively</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">2000</enrollment>
+  <condition>Colorectal Neoplasms Malignant</condition>
+  <arm_group>
+    <arm_group_label>Study group</arm_group_label>
+    <description>Patients undergoing surgery for confirmed colorectal cancer between March and December 2020</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <description>Patients undergoing surgery for confirmed colorectal cancer between March and December 2019</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Surgical procedure for cancer</intervention_name>
+    <description>Surgical procedure for cancer may include right or left hemicolectomy, rectal resection, abdomino-perineal resection, total colectomy, proctocolectomy, and others depending on the tumor site and other tumor characteristics. Both groups may undergo the same procedures.</description>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_label>Study group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The study will include all patients with a confirmed diagnosis of colorectal cancer&#xD;
+        undergoing surgery within the study periods&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        Histologically confirmed cancer of the colon or the rectum Palliative surgery&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Benign disease Lack of relevant details&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Matteo Rottoli, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Sant'Orsola Hospital, Alma Mater Studiorum University of Bologna</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Matteo Rottoli, MD, PhD</last_name>
+    <phone>+393339042767</phone>
+    <email>matteo.rottoli2@unibo.it</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Rho Memorial Hospital</name>
+      <address>
+        <city>Rho</city>
+        <state>Milan</state>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gianluca Sampietro, MD</last_name>
+      <email>gianluca.sampietro@unimi.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Humanitas Research Center</name>
+      <address>
+        <city>Rozzano</city>
+        <state>Milan</state>
+        <zip>40100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Antonino Spinelli, MD</last_name>
+      <email>antonino.spinelli@humanitas.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Humanitas Gavazzeni Hospital</name>
+      <address>
+        <city>Bergamo</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Orlando Goletti, MD</last_name>
+      <email>orlando.goletti@gavazzeni.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Policlinico San Marco</name>
+      <address>
+        <city>Bergamo</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stefano Olmi, MD</last_name>
+      <email>stefano.olmi@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Maggiore Hospital</name>
+      <address>
+        <city>Bologna</city>
+        <zip>40100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Elio Jovine, MD</last_name>
+      <email>elio.jovine@ausl.bologna.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Fondazione Poliambulanza</name>
+      <address>
+        <city>Brescia</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Moh'd Abu Hilal</last_name>
+      <email>mohd.abuhilal@poliambulanza.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Spedali Civili</name>
+      <address>
+        <city>Brescia</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nazario Portolani</last_name>
+      <email>nazario.portolani@unibs.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Spedali Civili</name>
+      <address>
+        <city>Brescia</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Giusto Pignata</last_name>
+      <email>giusto.pignata@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Istituto Europeo di Oncologia</name>
+      <address>
+        <city>Milan</city>
+        <zip>20100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Uberto R Fumagalli</last_name>
+      <email>uberto.fumagalliromario@ieo.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Sacco Hospital</name>
+      <address>
+        <city>Milan</city>
+        <zip>20100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Piergiorgio Danelli, MD</last_name>
+      <email>piergiorgio.danelli@unimi.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>San Raffaele Hospital</name>
+      <address>
+        <city>Milan</city>
+        <zip>20100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Riccardo Rosati, MD</last_name>
+      <email>rosati.riccardo@hsr.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Istituto Nazionale dei Tumori</name>
+      <address>
+        <city>Milan</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Maurizio Cosimelli, MD</last_name>
+      <email>mcosimelli@libero.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Policlinic of Milan</name>
+      <address>
+        <city>Milan</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Luigi Boni, MD</last_name>
+      <email>luigi.boni@unimi.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>San Paolo Hospital</name>
+      <address>
+        <city>Milan</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Enrico Opocher, MD</last_name>
+      <email>enrico.opocher@unimi.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Istituto Oncologico Veneto</name>
+      <address>
+        <city>Padova</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Pierluigi Pilati</last_name>
+      <email>pierluigi.pilati@iov.veneto.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Padova University Hospital</name>
+      <address>
+        <city>Padova</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Salvatore Pucciarelli</last_name>
+      <email>puc@unipd.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>San Matteo Hospital</name>
+      <address>
+        <city>Pavia</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Andrea Pietrabissa</last_name>
+      <email>andrea.pietrabissa@gmail.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Città della salute</name>
+      <address>
+        <city>Turin</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mario Morino</last_name>
+      <email>mario.morino@unito.it</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Mauriziano Hospital</name>
+      <address>
+        <city>Turin</city>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alessandro Ferrero</last_name>
+      <email>aferrero@mauriziano.it</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <results_reference>
+    <citation>Greenwood E, Swanton C. Consequences of COVID-19 for cancer care - a CRUK perspective. Nat Rev Clin Oncol. 2021 Jan;18(1):3-4. doi: 10.1038/s41571-020-00446-0.</citation>
+    <PMID>33097915</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Jazieh AR, Akbulut H, Curigliano G, Rogado A, Alsharm AA, Razis ED, Mula-Hussain L, Errihani H, Khattak A, De Guzman RB, Mathias C, Alkaiyat MOF, Jradi H, Rolfo C; International Research Network on COVID-19 Impact on Cancer Care. Impact of the COVID-19 Pandemic on Cancer Care: A Global Collaborative Study. JCO Glob Oncol. 2020 Sep;6:1428-1438. doi: 10.1200/GO.20.00351.</citation>
+    <PMID>32986516</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Torzilli G, Viganò L, Galvanin J, Castoro C, Quagliuolo V, Spinelli A, Zerbi A, Donadon M, Montorsi M; COVID-SURGE-ITA group. A Snapshot of Elective Oncological Surgery in Italy During COVID-19 Emergency: Pearls, Pitfalls, and Perspectives. Ann Surg. 2020 Aug;272(2):e112-e117. doi: 10.1097/SLA.0000000000004081.</citation>
+    <PMID>32675512</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Mitchell EP. Declines in Cancer Screening During COVID-19 Pandemic. J Natl Med Assoc. 2020 Dec;112(6):563-564. doi: 10.1016/j.jnma.2020.12.004.</citation>
+    <PMID>33339569</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Onder G, Rezza G, Brusaferro S. Case-Fatality Rate and Characteristics of Patients Dying in Relation to COVID-19 in Italy. JAMA. 2020 May 12;323(18):1775-1776. doi: 10.1001/jama.2020.4683. Erratum in: JAMA. 2020 Apr 28;323(16):1619.</citation>
+    <PMID>32203977</PMID>
+  </results_reference>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>January 13, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 14, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 15, 2021</study_first_posted>
+  <last_update_submitted>January 14, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 14, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 15, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>University of Bologna</investigator_affiliation>
+    <investigator_full_name>Matteo Rottoli</investigator_full_name>
+    <investigator_title>Professor</investigator_title>
+  </responsible_party>
+  <keyword>colorectal cancer</keyword>
+  <keyword>diagnosis</keyword>
+  <keyword>screening</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>surgery</keyword>
+  <keyword>outcomes</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Colorectal Neoplasms</mesh_term>
+    <mesh_term>Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

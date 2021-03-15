@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="2616">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04640428</url>
+  </required_header>
+  <id_info>
+    <org_study_id>COVID SALES 2</org_study_id>
+    <nct_id>NCT04640428</nct_id>
+  </id_info>
+  <brief_title>COVID-19 Stroke Apical Lung Examination Study</brief_title>
+  <official_title>COVID-19 Stroke Apical Lung Examination Study - A Multi-centre Prospective Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>King's College Hospital NHS Trust</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute for Health Research, United Kingdom</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>King's College Hospital NHS Trust</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Multi-centre prospective study evaluating computed tomography angiography studies performed&#xD;
+      for stroke patients as a diagnostic and prognostic imaging biomarker.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Diagnosis of coronavirus disease 2019 (COVID-19) relies on clinical features and&#xD;
+      reverse-transcriptase polymerase chain reaction (RT-PCR) testing. The latter is constrained&#xD;
+      by limited sensitivity and a timescale of hours to yield results, with no point-of-care test&#xD;
+      widely available. A dedicated computed tomography study of the chest is likely to be more&#xD;
+      sensitive than RT-PCR for COVID-19. Carotid computed tomography angiography (CTA) is a&#xD;
+      routine acute stroke investigation and includes the lung apices. We aim to assess the lung&#xD;
+      apices on CTA for ground glass opacification and compare this with COVID-19 RT-PCR test&#xD;
+      results and clinical outcome measures.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">May 26, 2020</start_date>
+  <completion_date type="Anticipated">April 30, 2021</completion_date>
+  <primary_completion_date type="Anticipated">February 27, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Accuracy of the computed tomography angiography biomarker relative to the COVID-19 RT-PCR test</measure>
+    <time_frame>1 month</time_frame>
+    <description>Defined by sensitivity, specificity, positive and negative predictive values</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Prognostic value of the computed tomography biomarker</measure>
+    <time_frame>1 month</time_frame>
+    <description>Defined by its relationship with 30 day mortality and modified rankin scale following treatment</description>
+  </secondary_outcome>
+  <enrollment type="Anticipated">1000</enrollment>
+  <condition>Covid19</condition>
+  <condition>Stroke, Acute</condition>
+  <condition>Stroke, Ischemic</condition>
+  <condition>Stroke Hemorrhagic</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All adult patients presenting to participating centres with clinical features of acute&#xD;
+        ischaemic stroke undergoing investigation with computed tomography angiography at&#xD;
+        presentation.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        All adult patients presenting with clinical features of acute ischaemic stroke undergoing&#xD;
+        investigation with computed tomography angiography at presentation.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Poor image quality. No radiologist report available. Computed tomography angiography&#xD;
+        performed in a non-acute setting.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Nathan Chan, FRCR</last_name>
+    <phone>+44(0)7508192126</phone>
+    <email>nathan.chan3@nhs.net</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Tom Booth, FRCR</last_name>
+    <phone>+44(0)2032993279</phone>
+    <email>tom.booth@kcl.ac.uk</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>King's College Hospital</name>
+      <address>
+        <city>London</city>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Thomas Booth</last_name>
+      <phone>02078489568</phone>
+      <email>thomas.booth@kcl.ac.uk</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>November 20, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 20, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 23, 2020</study_first_posted>
+  <last_update_submitted>January 26, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 26, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 29, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID</keyword>
+  <keyword>stroke</keyword>
+  <keyword>CT</keyword>
+  <keyword>CTA</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Stroke</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

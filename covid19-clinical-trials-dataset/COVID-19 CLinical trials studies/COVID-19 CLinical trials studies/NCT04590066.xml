@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="4914">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04590066</url>
+  </required_header>
+  <id_info>
+    <org_study_id>843523-Trial B</org_study_id>
+    <nct_id>NCT04590066</nct_id>
+  </id_info>
+  <brief_title>Testing Multiple Behavioral Science Strategies to Increase Flu-Shot Rates at a Large Retail Pharmacy</brief_title>
+  <official_title>Testing Multiple Behavioral Science Strategies to Increase Flu-Shot Rates at a Large Retail Pharmacy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Pennsylvania</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Pennsylvania</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This research aims to identify which behavioral science strategies are most effective at&#xD;
+      increasing flu vaccination rates overall and based on patients' individual characteristics.&#xD;
+      Past behavioral science interventions have shown promise in increasing flu vaccinations. For&#xD;
+      example, successful interventions have encouraged people to make concrete plans for when they&#xD;
+      will get a flu vaccination, sent automated calls or text messages reminding patients to get a&#xD;
+      flu vaccination , or provided financial incentives for getting vaccinated. Although these&#xD;
+      results are promising, these studies have been conducted in isolation on different&#xD;
+      populations, which makes it difficult to compare their interventions' effectiveness or to&#xD;
+      have enough power to reliably detect differing responses to interventions based on individual&#xD;
+      characteristics.&#xD;
+&#xD;
+      This research will simultaneously test 22 different SMS interventions to increase flu&#xD;
+      vaccinations compared to a holdout control condition in a &quot;mega-study&quot; and apply machine&#xD;
+      learning to identify which interventions work best for whom. The interventions are designed&#xD;
+      by behavioral science experts from the Behavior Change for Good Initiative (BCFG), Penn&#xD;
+      Medicine Nudge Unit (PMNU), and Geisinger Behavioral Insights Team (BIT). Customers of a&#xD;
+      large retail pharmacy who received a flu shot from the pharmacy last year and receive SMS&#xD;
+      notifications will be included in this study. We expect this to include approximately 1.2&#xD;
+      million participants.&#xD;
+&#xD;
+      The specific aims of this research are to identify (1) which behavioral science strategies&#xD;
+      effectively increase flu vaccination rates overall, and (2) which strategies are most&#xD;
+      effective for different subgroups (e.g., based on age, gender, race).&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">September 25, 2020</start_date>
+  <completion_date type="Actual">December 31, 2020</completion_date>
+  <primary_completion_date type="Actual">December 31, 2020</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Participants will be randomly assigned to the different arms.</intervention_model_description>
+    <primary_purpose>Health Services Research</primary_purpose>
+    <masking>Double (Care Provider, Outcomes Assessor)</masking>
+    <masking_description>As treated participants will receive text messages, there is no scope for blinding. Care providers will not be made aware of subjects' participation in the study, or assigned treatment arms. The study team will only receive data on subjects' assigned arms and outcomes at the end of the study.</masking_description>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Whether participants receive a flu shot vaccination at our pharmacy partner by December 31, 2020</measure>
+    <time_frame>98 days</time_frame>
+    <description>The primary outcome measure is whether participants receive a flu shot at our retail pharmacy partner by December 31, 2020 (as recorded in their pharmacy records) after receiving the SMS intervention on September 25, 2020.&#xD;
+Participants who receive a flu shot before September 25, 2020 when they received the SMS intervention will be excluded from the analyses.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Whether participants receive a flu shot vaccination at our pharmacy partner by October 31, 2020</measure>
+    <time_frame>37 days</time_frame>
+    <description>The secondary outcome measure is whether participants receive a flu shot at our retail pharmacy partner by October 31, 2020 (as recorded in their pharmacy records) after receiving the SMS intervention on September 25, 2020.&#xD;
+Participants who receive a flu shot before they receive the SMS intervention on September 25, 2020 will be excluded from the analyses.</description>
+  </secondary_outcome>
+  <number_of_arms>23</number_of_arms>
+  <enrollment type="Actual">734383</enrollment>
+  <condition>Influenza, Human</condition>
+  <arm_group>
+    <arm_group_label>Holdout control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Participants will only receive the standard pharmacy messaging.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Unpacking Risks Treatment</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will be asked to think about the risks of catching the flu this flu season and to respond with the location they are most likely to catch the flu out of a list of given options (e.g. at work, at home).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Unpacking Risks Control</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will be asked to think about the risks of catching the flu this flu season and to respond to confirm that they have received the message.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Active Commitment Treatment</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants receive a gain framed notification that they are eligible for a flu shot. In addition, participants are told &quot;Many people find it helpful to make a plan to get their shot&quot; and are asked to commit by texting back &quot;I will get a flu shot.&quot; Depending on their response, participants receive a general reminder or a commitment reminder 3 days later.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Active Commitment Control</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants receive a gain framed notification that they are eligible for a flu shot. Participants receive a general reminder 3 days later.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Self-Generated Social Norms Treatment</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will first receive a message enjoining them to consider 2 peers who would want them to vaccinate. Then they will be asked to do those peers a favor by getting a vaccine at their next opportunity. They will receive a reminder 3 days later.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Self-Generated Social Norms Control</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>articipants will be informed of the opportunity to receive a flu vaccine at their appointment. They will receive a reminder 3 days later.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Foot-in-the-Door Treatment</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will first receive a message enjoining them to encourage someone else to receive a flu vaccine this year. They will then be given a message that they might copy-paste to forward to friends, thereby lowering the effort costs of messaging others. They will receive a reminder 3 days later.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Foot-in-the-Door Control</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will be informed of the opportunity to receive a flu vaccine at their appointment. They will receive a reminder 3 days later.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Prosocial Condition</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive a message describing the condition-specific benefit of getting a flu shot, and a reminder to ask for their flu shot. The message will also give prosocial reasons for vaccinating (i.e., protecting loved ones; preserving scarce resources).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Self-Oriented Condition</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive a message describing the condition-specific benefit of getting a flu shot, and a reminder to ask for their flu shot.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Prosocial + COVID-19</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive a message describing the condition-specific benefit of getting a flu shot, and a reminder to ask for their flu shot. The message will also give prosocial reasons for vaccinating (e.g., protecting loved ones; preserving scarce resources). The message will also emphasize the pandemic (e.g., risk of hospital-acquired COVID-19 infection; wasting scarce resources).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Self-Oriented + COVID-19</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive a message describing the condition-specific benefit of getting a flu shot, and a reminder to ask for their flu shot. The message will also emphasize the pandemic (e.g., risk of hospital-acquired COVID-19 infection; wasting scarce resources).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Dynamic + Static Norm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive a text message encouraging them to get a flu shot and informing them that more American adults are getting their flu shot than ever before and how many Americans got their flu shot last year.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Dynamic Norm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive a text message encouraging them to get a flu shot and informing them that more American adults are getting their flu shot than ever before.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Dynamic Norms Control</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will only receive a text message encouraging them to get a flu shot. They will not receive any norm information.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Sharing Humor</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive a text message encouraging them to get the flu shot. The message will include a joke about the flu and will encourage participants to share the joke with nurses, doctors, or pharmacists.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Humor Placebo</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive a text message encouraging them to get the flu shot. This message will include the same joke but participants will not be encouraged to share it.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>No Humor Condition</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive a text message encouraging them to get the flu shot.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Connecting the Past Self to the Future Self Treatment</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive a text message prompt to recall the negative experience of getting sick. When asked, &quot;Do you wish you could have avoided getting sick by getting a simple shot?&quot;, participants will have the chance to respond Y for yes or N for no. Regardless of their response, they will be prompted with a second text message to connect their past experience with present-day opportunities for preventative care (getting a flu shot) to protect the future self from the flu.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Connecting the Past Self to the Future Self Control</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>In the first text message, participants will receive a simple text message encouragement to receive a flu shot. In the second text message, they will receive a reminder of the appointment time and provider name.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Reverse Inference Condition</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive a text message encouraging them to get a flu shot and informing them that Americans who get flu shots are healthier, wealthier, and more educated.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Reverse Inference Control Condition</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive a text message encouraging them to get a flu shot and informing them that Americans who get flu shots are less likely to get the flu.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Flu shot text messages</intervention_name>
+    <description>Participants will receive text messages per descriptions listed in the arms.</description>
+    <arm_group_label>Active Commitment Control</arm_group_label>
+    <arm_group_label>Active Commitment Treatment</arm_group_label>
+    <arm_group_label>Connecting the Past Self to the Future Self Control</arm_group_label>
+    <arm_group_label>Connecting the Past Self to the Future Self Treatment</arm_group_label>
+    <arm_group_label>Dynamic + Static Norm</arm_group_label>
+    <arm_group_label>Dynamic Norm</arm_group_label>
+    <arm_group_label>Dynamic Norms Control</arm_group_label>
+    <arm_group_label>Foot-in-the-Door Control</arm_group_label>
+    <arm_group_label>Foot-in-the-Door Treatment</arm_group_label>
+    <arm_group_label>Humor Placebo</arm_group_label>
+    <arm_group_label>No Humor Condition</arm_group_label>
+    <arm_group_label>Prosocial + COVID-19</arm_group_label>
+    <arm_group_label>Prosocial Condition</arm_group_label>
+    <arm_group_label>Reverse Inference Condition</arm_group_label>
+    <arm_group_label>Reverse Inference Control Condition</arm_group_label>
+    <arm_group_label>Self-Generated Social Norms Control</arm_group_label>
+    <arm_group_label>Self-Generated Social Norms Treatment</arm_group_label>
+    <arm_group_label>Self-Oriented + COVID-19</arm_group_label>
+    <arm_group_label>Self-Oriented Condition</arm_group_label>
+    <arm_group_label>Sharing Humor</arm_group_label>
+    <arm_group_label>Unpacking Risks Control</arm_group_label>
+    <arm_group_label>Unpacking Risks Treatment</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Have agreed to receive SMS messages from the pharmacy&#xD;
+&#xD;
+          2. Received a flu shot from the pharmacy in the 2019-2020 flu season, as documented in&#xD;
+             their pharmacy records.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        -&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>University of Pennsylvania</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Cutrona SL, Golden JG, Goff SL, Ogarek J, Barton B, Fisher L, Preusse P, Sundaresan D, Garber L, Mazor KM. Improving Rates of Outpatient Influenza Vaccination Through EHR Portal Messages and Interactive Automated Calls: A Randomized Controlled Trial. J Gen Intern Med. 2018 May;33(5):659-667. doi: 10.1007/s11606-017-4266-9. Epub 2018 Jan 30.</citation>
+    <PMID>29383550</PMID>
+  </reference>
+  <reference>
+    <citation>Milkman KL, Beshears J, Choi JJ, Laibson D, Madrian BC. Using implementation intentions prompts to enhance influenza vaccination rates. Proc Natl Acad Sci U S A. 2011 Jun 28;108(26):10415-20. doi: 10.1073/pnas.1103170108. Epub 2011 Jun 13.</citation>
+    <PMID>21670283</PMID>
+  </reference>
+  <reference>
+    <citation>Regan AK, Bloomfield L, Peters I, Effler PV. Randomized Controlled Trial of Text Message Reminders for Increasing Influenza Vaccination. Ann Fam Med. 2017 Nov;15(6):507-514. doi: 10.1370/afm.2120.</citation>
+    <PMID>29133488</PMID>
+  </reference>
+  <reference>
+    <citation>Nowalk MP, Lin CJ, Toback SL, Rousculp MD, Eby C, Raymund M, Zimmerman RK. Improving influenza vaccination rates in the workplace: a randomized trial. Am J Prev Med. 2010 Mar;38(3):237-46. doi: 10.1016/j.amepre.2009.11.011. Epub 2009 Dec 24.</citation>
+    <PMID>20036102</PMID>
+  </reference>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>October 2, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 9, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 19, 2020</study_first_posted>
+  <last_update_submitted>January 29, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 29, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 1, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Influenza vaccination</keyword>
+  <keyword>behavioral science interventions</keyword>
+  <keyword>vaccination promotion</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Influenza, Human</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

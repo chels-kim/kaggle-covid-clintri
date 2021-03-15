@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="3392">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04725084</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2021-CHITS-001</org_study_id>
+    <nct_id>NCT04725084</nct_id>
+  </id_info>
+  <brief_title>Comparison of Non-invasive Oxygenation Strategies in Patients Admitted for Covid-19 Acute Respiratory Distress Syndrome</brief_title>
+  <acronym>SONIC-19</acronym>
+  <official_title>Comparison of Non-invasive Oxygenation Strategies in ICU Patients Admitted for Covid-19 Acute Respiratory Distress Syndrome</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Centre Hospitalier Intercommunal de Toulon La Seyne sur Mer</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Centre Hospitalier Intercommunal de Toulon La Seyne sur Mer</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Acute Respiratory Distress Syndrome (ARDS) is the main clinical presentation of SARS-CoV-2&#xD;
+      (Covid-19) infected patients admitted in Intensive Care Unit (ICU).&#xD;
+&#xD;
+      During the first phase of the outbreak (between February and May 2020), the use of invasive&#xD;
+      Mechanical Ventilation (MV) was largely required with 63% of ICU patients intubated in the&#xD;
+      first 24 hours after admission and up to 80% of patients during the overall ICU stay.&#xD;
+      Mortality was especially higher when using MV in the first 24 hours. In contrast, the use of&#xD;
+      non-invasive oxygenation strategies in the first 24 hours was only 19% for High Flow Nasal&#xD;
+      Cannula oxygen therapy (HFNC) and 6% for Non-Invasive Ventilation (NIV).&#xD;
+&#xD;
+      Several non-invasive oxygenation strategies were proposed in order to delay or avoid MV in&#xD;
+      ICU patients suffering from Covid-19 ARDS. The use of HFNC became the recommended oxygenation&#xD;
+      strategy, based in particular on publications prior to the outbreak. The use of NIV or&#xD;
+      Continuous Positive Airway Pressure (CPAP) combined with HFNC have also been proposed.&#xD;
+      Although these non-invasive oxygenation strategies seem widely used in the second phase of&#xD;
+      the outbreak, they have not yet confirmed their clinical impact on MV requirement and&#xD;
+      patient's outcome. Moreover, no comparison has been made between these different non-invasive&#xD;
+      oxygenation strategies.&#xD;
+&#xD;
+      The aim of this study is to compare different non-invasive oxygenation strategies (HFNC, NIV,&#xD;
+      CPAP) on MV requirement and outcome in ICU patients treated for ARDS related to Covid-19.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Retrospective multicenter observational registry in French intensive care unit including all&#xD;
+      consecutive patients admitted for acute respiratory distress syndrome related to SARS-CoV-2&#xD;
+      pneumonia between1st July and 31th December 2020.&#xD;
+&#xD;
+      Patients characteristics, ICU treatments and outcome will be recorded.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">July 1, 2020</start_date>
+  <completion_date type="Actual">December 15, 2020</completion_date>
+  <primary_completion_date type="Actual">December 15, 2020</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Retrospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Refractory hypoxemia</measure>
+    <time_frame>Through Intensive Care Unit stay, an average of 15 days</time_frame>
+    <description>Rate of refractory hypoxemia outcome defined by invasive Mechanical Ventilation (endotracheal intubation) requirement or death of non-intubated patients because of therapeutical limitation</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Mechanical Ventilation free days</measure>
+    <time_frame>Through Intensive Care Unit stay, up to 1 month</time_frame>
+    <description>Numbers of days without invasive mechanical ventilation during ICU stay and until ICU discharge</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Survival at ICU discharge</measure>
+    <time_frame>At the moment of Intensive care unit discharge, up to 1 month</time_frame>
+    <description>Rate of patients alive at the moment of intensive care unit discharge</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ICU length of stay</measure>
+    <time_frame>At the moment of Intensive care unit discharge, up to 1 month</time_frame>
+    <description>Number of days spent in Intensive care unit</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Complications during ICU stay</measure>
+    <time_frame>Through Intensive Care Unit stay, up to 1 month</time_frame>
+    <description>Number of complications during intensive care unit stay: pneumothorax, pneumomediastinum</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Delay between admission and intubation</measure>
+    <time_frame>Through Intensive Care Unit stay, up to 1 month</time_frame>
+    <description>Period of time (in hours or days) between admission in Intensive Care Unit and intubation requirement with invasive mechanical ventilation.</description>
+  </secondary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Actual">300</enrollment>
+  <condition>Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2)</condition>
+  <arm_group>
+    <arm_group_label>High Flow Nasal Cannula oxygen therapy treatment</arm_group_label>
+    <description>Patients treated only by high flow nasal cannula oxygen therapy</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Non-Invasive Ventilation treatment</arm_group_label>
+    <description>Patients treated by non-invasive ventilation (combined or not with HFNC)</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Continuous Positive Airway Pressure treatment</arm_group_label>
+    <description>Patients treated by continuous positive airway pressure (combined or not with HFNC)</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Use of High Flow Nasal Cannula alone</intervention_name>
+    <description>Use of high flow nasal cannula oxygen therapy alone</description>
+    <arm_group_label>High Flow Nasal Cannula oxygen therapy treatment</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Use of Non-invasive Ventilation</intervention_name>
+    <description>Use of non-invasive ventilation combined or not with high flow nasal cannula oxygen therapy</description>
+    <arm_group_label>Non-Invasive Ventilation treatment</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Use of Continuous Positive Airway Pressure</intervention_name>
+    <description>Use of continuous positive airway pressure combined or not with high flow nasal cannula oxygen therapy</description>
+    <arm_group_label>Continuous Positive Airway Pressure treatment</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All consecutive patients admitted in intensive care unit for an acute respiratory distress&#xD;
+        syndrome related to a documented SARS-CoV-2 disease&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  patients admitted in intensive care unit because of a SARS-CoV-2 infection confirmed&#xD;
+             by PCR wherever was collected the analyzed sample&#xD;
+&#xD;
+          -  acute respiratory distress syndrome according to Berlin criteria&#xD;
+&#xD;
+          -  age superior or equal to 18 years old&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  patient opposition to participate in the study&#xD;
+&#xD;
+          -  patients under judicial protection measures&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jonathan Chelly, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Centre Hospitalier Intercommunal Toulon La Seyne sur Mer</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Centre Hospitalier de Bethune</name>
+      <address>
+        <city>Béthune</city>
+        <state>Nord-Pas-de-Calais</state>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Grand Hôpital de l'Est Francilien</name>
+      <address>
+        <city>Jossigny</city>
+        <state>Seine-et-Marne</state>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Groupe Hospitalier Sud Ile de France</name>
+      <address>
+        <city>Melun</city>
+        <state>Seine-et-Marne</state>
+        <zip>77000</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Intercommunal Toulon La Seyne sur Mer</name>
+      <address>
+        <city>Toulon</city>
+        <state>Var</state>
+        <zip>83056</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <reference>
+    <citation>COVID-ICU Group on behalf of the REVA Network and the COVID-ICU Investigators. Clinical characteristics and day-90 outcomes of 4244 critically ill adults with COVID-19: a prospective cohort study. Intensive Care Med. 2021 Jan;47(1):60-73. doi: 10.1007/s00134-020-06294-x. Epub 2020 Oct 29.</citation>
+    <PMID>33211135</PMID>
+  </reference>
+  <reference>
+    <citation>Alhazzani W, Møller MH, Arabi YM, Loeb M, Gong MN, Fan E, Oczkowski S, Levy MM, Derde L, Dzierba A, Du B, Aboodi M, Wunsch H, Cecconi M, Koh Y, Chertow DS, Maitland K, Alshamsi F, Belley-Cote E, Greco M, Laundy M, Morgan JS, Kesecioglu J, McGeer A, Mermel L, Mammen MJ, Alexander PE, Arrington A, Centofanti JE, Citerio G, Baw B, Memish ZA, Hammond N, Hayden FG, Evans L, Rhodes A. Surviving Sepsis Campaign: guidelines on the management of critically ill adults with Coronavirus Disease 2019 (COVID-19). Intensive Care Med. 2020 May;46(5):854-887. doi: 10.1007/s00134-020-06022-5. Epub 2020 Mar 28.</citation>
+    <PMID>32222812</PMID>
+  </reference>
+  <reference>
+    <citation>Rochwerg B, Granton D, Wang DX, Helviz Y, Einav S, Frat JP, Mekontso-Dessap A, Schreiber A, Azoulay E, Mercat A, Demoule A, Lemiale V, Pesenti A, Riviello ED, Mauri T, Mancebo J, Brochard L, Burns K. High flow nasal cannula compared with conventional oxygen therapy for acute hypoxemic respiratory failure: a systematic review and meta-analysis. Intensive Care Med. 2019 May;45(5):563-572. doi: 10.1007/s00134-019-05590-5. Epub 2019 Mar 19.</citation>
+    <PMID>30888444</PMID>
+  </reference>
+  <reference>
+    <citation>Nightingale R, Nwosu N, Kutubudin F, Fletcher T, Lewis J, Frost F, Haigh K, Robinson R, Kumar A, Jones G, Brown D, Abouyannis M, Beadsworth M, Hampshire P, Aston S, Gautam M, Burhan H. Is continuous positive airway pressure (CPAP) a new standard of care for type 1 respiratory failure in COVID-19 patients? A retrospective observational study of a dedicated COVID-19 CPAP service. BMJ Open Respir Res. 2020 Jul;7(1). pii: e000639. doi: 10.1136/bmjresp-2020-000639.</citation>
+    <PMID>32624495</PMID>
+  </reference>
+  <reference>
+    <citation>Avdeev SN, Yaroshetskiy AI, Tsareva NA, Merzhoeva ZM, Trushenko NV, Nekludova GV, Chikina SY. Noninvasive ventilation for acute hypoxemic respiratory failure in patients with COVID-19. Am J Emerg Med. 2021 Jan;39:154-157. doi: 10.1016/j.ajem.2020.09.075. Epub 2020 Oct 1.</citation>
+    <PMID>33067061</PMID>
+  </reference>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>January 21, 2021</study_first_submitted>
+  <study_first_submitted_qc>January 25, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">January 26, 2021</study_first_posted>
+  <last_update_submitted>January 25, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 25, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 26, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Novel coronavirus disease 2019 (COVID-19)</keyword>
+  <keyword>Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)</keyword>
+  <keyword>Acute respiratory distress syndrome</keyword>
+  <keyword>High flow nasal canula oxygen</keyword>
+  <keyword>Non-invasive ventilation</keyword>
+  <keyword>Continuous positive airway pressure</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Coronavirus Infections</mesh_term>
+    <mesh_term>Severe Acute Respiratory Syndrome</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Newborn</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Adult</mesh_term>
+    <mesh_term>Acute Lung Injury</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

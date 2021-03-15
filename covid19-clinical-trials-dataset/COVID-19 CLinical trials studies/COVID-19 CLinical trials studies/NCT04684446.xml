@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1480">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04684446</url>
+  </required_header>
+  <id_info>
+    <org_study_id>D8111C00003</org_study_id>
+    <nct_id>NCT04684446</nct_id>
+  </id_info>
+  <brief_title>AZD1222 Vaccine in Combination With rAd26-S (Component of Gam-COVID-Vac Vaccine) for the Prevention of COVID-19</brief_title>
+  <official_title>A Phase I/II Open-label Randomized Study in Adults to Determine the Safety and Immunogenicity of AZD1222, a Non-replicating ChAdOx1 Vector Vaccine, Given in Combination With rAd26-S, Recombinant Adenovirus Type 26 Component of Gam-COVID-Vac Vaccine, for the Prevention of COVID 19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>AstraZeneca</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>R-Pharm</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>The Russian Direct Investment Fund (RDIF)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>The Gamaleya National Center of Epidemiology &amp; Microbiology</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>AstraZeneca</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The objective is to evaluate the safety and immunogenicity of AZD1222 given in combination&#xD;
+      with (either before or after) rAd26-S, for the prevention of COVID 19 in adults ≥ 18 years of&#xD;
+      age.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date type="Anticipated">March 16, 2021</start_date>
+  <completion_date type="Anticipated">November 16, 2021</completion_date>
+  <primary_completion_date type="Anticipated">November 16, 2021</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of local and systemic solicited AEs for 7 days post each dose Incidence of unsolicited AEs for 28 days post each dose Incidence of SAEs and AESIs to 28 days post second dose</measure>
+    <time_frame>180 days</time_frame>
+    <description>Incidence of local and systemic solicited AEs for 7 days post each dose&#xD;
+Incidence of unsolicited AEs for 28 days post each dose&#xD;
+Incidence of SAEs and AESIs to 28 days post second dose</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>The proportion of participants who have a post treatment seroresponse (≥ 4-fold rise in titres from Day 1 baseline value) to Spike antigen (MSD serology assay) at Day 57</measure>
+    <time_frame>57 days</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of SAEs and AE of Special Interest until study end</measure>
+    <time_frame>180 days</time_frame>
+    <description>Safety</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>SARS-CoV-2 antigen-specific antibody levels</measure>
+    <time_frame>57 days</time_frame>
+    <description>immunogenicity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To assess antibody responses</measure>
+    <time_frame>Up to 180 days</time_frame>
+    <description>immunogenicity</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quantity of SARS-CoV-2 neutralizing antibodies</measure>
+    <time_frame>Up to 180 days</time_frame>
+    <description>immunogenicity</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Arm 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>AZD1222 on Day 1 followed by rAd26-S on Day 29</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>rAd26-S on Day 1 followed by AZD1222 on Day 29</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>AZD1222</intervention_name>
+    <description>Participants will receive 1 intramuscular (IM) injection of 5 ×1010 viral particles (vp) (nominal) of AZD1222 on Day 1 followed by rAd26-S 1×1011 viral particles (vp) (nominal) on Day 29 of the study</description>
+    <arm_group_label>Arm 1</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>rAd26-S</intervention_name>
+    <description>Participants will receive 1 IM injection of rAd26-S on Day 1 followed by AZD1222 on Day 29</description>
+    <arm_group_label>Arm 2</arm_group_label>
+    <other_name>Sputnik V</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Adults ≥ 18 years of age at the time of signing the informed consent&#xD;
+&#xD;
+          2. Healthy or medically stable&#xD;
+&#xD;
+          3. Reproduction:&#xD;
+&#xD;
+        Female participants of childbearing potential should use appropriate contraception through&#xD;
+        60 days following administration of the second dose&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Medical Conditions&#xD;
+&#xD;
+          1. Known past laboratory-confirmed SARS-CoV-2 infection.&#xD;
+&#xD;
+          2. Positive SARS-CoV-2 RT PCR test at screening.&#xD;
+&#xD;
+          3. Seropositivity to SARS-CoV-2 at screening.&#xD;
+&#xD;
+          4. Significant infection or other illness, including fever &gt; 37.8°C on the day prior to&#xD;
+             or day of randomisation&#xD;
+&#xD;
+          5. Any confirmed or suspected immunosuppressive or immunodeficient state; asplenia;&#xD;
+             recurrent severe infections and use of immunosuppressant medication within the past 6&#xD;
+             months, except topical steroids or short-term oral steroids (course lasting ≤ 14&#xD;
+             days).&#xD;
+&#xD;
+          6. History of allergy to any component of the vaccine&#xD;
+&#xD;
+          7. Any history of anaphylaxis or angioedema.&#xD;
+&#xD;
+          8. Current diagnosis of or treatment for cancer (except basal cell carcinoma of the skin&#xD;
+             and uterine cervical carcinoma in situ).&#xD;
+&#xD;
+          9. History of serious psychiatric condition likely to affect participation in the study.&#xD;
+&#xD;
+         10. Bleeding disorder (eg, factor deficiency, coagulopathy or platelet disorder), or prior&#xD;
+             history of significant bleeding or bruising following IM injections or venepuncture.&#xD;
+&#xD;
+         11. Suspected or known current alcohol or drug dependency.&#xD;
+&#xD;
+         12. History of Guillan-Barré syndrome or any other demyelinating condition.&#xD;
+&#xD;
+         13. Any other significant disease, disorder or finding which may significantly increase&#xD;
+             the risk to the participant because of participation in the study, affect the ability&#xD;
+             of the participant to participate in the study or impair interpretation of the study&#xD;
+             data.&#xD;
+&#xD;
+         14. Severe and/or uncontrolled cardiovascular disease, respiratory disease,&#xD;
+             gastrointestinal disease, liver disease, renal disease, endocrine disorder and&#xD;
+             neurological illness (mild/moderate well controlled comorbidities are allowed).&#xD;
+&#xD;
+             Prior/Concomitant Therapy&#xD;
+&#xD;
+         15. Receipt of any vaccine (licensed or investigational) other than the study intervention&#xD;
+             within 30 days before and after each study vaccination.&#xD;
+&#xD;
+         16. Prior or planned receipt of an investigational or licensed vaccine or product likely&#xD;
+             to impact on interpretation of the trial data (eg, adenovirus vectored vaccines, any&#xD;
+             coronavirus vaccines).&#xD;
+&#xD;
+         17. Administration of immunoglobulins and/or any blood products within the 3 months&#xD;
+             preceding the planned administration of the vaccine candidate.&#xD;
+&#xD;
+         18. Continuous use of anticoagulants, such as coumarins and related anticoagulants (ie,&#xD;
+             warfarin) or novel oral anticoagulants (ie, apixaban, rivaroxaban, dabigatran and&#xD;
+             edoxaban).&#xD;
+&#xD;
+             Prior/Concurrent Clinical Study Experience&#xD;
+&#xD;
+         19. Participation in COVID-19 prophylactic drug trials for the duration of the study.&#xD;
+&#xD;
+             Other Exclusions&#xD;
+&#xD;
+         20. For female subjects only - currently pregnant (confirmed with positive pregnancy test)&#xD;
+             or breastfeeding.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>130 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>AstraZeneca Clinical Study Information Center</last_name>
+    <phone>1-877-240-9479</phone>
+    <email>information.center@astrazeneca.com</email>
+  </overall_contact>
+  <verification_date>December 2020</verification_date>
+  <study_first_submitted>December 23, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 23, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 24, 2020</study_first_posted>
+  <last_update_submitted>December 30, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 30, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 5, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>COVID-19 Prevention</keyword>
+  <keyword>AZD1222 vaccine</keyword>
+  <keyword>rAd26-S</keyword>
+  <keyword>Sputnik V</keyword>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>Qualified researchers can request access to anonymized individual patient-level data from AstraZeneca group of companies sponsored clinical trials via the request portal. All request will be evaluated as per the AZ disclosure commitment: https://astrazenecagrouptrials.pharmacm.com/ST/Submission/Disclosure</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>AstraZeneca will meet or exceed data availability as per the commitments made to the EFPIA Pharma Data Sharing Principles. For details of our timelines, please rerefer to our disclosure commitment at https://astrazenecagrouptrials.pharmacm.com/ST/Submission/Disclosure</ipd_time_frame>
+    <ipd_access_criteria>When a request has been approved AstraZeneca will provide access to the de-identified individual patient-level data in an approved sponsored tool . Signed Data Sharing Agreement (non-negotiable contract for data accessors) must be in place before accessing requested information. Additionally, all users will need to accept the terms and conditions of the SAS MSE to gain access. For additional details, please review the Disclosure Statements at https://astrazenecagrouptrials.pharmacm.com/ST/Submission/Disclosure</ipd_access_criteria>
+    <ipd_url>https://astrazenecagroup-dt.pharmacm.com/DT/Home</ipd_url>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

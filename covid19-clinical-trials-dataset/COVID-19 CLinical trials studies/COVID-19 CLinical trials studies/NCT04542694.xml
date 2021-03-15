@@ -1,0 +1,1326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="1422">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 08, 2021</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04542694</url>
+  </required_header>
+  <id_info>
+    <org_study_id>FAV052020</org_study_id>
+    <nct_id>NCT04542694</nct_id>
+  </id_info>
+  <brief_title>Study of Favipiravir Compared to Standard of Care in Hospitalized Patients With COVID-19</brief_title>
+  <official_title>Open-label Randomized Multicenter Comparative Study on the Efficacy and Safety of Areplivir Film-coated Tablets (PROMOMED RUS LLC, Russia) in Patients Hospitalized With COVID-19</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Promomed, LLC</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Promomed, LLC</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is open-labe randomized multicenter comparative Phase III study conducted in 5 medical&#xD;
+      facilities. The objective of the study is to assess the efficacy and safety of Favipiravir&#xD;
+      compared with the Standard of care (SOC) in hospitalized patients with moderate COVID-19&#xD;
+      pneumonia.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Upon signing the informed consent form and screening, 200 eligible patients with polymerase&#xD;
+      chain reaction (PCR) confirmed COVID-19 are randomized at a 1:1 ratio to receive either&#xD;
+      Favipiravir 1600 mg twice a day (BID) on Day 1 followed by 600 mg BID on Days 2-14 (1600/600&#xD;
+      mg), or SOC. The course of treatment by Favipiravir is 14 days.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">May 21, 2020</start_date>
+  <completion_date type="Actual">August 20, 2020</completion_date>
+  <primary_completion_date type="Actual">August 10, 2020</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Rate of Clinical Status Improvement</measure>
+    <time_frame>By Visit 3, approximately 10 days</time_frame>
+    <description>Rate of clinical status improvement by categorical ordinal scale of clinical status improvement by 2 or more categories by Day 10 WHO Ordinal Scale for Clinical Improvement (WHO-OSCI), 0 - uninfected (There are no clinical and virological signs of infection), 8 - dead, higher scores mean a worse outcome</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Time to Clinical Improvement</measure>
+    <time_frame>28 days</time_frame>
+    <description>Time (in days) to improvement in clinical status by WHO categorical ordinal scale of clinical status improvement.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Rate of Viral Elimination by Day 10</measure>
+    <time_frame>10 days</time_frame>
+    <description>Percentage of patients with elimination (clearance) of COVID-19 according to PCR data by day 10 (negative PCR results).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time Before the End of Fever</measure>
+    <time_frame>28 days</time_frame>
+    <description>Time (in days) before the end of fever (body temperature &lt; 37.2 ° C for 3 consecutive days without antipyretic medication).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in the Level of Lung Damage According to CT</measure>
+    <time_frame>Days 15, 21, 28</time_frame>
+    <description>Assessment of lung injury (degree of damage by &quot;empirical&quot; visual scale and % of patients) according to CT data comparing to baseline. The number of patients in whom by the end of therapy there was an improvement in the condition of the lungs (a decrease in the volume of the lesion according to CT)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of Transfer to the Intensive Care Unit</measure>
+    <time_frame>28 Days</time_frame>
+    <description>Percentage of patients transferred to intensive care unit (% of patients).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of the Use of Non-invasive Lung Ventilation</measure>
+    <time_frame>28 Days</time_frame>
+    <description>Percentage of cases with non-invasive lung ventilation (% of patients).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of the Use of Mechanical Ventilation</measure>
+    <time_frame>28 Days</time_frame>
+    <description>Percentage of cases with mechanical lung ventilation (% of patients)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>28 Days</time_frame>
+    <description>Incidence of fatal cases (% of patients)</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">200</enrollment>
+  <condition>COVID-19</condition>
+  <arm_group>
+    <arm_group_label>Favipiravir (Areplivir)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Arm 1 (n=100) receives the study drug Areplivir film-coated tablets:&#xD;
+on day 1 of therapy - 1600 mg (8 tablets) 2 times a day; on days 2-14 of treatment - 600 mg (3 tablets) 2 times a day. The drug is taken orally every 12 hours, swallowing whole tablet without chewing and washing down with a glass of water. The course of treatment is 14 days. The test drug is administered in hospital setting under supervision of a clinical investigator. The test drug is not handed over to the patient.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Standard of care</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Arm 2 (n=100) patients receive standard therapy prescribed in accordance with the recommended treatment regimens included in the Interim Guidelines for the prevention, diagnosis and treatment of new coronavirus infection (COVID-19) approved by the Russian Ministry of Health (but not Favipiravir) by decision of the investigator and taking into account the availability of drugs at the study site. Might include hydroxychloroquine (with or without azithromycin), chloroquine, lopinavir/ritonavir or other recommended schemes.&#xD;
+Standard therapy is administered in hospital setting. Discharge of patients from a hospital is carried out in accordance with the local practice of the study site in compliance with the current sanitary and epidemiological regime.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Favipiravir</intervention_name>
+    <description>200 mg coated tablets</description>
+    <arm_group_label>Favipiravir (Areplivir)</arm_group_label>
+    <other_name>AREPLIVIR</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Standard of care</intervention_name>
+    <description>Drug: Standard of Care Standard of Care will be prescribed in accordance with the recommended treatment regimens presented in the Russian guidelines for the prevention, diagnosis and treatment of COVID-19 according to the decision of the Investigator.&#xD;
+Other Name: Hydroxychloroquine, chloroquine, lopinavir/ritonavir, etc.</description>
+    <arm_group_label>Standard of care</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Signing and dating of the Informed Consent Form of the Patient Information Leaflet&#xD;
+             (PIL) by patients.&#xD;
+&#xD;
+          2. Men and women aged 18 to 80 years inclusive at the time of signing the Informed&#xD;
+             Consent Form in PIL.&#xD;
+&#xD;
+          3. No difficulty with oral medication (e.g. swallowing disorder).&#xD;
+&#xD;
+          4. Patient diagnosed with &quot;Coronavirus infection caused by SARS-CoV-2 (confirmed)1,&#xD;
+             moderate severity form*&quot; established in accordance with the Interim Guidelines of the&#xD;
+             Russian Ministry of Health for the prevention, diagnosis and treatment of a new&#xD;
+             coronavirus infection (COVID-19), (revision 6 of 28.04.2020).&#xD;
+&#xD;
+             *Moderate severity form: fever above 38 °C, BR above 22/min, dyspnea during exercise,&#xD;
+             pneumonia (confirmed by lung CT), SpO2 &lt; 95%, C reactive protein (CRP) serum level&#xD;
+             above 10 mg/l.&#xD;
+&#xD;
+          5. Patient should be hospitalized no more than 48 hours before the start of the study&#xD;
+             therapy.&#xD;
+&#xD;
+          6. Positive PCR result for presence of SARS-CoV-2 RNA at screening phase (results&#xD;
+             obtained within 7 days prior to screening are appropriate).&#xD;
+&#xD;
+          7. Patient's consent to use reliable contraceptive methods throughout the study and&#xD;
+             within 1 month for women and 3 months for men after its completion. Persons eligible&#xD;
+             for participation in the study: - Women who have a negative pregnancy test and use the&#xD;
+             following contraceptives: barrier method (condom or occlusive cap (diaphragm or&#xD;
+             cervical/vaulted cap)) or double barrier method of contraception (condom or occlusive&#xD;
+             cap (diaphragm or cervical/vaulted cap) plus spermicide&#xD;
+             (foam/gel/film/cream/suppository)). Women incapable of childbearing may also&#xD;
+             participate in the study (with past history of: hysterectomy, tubal ligation,&#xD;
+             infertility, menopause more than 1 year) or men with preserved reproductive function&#xD;
+             who use barrier contraceptives, as well as men with infertility or vasectomy in the&#xD;
+             past medical history.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. Hypersensitivity to favipiravir and/or other components of the study drug.&#xD;
+&#xD;
+          2. Impossibility of CT procedure (for example, gypsum dressing or metal structures in the&#xD;
+             field of imaging).&#xD;
+&#xD;
+          3. The need to use drugs from the list of prohibited therapy.&#xD;
+&#xD;
+          4. Need for treatment in the intensive care unit.&#xD;
+&#xD;
+          5. Impaired liver function (AST and/or ALT ≥ 2 UNL and/or total bilirubin ≥ 1.5 UNL) at&#xD;
+             the time of screening.&#xD;
+&#xD;
+          6. Impaired kidney function (creatinine clearance according to Cockcroft-Gault formula&#xD;
+             less than 45 ml/min) at the time of screening.&#xD;
+&#xD;
+          7. Positive testing for HIV, syphilis, hepatitis B and/or C.&#xD;
+&#xD;
+          8. Chronic heart failure FC III-IV according to New York Heart Association (NYHA)&#xD;
+             functional classification.&#xD;
+&#xD;
+          9. Malabsorption syndrome or other clinically significant gastrointestinal disease that&#xD;
+             may affect absorption of the study drug (non-correctable vomiting, diarrhea,&#xD;
+             ulcerative colitis, and others).&#xD;
+&#xD;
+         10. Malignancies in the past medical history.&#xD;
+&#xD;
+         11. Alcohol, pharmacological and/or drug addiction in the past medical history and/or at&#xD;
+             the time of screening.&#xD;
+&#xD;
+         12. Schizophrenia, schizoaffective disorder, bipolar disorder, or other history of mental&#xD;
+             pathology or suspicion of their presence at the time of screening.&#xD;
+&#xD;
+         13. Severe, decompensated or unstable somatic diseases (any disease or condition that&#xD;
+             threaten the patient's life or impair the patient's prognosis, and also make it&#xD;
+             impossible for him/her to participate in the clinical study).&#xD;
+&#xD;
+         14. Any history data that the investigating physician believes could lead to complication&#xD;
+             in the interpretation of the study results or create an additional risk to the patient&#xD;
+             as a result of his/her participation in the study.&#xD;
+&#xD;
+         15. Patient's unwillingness or inability to comply with procedures of the Study Protocol&#xD;
+             (in the opinion of physician investigator).&#xD;
+&#xD;
+         16. Pregnant or nursing women or women planning pregnancy.&#xD;
+&#xD;
+         17. Participation in another clinical study for 3 months prior to inclusion in the study.&#xD;
+&#xD;
+         18. Other conditions that, according to the physician investigator, prevent the patient&#xD;
+             from being included in the study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Dmitriy Pushkar</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Moscow State Clinical Hospital №50</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>State Clinical Hospital №50</name>
+      <address>
+        <city>Moscow</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Regional Clinic Hospital of Ryazan</name>
+      <address>
+        <city>Ryazan'</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>City Hospital N40 of Kurortny District</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medical institute Ogarev Mordovia State university</name>
+      <address>
+        <city>Saransk</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Smolensk clinical hospital №1</name>
+      <address>
+        <city>Smolensk</city>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Russian Federation</country>
+  </location_countries>
+  <verification_date>November 2020</verification_date>
+  <study_first_submitted>September 4, 2020</study_first_submitted>
+  <study_first_submitted_qc>September 4, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 9, 2020</study_first_posted>
+  <results_first_submitted>October 11, 2020</results_first_submitted>
+  <results_first_submitted_qc>November 3, 2020</results_first_submitted_qc>
+  <results_first_posted type="Actual">November 5, 2020</results_first_posted>
+  <last_update_submitted>November 3, 2020</last_update_submitted>
+  <last_update_submitted_qc>November 3, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 5, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Favipiravir</keyword>
+  <keyword>Areplivir</keyword>
+  <keyword>COVID-19</keyword>
+  <keyword>SARS-CoV-2</keyword>
+  <keyword>2019-nCoV</keyword>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>June 10, 2020</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/94/NCT04542694/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <pre_assignment_details>The study will randomize 200 patients. Given the possible non-inclusion of patients at the screening stage, the maximum number of patients to sign the Informed Consent Form in the Patient Information Leaflet and to participate in screening can be no more than 210 people.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Favipiravir (Areplivir)</title>
+          <description>Arm 1 (n=100) receives the study drug Areplivir film-coated tablets:&#xD;
+on day 1 of therapy - 1600 mg (8 tablets) 2 times a day; on days 2-14 of treatment - 600 mg (3 tablets) 2 times a day. The drug is taken orally every 12 hours, swallowing whole tablet without chewing and washing down with a glass of water. The course of treatment is 14 days. The test drug is administered in hospital setting under supervision of a clinical investigator. The test drug is not handed over to the patient.&#xD;
+Favipiravir: 200 mg coated tablets</description>
+        </group>
+        <group group_id="P2">
+          <title>Standard of Care</title>
+          <description>Arm 2 (n=100) patients receive standard therapy prescribed in accordance with the recommended treatment regimens included in the Interim Guidelines for the prevention, diagnosis and treatment of new coronavirus infection (COVID-19) approved by the Russian Ministry of Health (but not Favipiravir) by decision of the investigator and taking into account the availability of drugs at the study site. Might include hydroxychloroquine (with or without azithromycin), chloroquine, lopinavir/ritonavir or other recommended schemes.&#xD;
+Standard therapy is administered in hospital setting. Discharge of patients from a hospital is carried out in accordance with the local practice of the study site in compliance with the current sanitary and epidemiological regime.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="100"/>
+                <participants group_id="P2" count="100"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="96"/>
+                <participants group_id="P2" count="100"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="4"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>The need for prohibited therapy</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Adverse Event</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Protocol Violation</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Favipiravir (Areplivir)</title>
+          <description>Arm 1 (n=100) receives the study drug Areplivir film-coated tablets:&#xD;
+on day 1 of therapy - 1600 mg (8 tablets) 2 times a day; on days 2-14 of treatment - 600 mg (3 tablets) 2 times a day. The drug is taken orally every 12 hours, swallowing whole tablet without chewing and washing down with a glass of water. The course of treatment is 14 days. The test drug is administered in hospital setting under supervision of a clinical investigator. The test drug is not handed over to the patient.&#xD;
+Favipiravir: 200 mg coated tablets</description>
+        </group>
+        <group group_id="B2">
+          <title>Standard of Care</title>
+          <description>Arm 2 (n=100) patients receive standard therapy prescribed in accordance with the recommended treatment regimens included in the Interim Guidelines for the prevention, diagnosis and treatment of new coronavirus infection (COVID-19) approved by the Russian Ministry of Health (but not Favipiravir) by decision of the investigator and taking into account the availability of drugs at the study site. Might include hydroxychloroquine (with or without azithromycin), chloroquine, lopinavir/ritonavir or other recommended schemes.&#xD;
+Standard therapy is administered in hospital setting. Discharge of patients from a hospital is carried out in accordance with the local practice of the study site in compliance with the current sanitary and epidemiological regime.&#xD;
+Standard of care: Drug: Standard of Care Standard of Care will be prescribed in accordance with the recommended treatment regimens presented in the Russian guidelines for the prevention, diagnosis and treatment of COVID-19 according to the decision of the Investigator.&#xD;
+Other Name: Hydroxychloroquine, chloroquine, lopinavir/ritonavir, etc.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="100"/>
+            <count group_id="B2" value="100"/>
+            <count group_id="B3" value="200"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="100"/>
+                    <count group_id="B2" value="100"/>
+                    <count group_id="B3" value="200"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="49.38" spread="13.18"/>
+                    <measurement group_id="B2" value="49.98" spread="13.06"/>
+                    <measurement group_id="B3" value="49.68" spread="13.09"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="100"/>
+                    <count group_id="B2" value="100"/>
+                    <count group_id="B3" value="200"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="49"/>
+                    <measurement group_id="B2" value="54"/>
+                    <measurement group_id="B3" value="103"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="51"/>
+                    <measurement group_id="B2" value="46"/>
+                    <measurement group_id="B3" value="97"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race and Ethnicity Not Collected</title>
+          <population>Race and Ethnicity were not collected from any participant.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="0"/>
+                    <count group_id="B2" value="0"/>
+                    <count group_id="B3" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>Russia</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="100"/>
+                    <count group_id="B2" value="100"/>
+                    <count group_id="B3" value="200"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="100"/>
+                    <measurement group_id="B2" value="100"/>
+                    <measurement group_id="B3" value="200"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Rate of Clinical Status Improvement</title>
+        <description>Rate of clinical status improvement by categorical ordinal scale of clinical status improvement by 2 or more categories by Day 10 WHO Ordinal Scale for Clinical Improvement (WHO-OSCI), 0 - uninfected (There are no clinical and virological signs of infection), 8 - dead, higher scores mean a worse outcome</description>
+        <time_frame>By Visit 3, approximately 10 days</time_frame>
+        <population>Intent-tо-treat population</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Favipiravir (Areplivir)</title>
+            <description>Arm 1 (n=100) receives the study drug Areplivir film-coated tablets:&#xD;
+on day 1 of therapy - 1600 mg (8 tablets) 2 times a day; on days 2-14 of treatment - 600 mg (3 tablets) 2 times a day. The drug is taken orally every 12 hours, swallowing whole tablet without chewing and washing down with a glass of water. The course of treatment is 14 days. The test drug is administered in hospital setting under supervision of a clinical investigator. The test drug is not handed over to the patient.&#xD;
+Favipiravir: 200 mg coated tablets</description>
+          </group>
+          <group group_id="O2">
+            <title>Standard of Care</title>
+            <description>Arm 2 (n=100) patients receive standard therapy prescribed in accordance with the recommended treatment regimens included in the Interim Guidelines for the prevention, diagnosis and treatment of new coronavirus infection (COVID-19) approved by the Russian Ministry of Health (but not Favipiravir) by decision of the investigator and taking into account the availability of drugs at the study site. Might include hydroxychloroquine (with or without azithromycin), chloroquine, lopinavir/ritonavir or other recommended schemes.&#xD;
+Standard therapy is administered in hospital setting. Discharge of patients from a hospital is carried out in accordance with the local practice of the study site in compliance with the current sanitary and epidemiological regime.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Rate of Clinical Status Improvement</title>
+          <description>Rate of clinical status improvement by categorical ordinal scale of clinical status improvement by 2 or more categories by Day 10 WHO Ordinal Scale for Clinical Improvement (WHO-OSCI), 0 - uninfected (There are no clinical and virological signs of infection), 8 - dead, higher scores mean a worse outcome</description>
+          <population>Intent-tо-treat population</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="100"/>
+                <count group_id="O2" value="100"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="27"/>
+                    <measurement group_id="O2" value="15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>A comparative analysis of the rate of clinical status improvement by 2 or more categories. The difference in percentages between the AREPLIVIR arm and the standard therapy arm (pa-pb)</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.0372</p_value>
+            <method>Chi-squared</method>
+            <param_type>The difference in proportions</param_type>
+            <param_value>0.1313</param_value>
+            <ci_percent>95</ci_percent>
+            <ci_n_sides>2-Sided</ci_n_sides>
+            <ci_lower_limit>-0.0004</ci_lower_limit>
+            <ci_upper_limit>0.2367</ci_upper_limit>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Time to Clinical Improvement</title>
+        <description>Time (in days) to improvement in clinical status by WHO categorical ordinal scale of clinical status improvement.</description>
+        <time_frame>28 days</time_frame>
+        <population>patients who received at least one dose of the drug in the study and for whom there is data for at least one visit after the baseline</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Favipiravir (Areplivir)</title>
+            <description>Arm 1 (n=100) receives the study drug Areplivir film-coated tablets:&#xD;
+on day 1 of therapy - 1600 mg (8 tablets) 2 times a day; on days 2-14 of treatment - 600 mg (3 tablets) 2 times a day. The drug is taken orally every 12 hours, swallowing whole tablet without chewing and washing down with a glass of water. The course of treatment is 14 days. The test drug is administered in hospital setting under supervision of a clinical investigator. The test drug is not handed over to the patient.&#xD;
+Favipiravir: 200 mg coated tablets</description>
+          </group>
+          <group group_id="O2">
+            <title>Standard of Care</title>
+            <description>Arm 2 (n=100) patients receive standard therapy prescribed in accordance with the recommended treatment regimens included in the Interim Guidelines for the prevention, diagnosis and treatment of new coronavirus infection (COVID-19) approved by the Russian Ministry of Health (but not Favipiravir) by decision of the investigator and taking into account the availability of drugs at the study site. Might include hydroxychloroquine (with or without azithromycin), chloroquine, lopinavir/ritonavir or other recommended schemes.&#xD;
+Standard therapy is administered in hospital setting. Discharge of patients from a hospital is carried out in accordance with the local practice of the study site in compliance with the current sanitary and epidemiological regime.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time to Clinical Improvement</title>
+          <description>Time (in days) to improvement in clinical status by WHO categorical ordinal scale of clinical status improvement.</description>
+          <population>patients who received at least one dose of the drug in the study and for whom there is data for at least one visit after the baseline</population>
+          <units>days</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="100"/>
+                <count group_id="O2" value="100"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8" lower_limit="6" upper_limit="10"/>
+                    <measurement group_id="O2" value="12" lower_limit="7" upper_limit="12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <groups_desc>Comparative analysis of time to clinical status improvement by categorical ordinal clinical improvement scale between the AREPLIVIR arm and the standard therapy arm</groups_desc>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>&lt;0.0001</p_value>
+            <method>Log Rank</method>
+            <param_type>The difference in days</param_type>
+            <param_value>4</param_value>
+            <ci_n_sides>2-Sided</ci_n_sides>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Rate of Viral Elimination by Day 10</title>
+        <description>Percentage of patients with elimination (clearance) of COVID-19 according to PCR data by day 10 (negative PCR results).</description>
+        <time_frame>10 days</time_frame>
+        <population>patients who received at least one dose of the drug in the study and for whom there is data for at least one visit after the baseline</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Favipiravir (Areplivir)</title>
+            <description>Arm 1 (n=100) receives the study drug Areplivir film-coated tablets:&#xD;
+on day 1 of therapy - 1600 mg (8 tablets) 2 times a day; on days 2-14 of treatment - 600 mg (3 tablets) 2 times a day. The drug is taken orally every 12 hours, swallowing whole tablet without chewing and washing down with a glass of water. The course of treatment is 14 days. The test drug is administered in hospital setting under supervision of a clinical investigator. The test drug is not handed over to the patient.&#xD;
+Favipiravir: 200 mg coated tablets</description>
+          </group>
+          <group group_id="O2">
+            <title>Standard of Care</title>
+            <description>Arm 2 (n=100) patients receive standard therapy prescribed in accordance with the recommended treatment regimens included in the Interim Guidelines for the prevention, diagnosis and treatment of new coronavirus infection (COVID-19) approved by the Russian Ministry of Health (but not Favipiravir) by decision of the investigator and taking into account the availability of drugs at the study site. Might include hydroxychloroquine (with or without azithromycin), chloroquine, lopinavir/ritonavir or other recommended schemes.&#xD;
+Standard therapy is administered in hospital setting. Discharge of patients from a hospital is carried out in accordance with the local practice of the study site in compliance with the current sanitary and epidemiological regime.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Rate of Viral Elimination by Day 10</title>
+          <description>Percentage of patients with elimination (clearance) of COVID-19 according to PCR data by day 10 (negative PCR results).</description>
+          <population>patients who received at least one dose of the drug in the study and for whom there is data for at least one visit after the baseline</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="100"/>
+                <count group_id="O2" value="100"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="98"/>
+                    <measurement group_id="O2" value="79"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.00016</p_value>
+            <method>Chi-squared</method>
+            <param_type>The difference in percentages</param_type>
+            <param_value>22.5</param_value>
+            <ci_n_sides>2-Sided</ci_n_sides>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Time Before the End of Fever</title>
+        <description>Time (in days) before the end of fever (body temperature &lt; 37.2 ° C for 3 consecutive days without antipyretic medication).</description>
+        <time_frame>28 days</time_frame>
+        <population>patients who received at least one dose of the drug in the study and for whom there is data for at least one visit after the baseline</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Favipiravir (Areplivir)</title>
+            <description>Arm 1 (n=100) receives the study drug Areplivir film-coated tablets:&#xD;
+on day 1 of therapy - 1600 mg (8 tablets) 2 times a day; on days 2-14 of treatment - 600 mg (3 tablets) 2 times a day. The drug is taken orally every 12 hours, swallowing whole tablet without chewing and washing down with a glass of water. The course of treatment is 14 days. The test drug is administered in hospital setting under supervision of a clinical investigator. The test drug is not handed over to the patient.&#xD;
+Favipiravir: 200 mg coated tablets</description>
+          </group>
+          <group group_id="O2">
+            <title>Standard of Care</title>
+            <description>Arm 2 (n=100) patients receive standard therapy prescribed in accordance with the recommended treatment regimens included in the Interim Guidelines for the prevention, diagnosis and treatment of new coronavirus infection (COVID-19) approved by the Russian Ministry of Health (but not Favipiravir) by decision of the investigator and taking into account the availability of drugs at the study site. Might include hydroxychloroquine (with or without azithromycin), chloroquine, lopinavir/ritonavir or other recommended schemes.&#xD;
+Standard therapy is administered in hospital setting. Discharge of patients from a hospital is carried out in accordance with the local practice of the study site in compliance with the current sanitary and epidemiological regime.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time Before the End of Fever</title>
+          <description>Time (in days) before the end of fever (body temperature &lt; 37.2 ° C for 3 consecutive days without antipyretic medication).</description>
+          <population>patients who received at least one dose of the drug in the study and for whom there is data for at least one visit after the baseline</population>
+          <units>days</units>
+          <param>Median</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="100"/>
+                <count group_id="O2" value="100"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4" lower_limit="2" upper_limit="5"/>
+                    <measurement group_id="O2" value="5" lower_limit="3" upper_limit="7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.052</p_value>
+            <method>Log Rank</method>
+            <param_type>Median Difference (Final Values)</param_type>
+            <param_value>1.55</param_value>
+            <ci_n_sides>2-Sided</ci_n_sides>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in the Level of Lung Damage According to CT</title>
+        <description>Assessment of lung injury (degree of damage by &quot;empirical&quot; visual scale and % of patients) according to CT data comparing to baseline. The number of patients in whom by the end of therapy there was an improvement in the condition of the lungs (a decrease in the volume of the lesion according to CT)</description>
+        <time_frame>Days 15, 21, 28</time_frame>
+        <population>The number of patients in whom by the end of therapy there was an improvement in the condition of the lungs (a decrease in the volume of the lesion according to CT)</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Favipiravir (Areplivir)</title>
+            <description>Arm 1 (n=100) receives the study drug Areplivir film-coated tablets:&#xD;
+on day 1 of therapy - 1600 mg (8 tablets) 2 times a day; on days 2-14 of treatment - 600 mg (3 tablets) 2 times a day. The drug is taken orally every 12 hours, swallowing whole tablet without chewing and washing down with a glass of water. The course of treatment is 14 days. The test drug is administered in hospital setting under supervision of a clinical investigator. The test drug is not handed over to the patient.&#xD;
+Favipiravir: 200 mg coated tablets</description>
+          </group>
+          <group group_id="O2">
+            <title>Standard of Care</title>
+            <description>Arm 2 (n=100) patients receive standard therapy prescribed in accordance with the recommended treatment regimens included in the Interim Guidelines for the prevention, diagnosis and treatment of new coronavirus infection (COVID-19) approved by the Russian Ministry of Health (but not Favipiravir) by decision of the investigator and taking into account the availability of drugs at the study site. Might include hydroxychloroquine (with or without azithromycin), chloroquine, lopinavir/ritonavir or other recommended schemes.&#xD;
+Standard therapy is administered in hospital setting. Discharge of patients from a hospital is carried out in accordance with the local practice of the study site in compliance with the current sanitary and epidemiological regime.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in the Level of Lung Damage According to CT</title>
+          <description>Assessment of lung injury (degree of damage by &quot;empirical&quot; visual scale and % of patients) according to CT data comparing to baseline. The number of patients in whom by the end of therapy there was an improvement in the condition of the lungs (a decrease in the volume of the lesion according to CT)</description>
+          <population>The number of patients in whom by the end of therapy there was an improvement in the condition of the lungs (a decrease in the volume of the lesion according to CT)</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="100"/>
+                <count group_id="O2" value="100"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="60"/>
+                    <measurement group_id="O2" value="40"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.1953</p_value>
+            <method>Chi-squared</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Rate of Transfer to the Intensive Care Unit</title>
+        <description>Percentage of patients transferred to intensive care unit (% of patients).</description>
+        <time_frame>28 Days</time_frame>
+        <population>the number of patients who required transfer to the intensive care unit</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Favipiravir (Areplivir)</title>
+            <description>Arm 1 (n=100) receives the study drug Areplivir film-coated tablets:&#xD;
+on day 1 of therapy - 1600 mg (8 tablets) 2 times a day; on days 2-14 of treatment - 600 mg (3 tablets) 2 times a day. The drug is taken orally every 12 hours, swallowing whole tablet without chewing and washing down with a glass of water. The course of treatment is 14 days. The test drug is administered in hospital setting under supervision of a clinical investigator. The test drug is not handed over to the patient.&#xD;
+Favipiravir: 200 mg coated tablets</description>
+          </group>
+          <group group_id="O2">
+            <title>Standard of Care</title>
+            <description>Arm 2 (n=100) patients receive standard therapy prescribed in accordance with the recommended treatment regimens included in the Interim Guidelines for the prevention, diagnosis and treatment of new coronavirus infection (COVID-19) approved by the Russian Ministry of Health (but not Favipiravir) by decision of the investigator and taking into account the availability of drugs at the study site. Might include hydroxychloroquine (with or without azithromycin), chloroquine, lopinavir/ritonavir or other recommended schemes.&#xD;
+Standard therapy is administered in hospital setting. Discharge of patients from a hospital is carried out in accordance with the local practice of the study site in compliance with the current sanitary and epidemiological regime.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Rate of Transfer to the Intensive Care Unit</title>
+          <description>Percentage of patients transferred to intensive care unit (% of patients).</description>
+          <population>the number of patients who required transfer to the intensive care unit</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="100"/>
+                <count group_id="O2" value="100"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <analysis_list>
+          <analysis>
+            <group_id_list>
+              <group_id>O1</group_id>
+              <group_id>O2</group_id>
+            </group_id_list>
+            <non_inferiority_type>Superiority</non_inferiority_type>
+            <p_value>0.4975</p_value>
+            <method>Chi-squared</method>
+          </analysis>
+        </analysis_list>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Rate of the Use of Non-invasive Lung Ventilation</title>
+        <description>Percentage of cases with non-invasive lung ventilation (% of patients).</description>
+        <time_frame>28 Days</time_frame>
+        <population>the number of patients who required non-invasive lung ventilation</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Favipiravir (Areplivir)</title>
+            <description>Arm 1 (n=100) receives the study drug Areplivir film-coated tablets:&#xD;
+on day 1 of therapy - 1600 mg (8 tablets) 2 times a day; on days 2-14 of treatment - 600 mg (3 tablets) 2 times a day. The drug is taken orally every 12 hours, swallowing whole tablet without chewing and washing down with a glass of water. The course of treatment is 14 days. The test drug is administered in hospital setting under supervision of a clinical investigator. The test drug is not handed over to the patient.&#xD;
+Favipiravir: 200 mg coated tablets</description>
+          </group>
+          <group group_id="O2">
+            <title>Standard of Care</title>
+            <description>Arm 2 (n=100) patients receive standard therapy prescribed in accordance with the recommended treatment regimens included in the Interim Guidelines for the prevention, diagnosis and treatment of new coronavirus infection (COVID-19) approved by the Russian Ministry of Health (but not Favipiravir) by decision of the investigator and taking into account the availability of drugs at the study site. Might include hydroxychloroquine (with or without azithromycin), chloroquine, lopinavir/ritonavir or other recommended schemes.&#xD;
+Standard therapy is administered in hospital setting. Discharge of patients from a hospital is carried out in accordance with the local practice of the study site in compliance with the current sanitary and epidemiological regime.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Rate of the Use of Non-invasive Lung Ventilation</title>
+          <description>Percentage of cases with non-invasive lung ventilation (% of patients).</description>
+          <population>the number of patients who required non-invasive lung ventilation</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="100"/>
+                <count group_id="O2" value="100"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Rate of the Use of Mechanical Ventilation</title>
+        <description>Percentage of cases with mechanical lung ventilation (% of patients)</description>
+        <time_frame>28 Days</time_frame>
+        <population>the number of patients who required mechanical lung ventilation</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Favipiravir (Areplivir)</title>
+            <description>Arm 1 (n=100) receives the study drug Areplivir film-coated tablets:&#xD;
+on day 1 of therapy - 1600 mg (8 tablets) 2 times a day; on days 2-14 of treatment - 600 mg (3 tablets) 2 times a day. The drug is taken orally every 12 hours, swallowing whole tablet without chewing and washing down with a glass of water. The course of treatment is 14 days. The test drug is administered in hospital setting under supervision of a clinical investigator. The test drug is not handed over to the patient.&#xD;
+Favipiravir: 200 mg coated tablets</description>
+          </group>
+          <group group_id="O2">
+            <title>Standard of Care</title>
+            <description>Arm 2 (n=100) patients receive standard therapy prescribed in accordance with the recommended treatment regimens included in the Interim Guidelines for the prevention, diagnosis and treatment of new coronavirus infection (COVID-19) approved by the Russian Ministry of Health (but not Favipiravir) by decision of the investigator and taking into account the availability of drugs at the study site. Might include hydroxychloroquine (with or without azithromycin), chloroquine, lopinavir/ritonavir or other recommended schemes.&#xD;
+Standard therapy is administered in hospital setting. Discharge of patients from a hospital is carried out in accordance with the local practice of the study site in compliance with the current sanitary and epidemiological regime.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Rate of the Use of Mechanical Ventilation</title>
+          <description>Percentage of cases with mechanical lung ventilation (% of patients)</description>
+          <population>the number of patients who required mechanical lung ventilation</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="100"/>
+                <count group_id="O2" value="100"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Mortality</title>
+        <description>Incidence of fatal cases (% of patients)</description>
+        <time_frame>28 Days</time_frame>
+        <population>the number of patients who died</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Favipiravir (Areplivir)</title>
+            <description>Arm 1 (n=100) receives the study drug Areplivir film-coated tablets:&#xD;
+on day 1 of therapy - 1600 mg (8 tablets) 2 times a day; on days 2-14 of treatment - 600 mg (3 tablets) 2 times a day. The drug is taken orally every 12 hours, swallowing whole tablet without chewing and washing down with a glass of water. The course of treatment is 14 days. The test drug is administered in hospital setting under supervision of a clinical investigator. The test drug is not handed over to the patient.&#xD;
+Favipiravir: 200 mg coated tablets</description>
+          </group>
+          <group group_id="O2">
+            <title>Standard of Care</title>
+            <description>Arm 2 (n=100) patients receive standard therapy prescribed in accordance with the recommended treatment regimens included in the Interim Guidelines for the prevention, diagnosis and treatment of new coronavirus infection (COVID-19) approved by the Russian Ministry of Health (but not Favipiravir) by decision of the investigator and taking into account the availability of drugs at the study site. Might include hydroxychloroquine (with or without azithromycin), chloroquine, lopinavir/ritonavir or other recommended schemes.&#xD;
+Standard therapy is administered in hospital setting. Discharge of patients from a hospital is carried out in accordance with the local practice of the study site in compliance with the current sanitary and epidemiological regime.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Mortality</title>
+          <description>Incidence of fatal cases (% of patients)</description>
+          <population>the number of patients who died</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="100"/>
+                <count group_id="O2" value="100"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Post-Hoc</type>
+        <title>Amount of Patients Without Any Clinical Signs of Disease by the Completion of Therapy (Category 0 According to a WHO Categorical Ordinal Scale)</title>
+        <time_frame>10 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Favipiravir (Areplivir)</title>
+            <description>Arm 1 (n=100) receives the study drug Areplivir film-coated tablets:&#xD;
+on day 1 of therapy - 1600 mg (8 tablets) 2 times a day; on days 2-14 of treatment - 600 mg (3 tablets) 2 times a day. The drug is taken orally every 12 hours, swallowing whole tablet without chewing and washing down with a glass of water. The course of treatment is 14 days. The test drug is administered in hospital setting under supervision of a clinical investigator. The test drug is not handed over to the patient.&#xD;
+Favipiravir: 200 mg coated tablets</description>
+          </group>
+          <group group_id="O2">
+            <title>Standard of Care</title>
+            <description>Arm 2 (n=100) patients receive standard therapy prescribed in accordance with the recommended treatment regimens included in the Interim Guidelines for the prevention, diagnosis and treatment of new coronavirus infection (COVID-19) approved by the Russian Ministry of Health (but not Favipiravir) by decision of the investigator and taking into account the availability of drugs at the study site. Might include hydroxychloroquine (with or without azithromycin), chloroquine, lopinavir/ritonavir or other recommended schemes.&#xD;
+Standard therapy is administered in hospital setting. Discharge of patients from a hospital is carried out in accordance with the local practice of the study site in compliance with the current sanitary and epidemiological regime.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Amount of Patients Without Any Clinical Signs of Disease by the Completion of Therapy (Category 0 According to a WHO Categorical Ordinal Scale)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="100"/>
+                <count group_id="O2" value="100"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="44"/>
+                    <measurement group_id="O2" value="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Post-Hoc</type>
+        <title>The Number of Patients Achieved a Category Lower Than or Equal to 2 on the WHO Clinical Improvement Scale (They Were Discharged From Hospital)</title>
+        <time_frame>10 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Favipiravir (Areplivir)</title>
+            <description>Arm 1 (n=100) receives the study drug Areplivir film-coated tablets:&#xD;
+on day 1 of therapy - 1600 mg (8 tablets) 2 times a day; on days 2-14 of treatment - 600 mg (3 tablets) 2 times a day. The drug is taken orally every 12 hours, swallowing whole tablet without chewing and washing down with a glass of water. The course of treatment is 14 days. The test drug is administered in hospital setting under supervision of a clinical investigator. The test drug is not handed over to the patient.&#xD;
+Favipiravir: 200 mg coated tablets</description>
+          </group>
+          <group group_id="O2">
+            <title>Standard of Care</title>
+            <description>Arm 2 (n=100) patients receive standard therapy prescribed in accordance with the recommended treatment regimens included in the Interim Guidelines for the prevention, diagnosis and treatment of new coronavirus infection (COVID-19) approved by the Russian Ministry of Health (but not Favipiravir) by decision of the investigator and taking into account the availability of drugs at the study site. Might include hydroxychloroquine (with or without azithromycin), chloroquine, lopinavir/ritonavir or other recommended schemes.&#xD;
+Standard therapy is administered in hospital setting. Discharge of patients from a hospital is carried out in accordance with the local practice of the study site in compliance with the current sanitary and epidemiological regime.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>The Number of Patients Achieved a Category Lower Than or Equal to 2 on the WHO Clinical Improvement Scale (They Were Discharged From Hospital)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="100"/>
+                <count group_id="O2" value="100"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="90"/>
+                    <measurement group_id="O2" value="67"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Post-Hoc</type>
+        <title>A Number of Patients With Fever Reduction Below 37.2 ° C by the 3rd Day of Therapy</title>
+        <time_frame>3 days</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Favipiravir (Areplivir)</title>
+            <description>Arm 1 (n=100) receives the study drug Areplivir film-coated tablets:&#xD;
+on day 1 of therapy - 1600 mg (8 tablets) 2 times a day; on days 2-14 of treatment - 600 mg (3 tablets) 2 times a day. The drug is taken orally every 12 hours, swallowing whole tablet without chewing and washing down with a glass of water. The course of treatment is 14 days. The test drug is administered in hospital setting under supervision of a clinical investigator. The test drug is not handed over to the patient.&#xD;
+Favipiravir: 200 mg coated tablets</description>
+          </group>
+          <group group_id="O2">
+            <title>Standard of Care</title>
+            <description>Arm 2 (n=100) patients receive standard therapy prescribed in accordance with the recommended treatment regimens included in the Interim Guidelines for the prevention, diagnosis and treatment of new coronavirus infection (COVID-19) approved by the Russian Ministry of Health (but not Favipiravir) by decision of the investigator and taking into account the availability of drugs at the study site. Might include hydroxychloroquine (with or without azithromycin), chloroquine, lopinavir/ritonavir or other recommended schemes.&#xD;
+Standard therapy is administered in hospital setting. Discharge of patients from a hospital is carried out in accordance with the local practice of the study site in compliance with the current sanitary and epidemiological regime.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>A Number of Patients With Fever Reduction Below 37.2 ° C by the 3rd Day of Therapy</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="100"/>
+                <count group_id="O2" value="100"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="60"/>
+                    <measurement group_id="O2" value="37"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Safety assessment was carried out: up to 30 days for each patient and during the entire period of the study as a whole. Safety population: patients who have received at least one dose of the study drug and for whom there is an assessment of condition and/or AE for at least one time point after administration.</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Favipiravir (Areplivir)</title>
+          <description>Arm 1 (n=100) receives the study drug Areplivir film-coated tablets:&#xD;
+on day 1 of therapy - 1600 mg (8 tablets) 2 times a day; on days 2-14 of treatment - 600 mg (3 tablets) 2 times a day. The drug is taken orally every 12 hours, swallowing whole tablet without chewing and washing down with a glass of water. The course of treatment is 14 days. The test drug is administered in hospital setting under supervision of a clinical investigator. The test drug is not handed over to the patient.&#xD;
+Favipiravir: 200 mg coated tablets</description>
+        </group>
+        <group group_id="E2">
+          <title>Standard of Care</title>
+          <description>Arm 2 (n=100) patients receive standard therapy prescribed in accordance with the recommended treatment regimens included in the Interim Guidelines for the prevention, diagnosis and treatment of new coronavirus infection (COVID-19) approved by the Russian Ministry of Health (but not Favipiravir) by decision of the investigator and taking into account the availability of drugs at the study site. Might include hydroxychloroquine (with or without azithromycin), chloroquine, lopinavir/ritonavir or other recommended schemes.&#xD;
+Standard therapy is administered in hospital setting. Discharge of patients from a hospital is carried out in accordance with the local practice of the study site in compliance with the current sanitary and epidemiological regime.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>MedDRA</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="100"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="100"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="100"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="100"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Aortic valve stenosis</sub_title>
+                <description>According to investigators, the causal relationship with the study drug was estimated as &quot;doubtful&quot;, SAE was associated with the presence of concomitant diseases, i.e. type 2 diabetes mellitus, obesity, and hyperthyroidism.</description>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="100"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="100"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Multiple organ failure syndrome</sub_title>
+                <description>According to investigators, the causal relationship with the study drug was estimated as &quot;unrelated&quot;, SAE was associated with the presence of concomitant diseases, i.e. type 2 diabetes mellitus, obesity, and hyperthyroidism.</description>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="100"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="100"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Respiratory failure</sub_title>
+                <description>According to investigators, the causal relationship with the study drug was estimated as &quot;unrelated&quot;, SAE was associated with the presence of concomitant diseases, i.e. type 2 diabetes mellitus, obesity, and hyperthyroidism.</description>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="100"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="100"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_vocab>MedDRA</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="25" subjects_at_risk="100"/>
+                <counts group_id="E2" subjects_affected="28" subjects_at_risk="100"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Hepatobiliary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Increased alanine aminotransferase activity</sub_title>
+                <description>According to investigators, the causal relationship with the study drug was estimated as &quot;unrelated&quot; in 22.2%</description>
+                <counts group_id="E1" subjects_affected="18" subjects_at_risk="100"/>
+                <counts group_id="E2" subjects_affected="19" subjects_at_risk="100"/>
+              </event>
+              <event>
+                <sub_title>Increased aspartate aminotransferase activity</sub_title>
+                <description>According to investigators, the causal relationship with the study drug / standard therapy was estimated as &quot;unrelated&quot; in 69.2% /61.5%</description>
+                <counts group_id="E1" subjects_affected="13" subjects_at_risk="100"/>
+                <counts group_id="E2" subjects_affected="13" subjects_at_risk="100"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Academician Dmitry Pushkar</name_or_title>
+      <organization>A.I. Yevdokimov Moscow State University of Medicine and Dentistry of the Ministry of Healthcare of the Russian Federation</organization>
+      <phone>+7495-609-67-00</phone>
+      <email>dmitry.pushkar@gmail.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+
